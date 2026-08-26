@@ -31,6 +31,7 @@ jobs:
           GROQ_API_KEY_3: ${{ secrets.GROQ_API_KEY_3 }}
           GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
           GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           count=0
           for name in GROQ_API_KEY_1 GROQ_API_KEY_2 GROQ_API_KEY_3 GROQ_API_KEY_4 GROQ_API_KEY_5; do
@@ -43,10 +44,13 @@ jobs:
             fi
           done
           if [ "$count" -eq 0 ]; then
-            echo "Add at least one Groq secret: GROQ_API_KEY_1 through GROQ_API_KEY_5."
-            exit 1
+            legacy=$(printf '%s' "$GROQ_API_KEY" | tr -d '[:space:]')
+            case "$legacy" in
+              gsk_*) count=1; echo "Legacy GROQ_API_KEY is present; use GROQ_API_KEY_1 through GROQ_API_KEY_5 for multi-key rotation." ;;
+              *) echo "Add at least one Groq secret: GROQ_API_KEY_1 through GROQ_API_KEY_5."; exit 1 ;;
+            esac
           fi
-          echo "$count Groq key(s) configured."
+          echo "$count numbered/legacy Groq key(s) configured."
 
       - name: Fetch and summarize new posts
         env:
