@@ -70,7 +70,7 @@ def extract_article(item):
 
 
 def summarize(article):
-    api_key = os.getenv("GROQ_API_KEY", "").strip()
+    api_key = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
     if not api_key:
         raise RuntimeError("GROQ_API_KEY is not configured")
     model = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
