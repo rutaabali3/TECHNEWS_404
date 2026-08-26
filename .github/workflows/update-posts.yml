@@ -41,7 +41,7 @@ jobs:
       - name: Fetch and summarize new posts
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_MODEL: openai/gpt-oss-20b
+          GROQ_MODEL: openai/gpt-oss-120b
         run: python scripts/update_posts.py
 
       - name: Commit updated posts
