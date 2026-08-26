@@ -1,0 +1,25 @@
+# WORKFLOW 420
+
+WORKFLOW 420 is a GitHub-only TechNews Digest. A GitHub Actions job checks the public TechCrunch RSS feed every six hours, fetches newly published articles, asks Groq to create an original summary, stores the structured records in `data/posts.json`, and deploys the static site through GitHub Pages.
+
+## Setup
+
+Create a Groq API key from the Groq console and add it to the repository under **Settings → Secrets and variables → Actions → New repository secret** with the name `GROQ_API_KEY`. The key must never be committed to this repository.
+
+The current workflow uses `openai/gpt-oss-20b`, a model listed in Groq's free-plan rate-limit documentation. You can change the model in `.github/workflows/update-posts.yml` by editing `GROQ_MODEL`.
+
+Enable GitHub Pages under **Settings → Pages** and select **GitHub Actions** as the source. The workflow can also be started manually from the Actions tab using **Update TechCrunch summaries → Run workflow**.
+
+## Data flow
+
+The workflow reads `https://techcrunch.com/feed/`, skips article URLs already present in `data/posts.json`, extracts the article page metadata, sends a limited amount of article text to Groq, and adds the new item at the top of the JSON list. It retains the latest 100 posts.
+
+The webpage displays the title, image, author, original summary, key points, topics, TechCrunch link, and the attribution `Shared via TechNews WhatsApp Channel`. It does not reproduce the full TechCrunch article body.
+
+## Important notes
+
+GitHub Actions is the scheduler and execution environment; no server needs to be managed. The six-hour schedule is defined as `0 */6 * * *` in UTC. Scheduled GitHub Actions can occasionally be delayed by platform load, so the workflow is written to be safe to rerun.
+
+The WhatsApp channel is used as the attribution reference because its public page does not expose a machine-readable post feed. The workflow monitors TechCrunch directly, so its summary wording may not be identical to wording used in the WhatsApp channel.
+
+Groq's free plan is rate limited. If Groq returns a rate-limit or temporary failure, that article is skipped and will be retried on the next run. The job never commits a partial or malformed JSON response.
