@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
-CHANNEL_NAME = "TechNews WhatsApp Channel"
 USER_AGENT = "WORKFLOW-420/1.0 (+https://github.com/rutaabali3/workflow-420)"
 
 
@@ -135,7 +134,7 @@ def main():
                 "topics": generated.get("topics", []),
                 "source_url": article["url"],
                 "source": "TechCrunch",
-                "credit": f"Shared via {CHANNEL_NAME}",
+                "credit": "Source: TechCrunch",
                 "published": article["published"],
                 "processed_at": datetime.now(timezone.utc).isoformat(),
             })

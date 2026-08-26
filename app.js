@@ -21,7 +21,7 @@ function renderPost(post) {
     <h3>${escapeHtml(post.title)}</h3>
     <div class="author">By ${escapeHtml(post.author || 'TechCrunch')}</div>
     <p class="summary">${escapeHtml(post.summary || '')}</p>${points}
-    <div class="post-footer"><span>${escapeHtml(post.credit || 'Shared via TechNews WhatsApp Channel')}</span><a href="${escapeHtml(post.source_url)}" target="_blank" rel="noreferrer">Read full article ↗</a></div>
+    <div class="post-footer"><span>Source: TechCrunch</span><a href="${escapeHtml(post.source_url)}" target="_blank" rel="noreferrer">Read full article ↗</a></div>
   </div></article>`;
 }
 
