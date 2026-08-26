@@ -5,8 +5,8 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
-from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
 USER_AGENT = "WORKFLOW-420/1.0 (+https://github.com/rutaabali3/workflow-420)"
+MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 
 def get(url, **kwargs):
@@ -43,6 +44,7 @@ def parse_feed():
 
 def extract_article(item):
     soup = BeautifulSoup(get(item["url"]).text, "html.parser")
+
     def meta(*names):
         for name in names:
             tag = soup.find("meta", attrs={"property": name}) or soup.find("meta", attrs={"name": name})
@@ -62,17 +64,11 @@ def extract_article(item):
     for node in article.select("script, style, nav, header, footer, aside, form, .ad, [aria-hidden='true']"):
         node.decompose()
     paragraphs = [clean_text(p.get_text(" ", strip=True)) for p in article.find_all(["p", "h2", "h3"])]
-    body = "\n".join(p for p in paragraphs if len(p) > 25)
-    if not body:
-        body = description
-    return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:18000]}
+    body = "\n".join(p for p in paragraphs if len(p) > 25) or description
+    return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:12000]}
 
 
-def summarize(article):
-    api_key = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
-    if not api_key:
-        raise RuntimeError("GROQ_API_KEY is not configured")
-    model = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
+def summarize(article, api_key):
     prompt = f"""Create an original news summary of the TechCrunch article below.
 Return JSON only with exactly these keys: summary, key_points, topics.
 summary: 3-5 concise sentences, no copied sentences, no speculation.
@@ -83,30 +79,70 @@ Keep names, companies, dates, and numbers accurate. Do not mention this instruct
 TITLE: {article['title']}
 AUTHOR: {article['author']}
 ARTICLE TEXT:
-{article['body'][:14000]}"""
+{article['body']}"""
     payload = {
-        "model": model,
+        "model": MODEL,
         "temperature": 0.2,
+        "max_tokens": 700,
         "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": "You are a careful technology-news editor. Output valid JSON only."},
             {"role": "user", "content": prompt},
         ],
     }
-    response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-        json=payload,
-        timeout=60,
-    )
-    if response.status_code == 429:
-        raise RuntimeError("Groq rate limit reached; retry on the next scheduled run")
-    response.raise_for_status()
-    content = response.json()["choices"][0]["message"]["content"]
-    result = json.loads(content)
-    if not result.get("summary"):
-        raise ValueError("Groq returned no summary")
-    return result
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    for attempt in range(3):
+        response = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=payload, timeout=90)
+        if response.status_code == 429:
+            retry_after = response.headers.get("retry-after")
+            try:
+                delay = max(2, min(20, float(retry_after))) if retry_after else 4 * (attempt + 1)
+            except ValueError:
+                delay = 4 * (attempt + 1)
+            if attempt < 2:
+                time.sleep(delay)
+                continue
+            raise RuntimeError("Groq rate limit reached after retries")
+        response.raise_for_status()
+        content = response.json()["choices"][0]["message"]["content"].strip()
+        content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE)
+        result = json.loads(content)
+        if not result.get("summary"):
+            raise ValueError("Groq returned no summary")
+        return result
+    raise RuntimeError("Groq request failed")
+
+
+def key_list():
+    keys = []
+    for index in range(1, 6):
+        value = re.sub(r"\s+", "", os.getenv(f"GROQ_API_KEY_{index}", ""))
+        if value:
+            keys.append(value)
+    if not keys:
+        legacy = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
+        if legacy:
+            keys.append(legacy)
+    return keys
+
+
+def process_item(item, api_key):
+    article = extract_article(item)
+    generated = summarize(article, api_key)
+    return {
+        "id": re.sub(r"[^a-z0-9]+", "-", article["url"].lower()).strip("-")[-120:],
+        "image": article["image"],
+        "title": article["title"],
+        "author": article["author"],
+        "summary": generated["summary"],
+        "key_points": generated.get("key_points", []),
+        "topics": generated.get("topics", []),
+        "source_url": article["url"],
+        "source": "TechCrunch",
+        "credit": "Source: TechCrunch",
+        "published": article["published"],
+        "processed_at": datetime.now(timezone.utc).isoformat(),
+    }
 
 
 def main():
@@ -116,39 +152,40 @@ def main():
             existing = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         existing = {"updated_at": None, "source": "TechCrunch", "posts": []}
+
+    keys = key_list()
+    if not keys:
+        raise RuntimeError("No Groq API keys configured. Add GROQ_API_KEY_1 through GROQ_API_KEY_5.")
+    if any(not key.startswith("gsk_") for key in keys):
+        raise RuntimeError("Every configured Groq key must begin with gsk_.")
+
     known = {post.get("source_url") for post in existing.get("posts", [])}
+    candidates = [item for item in parse_feed() if item["url"] not in known][:len(keys)]
+    if not candidates:
+        print("No new posts were found.")
+        return
+
     fresh = []
-    for item in parse_feed():
-        if item["url"] in known:
-            continue
-        try:
-            article = extract_article(item)
-            generated = summarize(article)
-            fresh.append({
-                "id": re.sub(r"[^a-z0-9]+", "-", article["url"].lower()).strip("-")[-120:],
-                "image": article["image"],
-                "title": article["title"],
-                "author": article["author"],
-                "summary": generated["summary"],
-                "key_points": generated.get("key_points", []),
-                "topics": generated.get("topics", []),
-                "source_url": article["url"],
-                "source": "TechCrunch",
-                "credit": "Source: TechCrunch",
-                "published": article["published"],
-                "processed_at": datetime.now(timezone.utc).isoformat(),
-            })
-        except Exception as exc:
-            print(f"Skipping {item['url']}: {exc}", file=sys.stderr)
+    with ThreadPoolExecutor(max_workers=len(candidates)) as executor:
+        jobs = {executor.submit(process_item, item, keys[index]): item for index, item in enumerate(candidates)}
+        for job in as_completed(jobs):
+            item = jobs[job]
+            try:
+                fresh.append(job.result())
+                print(f"Summarized: {item['url']}")
+            except Exception as exc:
+                print(f"Skipping {item['url']}: {exc}", file=sys.stderr)
+
     if fresh:
+        fresh.sort(key=lambda post: post.get("published", ""), reverse=True)
         existing["posts"] = (fresh + existing.get("posts", []))[:100]
         existing["updated_at"] = datetime.now(timezone.utc).isoformat()
         with open(OUTPUT, "w", encoding="utf-8") as f:
             json.dump(existing, f, ensure_ascii=False, indent=2)
             f.write("\n")
-        print(f"Added {len(fresh)} post(s).")
+        print(f"Added {len(fresh)} post(s) using {len(keys)} configured key(s).")
     else:
-        print("No new posts were summarized.")
+        raise RuntimeError("No summaries were generated; inspect the failed article messages above.")
 
 
 if __name__ == "__main__":

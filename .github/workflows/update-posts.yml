@@ -26,20 +26,35 @@ jobs:
 
       - name: Validate Groq secret format
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY_1: ${{ secrets.GROQ_API_KEY_1 }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GROQ_API_KEY_3: ${{ secrets.GROQ_API_KEY_3 }}
+          GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
+          GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
         run: |
-          KEY=$(printf '%s' "$GROQ_API_KEY" | tr -d '[:space:]')
-          if [ -z "$KEY" ]; then
-            echo "GROQ_API_KEY is missing."
+          count=0
+          for name in GROQ_API_KEY_1 GROQ_API_KEY_2 GROQ_API_KEY_3 GROQ_API_KEY_4 GROQ_API_KEY_5; do
+            value="${!name}"
+            if [ -n "$(printf '%s' "$value" | tr -d '[:space:]')" ]; then
+              case "$(printf '%s' "$value" | tr -d '[:space:]')" in
+                gsk_*) count=$((count + 1)); echo "$name is present and has the expected format." ;;
+                *) echo "$name is present but does not have the expected Groq key format."; exit 1 ;;
+              esac
+            fi
+          done
+          if [ "$count" -eq 0 ]; then
+            echo "Add at least one Groq secret: GROQ_API_KEY_1 through GROQ_API_KEY_5."
             exit 1
           fi
-          case "$KEY" in
-            gsk_*) echo "Groq secret is present and has the expected format." ;;
-            *) echo "GROQ_API_KEY is present but does not have the expected Groq key format."; exit 1 ;;
-          esac
+          echo "$count Groq key(s) configured."
 
       - name: Fetch and summarize new posts
         env:
+          GROQ_API_KEY_1: ${{ secrets.GROQ_API_KEY_1 }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GROQ_API_KEY_3: ${{ secrets.GROQ_API_KEY_3 }}
+          GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
+          GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: openai/gpt-oss-120b
         run: python scripts/update_posts.py
