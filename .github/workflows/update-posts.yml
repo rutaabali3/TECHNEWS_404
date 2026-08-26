@@ -32,8 +32,13 @@ jobs:
           GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
           GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          BAI_API_KEY_1: ${{ secrets.BAI_API_KEY_1 }}
         run: |
           count=0
+          if [ -n "$(printf '%s' "$BAI_API_KEY_1" | tr -d '[:space:]')" ]; then
+            echo "BAI_API_KEY_1 is present."
+            count=$((count + 1))
+          fi
           for name in GROQ_API_KEY_1 GROQ_API_KEY_2 GROQ_API_KEY_3 GROQ_API_KEY_4 GROQ_API_KEY_5; do
             value="${!name}"
             if [ -n "$(printf '%s' "$value" | tr -d '[:space:]')" ]; then
@@ -60,7 +65,9 @@ jobs:
           GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
           GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          BAI_API_KEY_1: ${{ secrets.BAI_API_KEY_1 }}
           GROQ_MODEL: openai/gpt-oss-120b
+          BAI_MODEL: deepseek-v4-flash
         run: python scripts/update_posts.py
 
       - name: Commit updated posts

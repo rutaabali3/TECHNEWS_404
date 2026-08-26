@@ -14,7 +14,8 @@ from bs4 import BeautifulSoup
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
 USER_AGENT = "WORKFLOW-420/1.0 (+https://github.com/rutaabali3/workflow-420)"
-MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
+BAI_MODEL = os.getenv("BAI_MODEL", "deepseek-v4-flash")
 
 
 def get(url, **kwargs):
@@ -68,7 +69,7 @@ def extract_article(item):
     return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:12000]}
 
 
-def summarize(article, api_key):
+def summarize(article, api_key, provider):
     prompt = f"""Create an original news summary of the TechCrunch article below.
 Return JSON only with exactly these keys: summary, key_points, topics.
 summary: 3-5 concise sentences, no copied sentences, no speculation.
@@ -81,7 +82,7 @@ AUTHOR: {article['author']}
 ARTICLE TEXT:
 {article['body']}"""
     payload = {
-        "model": MODEL,
+        "model": BAI_MODEL if provider == "bai" else GROQ_MODEL,
         "temperature": 0.2,
         "max_tokens": 700,
         "response_format": {"type": "json_object"},
@@ -91,8 +92,9 @@ ARTICLE TEXT:
         ],
     }
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    endpoint = "https://api.b.ai/v1/chat/completions" if provider == "bai" else "https://api.groq.com/openai/v1/chat/completions"
     for attempt in range(3):
-        response = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=payload, timeout=90)
+        response = requests.post(endpoint, headers=headers, json=payload, timeout=90)
         if response.status_code == 429:
             retry_after = response.headers.get("retry-after")
             try:
@@ -116,19 +118,23 @@ ARTICLE TEXT:
 def key_list():
     keys = []
     for index in range(1, 6):
+        value = re.sub(r"\s+", "", os.getenv(f"BAI_API_KEY_{index}", ""))
+        if value:
+            keys.append(("bai", value))
+    for index in range(1, 6):
         value = re.sub(r"\s+", "", os.getenv(f"GROQ_API_KEY_{index}", ""))
         if value:
-            keys.append(value)
-    if not keys:
-        legacy = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
-        if legacy:
-            keys.append(legacy)
-    return keys
+            keys.append(("groq", value))
+    legacy = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
+    if legacy and not keys:
+        keys.append(("groq", legacy))
+    return keys[:5]
 
 
-def process_item(item, api_key):
+def process_item(item, provider_key):
+    provider, api_key = provider_key
     article = extract_article(item)
-    generated = summarize(article, api_key)
+    generated = summarize(article, api_key, provider)
     return {
         "id": re.sub(r"[^a-z0-9]+", "-", article["url"].lower()).strip("-")[-120:],
         "image": article["image"],
@@ -155,9 +161,10 @@ def main():
 
     keys = key_list()
     if not keys:
-        raise RuntimeError("No Groq API keys configured. Add GROQ_API_KEY_1 through GROQ_API_KEY_5.")
-    if any(not key.startswith("gsk_") for key in keys):
-        raise RuntimeError("Every configured Groq key must begin with gsk_.")
+        raise RuntimeError("No provider API keys configured. Add BAI_API_KEY_1 or GROQ_API_KEY_1 through the numbered secrets.")
+    for provider, key in keys:
+        if provider == "groq" and not key.startswith("gsk_"):
+            raise RuntimeError("Every Groq key must begin with gsk_.")
 
     known = {post.get("source_url") for post in existing.get("posts", [])}
     candidates = [item for item in parse_feed() if item["url"] not in known][:len(keys)]
@@ -183,7 +190,7 @@ def main():
         with open(OUTPUT, "w", encoding="utf-8") as f:
             json.dump(existing, f, ensure_ascii=False, indent=2)
             f.write("\n")
-        print(f"Added {len(fresh)} post(s) using {len(keys)} configured key(s).")
+        print(f"Added {len(fresh)} post(s) using {len(keys)} configured provider key(s).")
     else:
         raise RuntimeError("No summaries were generated; inspect the failed article messages above.")
 
