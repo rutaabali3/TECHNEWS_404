@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-26T23:00:54.288545+00:00",
+  "updated_at": "2026-08-26T23:20:11.553588+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "nch-com-2026-08-26-meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "title": "Meta agrees to sweeping changes to restrict kids' access to its apps as part of settlement with states | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Meta agreed to sweeping changes as part of an $18 billion settlement with 29 U.S. states over children's safety. The measures include a two-hour daily time limit for teens across Facebook and Instagram, a default night-time block between midnight and 6 a.m., and non-algorithmic feed options. These protections are set to remain in place for 10 years, and part of the settlement is contingent on TikTok and YouTube adopting similar limits.",
+      "key_points": [
+        "Meta will enforce a cumulative two-hour daily time limit for users under 18 across Facebook and Instagram, which can only be disabled with parental permission.",
+        "A default Night Mode will block minors from accessing, posting, or viewing content between midnight and 6 a.m.",
+        "Parents can set a non-personalized feed as default for teens, and like counts will be hidden by default.",
+        "30% of the settlement, about $5.3 billion, will only be paid if TikTok and YouTube implement the same restrictions."
+      ],
+      "topics": [
+        "meta",
+        "children's safety",
+        "social media regulation",
+        "parental controls"
+      ],
+      "source_url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 26 Aug 2026 16:03:14 +0000",
+      "processed_at": "2026-08-26T23:20:11.553331+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-08-26-openai-releases-its-official-report-on-the-hugging-face-breach",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
