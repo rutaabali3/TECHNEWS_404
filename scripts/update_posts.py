@@ -13,9 +13,9 @@ from bs4 import BeautifulSoup
 
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
+QUEUE_OUTPUT = "data/pending.json"
 USER_AGENT = "WORKFLOW-420/1.0 (+https://github.com/rutaabali3/workflow-420)"
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
-BAI_MODEL = os.getenv("BAI_MODEL", "deepseek-v4-flash")
 
 
 def get(url, **kwargs):
@@ -66,14 +66,14 @@ def extract_article(item):
         node.decompose()
     paragraphs = [clean_text(p.get_text(" ", strip=True)) for p in article.find_all(["p", "h2", "h3"])]
     body = "\n".join(p for p in paragraphs if len(p) > 25) or description
-    return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:9000]}
+    return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:7000]}
 
 
-def summarize(article, api_key, provider):
+def summarize(article, api_key):
     prompt = f"""Create an original news summary of the TechCrunch article below.
 Return JSON only with exactly these keys: summary, key_points, topics.
-summary: 3-5 concise sentences, no copied sentences, no speculation.
-key_points: 2-4 short factual bullets.
+summary: 2-3 concise sentences, no copied sentences, no speculation.
+key_points: 2 short factual bullets.
 topics: 1-4 lowercase topic labels.
 Keep names, companies, dates, and numbers accurate. Do not mention this instruction.
 
@@ -82,9 +82,9 @@ AUTHOR: {article['author']}
 ARTICLE TEXT:
 {article['body']}"""
     payload = {
-        "model": BAI_MODEL if provider == "bai" else GROQ_MODEL,
+        "model": GROQ_MODEL,
         "temperature": 0.2,
-        "max_tokens": 500,
+        "max_tokens": 350,
         "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": "You are a careful technology-news editor. Output valid JSON only."},
@@ -92,21 +92,21 @@ ARTICLE TEXT:
         ],
     }
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-    endpoint = "https://api.b.ai/v1/chat/completions" if provider == "bai" else "https://api.groq.com/openai/v1/chat/completions"
+    endpoint = "https://api.groq.com/openai/v1/chat/completions"
     for attempt in range(3):
         response = requests.post(endpoint, headers=headers, json=payload, timeout=90)
         if response.status_code == 429:
             retry_after = response.headers.get("retry-after")
             try:
-                delay = max(2, min(20, float(retry_after))) if retry_after else 4 * (attempt + 1)
+                delay = max(2, min(30, float(retry_after))) if retry_after else 5 * (attempt + 1)
             except ValueError:
-                delay = 4 * (attempt + 1)
+                delay = 5 * (attempt + 1)
             if attempt < 2:
                 time.sleep(delay)
                 continue
-            raise RuntimeError("Groq rate limit reached after retries")
+            raise RuntimeError("Groq rate limit reached after retries; article remains queued")
         response.raise_for_status()
-        content = response.json()["choices"][0]["message"]["content"].strip()
+        content = response.json()["choices"][0]["message"].get("content", "").strip()
         content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE).strip()
         try:
             result = json.loads(content)
@@ -116,44 +116,41 @@ ARTICLE TEXT:
                 try:
                     result = json.loads(content[start:end + 1])
                 except json.JSONDecodeError:
-                    result = {"summary": content, "key_points": [], "topics": ["technology"]}
+                    result = None
             else:
-                match = re.search(r'"summary"\s*:\s*"((?:\\\\.|[^"\\\\])*)', content, flags=re.DOTALL)
+                result = None
+            if result is None:
+                match = re.search(r'"summary"\s*:\s*"((?:\\.|[^"\\])*)', content, flags=re.DOTALL)
                 if match:
                     try:
                         extracted = json.loads('"' + match.group(1) + '"')
                     except json.JSONDecodeError:
-                        extracted = match.group(1).replace('\\\\"', '"')
+                        extracted = match.group(1).replace('\\"', '"')
                     result = {"summary": extracted, "key_points": [], "topics": ["technology"]}
                 else:
                     result = {"summary": content, "key_points": [], "topics": ["technology"]}
         if not result.get("summary"):
-            fallback = article.get("description") or article.get("feed_excerpt") or "Summary unavailable; open the original article for details."
-            result = {"summary": fallback, "key_points": [], "topics": ["technology"]}
+            result = {"summary": article.get("description") or article.get("feed_excerpt") or "Summary unavailable; open the original article for details.", "key_points": [], "topics": ["technology"]}
         return result
-    raise RuntimeError(f"{provider.upper()} request failed")
+    raise RuntimeError("Groq request failed")
 
 
-def key_list():
+def groq_keys():
     keys = []
-    for index in range(1, 6):
-        value = re.sub(r"\s+", "", os.getenv(f"BAI_API_KEY_{index}", ""))
-        if value:
-            keys.append(("bai", value))
     for index in range(1, 6):
         value = re.sub(r"\s+", "", os.getenv(f"GROQ_API_KEY_{index}", ""))
         if value:
-            keys.append(("groq", value))
-    legacy = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
-    if legacy and not keys:
-        keys.append(("groq", legacy))
-    return keys[:5]
+            keys.append(value)
+    if not keys:
+        legacy = re.sub(r"\s+", "", os.getenv("GROQ_API_KEY", ""))
+        if legacy:
+            keys.append(legacy)
+    return keys
 
 
-def process_item(item, provider_key):
-    provider, api_key = provider_key
+def process_item(item, api_key):
     article = extract_article(item)
-    generated = summarize(article, api_key, provider)
+    generated = summarize(article, api_key)
     return {
         "id": re.sub(r"[^a-z0-9]+", "-", article["url"].lower()).strip("-")[-120:],
         "image": article["image"],
@@ -170,48 +167,59 @@ def process_item(item, provider_key):
     }
 
 
-def main():
-    os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
+def load_json(path, default):
     try:
-        with open(OUTPUT, "r", encoding="utf-8") as f:
-            existing = json.load(f)
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
-        existing = {"updated_at": None, "source": "TechCrunch", "posts": []}
+        return default
 
-    keys = key_list()
+
+def save_json(path, value):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(value, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def main():
+    existing = load_json(OUTPUT, {"updated_at": None, "source": "TechCrunch", "posts": []})
+    queue_data = load_json(QUEUE_OUTPUT, {"updated_at": None, "items": []})
+    queue = queue_data.get("items", [])
+    keys = groq_keys()
     if not keys:
-        raise RuntimeError("No provider API keys configured. Add BAI_API_KEY_1 or GROQ_API_KEY_1 through the numbered secrets.")
-    for provider, key in keys:
-        if provider == "groq" and not key.startswith("gsk_"):
+        raise RuntimeError("No Groq API key configured. Add GROQ_API_KEY_1 or GROQ_API_KEY.")
+    for key in keys:
+        if not key.startswith("gsk_"):
             raise RuntimeError("Every Groq key must begin with gsk_.")
 
-    known = {post.get("source_url") for post in existing.get("posts", [])}
-    candidates = [item for item in parse_feed() if item["url"] not in known][:len(keys)]
-    if not candidates:
-        print("No new posts were found.")
-        return
+    known = {post.get("source_url") for post in existing.get("posts", [])} | {item.get("url") for item in queue}
+    discovered = 0
+    for item in parse_feed():
+        if item["url"] not in known:
+            queue.append(item)
+            known.add(item["url"])
+            discovered += 1
+    queue = queue[:200]
+    print(f"Queue contains {len(queue)} item(s); discovered {discovered} new feed item(s).")
 
     fresh = []
-    with ThreadPoolExecutor(max_workers=len(candidates)) as executor:
-        jobs = {executor.submit(process_item, item, keys[index]): item for index, item in enumerate(candidates)}
-        for job in as_completed(jobs):
-            item = jobs[job]
-            try:
-                fresh.append(job.result())
-                print(f"Summarized: {item['url']}")
-            except Exception as exc:
-                print(f"Skipping {item['url']}: {exc}", file=sys.stderr)
+    if queue:
+        item = queue[0]
+        try:
+            fresh.append(process_item(item, keys[0]))
+            queue.pop(0)
+            print(f"Summarized: {item['url']}")
+        except Exception as exc:
+            print(f"Keeping queued for a later run: {item['url']}: {exc}", file=sys.stderr)
 
     if fresh:
         fresh.sort(key=lambda post: post.get("published", ""), reverse=True)
         existing["posts"] = (fresh + existing.get("posts", []))[:100]
         existing["updated_at"] = datetime.now(timezone.utc).isoformat()
-        with open(OUTPUT, "w", encoding="utf-8") as f:
-            json.dump(existing, f, ensure_ascii=False, indent=2)
-            f.write("\n")
-        print(f"Added {len(fresh)} post(s) using {len(keys)} configured provider key(s).")
-    else:
-        raise RuntimeError("No summaries were generated; inspect the failed article messages above.")
+        save_json(OUTPUT, existing)
+    save_json(QUEUE_OUTPUT, {"updated_at": datetime.now(timezone.utc).isoformat(), "items": queue})
+    print(f"Added {len(fresh)} post(s); {len(queue)} item(s) remain queued.")
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@ name: Update TechCrunch summaries
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -37,13 +37,8 @@ jobs:
           GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
           GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          BAI_API_KEY_1: ${{ secrets.BAI_API_KEY_1 }}
         run: |
           count=0
-          if [ -n "$(printf '%s' "$BAI_API_KEY_1" | tr -d '[:space:]')" ]; then
-            echo "BAI_API_KEY_1 is present."
-            count=$((count + 1))
-          fi
           for name in GROQ_API_KEY_1 GROQ_API_KEY_2 GROQ_API_KEY_3 GROQ_API_KEY_4 GROQ_API_KEY_5; do
             value="${!name}"
             if [ -n "$(printf '%s' "$value" | tr -d '[:space:]')" ]; then
@@ -56,11 +51,11 @@ jobs:
           if [ "$count" -eq 0 ]; then
             legacy=$(printf '%s' "$GROQ_API_KEY" | tr -d '[:space:]')
             case "$legacy" in
-              gsk_*) count=1; echo "Legacy GROQ_API_KEY is present; use GROQ_API_KEY_1 through GROQ_API_KEY_5 for multi-key rotation." ;;
+              gsk_*) count=1; echo "Legacy GROQ_API_KEY is present." ;;
               *) echo "Add at least one Groq secret: GROQ_API_KEY_1 through GROQ_API_KEY_5."; exit 1 ;;
             esac
           fi
-          echo "$count numbered/legacy Groq key(s) configured."
+          echo "$count Groq key(s) configured."
 
       - name: Fetch and summarize new posts
         env:
@@ -70,16 +65,14 @@ jobs:
           GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
           GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          BAI_API_KEY_1: ${{ secrets.BAI_API_KEY_1 }}
           GROQ_MODEL: openai/gpt-oss-120b
-          BAI_MODEL: deepseek-v4-flash
         run: python scripts/update_posts.py
 
       - name: Commit updated posts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/posts.json
+          git add data/posts.json data/pending.json
           if git diff --cached --quiet; then
             echo "No new articles found."
           else
