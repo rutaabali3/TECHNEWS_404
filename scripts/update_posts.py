@@ -33,7 +33,7 @@ def clean_text(value):
 def parse_feed():
     root = ET.fromstring(get(FEED_URL).content)
     items = []
-    for item in root.findall(".//item")[:20]:
+    for item in root.findall(".//item")[:50]:
         title = clean_text(item.findtext("title"))
         link = clean_text(item.findtext("link"))
         description = clean_text(item.findtext("description"))
@@ -66,7 +66,7 @@ def extract_article(item):
         node.decompose()
     paragraphs = [clean_text(p.get_text(" ", strip=True)) for p in article.find_all(["p", "h2", "h3"])]
     body = "\n".join(p for p in paragraphs if len(p) > 25) or description
-    return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:12000]}
+    return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:9000]}
 
 
 def summarize(article, api_key, provider):
@@ -84,7 +84,7 @@ ARTICLE TEXT:
     payload = {
         "model": BAI_MODEL if provider == "bai" else GROQ_MODEL,
         "temperature": 0.2,
-        "max_tokens": 700,
+        "max_tokens": 500,
         "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": "You are a careful technology-news editor. Output valid JSON only."},
