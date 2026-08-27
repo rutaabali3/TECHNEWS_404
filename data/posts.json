@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-27T17:06:19.719646+00:00",
+  "updated_at": "2026-08-27T17:40:15.222537+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-08-27-fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?resize=1200,800",
+      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Atorie announced a $9.5 million seed round backed by a16z Speedrun, Night Capital, and Lightspeed Ventures' Jeremy Liew. The startup sells handbags and clothing made in the same factories as luxury brands, but at significantly lower prices. Founder Redouane Ramdani said manufacturers increasingly handle their own design and product development, while AI helps forecast demand and reduce overproduction. Atorie reported about $5 million in sales last year and expects to surpass a $55 million annualized run rate this year. The new funding will support logistics, AI tools, production, and an in-house product line.",
+      "key_points": [
+        "Atorie raised $9.5 million in seed funding from investors including a16z Speedrun, Night Capital, and Jeremy Liew.",
+        "The company works with over 40 factories globally to sell factory-made goods without luxury brand markups.",
+        "Atorie ended last year with around $5 million in sales and expects an annualized run rate above $55 million this year.",
+        "The startup plans to use the capital for logistics, AI development, production, and launching its own in-house line."
+      ],
+      "topics": [
+        "fashion",
+        "startups",
+        "ai",
+        "luxury goods"
+      ],
+      "source_url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 27 Aug 2026 17:00:00 +0000",
+      "processed_at": "2026-08-27T17:40:15.222272+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-08-27-googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?w=1200",
