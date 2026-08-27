@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-27T17:54:06.872811+00:00",
+  "updated_at": "2026-08-27T17:56:00.217269+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-08-27-atf-declares-major-incident-as-ransomware-gang-claims-hack",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024",
+      "title": "ATF declares 'major incident' as ransomware gang claims hack | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives has classified a cyberattack on one of its systems as a major incident, a formal designation requiring notification to Congress within a week. The affected system stored information on investigation targets and is separate from the bureau's main network. The Qilin ransomware gang has claimed responsibility for the attack but has not yet provided evidence, such as leaked data. The ATF is the latest federal agency to declare a major incident following a breach, following similar declarations by the U.S. Marshals Service in 2023 and the FBI earlier this year.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 27 Aug 2026 17:54:23 +0000",
+      "processed_at": "2026-08-27T17:56:00.217061+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-08-27-openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
