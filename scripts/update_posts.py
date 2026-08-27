@@ -107,10 +107,20 @@ ARTICLE TEXT:
             raise RuntimeError("Groq rate limit reached after retries")
         response.raise_for_status()
         content = response.json()["choices"][0]["message"]["content"].strip()
-        content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE)
-        result = json.loads(content)
+        content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE).strip()
+        try:
+            result = json.loads(content)
+        except json.JSONDecodeError:
+            start, end = content.find("{"), content.rfind("}")
+            if start >= 0 and end > start:
+                try:
+                    result = json.loads(content[start:end + 1])
+                except json.JSONDecodeError:
+                    result = {"summary": content, "key_points": [], "topics": ["technology"]}
+            else:
+                result = {"summary": content, "key_points": [], "topics": ["technology"]}
         if not result.get("summary"):
-            raise ValueError("Groq returned no summary")
+            raise ValueError("Model returned no summary")
         return result
     raise RuntimeError("Groq request failed")
 
