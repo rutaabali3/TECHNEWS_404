@@ -118,12 +118,20 @@ ARTICLE TEXT:
                 except json.JSONDecodeError:
                     result = {"summary": content, "key_points": [], "topics": ["technology"]}
             else:
-                result = {"summary": content, "key_points": [], "topics": ["technology"]}
+                match = re.search(r'"summary"\s*:\s*"((?:\\\\.|[^"\\\\])*)', content, flags=re.DOTALL)
+                if match:
+                    try:
+                        extracted = json.loads('"' + match.group(1) + '"')
+                    except json.JSONDecodeError:
+                        extracted = match.group(1).replace('\\\\"', '"')
+                    result = {"summary": extracted, "key_points": [], "topics": ["technology"]}
+                else:
+                    result = {"summary": content, "key_points": [], "topics": ["technology"]}
         if not result.get("summary"):
             fallback = article.get("description") or article.get("feed_excerpt") or "Summary unavailable; open the original article for details."
             result = {"summary": fallback, "key_points": [], "topics": ["technology"]}
         return result
-    raise RuntimeError("Groq request failed")
+    raise RuntimeError(f"{provider.upper()} request failed")
 
 
 def key_list():
