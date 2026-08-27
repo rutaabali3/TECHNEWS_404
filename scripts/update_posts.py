@@ -120,7 +120,8 @@ ARTICLE TEXT:
             else:
                 result = {"summary": content, "key_points": [], "topics": ["technology"]}
         if not result.get("summary"):
-            raise ValueError("Model returned no summary")
+            fallback = article.get("description") or article.get("feed_excerpt") or "Summary unavailable; open the original article for details."
+            result = {"summary": fallback, "key_points": [], "topics": ["technology"]}
         return result
     raise RuntimeError("Groq request failed")
 
