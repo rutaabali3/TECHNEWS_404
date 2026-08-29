@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-08-29T12:32:29.763073+00:00",
+  "updated_at": "2026-08-29T18:14:57.030066+00:00",
   "items": [
-    {
-      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "feed_excerpt": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy tradeoff built into the deal.",
-      "published": "Thu, 27 Aug 2026 20:04:26 +0000"
-    },
     {
       "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
       "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
@@ -198,6 +192,36 @@
       "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
       "feed_excerpt": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
       "published": "Fri, 28 Aug 2026 18:50:00 +0000"
+    },
+    {
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "feed_excerpt": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "published": "Sat, 29 Aug 2026 17:51:10 +0000"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "feed_excerpt": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "published": "Sat, 29 Aug 2026 17:36:47 +0000"
+    },
+    {
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "feed_excerpt": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "published": "Sat, 29 Aug 2026 16:10:00 +0000"
+    },
+    {
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "feed_excerpt": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]",
+      "published": "Sat, 29 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "feed_excerpt": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "published": "Sat, 29 Aug 2026 13:00:00 +0000"
     }
   ]
 }

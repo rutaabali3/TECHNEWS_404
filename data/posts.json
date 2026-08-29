@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-27T17:56:00.217269+00:00",
+  "updated_at": "2026-08-29T18:14:57.029326+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-08-27-buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+      "title": "Buried in Meta's $18B settlement is a legal pass on kids' data | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta's $18 billion settlement with 29 state attorneys general grants the company a permanent shield from COPPA and similar state claims for using children's data to train an age‑assurance model, while prohibiting its use for ad targeting. The deal requires Meta to build and test the model within a year, with independent auditing to ensure data isolation, but leaves enforcement questions because the FTC is not a party.",
+      "key_points": [
+        "The settlement bars states from suing Meta over child‑data use for model training, yet Meta must still develop an age‑detection system within a year and cannot use under‑13 data for advertising.",
+        "An independent auditor will monitor compliance, but enforcement may be complicated since COPPA is federally enforced by the FTC, which did not join the agreement."
+      ],
+      "topics": [
+        "privacy",
+        "ai",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 27 Aug 2026 20:04:26 +0000",
+      "processed_at": "2026-08-29T18:14:57.029296+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-08-27-atf-declares-major-incident-as-ransomware-gang-claims-hack",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024",
