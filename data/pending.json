@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T18:25:59.480093+00:00",
+  "updated_at": "2026-08-29T03:07:09.014346+00:00",
   "items": [
     {
       "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
@@ -168,6 +168,36 @@
       "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
       "feed_excerpt": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
       "published": "Fri, 28 Aug 2026 09:33:00 +0000"
+    },
+    {
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "feed_excerpt": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "published": "Fri, 28 Aug 2026 23:24:27 +0000"
+    },
+    {
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "feed_excerpt": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "published": "Fri, 28 Aug 2026 22:42:48 +0000"
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "feed_excerpt": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "published": "Fri, 28 Aug 2026 20:24:11 +0000"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "feed_excerpt": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "published": "Fri, 28 Aug 2026 19:30:38 +0000"
+    },
+    {
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "feed_excerpt": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "published": "Fri, 28 Aug 2026 18:50:00 +0000"
     }
   ]
 }
