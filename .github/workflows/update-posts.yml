@@ -71,8 +71,8 @@ jobs:
 
       - name: Commit updated posts
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "rutaabali3"
+          git config user.email "rutaabali3@gmail.com"
           git add data/posts.json data/pending.json
           if git diff --cached --quiet; then
             echo "No new articles found."
