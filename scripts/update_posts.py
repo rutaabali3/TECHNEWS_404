@@ -72,10 +72,12 @@ def extract_article(item):
 
 def summarize(article, api_key):
     prompt = f"""Create an original news summary of the TechCrunch article below.
-Return JSON only with exactly these keys: summary, key_points, topics.
-summary: 2-3 concise sentences, no copied sentences, no speculation.
-key_points: 2 short factual bullets.
-topics: 1-4 lowercase topic labels.
+Return only one valid JSON object and nothing else. Do not use Markdown fences, commentary, or trailing commas.
+The object must contain exactly these keys: summary, key_points, topics.
+summary must be 2-3 concise sentences, with no copied sentences and no speculation.
+key_points must be an array of exactly 2 short factual strings.
+topics must be an array of 1-4 lowercase topic labels.
+Use ordinary double-quoted JSON strings and escape internal quotation marks.
 Keep names, companies, dates, and numbers accurate. Do not mention this instruction.
 
 TITLE: {article['title']}
@@ -96,6 +98,24 @@ ARTICLE TEXT:
     endpoint = "https://api.groq.com/openai/v1/chat/completions"
     for attempt in range(3):
         response = requests.post(endpoint, headers=headers, json=payload, timeout=90)
+        if response.status_code == 400:
+            try:
+                error = response.json().get("error", {})
+            except ValueError:
+                error = {}
+            if error.get("code") == "json_validate_failed" and "response_format" in payload:
+                # Some Groq/model combinations reject strict JSON mode even when the
+                # generated content is recoverable. Retry once in plain text mode and
+                # parse the model's JSON ourselves below.
+                fallback_payload = dict(payload)
+                fallback_payload.pop("response_format", None)
+                response = requests.post(endpoint, headers=headers, json=fallback_payload, timeout=90)
+            if response.status_code == 400:
+                try:
+                    detail = response.json().get("error", {}).get("message", "Bad request")
+                except ValueError:
+                    detail = response.text[:300] or "Bad request"
+                raise RuntimeError(f"Groq request rejected: {detail}")
         if response.status_code == 429:
             retry_after = response.headers.get("retry-after")
             try:
