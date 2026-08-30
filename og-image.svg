@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">TECHNEWS_404 technology news digest</title>
+  <desc id="desc">A green and cream social preview graphic for TECHNEWS_404.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f7f4"/>
+      <stop offset="1" stop-color="#e1f1eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="90" r="210" fill="#126b58" opacity=".09"/>
+  <circle cx="1120" cy="570" r="260" fill="#126b58" opacity=".08"/>
+  <rect x="86" y="86" width="82" height="82" rx="14" fill="#126b58"/>
+  <text x="127" y="140" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">404</text>
+  <text x="200" y="143" fill="#17212b" font-family="Arial, sans-serif" font-size="32" font-weight="700">TECHNEWS_404</text>
+  <text x="86" y="330" fill="#17212b" font-family="Arial, sans-serif" font-size="72" font-weight="700">Technology news,</text>
+  <text x="86" y="415" fill="#126b58" font-family="Arial, sans-serif" font-size="72" font-weight="700">without the noise.</text>
+  <text x="90" y="500" fill="#657384" font-family="Arial, sans-serif" font-size="26">Clear, original AI summaries of the latest tech stories.</text>
+</svg>

@@ -1,6 +1,6 @@
-# WORKFLOW 420
+# TECHNEWS_404
 
-WORKFLOW 420 is a GitHub-only TechNews Digest. A GitHub Actions job checks the public TechCrunch RSS feed every three hours, adds newly published articles to a persistent queue, sends one queued article at a time to Groq for an original summary, stores the structured records in `data/posts.json`, and deploys the static site through GitHub Pages.
+TECHNEWS_404 is a GitHub-only technology news digest. A GitHub Actions job checks the public TechCrunch RSS feed every three hours, adds newly published articles to a persistent queue, sends one queued article at a time to Groq for an original summary, stores the structured records in `data/posts.json`, and deploys the static site through GitHub Pages.
 
 ## Setup
 
@@ -15,6 +15,14 @@ Enable GitHub Pages under **Settings → Pages** and select **GitHub Actions** a
 The workflow reads `https://techcrunch.com/feed/`, skips article URLs already present in `data/posts.json`, extracts the article page metadata, sends a limited amount of article text to Groq, and adds the new item at the top of the JSON list. It retains the latest 100 posts.
 
 The webpage displays the title, image, author, original summary, key points, topics, and a TechCrunch link. It does not reproduce the full TechCrunch article body.
+
+## SEO foundation
+
+The site includes a canonical URL, descriptive title and meta description, Open Graph and Twitter card metadata, Schema.org `WebSite` structured data, `robots.txt`, `sitemap.xml`, a branded social preview image, and `site.webmanifest`. These files are committed at the repository root and are served automatically by GitHub Pages.
+
+## Live site
+
+[Open TECHNEWS_404](https://rutaabali3.github.io/TECHNEWS_404/)
 
 ## Important notes
 

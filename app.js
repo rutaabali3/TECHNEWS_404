@@ -32,5 +32,9 @@ fetch('./data/posts.json', {cache: 'no-store'})
     countEl.textContent = `${posts.length} ${posts.length === 1 ? 'story' : 'stories'}`;
     updatedEl.textContent = data.updated_at ? `Last checked ${formatDate(data.updated_at)}` : 'Waiting for the first scheduled update';
     postsEl.innerHTML = posts.length ? posts.map(renderPost).join('') : '<div class="empty">No stories have been summarized yet. The next scheduled workflow will check TechCrunch.</div>';
+    postsEl.setAttribute('aria-busy', 'false');
   })
-  .catch(() => { postsEl.innerHTML = '<div class="empty">The digest is temporarily unavailable. Please try again after the next workflow run.</div>'; });
+  .catch(() => {
+    postsEl.innerHTML = '<div class="empty">The digest is temporarily unavailable. Please try again after the next workflow run.</div>';
+    postsEl.setAttribute('aria-busy', 'false');
+  });

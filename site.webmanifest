@@ -1,0 +1,11 @@
+{
+  "name": "TECHNEWS_404",
+  "short_name": "TECHNEWS_404",
+  "description": "Automated technology news summaries sourced from TechCrunch.",
+  "start_url": "/TECHNEWS_404/",
+  "scope": "/TECHNEWS_404/",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#126b58",
+  "lang": "en"
+}
