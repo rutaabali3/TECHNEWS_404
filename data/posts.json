@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-30T15:45:33.895772+00:00",
+  "updated_at": "2026-08-30T18:44:15.201955+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-08-30-caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Caterpillar is leveraging its decades of autonomous mining experience to roll out AI tools across construction, equipment servicing and internal software development. The company is investing $100 million to train its 118,000 workers while expanding its AI‑driven command centers and digital‑twin platforms.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "processed_at": "2026-08-30T18:44:15.201909+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-08-29-were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
