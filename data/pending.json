@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-08-30T18:44:12.686696+00:00",
+  "updated_at": "2026-08-30T21:51:56.660987+00:00",
   "items": [
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "feed_excerpt": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "published": "Sat, 29 Aug 2026 18:41:59 +0000"
-    },
     {
       "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
       "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
@@ -32,5 +26,5 @@
       "published": "Sun, 30 Aug 2026 16:03:00 +0000"
     }
   ],
-  "last_processed_at": "2026-08-30T18:44:15.201945+00:00"
+  "last_processed_at": "2026-08-30T21:51:58.817610+00:00"
 }
