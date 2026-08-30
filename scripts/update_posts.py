@@ -6,7 +6,7 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup
@@ -14,7 +14,8 @@ from bs4 import BeautifulSoup
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
 QUEUE_OUTPUT = "data/pending.json"
-USER_AGENT = "WORKFLOW-420/1.0 (+https://github.com/rutaabali3/workflow-420)"
+PUBLISH_INTERVAL = timedelta(minutes=90)
+USER_AGENT = "TECHNEWS_404/1.0 (+https://github.com/rutaabali3/TECHNEWS_404)"
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 
@@ -175,6 +176,15 @@ def load_json(path, default):
         return default
 
 
+def parse_timestamp(value):
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+
 def save_json(path, value):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
@@ -186,6 +196,8 @@ def main():
     existing = load_json(OUTPUT, {"updated_at": None, "source": "TechCrunch", "posts": []})
     queue_data = load_json(QUEUE_OUTPUT, {"updated_at": None, "items": []})
     queue = queue_data.get("items", [])
+    original_queue = list(queue)
+    previous_last_processed_at = queue_data.get("last_processed_at")
     keys = groq_keys()
     if not keys:
         raise RuntimeError("No Groq API key configured. Add GROQ_API_KEY_1 or GROQ_API_KEY.")
@@ -201,14 +213,21 @@ def main():
             known.add(item["url"])
             discovered += 1
     queue = queue[:200]
+    now = datetime.now(timezone.utc)
+    last_processed_at = parse_timestamp(queue_data.get("last_processed_at"))
     print(f"Queue contains {len(queue)} item(s); discovered {discovered} new feed item(s).")
 
     fresh = []
-    if queue:
+    if queue and last_processed_at and now - last_processed_at < PUBLISH_INTERVAL:
+        next_run_at = last_processed_at + PUBLISH_INTERVAL
+        remaining_minutes = max(1, round((next_run_at - now).total_seconds() / 60))
+        print(f"Cooldown active; next article may publish in about {remaining_minutes} minute(s).")
+    elif queue:
         item = queue[0]
         try:
             fresh.append(process_item(item, keys[0]))
             queue.pop(0)
+            last_processed_at = datetime.now(timezone.utc)
             print(f"Summarized: {item['url']}")
         except Exception as exc:
             print(f"Keeping queued for a later run: {item['url']}: {exc}", file=sys.stderr)
@@ -218,7 +237,13 @@ def main():
         existing["posts"] = (fresh + existing.get("posts", []))[:100]
         existing["updated_at"] = datetime.now(timezone.utc).isoformat()
         save_json(OUTPUT, existing)
-    save_json(QUEUE_OUTPUT, {"updated_at": datetime.now(timezone.utc).isoformat(), "items": queue})
+    queue_payload = {"updated_at": now.isoformat(), "items": queue}
+    if last_processed_at:
+        queue_payload["last_processed_at"] = last_processed_at.isoformat()
+    queue_changed = queue != original_queue
+    cooldown_state_changed = (queue_payload.get("last_processed_at") or None) != (previous_last_processed_at or None)
+    if queue_changed or cooldown_state_changed:
+        save_json(QUEUE_OUTPUT, queue_payload)
     print(f"Added {len(fresh)} post(s); {len(queue)} item(s) remain queued.")
 
 

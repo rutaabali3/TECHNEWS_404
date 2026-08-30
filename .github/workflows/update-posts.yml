@@ -2,7 +2,8 @@ name: Update TechCrunch summaries
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    # Check twice per hour; the updater's durable cooldown publishes one article every 90 minutes.
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 concurrency:
