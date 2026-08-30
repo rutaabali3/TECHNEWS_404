@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-08-30T13:38:28.402417+00:00",
+  "updated_at": "2026-08-30T15:17:09.509705+00:00",
   "items": [
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "feed_excerpt": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "published": "Thu, 27 Aug 2026 19:52:52 +0000"
-    },
     {
       "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
       "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
@@ -222,7 +216,13 @@
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "feed_excerpt": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "published": "Sat, 29 Aug 2026 18:41:59 +0000"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "feed_excerpt": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "published": "Sun, 30 Aug 2026 15:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-08-30T13:38:30.882649+00:00"
+  "last_processed_at": "2026-08-30T15:17:12.128331+00:00"
 }
