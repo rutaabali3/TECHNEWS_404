@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-08-31T00:17:08.529872+00:00",
+  "updated_at": "2026-08-31T05:56:51.422544+00:00",
   "items": [
-    {
-      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "feed_excerpt": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-      "published": "Sun, 30 Aug 2026 18:33:44 +0000"
-    },
     {
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
@@ -18,7 +12,19 @@
       "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 30 Aug 2026 16:03:00 +0000"
+    },
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "feed_excerpt": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "published": "Mon, 31 Aug 2026 02:34:00 +0000"
+    },
+    {
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "feed_excerpt": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
+      "published": "Mon, 31 Aug 2026 02:18:57 +0000"
     }
   ],
-  "last_processed_at": "2026-08-31T00:17:10.841786+00:00"
+  "last_processed_at": "2026-08-31T05:56:53.879118+00:00"
 }
