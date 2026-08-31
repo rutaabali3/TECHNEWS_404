@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-08-31T19:36:34.640506+00:00",
+  "updated_at": "2026-08-31T23:40:08.384781+00:00",
   "items": [
-    {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "feed_excerpt": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "published": "Mon, 31 Aug 2026 02:34:00 +0000"
-    },
     {
       "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
       "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
@@ -102,7 +96,31 @@
       "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
       "feed_excerpt": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
       "published": "Mon, 31 Aug 2026 14:51:33 +0000"
+    },
+    {
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "feed_excerpt": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+      "published": "Mon, 31 Aug 2026 23:14:14 +0000"
+    },
+    {
+      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+      "feed_excerpt": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+      "published": "Mon, 31 Aug 2026 22:14:05 +0000"
+    },
+    {
+      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+      "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+      "feed_excerpt": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+      "published": "Mon, 31 Aug 2026 20:20:25 +0000"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "feed_excerpt": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "published": "Mon, 31 Aug 2026 20:13:45 +0000"
     }
   ],
-  "last_processed_at": "2026-08-31T19:36:37.217950+00:00"
+  "last_processed_at": "2026-08-31T23:40:10.717228+00:00"
 }
