@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-01T09:33:02.554954+00:00",
+  "updated_at": "2026-09-01T14:37:40.473555+00:00",
   "items": [
-    {
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "published": "Mon, 31 Aug 2026 19:32:21 +0000"
-    },
     {
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
@@ -132,7 +126,31 @@
       "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
       "feed_excerpt": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
       "published": "Tue, 01 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa",
+      "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+      "feed_excerpt": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
+      "published": "Tue, 01 Sep 2026 14:20:44 +0000"
+    },
+    {
+      "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
+      "published": "Tue, 01 Sep 2026 14:03:00 +0000"
+    },
+    {
+      "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+      "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+      "feed_excerpt": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+      "published": "Tue, 01 Sep 2026 13:58:42 +0000"
+    },
+    {
+      "title": "If space data centers feel far-fetched, why not interstellar travel?",
+      "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+      "feed_excerpt": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+      "published": "Tue, 01 Sep 2026 10:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-01T09:33:04.743800+00:00"
+  "last_processed_at": "2026-09-01T14:37:42.730313+00:00"
 }
