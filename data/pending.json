@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-01T14:37:40.473555+00:00",
+  "updated_at": "2026-09-01T18:15:34.719433+00:00",
   "items": [
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "feed_excerpt": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "published": "Mon, 31 Aug 2026 19:16:59 +0000"
-    },
     {
       "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
       "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
@@ -150,7 +144,73 @@
       "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
       "feed_excerpt": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
       "published": "Tue, 01 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "feed_excerpt": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "published": "Tue, 01 Sep 2026 17:35:37 +0000"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "feed_excerpt": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "feed_excerpt": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+      "published": "Tue, 01 Sep 2026 16:49:12 +0000"
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "feed_excerpt": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "published": "Tue, 01 Sep 2026 16:31:04 +0000"
+    },
+    {
+      "title": "GoPro to be acquired for $285M, will remain a public company",
+      "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+      "feed_excerpt": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+      "published": "Tue, 01 Sep 2026 15:57:23 +0000"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "feed_excerpt": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "published": "Tue, 01 Sep 2026 15:51:55 +0000"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "feed_excerpt": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "published": "Tue, 01 Sep 2026 15:45:51 +0000"
+    },
+    {
+      "title": "Microsoft 365 outage drags on, but things are improving",
+      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+      "feed_excerpt": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+      "published": "Tue, 01 Sep 2026 15:23:15 +0000"
+    },
+    {
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "feed_excerpt": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "published": "Tue, 01 Sep 2026 15:10:58 +0000"
+    },
+    {
+      "title": "Florida and Texas move to block Flock cameras over privacy concerns",
+      "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+      "feed_excerpt": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+      "published": "Tue, 01 Sep 2026 15:00:10 +0000"
+    },
+    {
+      "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+      "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+      "feed_excerpt": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+      "published": "Tue, 01 Sep 2026 14:52:12 +0000"
     }
   ],
-  "last_processed_at": "2026-09-01T14:37:42.730313+00:00"
+  "last_processed_at": "2026-09-01T18:15:37.428154+00:00"
 }
