@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-08-31T23:40:08.384781+00:00",
+  "updated_at": "2026-09-01T04:18:15.661475+00:00",
   "items": [
-    {
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "feed_excerpt": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
-      "published": "Mon, 31 Aug 2026 02:18:57 +0000"
-    },
     {
       "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
       "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
@@ -120,7 +114,25 @@
       "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "feed_excerpt": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
       "published": "Mon, 31 Aug 2026 20:13:45 +0000"
+    },
+    {
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "feed_excerpt": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "published": "Tue, 01 Sep 2026 00:30:00 +0000"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "feed_excerpt": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "published": "Tue, 01 Sep 2026 00:13:00 +0000"
+    },
+    {
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "feed_excerpt": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "published": "Mon, 31 Aug 2026 23:41:10 +0000"
     }
   ],
-  "last_processed_at": "2026-08-31T23:40:10.717228+00:00"
+  "last_processed_at": "2026-09-01T04:18:17.908349+00:00"
 }
