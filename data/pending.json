@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-01T04:18:15.661475+00:00",
+  "updated_at": "2026-09-01T09:33:02.554954+00:00",
   "items": [
-    {
-      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "feed_excerpt": "Circleback is also introducing new pricing plans starting from $14 per month",
-      "published": "Mon, 31 Aug 2026 12:56:46 +0000"
-    },
     {
       "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
@@ -132,7 +126,13 @@
       "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
       "feed_excerpt": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
       "published": "Mon, 31 Aug 2026 23:41:10 +0000"
+    },
+    {
+      "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+      "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+      "feed_excerpt": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+      "published": "Tue, 01 Sep 2026 05:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-01T04:18:17.908349+00:00"
+  "last_processed_at": "2026-09-01T09:33:04.743800+00:00"
 }
