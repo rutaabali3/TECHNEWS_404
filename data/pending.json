@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-01T18:15:34.719433+00:00",
+  "updated_at": "2026-09-01T21:14:03.880051+00:00",
   "items": [
-    {
-      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-      "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "feed_excerpt": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-      "published": "Mon, 31 Aug 2026 19:02:06 +0000"
-    },
     {
       "title": "Microsoft tests fix for latest hours-long Outlook outage",
       "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
@@ -210,7 +204,49 @@
       "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
       "feed_excerpt": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
       "published": "Tue, 01 Sep 2026 14:52:12 +0000"
+    },
+    {
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "feed_excerpt": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "feed_excerpt": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+      "published": "Tue, 01 Sep 2026 20:53:05 +0000"
+    },
+    {
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "feed_excerpt": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+      "published": "Tue, 01 Sep 2026 20:48:32 +0000"
+    },
+    {
+      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "feed_excerpt": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+      "published": "Tue, 01 Sep 2026 19:45:28 +0000"
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "feed_excerpt": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "published": "Tue, 01 Sep 2026 19:39:22 +0000"
+    },
+    {
+      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+      "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+      "feed_excerpt": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+      "published": "Tue, 01 Sep 2026 19:30:24 +0000"
+    },
+    {
+      "title": "Who is John Ternus, the new Apple CEO?",
+      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+      "feed_excerpt": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "published": "Tue, 01 Sep 2026 18:02:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-01T18:15:37.428154+00:00"
+  "last_processed_at": "2026-09-01T21:14:06.406343+00:00"
 }
