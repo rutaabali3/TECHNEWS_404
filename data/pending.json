@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-01T21:14:03.880051+00:00",
+  "updated_at": "2026-09-01T23:28:59.071544+00:00",
   "items": [
-    {
-      "title": "Microsoft tests fix for latest hours-long Outlook outage",
-      "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-      "feed_excerpt": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
-      "published": "Mon, 31 Aug 2026 18:56:41 +0000"
-    },
     {
       "title": "Kalshi bans George Santos for life over State of the Union bets",
       "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
@@ -246,7 +240,25 @@
       "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
       "feed_excerpt": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
       "published": "Tue, 01 Sep 2026 18:02:00 +0000"
+    },
+    {
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "feed_excerpt": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "feed_excerpt": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "published": "Tue, 01 Sep 2026 22:13:34 +0000"
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "feed_excerpt": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "published": "Tue, 01 Sep 2026 22:08:24 +0000"
     }
   ],
-  "last_processed_at": "2026-09-01T21:14:06.406343+00:00"
+  "last_processed_at": "2026-09-01T23:29:01.258119+00:00"
 }

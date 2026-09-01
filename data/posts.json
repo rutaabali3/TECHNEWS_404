@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-09-01T21:14:06.406354+00:00",
+  "updated_at": "2026-09-01T23:29:01.258130+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-08-31-microsoft-tests-fix-for-latest-hours-long-outlook-outage",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800",
+      "title": "Microsoft tests fix for latest hours-long Outlook outage | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Microsoft confirmed a multi‑hour outage of its Exchange Online service on Monday, which disrupted Outlook email, calendar and authentication functions for many users. The company pinpointed a misconfigured authentication component, began testing a remediation on part of its infrastructure, and plans to roll out the fix more broadly once validated.",
+      "key_points": [
+        "Microsoft traced the outage to a misconfigured authentication component in Exchange Online",
+        "A remediation is being tested on a portion of the infrastructure before a full rollout"
+      ],
+      "topics": [
+        "microsoft",
+        "outlook",
+        "exchange",
+        "outage"
+      ],
+      "source_url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 31 Aug 2026 18:56:41 +0000",
+      "processed_at": "2026-09-01T23:29:01.258100+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-08-31-apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1660777497.jpg?resize=1200,799",
