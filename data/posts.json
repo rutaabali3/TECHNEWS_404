@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-02T07:51:03.851053+00:00",
+  "updated_at": "2026-09-02T16:15:06.533313+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Israeli-Dutch AI startup Wonderful secured $550 million in a Series C round, pushing its valuation to $5 billion, more than double its level six months ago. The funding, led by Insight Partners with participation from existing backers and new investor Salesforce, will accelerate product development and",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "processed_at": "2026-09-02T16:15:06.533279+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-01-larry-pages-flying-car-company-pivotal-loses-its-ceo",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633",
@@ -2028,99 +2044,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 00:24:57 +0000",
       "processed_at": "2026-08-27T05:48:24.757920+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-26-metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.jpg?resize=1200,800",
-      "title": "Meta's $18B child-safety deal hinges on age verification tech that doesn't work well | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Meta agreed to an $18 billion settlement with 52 state attorneys general, spread over ten years, to overhaul how minors use Instagram and Facebook. The agreement imposes design changes such as a two‑hour daily screen‑time limit, overnight blocks, muted school‑hour notifications, and hidden like counts for teen accounts. These measures depend on age‑verification technology—biometrics, ID checks, or behavioral analysis—that experts say remains unreliable and introduces new privacy risks. Meta is promoting the deal as a safety leadership move, while linking part of the payment to compliance by TikTok and YouTube.",
-      "key_points": [
-        "Meta will pay $18 billion over a decade to settle child‑safety lawsuits brought by 52 state AGs.",
-        "The settlement requires new default limits on screen time, night‑time blocks, and reduced visibility of like counts for minors.",
-        "Implementation hinges on age‑verification systems that currently struggle with accuracy and raise data‑privacy concerns.",
-        "Roughly 30% of the settlement amount is contingent on TikTok and YouTube adopting comparable safeguards."
-      ],
-      "topics": [
-        "child safety",
-        "age verification",
-        "privacy",
-        "meta settlement"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 26 Aug 2026 22:47:58 +0000",
-      "processed_at": "2026-08-26T22:56:52.386749+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-26-anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Anthropic has agreed to rent roughly $45 billion of AI compute from British infrastructure firm Nscale, using Nvidia’s Vera Rubin chip system. The six‑year agreement will draw power from Nscale’s West Virginia data center and is slated to begin feeding Anthropic’s services in late 2027. This deal follows a series of large compute contracts Anthropic signed in the past year, including $10 billion with Volta, $5 billion with AMD, and a monthly $1.25 billion arrangement with SpaceX. The moves underscore Anthropic’s push to match rivals such as OpenAI by rapidly expanding its hardware capacity.",
-      "key_points": [
-        "Anthropic’s $45 billion six‑year compute rental from Nscale will use Nvidia Vera Rubin chips and start in late 2027",
-        "Nscale, founded in 2024, already supplies compute to Microsoft and will provide the capacity from its West Virginia data center",
-        "Anthropic has recently secured multiple other compute deals: $10 billion with Volta (Norway), $5 billion with AMD, $1.25 billion per month from SpaceX, plus expanded access with Amazon, Google and Broadcom"
-      ],
-      "topics": [
-        "ai",
-        "compute",
-        "partnerships"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 26 Aug 2026 21:37:39 +0000",
-      "processed_at": "2026-08-26T22:56:54.658059+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-26-googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-      "title": "Google's Gemini has a branding problem, and so does the rest of AI | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google’s Gemini app bundles several AI functions—Chat, Spark, Daily Brief—each with its own branding, creating a confusing user experience. The Daily Brief tries to deliver proactive updates from Gmail and Calendar but often surfaces irrelevant or intrusive suggestions. Spark, an actionable AI agent, is useful but is presented as a separate product, forcing users to pick modes manually. The article argues that this branding‑heavy approach mirrors a broader industry trend that complicates consumer interaction, contrasting it with Apple’s seamless integration of AI into existing interfaces.",
-      "key_points": [
-        "Gemini’s interface separates chat, Spark, and Daily Brief into distinct icons within the app",
-        "Daily Brief pulls data from Google services but can deliver unwanted or creepy prompts",
-        "Spark can act on behalf of users but is marketed as a standalone brand",
-        "Other AI platforms like Claude and ChatGPT also require users to switch between named modes"
-      ],
-      "topics": [
-        "ai",
-        "user experience",
-        "branding"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 26 Aug 2026 19:37:34 +0000",
-      "processed_at": "2026-08-26T22:56:56.192253+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-26-how-do-we-explain-openais-executive-exodus",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-      "title": "How do we explain OpenAI's executive exodus? | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI has experienced a wave of executive departures since the start of the year, including its COO, CRO, CMO and head of data centers Chris Malone, who left after only a few months. The exits are tied to health issues and a reorganization aimed at cutting side projects and focusing on revenue as the company prepares for an IPO filed confidentially in June, with a tentative 2027 timeline. Greg Brockman, co‑founder and president, is regaining control of infrastructure and product teams, while the firm’s GPT‑5.6 desktop app added roughly 15 million users in the last two months. Analysts note that OpenAI’s losses are rising even as revenue grows, increasing pressure to trim costs before going public.",
-      "key_points": [
-        "More than a dozen senior executives, including the COO and head of data centers, have left OpenAI since early 2024.",
-        "Reorganization targets side projects to boost revenue ahead of a planned IPO filed confidentially in June, expected around 2027.",
-        "Greg Brockman’s influence is expanding as infrastructure and product groups now report to him.",
-        "OpenAI’s GPT‑5.6 app gained about 15 million subscribers in the past two months, while losses are increasing despite higher revenue."
-      ],
-      "topics": [
-        "openai",
-        "executive turnover",
-        "ipo",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 26 Aug 2026 19:34:04 +0000",
-      "processed_at": "2026-08-26T22:56:58.152029+00:00"
     }
   ]
 }
