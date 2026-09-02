@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
 QUEUE_OUTPUT = "data/pending.json"
-PUBLISH_INTERVAL = timedelta(minutes=90)
+PUBLISH_INTERVAL = timedelta(minutes=60)
 USER_AGENT = "TECHNEWS_404/1.0 (+https://github.com/rutaabali3/TECHNEWS_404)"
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
