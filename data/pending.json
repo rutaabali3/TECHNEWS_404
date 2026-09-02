@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-02T01:18:44.328600+00:00",
+  "updated_at": "2026-09-02T06:15:31.588763+00:00",
   "items": [
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "feed_excerpt": "The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
-      "published": "Mon, 31 Aug 2026 18:35:11 +0000"
-    },
     {
       "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
       "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
@@ -260,5 +254,5 @@
       "published": "Tue, 01 Sep 2026 23:59:59 +0000"
     }
   ],
-  "last_processed_at": "2026-09-02T01:18:46.593873+00:00"
+  "last_processed_at": "2026-09-02T06:15:33.638586+00:00"
 }
