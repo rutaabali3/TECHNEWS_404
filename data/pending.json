@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-01T23:28:59.071544+00:00",
+  "updated_at": "2026-09-02T01:18:44.328600+00:00",
   "items": [
-    {
-      "title": "Kalshi bans George Santos for life over State of the Union bets",
-      "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
-      "feed_excerpt": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
-      "published": "Mon, 31 Aug 2026 18:53:41 +0000"
-    },
     {
       "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
       "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
@@ -258,7 +252,13 @@
       "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "feed_excerpt": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
       "published": "Tue, 01 Sep 2026 22:08:24 +0000"
+    },
+    {
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "feed_excerpt": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "published": "Tue, 01 Sep 2026 23:59:59 +0000"
     }
   ],
-  "last_processed_at": "2026-09-01T23:29:01.258119+00:00"
+  "last_processed_at": "2026-09-02T01:18:46.593873+00:00"
 }
