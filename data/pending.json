@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-02T19:27:29.548090+00:00",
+  "updated_at": "2026-09-02T21:57:09.443251+00:00",
   "items": [
-    {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "feed_excerpt": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
-      "published": "Wed, 02 Sep 2026 15:01:23 +0000"
-    },
     {
       "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
       "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
@@ -72,7 +66,31 @@
       "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
       "feed_excerpt": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
       "published": "Wed, 02 Sep 2026 16:54:23 +0000"
+    },
+    {
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "feed_excerpt": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "published": "Wed, 02 Sep 2026 21:38:34 +0000"
+    },
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "feed_excerpt": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "published": "Wed, 02 Sep 2026 20:19:14 +0000"
+    },
+    {
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "feed_excerpt": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+      "published": "Wed, 02 Sep 2026 20:12:41 +0000"
+    },
+    {
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "feed_excerpt": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+      "published": "Wed, 02 Sep 2026 19:35:09 +0000"
     }
   ],
-  "last_processed_at": "2026-09-02T19:27:31.819492+00:00"
+  "last_processed_at": "2026-09-02T21:57:11.791523+00:00"
 }

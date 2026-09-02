@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-02T19:27:31.819504+00:00",
+  "updated_at": "2026-09-02T21:57:11.791537+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "AI security firm HiddenLayer announced a $100 million Series B round to accelerate its protection tools for generative AI models, agents, and toolchains. The company says its annual recurring revenue has surged into the tens of millions, fueled by new contracts with financial services, large tech firms, and U.S. defense agencies. It plans to broaden its product suite and expand into Europe as the market for AI safeguards expands rapidly.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 15:01:23 +0000",
+      "processed_at": "2026-09-02T21:57:11.791495+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800",
@@ -2015,27 +2031,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 11:35:59 +0000",
       "processed_at": "2026-08-30T15:45:21.772022+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-26-nvidia-closes-in-on-hugging-face-acquisition",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
-      "title": "Nvidia closes in on Hugging Face acquisition | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "The Information reported that Nvidia has agreed to buy Hugging Face for $12.9 billion, although other outlets noted talks had not produced a signed agreement and valuations above $13 billion were cited. The deal would bolster Nvidia’s presence in open-source AI and cloud services as Hugging Face, founded in 2016, has been growing revenue and partnerships with major tech firms.",
-      "key_points": [
-        "Reported purchase price: $12.9 billion, with talks not yet finalized",
-        "Hugging Face generated about $150 million in annual revenue and was valued at $4.5 billion in 2023"
-      ],
-      "topics": [
-        "mergers",
-        "ai",
-        "open-source"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
-      "processed_at": "2026-08-30T15:45:33.895551+00:00"
     }
   ]
 }
