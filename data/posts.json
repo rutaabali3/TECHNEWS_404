@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-02T16:15:06.533313+00:00",
+  "updated_at": "2026-09-02T19:27:31.819504+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800",
+      "title": "India's richest man now wants to turn aging computers into AI-ready PCs | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Reliance Jio has opened its JioPC cloud‑PC service to any internet user in India, allowing older computers to run AI‑ready workloads without hardware upgrades. Subscriptions start at ₹1,000 for two months and provide up to 16 GB of RAM and 1 TB of storage streamed from Jio’s data centers.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "processed_at": "2026-09-02T19:27:31.819476+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
       "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
@@ -2020,30 +2036,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 06:32:51 +0000",
       "processed_at": "2026-08-30T15:45:33.895551+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-26-viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Instinct, an AI assistant startup founded last year, has raised $350 million in total funding, including a $250 million Series B round co-led by Index Ventures and Benchmark, reaching a $2.5 billion valuation. The company, led by 23-year-old Noah Shinn, offers an AI agent that connects to users' apps and devices to organize tasks like travel planning and subscription management. The service is currently in private beta and has drawn privacy concerns over its app permissions and terms of use.",
-      "key_points": [
-        "Raised $250 million Series B co-led by Index Ventures and Benchmark.",
-        "Total funding of $350 million at a $2.5 billion valuation.",
-        "Founded by 23-year-old Noah Shinn; offers an AI life-organizing assistant.",
-        "Currently in private beta and facing privacy concerns."
-      ],
-      "topics": [
-        "ai",
-        "startups",
-        "funding",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 00:24:57 +0000",
-      "processed_at": "2026-08-27T05:48:24.757920+00:00"
     }
   ]
 }
