@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-09-02T07:46:51.093717+00:00",
+  "updated_at": "2026-09-02T07:51:03.851053+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-01-larry-pages-flying-car-company-pivotal-loses-its-ceo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633",
+      "title": "Larry Page's flying car company Pivotal loses its CEO | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Ken Karklin has left his role as CEO of Larry Page–backed Pivotal after more than four years, and board member Mike Ross has been appointed interim CEO. Pivotal, which began sales of its single-seat Helix two years ago (starting around $200,000), also operates the BlackFly platform that has logged over 10,000 flights and was used last month in an emergency response.",
+      "key_points": [
+        "Ken Karklin departed as CEO after more than four years; Mike Ross named interim CEO.",
+        "Helix sales began two years ago with a starting price around $200,000; BlackFly has flown over 10,000 times and aided a response last month."
+      ],
+      "topics": [
+        "evtol",
+        "aviation",
+        "leadership"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 01 Sep 2026 23:59:59 +0000",
+      "processed_at": "2026-09-02T07:50:47.497163+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-01-reliances-jiohotstar-takes-its-streaming-empire-global-without-sports",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675",
+      "title": "Reliance's JioHotstar takes its streaming empire global — without sports | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Reliance Industries’ JioHotstar is expanding outside India for the first time, replacing Hotstar in the U.K., Canada, and Singapore on September 2 with apps on mobile and connected TVs. The service launches with more than 160,000 hours of Indian films, TV originals and live TV channels but will not offer live sports at debut due to existing content deals.",
+      "key_points": [
+        "JioHotstar replaces Hotstar in the U.K., Canada, and Singapore on September 2",
+        "Launch includes 160,000+ hours of entertainment content but excludes live sports at debut"
+      ],
+      "topics": [
+        "streaming",
+        "international-expansion",
+        "media"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+      "processed_at": "2026-09-02T07:50:55.588497+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-01-apple-follows-google-in-adopting-trumps-lake-america-name",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/apple-maps-lake-america.png?w=1108",
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Apple updated Apple Maps to display Lake Ontario as \"Lake America\" for users in the United States, following Google and an executive order signed by President Trump on August 27. MapQuest refused to rename the lake and its iOS app climbed to No. 1 in U.S. App Store downloads as users sought alternatives.",
+      "key_points": [
+        "Apple Maps shows \"Lake America\" to U.S. users after Trump’s August 27 executive order",
+        "MapQuest refused the rename and its iOS app reached No. 1 in U.S. App Store downloads"
+      ],
+      "topics": [
+        "apple",
+        "maps",
+        "geopolitics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 01 Sep 2026 22:13:34 +0000",
+      "processed_at": "2026-09-02T07:51:03.850703+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-01-afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b",
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
