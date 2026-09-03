@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-03T17:37:44.835166+00:00",
+  "updated_at": "2026-09-03T19:57:37.680886+00:00",
   "items": [
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "feed_excerpt": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "published": "Wed, 02 Sep 2026 12:09:42 +0000"
-    },
-    {
-      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-      "feed_excerpt": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-      "published": "Wed, 02 Sep 2026 19:25:35 +0000"
-    },
     {
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
       "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
@@ -132,7 +120,43 @@
       "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "feed_excerpt": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
       "published": "Thu, 03 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "feed_excerpt": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+      "published": "Thu, 03 Sep 2026 19:42:48 +0000"
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "feed_excerpt": "The high-profile startup's annual revenue run rate stands at at over $100 million.",
+      "published": "Thu, 03 Sep 2026 19:36:29 +0000"
+    },
+    {
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "feed_excerpt": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+      "published": "Thu, 03 Sep 2026 19:29:16 +0000"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "feed_excerpt": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "published": "Thu, 03 Sep 2026 18:37:57 +0000"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "feed_excerpt": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "published": "Thu, 03 Sep 2026 18:19:56 +0000"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "feed_excerpt": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "published": "Thu, 03 Sep 2026 18:01:45 +0000"
     }
   ],
-  "last_processed_at": "2026-09-03T17:37:47.072683+00:00"
+  "last_processed_at": "2026-09-03T19:57:40.899805+00:00"
 }

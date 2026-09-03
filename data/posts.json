@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-09-03T17:37:47.072696+00:00",
+  "updated_at": "2026-09-03T19:57:54.193821+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-delivery-hero-board-backs-ubers-15b-takeover-bid",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/delivery-hero-getty.jpg?resize=1200,800",
+      "title": "Delivery Hero board backs Uber's $15B takeover bid | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 19:25:35 +0000",
+      "processed_at": "2026-09-03T19:57:40.899783+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 12:09:42 +0000",
+      "processed_at": "2026-09-03T19:57:39.448661+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-uber-is-laying-off-10-of-staff-or-3300-people",
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
@@ -1961,49 +1993,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 14:56:52 +0000",
       "processed_at": "2026-08-30T15:43:44.693201+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-hold-up-theres-a-new-twitter-in-the-town",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg?w=938",
-      "title": "Hold up, there's a new Twitter in town | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Operation Bluebird is testing a new social network called Twitter.now, led by former Twitter trademark counsel Stephen Coates, after X sued the startup last year over its name. The site charges $20 for early access and uses an AI called VERA to assign trust scores, cite claim sources, and let users filter content amid broader moderation challenges.",
-      "key_points": [
-        "Twitter.now is run by Operation Bluebird and led by former Twitter trademark counsel Stephen Coates.",
-        "The platform is in testing with $20 early access and uses an AI named VERA to generate trust scores and provide claim sources."
-      ],
-      "topics": [
-        "social media",
-        "ai",
-        "lawsuit",
-        "moderation"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 14:40:22 +0000",
-      "processed_at": "2026-08-30T15:43:55.054223+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-08-27-sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
-      "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "A TechCrunch review of OSHA submissions and interviews shows Waymo and Zoox test drivers sustained more than two dozen injuries in 2024 and 2025 from hard braking, abrupt maneuvers, and system \"nogo\" shutdowns while testing robotaxis on public roads. Transdev logged 16 injuries tied to Waymo depot locations across San Francisco, Los Angeles, and Phoenix, and Zoox reported as many as eight contractor injuries; both firms say they follow reporting rules but declined detailed answers.",
-      "key_points": [
-        "Transdev reported 16 injuries tied to Waymo depots in San Francisco, Los Angeles, and Phoenix.",
-        "Zoox reported up to eight contractor injuries, with multiple incidents linked to hard braking or system nogos."
-      ],
-      "topics": [
-        "robotaxis",
-        "autonomous-vehicles",
-        "workplace-safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 14:36:37 +0000",
-      "processed_at": "2026-08-30T15:44:10.953841+00:00"
     }
   ]
 }
