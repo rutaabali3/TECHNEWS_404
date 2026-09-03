@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-03T09:31:42.986503+00:00",
+  "updated_at": "2026-09-03T14:15:02.682039+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-adobe-is-making-its-tools-available-in-slack",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
+      "title": "Adobe is making its tools available in Slack | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Adobe announced that its suite of more than 70 creative and productivity apps, including Firefly, Photoshop and Acrobat, can now be accessed through Slack’s AI chatbot,",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 13:09:27 +0000",
+      "processed_at": "2026-09-03T14:15:02.682013+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
@@ -1994,27 +2010,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 14:27:52 +0000",
       "processed_at": "2026-08-30T15:44:26.534830+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-ais-memory-crunch-is-coming-for-android-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
-      "title": "AI's memory crunch is coming for Android apps | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google is updating Android app quality rules to impose memory-use and code-optimization thresholds — including limits on dynamic memory and bitmap usage — in response to industry memory shortages driven by the AI data center boom. New developer tools will flag threshold violations, a Memory Limiter and additional diagnostics are planned, and compliance is required by February 2027; additionally, all Play Store apps must support Zero Tap Sign-In during device migrations by April 2027 via the Android Restore Credentials API.",
-      "key_points": [
-        "Developers must meet new memory and code-optimization thresholds (including dynamic memory and bitmap usage) by February 2027.",
-        "All Play Store apps must implement Zero Tap Sign-In for device migrations by April 2027 using the Android Restore Credentials API."
-      ],
-      "topics": [
-        "android",
-        "google",
-        "memory"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "processed_at": "2026-08-30T15:44:38.691821+00:00"
     }
   ]
 }

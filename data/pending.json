@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-03T09:31:40.921483+00:00",
+  "updated_at": "2026-09-03T14:15:00.520558+00:00",
   "items": [
-    {
-      "title": "Adobe is making its tools available in Slack",
-      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-      "feed_excerpt": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-      "published": "Wed, 02 Sep 2026 13:09:27 +0000"
-    },
     {
       "title": "Uber is laying off 10% of staff, or 3,300 people",
       "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
@@ -90,7 +84,31 @@
       "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "feed_excerpt": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
       "published": "Wed, 02 Sep 2026 22:24:09 +0000"
+    },
+    {
+      "title": "Volunteer at TechCrunch Founder Summit in Boston",
+      "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+      "feed_excerpt": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get […]",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+      "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "feed_excerpt": "TikTok’s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments. With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform. […]",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "feed_excerpt": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "published": "Thu, 03 Sep 2026 12:42:45 +0000"
+    },
+    {
+      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+      "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "feed_excerpt": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+      "published": "Thu, 03 Sep 2026 12:12:56 +0000"
     }
   ],
-  "last_processed_at": "2026-09-03T09:31:42.986488+00:00"
+  "last_processed_at": "2026-09-03T14:15:02.682028+00:00"
 }
