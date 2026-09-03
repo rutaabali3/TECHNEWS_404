@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-03T14:15:02.682039+00:00",
+  "updated_at": "2026-09-03T17:37:47.072696+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-uber-is-laying-off-10-of-staff-or-3300-people",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
+      "title": "Uber is laying off 10% of staff, or 3,300 people | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 12:14:35 +0000",
+      "processed_at": "2026-09-03T17:37:47.072668+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-adobe-is-making-its-tools-available-in-slack",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
@@ -1988,28 +2004,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 14:36:37 +0000",
       "processed_at": "2026-08-30T15:44:10.953841+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?resize=1200,744",
-      "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Australian police in Perth arrested two people accused of being members of TeamPCP and charged with more than a dozen hacking, money‑laundering and other cybercrime offenses; they are expected in court Thursday. Authorities say the group modified popular open-source tools to steal credentials—allegedly more than half a million—and the FBI says the suspects are accused of breaching over a thousand organizations, impacting tools and companies including Trivy, Mercor, LiteLLM and OpenAI.",
-      "key_points": [
-        "Two arrests in Perth; charged with more than a dozen cybercrime offenses.",
-        "Alleged TeamPCP attacks modified open-source tools, stole 500,000+ credentials and affected Trivy, Mercor, LiteLLM and others."
-      ],
-      "topics": [
-        "cybersecurity",
-        "software-supply-chain",
-        "teampcp",
-        "australia"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 14:27:52 +0000",
-      "processed_at": "2026-08-30T15:44:26.534830+00:00"
     }
   ]
 }

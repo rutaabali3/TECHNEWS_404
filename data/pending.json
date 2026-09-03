@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-03T14:15:00.520558+00:00",
+  "updated_at": "2026-09-03T17:37:44.835166+00:00",
   "items": [
-    {
-      "title": "Uber is laying off 10% of staff, or 3,300 people",
-      "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
-      "feed_excerpt": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
-      "published": "Wed, 02 Sep 2026 12:14:35 +0000"
-    },
     {
       "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
       "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
@@ -108,7 +102,37 @@
       "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
       "feed_excerpt": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
       "published": "Thu, 03 Sep 2026 12:12:56 +0000"
+    },
+    {
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "feed_excerpt": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+      "published": "Thu, 03 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "feed_excerpt": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+      "published": "Thu, 03 Sep 2026 16:42:54 +0000"
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "feed_excerpt": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "published": "Thu, 03 Sep 2026 16:09:01 +0000"
+    },
+    {
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "feed_excerpt": "Users can search for emails or draft documents using the new conversational feature.",
+      "published": "Thu, 03 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "feed_excerpt": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "published": "Thu, 03 Sep 2026 15:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-03T14:15:02.682028+00:00"
+  "last_processed_at": "2026-09-03T17:37:47.072683+00:00"
 }
