@@ -1,4 +1,6 @@
-# TECHNEWS_404 [![Update TechCrunch summaries](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml/badge.svg)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml) [![pages-build-deployment](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment)
+# TECHNEWS_404 
+[![Update TechCrunch summaries](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml/badge.svg)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml) 
+[![pages-build-deployment](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment)
 
 TECHNEWS_404 is a GitHub-only technology news digest. A GitHub Actions job checks the public TechCrunch RSS feed every 30 minutes, adds newly published articles to a persistent queue, publishes one queued article at a time after a 60-minute cooldown, stores structured records in `data/posts.json`, and deploys the static site through GitHub Pages.
 
