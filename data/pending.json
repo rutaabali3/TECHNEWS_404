@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-03T20:54:59.228629+00:00",
+  "updated_at": "2026-09-03T23:04:48.840469+00:00",
   "items": [
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "feed_excerpt": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "published": "Wed, 02 Sep 2026 20:19:14 +0000"
-    },
-    {
-      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-      "feed_excerpt": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-      "published": "Wed, 02 Sep 2026 20:12:41 +0000"
-    },
-    {
-      "title": "It sure looks like hackers breached a major ID card verification service",
-      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-      "feed_excerpt": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-      "published": "Wed, 02 Sep 2026 19:35:09 +0000"
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "feed_excerpt": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "published": "Wed, 02 Sep 2026 23:01:00 +0000"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "feed_excerpt": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "published": "Wed, 02 Sep 2026 22:44:56 +0000"
-    },
     {
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
       "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
@@ -126,7 +96,25 @@
       "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "feed_excerpt": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
       "published": "Thu, 03 Sep 2026 18:01:45 +0000"
+    },
+    {
+      "title": "Oura files to go public",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "feed_excerpt": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "published": "Thu, 03 Sep 2026 22:35:41 +0000"
+    },
+    {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "feed_excerpt": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "published": "Thu, 03 Sep 2026 22:18:30 +0000"
+    },
+    {
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "feed_excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "published": "Thu, 03 Sep 2026 20:59:23 +0000"
     }
   ],
-  "last_processed_at": "2026-09-03T20:55:27.334519+00:00"
+  "last_processed_at": "2026-09-03T23:05:13.869621+00:00"
 }
