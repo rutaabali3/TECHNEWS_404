@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-03T19:57:54.193821+00:00",
+  "updated_at": "2026-09-03T20:55:43.723824+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "The Justice Department has pursued two antitrust suits against Google—one in 2020 over its search dominance and another in 2023 targeting its ad‑technology arm—both of which courts have ruled as illegal monopolies. In September 2025, Judge Amit Mehta denied the DOJ’s request to divest Chrome and Android, ordering Google to end exclusive default‑placement deals and share search data instead. A week later, Judge Leonie M. Brinkema confirmed that Google may keep its advertising business but must adjust its practices to favor competitors, though the specific remedies remain under seal for 14 days. Google has framed the outcome as a win, asserting that the court’s decision preserves tools that help small businesses reach customers.",
+      "key_points": [
+        "The DOJ filed two antitrust lawsuits, one in 2020 over search and another in 2023 over ad‑tech, both resulting in court rulings that Google’s practices were illegal monopolies.",
+        "Judge Amit Mehta in September 2025 rejected divestiture of Chrome and Android but required Google to end exclusive default‑placement deals and share search data.",
+        "Judge Leonie M. Brinkema allowed Google to keep its ad business but mandated adjustments to favor competitors, with specific remedies still sealed.",
+        "Google publicly welcomed the rulings, claiming they protect tools that help small businesses reach new customers."
+      ],
+      "topics": [
+        "antitrust",
+        "google",
+        "adtech",
+        "search",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 21:38:34 +0000",
+      "processed_at": "2026-09-03T20:55:27.334503+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+      "title": "Pangram's Max Spero on why AI detection is harder than 'Real or Fake' | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Pangram, a startup focused on AI detection, has raised $9 million and partnered with Substack to flag AI‑generated newsletter content. The company also launched a new AI image detection tool to help platforms and users spot synthetic media. Co‑founder and CEO Max Spero discussed the challenges of distinguishing AI‑assisted from fully AI‑generated text on TechCrunch’s Equity podcast. The conversation highlights the growing need for a “trust layer” as AI‑generated content infiltrates job applications, reviews, and insurance claims.",
+      "key_points": [
+        "Pangram secured $9 million in funding and partnered with Substack to identify AI‑generated newsletters",
+        "The startup released a new AI image detection tool to combat synthetic media",
+        "CEO Max Spero explained the difficulty of separating AI‑assisted from fully AI‑generated content",
+        "The discussion underscores the urgent need for a trust layer amid rising AI‑generated content in various domains"
+      ],
+      "topics": [
+        "ai",
+        "ai detection",
+        "startup",
+        "trust",
+        "media"
+      ],
+      "source_url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 17:18:13 +0000",
+      "processed_at": "2026-09-03T20:55:01.360731+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-x-shifts-us-creator-payouts-from-stripe-to-x-money",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607",
+      "title": "X shifts US creator payouts from Stripe to X Money | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Elon Musk’s social network X has moved all U.S. creator payouts from Stripe to its own payments service, X Money, effective today. The new system offers instant payments with no $30 minimum and no waiting for a billing cycle, but it appears to force U.S. creators to use X Money, while creators outside the U.S. remain on Stripe. X Money is part of Musk’s plan to turn X into an “everything app,” providing banking features such as a card with 3% cash back and free ATM withdrawals, though the accounts are held at FDIC‑insured Cross River Bank. X will also issue 1099‑NEC forms for individual creators and collect W‑9s for LLCs to ensure accurate tax reporting.",
+      "key_points": [
+        "X Money replaces Stripe for all U.S. creator payouts, offering instant payments with no minimum threshold",
+        "Creators outside the U.S. continue to receive payouts via Stripe",
+        "X Money provides banking perks like a 3% cashback card and free ATM withdrawals, but is not a bank",
+        "X will issue 1099‑NEC forms for individual creators and collect W‑9s for LLCs"
+      ],
+      "topics": [
+        "x",
+        "creator payouts",
+        "payments",
+        "stripe",
+        "x money"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 17:12:27 +0000",
+      "processed_at": "2026-09-03T20:55:02.430159+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "The Trump administration has filed a 20‑page brief supporting OpenAI in a lawsuit brought by The New York Times over the company’s use of copyrighted material to train its large language models. The brief cites a 2023 executive order and argues that AI training is a transformative fair‑use activity essential to maintaining U.S. leadership in artificial intelligence. While courts have generally ruled in favor of AI firms, the brief underscores that unfair practices—such as Anthropic’s use of pirated books—can still lead to penalties. Though not a legal ruling, the intervention could carry persuasive weight in the ongoing case.",
+      "key_points": [
+        "Trump administration filed a 20‑page brief backing OpenAI’s use of copyrighted material for training LLMs",
+        "The brief cites a 2023 executive order and fair‑use arguments to defend AI training",
+        "Past court rulings have largely favored AI companies, but Anthropic was fined for using pirated books",
+        "The brief may influence the case but does not constitute a legal ruling"
+      ],
+      "topics": [
+        "ai",
+        "copyright",
+        "law",
+        "openai",
+        "trump administration"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "processed_at": "2026-09-03T20:55:03.443679+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Google has agreed to purchase 396 megawatts of electricity from Fervo’s Cape Station geothermal plant in Utah, with an option to buy an additional 600 megawatts through June 2030. The deal supports Google’s planned data center and its net‑zero emissions target by providing clean power for AI workloads. Fervo’s advanced enhanced‑geothermal technology could eventually double U.S. geothermal capacity, making the partnership a significant step toward larger renewable adoption. The announcement also gave Fervo’s stock a 30% lift before a broader sell‑off in the market.",
+      "key_points": [
+        "Google will buy 396 MW from Fervo’s Cape Station, with an option for 600 MW until 2030",
+        "The agreement helps Google meet its net‑zero goal while powering a new data center",
+        "Fervo’s technology could double U.S. geothermal capacity if fully developed",
+        "The deal temporarily boosted Fervo’s stock by about 30%"
+      ],
+      "topics": [
+        "geothermal",
+        "google",
+        "net-zero",
+        "data center",
+        "energy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 16:54:23 +0000",
+      "processed_at": "2026-09-03T20:55:14.125868+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-delivery-hero-board-backs-ubers-15b-takeover-bid",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/delivery-hero-getty.jpg?resize=1200,800",
@@ -1884,115 +2009,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 17:05:45 +0000",
       "processed_at": "2026-08-27T17:06:19.719434+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?resize=1200,800",
-      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Atorie announced a $9.5 million seed round backed by a16z Speedrun, Night Capital, and Lightspeed Ventures' Jeremy Liew. The startup sells handbags and clothing made in the same factories as luxury brands, but at significantly lower prices. Founder Redouane Ramdani said manufacturers increasingly handle their own design and product development, while AI helps forecast demand and reduce overproduction. Atorie reported about $5 million in sales last year and expects to surpass a $55 million annualized run rate this year. The new funding will support logistics, AI tools, production, and an in-house product line.",
-      "key_points": [
-        "Atorie raised $9.5 million in seed funding from investors including a16z Speedrun, Night Capital, and Jeremy Liew.",
-        "The company works with over 40 factories globally to sell factory-made goods without luxury brand markups.",
-        "Atorie ended last year with around $5 million in sales and expects an annualized run rate above $55 million this year.",
-        "The startup plans to use the capital for logistics, AI development, production, and launching its own in-house line."
-      ],
-      "topics": [
-        "fashion",
-        "startups",
-        "ai",
-        "luxury goods"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 17:00:00 +0000",
-      "processed_at": "2026-08-27T17:40:15.222272+00:00"
-    },
-    {
-      "id": "ch-com-2026-08-27-hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Hoomanely-Executives_Harshal-Hinger-COO_Sai-Supriya-Sharath-CEO_Vipin-Ravindran-CTO.jpeg?resize=1200,800",
-      "title": "Hoomanely's building a smart feeding bowl and an AI platform to help owners spot when their pup is sick | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Palo Alto startup Hoomanely is building the EverBowl, a sensor-equipped feeding station and AI platform that monitors dogs’ eating and drinking patterns, chewing sounds, facial thermals and other signals to establish health baselines and alert owners to prolonged deviations. After an 18-month beta that collected about 5 million data points from more than 80 dogs, the company has shipped roughly 50 devices, charges a $29/month subscription, has raised $1.8 million in pre-seed funding, and is planning veterinary studies and additional devices.",
-      "key_points": [
-        "Beta gathered ~5 million data points across 80+ dogs over 18 months; about 50 EverBowl units shipped.",
-        "Service is $29/month; Hoomanely raised $1.8M pre-seed and is designing veterinary studies to measure sensitivity and specificity."
-      ],
-      "topics": [
-        "pet-health",
-        "ai",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 16:53:50 +0000",
-      "processed_at": "2026-08-30T15:43:00.012165+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-      "title": "Google's AI Mode can now track flight prices, help book hotels, and more | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Google expanded AI Mode to handle travel planning and bookings, adding flight price tracking, itinerary building, hotel booking, and the ability to show costs in points or miles. Flight results pull from 300+ airlines and travel sites with price tracking available in 180+ countries, while hotel booking is rolling out in the U.S. in English with major partners and completes via a “Continue on Google” flow using Google Pay.",
-      "key_points": [
-        "Flight search and price tracking use data from 300+ airlines and travel sites; tracking is available in 180+ countries.",
-        "Hotel booking is rolling out in the U.S. (English) with partners including Booking.com, Expedia, Hilton, Marriott and IHG, and bookings complete via “Continue on Google” and Google Pay."
-      ],
-      "topics": [
-        "google",
-        "ai",
-        "travel",
-        "booking"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "processed_at": "2026-08-30T15:43:12.593123+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-this-former-pge-engineer-is-building-a-google-maps-for-the-underground",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/civilgrid-platform-project-frames.jpg?resize=1200,953",
-      "title": "This former PG&E engineer is building a 'Google Maps for the underground' | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Josh Mackanic left PG&E and in 2020 founded CivilGrid to aggregate and standardize records about buried pipes, cables and other subsurface assets into a single mapping and data platform for governments, engineering firms and utilities. The startup raised a $26 million Series A led by Spark Capital, and a PG&E case study found CivilGrid’s data could avoid $60 million in paving costs across 1,600 planned gas distribution projects.",
-      "key_points": [
-        "Raised $26 million Series A led by Spark Capital",
-        "PG&E case study identified $60 million in avoidable paving costs across 1,600 gas projects"
-      ],
-      "topics": [
-        "infrastructure",
-        "utilities",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 15:00:00 +0000",
-      "processed_at": "2026-08-30T15:43:27.408355+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Hugging Face unveiled the Microduck, a 25-centimeter open-source duck robot priced at $399 that is slated to ship before Christmas. The device includes a camera, lidar and two IMUs, can perform actions like waddling and grasping, and its behaviors can be trained with reinforcement learning; the SDK, simulation and full RL training stack are available on GitHub. Microduck was developed by Pollen Robotics after Hugging Face acquired the company in April 2025 and complements its Reachy Mini lineup.",
-      "key_points": [
-        "$399 price, ships before Christmas",
-        "camera, lidar and two IMUs; SDK and RL stack available on GitHub"
-      ],
-      "topics": [
-        "robotics",
-        "open-source",
-        "hugging face"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "processed_at": "2026-08-30T15:43:44.693201+00:00"
     }
   ]
 }
