@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-03T00:01:27.503401+00:00",
+  "updated_at": "2026-09-03T04:53:19.257060+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-adobe-acquires-indian-market-intelligence-startup-rilo",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+      "title": "Adobe acquires Indian market intelligence startup Rilo | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Adobe has acquired Indian marketing intelligence startup Rilo, taking its six‑person team and workflow‑automation technology to strengthen its CX and marketing suite. The terms were not disclosed, and Rilo will be shut down after the deal, giving its investors an exit. This follows Adobe's earlier acquisition of Rephrase.ai in 2023.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 14:03:57 +0000",
+      "processed_at": "2026-09-03T04:53:19.257030+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-lm.jpg?resize=1200,675",
@@ -2004,27 +2020,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 14:01:42 +0000",
       "processed_at": "2026-08-30T15:44:52.160345+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?resize=1200,675",
-      "title": "Plaud's new earphones come with an eSIM-enabled case for talking to AI agents | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Plaud introduced the Plaud One earphones and an eSIM-enabled case that let its AI agents transcribe calls and record in-person conversations without a phone, with the case able to capture voices up to five meters. The earbuds have 12mm drivers, active noise cancellation, six hours of in-ear meeting recording and three hours of call recording per charge (25 hours total with the case); Plaud offers 300 free transcription minutes per month, preorder costs $249 and shipments begin in Q4 2026.",
-      "key_points": [
-        "eSIM-enabled case enables remote AI agent access and in-person recording up to five meters; earbuds feature 12mm drivers, ANC, 6h in-ear/3h call battery (25h with case)",
-        "300 free transcription minutes per month; additional plans start at $8.33/month (paid annually); buyers receive $200 in credits; preorder $249, ships Q4 2026"
-      ],
-      "topics": [
-        "ai",
-        "wearables",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 13:00:00 +0000",
-      "processed_at": "2026-08-30T15:45:09.074216+00:00"
     }
   ]
 }
