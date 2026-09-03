@@ -14,9 +14,9 @@ from bs4 import BeautifulSoup
 FEED_URL = "https://techcrunch.com/feed/"
 OUTPUT = "data/posts.json"
 QUEUE_OUTPUT = "data/pending.json"
-PUBLISH_INTERVAL = timedelta(minutes=60)
 USER_AGENT = "TECHNEWS_404/1.0 (+https://github.com/rutaabali3/TECHNEWS_404)"
-GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
+MAX_BATCH_PER_RUN = int(os.getenv("MAX_BATCH_PER_RUN", "10"))
 
 
 def get(url, **kwargs):
@@ -238,19 +238,20 @@ def main():
     print(f"Queue contains {len(queue)} item(s); discovered {discovered} new feed item(s).")
 
     fresh = []
-    if queue and last_processed_at and now - last_processed_at < PUBLISH_INTERVAL:
-        next_run_at = last_processed_at + PUBLISH_INTERVAL
-        remaining_minutes = max(1, round((next_run_at - now).total_seconds() / 60))
-        print(f"Cooldown active; next article may publish in about {remaining_minutes} minute(s).")
-    elif queue:
+    processed_count = 0
+    while queue and processed_count < MAX_BATCH_PER_RUN:
         item = queue[0]
+        key = keys[processed_count % len(keys)]
         try:
-            fresh.append(process_item(item, keys[0]))
+            processed = process_item(item, key)
+            fresh.append(processed)
             queue.pop(0)
             last_processed_at = datetime.now(timezone.utc)
-            print(f"Summarized: {item['url']}")
+            processed_count += 1
+            print(f"Summarized ({processed_count}/{MAX_BATCH_PER_RUN}): {item['url']}")
         except Exception as exc:
-            print(f"Keeping queued for a later run: {item['url']}: {exc}", file=sys.stderr)
+            print(f"Stopping batch due to error processing {item['url']}: {exc}", file=sys.stderr)
+            break
 
     if fresh:
         fresh.sort(key=lambda post: post.get("published", ""), reverse=True)

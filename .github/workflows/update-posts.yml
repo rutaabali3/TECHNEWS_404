@@ -2,7 +2,7 @@ name: Update TechCrunch summaries
 
 on:
   schedule:
-    # Check twice per hour; the updater's durable cooldown publishes one article every 90 minutes.
+    # Check twice per hour to process new feed items and catch up queued posts.
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
@@ -66,7 +66,7 @@ jobs:
           GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
           GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_MODEL: openai/gpt-oss-120b
+          GROQ_MODEL: openai/gpt-oss-20b
         run: python scripts/update_posts.py
 
       - name: Commit updated posts
