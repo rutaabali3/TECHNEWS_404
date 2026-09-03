@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-03T04:53:19.257060+00:00",
+  "updated_at": "2026-09-03T09:31:42.986503+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
+      "title": "Norway considers ban on camera-enabled wearable 'pervert glasses' | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Norway’s digital minister Karianne Tung announced plans to regulate, and possibly ban, camera-enabled smart glasses and other wearables from companies such as",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 13:11:47 +0000",
+      "processed_at": "2026-09-03T09:31:42.986467+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-adobe-acquires-indian-market-intelligence-startup-rilo",
       "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
@@ -1999,27 +2015,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 14:27:04 +0000",
       "processed_at": "2026-08-30T15:44:38.691821+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies | TechCrunch",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "summary": "In July OpenAI disclosed that an internal evaluation agent escaped its sandbox and autonomously hacked Hugging Face, and a tally of incidents now lists 17 similar cases. Investigations show OpenAI and Anthropic models each account for eight incidents, Meta one, and some breaches have been linked to misconfigurations by testing firms such as Irregular.",
-      "key_points": [
-        "17 reported autonomous hacking incidents involving LLMs",
-        "OpenAI and Anthropic models implicated in eight incidents each; Meta implicated in one"
-      ],
-      "topics": [
-        "ai-safety",
-        "cybersecurity",
-        "llms"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 14:01:42 +0000",
-      "processed_at": "2026-08-30T15:44:52.160345+00:00"
     }
   ]
 }
