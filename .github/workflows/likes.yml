@@ -1,0 +1,29 @@
+name: Update Likes
+
+on:
+  repository_dispatch:
+    types: [like]
+
+concurrency:
+  group: likes
+  cancel-in-progress: false
+
+jobs:
+  update-likes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Increment like count
+        run: node scripts/update-likes.js "${{ github.event.client_payload.article_id }}"
+      - name: Commit and push
+        run: |
+          git config user.name "tn404-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/likes.json
+          git commit -m "Like: ${{ github.event.client_payload.article_id }}" || exit 0
+          git pull --rebase
+          git push
