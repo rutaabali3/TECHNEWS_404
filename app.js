@@ -68,8 +68,10 @@ function renderPost(post, likedSet, savedSet, globalLikes = {}) {
   const title = escapeHtml(post.title || '');
   const summary = escapeHtml(post.summary || '');
   const sourceUrl = escapeHtml(post.source_url || '#');
+  const imageHtml = post.image ? `<img class="card-image" src="${escapeHtml(post.image)}" alt="" loading="lazy">` : '';
 
   return `<article class="card" data-article-id="${escapeHtml(articleId)}">
+    ${imageHtml}
     <div class="card-meta">
       <span>${sourceName}</span>
       <span class="meta-dot">•</span>

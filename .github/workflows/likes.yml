@@ -18,7 +18,9 @@ jobs:
         with:
           node-version: '20'
       - name: Increment like count
-        run: node scripts/update-likes.js "${{ github.event.client_payload.article_id }}"
+        env:
+          ARTICLE_ID: ${{ github.event.client_payload.article_id }}
+        run: node scripts/update-likes.js "$ARTICLE_ID"
       - name: Commit and push
         run: |
           git config user.name "tn404-bot"

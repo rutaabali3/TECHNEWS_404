@@ -125,6 +125,15 @@ h1 em { color: var(--accent); font-style: normal; }
   border-color: var(--accent);
 }
 
+.card-image {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
 .card-meta {
   font-family: var(--font-mono);
   color: var(--text-muted);
