@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-02T21:57:09.443251+00:00",
+  "updated_at": "2026-09-03T00:01:25.385182+00:00",
   "items": [
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "feed_excerpt": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "published": "Wed, 02 Sep 2026 14:56:34 +0000"
-    },
     {
       "title": "Adobe acquires Indian market intelligence startup Rilo",
       "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
@@ -90,7 +84,25 @@
       "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
       "feed_excerpt": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
       "published": "Wed, 02 Sep 2026 19:35:09 +0000"
+    },
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "feed_excerpt": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "published": "Wed, 02 Sep 2026 23:01:00 +0000"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "feed_excerpt": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "published": "Wed, 02 Sep 2026 22:44:56 +0000"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "feed_excerpt": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000"
     }
   ],
-  "last_processed_at": "2026-09-02T21:57:11.791523+00:00"
+  "last_processed_at": "2026-09-03T00:01:27.503387+00:00"
 }

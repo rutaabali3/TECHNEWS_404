@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-02T21:57:11.791537+00:00",
+  "updated_at": "2026-09-03T00:01:27.503401+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-02-psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-lm.jpg?resize=1200,675",
+      "title": "PSA: Amazon's shopping AI can now tell you if that message is a scam | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Amazon has integrated an AI-powered verification feature into its Alexa for Shopping service, allowing customers to confirm whether messages claiming to be from Amazon are legitimate. The system cross‑references sender details, content and metadata against billions of past communications and will become more accurate as users report suspicious messages.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 14:56:34 +0000",
+      "processed_at": "2026-09-03T00:01:27.503367+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900",
@@ -2009,28 +2025,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 13:00:00 +0000",
       "processed_at": "2026-08-30T15:45:09.074216+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "OpenAI will begin showing ads on ChatGPT’s Free and Go tiers in India, launching placements for 50 brands with agency partners WPP and Omnicom and introducing an ad manager next month that requires a daily minimum spend of ₹725 ($7.60). The rollout targets more than 100 million weekly Indian users and follows earlier ad launches in the U.S. and Europe as OpenAI expands revenue ahead of a potential IPO; the company reported $6.7 billion in revenue for the quarter ended June 2026.",
-      "key_points": [
-        "Ads will run on ChatGPT Free and Go in India with 50 initial brands and partners WPP and Omnicom",
-        "Ad manager launches next month with a daily minimum campaign budget of ₹725 ($7.60)"
-      ],
-      "topics": [
-        "openai",
-        "advertising",
-        "chatgpt",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 11:35:59 +0000",
-      "processed_at": "2026-08-30T15:45:21.772022+00:00"
     }
   ]
 }
