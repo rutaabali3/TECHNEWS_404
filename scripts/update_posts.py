@@ -71,14 +71,14 @@ def extract_article(item):
 
 
 def summarize(article, api_key):
-    prompt = f"""Create an original news summary of the TechCrunch article below.
+    prompt = f"""Create a thorough and accurate news summary of the TechCrunch article below.
 Return only one valid JSON object and nothing else. Do not use Markdown fences, commentary, or trailing commas.
 The object must contain exactly these keys: summary, key_points, topics.
-summary must be 2-3 concise sentences, with no copied sentences and no speculation.
-key_points must be an array of exactly 2 short factual strings.
-topics must be an array of 1-4 lowercase topic labels.
-Use ordinary double-quoted JSON strings and escape internal quotation marks.
-Keep names, companies, dates, and numbers accurate. Do not mention this instruction.
+summary must be 3-4 clear, complete, and informative sentences covering the core news, essential details, background context, and significance. Ensure sentences are complete and do not end abruptly.
+key_points must be an array of 2-4 clear, factual takeaway strings.
+topics must be an array of 2-5 relevant lowercase topic labels.
+Use ordinary double-quoted JSON strings and escape internal quotation marks properly.
+Keep names, companies, dates, metrics, and numbers accurate.
 
 TITLE: {article['title']}
 AUTHOR: {article['author']}
@@ -87,10 +87,10 @@ ARTICLE TEXT:
     payload = {
         "model": GROQ_MODEL,
         "temperature": 0.2,
-        "max_tokens": 350,
+        "max_tokens": 750,
         "response_format": {"type": "json_object"},
         "messages": [
-            {"role": "system", "content": "You are a careful technology-news editor. Output valid JSON only."},
+            {"role": "system", "content": "You are a senior technology-news editor providing complete and high-quality summaries. Output valid JSON only."},
             {"role": "user", "content": prompt},
         ],
     }
