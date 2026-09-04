@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-04T19:41:53.482961+00:00",
+  "updated_at": "2026-09-04T21:41:48.621615+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-04-judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
+      "title": "Judge blocks X rival from using Twitter name, but allows 'Tweet' for now | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "A Delaware federal court ruled that Elon Musk’s X must prevent the startup Operation Bluebird from using the name \"Twitter,\" but it allowed the use of the \"tweet\" mark and the Twitter bird logo, which the court found X had likely abandoned.  Operation Bluebird has since rebranded its site as Tweet.app, launched to the public, and reported more than 172,000 people requested handles before the launch, charging $20 to reserve one.  Judge Colm F. Connolly granted a preliminary injunction on eight Twitter‑related marks but denied it for the tweet mark and bird logo, leaving the case to determine whether X still retains rights to any of the trademarks.  The decision underscores the ongoing legal battle over brand assets as X continues to rebrand itself from Twitter to X.",
+      "key_points": [
+        "Delaware court blocks Operation Bluebird from using the name \"Twitter\" but allows use of \"tweet\" and the bird logo.",
+        "Operation Bluebird rebranded to Tweet.app, launched publicly, and attracted 172,000 handle requests, charging $20 per handle.",
+        "Judge Colm F. Connolly issued a split ruling: injunction granted on eight marks but denied for tweet and bird, leaving the case unresolved.",
+        "The case highlights the legal complexities of trademark ownership as X moves away from the Twitter brand."
+      ],
+      "topics": [
+        "trademark",
+        "social media",
+        "x",
+        "twitter",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 17:52:05 +0000",
+      "processed_at": "2026-09-04T21:41:34.232053+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-04-cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402",
+      "title": "CD sales are making an unexpected comeback amid a retro tech boom | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "The Recording Industry Association of America reported that CD sales rebounded in the first half of 2026, with revenue reaching $171.1 million and 17.5 million units sold—an increase of 58.6% and 45.7% respectively compared to the same period in 2025. This surge follows a steep decline in 2025, when CD revenue fell 7.8% year‑over‑year and units dropped 11.6%. The comeback is part of a broader retro‑tech revival, driven by Gen Z’s nostalgia for simpler, non‑smart devices and physical media, and it coincides with a 25.9% jump in overall physical‑media revenue, including a 17.7% rise in vinyl sales. The trend highlights a shift in consumer behavior that challenges the dominance of streaming platforms and suggests a growing market for tangible music formats.",
+      "key_points": [
+        "CD revenue and unit sales surged 58.6% and 45.7% in H1 2026, reversing a 2025 decline",
+        "The rebound is fueled by a retro‑tech boom and Gen Z nostalgia for non‑smart devices",
+        "Physical‑media revenue grew 25.9% overall, with vinyl sales up 17.7%",
+        "RIAA’s 2025 method change means revenue figures aren’t directly comparable, but unit sales confirm the trend"
+      ],
+      "topics": [
+        "cds",
+        "physical media",
+        "retro tech",
+        "gen z",
+        "music industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-04T21:41:33.122252+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-04-googles-gemini-spark-can-now-manage-your-google-photos-library",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
@@ -2139,38 +2189,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 12:56:46 +0000",
       "processed_at": "2026-09-01T09:33:04.743781+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-30-the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them | TechCrunch",
-      "author": "Kate Park",
-      "summary": "The United States has introduced new tariffs and restrictions on foreign-made drones and advanced robots, citing national‑security concerns, while China continues to dominate global humanoid robot production with low‑cost, high‑volume manufacturing.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 02:34:00 +0000",
-      "processed_at": "2026-08-31T23:40:10.717212+00:00"
-    },
-    {
-      "id": "com-2026-08-30-grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resize=800,1200",
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 02:18:57 +0000",
-      "processed_at": "2026-09-01T04:18:17.908333+00:00"
     }
   ]
 }
