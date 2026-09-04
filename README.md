@@ -1,35 +1,135 @@
-# TECHNEWS_404 
-[![Update TechCrunch summaries](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml/badge.svg)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml) 
-[![pages-build-deployment](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment)
+<div align="center">
 
-TECHNEWS_404 is a GitHub-only technology news digest. A GitHub Actions job checks the public TechCrunch RSS feed every 30 minutes, adds newly published articles to a persistent queue, processes queued articles in batches, stores structured records in `data/posts.json`, and deploys the static site through GitHub Pages.
+# ⚡ TECHNEWS_404 ⚡
+### *Automated, AI-Powered Tech News Digest — Without the Noise*
 
-## Setup
+[![Update TechCrunch summaries](https://img.shields.io/github/actions/workflow/status/rutaabali3/TECHNEWS_404/update-posts.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=Pipeline%20Status)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/update-posts.yml)
+[![Pages Deployment](https://img.shields.io/github/actions/workflow/status/rutaabali3/TECHNEWS_404/pages/pages-build-deployment?style=for-the-badge&logo=githubpages&logoColor=white&label=Live%20Pages)](https://github.com/rutaabali3/TECHNEWS_404/actions/workflows/pages/pages-build-deployment)
+[![Groq Model](https://img.shields.io/badge/AI_Engine-Groq%20%7C%20gpt--oss--20b-f34f29?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-Add one Groq key under **Settings → Secrets and variables → Actions → New repository secret** using `GROQ_API_KEY_1` or the legacy `GROQ_API_KEY` name. The workflow keeps remaining articles in `data/pending.json` for later runs. The key must never be committed to this repository.
+<br/>
 
-The current workflow uses `openai/gpt-oss-20b` through Groq. You can change the model in `.github/workflows/update-posts.yml` by editing `GROQ_MODEL`.
+[🚀 **Explore Live Site**](https://rutaabali3.github.io/TECHNEWS_404/) • [📖 **View Architecture**](#-architecture--data-flow) • [⚙️ **Quick Setup**](#-quick-setup) • [🤝 **Contributing**](#-contributing)
 
-Enable GitHub Pages under **Settings → Pages** and select **GitHub Actions** as the source. The workflow can also be started manually from the Actions tab using **Update TechCrunch summaries → Run workflow**.
+<hr/>
 
-## Data flow
+</div>
 
-The workflow reads `https://techcrunch.com/feed/`, skips article URLs already present in `data/posts.json`, extracts the article page metadata, sends a limited amount of article text to Groq, and adds the new item at the top of the JSON list. It retains the latest 100 posts.
+## ✨ Key Highlights
 
-The webpage displays the title, image, author, original summary, key points, topics, and a TechCrunch link. It does not reproduce the full TechCrunch article body.
+> [!TIP]
+> **Zero Server Maintenance**: Fully powered by GitHub Actions cron triggers and GitHub Pages static hosting. No backend servers, databases, or cloud infrastructure needed!
 
-## SEO foundation
+| Feature | Description |
+| :--- | :--- |
+| 🤖 **AI-Powered Summaries** | Leverages **Groq API** (`openai/gpt-oss-20b`) to extract concise summaries, key points, and topics from TechCrunch articles. |
+| ⏱️ **Real-Time Automated Sync** | GitHub Actions checks TechCrunch RSS every 30 minutes, queues new stories, and updates post archives continuously. |
+| ⚡ **Lightning Fast Frontend** | Pure, dependency-free vanilla JS, CSS3, and semantic HTML5 for sub-second load times and zero framework overhead. |
+| ❤️ **Interactive Likes & Saves** | Community likes and local bookmarking capabilities built right into the frontend digest cards. |
+| 🎯 **SEO & Social Optimization** | Fully standard-compliant JSON-LD structured data, OpenGraph, Twitter Cards, dynamic sitemaps, and RSS metadata. |
 
-The site includes a canonical URL, descriptive title and meta description, Open Graph and Twitter card metadata, Schema.org `WebSite` structured data, `robots.txt`, `sitemap.xml`, a branded social preview image, and `site.webmanifest`. These files are committed at the repository root and are served automatically by GitHub Pages.
+---
 
-## Live site
+## ⚡ Architecture & Data Flow
 
-[Open TECHNEWS_404](https://rutaabali3.github.io/TECHNEWS_404/)
+```mermaid
+flowchart TD
+    A[📡 TechCrunch RSS Feed] -->|Check every 30 min| B[⚙️ GitHub Actions Workflow]
+    B -->|Filter unseen URLs| C[📥 data/pending.json Queue]
+    C -->|Batch execution max 10| D[🧠 Groq AI Engine]
+    D -->|Generate Key Points & Summary| E[💾 data/posts.json Archive]
+    E -->|Automated Trigger| F[🚀 GitHub Pages Deployment]
+    F -->|Serve Static Frontend| G[🌐 User Browser / Web App]
+```
 
-## Important notes
+---
 
-GitHub Actions is the scheduler and execution environment; no server needs to be managed. The workflow checks every 30 minutes using `*/30 * * * *` in UTC. The updater stores `last_processed_at` in `data/pending.json` and processes posts in batches to stay up to date with TechCrunch's publication pace. Scheduled GitHub Actions can occasionally be delayed by platform load, so the workflow is safe to rerun. A concurrency lock prevents overlapping updater runs.
+## 📋 Feature Overview Grid
 
-The workflow monitors TechCrunch directly, so its summary wording is generated by the configured LLM and may differ from summaries published elsewhere.
+<details open>
+<summary><b>🔍 Expand/Collapse Detailed Capabilities</b></summary>
 
-Groq is rate limited. Each run discovers new feed items, stores them in `data/pending.json`, processes queued articles in batches using configured Groq key(s), waits and retries temporary rate-limit responses, and leaves remaining items queued for later runs. The job never commits a partial or malformed JSON response.
+<br/>
+
+- 📰 **Feed Monitoring**: Continuously fetches new technology articles from `https://techcrunch.com/feed/`.
+- 🗂️ **Smart Queueing**: Implements rate-limit safe queue processing in `data/pending.json` with multi-key Groq support.
+- 📦 **Automated Archiving**: Preserves the latest 100 enriched article summaries in `data/posts.json`.
+- 🎨 **Modern Cyberpunk/Clean UI**: Dark theme aesthetic with smooth interactive cards, category badges, and quick links.
+- 🔒 **Concurrency Locked**: Workflow execution prevents overlapping runs using strict GitHub concurrency locks.
+
+</details>
+
+---
+
+## 🚀 Quick Setup
+
+Getting your own instance of **TECHNEWS_404** up and running in minutes:
+
+<details>
+<summary><b>1️⃣ Step 1: Fork & Clone</b></summary>
+
+```bash
+git clone https://github.com/rutaabali3/TECHNEWS_404.git
+cd TECHNEWS_404
+```
+</details>
+
+<details>
+<summary><b>2️⃣ Step 2: Configure Secrets</b></summary>
+
+1. Get a free API key from [Groq Cloud Console](https://console.groq.com/).
+2. Navigate to your repository: **Settings → Secrets and variables → Actions → New repository secret**.
+3. Name: `GROQ_API_KEY_1` (or legacy `GROQ_API_KEY`).
+4. Value: *Your Groq API Key*.
+
+> [!NOTE]
+> You can add multiple key secrets (`GROQ_API_KEY_1`, `GROQ_API_KEY_2`, etc.) to automatically load balance requests across accounts if hitting rate limits.
+</details>
+
+<details>
+<summary><b>3️⃣ Step 3: Enable GitHub Pages</b></summary>
+
+1. Go to **Settings → Pages**.
+2. Source: Select **GitHub Actions**.
+3. Trigger your first run manually in **Actions tab → Update TechCrunch summaries → Run workflow**.
+</details>
+
+---
+
+## 🛠️ Tech Stack & Dependencies
+
+- **Automation & Scheduling**: GitHub Actions (`cron: */30 * * * *`)
+- **AI Processing**: Python 3.12, BeautifulSoup4, Requests, Groq API (`openai/gpt-oss-20b`)
+- **Frontend Engine**: HTML5, CSS3 (Modern Flexbox/Grid + Variables), Vanilla ES6 JavaScript
+- **Testing Suite**: Node.js Native Test Runner (`node --test`), Python `unittest`
+
+---
+
+## 💻 Local Development & Testing
+
+Run unit tests locally to verify utility functions and scripts:
+
+```bash
+# Run JavaScript Frontend Unit Tests
+npm test
+
+# Run Python Backend Updater Tests
+python3 -m unittest discover tests
+```
+
+---
+
+## 🌐 Live Site & Social Preview
+
+- **Live URL**: [https://rutaabali3.github.io/TECHNEWS_404/](https://rutaabali3.github.io/TECHNEWS_404/)
+- **RSS Source**: [TechCrunch Feed](https://techcrunch.com/feed/)
+
+> [!IMPORTANT]
+> All article summaries and key takeaways are generated automatically using AI. Original article attribution and full links belong solely to **TechCrunch**.
+
+<div align="center">
+
+Made with ❤️ and AI • Automated with GitHub Actions
+
+</div>
