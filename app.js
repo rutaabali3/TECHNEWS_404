@@ -1,10 +1,10 @@
-const postsEl = document.querySelector('#posts');
-const updatedEl = document.querySelector('#last-updated');
-const countEl = document.querySelector('#story-count');
+const postsEl = typeof document !== 'undefined' ? document.querySelector('#posts') : null;
+const updatedEl = typeof document !== 'undefined' ? document.querySelector('#last-updated') : null;
+const countEl = typeof document !== 'undefined' ? document.querySelector('#story-count') : null;
 
 const LIKED_KEY = 'tn404_liked';
 const SAVED_KEY = 'tn404_saved';
-const LIKE_WORKER_URL = window.LIKE_WORKER_URL || 'https://technews404-likes.workers.dev';
+const LIKE_WORKER_URL = (typeof window !== 'undefined' && window.LIKE_WORKER_URL) || 'https://technews404-likes.workers.dev';
 
 const sessionLikes = new Set();
 const MAX_SESSION_LIKES = 20;
@@ -286,6 +286,7 @@ async function dispatchLike(articleId) {
   }
 }
 
+if (postsEl) {
 postsEl.addEventListener('click', (e) => {
   const likeBtn = e.target.closest('.btn-like');
   if (likeBtn) {
@@ -370,3 +371,16 @@ Promise.all([
   postsEl.appendChild(renderEmptyMessage('The digest is temporarily unavailable. Please try again after the next workflow run.'));
   postsEl.setAttribute('aria-busy', 'false');
 });
+}
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    getStoredArray,
+    setStoredArray,
+    toggleStoredItem,
+    escapeHtml,
+    formatDate,
+    getArticleId,
+    renderPost
+  };
+}
