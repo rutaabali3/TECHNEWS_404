@@ -147,3 +147,28 @@ test('renderPost', async (t) => {
     assert.ok(html.includes('https://example.com/img.jpg&quot; onerror=&quot;alert(1)'));
   });
 });
+
+test('formatDate handles additional falsy, invalid, and timestamp inputs', () => {
+  assert.equal(formatDate(), 'Recent');
+  assert.equal(formatDate(false), 'Recent');
+  assert.equal(formatDate(0), 'Recent');
+  assert.equal(formatDate('2023-99-99'), '2023-99-99');
+
+  const dateObj = new Date('2024-01-01T00:00:00Z');
+  assert.equal(formatDate(dateObj), dateObj.toLocaleDateString(undefined, {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric'
+  }));
+
+  const timestamp = 1700000000000;
+  assert.equal(formatDate(timestamp), new Date(timestamp).toLocaleDateString(undefined, {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric'
+  }));
+
+  const result = formatDate('2023-05-12T00:00:00Z');
+  assert.match(result, /2023/);
+  assert.match(result, /12|May/i);
+});
