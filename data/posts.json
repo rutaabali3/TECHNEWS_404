@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-04T19:04:13.560324+00:00",
+  "updated_at": "2026-09-04T19:35:45.872865+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-video-what-will-apples-john-ternus-era-look-like",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
+      "title": "What will Apple's John Ternus era look like? | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Apple has officially entered the John Ternus era after Tim Cook stepped down as CEO this week, with the former hardware chief taking the helm. Cook will remain as Executive Chairman, concentrating on policy relationships that have recently become high‑profile, while Ternus’s first memo already promises a \"huge launch next week,\" putting the next iPhone event on his agenda before he has fully settled in. The transition raises questions about how much autonomy shareholders will grant Ternus as he navigates Apple’s next phase, and whether his background in hardware will translate into stronger software and AI initiatives. TechCrunch’s Equity podcast hosts discuss Ternus’s challenges and the broader implications for Apple’s strategy in the AI era.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 17:18:00 +0000",
+      "processed_at": "2026-09-04T19:35:20.362250+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-03-oura-files-to-go-public",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
@@ -2094,27 +2110,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 29 Aug 2026 17:36:47 +0000",
       "processed_at": "2026-08-30T15:37:55.020661+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-29-hollywood-celebs-are-getting-into-microdrama-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
-      "title": "Hollywood celebs are getting into microdrama apps | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Hollywood actors, producers and investors are moving into microdramas — short, phone-native scripted series — as U.S. revenue for the format is projected to reach $1.5 billion this year (Omdia) and apps like ReelShort, DramaBox and TikTok’s PineDrama compete for attention. High-profile involvement includes James Franco starring in Shortical’s Love, Lies & Frank under SAG-AFTRA’s new verticals agreement, Issa Rae’s Hoorae Media scoring viral success with Screen Time on PineDrama, Taye Diggs launching Microhouse Films, and Kim Kardashian investing in GammaTime.",
-      "key_points": [
-        "Omdia projects U.S. microdrama revenue of $1.5 billion this year.",
-        "Issa Rae’s Screen Time garnered nearly 75 million views in week one and later surpassed 150 million views on PineDrama."
-      ],
-      "topics": [
-        "microdramas",
-        "streaming",
-        "hollywood"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 29 Aug 2026 16:10:00 +0000",
-      "processed_at": "2026-08-30T15:38:09.182410+00:00"
     }
   ]
 }
