@@ -250,19 +250,29 @@ def main():
 
     fresh = []
     processed_count = 0
-    while queue and processed_count < MAX_BATCH_PER_RUN:
-        item = queue[0]
-        key = keys[processed_count % len(keys)]
-        try:
-            processed = process_item(item, key)
-            fresh.append(processed)
-            queue.pop(0)
-            last_processed_at = datetime.now(timezone.utc)
-            processed_count += 1
-            print(f"Summarized ({processed_count}/{MAX_BATCH_PER_RUN}): {item['url']}")
-        except Exception as exc:
-            print(f"Stopping batch due to error processing {item['url']}: {exc}", file=sys.stderr)
-            break
+    batch_candidates = queue[:MAX_BATCH_PER_RUN]
+    if batch_candidates:
+        max_workers = min(len(batch_candidates), 10)
+        successful_urls = set()
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_to_item = {
+                executor.submit(process_item, item, keys[i % len(keys)]): item
+                for i, item in enumerate(batch_candidates)
+            }
+            for future in as_completed(future_to_item):
+                item = future_to_item[future]
+                try:
+                    processed = future.result()
+                    fresh.append(processed)
+                    successful_urls.add(item["url"])
+                    last_processed_at = datetime.now(timezone.utc)
+                    processed_count += 1
+                    print(f"Summarized ({processed_count}/{MAX_BATCH_PER_RUN}): {item['url']}")
+                except Exception as exc:
+                    print(f"Error processing {item['url']}: {exc}", file=sys.stderr)
+
+        if successful_urls:
+            queue[:] = [item for item in queue if item["url"] not in successful_urls]
 
     if fresh:
         fresh.sort(key=lambda post: post.get("published", ""), reverse=True)
