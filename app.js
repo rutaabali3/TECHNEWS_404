@@ -1,5 +1,8 @@
+const postsEl = typeof document !== 'undefined' ? document.querySelector('#posts') : null;
+const updatedEl = typeof document !== 'undefined' ? document.querySelector('#last-updated') : null;
+const countEl = typeof document !== 'undefined' ? document.querySelector('#story-count') : null;
+
 const LIKED_KEY = 'tn404_liked';
-const SAVED_KEY = 'tn404_saved';
 const LIKE_WORKER_URL = (typeof window !== 'undefined' && window.LIKE_WORKER_URL) || 'https://technews404-likes.workers.dev';
 
 const sessionLikes = new Set();
@@ -36,7 +39,7 @@ function toggleStoredItem(key, id) {
 }
 
 function escapeHtml(value = '') {
-  return String(value).replace(/[&<>"']/g, (char) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[char]));
+  return String(value).replace(/[&<>\"']/g, (char) => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#039;'}[char]));
 }
 
 function formatDate(value) {
@@ -153,90 +156,83 @@ async function dispatchLike(articleId) {
   }
 }
 
-if (typeof document !== 'undefined') {
-  const postsEl = document.querySelector('#posts');
-  const updatedEl = document.querySelector('#last-updated');
-  const countEl = document.querySelector('#story-count');
+if (postsEl) {
+postsEl.addEventListener('click', (e) => {
+  const likeBtn = e.target.closest('.btn-like');
+  if (likeBtn) {
+    const card = likeBtn.closest('.card');
+    if (!card) return;
+    const articleId = card.getAttribute('data-article-id');
+    if (!articleId) return;
 
-  if (postsEl) {
-    postsEl.addEventListener('click', (e) => {
-      const likeBtn = e.target.closest('.btn-like');
-      if (likeBtn) {
-        const card = likeBtn.closest('.card');
-        if (!card) return;
-        const articleId = card.getAttribute('data-article-id');
-        if (!articleId) return;
+    const countSpan = likeBtn.querySelector('.like-count');
+    let currentCount = parseInt(countSpan ? countSpan.textContent : '0', 10);
+    if (isNaN(currentCount)) currentCount = 0;
 
-        const countSpan = likeBtn.querySelector('.like-count');
-        let currentCount = parseInt(countSpan ? countSpan.textContent : '0', 10);
-        if (isNaN(currentCount)) currentCount = 0;
+    const isActive = toggleStoredItem(LIKED_KEY, articleId);
+    likeBtn.classList.toggle('active', isActive);
 
-        const isActive = toggleStoredItem(LIKED_KEY, articleId);
-        likeBtn.classList.toggle('active', isActive);
+    if (isActive) {
+      currentCount += 1;
+      dispatchLike(articleId);
+    } else {
+      currentCount = Math.max(0, currentCount - 1);
+    }
 
-        if (isActive) {
-          currentCount += 1;
-          dispatchLike(articleId);
-        } else {
-          currentCount = Math.max(0, currentCount - 1);
-        }
-
-        if (countSpan) {
-          countSpan.textContent = currentCount > 0 ? currentCount : '';
-        }
-        return;
-      }
-
-      const shareBtn = e.target.closest('.btn-share');
-      if (shareBtn) {
-        const title = shareBtn.getAttribute('data-title') || document.title;
-        const url = shareBtn.getAttribute('data-url') || window.location.href;
-        shareArticle(url, title);
-        return;
-      }
-
-      const saveBtn = e.target.closest('.btn-save');
-      if (saveBtn) {
-        const card = saveBtn.closest('.card');
-        if (!card) return;
-        const articleId = card.getAttribute('data-article-id');
-        if (!articleId) return;
-
-        const isActive = toggleStoredItem(SAVED_KEY, articleId);
-        saveBtn.classList.toggle('active', isActive);
-        return;
-      }
-    });
+    if (countSpan) {
+      countSpan.textContent = currentCount > 0 ? currentCount : '';
+    }
+    return;
   }
 
-  Promise.all([
-    fetch('./data/posts.json', { cache: 'no-store' }).then((r) => r.ok ? r.json() : {}).catch(() => ({})),
-    fetch('./data/likes.json', { cache: 'no-store' }).then((r) => r.ok ? r.json() : {}).catch(() => ({}))
-  ]).then(([postsData, likesData]) => {
-    const posts = Array.isArray(postsData.posts) ? postsData.posts : [];
-    const globalLikes = (likesData && typeof likesData === 'object') ? likesData : {};
-    const likedSet = new Set(getStoredArray(LIKED_KEY));
-    const savedSet = new Set(getStoredArray(SAVED_KEY));
+  const shareBtn = e.target.closest('.btn-share');
+  if (shareBtn) {
+    const title = shareBtn.getAttribute('data-title') || document.title;
+    const url = shareBtn.getAttribute('data-url') || window.location.href;
+    shareArticle(url, title);
+    return;
+  }
 
-    if (countEl) countEl.textContent = `${posts.length} ${posts.length === 1 ? 'story' : 'stories'}`;
-    if (updatedEl) updatedEl.textContent = postsData.updated_at ? `Last checked ${formatDate(postsData.updated_at)}` : 'Waiting for the first scheduled update';
-    if (postsEl) {
-      postsEl.innerHTML = posts.length ? posts.map((post) => renderPost(post, likedSet, savedSet, globalLikes)).join('') : '<div class="empty">No stories have been summarized yet. The next scheduled workflow will check TechCrunch.</div>';
-      postsEl.setAttribute('aria-busy', 'false');
-    }
-  }).catch(() => {
-    if (postsEl) {
-      postsEl.innerHTML = '<div class="empty">The digest is temporarily unavailable. Please try again after the next workflow run.</div>';
-      postsEl.setAttribute('aria-busy', 'false');
-    }
-  });
+  const saveBtn = e.target.closest('.btn-save');
+  if (saveBtn) {
+    const card = saveBtn.closest('.card');
+    if (!card) return;
+    const articleId = card.getAttribute('data-article-id');
+    if (!articleId) return;
+
+    const isActive = toggleStoredItem(SAVED_KEY, articleId);
+    saveBtn.classList.toggle('active', isActive);
+    return;
+  }
+});
+
+Promise.all([
+  fetch('./data/posts.json', { cache: 'no-store' }).then((r) => r.ok ? r.json() : {}).catch(() => ({})),
+  fetch('./data/likes.json', { cache: 'no-store' }).then((r) => r.ok ? r.json() : {}).catch(() => ({}))
+]).then(([postsData, likesData]) => {
+  const posts = Array.isArray(postsData.posts) ? postsData.posts : [];
+  const globalLikes = (likesData && typeof likesData === 'object') ? likesData : {};
+  const likedSet = new Set(getStoredArray(LIKED_KEY));
+  const savedSet = new Set(getStoredArray(SAVED_KEY));
+
+  countEl.textContent = `${posts.length} ${posts.length === 1 ? 'story' : 'stories'}`;
+  updatedEl.textContent = postsData.updated_at ? `Last checked ${formatDate(postsData.updated_at)}` : 'Waiting for the first scheduled update';
+  postsEl.innerHTML = posts.length ? posts.map((post) => renderPost(post, likedSet, savedSet, globalLikes)).join('') : '<div class="empty">No stories have been summarized yet. The next scheduled workflow will check TechCrunch.</div>';
+  postsEl.setAttribute('aria-busy', 'false');
+}).catch(() => {
+  postsEl.innerHTML = '<div class="empty">The digest is temporarily unavailable. Please try again after the next workflow run.</div>';
+  postsEl.setAttribute('aria-busy', 'false');
+});
 }
 
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = {
+    getStoredArray,
+    setStoredArray,
+    toggleStoredItem,
     escapeHtml,
     formatDate,
     getArticleId,
-    renderPost,
+    renderPost
   };
 }
