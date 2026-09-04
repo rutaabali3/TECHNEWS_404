@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-04T06:22:13.792153+00:00",
+  "updated_at": "2026-09-04T11:36:11.762506+00:00",
   "items": [
-    {
-      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-      "feed_excerpt": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
-      "published": "Thu, 03 Sep 2026 16:42:54 +0000"
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "feed_excerpt": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "published": "Thu, 03 Sep 2026 16:09:01 +0000"
-    },
-    {
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "feed_excerpt": "Users can search for emails or draft documents using the new conversational feature.",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "feed_excerpt": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "published": "Thu, 03 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-      "feed_excerpt": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-      "published": "Thu, 03 Sep 2026 19:42:48 +0000"
-    },
     {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
@@ -92,5 +62,5 @@
       "published": "Fri, 04 Sep 2026 04:21:03 +0000"
     }
   ],
-  "last_processed_at": "2026-09-04T06:22:20.768030+00:00"
+  "last_processed_at": "2026-09-04T11:36:35.867641+00:00"
 }

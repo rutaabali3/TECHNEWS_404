@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-09-04T06:22:31.690482+00:00",
+  "updated_at": "2026-09-04T11:36:56.259568+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-03-the-cybercab-is-teslas-fork-in-the-road-moment",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
+      "title": "The Cybercab is Tesla's ‘fork in the road’ moment | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla is set to launch the Cybercab, a small gold two‑seater sedan that relies entirely on cameras and AI for navigation, in Austin, Texas, marking a potential turning point for the company’s long‑standing ambition to become a full‑stack AI and robotics firm. The Cybercab, which lacks a steering wheel and pedals, is designed to be cheaper and lighter than existing Tesla models, giving the automaker a cost advantage over rivals like Waymo and positioning it to scale a robotaxi network. Tesla’s history of incremental autonomy progress and recent layoffs to focus on full self‑driving underscore the significance of this launch as either a breakthrough in urban transportation or a reminder that the company remains primarily an automaker. The event also signals a shift from Tesla’s previously cautious messaging toward a more aggressive deployment strategy, with CEO Elon Musk openly endorsing the Cybercab’s potential to reshape city streets.",
+      "key_points": [
+        "Tesla will launch the Cybercab, a driverless two‑seater sedan, in Austin as a test of its robotaxi ambitions",
+        "The Cybercab’s low cost and lightweight design give Tesla a competitive edge over other autonomous vehicle providers",
+        "Tesla’s history of gradual autonomy development and recent workforce cuts highlight the company’s focus on full self‑driving",
+        "The launch marks a shift from cautious messaging to a bold move toward transforming urban transportation"
+      ],
+      "topics": [
+        "tesla",
+        "autonomous vehicles",
+        "robotaxi",
+        "electric vehicles",
+        "innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
+      "processed_at": "2026-09-04T11:36:35.867625+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200",
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Circular has announced its new Ring 3 series, which comes in a Pro and a Slim variant, both featuring an integrated NFC chip for contactless payments and on‑finger vibration alerts for alarms and reminders. The Pro model adds FDA‑cleared ECG for atrial fibrillation detection, blood pressure trend tracking, glucose monitoring, advanced sleep analysis, and 12 days of battery life, while the Slim offers core health metrics such as heart rate, HRV, SpO₂, skin temperature, and 10 days of battery life in a lighter design. Both rings are made of titanium steel, are 50‑metre water‑resistant, support wireless charging, and will be available in sizes 6‑14 in gold, rose gold, silver, and black. Pricing and preorder details will be released later, with the rings expected to ship in early 2027 amid growing competition from Oura Ring 5 and RingConn Gen 3.",
+      "key_points": [
+        "Ring 3 Pro adds FDA‑cleared ECG, BP trend, glucose tracking, and 12‑day battery life, while the Slim focuses on core health metrics and 10‑day battery life"
+      ],
+      "topics": [
+        "smart ring",
+        "contactless payments",
+        "health monitoring",
+        "wearable tech",
+        "battery life"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 16:42:54 +0000",
+      "processed_at": "2026-09-04T11:36:14.078684+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Ollie, a family‑focused AI assistant, has achieved SOC 2 compliance to demonstrate strong data‑privacy controls and signals to users that it will not harvest personal data for training. The startup runs on a subscription model, uses a cloud‑based browser to log in to users’ accounts without storing usernames or passwords, and plans future tokenization to improve convenience. With a modest $7.5 million seed round led by Khosla Ventures, Ollie positions itself against competitors like Poke, Fambot, and Instinct by prioritizing trust and privacy. The company’s CEO, Bill Lennon, stresses that building reliable, defensively harnessed AI is essential as the market for personal assistants heats up.",
+      "key_points": [
+        "Ollie achieved SOC 2 compliance to underscore its privacy‑first approach",
+        "The assistant uses a subscription model and cloud browser logins to avoid storing credentials",
+        "It raised $7.5 million in seed funding and competes with other text‑based AI assistants by emphasizing trust"
+      ],
+      "topics": [
+        "ai",
+        "privacy",
+        "startup",
+        "ai assistants",
+        "subscription"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "processed_at": "2026-09-04T11:36:15.092336+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-google-launches-ai-voice-features-in-gmail-docs-and-keep",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Google has rolled out Gemini-powered conversational AI features—Docs Live, Gmail Live, and Keep Live—allowing users to ask natural‑language questions, draft content, and take voice notes across its productivity suite. In Gmail Live, users can query their inboxes and receive live transcripts, while Docs Live helps generate drafts by pulling data from Gmail, Drive, chat, and the web. Keep Live turns the app into a voice‑controlled scratchpad that can assemble recipes and lists on demand. The features are currently available to Google AI Plus, Pro, and Ultra subscribers, with a planned rollout to Workplace Business customers soon.",
+      "key_points": [
+        "Google introduces Gemini‑powered AI in Gmail, Docs, and Keep for natural‑language queries and dictation",
+        "Docs Live drafts content using data from Gmail, Drive, chat, and the web",
+        "Gmail Live provides live transcripts and inbox search via AI",
+        "Features are available to Google AI Plus, Pro, and Ultra users, with Workplace rollout upcoming"
+      ],
+      "topics": [
+        "google",
+        "ai",
+        "gmail",
+        "docs",
+        "keep"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-04T11:36:16.066904+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675",
+      "title": "Google's latest AI weather model gives you no excuse to forget your umbrella | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Google DeepMind and Google Research unveiled WeatherNext 3, an AI weather model that outperforms leading competitors and traditional forecasts on the Operational WeatherBench benchmark. The model delivers 5‑km resolution, hourly predictions, and 60% better rain accuracy by training on raw satellite observations rather than processed supercomputer outputs. It will feed into Google Search, Maps, Gemini and be available on Google Cloud, promising faster, cheaper, and more granular forecasts worldwide. The advance could boost agriculture, renewable energy planning, and weather‑sensitive industries in both developed and developing regions.",
+      "key_points": [
+        "WeatherNext 3 tops existing AI and traditional models on Operational WeatherBench, beating Google, Microsoft, Nvidia, ECMWF, and the U.S. National Weather Service.",
+        "It offers 5‑km spatial resolution, hourly forecasts, and a 60% improvement in rain prediction over its predecessor.",
+        "The model uniquely ingests raw, real‑time satellite data, making it the first global AI forecast to use unformatted observations directly.",
+        "Its deployment in Google products and cloud services aims to democratize high‑accuracy weather information and support economic benefits in underserved areas."
+      ],
+      "topics": [
+        "ai",
+        "weather",
+        "deepmind",
+        "forecasting",
+        "google"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-04T11:36:20.902466+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-03-qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800",
@@ -1960,113 +2081,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 28 Aug 2026 15:57:58 +0000",
       "processed_at": "2026-08-30T15:40:33.232081+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-friend-focused-photo-sharing-app-retro-snags-21m",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize=1200,792",
-      "title": "Friend-focused photo-sharing app Retro snags $21M | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Retro, built by former Instagram product engineers Nathan Sharp and Ryan Olson under Lone Palm Labs, raised more than $21 million in a Series A, according to an SEC filing dated August 19 that shows the round closed in December. The ad-free app launched in 2023 has about 7 million downloads, saw in‑app spending jump over 460% in the past 180 days, and is estimated by PitchBook to be worth over $100 million.",
-      "key_points": [
-        "Raised more than $21M in Series A (SEC filing dated Aug 19; round closed in December).",
-        "Launched in 2023, ad-free app has ~7 million downloads and in‑app spending rose over 460% in the past 180 days."
-      ],
-      "topics": [
-        "mobile-app",
-        "social-media",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 15:35:03 +0000",
-      "processed_at": "2026-08-30T15:40:49.510876+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-apple-tv-is-raising-its-subscription-prices-again",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/SVOD_AppleTV_Severance-S2_Blog-Post-1-1024x576-1.jpg?w=1024",
-      "title": "Apple TV is raising its subscription prices again | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Apple is raising Apple TV subscription prices to $14.99 per month (from $12.99) and increasing the annual plan to $119 (from $99); the Apple One bundle will rise to $21.95 per month (from $19.95). This is the fourth Apple TV price hike in four years and comes as other streamers like Netflix and Peacock have also raised prices, with companies citing broader component shortages tied to AI data-center demand; Apple will unveil new iPhones on September 9.",
-      "key_points": [
-        "Apple TV monthly to $14.99 (was $12.99); annual to $119 (was $99).",
-        "Apple One rises to $21.95/month (was $19.95); fourth hike in four years."
-      ],
-      "topics": [
-        "apple",
-        "subscriptions",
-        "pricing"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 14:36:48 +0000",
-      "processed_at": "2026-08-30T15:41:05.270208+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
-      "title": "a16z creates a $1.1B 'Machine Age' fund to 'accelerate the physical buildout of AI' | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Andreessen Horowitz has launched a $1.1 billion “Machine Age” fund aimed at accelerating the physical buildout of AI. The fund will prioritize hardware infrastructure — including chips, memory, interconnects, data centers, robots and supporting cooling, materials and real estate — to improve AI system performance and deployment.",
-      "key_points": [
-        "$1.1B Machine Age fund launched by Andreessen Horowitz",
-        "Fund targets AI hardware and infrastructure: chips, memory, interconnects, data centers, robots"
-      ],
-      "topics": [
-        "a16z",
-        "ai-hardware",
-        "venture-capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 13:24:43 +0000",
-      "processed_at": "2026-08-30T15:41:15.758827+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "A federal judge in California ruled that the Trump administration’s designation of Anthropic as a supply‑chain risk was unlawful, finding Defense Secretary Pete Hegseth’s labeling amounted to unlawful retaliation under the First Amendment and that Anthropic was denied due process under the Fifth. Judge Rita Lin cited inconsistencies — including the DOD’s continued pursuit of contracts and collaboration on Anthropic’s Mythos model — and found no evidence Anthropic left backdoors in its technology.",
-      "key_points": [
-        "Judge Rita Lin found the supply‑chain risk label unlawful, citing First Amendment retaliation and Fifth Amendment due‑process violations.",
-        "The DOD had ordered agencies to stop working with Anthropic while still pursuing contracts and collaborating on the Mythos model; Anthropic’s D.C. suit remains pending."
-      ],
-      "topics": [
-        "anthropic",
-        "dod",
-        "lawsuit",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "processed_at": "2026-08-30T15:41:27.852064+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-08-28-meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Sandhya Devanathan, who spent more than a decade at Meta and was its vice president for India and Southeast Asia, is leaving to join OpenAI and will be based in Singapore reporting to Asia-Pacific MD Kiran Mani to lead consumer growth, enterprise adoption, partnerships, regulatory engagement and operations across Southeast Asia and Australia. Her exit occurs as Meta faces growing scrutiny in India over content moderation and safety, and Meta has shifted its India reporting so Arun Srinivas now reports to Benjamin Joe.",
-      "key_points": [
-        "Sandhya Devanathan joins OpenAI in Singapore to lead regional growth and partnerships, reporting to Kiran Mani.",
-        "Meta is under heightened scrutiny in India for moderation and safety issues; Arun Srinivas will report to Benjamin Joe after Devanathan's departure."
-      ],
-      "topics": [
-        "openai",
-        "meta",
-        "india",
-        "executive-moves"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "processed_at": "2026-08-30T15:41:41.074352+00:00"
     }
   ]
 }
