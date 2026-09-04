@@ -3,6 +3,7 @@ const updatedEl = typeof document !== 'undefined' ? document.querySelector('#las
 const countEl = typeof document !== 'undefined' ? document.querySelector('#story-count') : null;
 
 const LIKED_KEY = 'tn404_liked';
+const SAVED_KEY = 'tn404_saved';
 const LIKE_WORKER_URL = (typeof window !== 'undefined' && window.LIKE_WORKER_URL) || 'https://technews404-likes.workers.dev';
 
 const sessionLikes = new Set();
