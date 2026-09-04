@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-09-04T16:00:17.728538+00:00",
+  "updated_at": "2026-09-04T19:03:22.743288+00:00",
   "items": [
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "feed_excerpt": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "published": "Thu, 03 Sep 2026 18:01:45 +0000"
-    },
-    {
-      "title": "Oura files to go public",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "feed_excerpt": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "published": "Thu, 03 Sep 2026 22:35:41 +0000"
-    },
-    {
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "feed_excerpt": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-      "published": "Thu, 03 Sep 2026 22:18:30 +0000"
-    },
-    {
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "feed_excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "published": "Thu, 03 Sep 2026 20:59:23 +0000"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "feed_excerpt": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "published": "Fri, 04 Sep 2026 00:48:42 +0000"
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "feed_excerpt": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "published": "Fri, 04 Sep 2026 04:21:03 +0000"
-    },
     {
       "title": "CD sales are making an unexpected comeback amid a retro tech boom",
       "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
@@ -72,7 +36,31 @@
       "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
       "feed_excerpt": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
       "published": "Fri, 04 Sep 2026 12:01:14 +0000"
+    },
+    {
+      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "feed_excerpt": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+      "published": "Fri, 04 Sep 2026 17:52:05 +0000"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "feed_excerpt": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "published": "Fri, 04 Sep 2026 17:18:00 +0000"
+    },
+    {
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+      "feed_excerpt": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+      "published": "Fri, 04 Sep 2026 16:51:23 +0000"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "feed_excerpt": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "published": "Fri, 04 Sep 2026 16:21:11 +0000"
     }
   ],
-  "last_processed_at": "2026-09-04T16:00:23.072136+00:00"
+  "last_processed_at": "2026-09-04T19:03:48.994838+00:00"
 }

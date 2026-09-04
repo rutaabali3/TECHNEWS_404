@@ -1,7 +1,156 @@
 {
-  "updated_at": "2026-09-04T16:00:50.577399+00:00",
+  "updated_at": "2026-09-04T19:04:13.560324+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-03-oura-files-to-go-public",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
+      "title": "Oura files to go public | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Oura, the Finnish smart‑ring maker, has filed with the SEC to go public, citing a jump in revenue from $697 million in the first nine months of 2023 to $1.2 billion in the same period of 2024. The company projects 2024 revenue of $500 million, $1 billion in 2025, and close to $2 billion this year, and is seeking a valuation of roughly $16 billion after a prior $11 billion valuation in October. Oura’s 3.6 million rings sold last year and 5 million paid members give it an 85 % 12‑month retention rate, while its large longitudinal biometric dataset fuels AI‑driven health insights. The IPO is shadowed by a proposed class‑action lawsuit alleging the rings misrepresent sleep‑tracking accuracy, a claim the company says it will defend.",
+      "key_points": [
+        "Oura filed for IPO after revenue grew from $697M to $1.2B in nine months",
+        "Company aims for ~$16B valuation, targeting $3B raise",
+        "5M paid members, 85% retention, 3.6M rings sold",
+        "Facing class‑action lawsuit over sleep‑tracking accuracy"
+      ],
+      "topics": [
+        "ipo",
+        "wearables",
+        "healthtech",
+        "ai",
+        "lawsuit"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 22:35:41 +0000",
+      "processed_at": "2026-09-04T19:03:25.141277+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Tesla has released a public interest form inviting businesses to buy or operate Cybercab fleets, signaling a shift from its previous in‑house robotaxi strategy. The form offers several options, including fleet purchase, infrastructure support, event collaboration, and other partnership models. This move indicates Tesla’s intent to scale its autonomous ride‑sharing network by partnering with third‑party operators. By opening the door to external fleets, Tesla aims to accelerate market penetration and attract new players such as Moove, Avomo, and traditional rental companies.",
+      "key_points": [
+        "Tesla opens a form for third‑party Cybercab fleet operators",
+        "Options include fleet purchase, infrastructure, event collaboration, and other partnerships",
+        "The initiative marks a shift from Tesla’s sole in‑house robotaxi model",
+        "It could speed market adoption and attract new operators"
+      ],
+      "topics": [
+        "tesla",
+        "robotaxi",
+        "autonomous vehicles",
+        "fleet management",
+        "partnerships"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 22:18:30 +0000",
+      "processed_at": "2026-09-04T19:03:26.029172+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-startup-arr-is-less-secure-than-ever-new-research-shows",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
+      "title": "Startup ARR is less secure than ever, new research shows | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Madrona’s latest survey of 150 enterprise IT professionals shows that 74% plan to expand AI budgets in the next year, yet fewer than half of AI pilots ever reach full production. 77% of enterprises reevaluate their AI vendors every six months, creating a fast‑in, fast‑out cycle that undermines the long‑term annual recurring revenue (ARR) that AI startups rely on.  The research also highlights a pricing mismatch: more than half of technical buyers prefer outcome‑based fees over token‑usage models, making it harder for startups to demonstrate economic value.  These dynamics signal a shift toward continuous experimentation and a fragile revenue foundation for AI startups.",
+      "key_points": [
+        "74% of surveyed enterprises will increase AI spend, but less than 50% of pilots succeed",
+        "77% of companies reassess AI vendors every six months, eroding long‑term ARR",
+        "Outcome‑based pricing is preferred over token usage, complicating startup revenue models",
+        "The fast‑in, fast‑out cycle threatens the sustainability of AI startup growth"
+      ],
+      "topics": [
+        "enterprise ai",
+        "startup revenue",
+        "pricing models",
+        "vendor churn",
+        "ai adoption"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 20:59:23 +0000",
+      "processed_at": "2026-09-04T19:03:26.853831+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-openai-launches-astra-its-powerful-and-controversial-new-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI unveiled Astra, its most powerful model yet, claiming it offers unmatched speed, accuracy, and safety. The model is initially available to Daybreak customers and will roll out to Pro, Plus, Enterprise, and Business plans as well as the API over the next week. Astra boasts advanced cybersecurity features, including zero‑day exploit detection, and is touted as the best software‑engineering model to date, outperforming Sol and Anthropic’s Fable on several benchmarks. However, the use of opaque recurrence has sparked concerns about monitorability, and OpenAI’s leaders downplayed any AGI milestone, framing the release as a mission concept rather than a contractual trigger.",
+      "key_points": [
+        "Astra is OpenAI’s most powerful model, emphasizing speed, accuracy, and safety",
+        "It includes advanced cybersecurity capabilities such as zero‑day exploit detection and excels in coding benchmarks",
+        "The model’s use of opaque recurrence raises monitorability concerns",
+        "OpenAI leaders dismiss an AGI claim, describing the release as a mission concept"
+      ],
+      "topics": [
+        "ai",
+        "openai",
+        "cybersecurity",
+        "alignment",
+        "agi"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "processed_at": "2026-09-04T19:03:23.972162+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+      "title": "The sameness problem behind those unappetizing AI-generated menus | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "AI‑generated restaurant menus are becoming eerily uniform because the image models are trained on a narrow, pleasing aesthetic that prioritizes symmetry and smoothness.  When users repeatedly edit these AI outputs, the models converge, producing increasingly homogenized and slightly uncanny food images that trigger a visceral sense of unease.  Studies show the uncanny valley effect amplifies disgust toward almost‑real food pictures, prompting many restaurants to abandon AI‑generated menus.  The phenomenon also highlights the risk of model collapse when AI outputs are fed back into training data, further degrading quality.",
+      "key_points": [
+        "AI menus look unnaturally perfect due to training on a narrow, pleasing aesthetic.",
+        "Repeated editing and self‑reinforcement causes convergence, leading to homogenized, uncanny food images.",
+        "The uncanny valley effect triggers disgust, driving restaurants to stop using AI menus.",
+        "Feeding AI outputs back into training data risks model collapse and quality loss."
+      ],
+      "topics": [
+        "ai",
+        "food",
+        "menu",
+        "unconscious bias",
+        "model collapse"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "processed_at": "2026-09-04T19:03:48.994819+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Data center developer Crusoe has raised a new $3 billion round, valuing the company at $30 billion, according to Bloomberg. The round was co‑led by Atreides Management and Valor Equity Partners and included Mubadala Capital, the Abu Dhabi sovereign wealth fund’s asset‑management arm. The funding follows a $13 billion, five‑year cloud contract with quantitative trading firm Jane Street and comes 10 months after a $1.38 billion, $10 billion‑valuation round. Crusoe, which began as a crypto‑mining operation in 2018, has pivoted to building hyperscale AI data‑center campuses for clients such as Meta, Microsoft, OpenAI, and Oracle, and is reportedly exploring an IPO.",
+      "key_points": [
+        "Crusoe secured $3 billion in new capital, pushing its valuation to $30 billion.",
+        "The round was led by Atreides Management and Valor Equity Partners, with Mubadala Capital participating.",
+        "The company recently signed a $13 billion, five‑year cloud contract with Jane Street and is considering an IPO."
+      ],
+      "topics": [
+        "data centers",
+        "ai infrastructure",
+        "funding",
+        "cloud computing",
+        "ipo"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "processed_at": "2026-09-04T19:03:29.990050+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
@@ -1966,135 +2115,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 29 Aug 2026 16:10:00 +0000",
       "processed_at": "2026-08-30T15:38:09.182410+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-29-the-theragun-sense-makes-everyday-recovery-surprisingly-easy",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Therabody's Theragun Sense (2nd Gen) is a $299 lightweight massage gun aimed at everyday aches and relaxation rather than deep-tissue recovery, offering five speeds and a relatively quiet motor. It features an onboard LCD with guided routines, Bluetooth sync to the Therabody app with an AI Coach, and ships with two attachments, a USB-C cable and travel pouch (Supersoft attachment available for $35).",
-      "key_points": [
-        "Onboard LCD guides four routines and pairs with the Therabody app and AI Coach.",
-        "Includes Standard Ball and Dampener attachments, USB-C cable, and travel pouch; Supersoft attachment sold separately for $35."
-      ],
-      "topics": [
-        "wellness",
-        "massage",
-        "consumer-gadgets",
-        "therabody"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "processed_at": "2026-08-30T15:38:21.193065+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-29-nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Nvidia’s lead in AI is increasingly tied to systems-level hardware and software, not just its GPUs, after growing its market cap roughly 10x from the start of 2023 to mid-2025. Its new Vera Rubin architecture — pairing Rubin GPUs with a Vera CPU, Groq 3 LPX inference accelerators and integrated storage/network racks — targets data orchestration and traffic management to boost megascale efficiency.",
-      "key_points": [
-        "Market cap rose about 10x from start of 2023 to mid-2025.",
-        "Vera Rubin systems (Rubin GPU, Vera CPU, Groq 3 LPX) focus on data orchestration to reduce bottlenecks."
-      ],
-      "topics": [
-        "nvidia",
-        "ai-infrastructure",
-        "data-orchestration"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "processed_at": "2026-08-30T15:38:32.514299+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Chinese automakers are rapidly investing in humanoid robots, riding momentum from Tesla’s Optimus and advances in AI and robotics hardware. Xpeng’s robotics unit raised over $900 million at a post‑money valuation above $6.3 billion with about $100 million invested by its founders, while BYD, Chery’s AiMOGA, Changan, GAC, Li Auto, SAIC and Seres are also developing humanoid projects.",
-      "key_points": [
-        "Xpeng raised over $900 million at a post‑money valuation above $6.3 billion; founders invested about $100 million.",
-        "BYD unveiled humanoid Xiao Di and Chery’s AiMOGA is preparing for an IPO; multiple other Chinese automakers are developing humanoid robots."
-      ],
-      "topics": [
-        "robotics",
-        "automotive",
-        "china",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 23:24:27 +0000",
-      "processed_at": "2026-08-30T15:38:47.268350+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "title": "Is the best way to watch a movie on a pair of sunglasses? | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "XREAL’s a01, released in May, is an affordable (~$300) wired wearable display with dual mini OLED panels (1080p, up to 1,600 nits) aimed at gaming but promoted for watching movies. The reviewer found the image vivid and the glasses lightweight, but criticized mirrored playback, heat on the bridge of the nose, and redundancy versus a nearby laptop or traditional TV as drawbacks for cinephiles.",
-      "key_points": [
-        "~$300 wired glasses with dual 1080p mini OLEDs (up to 1,600 nits)",
-        "Requires screen mirroring, tends to warm on the nose, and optional Beam Pro costs $200"
-      ],
-      "topics": [
-        "xr",
-        "smart-glasses",
-        "wearable-displays"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 22:42:48 +0000",
-      "processed_at": "2026-08-30T15:39:03.089666+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Lambda secured $1 billion in private, short-dated debt arranged by JP Morgan Chase to buy Nvidia AI chips that it will lease to Microsoft, expecting quick deployment revenue to repay the loan. The company has stacked multiple GPU financings — including a $926 million loan for Nvidia GB300 GPUs and a $1 billion secured facility in May — and is reportedly pursuing a $3 billion pre-IPO round after raising $1.5 billion last November at a $5.43 billion valuation.",
-      "key_points": [
-        "$1 billion private short-dated debt to buy Nvidia chips to lease to Microsoft (arranged by JP Morgan Chase)",
-        "Additional GPU financings include a $926 million loan for Nvidia GB300 GPUs and a $1 billion May facility; $3 billion pre-IPO talks reported"
-      ],
-      "topics": [
-        "ai",
-        "financing",
-        "nvidia",
-        "cloud"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "processed_at": "2026-08-30T15:39:17.289214+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Anthropic fellow Chen Yueh-Han released a paper describing an Automated Alignment Researcher (AAR) that searches literature, proposes methods, and trains models iteratively to improve alignment performance. In tests the system improved every one of 10 alignment benchmarks without degrading overall performance, used 30-minute training runs, and ran at about $4/hour of API inference while outperforming human proposals within roughly six hours.",
-      "key_points": [
-        "AAR improved performance on all 10 tested alignment benchmarks without degrading overall performance.",
-        "The system uses 30-minute iterative training runs, costs about $4/hour of API inference versus $150/hour for human researchers, and outperformed human-guided proposals within ~6 hours."
-      ],
-      "topics": [
-        "anthropic",
-        "ai-alignment",
-        "automated-research"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "processed_at": "2026-08-30T15:39:30.862202+00:00"
     }
   ]
 }
