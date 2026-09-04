@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-09-03T23:04:48.840469+00:00",
+  "updated_at": "2026-09-04T01:12:02.029895+00:00",
   "items": [
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "feed_excerpt": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "published": "Wed, 02 Sep 2026 22:24:09 +0000"
-    },
-    {
-      "title": "Volunteer at TechCrunch Founder Summit in Boston",
-      "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-      "feed_excerpt": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get […]",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-      "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-      "feed_excerpt": "TikTok’s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments. With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform. […]",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000"
-    },
     {
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
@@ -114,7 +96,13 @@
       "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
       "feed_excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
       "published": "Thu, 03 Sep 2026 20:59:23 +0000"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "feed_excerpt": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "published": "Fri, 04 Sep 2026 00:48:42 +0000"
     }
   ],
-  "last_processed_at": "2026-09-03T23:05:13.869621+00:00"
+  "last_processed_at": "2026-09-04T01:12:11.499591+00:00"
 }

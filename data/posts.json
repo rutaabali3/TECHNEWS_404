@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-09-03T23:05:44.724595+00:00",
+  "updated_at": "2026-09-04T01:12:39.796791+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "ps-techcrunch-com-2026-09-02-techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 introduces a new Real World AI Stage that focuses on the intersection of digital and physical AI, featuring speakers from Shield AI, Colossal Biosciences, FieldAI, Foxglove, and others. The stage will explore topics such as the data gap hindering robotic intelligence, safety and regulatory challenges for autonomous systems, de‑extinction technologies, edge AI deployments, and scaling prototypes to production. Sessions will be held October 13‑15 at Moscone West in San Francisco, alongside the main AI Stage and other event programming. The initiative underscores the growing importance of integrating AI into real‑world environments and the need for sustainable, trustworthy deployment.",
+      "key_points": [
+        "Real World AI Stage focuses on blending digital and physical AI, including robotics and de‑extinction.",
+        "Key speakers include Nvidia, Shield AI, Colossal Biosciences, FieldAI, Foxglove.",
+        "Sessions cover data gaps, safety culture, edge AI, and prototype‑to‑production scaling.",
+        "Event runs Oct 13‑15 at Moscone West, part of Disrupt 2026."
+      ],
+      "topics": [
+        "ai",
+        "robotics",
+        "de-extinction",
+        "edge computing",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+      "processed_at": "2026-09-04T01:12:04.538311+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-volunteer-at-techcrunch-founder-summit-in-boston",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54571034038_4825307406_k.jpg?resize=1200,800",
+      "title": "Volunteer at TechCrunch Founder Summit in Boston | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is calling for volunteers for its rebranded Founder Summit in Boston, scheduled for November 4, 2024. Volunteers will receive a behind‑the‑scenes look at event production, a ticket to the summit, and a free pass to Disrupt 2027, along with the chance to attend workshops on user growth, funding, and branding. The event expects about 1,100 attendees and offers roles ranging from registration and speaker coordination to attendee direction and ticket scanning. Applications must be submitted by October 19, and spots are limited.",
+      "key_points": [
+        "TechCrunch Founder Summit in Boston on Nov 4, 2024 is seeking volunteers for a variety of event‑support roles.",
+        "Volunteers receive a summit ticket, a free pass to Disrupt 2027, and access to expert workshops.",
+        "Tasks include registration, speaker wrangling, attendee direction, ticket scanning, and general setup.",
+        "Applications close on Oct 19 and volunteer spots are limited.”]",
+        "topics",
+        ":",
+        [
+          "tech events",
+          "volunteering",
+          "startup community",
+          "ai sustainability",
+          "boston"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-04T01:12:05.485629+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TikTok is expanding its comment sections with new interactive features, including voice comments, polls, photo carousel comments, and Live Photo comments. Voice comments can be up to one minute long and will roll out globally over the next month to users 18 and older, while polls are now available worldwide and let creators add up to five options with a set time frame. Photo carousel comments allow up to nine images in a single comment, and Live Photo comments provide a brief motion preview before the full image. These additions aim to deepen engagement by turning comment threads into more dynamic, interactive spaces.",
+      "key_points": [
+        "TikTok is adding voice comments, polls, photo carousel, and Live Photo comments to its comment sections",
+        "Voice comments can be up to one minute long and will be available globally to users 18+ over the next month",
+        "Creators can add polls with up to five options and view results directly in the comment thread",
+        "Photo carousel comments support up to nine photos per comment and Live Photo comments offer a motion preview"
+      ],
+      "topics": [
+        "tiktok",
+        "socialmedia",
+        "features",
+        "engagement",
+        "voicecomments"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-04T01:12:11.499575+00:00"
+    },
     {
       "id": "techcrunch-com-2026-09-02-the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
@@ -1981,71 +2059,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 27 Aug 2026 23:16:45 +0000",
       "processed_at": "2026-08-30T15:42:21.119654+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-rivians-cfo-is-leaving-the-company",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/claire-mcdonough-getty.jpg?resize=1200,899",
-      "title": "Rivian's CFO is leaving the company | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Rivian CFO Claire McDonough will resign at the end of October to take the CFO role at GE Vernova, and the company says the departure is not the result of any disagreement while it searches for a successor. Vice president of finance Derek Mulvey will serve as interim CFO as Rivian scales R2 production and manages recent strategic moves, including a November 2024 joint venture with Volkswagen under which VW agreed to invest up to $5.8 billion.",
-      "key_points": [
-        "Claire McDonough to leave Rivian end of October to become CFO of GE Vernova.",
-        "Derek Mulvey named interim CFO; Rivian is scaling R2 production and completed a VW JV in Nov 2024 with up to $5.8B investment."
-      ],
-      "topics": [
-        "rivian",
-        "executive-change",
-        "ev",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 20:23:10 +0000",
-      "processed_at": "2026-08-30T15:42:34.814455+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "title": "Bluesky adds an 'algorithmic opt-out' feature for those who don't want to go viral | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Bluesky introduced an algorithmic opt-out that prevents public posts from appearing in the app’s Discover feed while keeping posts public. The preference is stored at the account level so it can apply across AT Proto-powered apps and can take up to an hour to fully take effect, though other apps may choose whether to respect it.",
-      "key_points": [
-        "Toggle available in Privacy and Security settings; change can take up to an hour to propagate.",
-        "Setting is recorded at the account level and travels with users across AT Proto-powered apps, but third-party apps must opt to honor it."
-      ],
-      "topics": [
-        "bluesky",
-        "social-media",
-        "privacy",
-        "at-proto"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 20:15:26 +0000",
-      "processed_at": "2026-08-30T15:42:47.450306+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
-      "title": "Buried in Meta's $18B settlement is a legal pass on kids' data | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta's $18 billion settlement with 29 state attorneys general grants the company a permanent shield from COPPA and similar state claims for using children's data to train an age‑assurance model, while prohibiting its use for ad targeting. The deal requires Meta to build and test the model within a year, with independent auditing to ensure data isolation, but leaves enforcement questions because the FTC is not a party.",
-      "key_points": [
-        "The settlement bars states from suing Meta over child‑data use for model training, yet Meta must still develop an age‑detection system within a year and cannot use under‑13 data for advertising.",
-        "An independent auditor will monitor compliance, but enforcement may be complicated since COPPA is federally enforced by the FTC, which did not join the agreement."
-      ],
-      "topics": [
-        "privacy",
-        "ai",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 20:04:26 +0000",
-      "processed_at": "2026-08-29T18:14:57.029296+00:00"
     }
   ]
 }
