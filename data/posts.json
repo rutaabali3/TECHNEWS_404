@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-04T11:36:56.259568+00:00",
+  "updated_at": "2026-09-04T16:00:50.577399+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Thinking Machines, an AI lab founded by former OpenAI CTO Mira Murati, is reportedly in talks with Accel to lead a $1 billion funding round that would value the company at $40 billion. The company’s annual revenue run rate exceeds $100 million, making the $40 billion valuation imply an exceptionally high revenue multiple. Earlier this year, Thinking Machines raised a historic $2 billion seed round at a $12 billion valuation led by Andreessen Horowitz, Nvidia, GV, Lightspeed and Conviction Partners. The firm has also launched Inkling, an open‑weight model that charges usage‑based compute fees on its Tinker platform, while several co‑founders have returned to OpenAI.",
+      "key_points": [
+        "Accel may lead a $1 billion round valuing Thinking Machines at $40 billion",
+        "The startup’s revenue run rate exceeds $100 million, implying a very high revenue multiple",
+        "It previously raised a $2 billion seed round at a $12 billion valuation",
+        "Inkling monetizes compute usage on its Tinker platform"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "valuation",
+        "openai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
+      "processed_at": "2026-09-04T16:00:19.959357+00:00"
+    },
+    {
+      "id": "-techcrunch-com-2026-09-03-utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?resize=1200,900",
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Realta Fusion announced a partnership with Madison Gas & Electric that will bring one of the first grid‑connected fusion power plants to Wisconsin, targeting a 200‑megawatt facility in the mid‑2030s. The deal includes an equity investment and gives the startup access to land, interconnection sites, engineering support and financing that would otherwise be costly. Utilities worldwide are increasingly courting fusion startups as a way to secure reliable, fossil‑fuel‑free baseload power amid growing demand from AI data centers and the intermittency of renewables. Similar agreements—such as Commonwealth Fusion Systems with Dominion Energy and Helion with Chelan County—highlight a growing trend of utilities investing in fusion to diversify their future energy mix.",
+      "key_points": [
+        "Realta Fusion secured a 200‑MW fusion plant deal and equity investment from Madison Gas & Electric",
+        "Utilities are partnering with fusion startups to gain early access to clean, 24/7 baseload power",
+        "Other notable deals include CFS with Dominion, Helion with Chelan County, Type One Energy with TVA, and Proxima Fusion with RWE",
+        "These partnerships provide startups with engineering, permitting, land and financing advantages while offering utilities a potential long‑term power source"
+      ],
+      "topics": [
+        "fusion",
+        "utilities",
+        "energy",
+        "grid",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 19:29:16 +0000",
+      "processed_at": "2026-09-04T16:00:21.180735+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Abliteration.ai has commercialized a technique that removes guardrails from open-weight AI models, offering versions of models like Z.ai’s GLM‑5.3 that can comply with harmful requests. The startup claims the service is intended for defensive work such as red‑team testing, but it has already demonstrated the ability to generate exploit code and dangerous bioweapon protocols. While the company provides a minimal moderation layer and plans to add more safeguards, it has no KYC beyond credit‑card logging and has not raised venture capital yet. Critics warn that widespread access to abliterated models could accelerate misuse, prompting calls for government regulation and stricter identity verification for GPU rentals.\n",
+      "key_points": [
+        "Abliteration.ai offers commercially hosted, guard‑rail‑removed AI models for red‑team and offensive testing.\nThe service can produce exploit code and bioweapon instructions, raising safety concerns.\nThe company has no formal KYC and relies on customer revenue, with no VC funding yet.\nExperts argue that while defenders may benefit, the risk of misuse is high and may require regulatory intervention.\n",
+        "topics",
+        ":",
+        [
+          "ai",
+          "safety",
+          "cybersecurity",
+          "open-source",
+          "policy"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "processed_at": "2026-09-04T16:00:21.980014+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "title": "Meta is paying to peek at how you use their latest AI model | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Meta has introduced a new pricing tier for its Muse Spark model that offers an average 95% discount to users who agree to share their prompts and outputs, reducing input token costs from $1.25 to $0.10 per million and output token costs from $4.25 to $0.20 per million. The move comes after internal backlash over a company‑wide data‑collection initiative that was paused in June, highlighting the difficulty Meta faces in gathering training data for agentic tools. By monetizing data sharing, Meta hopes to lower barriers for prototyping and scaling experiments while encouraging enterprises to decide which data can be shared. The announcement follows similar price cuts from Anthropic and OpenAI, intensifying competition among frontier AI labs.",
+      "key_points": [
+        "Meta offers an average 95% discount for users who share prompts and outputs for Muse Spark",
+        "Standard input token cost $1.25 per million drops to $0.10 under the contributor model",
+        "Standard output token cost $4.25 per million drops to $0.20 under the contributor model",
+        "The pricing shift follows internal criticism of Meta’s data‑collection initiative and mirrors price cuts from Anthropic and OpenAI"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "pricing",
+        "data privacy",
+        "agentic tools"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "processed_at": "2026-09-04T16:00:23.072117+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-03-the-cybercab-is-teslas-fork-in-the-road-moment",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
@@ -1995,92 +2095,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 28 Aug 2026 19:30:38 +0000",
       "processed_at": "2026-08-30T15:39:30.862202+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "title": "Brave's browser one-ups Chrome with its new support for email aliases | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Brave has added an email alias feature to its browser so users can sign up for sites without exposing their primary email. After creating a Brave account, users can generate aliases that forward mail to their main inbox while Brave processes messages for spam and virus filtering, deletes forwarded mail from its servers, and encrypts account data; the feature currently includes five free aliases with more available for Premium users.",
-      "key_points": [
-        "aliases forward mail to a user’s primary email after spam/virus filtering and are deleted from Brave’s servers",
-        "Brave offers five free aliases now, with additional aliases planned for Premium subscribers"
-      ],
-      "topics": [
-        "brave",
-        "email",
-        "privacy",
-        "browser"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 18:50:00 +0000",
-      "processed_at": "2026-08-30T15:39:46.210704+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "title": "Open-weight AI companies are the Valley's hottest acquisition targets | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Reports indicate Nvidia is close to acquiring Hugging Face for $13 billion amid a wave of large purchases of open-weight AI companies, following Nvidia’s $6 billion Poolside deal and Stripe’s acquisition of OpenRouter for more than $7 billion. The moves aim to capture developer ecosystems, reduce reliance on frontier labs and address rising inference costs, even though only about 6% of companies and 2% of software engineers currently use open-weight models.",
-      "key_points": [
-        "Nvidia reportedly nearing a $13 billion acquisition of Hugging Face; Nvidia also struck a $6B deal for Poolside and Stripe bought OpenRouter for >$7B.",
-        "Open-weight models are used by roughly 6% of companies and 2% of software engineers today, with adoption rising as firms seek cheaper inference and more control."
-      ],
-      "topics": [
-        "ai",
-        "open-weight",
-        "acquisitions"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "processed_at": "2026-08-30T15:40:02.576258+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-how-sweden-built-one-of-europes-hottest-startup-ecosystems",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.jpg?resize=1200,800",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Sweden’s startup scene, centered in Stockholm and home to companies such as Spotify, Klarna, Legora, Lovable, Neko Health and Einride, has raised $2.8 billion so far this year and is projected to reach at least $5 billion, compared with $3.2 billion last year and an $8.5 billion peak in 2021. Founders and investors — including Cherry Ventures partner Sophia Bendz and repeat entrepreneurs like Daniel Ek — attribute the surge to a cultural shift toward entrepreneurship, mentorship from first-generation founders and growing U.S. investor interest.",
-      "key_points": [
-        "$2.8 billion raised so far this year; projected to hit at least $5 billion (Dealroom).",
-        "First-generation founders and repeat entrepreneurs are mentoring new startups, attracting more U.S. investors."
-      ],
-      "topics": [
-        "sweden",
-        "stockholm",
-        "startups",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 17:09:05 +0000",
-      "processed_at": "2026-08-30T15:40:16.800251+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-more-americans-oppose-police-license-plate-cameras-than-support-them-survey",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?resize=1200,794",
-      "title": "More Americans oppose police license plate cameras than support them: survey | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "A YouGov survey of 20,000 U.S. adults shared with The Washington Post found 46% oppose and 38% support deployment of Flock’s license-plate cameras, reversing last year’s majority support. Flock, which operates more than 120,000 readers nationwide, has faced contract cancellations and criticism after reports of police misuse while the company says it has added safeguards critics call insufficient.",
-      "key_points": [
-        "YouGov survey of 20,000: 46% oppose Flock cameras, 38% support them.",
-        "Flock operates more than 120,000 license-plate readers and has faced cancellations amid reports of police misuse."
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "flock"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 15:57:58 +0000",
-      "processed_at": "2026-08-30T15:40:33.232081+00:00"
     }
   ]
 }
