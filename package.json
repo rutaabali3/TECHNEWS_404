@@ -1,0 +1,9 @@
+{
+  "name": "technews-404",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TECHNEWS_404 technology news digest",
+  "scripts": {
+    "test": "node --test"
+  }
+}
