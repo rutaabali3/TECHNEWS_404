@@ -3,7 +3,6 @@ const updatedEl = typeof document !== 'undefined' ? document.querySelector('#las
 const countEl = typeof document !== 'undefined' ? document.querySelector('#story-count') : null;
 
 const LIKED_KEY = 'tn404_liked';
-const SAVED_KEY = 'tn404_saved';
 const LIKE_WORKER_URL = (typeof window !== 'undefined' && window.LIKE_WORKER_URL) || 'https://technews404-likes.workers.dev';
 
 const sessionLikes = new Set();
@@ -39,6 +38,10 @@ function toggleStoredItem(key, id) {
   return active;
 }
 
+function escapeHtml(value = '') {
+  return String(value).replace(/[&<>\"']/g, (char) => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#039;'}[char]));
+}
+
 function formatDate(value) {
   if (!value) return 'Recent';
   const date = new Date(value);
@@ -51,184 +54,51 @@ function getArticleId(post) {
   return post.source_url.replace(/[^a-zA-Z0-9]/g, '-').replace(/-+/g, '-').toLowerCase();
 }
 
-const SVG_NS = 'http://www.w3.org/2000/svg';
-
-function createSvgElement(type, attributes = {}) {
-  const el = document.createElementNS(SVG_NS, type);
-  for (const [key, val] of Object.entries(attributes)) {
-    el.setAttribute(key, val);
-  }
-  return el;
-}
-
-function createHeartIcon() {
-  const svg = createSvgElement('svg', {
-    'class': 'icon heart-icon',
-    'width': '18',
-    'height': '18',
-    'viewBox': '0 0 24 24',
-    'fill': 'none',
-    'stroke': 'currentColor',
-    'stroke-width': '2',
-    'stroke-linecap': 'round',
-    'stroke-linejoin': 'round'
-  });
-  const path = createSvgElement('path', {
-    'd': 'M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l8.78-8.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z'
-  });
-  svg.appendChild(path);
-  return svg;
-}
-
-function createShareIcon() {
-  const svg = createSvgElement('svg', {
-    'class': 'icon share-icon',
-    'width': '18',
-    'height': '18',
-    'viewBox': '0 0 24 24',
-    'fill': 'none',
-    'stroke': 'currentColor',
-    'stroke-width': '2',
-    'stroke-linecap': 'round',
-    'stroke-linejoin': 'round'
-  });
-  const path = createSvgElement('path', {
-    'd': 'M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8'
-  });
-  const polyline = createSvgElement('polyline', {
-    'points': '16 6 12 2 8 6'
-  });
-  const line = createSvgElement('line', {
-    'x1': '12',
-    'y1': '2',
-    'x2': '12',
-    'y2': '15'
-  });
-  svg.appendChild(path);
-  svg.appendChild(polyline);
-  svg.appendChild(line);
-  return svg;
-}
-
-function createBookmarkIcon() {
-  const svg = createSvgElement('svg', {
-    'class': 'icon bookmark-icon',
-    'width': '18',
-    'height': '18',
-    'viewBox': '0 0 24 24',
-    'fill': 'none',
-    'stroke': 'currentColor',
-    'stroke-width': '2',
-    'stroke-linecap': 'round',
-    'stroke-linejoin': 'round'
-  });
-  const path = createSvgElement('path', {
-    'd': 'M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z'
-  });
-  svg.appendChild(path);
-  return svg;
-}
-
-function sanitizeUrl(url) {
-  if (!url || typeof url !== 'string') return '#';
-  const trimmed = url.trim();
-  if (/^(javascript|vbscript|data):/i.test(trimmed)) {
-    return '#';
-  }
-  return trimmed;
-}
-
 function renderPost(post, likedSet, savedSet, globalLikes = {}) {
   const articleId = getArticleId(post);
   const isLiked = likedSet.has(articleId);
   const isSaved = savedSet.has(articleId);
   const rawCount = globalLikes[articleId];
   const count = typeof rawCount === 'number' && rawCount > 0 ? rawCount : 0;
-  const displayCount = count > 0 ? String(count) : '';
+  const displayCount = count > 0 ? count : '';
 
-  const article = document.createElement('article');
-  article.className = 'card';
-  article.setAttribute('data-article-id', articleId);
+  const sourceName = escapeHtml(post.source || 'TechCrunch');
+  const dateStr = escapeHtml(formatDate(post.published));
+  const title = escapeHtml(post.title || '');
+  const summary = escapeHtml(post.summary || '');
+  const sourceUrl = escapeHtml(post.source_url || '#');
+  const imageHtml = post.image ? `<img class="card-image" src="${escapeHtml(post.image)}" alt="" loading="lazy">` : '';
 
-  if (post.image) {
-    const img = document.createElement('img');
-    img.className = 'card-image';
-    img.src = sanitizeUrl(post.image);
-    img.alt = '';
-    img.loading = 'lazy';
-    article.appendChild(img);
-  }
-
-  const metaDiv = document.createElement('div');
-  metaDiv.className = 'card-meta';
-
-  const sourceSpan = document.createElement('span');
-  sourceSpan.textContent = post.source || 'TechCrunch';
-
-  const dotSpan = document.createElement('span');
-  dotSpan.className = 'meta-dot';
-  dotSpan.textContent = '•';
-
-  const timeEl = document.createElement('time');
-  timeEl.setAttribute('datetime', post.published || '');
-  timeEl.textContent = formatDate(post.published);
-
-  metaDiv.appendChild(sourceSpan);
-  metaDiv.appendChild(dotSpan);
-  metaDiv.appendChild(timeEl);
-  article.appendChild(metaDiv);
-
-  const titleH3 = document.createElement('h3');
-  titleH3.className = 'card-title';
-
-  const titleLink = document.createElement('a');
-  titleLink.href = sanitizeUrl(post.source_url);
-  titleLink.target = '_blank';
-  titleLink.rel = 'noreferrer';
-  titleLink.textContent = post.title || '';
-
-  titleH3.appendChild(titleLink);
-  article.appendChild(titleH3);
-
-  const summaryP = document.createElement('p');
-  summaryP.className = 'card-summary';
-  summaryP.textContent = post.summary || '';
-  article.appendChild(summaryP);
-
-  const footerDiv = document.createElement('div');
-  footerDiv.className = 'card-footer';
-
-  const likeBtn = document.createElement('button');
-  likeBtn.type = 'button';
-  likeBtn.className = `btn-icon btn-like${isLiked ? ' active' : ''}`;
-  likeBtn.setAttribute('aria-label', 'Like story');
-  likeBtn.appendChild(createHeartIcon());
-
-  const countSpan = document.createElement('span');
-  countSpan.className = 'like-count';
-  countSpan.textContent = displayCount;
-  likeBtn.appendChild(countSpan);
-
-  const shareBtn = document.createElement('button');
-  shareBtn.type = 'button';
-  shareBtn.className = 'btn-icon btn-share';
-  shareBtn.setAttribute('aria-label', 'Share story');
-  shareBtn.setAttribute('data-title', post.title || '');
-  shareBtn.setAttribute('data-url', post.source_url || '#');
-  shareBtn.appendChild(createShareIcon());
-
-  const saveBtn = document.createElement('button');
-  saveBtn.type = 'button';
-  saveBtn.className = `btn-icon btn-save${isSaved ? ' active' : ''}`;
-  saveBtn.setAttribute('aria-label', 'Save story');
-  saveBtn.appendChild(createBookmarkIcon());
-
-  footerDiv.appendChild(likeBtn);
-  footerDiv.appendChild(shareBtn);
-  footerDiv.appendChild(saveBtn);
-  article.appendChild(footerDiv);
-
-  return article;
+  return `<article class="card" data-article-id="${escapeHtml(articleId)}">
+    ${imageHtml}
+    <div class="card-meta">
+      <span>${sourceName}</span>
+      <span class="meta-dot">•</span>
+      <time datetime="${escapeHtml(post.published || '')}">${dateStr}</time>
+    </div>
+    <h3 class="card-title"><a href="${sourceUrl}" target="_blank" rel="noreferrer">${title}</a></h3>
+    <p class="card-summary">${summary}</p>
+    <div class="card-footer">
+      <button type="button" class="btn-icon btn-like ${isLiked ? 'active' : ''}" aria-label="Like story">
+        <svg class="icon heart-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l8.78-8.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+        </svg>
+        <span class="like-count">${displayCount}</span>
+      </button>
+      <button type="button" class="btn-icon btn-share" aria-label="Share story" data-title="${title}" data-url="${sourceUrl}">
+        <svg class="icon share-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
+          <polyline points="16 6 12 2 8 6"></polyline>
+          <line x1="12" y1="2" x2="12" y2="15"></line>
+        </svg>
+      </button>
+      <button type="button" class="btn-icon btn-save ${isSaved ? 'active' : ''}" aria-label="Save story">
+        <svg class="icon bookmark-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+        </svg>
+      </button>
+    </div>
+  </article>`;
 }
 
 let toastTimeout = null;
@@ -336,13 +206,6 @@ postsEl.addEventListener('click', (e) => {
   }
 });
 
-function renderEmptyMessage(message) {
-  const emptyDiv = document.createElement('div');
-  emptyDiv.className = 'empty';
-  emptyDiv.textContent = message;
-  return emptyDiv;
-}
-
 Promise.all([
   fetch('./data/posts.json', { cache: 'no-store' }).then((r) => r.ok ? r.json() : {}).catch(() => ({})),
   fetch('./data/likes.json', { cache: 'no-store' }).then((r) => r.ok ? r.json() : {}).catch(() => ({}))
@@ -354,21 +217,10 @@ Promise.all([
 
   countEl.textContent = `${posts.length} ${posts.length === 1 ? 'story' : 'stories'}`;
   updatedEl.textContent = postsData.updated_at ? `Last checked ${formatDate(postsData.updated_at)}` : 'Waiting for the first scheduled update';
-
-  postsEl.textContent = '';
-  if (posts.length) {
-    const fragment = document.createDocumentFragment();
-    posts.forEach((post) => {
-      fragment.appendChild(renderPost(post, likedSet, savedSet, globalLikes));
-    });
-    postsEl.appendChild(fragment);
-  } else {
-    postsEl.appendChild(renderEmptyMessage('No stories have been summarized yet. The next scheduled workflow will check TechCrunch.'));
-  }
+  postsEl.innerHTML = posts.length ? posts.map((post) => renderPost(post, likedSet, savedSet, globalLikes)).join('') : '<div class="empty">No stories have been summarized yet. The next scheduled workflow will check TechCrunch.</div>';
   postsEl.setAttribute('aria-busy', 'false');
 }).catch(() => {
-  postsEl.textContent = '';
-  postsEl.appendChild(renderEmptyMessage('The digest is temporarily unavailable. Please try again after the next workflow run.'));
+  postsEl.innerHTML = '<div class="empty">The digest is temporarily unavailable. Please try again after the next workflow run.</div>';
   postsEl.setAttribute('aria-busy', 'false');
 });
 }
