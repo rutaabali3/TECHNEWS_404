@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-09-04T01:12:02.029895+00:00",
+  "updated_at": "2026-09-04T06:22:13.792153+00:00",
   "items": [
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "feed_excerpt": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "published": "Thu, 03 Sep 2026 12:42:45 +0000"
-    },
-    {
-      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-      "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-      "feed_excerpt": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
-      "published": "Thu, 03 Sep 2026 12:12:56 +0000"
-    },
-    {
-      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-      "feed_excerpt": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
-      "published": "Thu, 03 Sep 2026 17:00:00 +0000"
-    },
     {
       "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
       "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
@@ -102,7 +84,13 @@
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "feed_excerpt": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
       "published": "Fri, 04 Sep 2026 00:48:42 +0000"
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "feed_excerpt": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "published": "Fri, 04 Sep 2026 04:21:03 +0000"
     }
   ],
-  "last_processed_at": "2026-09-04T01:12:11.499591+00:00"
+  "last_processed_at": "2026-09-04T06:22:20.768030+00:00"
 }

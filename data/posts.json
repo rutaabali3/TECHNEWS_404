@@ -1,7 +1,80 @@
 {
-  "updated_at": "2026-09-04T01:12:39.796791+00:00",
+  "updated_at": "2026-09-04T06:22:31.690482+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-03-qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800",
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Ultrahuman, the Bengaluru‑based smart ring maker, secured $70 million in a new funding round that values the company at $365 million, roughly three times its 2023 valuation. The round, led by Qualcomm Ventures and joined by Labcorp, Alpha Wave, Blume Ventures, Nexus Venture Partners and Alteria Capital, includes $65 million in primary equity and $5 million in debt. Qualcomm is collaborating on a new ring that will use its silicon to give the device on‑device computing power, enabling future uses such as game controllers, AI interfaces and other non‑health applications. While the company plans to roll out software updates to its existing Ring Air and Ring Pro models by September, it also aims to expand sales in the U.S., India and the UAE and is exploring deeper health‑diagnostics partnerships with Labcorp.",
+      "key_points": [
+        "Ultrahuman raised $70M, valuing it at $365M, with Qualcomm Ventures as a lead investor",
+        "The new Qualcomm‑powered ring will add on‑device computing to enable AI, gaming and other non‑health functions",
+        "Existing rings will receive software updates to support game control and AI interaction before the new hardware launches"
+      ],
+      "topics": [
+        "smart rings",
+        "financing",
+        "ai",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-04T06:22:20.768012+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Nvidia has announced it will acquire Hugging Face for $12.93 billion, bringing the open‑source AI model hub into its ecosystem while pledging to keep the platform open and independent of Nvidia hardware. Hugging Face currently hosts 3 million models, 1 million applications, 18 million developers and 500 000 datasets, and will continue to support open‑weight models after the deal. Nvidia will add its own 500+ models and 250 datasets to the library and will not require its GPUs for Hugging Face deployments, allowing developers to choose any framework, cloud or inference provider. The acquisition follows a rejected $500 million offer last year and positions Nvidia to monetize unused GPU capacity through Hugging Face’s services, strengthening its role in the AI ecosystem.",
+      "key_points": [
+        "Nvidia has agreed to acquire Hugging Face for $12.93 billion, adding a leading open‑source AI model hub to its ecosystem.",
+        "Hugging Face hosts 3 million models, 1 million apps, 18 million developers, and 500 000 datasets, and will remain an open platform after the deal.",
+        "Nvidia will continue to support open‑weight models and will not require its hardware for Hugging Face deployments, while adding its own 500+ models and 250 datasets to the library.",
+        "The acquisition follows a $500 million offer that Hugging Face declined last year and positions Nvidia to monetize unused GPU capacity through Hugging Face’s services."
+      ],
+      "topics": [
+        "ai",
+        "acquisition",
+        "open-source",
+        "nvidia",
+        "huggingface"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "processed_at": "2026-09-04T06:22:15.021433+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
+      "title": "Amazon's Zoox expands its robotaxi service to Las Vegas airport | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Amazon-owned Zoox has expanded its commercial robotaxi service to include rides to and from Harry Reid International Airport in Las Vegas, starting Thursday. The move follows a federal safety exemption that allows Zoox to deploy up to 2,500 vehicles per year and to charge for rides, marking a significant step toward full commercial operation. By offering pickups and drop-offs directly at both airport terminals, Zoox gains an advantage over traditional ride‑hailing apps like Uber and Lyft, which only provide curbside service. The expansion comes as other autonomous‑vehicle firms, including Tesla, Uber, and Waymo, have also received permits to operate robotaxis in Clark County, potentially leading to up to 8,000 robotaxis on the roads in the next year.",
+      "key_points": [
+        "Zoox now offers robotaxi rides to and from Las Vegas airport under a federal exemption allowing up to 2,500 vehicles per year.",
+        "The service provides terminal‑to‑terminal pickups and drop‑offs, giving Zoox a competitive edge over Uber and Lyft’s curbside drops.",
+        "Zoox began charging for rides on August 10 and plans to test vehicles in San Diego and Houston.",
+        "Nevada’s transportation authority has granted permits to multiple companies, potentially enabling up to 8,000 robotaxis in Clark County within a year."
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "robotaxi",
+        "las vegas",
+        "amazon",
+        "transportation regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 12:12:56 +0000",
+      "processed_at": "2026-09-04T06:22:16.318559+00:00"
+    },
     {
       "id": "ps-techcrunch-com-2026-09-02-techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
@@ -1994,71 +2067,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 28 Aug 2026 12:21:06 +0000",
       "processed_at": "2026-08-30T15:41:41.074352+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Belgian startup Any unveiled the modular LUV1 electric motorcycle, offering up to 120 liters of cargo space, a top speed of 100 km/h (62 mph) and up to 87 miles of range with two swappable batteries. Priced from €7,000 and requiring an A1 license, Any has taken more than 600 refundable €49 reservations, raised €2.75M so far and is seeking about €10M in a Series A to scale production.",
-      "key_points": [
-        "LUV1: 120 liters cargo capacity, 100 km/h top speed, up to 87 miles range with two swappable batteries.",
-        "Any has >600 refundable €49 preorders, raised €2.75M to date and aims to raise ~€10M in Series A."
-      ],
-      "topics": [
-        "electric-vehicles",
-        "micro-mobility",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 09:33:00 +0000",
-      "processed_at": "2026-08-30T15:41:53.929464+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024",
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s StrictlyVC returns to New York’s West Village on Thursday, September 10 for its first New York edition in two years, with evening panels, networking, and ticketed attendance. The lineup features Keith Rabois discussing venture trends and Khosla’s early $50 million bet on OpenAI, a session with Craig Shapiro and D.C. United CEO Jason Levien on sports as investments, founders Tristan Walker and Brynn Putnam on AI and community-focused products, and Deven Parekh on Insight Partners’ strategy.",
-      "key_points": [
-        "Event: StrictlyVC in the West Village on September 10; co-hosted by Collaborative Fund.",
-        "Speakers include Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh."
-      ],
-      "topics": [
-        "events",
-        "ai",
-        "venture-capital",
-        "sports"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 02:02:44 +0000",
-      "processed_at": "2026-08-30T15:42:09.874334+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will run an AI-focused program from October 13–15 at San Francisco’s Moscone Center, presented by Google for Startups. Industry leaders from Anthropic, OpenAI, Databricks, Okta and others will discuss enterprise deployments, agent and infrastructure security, pricing and emerging AI-native go-to-market roles.",
-      "key_points": [
-        "AI Stage runs Oct 13–15 at Moscone Center in San Francisco, presented by Google for Startups.",
-        "Speakers including Cat de Jong (Anthropic) and Tara Seshan (OpenAI) will cover enterprise deployment challenges, agent security, and AI-native GTM."
-      ],
-      "topics": [
-        "ai",
-        "security",
-        "enterprise",
-        "events"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "processed_at": "2026-08-30T15:42:21.119654+00:00"
     }
   ]
 }
