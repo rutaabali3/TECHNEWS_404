@@ -1,7 +1,60 @@
 {
-  "updated_at": "2026-09-04T19:40:38.385955+00:00",
+  "updated_at": "2026-09-04T19:41:53.482961+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-04-googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "title": "Google's Gemini Spark can now manage your Google Photos library | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google has added new AI capabilities to its Gemini Spark personal agent, allowing it to manage users’ Google Photos libraries. The feature lets users edit images, curate albums, create shared albums automatically, turn concert flyer photos into calendar events, and run photo‑related workflows. It will roll out over the next few weeks to Gemini AI Pro and Ultra subscribers in the U.S. who speak English, with no announced international availability yet. The move reflects Google’s broader strategy of embedding AI into everyday consumer tools to simplify tedious tasks, though critics note such incremental updates may not fully deliver on AI’s promised transformative impact.",
+      "key_points": [
+        "Gemini Spark can now execute a range of tasks in Google Photos, from editing to automated album creation.",
+        "The feature will be released over the next weeks to Gemini AI Pro and Ultra U.S. subscribers in English.",
+        "Google is using AI to make photo library management easier, fitting into its broader consumer‑AI strategy.",
+        "No international rollout has been announced, so the update is currently limited to U.S. users.”]",
+        "topics",
+        ":",
+        [
+          "google",
+          "gemini",
+          "google photos",
+          "ai",
+          "productivity"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 14:47:11 +0000",
+      "processed_at": "2026-09-04T19:41:37.176386+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-04-us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-160989986.jpg?resize=1200,831",
+      "title": "US military disabled ad tracking on troops' devices following reports of targeted attacks | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The U.S. Department of Defense has disabled advertising tracking on all government‑issued phones and computers used by the Army, Air Force, Navy, Marine Corps, and Special Operations Command to protect troops from location‑based targeting. The move, announced earlier this year and updated by the Air Force in July, prevents hostile actors from harvesting location data from apps and selling it to third‑party data brokers. Senator Ron Wyden, who raised the issue after discovering foreign adversaries used commercial data to target U.S. forces in the Middle East, praised the effort but warned that personal devices still pose a risk. The action underscores growing concerns over privacy and security for service members in the digital age.",
+      "key_points": [
+        "DoD disabled advertising tracking on all government‑issued devices to block adversaries from using commercial location data",
+        "The measure was rolled out earlier this year, with the Air Force implementing changes in July",
+        "Senator Wyden highlighted the threat after foreign actors targeted troops using publicly available data",
+        "Personal devices and contractors still present a vulnerability that the new policy does not address"
+      ],
+      "topics": [
+        "military",
+        "privacy",
+        "adtracking",
+        "locationdata",
+        "defense"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 13:21:37 +0000",
+      "processed_at": "2026-09-04T19:41:36.890541+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-04-no-little-kids-allowed-and-other-new-info-about-teslas-cybercab",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
@@ -2118,38 +2171,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 02:18:57 +0000",
       "processed_at": "2026-09-01T04:18:17.908333+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-30-liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
-      "title": "Liux's Big microcar bets on sustainability to take on Chinese rivals | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Spanish startup Liux is preparing to launch the Liux Big, a micro electric car built",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 30 Aug 2026 18:33:44 +0000",
-      "processed_at": "2026-08-31T05:56:53.879100+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-30-musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
-      "title": "Musk's faster path to more gas turbines comes with pollution problem | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Elon Musk announced that SpaceX will cast its own gas‑turbine blades to speed the rollout of natural‑gas plants that power AI",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
-      "processed_at": "2026-08-31T13:29:58.560708+00:00"
     }
   ]
 }

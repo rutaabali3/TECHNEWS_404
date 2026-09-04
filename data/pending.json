@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:40:08.344296+00:00",
+  "updated_at": "2026-09-04T19:41:35.857914+00:00",
   "items": [
     {
       "title": "CD sales are making an unexpected comeback amid a retro tech boom",
@@ -8,23 +8,11 @@
       "published": "Fri, 04 Sep 2026 15:00:00 +0000"
     },
     {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "feed_excerpt": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "published": "Fri, 04 Sep 2026 14:47:11 +0000"
-    },
-    {
-      "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
-      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-      "feed_excerpt": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
-      "published": "Fri, 04 Sep 2026 13:21:37 +0000"
-    },
-    {
       "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
       "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
       "feed_excerpt": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
       "published": "Fri, 04 Sep 2026 17:52:05 +0000"
     }
   ],
-  "last_processed_at": "2026-09-04T19:40:38.385229+00:00"
+  "last_processed_at": "2026-09-04T19:41:37.176470+00:00"
 }
