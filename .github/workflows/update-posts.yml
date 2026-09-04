@@ -40,14 +40,17 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           count=0
-          for name in GROQ_API_KEY_1 GROQ_API_KEY_2 GROQ_API_KEY_3 GROQ_API_KEY_4 GROQ_API_KEY_5; do
-            value="${!name}"
-            if [ -n "$(printf '%s' "$value" | tr -d '[:space:]')" ]; then
-              case "$(printf '%s' "$value" | tr -d '[:space:]')" in
+          i=1
+          for value in "$GROQ_API_KEY_1" "$GROQ_API_KEY_2" "$GROQ_API_KEY_3" "$GROQ_API_KEY_4" "$GROQ_API_KEY_5"; do
+            name="GROQ_API_KEY_$i"
+            trimmed=$(printf '%s' "$value" | tr -d '[:space:]')
+            if [ -n "$trimmed" ]; then
+              case "$trimmed" in
                 gsk_*) count=$((count + 1)); echo "$name is present and has the expected format." ;;
                 *) echo "$name is present but does not have the expected Groq key format."; exit 1 ;;
               esac
             fi
+            i=$((i + 1))
           done
           if [ "$count" -eq 0 ]; then
             legacy=$(printf '%s' "$GROQ_API_KEY" | tr -d '[:space:]')
