@@ -6,7 +6,7 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 import requests
 from bs4 import BeautifulSoup
