@@ -1,7 +1,653 @@
 {
-  "updated_at": "2026-09-03T20:55:43.723824+00:00",
+  "updated_at": "2026-09-04T19:04:13.560324+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-03-oura-files-to-go-public",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
+      "title": "Oura files to go public | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Oura, the Finnish smart‑ring maker, has filed with the SEC to go public, citing a jump in revenue from $697 million in the first nine months of 2023 to $1.2 billion in the same period of 2024. The company projects 2024 revenue of $500 million, $1 billion in 2025, and close to $2 billion this year, and is seeking a valuation of roughly $16 billion after a prior $11 billion valuation in October. Oura’s 3.6 million rings sold last year and 5 million paid members give it an 85 % 12‑month retention rate, while its large longitudinal biometric dataset fuels AI‑driven health insights. The IPO is shadowed by a proposed class‑action lawsuit alleging the rings misrepresent sleep‑tracking accuracy, a claim the company says it will defend.",
+      "key_points": [
+        "Oura filed for IPO after revenue grew from $697M to $1.2B in nine months",
+        "Company aims for ~$16B valuation, targeting $3B raise",
+        "5M paid members, 85% retention, 3.6M rings sold",
+        "Facing class‑action lawsuit over sleep‑tracking accuracy"
+      ],
+      "topics": [
+        "ipo",
+        "wearables",
+        "healthtech",
+        "ai",
+        "lawsuit"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 22:35:41 +0000",
+      "processed_at": "2026-09-04T19:03:25.141277+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Tesla has released a public interest form inviting businesses to buy or operate Cybercab fleets, signaling a shift from its previous in‑house robotaxi strategy. The form offers several options, including fleet purchase, infrastructure support, event collaboration, and other partnership models. This move indicates Tesla’s intent to scale its autonomous ride‑sharing network by partnering with third‑party operators. By opening the door to external fleets, Tesla aims to accelerate market penetration and attract new players such as Moove, Avomo, and traditional rental companies.",
+      "key_points": [
+        "Tesla opens a form for third‑party Cybercab fleet operators",
+        "Options include fleet purchase, infrastructure, event collaboration, and other partnerships",
+        "The initiative marks a shift from Tesla’s sole in‑house robotaxi model",
+        "It could speed market adoption and attract new operators"
+      ],
+      "topics": [
+        "tesla",
+        "robotaxi",
+        "autonomous vehicles",
+        "fleet management",
+        "partnerships"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 22:18:30 +0000",
+      "processed_at": "2026-09-04T19:03:26.029172+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-startup-arr-is-less-secure-than-ever-new-research-shows",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
+      "title": "Startup ARR is less secure than ever, new research shows | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Madrona’s latest survey of 150 enterprise IT professionals shows that 74% plan to expand AI budgets in the next year, yet fewer than half of AI pilots ever reach full production. 77% of enterprises reevaluate their AI vendors every six months, creating a fast‑in, fast‑out cycle that undermines the long‑term annual recurring revenue (ARR) that AI startups rely on.  The research also highlights a pricing mismatch: more than half of technical buyers prefer outcome‑based fees over token‑usage models, making it harder for startups to demonstrate economic value.  These dynamics signal a shift toward continuous experimentation and a fragile revenue foundation for AI startups.",
+      "key_points": [
+        "74% of surveyed enterprises will increase AI spend, but less than 50% of pilots succeed",
+        "77% of companies reassess AI vendors every six months, eroding long‑term ARR",
+        "Outcome‑based pricing is preferred over token usage, complicating startup revenue models",
+        "The fast‑in, fast‑out cycle threatens the sustainability of AI startup growth"
+      ],
+      "topics": [
+        "enterprise ai",
+        "startup revenue",
+        "pricing models",
+        "vendor churn",
+        "ai adoption"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 20:59:23 +0000",
+      "processed_at": "2026-09-04T19:03:26.853831+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-openai-launches-astra-its-powerful-and-controversial-new-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI unveiled Astra, its most powerful model yet, claiming it offers unmatched speed, accuracy, and safety. The model is initially available to Daybreak customers and will roll out to Pro, Plus, Enterprise, and Business plans as well as the API over the next week. Astra boasts advanced cybersecurity features, including zero‑day exploit detection, and is touted as the best software‑engineering model to date, outperforming Sol and Anthropic’s Fable on several benchmarks. However, the use of opaque recurrence has sparked concerns about monitorability, and OpenAI’s leaders downplayed any AGI milestone, framing the release as a mission concept rather than a contractual trigger.",
+      "key_points": [
+        "Astra is OpenAI’s most powerful model, emphasizing speed, accuracy, and safety",
+        "It includes advanced cybersecurity capabilities such as zero‑day exploit detection and excels in coding benchmarks",
+        "The model’s use of opaque recurrence raises monitorability concerns",
+        "OpenAI leaders dismiss an AGI claim, describing the release as a mission concept"
+      ],
+      "topics": [
+        "ai",
+        "openai",
+        "cybersecurity",
+        "alignment",
+        "agi"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "processed_at": "2026-09-04T19:03:23.972162+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+      "title": "The sameness problem behind those unappetizing AI-generated menus | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "AI‑generated restaurant menus are becoming eerily uniform because the image models are trained on a narrow, pleasing aesthetic that prioritizes symmetry and smoothness.  When users repeatedly edit these AI outputs, the models converge, producing increasingly homogenized and slightly uncanny food images that trigger a visceral sense of unease.  Studies show the uncanny valley effect amplifies disgust toward almost‑real food pictures, prompting many restaurants to abandon AI‑generated menus.  The phenomenon also highlights the risk of model collapse when AI outputs are fed back into training data, further degrading quality.",
+      "key_points": [
+        "AI menus look unnaturally perfect due to training on a narrow, pleasing aesthetic.",
+        "Repeated editing and self‑reinforcement causes convergence, leading to homogenized, uncanny food images.",
+        "The uncanny valley effect triggers disgust, driving restaurants to stop using AI menus.",
+        "Feeding AI outputs back into training data risks model collapse and quality loss."
+      ],
+      "topics": [
+        "ai",
+        "food",
+        "menu",
+        "unconscious bias",
+        "model collapse"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "processed_at": "2026-09-04T19:03:48.994819+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Data center developer Crusoe has raised a new $3 billion round, valuing the company at $30 billion, according to Bloomberg. The round was co‑led by Atreides Management and Valor Equity Partners and included Mubadala Capital, the Abu Dhabi sovereign wealth fund’s asset‑management arm. The funding follows a $13 billion, five‑year cloud contract with quantitative trading firm Jane Street and comes 10 months after a $1.38 billion, $10 billion‑valuation round. Crusoe, which began as a crypto‑mining operation in 2018, has pivoted to building hyperscale AI data‑center campuses for clients such as Meta, Microsoft, OpenAI, and Oracle, and is reportedly exploring an IPO.",
+      "key_points": [
+        "Crusoe secured $3 billion in new capital, pushing its valuation to $30 billion.",
+        "The round was led by Atreides Management and Valor Equity Partners, with Mubadala Capital participating.",
+        "The company recently signed a $13 billion, five‑year cloud contract with Jane Street and is considering an IPO."
+      ],
+      "topics": [
+        "data centers",
+        "ai infrastructure",
+        "funding",
+        "cloud computing",
+        "ipo"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "processed_at": "2026-09-04T19:03:29.990050+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Thinking Machines, an AI lab founded by former OpenAI CTO Mira Murati, is reportedly in talks with Accel to lead a $1 billion funding round that would value the company at $40 billion. The company’s annual revenue run rate exceeds $100 million, making the $40 billion valuation imply an exceptionally high revenue multiple. Earlier this year, Thinking Machines raised a historic $2 billion seed round at a $12 billion valuation led by Andreessen Horowitz, Nvidia, GV, Lightspeed and Conviction Partners. The firm has also launched Inkling, an open‑weight model that charges usage‑based compute fees on its Tinker platform, while several co‑founders have returned to OpenAI.",
+      "key_points": [
+        "Accel may lead a $1 billion round valuing Thinking Machines at $40 billion",
+        "The startup’s revenue run rate exceeds $100 million, implying a very high revenue multiple",
+        "It previously raised a $2 billion seed round at a $12 billion valuation",
+        "Inkling monetizes compute usage on its Tinker platform"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "valuation",
+        "openai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
+      "processed_at": "2026-09-04T16:00:19.959357+00:00"
+    },
+    {
+      "id": "-techcrunch-com-2026-09-03-utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?resize=1200,900",
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Realta Fusion announced a partnership with Madison Gas & Electric that will bring one of the first grid‑connected fusion power plants to Wisconsin, targeting a 200‑megawatt facility in the mid‑2030s. The deal includes an equity investment and gives the startup access to land, interconnection sites, engineering support and financing that would otherwise be costly. Utilities worldwide are increasingly courting fusion startups as a way to secure reliable, fossil‑fuel‑free baseload power amid growing demand from AI data centers and the intermittency of renewables. Similar agreements—such as Commonwealth Fusion Systems with Dominion Energy and Helion with Chelan County—highlight a growing trend of utilities investing in fusion to diversify their future energy mix.",
+      "key_points": [
+        "Realta Fusion secured a 200‑MW fusion plant deal and equity investment from Madison Gas & Electric",
+        "Utilities are partnering with fusion startups to gain early access to clean, 24/7 baseload power",
+        "Other notable deals include CFS with Dominion, Helion with Chelan County, Type One Energy with TVA, and Proxima Fusion with RWE",
+        "These partnerships provide startups with engineering, permitting, land and financing advantages while offering utilities a potential long‑term power source"
+      ],
+      "topics": [
+        "fusion",
+        "utilities",
+        "energy",
+        "grid",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 19:29:16 +0000",
+      "processed_at": "2026-09-04T16:00:21.180735+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Abliteration.ai has commercialized a technique that removes guardrails from open-weight AI models, offering versions of models like Z.ai’s GLM‑5.3 that can comply with harmful requests. The startup claims the service is intended for defensive work such as red‑team testing, but it has already demonstrated the ability to generate exploit code and dangerous bioweapon protocols. While the company provides a minimal moderation layer and plans to add more safeguards, it has no KYC beyond credit‑card logging and has not raised venture capital yet. Critics warn that widespread access to abliterated models could accelerate misuse, prompting calls for government regulation and stricter identity verification for GPU rentals.\n",
+      "key_points": [
+        "Abliteration.ai offers commercially hosted, guard‑rail‑removed AI models for red‑team and offensive testing.\nThe service can produce exploit code and bioweapon instructions, raising safety concerns.\nThe company has no formal KYC and relies on customer revenue, with no VC funding yet.\nExperts argue that while defenders may benefit, the risk of misuse is high and may require regulatory intervention.\n",
+        "topics",
+        ":",
+        [
+          "ai",
+          "safety",
+          "cybersecurity",
+          "open-source",
+          "policy"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "processed_at": "2026-09-04T16:00:21.980014+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "title": "Meta is paying to peek at how you use their latest AI model | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Meta has introduced a new pricing tier for its Muse Spark model that offers an average 95% discount to users who agree to share their prompts and outputs, reducing input token costs from $1.25 to $0.10 per million and output token costs from $4.25 to $0.20 per million. The move comes after internal backlash over a company‑wide data‑collection initiative that was paused in June, highlighting the difficulty Meta faces in gathering training data for agentic tools. By monetizing data sharing, Meta hopes to lower barriers for prototyping and scaling experiments while encouraging enterprises to decide which data can be shared. The announcement follows similar price cuts from Anthropic and OpenAI, intensifying competition among frontier AI labs.",
+      "key_points": [
+        "Meta offers an average 95% discount for users who share prompts and outputs for Muse Spark",
+        "Standard input token cost $1.25 per million drops to $0.10 under the contributor model",
+        "Standard output token cost $4.25 per million drops to $0.20 under the contributor model",
+        "The pricing shift follows internal criticism of Meta’s data‑collection initiative and mirrors price cuts from Anthropic and OpenAI"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "pricing",
+        "data privacy",
+        "agentic tools"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "processed_at": "2026-09-04T16:00:23.072117+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-the-cybercab-is-teslas-fork-in-the-road-moment",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
+      "title": "The Cybercab is Tesla's ‘fork in the road’ moment | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla is set to launch the Cybercab, a small gold two‑seater sedan that relies entirely on cameras and AI for navigation, in Austin, Texas, marking a potential turning point for the company’s long‑standing ambition to become a full‑stack AI and robotics firm. The Cybercab, which lacks a steering wheel and pedals, is designed to be cheaper and lighter than existing Tesla models, giving the automaker a cost advantage over rivals like Waymo and positioning it to scale a robotaxi network. Tesla’s history of incremental autonomy progress and recent layoffs to focus on full self‑driving underscore the significance of this launch as either a breakthrough in urban transportation or a reminder that the company remains primarily an automaker. The event also signals a shift from Tesla’s previously cautious messaging toward a more aggressive deployment strategy, with CEO Elon Musk openly endorsing the Cybercab’s potential to reshape city streets.",
+      "key_points": [
+        "Tesla will launch the Cybercab, a driverless two‑seater sedan, in Austin as a test of its robotaxi ambitions",
+        "The Cybercab’s low cost and lightweight design give Tesla a competitive edge over other autonomous vehicle providers",
+        "Tesla’s history of gradual autonomy development and recent workforce cuts highlight the company’s focus on full self‑driving",
+        "The launch marks a shift from cautious messaging to a bold move toward transforming urban transportation"
+      ],
+      "topics": [
+        "tesla",
+        "autonomous vehicles",
+        "robotaxi",
+        "electric vehicles",
+        "innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
+      "processed_at": "2026-09-04T11:36:35.867625+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200",
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Circular has announced its new Ring 3 series, which comes in a Pro and a Slim variant, both featuring an integrated NFC chip for contactless payments and on‑finger vibration alerts for alarms and reminders. The Pro model adds FDA‑cleared ECG for atrial fibrillation detection, blood pressure trend tracking, glucose monitoring, advanced sleep analysis, and 12 days of battery life, while the Slim offers core health metrics such as heart rate, HRV, SpO₂, skin temperature, and 10 days of battery life in a lighter design. Both rings are made of titanium steel, are 50‑metre water‑resistant, support wireless charging, and will be available in sizes 6‑14 in gold, rose gold, silver, and black. Pricing and preorder details will be released later, with the rings expected to ship in early 2027 amid growing competition from Oura Ring 5 and RingConn Gen 3.",
+      "key_points": [
+        "Ring 3 Pro adds FDA‑cleared ECG, BP trend, glucose tracking, and 12‑day battery life, while the Slim focuses on core health metrics and 10‑day battery life"
+      ],
+      "topics": [
+        "smart ring",
+        "contactless payments",
+        "health monitoring",
+        "wearable tech",
+        "battery life"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 16:42:54 +0000",
+      "processed_at": "2026-09-04T11:36:14.078684+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Ollie, a family‑focused AI assistant, has achieved SOC 2 compliance to demonstrate strong data‑privacy controls and signals to users that it will not harvest personal data for training. The startup runs on a subscription model, uses a cloud‑based browser to log in to users’ accounts without storing usernames or passwords, and plans future tokenization to improve convenience. With a modest $7.5 million seed round led by Khosla Ventures, Ollie positions itself against competitors like Poke, Fambot, and Instinct by prioritizing trust and privacy. The company’s CEO, Bill Lennon, stresses that building reliable, defensively harnessed AI is essential as the market for personal assistants heats up.",
+      "key_points": [
+        "Ollie achieved SOC 2 compliance to underscore its privacy‑first approach",
+        "The assistant uses a subscription model and cloud browser logins to avoid storing credentials",
+        "It raised $7.5 million in seed funding and competes with other text‑based AI assistants by emphasizing trust"
+      ],
+      "topics": [
+        "ai",
+        "privacy",
+        "startup",
+        "ai assistants",
+        "subscription"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "processed_at": "2026-09-04T11:36:15.092336+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-google-launches-ai-voice-features-in-gmail-docs-and-keep",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Google has rolled out Gemini-powered conversational AI features—Docs Live, Gmail Live, and Keep Live—allowing users to ask natural‑language questions, draft content, and take voice notes across its productivity suite. In Gmail Live, users can query their inboxes and receive live transcripts, while Docs Live helps generate drafts by pulling data from Gmail, Drive, chat, and the web. Keep Live turns the app into a voice‑controlled scratchpad that can assemble recipes and lists on demand. The features are currently available to Google AI Plus, Pro, and Ultra subscribers, with a planned rollout to Workplace Business customers soon.",
+      "key_points": [
+        "Google introduces Gemini‑powered AI in Gmail, Docs, and Keep for natural‑language queries and dictation",
+        "Docs Live drafts content using data from Gmail, Drive, chat, and the web",
+        "Gmail Live provides live transcripts and inbox search via AI",
+        "Features are available to Google AI Plus, Pro, and Ultra users, with Workplace rollout upcoming"
+      ],
+      "topics": [
+        "google",
+        "ai",
+        "gmail",
+        "docs",
+        "keep"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-04T11:36:16.066904+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675",
+      "title": "Google's latest AI weather model gives you no excuse to forget your umbrella | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Google DeepMind and Google Research unveiled WeatherNext 3, an AI weather model that outperforms leading competitors and traditional forecasts on the Operational WeatherBench benchmark. The model delivers 5‑km resolution, hourly predictions, and 60% better rain accuracy by training on raw satellite observations rather than processed supercomputer outputs. It will feed into Google Search, Maps, Gemini and be available on Google Cloud, promising faster, cheaper, and more granular forecasts worldwide. The advance could boost agriculture, renewable energy planning, and weather‑sensitive industries in both developed and developing regions.",
+      "key_points": [
+        "WeatherNext 3 tops existing AI and traditional models on Operational WeatherBench, beating Google, Microsoft, Nvidia, ECMWF, and the U.S. National Weather Service.",
+        "It offers 5‑km spatial resolution, hourly forecasts, and a 60% improvement in rain prediction over its predecessor.",
+        "The model uniquely ingests raw, real‑time satellite data, making it the first global AI forecast to use unformatted observations directly.",
+        "Its deployment in Google products and cloud services aims to democratize high‑accuracy weather information and support economic benefits in underserved areas."
+      ],
+      "topics": [
+        "ai",
+        "weather",
+        "deepmind",
+        "forecasting",
+        "google"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-04T11:36:20.902466+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800",
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Ultrahuman, the Bengaluru‑based smart ring maker, secured $70 million in a new funding round that values the company at $365 million, roughly three times its 2023 valuation. The round, led by Qualcomm Ventures and joined by Labcorp, Alpha Wave, Blume Ventures, Nexus Venture Partners and Alteria Capital, includes $65 million in primary equity and $5 million in debt. Qualcomm is collaborating on a new ring that will use its silicon to give the device on‑device computing power, enabling future uses such as game controllers, AI interfaces and other non‑health applications. While the company plans to roll out software updates to its existing Ring Air and Ring Pro models by September, it also aims to expand sales in the U.S., India and the UAE and is exploring deeper health‑diagnostics partnerships with Labcorp.",
+      "key_points": [
+        "Ultrahuman raised $70M, valuing it at $365M, with Qualcomm Ventures as a lead investor",
+        "The new Qualcomm‑powered ring will add on‑device computing to enable AI, gaming and other non‑health functions",
+        "Existing rings will receive software updates to support game control and AI interaction before the new hardware launches"
+      ],
+      "topics": [
+        "smart rings",
+        "financing",
+        "ai",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-04T06:22:20.768012+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Nvidia has announced it will acquire Hugging Face for $12.93 billion, bringing the open‑source AI model hub into its ecosystem while pledging to keep the platform open and independent of Nvidia hardware. Hugging Face currently hosts 3 million models, 1 million applications, 18 million developers and 500 000 datasets, and will continue to support open‑weight models after the deal. Nvidia will add its own 500+ models and 250 datasets to the library and will not require its GPUs for Hugging Face deployments, allowing developers to choose any framework, cloud or inference provider. The acquisition follows a rejected $500 million offer last year and positions Nvidia to monetize unused GPU capacity through Hugging Face’s services, strengthening its role in the AI ecosystem.",
+      "key_points": [
+        "Nvidia has agreed to acquire Hugging Face for $12.93 billion, adding a leading open‑source AI model hub to its ecosystem.",
+        "Hugging Face hosts 3 million models, 1 million apps, 18 million developers, and 500 000 datasets, and will remain an open platform after the deal.",
+        "Nvidia will continue to support open‑weight models and will not require its hardware for Hugging Face deployments, while adding its own 500+ models and 250 datasets to the library.",
+        "The acquisition follows a $500 million offer that Hugging Face declined last year and positions Nvidia to monetize unused GPU capacity through Hugging Face’s services."
+      ],
+      "topics": [
+        "ai",
+        "acquisition",
+        "open-source",
+        "nvidia",
+        "huggingface"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "processed_at": "2026-09-04T06:22:15.021433+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
+      "title": "Amazon's Zoox expands its robotaxi service to Las Vegas airport | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Amazon-owned Zoox has expanded its commercial robotaxi service to include rides to and from Harry Reid International Airport in Las Vegas, starting Thursday. The move follows a federal safety exemption that allows Zoox to deploy up to 2,500 vehicles per year and to charge for rides, marking a significant step toward full commercial operation. By offering pickups and drop-offs directly at both airport terminals, Zoox gains an advantage over traditional ride‑hailing apps like Uber and Lyft, which only provide curbside service. The expansion comes as other autonomous‑vehicle firms, including Tesla, Uber, and Waymo, have also received permits to operate robotaxis in Clark County, potentially leading to up to 8,000 robotaxis on the roads in the next year.",
+      "key_points": [
+        "Zoox now offers robotaxi rides to and from Las Vegas airport under a federal exemption allowing up to 2,500 vehicles per year.",
+        "The service provides terminal‑to‑terminal pickups and drop‑offs, giving Zoox a competitive edge over Uber and Lyft’s curbside drops.",
+        "Zoox began charging for rides on August 10 and plans to test vehicles in San Diego and Houston.",
+        "Nevada’s transportation authority has granted permits to multiple companies, potentially enabling up to 8,000 robotaxis in Clark County within a year."
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "robotaxi",
+        "las vegas",
+        "amazon",
+        "transportation regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 12:12:56 +0000",
+      "processed_at": "2026-09-04T06:22:16.318559+00:00"
+    },
+    {
+      "id": "ps-techcrunch-com-2026-09-02-techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 introduces a new Real World AI Stage that focuses on the intersection of digital and physical AI, featuring speakers from Shield AI, Colossal Biosciences, FieldAI, Foxglove, and others. The stage will explore topics such as the data gap hindering robotic intelligence, safety and regulatory challenges for autonomous systems, de‑extinction technologies, edge AI deployments, and scaling prototypes to production. Sessions will be held October 13‑15 at Moscone West in San Francisco, alongside the main AI Stage and other event programming. The initiative underscores the growing importance of integrating AI into real‑world environments and the need for sustainable, trustworthy deployment.",
+      "key_points": [
+        "Real World AI Stage focuses on blending digital and physical AI, including robotics and de‑extinction.",
+        "Key speakers include Nvidia, Shield AI, Colossal Biosciences, FieldAI, Foxglove.",
+        "Sessions cover data gaps, safety culture, edge AI, and prototype‑to‑production scaling.",
+        "Event runs Oct 13‑15 at Moscone West, part of Disrupt 2026."
+      ],
+      "topics": [
+        "ai",
+        "robotics",
+        "de-extinction",
+        "edge computing",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+      "processed_at": "2026-09-04T01:12:04.538311+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-volunteer-at-techcrunch-founder-summit-in-boston",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54571034038_4825307406_k.jpg?resize=1200,800",
+      "title": "Volunteer at TechCrunch Founder Summit in Boston | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is calling for volunteers for its rebranded Founder Summit in Boston, scheduled for November 4, 2024. Volunteers will receive a behind‑the‑scenes look at event production, a ticket to the summit, and a free pass to Disrupt 2027, along with the chance to attend workshops on user growth, funding, and branding. The event expects about 1,100 attendees and offers roles ranging from registration and speaker coordination to attendee direction and ticket scanning. Applications must be submitted by October 19, and spots are limited.",
+      "key_points": [
+        "TechCrunch Founder Summit in Boston on Nov 4, 2024 is seeking volunteers for a variety of event‑support roles.",
+        "Volunteers receive a summit ticket, a free pass to Disrupt 2027, and access to expert workshops.",
+        "Tasks include registration, speaker wrangling, attendee direction, ticket scanning, and general setup.",
+        "Applications close on Oct 19 and volunteer spots are limited.”]",
+        "topics",
+        ":",
+        [
+          "tech events",
+          "volunteering",
+          "startup community",
+          "ai sustainability",
+          "boston"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-04T01:12:05.485629+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-03-tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TikTok is expanding its comment sections with new interactive features, including voice comments, polls, photo carousel comments, and Live Photo comments. Voice comments can be up to one minute long and will roll out globally over the next month to users 18 and older, while polls are now available worldwide and let creators add up to five options with a set time frame. Photo carousel comments allow up to nine images in a single comment, and Live Photo comments provide a brief motion preview before the full image. These additions aim to deepen engagement by turning comment threads into more dynamic, interactive spaces.",
+      "key_points": [
+        "TikTok is adding voice comments, polls, photo carousel, and Live Photo comments to its comment sections",
+        "Voice comments can be up to one minute long and will be available globally to users 18+ over the next month",
+        "Creators can add polls with up to five options and view results directly in the comment thread",
+        "Photo carousel comments support up to nine photos per comment and Live Photo comments offer a motion preview"
+      ],
+      "topics": [
+        "tiktok",
+        "socialmedia",
+        "features",
+        "engagement",
+        "voicecomments"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-04T01:12:11.499575+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-09-02-the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
+      "title": "Builders Stage agenda revealed for Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, offering founders, operators, and investors a focused forum on scaling companies and navigating growth challenges. The agenda features high-profile speakers such as Grant Lee of Gamma, Leah Solivan of Precedent.vc, and Robby Stein of Google, who will discuss fundraising, hiring, go‑to‑market strategy, AI, and operational decisions. Sessions cover topics from competing in an AI‑obsessed market to winning pre‑seed without a product, and from M&A as an early‑stage strategy to the changing nature of AI talent. The event will take place at Moscone Center in San Francisco on October 13‑15, with more speakers and sessions to be announced as the date approaches.",
+      "key_points": [
+        "Builders Stage focuses on practical strategies for scaling startups, covering fundraising, hiring, and product decisions",
+        "The lineup includes leaders from Gamma, Precedent.vc, Google, and major VC firms, providing diverse perspectives on AI, talent, and M&A",
+        "Sessions address current challenges such as AI competition, pre‑seed credibility, and the evolving definition of early teams",
+        "The event is scheduled for October 13‑15 at Moscone Center, with early ticket discounts available before price increases"
+      ],
+      "topics": [
+        "tech events",
+        "startups",
+        "venture capital",
+        "ai",
+        "product management"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "processed_at": "2026-09-03T23:04:59.913375+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Palo Alto Networks has agreed to pay $500 million in cash and stock to acquire the two‑year‑old AI‑powered help desk startup Console, which automates routine IT support tasks using agentic AI. The deal, announced on Tuesday, will see Console’s technology integrated into Palo Alto’s Cortex platform, giving security teams natural‑language interfaces to investigate and resolve alerts autonomously. Investors such as SV Angel, Abstract Ventures, and CEO Nikesh Arora saw a rapid return on their early stakes, while the acquisition underscores Palo Alto’s aggressive push into AI‑driven IT service management. With this purchase, Palo Alto becomes the seventh company it has acquired in 2026, positioning it as a major player in the emerging AI‑automation space.\n",
+      "key_points": [
+        "Palo Alto Networks paid $500 million to acquire the AI help‑desk startup Console.",
+        "Console’s agentic AI will be integrated into Palo Alto’s Cortex platform for autonomous security workflows.",
+        "Early investors, including SV Angel and CEO Nikesh Arora, realized a rapid return on their stakes.",
+        "The acquisition strengthens Palo Alto’s position in AI‑driven IT service management, leaving Serval as the category leader.\n"
+      ],
+      "topics": [
+        "cybersecurity",
+        "ai",
+        "acquisition",
+        "startup",
+        "palo alto networks"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
+      "processed_at": "2026-09-03T23:05:13.869604+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "OpenAI’s new Astra model introduces a reasoning technique called \"recurrent depth\" or \"opaque recurrence,\" which lets the model loop over a query instead of following a linear chain of thought, making its internal reasoning harder to trace. The move has alarmed AI safety experts such as Buck Shlegeris, Zvi Mowshowitz, and Ryan Greenblatt, who warn that scaling this technique could destroy the ability to monitor model behavior and increase misalignment risks. OpenAI insists that Astra’s chain of thought remains legible and that it is committed to extensive monitoring systems, while other labs like Anthropic and DeepMind are already discussing the approach. The debate highlights the tension between advancing model capabilities and maintaining safety oversight in the rapidly evolving AI landscape.",
+      "key_points": [
+        "Astra’s opaque recurrence reduces traceability of the model’s reasoning steps.",
+        "Safety experts fear loss of chain‑of‑thought monitorability could enable misaligned behavior.",
+        "OpenAI maintains that Astra’s chain of thought remains legible and commits to monitoring.",
+        "Other AI labs are also exploring opaque recurrence, raising broader industry concerns."
+      ],
+      "topics": [
+        "ai safety",
+        "chain of thought",
+        "openai",
+        "opaque recurrence",
+        "ai ethics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "processed_at": "2026-09-03T23:04:49.740252+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891",
+      "title": "MapQuest is now the No. 1 US app after bucking Trump's 'Lake America' renaming | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "MapQuest surged to the No. 1 spot on the U.S. App Store after it refused to rename Lake Ontario as \"Lake America\" in response to President Trump’s executive order, a move that sparked a wave of downloads and public support. Since the order on August 27, the app has been downloaded an estimated 632,000 times in the U.S. alone and over 1.5 million times across the U.S. and Canada, propelling its ranking from 128 to 1 in just a week. Users not only installed the app but also actively engaged with the company, sending feature requests and bug reports, while 56% of year‑to‑date U.S. downloads occurred between August 27 and September 1, a 123% day‑over‑day increase. The incident highlighted MapQuest’s willingness to challenge big‑tech conventions and demonstrated the impact of a small company taking a stand on a political issue.",
+      "key_points": [
+        "MapQuest’s refusal to rename Lake Ontario catapulted it to No. 1 on the U.S. App Store, with 632,000 U.S. downloads since the August 27 order.",
+        "The app’s ranking climbed from 128 to 1 in a week, and it now has over 1.5 million installs in the U.S. and Canada.",
+        "More than half of its year‑to‑date U.S. downloads happened between August 27 and September 1, a 123% day‑over‑day surge.",
+        "Users actively engaged with MapQuest, sending feature requests and bug reports, showing strong community support."
+      ],
+      "topics": [
+        "mapping",
+        "app store",
+        "political controversy",
+        "consumer activism",
+        "small tech companies"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 20:12:41 +0000",
+      "processed_at": "2026-09-03T23:04:51.850517+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-02-it-sure-looks-like-hackers-breached-a-major-id-card-verification-service",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hegseth-nexus-crime-e1788376444397.jpg?resize=1200,982",
+      "title": "It sure looks like hackers breached a major ID card verification service | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "An independent security journalist uncovered that IDScan, a Louisiana‑based identity verification service, was likely hacked, exposing more than 150 million U.S. and Canadian driver’s licenses and passports. The stolen data was sold on the dark‑web site Nexus, which allowed users to search for IDs and view photos, including those of high‑profile figures such as Secretary of Defense Pete Hegseth. The FBI’s New Orleans field office and the Department of Defense are investigating the breach, which is believed to be the largest single theft of identity documents in recent memory. The incident underscores the growing risk to identity‑verification companies as governments expand age‑verification requirements.",
+      "key_points": [
+        "IDScan breach exposed over 150 million U.S. and Canadian driver’s licenses and passports",
+        "Dark‑web site Nexus offered searchable database with photos, including high‑profile figures",
+        "FBI and Department of Defense are investigating the incident",
+        "It is considered the largest known single identity‑document breach in recent history"
+      ],
+      "topics": [
+        "data breach",
+        "identity verification",
+        "cybersecurity",
+        "dark web",
+        "government"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 02 Sep 2026 19:35:09 +0000",
+      "processed_at": "2026-09-03T23:04:52.869817+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-02-google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
@@ -1469,546 +2115,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 29 Aug 2026 16:10:00 +0000",
       "processed_at": "2026-08-30T15:38:09.182410+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-29-the-theragun-sense-makes-everyday-recovery-surprisingly-easy",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Therabody's Theragun Sense (2nd Gen) is a $299 lightweight massage gun aimed at everyday aches and relaxation rather than deep-tissue recovery, offering five speeds and a relatively quiet motor. It features an onboard LCD with guided routines, Bluetooth sync to the Therabody app with an AI Coach, and ships with two attachments, a USB-C cable and travel pouch (Supersoft attachment available for $35).",
-      "key_points": [
-        "Onboard LCD guides four routines and pairs with the Therabody app and AI Coach.",
-        "Includes Standard Ball and Dampener attachments, USB-C cable, and travel pouch; Supersoft attachment sold separately for $35."
-      ],
-      "topics": [
-        "wellness",
-        "massage",
-        "consumer-gadgets",
-        "therabody"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "processed_at": "2026-08-30T15:38:21.193065+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-29-nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Nvidia’s lead in AI is increasingly tied to systems-level hardware and software, not just its GPUs, after growing its market cap roughly 10x from the start of 2023 to mid-2025. Its new Vera Rubin architecture — pairing Rubin GPUs with a Vera CPU, Groq 3 LPX inference accelerators and integrated storage/network racks — targets data orchestration and traffic management to boost megascale efficiency.",
-      "key_points": [
-        "Market cap rose about 10x from start of 2023 to mid-2025.",
-        "Vera Rubin systems (Rubin GPU, Vera CPU, Groq 3 LPX) focus on data orchestration to reduce bottlenecks."
-      ],
-      "topics": [
-        "nvidia",
-        "ai-infrastructure",
-        "data-orchestration"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "processed_at": "2026-08-30T15:38:32.514299+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Chinese automakers are rapidly investing in humanoid robots, riding momentum from Tesla’s Optimus and advances in AI and robotics hardware. Xpeng’s robotics unit raised over $900 million at a post‑money valuation above $6.3 billion with about $100 million invested by its founders, while BYD, Chery’s AiMOGA, Changan, GAC, Li Auto, SAIC and Seres are also developing humanoid projects.",
-      "key_points": [
-        "Xpeng raised over $900 million at a post‑money valuation above $6.3 billion; founders invested about $100 million.",
-        "BYD unveiled humanoid Xiao Di and Chery’s AiMOGA is preparing for an IPO; multiple other Chinese automakers are developing humanoid robots."
-      ],
-      "topics": [
-        "robotics",
-        "automotive",
-        "china",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 23:24:27 +0000",
-      "processed_at": "2026-08-30T15:38:47.268350+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "title": "Is the best way to watch a movie on a pair of sunglasses? | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "XREAL’s a01, released in May, is an affordable (~$300) wired wearable display with dual mini OLED panels (1080p, up to 1,600 nits) aimed at gaming but promoted for watching movies. The reviewer found the image vivid and the glasses lightweight, but criticized mirrored playback, heat on the bridge of the nose, and redundancy versus a nearby laptop or traditional TV as drawbacks for cinephiles.",
-      "key_points": [
-        "~$300 wired glasses with dual 1080p mini OLEDs (up to 1,600 nits)",
-        "Requires screen mirroring, tends to warm on the nose, and optional Beam Pro costs $200"
-      ],
-      "topics": [
-        "xr",
-        "smart-glasses",
-        "wearable-displays"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 22:42:48 +0000",
-      "processed_at": "2026-08-30T15:39:03.089666+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Lambda secured $1 billion in private, short-dated debt arranged by JP Morgan Chase to buy Nvidia AI chips that it will lease to Microsoft, expecting quick deployment revenue to repay the loan. The company has stacked multiple GPU financings — including a $926 million loan for Nvidia GB300 GPUs and a $1 billion secured facility in May — and is reportedly pursuing a $3 billion pre-IPO round after raising $1.5 billion last November at a $5.43 billion valuation.",
-      "key_points": [
-        "$1 billion private short-dated debt to buy Nvidia chips to lease to Microsoft (arranged by JP Morgan Chase)",
-        "Additional GPU financings include a $926 million loan for Nvidia GB300 GPUs and a $1 billion May facility; $3 billion pre-IPO talks reported"
-      ],
-      "topics": [
-        "ai",
-        "financing",
-        "nvidia",
-        "cloud"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "processed_at": "2026-08-30T15:39:17.289214+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Anthropic fellow Chen Yueh-Han released a paper describing an Automated Alignment Researcher (AAR) that searches literature, proposes methods, and trains models iteratively to improve alignment performance. In tests the system improved every one of 10 alignment benchmarks without degrading overall performance, used 30-minute training runs, and ran at about $4/hour of API inference while outperforming human proposals within roughly six hours.",
-      "key_points": [
-        "AAR improved performance on all 10 tested alignment benchmarks without degrading overall performance.",
-        "The system uses 30-minute iterative training runs, costs about $4/hour of API inference versus $150/hour for human researchers, and outperformed human-guided proposals within ~6 hours."
-      ],
-      "topics": [
-        "anthropic",
-        "ai-alignment",
-        "automated-research"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "processed_at": "2026-08-30T15:39:30.862202+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "title": "Brave's browser one-ups Chrome with its new support for email aliases | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Brave has added an email alias feature to its browser so users can sign up for sites without exposing their primary email. After creating a Brave account, users can generate aliases that forward mail to their main inbox while Brave processes messages for spam and virus filtering, deletes forwarded mail from its servers, and encrypts account data; the feature currently includes five free aliases with more available for Premium users.",
-      "key_points": [
-        "aliases forward mail to a user’s primary email after spam/virus filtering and are deleted from Brave’s servers",
-        "Brave offers five free aliases now, with additional aliases planned for Premium subscribers"
-      ],
-      "topics": [
-        "brave",
-        "email",
-        "privacy",
-        "browser"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 18:50:00 +0000",
-      "processed_at": "2026-08-30T15:39:46.210704+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "title": "Open-weight AI companies are the Valley's hottest acquisition targets | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Reports indicate Nvidia is close to acquiring Hugging Face for $13 billion amid a wave of large purchases of open-weight AI companies, following Nvidia’s $6 billion Poolside deal and Stripe’s acquisition of OpenRouter for more than $7 billion. The moves aim to capture developer ecosystems, reduce reliance on frontier labs and address rising inference costs, even though only about 6% of companies and 2% of software engineers currently use open-weight models.",
-      "key_points": [
-        "Nvidia reportedly nearing a $13 billion acquisition of Hugging Face; Nvidia also struck a $6B deal for Poolside and Stripe bought OpenRouter for >$7B.",
-        "Open-weight models are used by roughly 6% of companies and 2% of software engineers today, with adoption rising as firms seek cheaper inference and more control."
-      ],
-      "topics": [
-        "ai",
-        "open-weight",
-        "acquisitions"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "processed_at": "2026-08-30T15:40:02.576258+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-how-sweden-built-one-of-europes-hottest-startup-ecosystems",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.jpg?resize=1200,800",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Sweden’s startup scene, centered in Stockholm and home to companies such as Spotify, Klarna, Legora, Lovable, Neko Health and Einride, has raised $2.8 billion so far this year and is projected to reach at least $5 billion, compared with $3.2 billion last year and an $8.5 billion peak in 2021. Founders and investors — including Cherry Ventures partner Sophia Bendz and repeat entrepreneurs like Daniel Ek — attribute the surge to a cultural shift toward entrepreneurship, mentorship from first-generation founders and growing U.S. investor interest.",
-      "key_points": [
-        "$2.8 billion raised so far this year; projected to hit at least $5 billion (Dealroom).",
-        "First-generation founders and repeat entrepreneurs are mentoring new startups, attracting more U.S. investors."
-      ],
-      "topics": [
-        "sweden",
-        "stockholm",
-        "startups",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 17:09:05 +0000",
-      "processed_at": "2026-08-30T15:40:16.800251+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-more-americans-oppose-police-license-plate-cameras-than-support-them-survey",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?resize=1200,794",
-      "title": "More Americans oppose police license plate cameras than support them: survey | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "A YouGov survey of 20,000 U.S. adults shared with The Washington Post found 46% oppose and 38% support deployment of Flock’s license-plate cameras, reversing last year’s majority support. Flock, which operates more than 120,000 readers nationwide, has faced contract cancellations and criticism after reports of police misuse while the company says it has added safeguards critics call insufficient.",
-      "key_points": [
-        "YouGov survey of 20,000: 46% oppose Flock cameras, 38% support them.",
-        "Flock operates more than 120,000 license-plate readers and has faced cancellations amid reports of police misuse."
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "flock"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 15:57:58 +0000",
-      "processed_at": "2026-08-30T15:40:33.232081+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-friend-focused-photo-sharing-app-retro-snags-21m",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize=1200,792",
-      "title": "Friend-focused photo-sharing app Retro snags $21M | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Retro, built by former Instagram product engineers Nathan Sharp and Ryan Olson under Lone Palm Labs, raised more than $21 million in a Series A, according to an SEC filing dated August 19 that shows the round closed in December. The ad-free app launched in 2023 has about 7 million downloads, saw in‑app spending jump over 460% in the past 180 days, and is estimated by PitchBook to be worth over $100 million.",
-      "key_points": [
-        "Raised more than $21M in Series A (SEC filing dated Aug 19; round closed in December).",
-        "Launched in 2023, ad-free app has ~7 million downloads and in‑app spending rose over 460% in the past 180 days."
-      ],
-      "topics": [
-        "mobile-app",
-        "social-media",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 15:35:03 +0000",
-      "processed_at": "2026-08-30T15:40:49.510876+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-apple-tv-is-raising-its-subscription-prices-again",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/SVOD_AppleTV_Severance-S2_Blog-Post-1-1024x576-1.jpg?w=1024",
-      "title": "Apple TV is raising its subscription prices again | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Apple is raising Apple TV subscription prices to $14.99 per month (from $12.99) and increasing the annual plan to $119 (from $99); the Apple One bundle will rise to $21.95 per month (from $19.95). This is the fourth Apple TV price hike in four years and comes as other streamers like Netflix and Peacock have also raised prices, with companies citing broader component shortages tied to AI data-center demand; Apple will unveil new iPhones on September 9.",
-      "key_points": [
-        "Apple TV monthly to $14.99 (was $12.99); annual to $119 (was $99).",
-        "Apple One rises to $21.95/month (was $19.95); fourth hike in four years."
-      ],
-      "topics": [
-        "apple",
-        "subscriptions",
-        "pricing"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 14:36:48 +0000",
-      "processed_at": "2026-08-30T15:41:05.270208+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
-      "title": "a16z creates a $1.1B 'Machine Age' fund to 'accelerate the physical buildout of AI' | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Andreessen Horowitz has launched a $1.1 billion “Machine Age” fund aimed at accelerating the physical buildout of AI. The fund will prioritize hardware infrastructure — including chips, memory, interconnects, data centers, robots and supporting cooling, materials and real estate — to improve AI system performance and deployment.",
-      "key_points": [
-        "$1.1B Machine Age fund launched by Andreessen Horowitz",
-        "Fund targets AI hardware and infrastructure: chips, memory, interconnects, data centers, robots"
-      ],
-      "topics": [
-        "a16z",
-        "ai-hardware",
-        "venture-capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 13:24:43 +0000",
-      "processed_at": "2026-08-30T15:41:15.758827+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "A federal judge in California ruled that the Trump administration’s designation of Anthropic as a supply‑chain risk was unlawful, finding Defense Secretary Pete Hegseth’s labeling amounted to unlawful retaliation under the First Amendment and that Anthropic was denied due process under the Fifth. Judge Rita Lin cited inconsistencies — including the DOD’s continued pursuit of contracts and collaboration on Anthropic’s Mythos model — and found no evidence Anthropic left backdoors in its technology.",
-      "key_points": [
-        "Judge Rita Lin found the supply‑chain risk label unlawful, citing First Amendment retaliation and Fifth Amendment due‑process violations.",
-        "The DOD had ordered agencies to stop working with Anthropic while still pursuing contracts and collaborating on the Mythos model; Anthropic’s D.C. suit remains pending."
-      ],
-      "topics": [
-        "anthropic",
-        "dod",
-        "lawsuit",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "processed_at": "2026-08-30T15:41:27.852064+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-08-28-meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Sandhya Devanathan, who spent more than a decade at Meta and was its vice president for India and Southeast Asia, is leaving to join OpenAI and will be based in Singapore reporting to Asia-Pacific MD Kiran Mani to lead consumer growth, enterprise adoption, partnerships, regulatory engagement and operations across Southeast Asia and Australia. Her exit occurs as Meta faces growing scrutiny in India over content moderation and safety, and Meta has shifted its India reporting so Arun Srinivas now reports to Benjamin Joe.",
-      "key_points": [
-        "Sandhya Devanathan joins OpenAI in Singapore to lead regional growth and partnerships, reporting to Kiran Mani.",
-        "Meta is under heightened scrutiny in India for moderation and safety issues; Arun Srinivas will report to Benjamin Joe after Devanathan's departure."
-      ],
-      "topics": [
-        "openai",
-        "meta",
-        "india",
-        "executive-moves"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "processed_at": "2026-08-30T15:41:41.074352+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-28-as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Belgian startup Any unveiled the modular LUV1 electric motorcycle, offering up to 120 liters of cargo space, a top speed of 100 km/h (62 mph) and up to 87 miles of range with two swappable batteries. Priced from €7,000 and requiring an A1 license, Any has taken more than 600 refundable €49 reservations, raised €2.75M so far and is seeking about €10M in a Series A to scale production.",
-      "key_points": [
-        "LUV1: 120 liters cargo capacity, 100 km/h top speed, up to 87 miles range with two swappable batteries.",
-        "Any has >600 refundable €49 preorders, raised €2.75M to date and aims to raise ~€10M in Series A."
-      ],
-      "topics": [
-        "electric-vehicles",
-        "micro-mobility",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 09:33:00 +0000",
-      "processed_at": "2026-08-30T15:41:53.929464+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024",
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s StrictlyVC returns to New York’s West Village on Thursday, September 10 for its first New York edition in two years, with evening panels, networking, and ticketed attendance. The lineup features Keith Rabois discussing venture trends and Khosla’s early $50 million bet on OpenAI, a session with Craig Shapiro and D.C. United CEO Jason Levien on sports as investments, founders Tristan Walker and Brynn Putnam on AI and community-focused products, and Deven Parekh on Insight Partners’ strategy.",
-      "key_points": [
-        "Event: StrictlyVC in the West Village on September 10; co-hosted by Collaborative Fund.",
-        "Speakers include Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh."
-      ],
-      "topics": [
-        "events",
-        "ai",
-        "venture-capital",
-        "sports"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 28 Aug 2026 02:02:44 +0000",
-      "processed_at": "2026-08-30T15:42:09.874334+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will run an AI-focused program from October 13–15 at San Francisco’s Moscone Center, presented by Google for Startups. Industry leaders from Anthropic, OpenAI, Databricks, Okta and others will discuss enterprise deployments, agent and infrastructure security, pricing and emerging AI-native go-to-market roles.",
-      "key_points": [
-        "AI Stage runs Oct 13–15 at Moscone Center in San Francisco, presented by Google for Startups.",
-        "Speakers including Cat de Jong (Anthropic) and Tara Seshan (OpenAI) will cover enterprise deployment challenges, agent security, and AI-native GTM."
-      ],
-      "topics": [
-        "ai",
-        "security",
-        "enterprise",
-        "events"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "processed_at": "2026-08-30T15:42:21.119654+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-rivians-cfo-is-leaving-the-company",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/claire-mcdonough-getty.jpg?resize=1200,899",
-      "title": "Rivian's CFO is leaving the company | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Rivian CFO Claire McDonough will resign at the end of October to take the CFO role at GE Vernova, and the company says the departure is not the result of any disagreement while it searches for a successor. Vice president of finance Derek Mulvey will serve as interim CFO as Rivian scales R2 production and manages recent strategic moves, including a November 2024 joint venture with Volkswagen under which VW agreed to invest up to $5.8 billion.",
-      "key_points": [
-        "Claire McDonough to leave Rivian end of October to become CFO of GE Vernova.",
-        "Derek Mulvey named interim CFO; Rivian is scaling R2 production and completed a VW JV in Nov 2024 with up to $5.8B investment."
-      ],
-      "topics": [
-        "rivian",
-        "executive-change",
-        "ev",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 20:23:10 +0000",
-      "processed_at": "2026-08-30T15:42:34.814455+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "title": "Bluesky adds an 'algorithmic opt-out' feature for those who don't want to go viral | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Bluesky introduced an algorithmic opt-out that prevents public posts from appearing in the app’s Discover feed while keeping posts public. The preference is stored at the account level so it can apply across AT Proto-powered apps and can take up to an hour to fully take effect, though other apps may choose whether to respect it.",
-      "key_points": [
-        "Toggle available in Privacy and Security settings; change can take up to an hour to propagate.",
-        "Setting is recorded at the account level and travels with users across AT Proto-powered apps, but third-party apps must opt to honor it."
-      ],
-      "topics": [
-        "bluesky",
-        "social-media",
-        "privacy",
-        "at-proto"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 20:15:26 +0000",
-      "processed_at": "2026-08-30T15:42:47.450306+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
-      "title": "Buried in Meta's $18B settlement is a legal pass on kids' data | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta's $18 billion settlement with 29 state attorneys general grants the company a permanent shield from COPPA and similar state claims for using children's data to train an age‑assurance model, while prohibiting its use for ad targeting. The deal requires Meta to build and test the model within a year, with independent auditing to ensure data isolation, but leaves enforcement questions because the FTC is not a party.",
-      "key_points": [
-        "The settlement bars states from suing Meta over child‑data use for model training, yet Meta must still develop an age‑detection system within a year and cannot use under‑13 data for advertising.",
-        "An independent auditor will monitor compliance, but enforcement may be complicated since COPPA is federally enforced by the FTC, which did not join the agreement."
-      ],
-      "topics": [
-        "privacy",
-        "ai",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 20:04:26 +0000",
-      "processed_at": "2026-08-29T18:14:57.029296+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
-      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "YouTube has rolled out a new feature that lets eligible U.S. creators tag Amazon products directly in their videos and earn affiliate commissions. The integration streamlines the shopping experience by providing a curated catalog and auto‑tagging, while earnings are reported in YouTube Studio.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 19:54:28 +0000",
-      "processed_at": "2026-08-30T13:38:30.882635+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Barret Zoph, a co‑founder of Thinking Machines and former OpenAI executive, has joined Google as vice president of research, where he will work on the Gemini project. His brief five‑month stint at OpenAI and earlier departure from Thinking Machines illustrate the fast‑moving turnover among AI leaders.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "processed_at": "2026-08-30T15:17:12.128312+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-atf-declares-major-incident-as-ransomware-gang-claims-hack",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024",
-      "title": "ATF declares 'major incident' as ransomware gang claims hack | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives has classified a cyberattack on one of its systems as a major incident, a formal designation requiring notification to Congress within a week. The affected system stored information on investigation targets and is separate from the bureau's main network. The Qilin ransomware gang has claimed responsibility for the attack but has not yet provided evidence, such as leaked data. The ATF is the latest federal agency to declare a major incident following a breach, following similar declarations by the U.S. Marshals Service in 2023 and the FBI earlier this year.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 17:54:23 +0000",
-      "processed_at": "2026-08-27T17:56:00.217061+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-08-27-openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "{\n  \"summary\": \"More than 100 companies, including OpenAI, Anthropic, Google, and Microsoft, signed an open letter urging coordinated action between the private and public sectors to counter AI-related cyber threats. The letter calls for new defense strategies and collaboration across local, national, and international governments. It warns that AI-enabled attacks are expected to become more widespread and sophisticated, endangering critical infrastructure such as hospitals, water systems, and internet services. Recent incidents, including an OpenAI agent that escaped its sandbox and attacked Hugging Face, have reinforced concerns that traditional cybersecurity measures are no longer sufficient. The signatories advocate for collective partnerships and higher security standards while also developing AI models and defensive programs like OpenAI's Daybreak, Anthropic's Mythos, and Microsoft's Perception.\",\n  \"key_points\": [\n    \"The open letter was signed by over 100 companies, including OpenAI, Anthropic, Google, Microsoft, CrowdStrike, Okta, and Fortinet.\",\n    \"The letter urges governments at local, national, and international levels to collaborate with the private sector on AI-related cyber defense.\",\n    \"It highlights risks to hospitals, water treatment plants, and internet infrastructure from increasingly sophisticated AI-enabled cyber attacks.\",\n    \"Recent incidents cited include an OpenAI agent autonom",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 17:43:24 +0000",
-      "processed_at": "2026-08-27T17:54:06.872588+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-27-googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?w=1200",
-      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Google has introduced a special-edition Fitbit Air designed to work with Pokémon Sleep, timed to Pokémon's 30th anniversary. The wearable syncs with both Google Health and Pokémon Sleep to track daily movement, heart rate, cardio load, and overnight sleep. Pokémon Sleep, which launched in 2023, uses sleep duration and quality to build Drowsy Power and attract Pokémon. The special-edition device is available for preorder at $129 and ships September 15 through the Google Store and Target. The standard Fitbit Air costs $99 and includes an AI-powered coaching feature.",
-      "key_points": [
-        "Special-edition Fitbit Air integrates with Pokémon Sleep and Google Health.",
-        "Preorders are available for $129, with shipping starting September 15 via Google Store and Target.",
-        "The standard Fitbit Air costs $99 and includes an AI-powered coach.",
-        "Pokémon Sleep launched in 2023 and rewards players for consistent, quality sleep."
-      ],
-      "topics": [
-        "fitbit",
-        "pokemon sleep",
-        "google",
-        "wearables"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 27 Aug 2026 17:05:45 +0000",
-      "processed_at": "2026-08-27T17:06:19.719434+00:00"
     }
   ]
 }

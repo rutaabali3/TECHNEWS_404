@@ -5,7 +5,6 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 
 import requests
@@ -70,8 +69,8 @@ def extract_article(item):
     return {**item, "title": title, "image": image, "author": author, "description": description, "body": body[:7000]}
 
 
-def summarize(article, api_key):
-    prompt = f"""Create a thorough and accurate news summary of the TechCrunch article below.
+def _build_summary_prompt(article):
+    return f"""Create a thorough and accurate news summary of the TechCrunch article below.
 Return only one valid JSON object and nothing else. Do not use Markdown fences, commentary, or trailing commas.
 The object must contain exactly these keys: summary, key_points, topics.
 summary must be 3-4 clear, complete, and informative sentences covering the core news, essential details, background context, and significance. Ensure sentences are complete and do not end abruptly.
@@ -84,16 +83,9 @@ TITLE: {article['title']}
 AUTHOR: {article['author']}
 ARTICLE TEXT:
 {article['body']}"""
-    payload = {
-        "model": GROQ_MODEL,
-        "temperature": 0.2,
-        "max_tokens": 750,
-        "response_format": {"type": "json_object"},
-        "messages": [
-            {"role": "system", "content": "You are a senior technology-news editor providing complete and high-quality summaries. Output valid JSON only."},
-            {"role": "user", "content": prompt},
-        ],
-    }
+
+
+def _call_groq_api(payload, api_key):
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
     endpoint = "https://api.groq.com/openai/v1/chat/completions"
     for attempt in range(3):
@@ -127,33 +119,52 @@ ARTICLE TEXT:
                 continue
             raise RuntimeError("Groq rate limit reached after retries; article remains queued")
         response.raise_for_status()
-        content = response.json()["choices"][0]["message"].get("content", "").strip()
-        content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE).strip()
-        try:
-            result = json.loads(content)
-        except json.JSONDecodeError:
-            start, end = content.find("{"), content.rfind("}")
-            if start >= 0 and end > start:
-                try:
-                    result = json.loads(content[start:end + 1])
-                except json.JSONDecodeError:
-                    result = None
-            else:
-                result = None
-            if result is None:
-                match = re.search(r'"summary"\s*:\s*"((?:\\.|[^"\\])*)', content, flags=re.DOTALL)
-                if match:
-                    try:
-                        extracted = json.loads('"' + match.group(1) + '"')
-                    except json.JSONDecodeError:
-                        extracted = match.group(1).replace('\\"', '"')
-                    result = {"summary": extracted, "key_points": [], "topics": ["technology"]}
-                else:
-                    result = {"summary": content, "key_points": [], "topics": ["technology"]}
-        if not result.get("summary"):
-            result = {"summary": article.get("description") or article.get("feed_excerpt") or "Summary unavailable; open the original article for details.", "key_points": [], "topics": ["technology"]}
-        return result
+        return response.json()["choices"][0]["message"].get("content", "").strip()
     raise RuntimeError("Groq request failed")
+
+
+def _parse_summary_response(content, article):
+    content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE).strip()
+    try:
+        result = json.loads(content)
+    except json.JSONDecodeError:
+        start, end = content.find("{"), content.rfind("}")
+        if start >= 0 and end > start:
+            try:
+                result = json.loads(content[start:end + 1])
+            except json.JSONDecodeError:
+                result = None
+        else:
+            result = None
+        if result is None:
+            match = re.search(r'"summary"\s*:\s*"((?:\\.|[^"\\])*)', content, flags=re.DOTALL)
+            if match:
+                try:
+                    extracted = json.loads('"' + match.group(1) + '"')
+                except json.JSONDecodeError:
+                    extracted = match.group(1).replace('\\"', '"')
+                result = {"summary": extracted, "key_points": [], "topics": ["technology"]}
+            else:
+                result = {"summary": content, "key_points": [], "topics": ["technology"]}
+    if not result.get("summary"):
+        result = {"summary": article.get("description") or article.get("feed_excerpt") or "Summary unavailable; open the original article for details.", "key_points": [], "topics": ["technology"]}
+    return result
+
+
+def summarize(article, api_key):
+    prompt = _build_summary_prompt(article)
+    payload = {
+        "model": GROQ_MODEL,
+        "temperature": 0.2,
+        "max_tokens": 750,
+        "response_format": {"type": "json_object"},
+        "messages": [
+            {"role": "system", "content": "You are a senior technology-news editor providing complete and high-quality summaries. Output valid JSON only."},
+            {"role": "user", "content": prompt},
+        ],
+    }
+    content = _call_groq_api(payload, api_key)
+    return _parse_summary_response(content, article)
 
 
 def groq_keys():
