@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-05T19:23:43.638856+00:00",
+  "updated_at": "2026-09-05T21:34:05.292534+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-05-hikers-rescued-after-using-google-gemini-for-planning",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
+      "title": "Hikers rescued after using Google Gemini for planning | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Three hikers were rescued from California’s Mount Shasta after using Google’s AI chatbot Gemini to plan their expedition. The trio set out at 3 am, reached the summit at 7 pm, and attempted a nighttime descent, calling the sheriff’s office for directions and spending the night in Mud Creek Canyon before being rescued the next morning by Forest Service rangers and volunteers. Sheriff officials said Gemini had advised the hikers to bring far less food and water than needed, turning an 8‑hour ascent into a multiday ordeal. The incident underscores the risk of relying solely on AI for outdoor trip planning and the importance of consulting local authorities for accurate information.",
+      "key_points": [
+        "Three hikers were rescued after using Google Gemini for trip planning",
+        "Gemini’s advice to bring insufficient supplies contributed to the delay",
+        "Sheriff’s office warns against relying solely on AI for outdoor adventures",
+        "Rescue involved Forest Service rangers and volunteers"
+      ],
+      "topics": [
+        "google",
+        "gemini",
+        "hiking",
+        "ai",
+        "safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "processed_at": "2026-09-05T21:34:05.292326+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-05-openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
@@ -2189,27 +2214,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 17:14:44 +0000",
       "processed_at": "2026-09-02T07:45:53.216643+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675",
-      "title": "Tim Cook's parting message: Apple is in the hands of a product builder | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "On his last day as Apple CEO, Tim Cook said he is stepping down and will remain at the company as executive chairman while endorsing John Ternus as his successor. Ternus, Apple’s senior vice president of hardware engineering who led recent products like the iPhone Air, MacBook Neo and AirPods with hearing health features, points to a renewed hardware focus as Apple prepares devices for the AI era.",
-      "key_points": [
-        "tim cook stepped down as apple CEO and will serve as executive chairman",
-        "john ternus, apple's senior vice president of hardware engineering, succeeded cook as CEO"
-      ],
-      "topics": [
-        "apple",
-        "leadership",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 17:02:42 +0000",
-      "processed_at": "2026-09-02T07:46:02.063864+00:00"
     }
   ]
 }
