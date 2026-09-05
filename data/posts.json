@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-05T21:34:05.292534+00:00",
+  "updated_at": "2026-09-05T23:38:12.722814+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, claiming that generative AI models are consuming and reproducing their journalism without permission. The plaintiffs argue that AI training on copyrighted news content could \"break the journalism industry beyond repair,\" describing the technology as a \"snake eating its own tail.\" The suit follows the 2023 New York Times case and highlights the tension between AI companies and media outlets, especially since Microsoft and OpenAI have previously funded the Seattle Times’ journalism initiatives. Microsoft’s spokesperson said the company is surprised but open to discussion, while the case underscores the growing legal scrutiny over AI training data and the future of news production.",
+      "key_points": [
+        "Seattle Times and Newsday sue OpenAI and Microsoft over AI training on their content",
+        "Plaintiffs claim AI could destroy journalism, calling it a \"snake eating its own tail\"",
+        "The lawsuit follows the 2023 New York Times case and notes Microsoft/OpenAI funding of Seattle Times projects",
+        "Microsoft expresses surprise but willingness to discuss solutions"
+      ],
+      "topics": [
+        "ai",
+        "law",
+        "journalism",
+        "openai",
+        "microsoft"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "processed_at": "2026-09-05T23:38:12.722057+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-05-hikers-rescued-after-using-google-gemini-for-planning",
       "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
@@ -2193,27 +2218,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 18:10:09 +0000",
       "processed_at": "2026-09-02T07:45:44.770711+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/ryan-breslow-bolt.jpg?resize=1200,800",
-      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Ryan Breslow is raising up to $27 million in a pay-to-play convertible note bridge round to support Bolt and bridge to a planned Series E2. He is personally committing $5 million as the company, which fell from an $11 billion valuation in early 2022 to about $300 million, says it is nearing profitability after cutting headcount and reorganizing.",
-      "key_points": [
-        "Bridge round: up to $27M as a pay-to-play convertible note",
-        "Breslow commits $5M; valuation fell from $11B (early 2022) to ~$300M"
-      ],
-      "topics": [
-        "fundraising",
-        "fintech",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 17:14:44 +0000",
-      "processed_at": "2026-09-02T07:45:53.216643+00:00"
     }
   ]
 }
