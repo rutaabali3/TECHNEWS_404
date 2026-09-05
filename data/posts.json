@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-04T23:49:05.273005+00:00",
+  "updated_at": "2026-09-05T15:03:01.062232+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-05-oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "title": "Oura is going public, but these smart ring companies are coming for its crown | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Oura filed for an IPO on September 3 after reporting $1.21 billion in revenue for the nine months ended June 30 and selling 3.6 million rings, while adding 5 million paid members. The Finnish company’s move follows the launch of its slimmest Ring 5, but rivals are quickly catching up with new features such as tap‑to‑pay, haptic alerts, on‑device AI and touchpads. Companies like Circular, RingConn, Ultrahuman, Samsung and Dreame are all targeting the market with rings that blend health tracking with smartphone‑like capabilities, turning the niche into a crowded battleground. The shift signals a broader trend toward miniaturized, multifunctional wearables that blur the line between health gadgets and everyday tech.",
+      "key_points": [
+        "Oura’s IPO filing comes after doubling revenue to $1.21 billion and selling 3.6 million rings",
+        "Rivals such as Circular, RingConn, Ultrahuman, Samsung and Dreame are adding payment, haptic, AI and touchpad features",
+        "The smart‑ring market is evolving from pure health tracking to mini‑smartphone functionality",
+        "Ultrahuman raised $70 million and launched the Ring Pro to bypass Oura’s patent"
+      ],
+      "topics": [
+        "smartrings",
+        "ipo",
+        "competition",
+        "healthtech",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 05 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-05T15:03:01.062035+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-04-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
@@ -2179,28 +2204,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000",
       "processed_at": "2026-09-02T07:46:22.070895+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675",
-      "title": "How AI could make it harder for governments to use hacking tools | TechCrunch",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "summary": "In August cryptography professor Matthew Green argued that AI-driven tools could find and help fix so many software vulnerabilities that law enforcement and intelligence agencies might lose access to bugs they currently exploit, potentially renewing political pressure for backdoors. TechCrunch surveyed researchers and industry figures who were split: some warn of imminent bug scarcity and renewed calls for exceptional access, while others say complex zero-days will remain valuable and AI can also aid offensive researchers.",
-      "key_points": [
-        "Matthew Green warned AI could make bugs scarce and prompt governments to seek backdoors.",
-        "Researchers are split: some predict scarcity and pressure for exceptional access, others say zero-days and offensive tooling will persist and benefit from AI."
-      ],
-      "topics": [
-        "ai",
-        "cybersecurity",
-        "surveillance",
-        "vulnerabilities"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 15:19:32 +0000",
-      "processed_at": "2026-09-02T07:46:30.742282+00:00"
     }
   ]
 }
