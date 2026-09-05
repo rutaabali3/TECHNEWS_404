@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-05T15:03:01.062232+00:00",
+  "updated_at": "2026-09-05T17:29:07.723188+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-05-cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200",
+      "title": "Clucky's new alarm app wakes you up with a crowing rooster | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Clucky is a new iPhone alarm app that wakes users with a rooster crow and forces them to complete a mission before the alarm can be dismissed. The app offers a range of wake‑up challenges—from math puzzles to physical tasks—and tracks performance with stats and a weekly “Rooster Report.” Users can also create private alarm groups called “Nests” to wake up together and hold each other accountable. Clucky is available for free on the App Store, with a pro subscription priced at $39.99 per year, and was founded by former Fanatics engineer Adrian Angelo Abelarde.",
+      "key_points": [
+        "Clucky uses a rooster crow and interactive missions to ensure users fully wake up instead of snoozing",
+        "The app includes a pro plan at $39.99/year and features social alarm groups called Nests",
+        "Founder Adrian Angelo Abelarde previously worked as a software engineer at Fanatics"
+      ],
+      "topics": [
+        "alarm app",
+        "productivity",
+        "mobile apps",
+        "subscription",
+        "social features"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 05 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-05T17:29:07.722991+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-05-oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
@@ -2182,28 +2206,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 16:07:46 +0000",
       "processed_at": "2026-09-02T07:46:12.170574+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M | TechCrunch",
-      "author": "Kate Park",
-      "summary": "Clipto, founded by Henry Kang in 2023, raised $15 million in an all-equity round that values the company at $250 million. The San Francisco–headquartered startup indexes videos, audio, images and documents locally on users' devices, supports MCP for authorized AI-agent access, and reports over 30 million users, hundreds of thousands of paid subscribers and $15M in ARR as of early 2026 while remaining net-income profitable.",
-      "key_points": [
-        "Raised $15M in an all-equity round at a $250M post-money valuation",
-        "Indexes multimedia locally, supports MCP for authorized AI access; reached $15M ARR and is net-income profitable"
-      ],
-      "topics": [
-        "ai",
-        "video-search",
-        "startup",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "processed_at": "2026-09-02T07:46:22.070895+00:00"
     }
   ]
 }
