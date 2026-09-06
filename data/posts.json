@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-09-06T18:07:52.421235+00:00",
+  "updated_at": "2026-09-06T22:47:39.511542+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-06-phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Phil Schiller, the long‑time head of Apple’s App Store, has announced he will step down from the role but will stay on as an Apple Fellow working on unspecified projects. According to Bloomberg’s Mark Gurman, Schiller’s decision is partly driven by a desire to spend more time with his family and pursue philanthropic interests. He also expressed concern that the new CEO John Ternus and services chief Eddy Cue’s plan to raise App Store margins and boost recurring revenue could heighten tensions with governments and developers. The move comes amid ongoing criticism and lawsuits over Apple’s App Store fee structure and its impact on the developer ecosystem.",
+      "key_points": [
+        "Schiller steps down as App Store head but remains an Apple Fellow",
+        "He cites family time and philanthropy as key motivations",
+        "He worries that new profit‑maximizing strategy will increase conflict with developers and regulators",
+        "Apple’s App Store fee structure has faced sustained criticism and legal challenges"
+      ],
+      "topics": [
+        "apple",
+        "app store",
+        "developer relations",
+        "tech leadership",
+        "philanthropy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "processed_at": "2026-09-06T22:47:39.511194+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-06-authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Anthropic’s $1.5 billion copyright settlement will pay $3,000 for each pirated work to nearly 500,000 authors, with payments split 50‑50 with publishers if the book remains in‑print and paid in full to authors if the rights have reverted or the book is self‑published.  However, many authors have reported that publishers and even literary agents are claiming a larger share of the payouts than the settlement allows, sparking disputes on social media.  The Authors Guild and industry insiders say the problem stems largely from poor record‑keeping and a confusing settlement process, not intentional malice.  Authors can challenge allocations, but must prove that rights reversion occurred before August 10 2022, the settlement’s “download date.”",
+      "key_points": [
+        "Anthropic’s $1.5 billion settlement pays $3,000 per pirated work to nearly 500,000 authors.",
+        "Publishers and agents are claiming more than their entitled share, leading to author disputes.",
+        "Authors Guild attributes the issue to poor record‑keeping and confusing settlement terms, not deliberate wrongdoing.",
+        "Authors can dispute allocations but must prove rights reversion before Aug 10 2022.",
+        ""
+      ],
+      "topics": [
+        "anthropic",
+        "settlement",
+        "authors",
+        "publishers",
+        "agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "processed_at": "2026-09-06T22:47:38.400071+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-06-travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
@@ -2184,44 +2235,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 19:02:06 +0000",
       "processed_at": "2026-09-01T21:14:06.406323+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-microsoft-tests-fix-for-latest-hours-long-outlook-outage",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800",
-      "title": "Microsoft tests fix for latest hours-long Outlook outage | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Microsoft confirmed a multi‑hour outage of its Exchange Online service on Monday, which disrupted Outlook email, calendar and authentication functions for many users. The company pinpointed a misconfigured authentication component, began testing a remediation on part of its infrastructure, and plans to roll out the fix more broadly once validated.",
-      "key_points": [
-        "Microsoft traced the outage to a misconfigured authentication component in Exchange Online",
-        "A remediation is being tested on a portion of the infrastructure before a full rollout"
-      ],
-      "topics": [
-        "microsoft",
-        "outlook",
-        "exchange",
-        "outage"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 18:56:41 +0000",
-      "processed_at": "2026-09-01T23:29:01.258100+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-kalshi-bans-george-santos-for-life-over-state-of-the-union-bets",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1824575665.jpg?resize=1200,800",
-      "title": "Kalshi bans George Santos for life over State of the Union bets | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 18:53:41 +0000",
-      "processed_at": "2026-09-02T01:18:46.593854+00:00"
     }
   ]
 }
