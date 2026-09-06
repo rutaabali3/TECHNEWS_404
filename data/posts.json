@@ -1,7 +1,48 @@
 {
-  "updated_at": "2026-09-05T23:38:12.722814+00:00",
+  "updated_at": "2026-09-06T18:07:52.421235+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-06-travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "processed_at": "2026-09-06T18:07:52.420914+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-06-techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Tesla’s Cybercab event in Austin fell flat, with a quiet crowd and no presence from CEO Elon Musk, undermining the company’s claim to be a robotaxi leader. The demonstration showed only 45 Cybercabs registered in Texas, a far cry from Waymo’s scale, and the vehicles lack manual controls required by federal safety rules. Hours after the launch, the National Highway Traffic Safety Administration opened an investigation into Tesla’s self‑certification of the Cybercabs, citing the absence of steering wheels and pedals. The incident highlights the regulatory and operational hurdles Tesla faces before it can roll out a safe, large‑scale autonomous ride‑share service.",
+      "key_points": [
+        "Tesla’s Cybercab event was underwhelming and Musk did not attend",
+        "Only 45 Cybercabs are registered in Texas, showing limited scale",
+        "NHTSA opened an investigation over missing manual controls",
+        "Waymo’s larger fleet underscores Tesla’s lag in robotaxi deployment"
+      ],
+      "topics": [
+        "tesla",
+        "cybercab",
+        "robotaxi",
+        "nhtsa",
+        "autonomous vehicles"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 06 Sep 2026 16:08:00 +0000",
+      "processed_at": "2026-09-06T18:07:50.789931+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
       "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
@@ -2181,43 +2222,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 18:53:41 +0000",
       "processed_at": "2026-09-02T01:18:46.593854+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a 'Harvey for police officers' | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "processed_at": "2026-09-02T06:15:33.638566+00:00"
-    },
-    {
-      "id": "chcrunch-com-2026-08-31-hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/mckesson-2236133684.jpg?resize=1200,800",
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The ShinyHunters group claimed responsibility for a cyberattack that exfiltrated millions of rows of patient and employee data from McKesson’s cloud-hosted Snowflake and Salesforce environments. Reports say the group used phishing and social engineering, demanded a $55 million ransom, and McKesson confirmed compromised cloud accounts and intermittent service degradation while saying it believes there is no ongoing unauthorized activity.",
-      "key_points": [
-        "Attackers claimed to have stolen millions of patient and employee records from McKesson’s Snowflake and Salesforce environments",
-        "Hackers reportedly demanded a $55 million ransom; McKesson confirmed compromised cloud-hosted accounts and intermittent service degradation"
-      ],
-      "topics": [
-        "cybersecurity",
-        "healthcare",
-        "data-breach"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 18:10:09 +0000",
-      "processed_at": "2026-09-02T07:45:44.770711+00:00"
     }
   ]
 }
