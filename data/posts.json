@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-06T22:47:39.511542+00:00",
+  "updated_at": "2026-09-07T17:42:29.770988+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-07-what-we-expect-from-the-upcoming-apple-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+      "title": "What we expect from the upcoming Apple launch | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Apple is set to unveil its first foldable iPhone, the iPhone Ultra, at the September 9 event, with a price tag expected to exceed $2,000 and a 5.5‑inch cover display that expands to a 7.8‑inch iPad‑like screen when unfolded. The device will forgo the telephoto camera and Face ID in favor of a dual‑lens rear camera system and a side‑mounted Touch ID button, while still supporting MagSafe and side‑by‑side multitasking on iOS. In addition to the foldable, Apple is rumored to launch an iPhone 18 line, refresh its HomePod, and introduce AirPods equipped with low‑resolution cameras to feed visual data to Gemini‑powered Siri. These moves signal Apple’s push into new form factors and AI‑enhanced accessories while addressing privacy concerns around camera‑enabled wearables.",
+      "key_points": [
+        "Apple will launch a foldable iPhone Ultra priced over $2,000 with a 7.8‑inch display and Touch ID instead of Face ID",
+        "The Ultra will omit the telephoto camera, use MagSafe, and feature a minimal crease display",
+        "Apple plans an iPhone 18 line, a refreshed HomePod, and AirPods with low‑res cameras for Gemini‑powered Siri",
+        "The company is integrating Gemini AI across its ecosystem while emphasizing privacy in camera‑enabled wearables"
+      ],
+      "topics": [
+        "apple",
+        "foldable",
+        "iphone",
+        "ai",
+        "earbuds"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 07 Sep 2026 15:58:00 +0000",
+      "processed_at": "2026-09-07T17:42:29.770774+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-06-phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans",
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
@@ -2219,22 +2244,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 19:16:59 +0000",
       "processed_at": "2026-09-01T18:15:37.428135+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1660777497.jpg?resize=1200,799",
-      "title": "Apple's top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Apple announced that longtime App Store leader Phil Sch",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 19:02:06 +0000",
-      "processed_at": "2026-09-01T21:14:06.406323+00:00"
     }
   ]
 }
