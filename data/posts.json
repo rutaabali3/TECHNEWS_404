@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-07T21:19:03.261196+00:00",
+  "updated_at": "2026-09-08T03:47:22.619302+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "tps-techcrunch-com-2026-09-07-eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
+      "title": "Eric Wu's newest company, out of stealth since May, is going after construction's labor crunch | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Eric Wu, former Opendoor CEO, launched NavigateAI in late May with a $25 million seed round that valued the company at $225 million. The startup builds AI copilots that guide construction workers via smartphones and Meta’s AI glasses, aiming to address the industry’s severe labor shortage and cut project costs. Its pricing model has shifted from usage‑based to a share of value, capturing roughly 20 % of savings when it reduces a home’s construction cost from $300,000 to $280,000. While the company boasts high‑profile investors such as Elad Gil, Khosla Ventures, Lennar, and Meta, it faces challenges around adoption, liability, and attribution of savings.",
+      "key_points": [
+        "NavigateAI raised $25 million in seed funding at a $225 million valuation led by Elad Gil and backed by Khosla Ventures, Lennar, and others",
+        "The platform offers AI‑powered, hands‑free coaching for construction workers through smartphones and Meta glasses to improve accuracy and speed",
+        "Its revenue model captures a share of cost savings, targeting a 5‑10 % improvement on builders’ $9 billion annual labor spend",
+        "The company collects labeled video data from job sites, positioning a future data‑driven business for robotics and AI firms"
+      ],
+      "topics": [
+        "construction",
+        "ai",
+        "startup",
+        "labor",
+        "realestate"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 02:16:39 +0000",
+      "processed_at": "2026-09-08T03:47:22.619044+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-07-artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
@@ -2232,27 +2257,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 20:20:25 +0000",
       "processed_at": "2026-09-02T07:45:19.525896+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "The Pentagon added ChatGPT Mil and Grok for Government to its secure GenAI.mil portal, providing tailored versions of OpenAI and SpaceX Starshield AI models to the Defense Department. The portal — launched last year — is designed to keep sensitive data out of consumer channels and has already onboarded more than 1.7 million of the department’s roughly 3 million civilian and military personnel.",
-      "key_points": [
-        "ChatGPT Mil and Grok for Government were added to the GenAI.mil portal",
-        "GenAI.mil has onboarded over 1.7 million of the department’s roughly 3 million personnel"
-      ],
-      "topics": [
-        "defense",
-        "generative-ai",
-        "openai"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "processed_at": "2026-09-02T07:45:34.511766+00:00"
     }
   ]
 }
