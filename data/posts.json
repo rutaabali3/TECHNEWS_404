@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-08T17:22:18.537362+00:00",
+  "updated_at": "2026-09-08T20:08:43.172277+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-08-how-to-watch-apples-foldable-iphone-announcement",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927",
+      "title": "How to watch Apple's foldable iPhone announcement | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Apple will hold its annual iPhone event on Wednesday, September 9 at 10 a.m. PDT, where it is expected to unveil a foldable iPhone Ultra, marking its first entry into the foldable smartphone market about seven years after Samsung. The company will also likely announce the iPhone 18 Pro and iPhone 18 Pro Max, offering options for customers who prefer a non‑foldable device or who are unwilling to pay the rumored $2,000 price for the Ultra. Additional hardware such as an updated HomePod, camera‑enabled AirPods, and new Apple Watches may also be introduced. This event will be Apple’s first major product launch under new CEO John Ternus, following Tim Cook’s departure.",
+      "key_points": [
+        "Apple is expected to launch a foldable iPhone Ultra at its September 9 event.",
+        "The iPhone 18 Pro and iPhone 18 Pro Max will likely be announced, with the standard iPhone 18 slated for next year.",
+        "This will be the first major product launch under new CEO John Ternus after Tim Cook stepped down.",
+        "Additional hardware such as an updated HomePod, camera‑enabled AirPods, and new Apple Watches may debut."
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "foldable",
+        "product launch",
+        "new ceo"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 17:46:53 +0000",
+      "processed_at": "2026-09-08T20:08:10.528808+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "NYU mathematician Tristan Buckmaster and Anthropic collaborator Levent Alpöge announced partial proofs of the Navier–Stokes existence and smoothness problem using OpenAI’s Codex and Anthropic’s Claude, sparking a dispute when OpenAI released a full proof shortly after. Buckmaster claims OpenAI accessed or was influenced by his Codex interactions, raising questions about data usage and academic rivalry. OpenAI maintains its proof was independent, noting no direct access to Buckmaster’s work, but acknowledges the possibility of de‑identified data aiding model improvement. The controversy underscores the growing debate over AI’s role in mathematical research and the ethics of training data derived from user interactions.",
+      "key_points": [
+        "Buckmaster and Alpöge published partial Navier–Stokes proofs with Codex and Claude",
+        "OpenAI released a full proof soon after, claiming independent work",
+        "Allegations that OpenAI used Buckmaster’s Codex data or was influenced by it",
+        "The dispute highlights ethical concerns about AI training data and academic competition"
+      ],
+      "topics": [
+        "ai",
+        "mathematics",
+        "navier-stokes",
+        "openai",
+        "researchethics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 17:32:15 +0000",
+      "processed_at": "2026-09-08T20:08:10.414640+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Google’s plan to revive the Duane Arnold Energy Center in Iowa has secured a $1.9 billion loan from the U.S. Department of Energy, marking the second such federal loan under the Trump administration to support nuclear power for AI data centers. The loan will fund a 2029 restart that will add 615 MW of capacity, including 50 MW earmarked for a local power cooperative, and is part of a broader trend of tech firms turning to shuttered nuclear plants for clean, firm electricity. The move follows similar DOE‑backed projects at Three Mile Island and Clinton Clean Energy, underscoring the growing role of nuclear power in meeting the rapidly expanding electricity demand of AI infrastructure.",
+      "key_points": [
+        "DOE has granted a $1.9 billion loan to NextEra Energy to restart the Duane Arnold nuclear plant, slated for 2029.",
+        "The Trump administration views revived nuclear plants as a key clean power source for AI data centers.",
+        "The plant will produce 615 MW of power, with 50 MW reserved for a local cooperative, helping to meet Iowa’s growing demand.",
+        "Similar federal loans have supported the restart of reactors at Three Mile Island and Clinton Clean Energy, reflecting a broader industry shift toward nuclear for AI workloads."
+      ],
+      "topics": [
+        "nuclear power",
+        "ai",
+        "data centers",
+        "energy policy",
+        "tech industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 15:25:35 +0000",
+      "processed_at": "2026-09-08T20:08:10.247699+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google has shifted Chrome’s release cadence from a four‑week to a two‑week cycle, launching Chrome 153 on Tuesday across desktop, iOS, and Android. The change is driven by the rise of AI‑generated bugs and faster‑moving threats, allowing the company to close the N‑day patch gap and deliver security fixes more quickly. Faster releases also help Chrome ship new AI‑powered features and keep pace with emerging competitor browsers. The move sets a new industry standard, with Mozilla, Microsoft, and Brave already adopting similar schedules.",
+      "key_points": [
+        "Chrome now releases updates every two weeks.",
+        "Shift aims to reduce the N‑day patch gap amid AI‑driven security threats.",
+        "Faster releases enable quicker AI feature iteration and feature rollout.",
+        "Other browsers are following Chrome’s lead with two‑week cycles."
+      ],
+      "topics": [
+        "chrome",
+        "security",
+        "ai",
+        "browser",
+        "updates"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 15:04:09 +0000",
+      "processed_at": "2026-09-08T20:08:24.916778+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+      "title": "Mistral raises €3B as sovereign AI becomes big business | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "Mistral AI announced a €3 billion Series D funding round that values the French lab at over €21 billion, making it the largest equity raise ever completed by a European technology company. The round was led by Samsung Electronics, with co‑lead participation from EQT‑managed Scaleup Europe Fund, PSG Equity, and a mix of European and U.S. investors such as a16z, Nvidia, and Salesforce Ventures. Mistral plans to use the capital to scale compute capacity, build a 1 GW European infrastructure by 2030, and expand its international footprint while positioning itself as an AI services provider that gives customers control over model choice and data residency. The deal underscores the growing push for sovereign AI solutions in Europe amid heightened concerns over U.S. tech dominance and regulatory scrutiny.",
+      "key_points": [
+        "Mistral AI raised €3 billion in a Series D, valuing it at over €21 billion, the largest equity raise for a European tech firm.",
+        "The funding was led by Samsung and backed by a mix of European and U.S. investors, highlighting a bipartisan push for sovereign AI infrastructure.",
+        "Mistral will use the money to build 1 GW of compute capacity in Europe by 2030 and expand its services to give customers control over model choice and data residency.",
+        "The company positions itself as an AI services provider rather than a model creator, aiming to address EU concerns about dependence on U.S. technology."
+      ],
+      "topics": [
+        "ai",
+        "funding",
+        "europe",
+        "sovereignai",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 14:17:48 +0000",
+      "processed_at": "2026-09-08T20:08:10.945720+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-08-a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it",
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798",
@@ -2157,112 +2282,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 14:03:00 +0000",
       "processed_at": "2026-09-02T07:43:33.530890+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/Unacademy.jpeg?resize=1200,700",
-      "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Unacademy has been acquired by rival upGrad in an all-stock deal that values the Bengaluru-based edtech group at ₹19.55 billion (about $206 million), roughly 94% below its $3.44 billion 2021 peak valuation. The transaction covers the entire group including PrepLadder, Graphy and Airlearn, leaves Gaurav Munjal as CEO, transfers shareholders to upGrad stock, and reportedly involves no planned layoffs while the company held about ₹9 billion in cash and roughly ₹4 billion in annual revenue.",
-      "key_points": [
-        "Deal values Unacademy at ₹19.55 billion (~$206M), about 94% below its $3.44B 2021 peak",
-        "All-stock transaction: shareholders receive upGrad shares, Munjal stays as CEO, no layoffs planned"
-      ],
-      "topics": [
-        "edtech",
-        "acquisition",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 13:58:42 +0000",
-      "processed_at": "2026-09-02T07:43:43.479313+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Philip_AC_vertical-e1788214270919.jpeg?w=913",
-      "title": "If space data centers feel far-fetched, why not interstellar travel? | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "A new non-profit called Fermi Explorer, started by Starcloud founders Philip Johnston, Adi Oltean and Ezra Feilden with program manager Garret Jameson, plans to send a small 1 kg, 10 cm-square probe toward Alpha Centauri using proven space technologies. The group says the ~$15 million mission would launch in 2029 on a rideshare, use low-power electric propulsion with about 12 years of activity before an 80,000-year coast, aiming to test the Fermi paradox rather than achieve interstellar flight within a human lifetime.",
-      "key_points": [
-        "1 kg, 10 cm-square probe targeted to Alpha Centauri",
-        "Planned $15 million launch in 2029 with an 80,000-year voyage"
-      ],
-      "topics": [
-        "space",
-        "interstellar",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 10:00:00 +0000",
-      "processed_at": "2026-09-02T07:43:53.817114+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/yuma-energy.jpg?resize=1200,800",
-      "title": "Magna increases bet on battery swapping in India with $35M for Yuma | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Magna International is investing an additional $35 million in Bengaluru-based Yuma Energy, increasing its stake above the 51% it took when the joint venture formed with Yulu. Yuma — which has completed more than 60 million swaps, deploys about 100,000 batteries across 400+ stations, and posted roughly ₹1 billion (~$10.5M) revenue for the year ending March 2026 — will use the funds to expand swapping infrastructure and double its battery fleet to serve high-mileage gig-economy riders across 18 Indian cities.",
-      "key_points": [
-        "Magna invested $35 million to raise its stake in Yuma Energy",
-        "Yuma has 60M+ swaps, ~100,000 batteries, 400+ stations and ~₹1 billion revenue (FY March 2026)"
-      ],
-      "topics": [
-        "battery swapping",
-        "india",
-        "ev"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "processed_at": "2026-09-02T07:44:07.361597+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/alteon-airplane.jpg?resize=1200,800",
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Bengaluru startup Alteon, founded by 20-year-old Samay Sanghvi, raised $2.5 million in a pre-seed round led by Lachy Groom to develop small autonomous fixed-wing aircraft that aim to stay aloft for more than a year by harvesting energy from ocean winds via dynamic soaring. The company completed autonomous tests over the Bay of Bengal — seven O-shaped cycles at over 62 mph within 1 meter of the water — but has not yet demonstrated energy-neutral dynamic soaring and faces real-world low-altitude challenges.",
-      "key_points": [
-        "$2.5M pre-seed led by Lachy Groom",
-        "Autonomous test: seven O-shaped cycles at >62 mph within 1 m of water"
-      ],
-      "topics": [
-        "aerospace",
-        "dynamic-soaring",
-        "startups",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 00:30:00 +0000",
-      "processed_at": "2026-09-02T07:44:18.461888+00:00"
-    },
-    {
-      "id": "crunch-com-2026-08-31-apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
-      "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Apple alleges in a lawsuit that former employee Chang Liu stole trade secrets, used a confidential Apple circuit schematic and a tool named after an internal engineering app while at OpenAI, and enlisted colleague Yu-Ting Peng to help destroy evidence. Liu’s old MacBook was handed over for investigation earlier this month, and Apple is seeking a preliminary injunction and expedited discovery as its initial filing says more than 400 former Apple employees now work at OpenAI.",
-      "key_points": [
-        "Apple alleges Chang Liu used a confidential Apple circuit schematic and an internal-named tool at OpenAI",
-        "Apple seeks a preliminary injunction and expedited discovery; initial filing says more than 400 former Apple employees now work at OpenAI"
-      ],
-      "topics": [
-        "apple",
-        "openai",
-        "trade-secrets"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 00:13:00 +0000",
-      "processed_at": "2026-09-02T07:44:30.593087+00:00"
     }
   ]
 }
