@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-08T20:08:43.172277+00:00",
+  "updated_at": "2026-09-08T22:55:01.824124+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "h-com-2026-09-08-cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Cognition, the startup behind the coding assistant Devin, closed a $2 billion round that pushed its valuation to $48 billion, a dramatic jump from the $26 billion valuation it achieved just four months earlier. The company reports its annualized run‑rate revenue has climbed from $492 million to $900 million since May, underscoring investors’ belief that the AI coding market can support multiple major players. Cognition’s high server costs—an Nvidia cluster that could drive annual cash burn to $800 million—raise questions about long‑term sustainability, especially after its competitor Cursor was sold to SpaceX for $60 billion amid compute constraints. By the end of 2026, Cognition is projected to hit $4–5 billion in annualized revenue, still trailing Cursor’s $6 billion target, but the company’s rapid growth and enterprise clientele, including Mercedes‑Benz, NASA, Goldman Sachs and Citi, signal strong market traction.",
+      "key_points": [
+        "Cognition raised $2 billion at a $48 billion valuation, with run‑rate revenue rising to $900 million from $492 million in four months",
+        "VCs see room for multiple AI coding leaders, as Cognition’s revenue multiple exceeds that of Cursor before its $60 billion sale",
+        "High server costs and potential compute limits could challenge Cognition’s path to breakeven",
+        "Projected $4–5 billion annualized revenue by 2026 still lags Cursor’s $6 billion target but reflects rapid scaling"
+      ],
+      "topics": [
+        "ai",
+        "coding",
+        "valuation",
+        "venturecapital",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 21:04:06 +0000",
+      "processed_at": "2026-09-08T22:54:53.307119+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-the-exploration-company-nabs-450-million-to-challenge-spacex",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.jpg?resize=1200,800",
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "The Exploration Company (TEC) has closed a $450 million Series C, the largest ever for a European space firm, to fund its reusable Nyx capsule and Storm engine program. The company aims to dock Nyx with the International Space Station and return safely by November 2028, positioning itself as a European alternative to SpaceX’s low‑Earth‑orbit launches. Investors include Atomico, EQT‑managed Scaleup Europe Fund, and Bessemer Venture Partners, reflecting transatlantic confidence in reusable launchers. TEC’s funding will also support launch pad construction and the development of a heavy‑lift launcher to meet growing demand for space‑based services.",
+      "key_points": [
+        "TEC raised $450 million in a Series C, the largest for a European space company",
+        "The Nyx reusable capsule is slated to dock with the ISS and return by Nov 2028",
+        "Funding will also support the Storm engine and launch infrastructure",
+        "The move signals growing competition with SpaceX and US rivals like Stoke Space"
+      ],
+      "topics": [
+        "space",
+        "europe",
+        "venturecapital",
+        "reusable",
+        "launch"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 20:47:34 +0000",
+      "processed_at": "2026-09-08T22:54:43.314830+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it? | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has launched Muse, its first personal AI agent that can perform everyday tasks such as sending emails, booking travel, and making purchases by connecting to users’ apps and services. The agent runs on a dedicated secure virtual machine and offers a free tier with optional paid plans of $20 and $100 per month, using Stripe Link for checkout. While Muse promises privacy protections and no sharing of conversations with Meta’s ad system, the company’s history of privacy violations may hinder consumer trust. Muse will be available on the web, iOS, Android, WhatsApp, and soon Meta’s AI glasses, positioning it as a next‑generation tool beyond chat‑based assistants.",
+      "key_points": [
+        "Muse is Meta’s first consumer AI agent that can execute tasks by connecting to users’ apps and services.",
+        "It offers a free tier and paid plans ($20/month and $100/month) and uses Stripe Link for secure checkout.",
+        "Meta claims privacy safeguards via a dedicated secure VM, but past privacy scandals raise trust concerns.",
+        "Muse will launch on web, iOS, Android, WhatsApp, and later on Meta’s AI glasses."
+      ],
+      "topics": [
+        "ai",
+        "consumerai",
+        "privacy",
+        "meta",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "processed_at": "2026-09-08T22:54:43.364004+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-08-how-to-watch-apples-foldable-iphone-announcement",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927",
@@ -2219,69 +2294,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 15:00:10 +0000",
       "processed_at": "2026-09-02T07:43:01.618438+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Newlight-co-founders_-CEO-Haran-Hillel-Cohen-and-COO-Evyatar-Cohen.jpg?resize=1200,801",
-      "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Newlight, a San Francisco Bay Area startup co-founded by Evyatar Cohen and Haran Cohen Hillel, has developed a retrofit hydrogen-injection system that monitors engine conditions to inject compressed hydrogen and reduce diesel consumption and emissions. On an 8,500-nautical-mile commercial voyage aboard a 650-foot Lomar Shipping bulk carrier the system cut fuel use by 24% and CO2 emissions by 28%; the company raised $9 million in seed funding and has agreements to install the tech on 12 vessels.",
-      "key_points": [
-        "Reduced fuel consumption 24% and CO2 emissions 28% on an 8,500-nautical-mile Singapore–Ghana voyage on a 650-foot Lomar Shipping bulk carrier",
-        "Raised $9 million seed round and signed agreements to install the system on 12 vessels"
-      ],
-      "topics": [
-        "shipping",
-        "hydrogen",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 14:52:12 +0000",
-      "processed_at": "2026-09-02T07:43:14.951289+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?resize=1200,900",
-      "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Waymo has opened public robotaxi service in Denver, San Diego, and Tampa, expanding its commercial operations to 14 U.S. cities and inviting riders on a rolling basis as it scales. The company’s fleet tops 4,000 vehicles and includes Jaguar I‑Pace models plus about 300 Zeekr-made Ojai minivans, which are the only autonomous vehicles available to riders in Denver and San Diego.",
-      "key_points": [
-        "Public robotaxi service launched in Denver, San Diego, and Tampa, bringing Waymo to 14 U.S. cities.",
-        "Fleet exceeds 4,000 vehicles; Ojai minivan (~300 units) is the sole autonomous model in Denver and San Diego."
-      ],
-      "topics": [
-        "robotaxi",
-        "waymo",
-        "autonomous-vehicles"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 14:20:44 +0000",
-      "processed_at": "2026-09-02T07:43:26.145649+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechCrunch-Disrupt-2025-Day-3.jpg?resize=1200,800",
-      "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is seeking volunteers for Disrupt 2026 at Moscone West, a three-day startup conference running October 13–15. Volunteers support the event operations, receive free three-day admission, and must apply by September 25.",
-      "key_points": [
-        "Free admission for all three days (October 13–15)",
-        "Application deadline: September 25"
-      ],
-      "topics": [
-        "events",
-        "startups",
-        "volunteering"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 14:03:00 +0000",
-      "processed_at": "2026-09-02T07:43:33.530890+00:00"
     }
   ]
 }
