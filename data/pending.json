@@ -1,5 +1,30 @@
 {
-  "updated_at": "2026-09-08T13:24:51.480524+00:00",
-  "items": [],
-  "last_processed_at": "2026-09-08T13:24:55.613940+00:00"
+  "updated_at": "2026-09-08T17:21:52.651420+00:00",
+  "items": [
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "feed_excerpt": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "published": "Tue, 08 Sep 2026 16:20:31 +0000"
+    },
+    {
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "feed_excerpt": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+      "published": "Tue, 08 Sep 2026 15:25:35 +0000"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "feed_excerpt": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "published": "Tue, 08 Sep 2026 15:04:09 +0000"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "feed_excerpt": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "published": "Tue, 08 Sep 2026 14:17:48 +0000"
+    }
+  ],
+  "last_processed_at": "2026-09-08T17:22:18.516200+00:00"
 }

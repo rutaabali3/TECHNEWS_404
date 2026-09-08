@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-08T13:24:55.614153+00:00",
+  "updated_at": "2026-09-08T17:22:18.537362+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-08-a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798",
+      "title": "A hacker stole $340M in a crypto heist, then returned most of it | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "A hacker stole roughly 4,000 bitcoins, worth about $340 million, from Liquid Network, a settlement layer built by Blockstream. The attacker, who identified as a “white‑hat,” claimed the theft was due to a software bug and promised to return the funds once the flaw was fixed. Blockstream confirmed the vulnerability was patched and has recovered about 3,400 of the stolen coins, leaving around 600 bitcoins (≈$47 million) still in the hacker’s possession. The incident ranks among the largest crypto heists of the year and has prompted the company to suspend operations until further security measures are implemented.",
+      "key_points": [
+        "A hacker stole ~4,000 BTC (~$340M) from Liquid Network.",
+        "The attacker was a “white‑hat” who returned most of the coins after a bug fix.",
+        "Blockstream patched the vulnerability and recovered ~3,400 BTC; ~600 BTC remain missing.",
+        "The heist is one of the largest crypto thefts of 2026 and led to a pause in Liquid Network operations."
+      ],
+      "topics": [
+        "crypto",
+        "heist",
+        "blockchain",
+        "security",
+        "blockstream"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 14:11:29 +0000",
+      "processed_at": "2026-09-08T17:22:03.275110+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Bluecore Energy, a startup founded by Kofi Asante, announced an oversubscribed $50 million seed round just months after a $10 million pre‑seed and emerging from stealth. The company builds small modular reactors on floating barges to deliver clean power to ports and nearby infrastructure, aiming to democratize access to energy and water. Investors include Slauson & Co., Harlem Capital, Ripple co‑founder Chris Larsen, Collab Capital, Kevin Hart’s HartBeat Ventures, and angels from Tesla, Uber, Amazon and Google, with Silverton Partners leading the round. The new capital will fund product development, regulatory work with the NRC and Coast Guard, nuclear fuel purchases, and scaling the supply chain to meet growing demand from ports, data centers and communities.\n",
+      "key_points": [
+        "Bluecore Energy secured $50M seed after a $10M pre‑seed, oversubscribed",
+        "Company builds floating SMRs to deliver clean power to ports and infrastructure",
+        "Investors include major VC and tech angels, led by Silverton Partners",
+        "Capital will fund regulatory approvals, fuel procurement and supply‑chain scaling"
+      ],
+      "topics": [
+        "nuclear energy",
+        "startups",
+        "clean energy",
+        "floating reactors",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 14:10:17 +0000",
+      "processed_at": "2026-09-08T17:22:18.516116+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-08-poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800",
@@ -2213,49 +2263,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 00:13:00 +0000",
       "processed_at": "2026-09-02T07:44:30.593087+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800",
-      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.'s investment fund | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Polymarket has reportedly raised $300 million from 1789 Capital, the investment fund where Donald Trump Jr. is a partner, as part of a financing round sources say totals about $1 billion. The investment arrives while prediction markets face mounting legal challenges from states over sports wagers and federal regulators including the CFTC are contesting state authority.",
-      "key_points": [
-        "1789 Capital reportedly invested $300 million in Polymarket in a round said to be roughly $1 billion; the firm previously put $200 million into the site.",
-        "Prediction markets face legal pressure: at least 20 states are litigating over sports wagers and the CFTC has sued at least nine states."
-      ],
-      "topics": [
-        "polymarket",
-        "prediction-markets",
-        "funding",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 23:41:10 +0000",
-      "processed_at": "2026-09-02T07:44:42.908267+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-495510896.jpg?w=1024",
-      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Andreessen Horowitz expanded its fifth growth fund to $8.5 billion, adding $1.75 billion since it launched at $6.75 billion in January. Days earlier the firm also closed a $1.1 billion Machine Age Fund focused on AI hardware startups building chips, memory, networking and storage.",
-      "key_points": [
-        "Growth fund increased to $8.5 billion, up $1.75 billion since January",
-        "Raised $1.1 billion Machine Age Fund targeting AI hardware startups"
-      ],
-      "topics": [
-        "venture-capital",
-        "ai-hardware",
-        "fundraising"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 23:14:14 +0000",
-      "processed_at": "2026-09-02T07:44:54.544283+00:00"
     }
   ]
 }
