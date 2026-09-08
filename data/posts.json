@@ -1,7 +1,48 @@
 {
-  "updated_at": "2026-09-08T03:47:22.619302+00:00",
+  "updated_at": "2026-09-08T13:24:55.614153+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-08-poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800",
+      "title": "Exclusive: Poseidon Aerospace lands $60 million ahead of first pilotless test flight | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Poseidon Aerospace has closed a $60 million Series A led by TQ Ventures, bringing its total funding to $71 million as it prepares for the first test flight of its uncrewed cargo plane Egret by the end of 2024. The company, founded by former Amazon logistics engineer David Zagaynov and Lockheed veteran Parker Tenney, is building a fixed‑wing, combustion‑engine aircraft that eschews the popular VTOL and electric powertrains in favor of lower operating costs and higher payload efficiency. Poseidon plans to run its own regional air‑cargo network, targeting defense logistics in remote areas and commercial cargo for carriers such as UPS and FedEx, while leveraging autonomy to cut pilot‑related expenses and enable point‑to‑point service. The new funding and upcoming flight position Poseidon as a cost‑focused alternative in the emerging unmanned cargo market.\n",
+      "key_points": [
+        "$60M Series A led by TQ Ventures with investors including Hanwha, G Squared, JAWS, Starship, Draper and Drover",
+        "Egret’s first test flight is slated for the end of 2024",
+        "Poseidon uses fixed‑wing combustion engines, avoiding VTOL and electric tech to lower costs",
+        "The company intends to operate its own cargo network for defense and regional commercial markets"
+      ],
+      "topics": [
+        "aerospace",
+        "unmanned",
+        "logistics",
+        "startup",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-08T13:24:52.766650+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800",
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Stoke Space Technologies has closed a $1 billion Series E round, bringing its total funding to $2.3 billion, to scale production and develop a fully reusable two‑stage rocket. The company’s Nova Pathfinder, slated to fly in early 2027, will carry 3 metric‑tons to low‑Earth orbit and uses a unique liquid‑hydrogen",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "processed_at": "2026-09-08T13:24:55.613846+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-09-07-eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
@@ -2215,48 +2256,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 31 Aug 2026 23:14:14 +0000",
       "processed_at": "2026-09-02T07:44:54.544283+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Build American AI, tied to the Leading the Future (LTF) super PAC funded by Marc Andreessen, Ben Horowitz and OpenAI president Greg Brockman, plans multimillion-dollar ad campaigns promoting data centers in battleground states Kansas, Ohio and Wisconsin ahead of the midterms. OpenAI has publicly distanced itself from LTF, which launched with over $50 million, while Andreessen Horowitz–linked donors have disclosed more than $115 million in federal contributions this cycle.",
-      "key_points": [
-        "Build American AI will run data-center advocacy ads in Kansas, Ohio, and Wisconsin with a multi-million dollar budget",
-        "Leading the Future (LTF) launched with over $50 million; Andreessen Horowitz–linked donors have disclosed over $115 million in federal contributions"
-      ],
-      "topics": [
-        "ai",
-        "political spending",
-        "data centers"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 22:14:05 +0000",
-      "processed_at": "2026-09-02T07:45:05.088872+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-08-31-ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
-      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "The FTC and 22 states sued Amazon, alleging that beginning in 2019 the company secretly added a “soft reserve price” and used a fake bidder to inflate prices in its Sponsored Products, Sponsored Brands and Display ad auctions, effectively turning marketed second-price auctions into first-price outcomes. The complaint says the practice affected more than 1 million brands and sellers and may have generated tens of billions in extra revenue, while Amazon reported over $68 billion in advertising revenue last year and has disputed the allegations.",
-      "key_points": [
-        "FTC and 22 states allege Amazon added a hidden “soft reserve” and fake bidder in ad auctions starting in 2019.",
-        "Allegedly affected more than 1 million brands and sellers; Amazon reported over $68 billion in ad revenue last year."
-      ],
-      "topics": [
-        "antitrust",
-        "digital-advertising",
-        "amazon"
-      ],
-      "source_url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 31 Aug 2026 20:20:25 +0000",
-      "processed_at": "2026-09-02T07:45:19.525896+00:00"
     }
   ]
 }
