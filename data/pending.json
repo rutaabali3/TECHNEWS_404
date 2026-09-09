@@ -1,18 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:54:42.042614+00:00",
-  "items": [
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "feed_excerpt": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "published": "Tue, 08 Sep 2026 16:20:31 +0000"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "feed_excerpt": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "published": "Tue, 08 Sep 2026 21:10:27 +0000"
-    }
-  ],
-  "last_processed_at": "2026-09-08T22:54:53.307196+00:00"
+  "updated_at": "2026-09-09T01:06:09.884308+00:00",
+  "items": [],
+  "last_processed_at": "2026-09-09T01:06:12.416419+00:00"
 }

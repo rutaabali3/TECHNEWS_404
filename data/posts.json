@@ -1,7 +1,74 @@
 {
-  "updated_at": "2026-09-08T22:55:01.824124+00:00",
+  "updated_at": "2026-09-09T01:06:12.416677+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-08-white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
+      "title": "White House takes down 'Build the Wall' game after the Tetris Company complains | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "The White House removed its controversial arcade‑style game \"Build the Wall\" after the Tetris Company complained that the game copied Tetris gameplay and was criticized for racist content. The game, which asked players to stack blocks to build a wall against a \"zombie border siege,\" was taken down and its page now returns a 404 error. The Tetris Company clarified it had no role in creating the game and warned that it takes copyright infringement seriously. While \"Build the Wall\" is gone, another game called \"Rio Run\" remains on the site, featuring a white male character deporting immigrant characters.",
+      "key_points": [
+        "White House removed \"Build the Wall\" after the Tetris Company complained about copyright infringement and racist themes.",
+        "The game closely mimicked Tetris gameplay, prompting criticism and a 404 error after removal.",
+        "The Tetris Company clarified it had no involvement and emphasized its stance on copyright.",
+        "A separate game, \"Rio Run,\" still remains on the White House website.",
+        ""
+      ],
+      "topics": [
+        "white house",
+        "tetris",
+        "copyright",
+        "racism",
+        "gaming"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 23:23:23 +0000",
+      "processed_at": "2026-09-09T01:06:11.780297+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-hackers-are-stealing-claude-tokens-from-subscribers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "title": "Hackers are stealing Claude tokens from subscribers | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "A hacker stole Claude tokens from users’ accounts, prompting Anthropic to suspend and refund affected customers. The theft was traced to a compromised Claude session key that allowed unauthorized OAuth tokens to be minted, and the malware used was a common infostealer that steals login sessions. Because Anthropic’s support only tracks total usage, many users went months unaware of the theft, leading to significant business disruption and prompting some to cancel their subscriptions. After a two‑week reinstatement, users like Grant De Swardt switched to alternatives such as Cursor, citing the lack of itemized usage tools and slow support as key concerns.",
+      "key_points": [
+        "Anthropic suspended accounts and issued refunds after discovering token theft via compromised session keys.",
+        "The theft was enabled by infostealer malware that stole login sessions, not by Claude itself.",
+        "Users could not detect the theft for months due to lack of itemized usage data.",
+        "Affected users are moving to other AI platforms like Cursor because of support and transparency issues."
+      ],
+      "topics": [
+        "anthropic",
+        "claude",
+        "token theft",
+        "malware",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 21:10:27 +0000",
+      "processed_at": "2026-09-09T01:06:12.195897+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Google Cloud and Accenture have launched a joint unit, the Accenture Gemini Enterprise Business Group, to deploy up to 1,000 forward‑deployed engineers (FDEs) who will help enterprises build custom AI applications on Google’s Gemini Enterprise platform. The partnership is part of Google’s broader strategy to accelerate enterprise AI adoption and close the gap with rivals such as OpenAI, Anthropic, Microsoft and Amazon, who have also created dedicated FDE units. Despite generating $24.8 billion in Q",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "processed_at": "2026-09-09T01:06:12.416296+00:00"
+    },
     {
       "id": "h-com-2026-09-08-cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
@@ -2230,70 +2297,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 15:45:51 +0000",
       "processed_at": "2026-09-02T07:42:21.341270+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-microsoft-365-outage-drags-on-but-things-are-improving",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748-e1697104507888.jpg?resize=1200,676",
-      "title": "Microsoft 365 outage drags on, but things are improving | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Microsoft is on day two of a multi-day outage that has disrupted Outlook email and several Microsoft 365 services after an Exchange Online authentication misconfiguration. The company says mitigations have gradually restored mail flow and search for many users, but services are not yet fully recovered and it has entered extended monitoring.",
-      "key_points": [
-        "Exchange Online authentication misconfiguration affected Outlook, SharePoint, Teams and other Microsoft 365 services",
-        "Microsoft reports gradual recovery after mitigations and is in an extended monitoring phase"
-      ],
-      "topics": [
-        "microsoft",
-        "outage",
-        "microsoft 365"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 15:23:15 +0000",
-      "processed_at": "2026-09-02T07:42:34.929444+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-fambot-introduces-an-ai-chief-of-staff-for-families",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801",
-      "title": "Fambot introduces an 'AI chief of staff' for families | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Fambot, founded by Greg Karlin, David Reich and Jason Morrow, is offering an “AI chief of staff” for families that connects email, calendar and WhatsApp to produce daily checklists and proactively surface upcoming family logistics. The startup tested with over 1,000 families, raised $3.5 million in pre-seed funding led by NextView Ventures and Baukunst, and is in free beta on iOS, Android and the web while using models that do not train on user data.",
-      "key_points": [
-        "integrates email, calendar and WhatsApp to create daily family to-dos",
-        "$3.5M pre-seed raised; tested by 1,000+ families and free in beta"
-      ],
-      "topics": [
-        "ai",
-        "parenting",
-        "startups",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 15:10:58 +0000",
-      "processed_at": "2026-09-02T07:42:47.795549+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pigeon-flock-2289958923.jpg?resize=1200,800",
-      "title": "Florida and Texas move to block Flock cameras over privacy concerns | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Florida and Texas are moving to end their relationships with surveillance company Flock amid reports of misuse, data privacy concerns and accuracy problems. Florida’s Department of Transportation ordered license-plate readers removed statewide within 30 days, and Texas directed agencies to stop funding Flock after abuses including an indictment of a Lufkin officer on 100 felony counts; Flock operates about 130,000 readers in the U.S.",
-      "key_points": [
-        "Florida DOT ordered statewide removal of Flock license-plate readers within 30 days",
-        "Texas halted state funding for Flock following reports of abuse and a Lufkin officer indictment"
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "law-enforcement"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 15:00:10 +0000",
-      "processed_at": "2026-09-02T07:43:01.618438+00:00"
     }
   ]
 }
