@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-09T16:13:38.717989+00:00",
+  "updated_at": "2026-09-09T19:23:45.755328+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-09-the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687",
+      "title": "The hinge for Apple's new foldable phone was built with AI | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Apple’s first foldable phone, the Duo, features a hinge that was designed and built with the help of AI and 3D printing, according to chief hardware officer Johny Srouji. During manufacturing, AI algorithms match each hinge to its housing, a confocal laser scans every unit, and up to 25 micro‑layers of custom photopolymer are 3D‑printed to eliminate residual waviness. The Duo also sports a custom nano‑texture finish that reduces glare and a multi‑layer lamination strategy aimed at boosting durability, though long‑term performance remains to be seen.",
+      "key_points": [
+        "Apple’s Duo foldable phone hinge was designed using AI algorithms to match each hinge to its housing.",
+        "Apple uses 3D printing to create up to 25 micro‑layers of custom photopolymer, reducing residual waviness.",
+        "The phone features a custom nano‑texture finish and multi‑layer lamination to improve durability.",
+        "Durability over long‑term use remains untested."
+      ],
+      "topics": [
+        "apple",
+        "foldable",
+        "ai",
+        "hardware",
+        "durability"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 19:21:48 +0000",
+      "processed_at": "2026-09-09T19:23:38.015265+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-harvey-hits-15-5b-valuation-months-after-reaching-11b",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
+      "title": "Harvey hits $15.5B valuation, months after reaching $11B | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Harvey, a legal AI startup, raised $550 million in a new round that values the company at $15.5 billion, nearly doubling its valuation in nine months. The round was co‑led by Diffusion and Lightspeed Venture Partners and follows earlier $200 million and $8 billion‑valuation rounds in March and December, respectively. With the fresh capital, Harvey has raised over $1.55 billion in total and is positioning itself as a leader in the legal sector by offering its own open‑weight model, Harvey Tenet, and encouraging customers to post‑train their own models. The move underscores the growing appetite for specialized AI firms that can compete with large‑scale labs while serving niche industries.",
+      "key_points": [
+        "Harvey secured $550 million, pushing its valuation to $15.5 billion, a near 40% increase from March’s $11 billion valuation.",
+        "The funding round was co‑led by Diffusion and Lightspeed Venture Partners, following multiple priced rounds since 2023.",
+        "Harvey is expanding its product line with the in‑house model Harvey Tenet and promoting customer‑trained open‑weight models, positioning itself as a legal‑AI alternative to OpenAI and Anthropic."
+      ],
+      "topics": [
+        "legal ai",
+        "venture capital",
+        "startup funding",
+        "ai models",
+        "law tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 18:34:24 +0000",
+      "processed_at": "2026-09-09T19:23:26.851254+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-7.03.40-AM.png?w=458",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign? | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Ramp’s latest spending data shows a 10% drop in AI spend per employee among the top 1% of AI‑using firms, falling to $7,205 in August, a decline that may reflect both vacation‑related token usage and lower token prices. Token costs have fallen from $1.15 to $0.68 per million tokens after price cuts by OpenAI and Anthropic, but the labs have not yet compensated with higher volume, raising concerns for their revenue models. Adoption of newer, more powerful models remains low, with only 6.4% of AI‑spending businesses using model‑serving or inference platforms, suggesting a slowdown that could threaten the growth expectations of frontier labs and hyperscalers. The data, while possibly skewed by Ramp’s tech‑savvy clientele, could signal a warning sign for the AI ecosystem if the trend persists.",
+      "key_points": [
+        "AI spend per employee fell 10% to $7,205 among the top 1% of firms in August",
+        "Token costs dropped from $1.15 to $0.68 per million tokens after price cuts",
+        "Adoption of newer, high‑performance models remains low, threatening revenue for frontier labs",
+        "Only 6.4% of AI‑spending businesses used model‑serving platforms in August"
+      ],
+      "topics": [
+        "ai",
+        "spending",
+        "adoption",
+        "pricing",
+        "hyperscalers"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 14:18:34 +0000",
+      "processed_at": "2026-09-09T19:23:15.125240+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Besxar-Team.jpg?resize=1200,900",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, is building an orbital semiconductor factory by using SpaceX’s Falcon 9 booster for multiple flights. The company’s first two \"fabships\" flew on a July Starlink mission, surviving launch and producing wafer samples that were cleaner than terrestrial counterparts, proving the concept works in vacuum. Besxar plans to iterate over the next two years, eventually scaling up to larger fabs on a vehicle like Starship and supplying advanced chips for data centers, robots, and electric vehicles. The venture has raised almost $14 million, including a $9 million seed round led by Dauntless Ventures and Overture VC, and it competes with other space‑based semiconductor firms such as United Semiconductors and Space Forge.\n",
+      "key_points": [
+        "Besxar is using SpaceX’s Falcon 9 booster to prototype orbital semiconductor fabships.",
+        "The first two fabships flew on a July Starlink mission and produced cleaner wafers than terrestrial samples.",
+        "The company plans to scale up to larger fabs on Starship and supply advanced chips for data centers, robots, and EVs.",
+        "Besxar has raised almost $14 million, including a $9 million seed round led by Dauntless Ventures and Overture VC."
+      ],
+      "topics": [
+        "semiconductors",
+        "space manufacturing",
+        "spacex",
+        "rocket",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 12:30:00 +0000",
+      "processed_at": "2026-09-09T19:23:15.162002+00:00"
+    },
     {
       "id": "https-techcrunch-com-video-superintelligence-is-coming-should-we-let-it",
       "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
@@ -2236,91 +2335,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 20:53:05 +0000",
       "processed_at": "2026-09-02T07:39:50.112568+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "title": "X says attackers are targeting user accounts after the launch of X Money | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Following the launch of X Money, attackers have been mass-triggering password reset requests against X accounts, prompting many unsolicited reset emails reported by users. X product engineer Mridul Singhai said the company is investigating and has found no evidence of successful breaches so far, while general counsel James Burnham warned of legal action and users were urged to enable two-factor authentication.",
-      "key_points": [
-        "Mass password-reset requests targeted X users after X Money launched",
-        "X says investigation shows no evidence of breaches so far and advises enabling two-factor authentication"
-      ],
-      "topics": [
-        "x",
-        "security",
-        "x money"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 20:48:32 +0000",
-      "processed_at": "2026-09-02T07:40:04.230374+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.jpg?resize=1200,800",
-      "title": "John Ternus hypes 'huge launch next week' in first memo as Apple CEO | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "John Ternus has taken over as Apple CEO, succeeding Tim Cook who led the company for 15 years. In his first memo he signaled a major launch next week ahead of Apple’s September 9 iPhone event, which is widely expected to unveil a foldable iPhone and a broader rollout of upgraded Siri AI.",
-      "key_points": [
-        "John Ternus named Apple CEO, succeeding Tim Cook after 15 years",
-        "Apple’s September 9 iPhone event is expected to feature a foldable iPhone and expanded Siri AI rollout"
-      ],
-      "topics": [
-        "apple",
-        "john ternus",
-        "iphone",
-        "siri"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 19:45:28 +0000",
-      "processed_at": "2026-09-02T07:40:16.608860+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-anthropics-new-fable-release-is-cheaper-less-restrictive",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-      "title": "Anthropic's new Fable release is cheaper, less restrictive | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Anthropic released Fable 5.1 and Mythos 5.1, twin versions of its latest AI model; Fable 5.1 is available on cloud platforms and via Anthropic’s API while Mythos 5.1 is limited to registered cybersecurity and life-sciences partners. The update reduces token costs and false-positive safeguards, introduces zero data retention with an Enterprise Frontier Safeguards option rolling out in the fall, and set new benchmark records including Terminal-Bench 4.0 and Humanity’s Last Exam.",
-      "key_points": [
-        "Fable 5.1 is publicly available; Mythos 5.1 is restricted to registered cybersecurity and life-sciences partners.",
-        "Anthropic adds zero data retention and will offer Enterprise Frontier Safeguards in the fall, while stating it never trains on enterprise data without permission."
-      ],
-      "topics": [
-        "anthropic",
-        "ai",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "processed_at": "2026-09-02T07:40:35.138408+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Josh-Kushner.jpg?resize=1200,817",
-      "title": "Thrive's Kushner defends involvement in FIFA mess, hires Elon's go-to lawyer | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Thrive Capital founder Josh Kushner defended the firm’s involvement in a collapsed plan to create FIFA Forward Enterprise, saying the proposal sought to distribute World Cup commercial revenues more evenly but that Thrive would not have joined had it anticipated the political fallout. UEFA is pursuing legal action tied to Gianni Infantino and has sought court orders for Thrive to produce valuation models and deal documents; Thrive has hired Quinn Emanuel partner Alex Spiro to represent it.",
-      "key_points": [
-        "Thrive agreed to lead a potential $4.2 billion secondary share purchase representing 20% of FIFA Forward Enterprise at a $20 billion valuation",
-        "Thrive retained Alex Spiro of Quinn Emanuel amid UEFA’s bid to compel documents in its case involving Gianni Infantino"
-      ],
-      "topics": [
-        "fifa",
-        "venture-capital",
-        "legal"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 19:30:24 +0000",
-      "processed_at": "2026-09-02T07:40:44.783333+00:00"
     }
   ]
 }

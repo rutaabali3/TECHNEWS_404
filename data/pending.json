@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-09-09T16:13:14.752240+00:00",
+  "updated_at": "2026-09-09T19:23:13.802953+00:00",
   "items": [
     {
       "title": "Viral AI assistant Instinct now has its own email address",
       "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
       "feed_excerpt": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       "published": "Wed, 09 Sep 2026 15:13:12 +0000"
-    },
-    {
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "feed_excerpt": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
-      "published": "Wed, 09 Sep 2026 14:18:34 +0000"
     },
     {
       "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
@@ -32,17 +26,65 @@
       "published": "Wed, 09 Sep 2026 13:00:00 +0000"
     },
     {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "feed_excerpt": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]",
-      "published": "Wed, 09 Sep 2026 12:30:00 +0000"
-    },
-    {
       "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
       "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
       "feed_excerpt": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
       "published": "Wed, 09 Sep 2026 12:05:34 +0000"
+    },
+    {
+      "title": "Apple Watch’s new feature listens to your chats and recaps them",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+      "feed_excerpt": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+      "published": "Wed, 09 Sep 2026 19:08:59 +0000"
+    },
+    {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "feed_excerpt": "The update uses Apple Intelligence to make better sense of your health data.",
+      "published": "Wed, 09 Sep 2026 18:16:29 +0000"
+    },
+    {
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+      "feed_excerpt": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+      "published": "Wed, 09 Sep 2026 18:08:46 +0000"
+    },
+    {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "feed_excerpt": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "published": "Wed, 09 Sep 2026 18:08:35 +0000"
+    },
+    {
+      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+      "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+      "feed_excerpt": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+      "published": "Wed, 09 Sep 2026 18:06:40 +0000"
+    },
+    {
+      "title": "Apple unveils its first foldable, the iPhone Duo",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+      "feed_excerpt": "Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid […]",
+      "published": "Wed, 09 Sep 2026 17:58:14 +0000"
+    },
+    {
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "feed_excerpt": "The company also argued that its on-device models offer consumers more privacy.",
+      "published": "Wed, 09 Sep 2026 17:36:05 +0000"
+    },
+    {
+      "title": "Apple launches iPhone 18 Pro with upgraded camera",
+      "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+      "feed_excerpt": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+      "published": "Wed, 09 Sep 2026 17:26:05 +0000"
+    },
+    {
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "feed_excerpt": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust […]",
+      "published": "Wed, 09 Sep 2026 16:44:21 +0000"
     }
   ],
-  "last_processed_at": "2026-09-09T16:13:34.427060+00:00"
+  "last_processed_at": "2026-09-09T19:23:38.015347+00:00"
 }
