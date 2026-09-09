@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-09T01:06:12.416677+00:00",
+  "updated_at": "2026-09-09T06:29:24.189985+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-08-google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Fusionality, a Lausanne‑based startup founded by Google DeepMind alumni Federico Felici and Jonas Buchli, has raised a $3.7 million pre‑seed round to build modular control systems and simulation tools for fusion reactors. The company aims to standardize the common 80 % of control‑system logic used across magnetic‑confinement fusion plants, allowing startups to fine‑tune the remaining 20 % for their specific designs. By combining physics‑based models with machine‑learning interfaces, Fusionality plans to accelerate the deployment of fusion power for the grid. The funding will support a small team as it develops a “Lego‑block” suite of technologies that can be expanded to other fusion approaches.",
+      "key_points": [
+        "Founded by DeepMind alumni and raised $3.7 million pre‑seed",
+        "Focuses on modular control systems that standardize 80 % of fusion reactor logic",
+        "Uses AI to complement, not replace, control systems",
+        "Aims to accelerate fusion power deployment for the grid"
+      ],
+      "topics": [
+        "fusion",
+        "startups",
+        "deepmind",
+        "ai",
+        "energy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 06:00:00 +0000",
+      "processed_at": "2026-09-09T06:29:23.255089+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-08-cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
+      "title": "CloudNC raises $20M to automate manufacturing's most pressing bottlenecks | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "CloudNC, a UK‑based manufacturing software startup, closed a $20 million B‑round that brings its total funding to $128 million, according to CEO Theo Saville. The company’s AI‑powered CAM Assist plugs into existing CAM tools such as Autodesk Fusion and Mastercam to automatically select tools, approach directions, feeds and speeds, drafting CNC code that machinists can review and approve. With over 1,000 machine shops already using the product—80 % of them in the U.S.—the new capital will accelerate adoption, expand into new markets and support the launch of Quote Agent, a tool that helps shops estimate project cost and risk quickly. The round was led by Nimble Ventures and included Calculus Venture Capital, Entrepreneur First and Lockheed Martin’s LM Capital, underscoring investor confidence in AI‑driven manufacturing solutions.",
+      "key_points": [
+        "CloudNC raised $20 million in a B‑round, raising its total capital to $128 million",
+        "Its CAM Assist software automates tool selection, approach, feeds and speeds, drafting CNC code for machinists to approve",
+        "The company plans to launch Quote Agent to help shops quote projects faster and assess risk",
+        "Investors include Nimble Ventures, Calculus Venture Capital, Entrepreneur First and LM Capital"
+      ],
+      "topics": [
+        "manufacturing",
+        "ai",
+        "cnc",
+        "software",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 04:01:00 +0000",
+      "processed_at": "2026-09-09T06:29:24.189679+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-08-white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
@@ -2254,49 +2304,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 15:57:23 +0000",
       "processed_at": "2026-09-02T07:41:59.827871+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/update-me-when.jpeg?resize=1200,675",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon on Tuesday added a feature called 'Update Me When' to Alexa for Shopping that sends personalized notifications when new products, releases, or events might prompt a purchase. The company also emphasized other Alexa shopping AI tools such as price tracking with discount alerts and an option to automatically buy items when conditions are met.",
-      "key_points": [
-        "'Update Me When' sends personalized notifications for new products, releases, or events.",
-        "Alexa can track prices, send discount alerts, and optionally auto-purchase items."
-      ],
-      "topics": [
-        "amazon",
-        "alexa",
-        "shopping",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 15:51:55 +0000",
-      "processed_at": "2026-09-02T07:42:10.056578+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "AI security startup AIR, founded by Yair Saban and Niv Hoffman, came out of stealth after raising $50 million in two seed rounds ($10M led by Sequoia and $40M led by Greenoaks) to monitor the emerging software supply chain for AI agents. Its platform discovers agents across enterprise environments, continuously vets and enforces whitelists for skills and add-ons (filtering about 27% of add-ons), and serves more than 20 customers with particular traction in financial services and pharmaceuticals.",
-      "key_points": [
-        "Raised $50M across two seed rounds ($10M and $40M) led by Sequoia and Greenoaks",
-        "Platform discovers agents, vets skills/add‑ons, enforces whitelists and filters ~27% of add-ons found"
-      ],
-      "topics": [
-        "ai-security",
-        "startup-funding",
-        "enterprise-ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 15:45:51 +0000",
-      "processed_at": "2026-09-02T07:42:21.341270+00:00"
     }
   ]
 }
