@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-09-09T19:23:13.802953+00:00",
+  "updated_at": "2026-09-09T21:51:34.963605+00:00",
   "items": [
     {
       "title": "Viral AI assistant Instinct now has its own email address",
       "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
       "feed_excerpt": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       "published": "Wed, 09 Sep 2026 15:13:12 +0000"
-    },
-    {
-      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
-      "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
-      "feed_excerpt": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
-      "published": "Wed, 09 Sep 2026 13:01:00 +0000"
     },
     {
       "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
@@ -32,28 +26,10 @@
       "published": "Wed, 09 Sep 2026 12:05:34 +0000"
     },
     {
-      "title": "Apple Watch’s new feature listens to your chats and recaps them",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-      "feed_excerpt": "The Siri Recap feature is similar to other note-taking apps like Granola.",
-      "published": "Wed, 09 Sep 2026 19:08:59 +0000"
-    },
-    {
       "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
       "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
       "feed_excerpt": "The update uses Apple Intelligence to make better sense of your health data.",
       "published": "Wed, 09 Sep 2026 18:16:29 +0000"
-    },
-    {
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "feed_excerpt": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
-      "published": "Wed, 09 Sep 2026 18:08:46 +0000"
-    },
-    {
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "feed_excerpt": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "published": "Wed, 09 Sep 2026 18:08:35 +0000"
     },
     {
       "title": "Apple shows off AirPods 5 with improved active noise cancellation",
@@ -84,7 +60,37 @@
       "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
       "feed_excerpt": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust […]",
       "published": "Wed, 09 Sep 2026 16:44:21 +0000"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "feed_excerpt": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "published": "Wed, 09 Sep 2026 21:43:34 +0000"
+    },
+    {
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "feed_excerpt": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "published": "Wed, 09 Sep 2026 20:58:09 +0000"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "feed_excerpt": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "published": "Wed, 09 Sep 2026 20:24:48 +0000"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "feed_excerpt": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "published": "Wed, 09 Sep 2026 20:03:43 +0000"
+    },
+    {
+      "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+      "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+      "feed_excerpt": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+      "published": "Wed, 09 Sep 2026 19:56:18 +0000"
     }
   ],
-  "last_processed_at": "2026-09-09T19:23:38.015347+00:00"
+  "last_processed_at": "2026-09-09T21:51:48.486745+00:00"
 }

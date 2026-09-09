@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-09T19:23:45.755328+00:00",
+  "updated_at": "2026-09-09T21:51:53.882915+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-09-apple-watchs-new-feature-listens-to-your-chats-and-recaps-them",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-watch-granola.jpg?resize=1200,675",
+      "title": "Apple Watch’s new feature listens to your chats and recaps them | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple introduced Siri Recap, a meeting‑notetaking feature for the Apple Watch Series 12 and Ultra 4 that listens to ambient audio and automatically generates a title, summary, and key points. The feature can be set to always on, scheduled, or off, and Apple stresses that raw audio is not stored and recaps are end‑to‑end encrypted. Alongside Siri Recap, Apple added Shazam integration, sound‑recognition for sirens, alarms, and other loud noises, and Live Rewind, which lets users double‑press the crown to replay the last 15 seconds of conversation. While Apple touts privacy safeguards, the always‑listening nature of Siri Recap raises concerns about potential capture of sensitive information.",
+      "key_points": [
+        "Siri Recap automatically generates meeting notes from ambient audio on Apple Watch",
+        "New audio features include Shazam, sound recognition, and Live Rewind for quick recaps",
+        "Apple claims no raw audio is stored and recaps are encrypted, but privacy concerns remain",
+        "Users can control the feature’s activation schedule"
+      ],
+      "topics": [
+        "apple",
+        "watch",
+        "siri",
+        "audio intelligence",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 19:08:59 +0000",
+      "processed_at": "2026-09-09T21:51:48.486645+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-09-09-apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675",
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Apple unveiled the Apple Watch Series 12 and Ultra 4 at its iPhone launch event, offering no major hardware changes but adding AI‑driven audio features such as Live Rewind, Siri Recap, and Sound Recognition. The watches also feature an upgraded health‑sensing system that captures heart‑rate data every five seconds, provides readiness scores, and introduces a Health Age metric. The Series 12 starts at $399 and the Ultra 4 at $499, and Apple emphasizes that the new audio intelligence does not create or store recordings.",
+      "key_points": [
+        "Apple adds AI‑powered audio features like Live Rewind and Siri Recap to its new watches",
+        "Health sensors now record heart rate every five seconds and offer readiness and Health Age metrics",
+        "Series 12 and Ultra 4 retain existing hardware design and are priced at $399 and $499 respectively",
+        "The audio intelligence features do not store or create audio recordings"
+      ],
+      "topics": [
+        "apple",
+        "smartwatch",
+        "ai",
+        "healthtech",
+        "wearables"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 18:08:46 +0000",
+      "processed_at": "2026-09-09T21:51:36.563452+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Apple unveiled the Apple Reference Image feature at its Surprise and Shine event, allowing iPhone 18 Pro users to verify that a photo has not been altered by comparing a signed sensor‑captured reference image with any edited version. The reference image, described as a digital negative, is stored in Apple’s Private Cloud Compute and can be accessed in the Photos app, with APIs soon to be available for third‑party developers. In addition to this authenticity tool, Apple announced a variable‑aperture 48‑megapixel fusion main camera that uses six laser‑cut blades and a custom rotor mechanism to give photographers finer control over light, especially in low‑light conditions. The company also pledged support for the SynthID standard to help users detect AI‑generated or altered images.",
+      "key_points": [
+        "Apple introduces Apple Reference Image to prove iPhone photos are authentic using signed sensor data",
+        "The feature creates an unalterable image viewable in Photos and will be exposed via APIs for developers",
+        "iPhone 18 Pro adds a variable‑aperture 48‑MP fusion main camera with laser‑cut blades for better low‑light control",
+        "Apple supports the SynthID standard to identify AI‑generated or altered images"
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "photography",
+        "ai",
+        "camera"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 18:08:35 +0000",
+      "processed_at": "2026-09-09T21:51:36.245813+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674",
+      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "A bipartisan group of U.S. lawmakers has asked the Commerce Department to add three Indian hack‑for‑hire firms—BellTroX, CyberRoot, and Sunkissed Organic Farms (formerly Appin)—to its entity list, effectively banning U.S. businesses from transacting with them. The firms are accused of targeting Americans, stealing data, manipulating litigation, and using foreign courts to silence reporting on their activities. The lawmakers argue that the companies’ actions undermine constitutional rights and that sanctions would cut off access to critical technology such as software licenses and cloud infrastructure. The request follows extensive investigative reporting that links the firms to state‑backed operations and a history of aggressive censorship campaigns.",
+      "key_points": [
+        "Lawmakers urge Commerce Department to add BellTroX, CyberRoot, and Sunkissed Organic Farms to the entity list.",
+        "The firms are accused of long‑term cyberattacks, data theft, and using foreign courts to suppress reporting.",
+        "Potential sanctions would bar U.S. companies from accessing software licenses and cloud infrastructure."
+      ],
+      "topics": [
+        "hack-for-hire",
+        "cybersecurity",
+        "sanctions",
+        "foreign courts",
+        "lawmakers"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 13:01:00 +0000",
+      "processed_at": "2026-09-09T21:51:36.350521+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-09-the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687",
@@ -2250,91 +2349,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 01 Sep 2026 23:00:00 +0000",
       "processed_at": "2026-09-02T07:50:55.588497+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-apple-follows-google-in-adopting-trumps-lake-america-name",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/apple-maps-lake-america.png?w=1108",
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Apple updated Apple Maps to display Lake Ontario as \"Lake America\" for users in the United States, following Google and an executive order signed by President Trump on August 27. MapQuest refused to rename the lake and its iOS app climbed to No. 1 in U.S. App Store downloads as users sought alternatives.",
-      "key_points": [
-        "Apple Maps shows \"Lake America\" to U.S. users after Trump’s August 27 executive order",
-        "MapQuest refused the rename and its iOS app reached No. 1 in U.S. App Store downloads"
-      ],
-      "topics": [
-        "apple",
-        "maps",
-        "geopolitics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 22:13:34 +0000",
-      "processed_at": "2026-09-02T07:51:03.850703+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
-      "title": "AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "AfterQuery, an AI training-data startup, raised a financing that values it at $3.2 billion — just five months after its April Series A of $30 million at a $300 million valuation, a more-than-10x increase. Y Combinator partner Gustaf Alströmer called it the accelerator’s fastest path to unicorn; the San Francisco company reported a $100 million annualized run rate in April, counts Nvidia, Legora and Motif Technologies as customers, and trains models by encoding professional practitioners’ decision-making.",
-      "key_points": [
-        "Valued at $3.2 billion, up from a $300 million valuation after a $30M Series A in April",
-        "Reported $100 million annualized run rate in April; customers include Nvidia, Legora, Motif Technologies"
-      ],
-      "topics": [
-        "ai",
-        "training-data",
-        "y-combinator"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "processed_at": "2026-09-02T07:39:30.139866+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "title": "OpenAI's Astra model is on the way — and very good at breaking into computer systems | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI says its forthcoming Astra model meets its critical cybersecurity threshold and demonstrated offensive capabilities in internal tests, scoring perfectly on ExploitBench and reportedly discovering and exploiting two zero-day vulnerabilities. The company will preview Astra with selected testers, limit access to its most advanced cybersecurity features, and says it has added harness improvements, chain-of-thought monitoring, and risk-based response restrictions, though external evaluation details remain unclear.",
-      "key_points": [
-        "OpenAI says Astra scored a perfect on ExploitBench and found and exploited two zero-day vulnerabilities",
-        "OpenAI will limit advanced access, preview with selected testers, and add safeguards including chain-of-thought monitoring and account risk restrictions"
-      ],
-      "topics": [
-        "openai",
-        "cybersecurity",
-        "ai-safety",
-        "llm"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
-      "processed_at": "2026-09-02T07:39:41.650380+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-googles-android-update-tackles-motion-sickness-accessibility-and-more",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
-      "title": "Google's Android update tackles motion sickness, accessibility, and more | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Google announced five Android updates focused on accessibility, personalization, and item tracking, with several features using Gemini. Key additions include Motion Assist — a customizable bubble overlay to reduce motion sickness on Android 17 — and Guided Vision, which pairs the camera with Gemini to help blind and low-vision users on phones running Android 9 and newer.",
-      "key_points": [
-        "Motion Assist: bubble overlay to reduce motion sickness — available on Android 17",
-        "Guided Vision: camera plus Gemini assists blind and low-vision users — Android 9 and newer"
-      ],
-      "topics": [
-        "android",
-        "accessibility",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 20:53:05 +0000",
-      "processed_at": "2026-09-02T07:39:50.112568+00:00"
     }
   ]
 }
