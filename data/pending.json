@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-09T21:51:34.963605+00:00",
+  "updated_at": "2026-09-09T23:55:18.607184+00:00",
   "items": [
-    {
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "feed_excerpt": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "published": "Wed, 09 Sep 2026 15:13:12 +0000"
-    },
     {
       "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
       "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
@@ -26,22 +20,10 @@
       "published": "Wed, 09 Sep 2026 12:05:34 +0000"
     },
     {
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "feed_excerpt": "The update uses Apple Intelligence to make better sense of your health data.",
-      "published": "Wed, 09 Sep 2026 18:16:29 +0000"
-    },
-    {
       "title": "Apple shows off AirPods 5 with improved active noise cancellation",
       "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
       "feed_excerpt": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
       "published": "Wed, 09 Sep 2026 18:06:40 +0000"
-    },
-    {
-      "title": "Apple unveils its first foldable, the iPhone Duo",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "feed_excerpt": "Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid […]",
-      "published": "Wed, 09 Sep 2026 17:58:14 +0000"
     },
     {
       "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
       "feed_excerpt": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
       "published": "Wed, 09 Sep 2026 17:26:05 +0000"
-    },
-    {
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "feed_excerpt": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust […]",
-      "published": "Wed, 09 Sep 2026 16:44:21 +0000"
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -90,7 +66,19 @@
       "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
       "feed_excerpt": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
       "published": "Wed, 09 Sep 2026 19:56:18 +0000"
+    },
+    {
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "feed_excerpt": "Mullenweg said in a company Slack message that it was against his will.",
+      "published": "Wed, 09 Sep 2026 23:14:29 +0000"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "feed_excerpt": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "published": "Wed, 09 Sep 2026 22:25:22 +0000"
     }
   ],
-  "last_processed_at": "2026-09-09T21:51:48.486745+00:00"
+  "last_processed_at": "2026-09-09T23:55:40.763992+00:00"
 }

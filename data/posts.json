@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-09T21:51:53.882915+00:00",
+  "updated_at": "2026-09-09T23:55:42.805960+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-09-apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727",
+      "title": "Apple's revamped Health app will calculate your 'health age' and readiness score | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple unveiled a redesigned Health app that leverages Apple Intelligence to provide a new Insights tab, a readiness score, and a calculation of users’ \"Health Age\" based on metrics such as VO2 max, sleep, and blood biomarkers. The update also introduces a Longevity tab that aggregates data from the Apple Watch and iPhone to assess sleep, movement, heart health, and other factors, and it can incorporate lab results through a partnership with Quest for a 50‑biomarker panel. Users receive personalized guidance, in‑depth movement assessments, and coach‑style demonstrations to help improve fitness and recovery. The refreshed app will roll out later this year in U.S. English.",
+      "key_points": [
+        "Apple Health app now includes a Health Age metric and readiness score powered by Apple Intelligence",
+        "Longevity tab aggregates sleep, movement, heart health and lab biomarkers, with a Quest partnership for a 50‑biomarker panel",
+        "The app offers personalized guidance, in‑depth movement assessments, and coach‑style demonstrations",
+        "Updates will launch later this year in U.S. English"
+      ],
+      "topics": [
+        "apple",
+        "health",
+        "biomarkers",
+        "fitness",
+        "wearables"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 18:16:29 +0000",
+      "processed_at": "2026-09-09T23:55:20.030090+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-apple-unveils-its-first-foldable-the-iphone-duo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "title": "Apple unveils its first foldable, the iPhone Duo | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple unveiled its first foldable phone, the iPhone Duo, at the Surprise and Shine event in Cupertino, marking the first marquee launch under new CEO John Ternus. The Duo features a 7.6‑inch unfolded Retina display and a 5.4‑inch outer screen, an under‑display camera, a custom nanotexture finish to hide the crease, and a grade‑5 aluminum hinge with over 100 components for smooth operation. Powered by the A20 Pro chip, the eSIM‑only device offers 48‑megapixel dual cameras, 31‑hour video playback on the inner display and 44 hours on the outer, and runs iOS 27 adapted for foldable use, with Apple Pencil support slated for later this year. Priced at $1,999 with 256 GB storage, preorders begin October 16 and the phone will ship on October 23, with analysts projecting it could capture up to 25% of the foldable market by year‑end.",
+      "key_points": [
+        "Apple’s iPhone Duo is its first foldable, featuring a 7.6‑inch unfolded screen and a 5.4‑inch outer display with an under‑display camera and a custom nanotexture crease finish",
+        "The device uses a grade‑5 aluminum hinge with over 100 special components, supports Touch ID only, and runs the new A20 Pro chip on an eSIM‑only platform",
+        "iOS 27 has been adapted for the foldable, allowing split‑screen use and vertical orientation, and Apple Pencil support will arrive later this year",
+        "The iPhone Duo is priced at $1,999, preorders start October 16, and it is expected to be available on October 23, potentially capturing up to 25% of the foldable market"
+      ],
+      "topics": [
+        "apple",
+        "foldable",
+        "iphone",
+        "technology",
+        "smartphone"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 17:58:14 +0000",
+      "processed_at": "2026-09-09T23:55:40.763913+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-doj-wants-more-answers-on-foxs-22b-roku-deal",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800",
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "The U.S. Justice Department has issued a second request for documents in the antitrust review of Fox’s $22 billion acquisition of Roku, signaling deeper scrutiny of the deal’s competitive implications.  The inquiry focuses on how Fox’s vast content library and Roku’s dominant platform could give Fox‑owned services preferential placement, leverage data for advertising, and disadvantage rival streaming services.  The investigation comes amid criticism of the DOJ’s handling of politically connected mergers, with Fox’s Murdoch family’s ties to former President Trump adding a political dimension.  The merger is still expected to close in the first half of 2027 if approved.",
+      "key_points": [
+        "DOJ issued a second request for more data on the Fox‑Roku merger, indicating heightened antitrust scrutiny.",
+        "Concerns include potential preferential treatment of Fox content on Roku’s platform and use of user data to boost advertising.",
+        "The case is politically charged due to the Murdoch family’s ties to President Trump and past DOJ criticism of similar deals.",
+        "The merger is slated to close in the first half of 2027 if cleared by regulators."
+      ],
+      "topics": [
+        "antitrust",
+        "mergers",
+        "media",
+        "streaming",
+        "politics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 16:44:21 +0000",
+      "processed_at": "2026-09-09T23:55:20.346896+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-viral-ai-assistant-instinct-now-has-its-own-email-address",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1200",
+      "title": "Viral AI assistant Instinct now has its own email address | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Instinct, the AI assistant valued at $2.5 billion, has launched its own email addresses so it can create and manage accounts on behalf of users without cluttering their inboxes. Founder Noah Shinn explained the feature lets Instinct sign up for services, contact businesses, and handle tasks that require email, such as reservations or returns, autonomously. The rollout builds on recent partnerships with 1Password for login support, Stripe for seamless payments, and a location‑sharing capability that helps Instinct find nearby businesses and plan itineraries. Users can claim an Instinct email at mail.instinct.com and forward messages to the bot to gather information and act independently.",
+      "key_points": [
+        "Instinct now has dedicated email addresses for autonomous account handling",
+        "The feature reduces user credential sharing and inbox clutter",
+        "Partnerships with 1Password, Stripe, and location sharing expand its automation scope",
+        "Users can claim or forward emails to Instinct via mail.instinct.com"
+      ],
+      "topics": [
+        "ai assistants",
+        "email integration",
+        "user privacy",
+        "automation",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 15:13:12 +0000",
+      "processed_at": "2026-09-09T23:55:25.913223+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-09-apple-watchs-new-feature-listens-to-your-chats-and-recaps-them",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-watch-granola.jpg?resize=1200,675",
@@ -2275,80 +2375,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 02 Sep 2026 15:01:23 +0000",
       "processed_at": "2026-09-02T21:57:11.791495+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800",
-      "title": "India's richest man now wants to turn aging computers into AI-ready PCs | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Reliance Jio has opened its JioPC cloud‑PC service to any internet user in India, allowing older computers to run AI‑ready workloads without hardware upgrades. Subscriptions start at ₹1,000 for two months and provide up to 16 GB of RAM and 1 TB of storage streamed from Jio’s data centers.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 16:01:48 +0000",
-      "processed_at": "2026-09-02T19:27:31.819476+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Israeli-Dutch AI startup Wonderful secured $550 million in a Series C round, pushing its valuation to $5 billion, more than double its level six months ago. The funding, led by Insight Partners with participation from existing backers and new investor Salesforce, will accelerate product development and",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "processed_at": "2026-09-02T16:15:06.533279+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-larry-pages-flying-car-company-pivotal-loses-its-ceo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633",
-      "title": "Larry Page's flying car company Pivotal loses its CEO | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Ken Karklin has left his role as CEO of Larry Page–backed Pivotal after more than four years, and board member Mike Ross has been appointed interim CEO. Pivotal, which began sales of its single-seat Helix two years ago (starting around $200,000), also operates the BlackFly platform that has logged over 10,000 flights and was used last month in an emergency response.",
-      "key_points": [
-        "Ken Karklin departed as CEO after more than four years; Mike Ross named interim CEO.",
-        "Helix sales began two years ago with a starting price around $200,000; BlackFly has flown over 10,000 times and aided a response last month."
-      ],
-      "topics": [
-        "evtol",
-        "aviation",
-        "leadership"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 23:59:59 +0000",
-      "processed_at": "2026-09-02T07:50:47.497163+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-01-reliances-jiohotstar-takes-its-streaming-empire-global-without-sports",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675",
-      "title": "Reliance's JioHotstar takes its streaming empire global — without sports | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Reliance Industries’ JioHotstar is expanding outside India for the first time, replacing Hotstar in the U.K., Canada, and Singapore on September 2 with apps on mobile and connected TVs. The service launches with more than 160,000 hours of Indian films, TV originals and live TV channels but will not offer live sports at debut due to existing content deals.",
-      "key_points": [
-        "JioHotstar replaces Hotstar in the U.K., Canada, and Singapore on September 2",
-        "Launch includes 160,000+ hours of entertainment content but excludes live sports at debut"
-      ],
-      "topics": [
-        "streaming",
-        "international-expansion",
-        "media"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
-      "processed_at": "2026-09-02T07:50:55.588497+00:00"
     }
   ]
 }
