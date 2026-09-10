@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-10T13:25:42.229107+00:00",
+  "updated_at": "2026-09-10T17:06:40.203053+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-10-google-is-making-it-easier-to-switch-between-password-managers-on-android",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675",
+      "title": "Google is making it easier to switch between password managers on Android | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Google has introduced a new password manager switching experience on Android that eliminates the need for CSV files when migrating passwords and passkeys between apps. The feature lets users open a new manager, select import or copy, and Android automatically detects existing managers, coordinating the transfer with a simple approval step. Passkeys can also be moved, preventing the need to re‑set them and reducing exposure risk. The rollout currently supports Bitwarden, 1Password, and Dashlane, with more apps expected, and is available on Android 8 and newer.",
+      "key_points": [
+        "Google’s new Android feature lets users switch password managers without CSV files.",
+        "Passkeys can be transferred automatically, avoiding re‑setup.",
+        "Support currently includes Bitwarden, 1Password, and Dashlane, with future expansion planned."
+      ],
+      "topics": [
+        "android",
+        "password manager",
+        "security",
+        "google",
+        "passkeys"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-10T17:06:16.427382+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-the-boring-company-raises-3b-in-round-led-by-uae",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770",
+      "title": "The Boring Company raises $3B in round led by UAE | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Elon Musk’s Boring Company closed a $3 billion Series D round that values the firm at $23 billion, with the United Arab Emirates leading the investment. The funding will support the company’s plan to excavate more than 150 kilometers of tunnels in the UAE, expanding beyond its existing Las Vegas network that links hotel casinos and the convention center. Boring Company also has a 10‑mile underground loop underway in Nashville, Tennessee, as part of its broader goal to move vehicle traffic into a three‑dimensional underground network. Key investors include Andreessen Horowitz, Sequoia Capital, Human Capital, Vy Capital, and Valor Equity Partners, following a July report that the company might raise up to $4 billion.",
+      "key_points": [
+        "$3 billion Series D led by the UAE, valuing Boring Company at $23 billion",
+        "Plans to dig over 150 km of tunnels in the UAE",
+        "Existing projects include Las Vegas tunnels and a 10‑mile Nashville loop",
+        "Investors include Andreessen Horowitz, Sequoia, Human Capital, Vy Capital, and Valor Equity Partners"
+      ],
+      "topics": [
+        "boring company",
+        "funding",
+        "tunnels",
+        "transportation",
+        "uae"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 15:07:27 +0000",
+      "processed_at": "2026-09-10T17:06:24.798605+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-09-10-bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630",
+      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Bending Spoons has agreed to buy Miro for $1.36 billion in cash (equity value $1.79 billion), a dramatic 90 % drop from the $17.5 billion valuation the collaboration platform commanded in late 2021. Miro, which began as RealtimeBoard in 2011, surged to 30 million users and 4 million paying customers during the pandemic but has since slowed, now generating $600 million in annual recurring revenue and maintaining profitability. The transaction underscores a broader trend of SaaS companies being sold at lower multiples as growth decelerates and enterprises consolidate tools, while Bending Spoons continues its strategy of acquiring well‑established software firms at steep discounts.",
+      "key_points": [
+        "Bending Spoons acquires Miro for $1.36 billion cash, 90 % below its 2021 valuation",
+        "Miro’s user base grew from 5 million to 30 million in 2022, now 4 million paying users and $600 million ARR",
+        "The deal reflects a shift in SaaS multiples and post‑pandemic consolidation",
+        "Bending Spoons has a track record of buying software companies at significant discounts"
+      ],
+      "topics": [
+        "mergers and acquisitions",
+        "saas",
+        "collaboration tools",
+        "valuation",
+        "bending spoons"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 14:34:09 +0000",
+      "processed_at": "2026-09-10T17:06:16.621778+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/EthanThornton5.jpg?resize=1200,931",
+      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Defense tech startup Mach Industries closed a $600 million Series C extension round that doubled its valuation to $3.7 billion in just three months, following a $300 million Series C in June that valued the company at $1.8 billion. The new funding round was led by Ribbit Capital, Infinite Capital, Bedrock Capital and Sequoia, marking Sequoia’s first investment in a defense‑tech company. Mach, which designs unmanned military vehicles, vertical‑takeoff drones, long‑range strike systems and counter‑drone solutions, has broadened its capabilities by acquiring rocket‑motor startup Exquadrum for $50 million, creating a new business unit called Mach Energetics that produces solid‑rocket motors and energetic systems. Founded and run by 22‑year‑old Ethan Thornton, the company’s rapid growth and high‑profile investors underscore the increasing interest of Silicon Valley venture capital in defense technology.",
+      "key_points": [
+        "$600M Series C extension doubles Mach Industries’ valuation to $3.7B in three months",
+        "Investors include Ribbit Capital, Infinite Capital, Bedrock Capital and Sequoia, Sequoia’s first defense‑tech investment",
+        "Acquisition of Exquadrum for $50M launches Mach Energetics, producing solid‑rocket motors to address supply bottlenecks",
+        "Founded by 22‑year‑old Ethan Thornton, Mach exemplifies the surge of young founders in defense tech"
+      ],
+      "topics": [
+        "defense",
+        "startup",
+        "valuation",
+        "drones",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-10T17:06:16.383456+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2266663070.jpg?resize=1200,800",
+      "title": "European founders and VCs urge lawmakers 'to get EU Inc right' | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "European founders and venture capitalists have issued an open letter urging EU lawmakers to preserve the core features of the EU Inc proposal, a draft corporate statute that would allow companies to incorporate under a single EU-wide framework similar to the Delaware C Corp. The letter, signed by high‑profile VCs such as Sonali De Rycker, Michael Moritz and Niklas Zennström, and founders of unicorns like Synthesia and ElevenLabs, warns that diluting key provisions could render the legislation ineffective and stifle cross‑border entrepreneurship. EU Inc supporters argue that a robust, unified company form would reduce regulatory friction, unlock investment and spur a new wave of European startups. Negotiations are still underway with the European Parliament and Council, and the letter arrives just 100 days before the EU’s winter recess, highlighting the urgency of the issue.",
+      "key_points": [
+        "EU Inc seeks a single EU‑wide company statute akin to the Delaware C Corp",
+        "The open letter, signed by prominent VCs and founders, warns that weakening the proposal could make it unusable",
+        "Preserving central features such as a single registry and clear stock‑option taxation is deemed essential",
+        "Negotiations with the European Parliament and Council are ongoing, with 100 days left before winter recess"
+      ],
+      "topics": [
+        "europe",
+        "startup",
+        "corporate law",
+        "venture capital",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 12:25:08 +0000",
+      "processed_at": "2026-09-10T17:06:16.517138+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-09-apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
@@ -2317,134 +2441,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 02 Sep 2026 22:24:09 +0000",
       "processed_at": "2026-09-04T01:12:04.538311+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-volunteer-at-techcrunch-founder-summit-in-boston",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54571034038_4825307406_k.jpg?resize=1200,800",
-      "title": "Volunteer at TechCrunch Founder Summit in Boston | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is calling for volunteers for its rebranded Founder Summit in Boston, scheduled for November 4, 2024. Volunteers will receive a behind‑the‑scenes look at event production, a ticket to the summit, and a free pass to Disrupt 2027, along with the chance to attend workshops on user growth, funding, and branding. The event expects about 1,100 attendees and offers roles ranging from registration and speaker coordination to attendee direction and ticket scanning. Applications must be submitted by October 19, and spots are limited.",
-      "key_points": [
-        "TechCrunch Founder Summit in Boston on Nov 4, 2024 is seeking volunteers for a variety of event‑support roles.",
-        "Volunteers receive a summit ticket, a free pass to Disrupt 2027, and access to expert workshops.",
-        "Tasks include registration, speaker wrangling, attendee direction, ticket scanning, and general setup.",
-        "Applications close on Oct 19 and volunteer spots are limited.”]",
-        "topics",
-        ":",
-        [
-          "tech events",
-          "volunteering",
-          "startup community",
-          "ai sustainability",
-          "boston"
-        ]
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-04T01:12:05.485629+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-      "title": "TikTok comments are getting more interactive with voice comments, polls, and more | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "TikTok is expanding its comment sections with new interactive features, including voice comments, polls, photo carousel comments, and Live Photo comments. Voice comments can be up to one minute long and will roll out globally over the next month to users 18 and older, while polls are now available worldwide and let creators add up to five options with a set time frame. Photo carousel comments allow up to nine images in a single comment, and Live Photo comments provide a brief motion preview before the full image. These additions aim to deepen engagement by turning comment threads into more dynamic, interactive spaces.",
-      "key_points": [
-        "TikTok is adding voice comments, polls, photo carousel, and Live Photo comments to its comment sections",
-        "Voice comments can be up to one minute long and will be available globally to users 18+ over the next month",
-        "Creators can add polls with up to five options and view results directly in the comment thread",
-        "Photo carousel comments support up to nine photos per comment and Live Photo comments offer a motion preview"
-      ],
-      "topics": [
-        "tiktok",
-        "socialmedia",
-        "features",
-        "engagement",
-        "voicecomments"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-04T01:12:11.499575+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-09-02-the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
-      "title": "Builders Stage agenda revealed for Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, offering founders, operators, and investors a focused forum on scaling companies and navigating growth challenges. The agenda features high-profile speakers such as Grant Lee of Gamma, Leah Solivan of Precedent.vc, and Robby Stein of Google, who will discuss fundraising, hiring, go‑to‑market strategy, AI, and operational decisions. Sessions cover topics from competing in an AI‑obsessed market to winning pre‑seed without a product, and from M&A as an early‑stage strategy to the changing nature of AI talent. The event will take place at Moscone Center in San Francisco on October 13‑15, with more speakers and sessions to be announced as the date approaches.",
-      "key_points": [
-        "Builders Stage focuses on practical strategies for scaling startups, covering fundraising, hiring, and product decisions",
-        "The lineup includes leaders from Gamma, Precedent.vc, Google, and major VC firms, providing diverse perspectives on AI, talent, and M&A",
-        "Sessions address current challenges such as AI competition, pre‑seed credibility, and the evolving definition of early teams",
-        "The event is scheduled for October 13‑15 at Moscone Center, with early ticket discounts available before price increases"
-      ],
-      "topics": [
-        "tech events",
-        "startups",
-        "venture capital",
-        "ai",
-        "product management"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "processed_at": "2026-09-03T23:04:59.913375+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Palo Alto Networks has agreed to pay $500 million in cash and stock to acquire the two‑year‑old AI‑powered help desk startup Console, which automates routine IT support tasks using agentic AI. The deal, announced on Tuesday, will see Console’s technology integrated into Palo Alto’s Cortex platform, giving security teams natural‑language interfaces to investigate and resolve alerts autonomously. Investors such as SV Angel, Abstract Ventures, and CEO Nikesh Arora saw a rapid return on their early stakes, while the acquisition underscores Palo Alto’s aggressive push into AI‑driven IT service management. With this purchase, Palo Alto becomes the seventh company it has acquired in 2026, positioning it as a major player in the emerging AI‑automation space.\n",
-      "key_points": [
-        "Palo Alto Networks paid $500 million to acquire the AI help‑desk startup Console.",
-        "Console’s agentic AI will be integrated into Palo Alto’s Cortex platform for autonomous security workflows.",
-        "Early investors, including SV Angel and CEO Nikesh Arora, realized a rapid return on their stakes.",
-        "The acquisition strengthens Palo Alto’s position in AI‑driven IT service management, leaving Serval as the category leader.\n"
-      ],
-      "topics": [
-        "cybersecurity",
-        "ai",
-        "acquisition",
-        "startup",
-        "palo alto networks"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
-      "processed_at": "2026-09-03T23:05:13.869604+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "OpenAI’s new Astra model introduces a reasoning technique called \"recurrent depth\" or \"opaque recurrence,\" which lets the model loop over a query instead of following a linear chain of thought, making its internal reasoning harder to trace. The move has alarmed AI safety experts such as Buck Shlegeris, Zvi Mowshowitz, and Ryan Greenblatt, who warn that scaling this technique could destroy the ability to monitor model behavior and increase misalignment risks. OpenAI insists that Astra’s chain of thought remains legible and that it is committed to extensive monitoring systems, while other labs like Anthropic and DeepMind are already discussing the approach. The debate highlights the tension between advancing model capabilities and maintaining safety oversight in the rapidly evolving AI landscape.",
-      "key_points": [
-        "Astra’s opaque recurrence reduces traceability of the model’s reasoning steps.",
-        "Safety experts fear loss of chain‑of‑thought monitorability could enable misaligned behavior.",
-        "OpenAI maintains that Astra’s chain of thought remains legible and commits to monitoring.",
-        "Other AI labs are also exploring opaque recurrence, raising broader industry concerns."
-      ],
-      "topics": [
-        "ai safety",
-        "chain of thought",
-        "openai",
-        "opaque recurrence",
-        "ai ethics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "processed_at": "2026-09-03T23:04:49.740252+00:00"
     }
   ]
 }

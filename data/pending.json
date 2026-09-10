@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:25:27.327359+00:00",
+  "updated_at": "2026-09-10T17:06:14.982756+00:00",
   "items": [
     {
       "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
@@ -8,23 +8,35 @@
       "published": "Wed, 09 Sep 2026 23:14:29 +0000"
     },
     {
-      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-      "url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-      "feed_excerpt": "The buzzy startup raised $600 million in its Series C round.",
-      "published": "Thu, 10 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
-      "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-      "feed_excerpt": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered down.",
-      "published": "Thu, 10 Sep 2026 12:25:08 +0000"
-    },
-    {
       "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
       "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
       "feed_excerpt": "Tern has described its tech as \"Google Maps for the battlefield.\"",
       "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+      "feed_excerpt": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+      "published": "Thu, 10 Sep 2026 16:31:25 +0000"
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "feed_excerpt": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "published": "Thu, 10 Sep 2026 14:53:50 +0000"
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "feed_excerpt": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "published": "Thu, 10 Sep 2026 14:17:37 +0000"
+    },
+    {
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+      "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "feed_excerpt": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+      "published": "Thu, 10 Sep 2026 13:34:01 +0000"
     }
   ],
-  "last_processed_at": "2026-09-10T13:25:39.038161+00:00"
+  "last_processed_at": "2026-09-10T17:06:24.798698+00:00"
 }
