@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-09T23:55:42.805960+00:00",
+  "updated_at": "2026-09-10T03:54:44.431091+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-09-massachusetts-hits-data-centers-with-new-clean-power-rules",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
+      "title": "Massachusetts hits data centers with new clean power rules | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Massachusetts has issued an executive order that forces data centers larger than 25 MW to supply 100% of their electricity from clean sources or contribute to a ratepayer protection fund. The governor also paused the state’s recent data‑center sales‑tax exemption to give regulators time to implement the new rule. This move follows similar restrictions in Texas and New York and signals a shift from incentives to stricter environmental requirements for the AI‑driven industry. Tech firms are responding with political advertising aimed at voters in key states ahead of the midterms.",
+      "key_points": [
+        "MA mandates 100% clean power for data centers over 25 MW or a fund contribution",
+        "The sales‑tax exemption for data centers is temporarily suspended",
+        "The order follows Texas and New York’s tighter data‑center rules",
+        "Tech companies are countering with voter‑targeted ads"
+      ],
+      "topics": [
+        "data centers",
+        "clean energy",
+        "state regulation",
+        "ai industry",
+        "public policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "processed_at": "2026-09-10T03:54:27.365332+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-apple-shows-off-airpods-5-with-improved-active-noise-cancellation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198",
+      "title": "Apple shows off AirPods 5 with improved active noise cancellation | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Apple unveiled the AirPods 5 at its Surprise and Shine event, announcing a 50% improvement in active noise cancellation that the company calls industry‑best. The new earbuds add stem‑based volume control, hands‑free Siri with context‑aware responses, and an upgraded Transparency mode that adapts to the environment. Battery life now reaches five hours with ANC on a single charge and 22 hours total with the charging case. The base model starts at $129, the wireless‑charging version at $149, with preorders beginning today and shipping slated for September 18.",
+      "key_points": [
+        "AirPods 5 deliver 50% better active noise cancellation, touted as industry‑leading",
+        "Stem volume control and context‑aware Siri upgrades bring new convenience",
+        "Battery life extended to 5h with ANC and 22h total with case",
+        "Pricing starts at $129, $149 with wireless charging, preorders open now"
+      ],
+      "topics": [
+        "apple",
+        "airpods",
+        "noise cancellation",
+        "siri",
+        "battery"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 18:06:40 +0000",
+      "processed_at": "2026-09-10T03:54:13.687540+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple’s new CEO John Ternus announced at the Surprise and Shine event that the iPhone is already the best AI device and will remain the company’s central AI hub, emphasizing on‑device processing and privacy over new hardware. He described the ideal AI device as an intelligent personal hub that understands context, runs models locally, and seamlessly integrates with other Apple services. Ternus highlighted that Apple’s approach to AI will prioritize user data control, contrasting with competitors that collect and store personal data. The remarks signal Apple’s strategy to compete in the AI era without launching new AI‑specific devices.",
+      "key_points": [
+        "Apple positions the iPhone as its primary AI platform, avoiding new hardware",
+        "On‑device AI processing and privacy are core to Apple’s strategy",
+        "John Ternus has taken over from Tim Cook as CEO",
+        "Apple will not introduce new AI‑specific devices at this time"
+      ],
+      "topics": [
+        "apple",
+        "ai",
+        "privacy",
+        "iphone",
+        "leadership"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 17:36:05 +0000",
+      "processed_at": "2026-09-10T03:54:13.623015+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-09-apple-launches-iphone-18-pro-with-upgraded-camera",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675",
+      "title": "Apple launches iPhone 18 Pro with upgraded camera | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max at its fall Surprise and Shine event, spotlighting a new 48‑megapixel camera with variable aperture and advanced pro controls that promise better low‑light performance and faster shooting. The devices run Apple’s A20 Pro chip, featuring a vapor‑chamber cooling system and an improved battery that supports 36‑hour video playback on the Pro and 45 hours on the Pro Max. A new Siri AI with contextual on‑screen intelligence launches in English beta alongside iOS 27, with additional language support slated for October, and the phones introduce a slimmer Dynamic Island that tracks three live activities. Priced at $1,199 for the Pro and $1,299 for the Pro Max, the models will be available for preorder on Saturday and ship on September 18.",
+      "key_points": [
+        "48‑megapixel camera with variable aperture and new pro controls",
+        "A20 Pro silicon with vapor‑chamber cooling and extended battery life",
+        "Siri AI launches in English beta with iOS 27, expanding to other languages in October",
+        "Prices are $1,199 and $1,299, $100 higher than last year’s models"
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "camera",
+        "ai",
+        "pricing"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 17:26:05 +0000",
+      "processed_at": "2026-09-10T03:54:13.774851+00:00"
+    },
+    {
+      "id": "echcrunch-com-2026-09-09-suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Suno has launched a new model family, Suno v6, that is trained exclusively on licensed music from labels such as Warner Music Group, BMG, and Believe, in an effort to address ongoing copyright lawsuits. The lineup includes a base model for reliable, steerable outputs, an experimental \"wild\" version for ideation, and a faster \"mini\" version available to all users, with plans to retire older models. Suno also announced new features that allow users to edit songs, remix tracks, and use text, images, or video as creative prompts, while pledging to add watermarks and stricter download limits to curb misuse. Despite these steps, the company remains embroiled in legal disputes with Sony, Universal Music Group, and artists like Jason Isbell, and has admitted to training earlier models on YouTube videos.",
+      "key_points": [
+        "Suno’s Suno v6 is trained on licensed music to mitigate copyright claims",
+        "The new lineup offers base, wild, and mini models with varied use cases",
+        "Suno plans revenue‑generating features such as remixing and artist opt‑in programs",
+        "The company still faces lawsuits from major labels and artists"
+      ],
+      "topics": [
+        "ai music",
+        "copyright",
+        "startup",
+        "music industry",
+        "legal"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 12:05:34 +0000",
+      "processed_at": "2026-09-10T03:54:13.760908+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-09-apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727",
@@ -2295,86 +2420,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 02 Sep 2026 12:14:35 +0000",
       "processed_at": "2026-09-03T17:37:47.072668+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-adobe-is-making-its-tools-available-in-slack",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
-      "title": "Adobe is making its tools available in Slack | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Adobe announced that its suite of more than 70 creative and productivity apps, including Firefly, Photoshop and Acrobat, can now be accessed through Slack’s AI chatbot,",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 13:09:27 +0000",
-      "processed_at": "2026-09-03T14:15:02.682013+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-      "title": "Norway considers ban on camera-enabled wearable 'pervert glasses' | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Norway’s digital minister Karianne Tung announced plans to regulate, and possibly ban, camera-enabled smart glasses and other wearables from companies such as",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 13:11:47 +0000",
-      "processed_at": "2026-09-03T09:31:42.986467+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-adobe-acquires-indian-market-intelligence-startup-rilo",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-      "title": "Adobe acquires Indian market intelligence startup Rilo | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Adobe has acquired Indian marketing intelligence startup Rilo, taking its six‑person team and workflow‑automation technology to strengthen its CX and marketing suite. The terms were not disclosed, and Rilo will be shut down after the deal, giving its investors an exit. This follows Adobe's earlier acquisition of Rephrase.ai in 2023.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 14:03:57 +0000",
-      "processed_at": "2026-09-03T04:53:19.257030+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-lm.jpg?resize=1200,675",
-      "title": "PSA: Amazon's shopping AI can now tell you if that message is a scam | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon has integrated an AI-powered verification feature into its Alexa for Shopping service, allowing customers to confirm whether messages claiming to be from Amazon are legitimate. The system cross‑references sender details, content and metadata against billions of past communications and will become more accurate as users report suspicious messages.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 14:56:34 +0000",
-      "processed_at": "2026-09-03T00:01:27.503367+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "AI security firm HiddenLayer announced a $100 million Series B round to accelerate its protection tools for generative AI models, agents, and toolchains. The company says its annual recurring revenue has surged into the tens of millions, fueled by new contracts with financial services, large tech firms, and U.S. defense agencies. It plans to broaden its product suite and expand into Europe as the market for AI safeguards expands rapidly.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 15:01:23 +0000",
-      "processed_at": "2026-09-02T21:57:11.791495+00:00"
     }
   ]
 }

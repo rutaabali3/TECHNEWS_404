@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:55:18.607184+00:00",
+  "updated_at": "2026-09-10T03:54:12.323008+00:00",
   "items": [
     {
       "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
@@ -12,36 +12,6 @@
       "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
       "feed_excerpt": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
       "published": "Wed, 09 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "feed_excerpt": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "published": "Wed, 09 Sep 2026 12:05:34 +0000"
-    },
-    {
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-      "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-      "feed_excerpt": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-      "published": "Wed, 09 Sep 2026 18:06:40 +0000"
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "feed_excerpt": "The company also argued that its on-device models offer consumers more privacy.",
-      "published": "Wed, 09 Sep 2026 17:36:05 +0000"
-    },
-    {
-      "title": "Apple launches iPhone 18 Pro with upgraded camera",
-      "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-      "feed_excerpt": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-      "published": "Wed, 09 Sep 2026 17:26:05 +0000"
-    },
-    {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "feed_excerpt": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "published": "Wed, 09 Sep 2026 21:43:34 +0000"
     },
     {
       "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
@@ -78,7 +48,13 @@
       "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "feed_excerpt": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "published": "Wed, 09 Sep 2026 22:25:22 +0000"
+    },
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "feed_excerpt": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "published": "Thu, 10 Sep 2026 00:00:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-09T23:55:40.763992+00:00"
+  "last_processed_at": "2026-09-10T03:54:27.365422+00:00"
 }
