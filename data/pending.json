@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-10T17:06:14.982756+00:00",
+  "updated_at": "2026-09-10T19:58:36.015030+00:00",
   "items": [
-    {
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "feed_excerpt": "Mullenweg said in a company Slack message that it was against his will.",
-      "published": "Wed, 09 Sep 2026 23:14:29 +0000"
-    },
     {
       "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
       "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
@@ -20,23 +14,35 @@
       "published": "Thu, 10 Sep 2026 16:31:25 +0000"
     },
     {
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "feed_excerpt": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "published": "Thu, 10 Sep 2026 14:53:50 +0000"
-    },
-    {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "feed_excerpt": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "published": "Thu, 10 Sep 2026 14:17:37 +0000"
-    },
-    {
       "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
       "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
       "feed_excerpt": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
       "published": "Thu, 10 Sep 2026 13:34:01 +0000"
+    },
+    {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "feed_excerpt": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "published": "Thu, 10 Sep 2026 19:50:04 +0000"
+    },
+    {
+      "title": "Amazon makes it easier to buy what you see on Prime Video",
+      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "feed_excerpt": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
+      "published": "Thu, 10 Sep 2026 18:10:36 +0000"
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "feed_excerpt": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "published": "Thu, 10 Sep 2026 17:54:44 +0000"
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "feed_excerpt": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "published": "Thu, 10 Sep 2026 17:45:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-10T17:06:24.798698+00:00"
+  "last_processed_at": "2026-09-10T19:58:49.143308+00:00"
 }
