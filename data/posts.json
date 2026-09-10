@@ -1,7 +1,108 @@
 {
-  "updated_at": "2026-09-10T08:48:59.651138+00:00",
+  "updated_at": "2026-09-10T13:25:42.229107+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-09-apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Apple CEO John Ternus announced in his first keynote that the iPhone will remain the centerpiece of the company's product strategy as it moves into the AI era. He framed the device as an \"intelligent personal hub\" and countered recent pundit claims that the smartphone is past its prime. Ternus’s approach echoes Steve Jobs’ 2001 vision of the Mac as a digital hub that would drive the next wave of consumer devices. By emphasizing the iPhone’s powerful processor, high‑resolution cameras, persistent networking, and on‑device AI, Apple positions the phone as the most capable personal computer for the coming decade.",
+      "key_points": [
+        "Ternus positions the iPhone as the core of Apple’s AI‑driven product strategy.",
+        "He echoes Steve Jobs’ 2001 strategy of using a digital hub to drive new consumer devices.",
+        "Apple counters claims that the smartphone is past its prime by highlighting the iPhone’s power and versatility.",
+        "The iPhone’s processor, cameras, networking, and on‑device AI make it the most capable personal computer for the next decade."
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "ai",
+        "leadership",
+        "strategy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 20:58:09 +0000",
+      "processed_at": "2026-09-10T13:25:29.120972+00:00"
+    },
+    {
+      "id": "9-09-everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Apple unveiled its first foldable phone, the iPhone Duo, at its fall event, debuting a 7.6‑inch inner Retina display and a 5.4‑inch outer screen, with a 48‑megapixel main camera and 48‑megapixel ultrawide camera that includes 2x optical zoom. The company also refreshed the iPhone 18 Pro line, adding a 48‑megapixel sensor with variable aperture and new Pro controls, while the Apple Watch Series 12 and Ultra 4 received AI‑driven audio features such as Live Rewind and Siri Recap. AirPods 5 were announced with stronger noise cancellation, volume control on the stem, and a 50% reduction in background noise, and Apple rolled out a redesigned Health app that leverages Apple Intelligence for personalized insights. Preorders for the Duo open October 16 with shipping on October 23, while the iPhone 18 Pro and Pro Max, Apple Watch Series 12/Ultra 4, and AirPods 5 all become available on September 18 after today’s preorders.",
+      "key_points": [
+        "Apple’s first foldable, the iPhone Duo, launches October 23 with a 7.6‑inch inner display and 48‑megapixel cameras",
+        "The iPhone 18 Pro line adds a variable‑aperture 48‑megapixel sensor and new Pro controls for better low‑light photography",
+        "Apple Watch Series 12 and Ultra 4 introduce AI audio features like Live Rewind and Siri Recap to capture conversations",
+        "AirPods 5 improve noise cancellation by 50% and add stem volume control, shipping September 18"
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "foldable",
+        "wearables",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 09 Sep 2026 20:03:43 +0000",
+      "processed_at": "2026-09-10T13:25:28.965410+00:00"
+    },
+    {
+      "id": "unch-com-2026-09-10-id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-681253878.jpg?resize=1200,788",
+      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver's licenses stolen | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "IDScan, a Louisiana‑based identity verification service, confirmed that hackers stole more than 150 million driver’s license records from its cloud systems, including full names, license numbers, passport data, and photos. The breach, first reported by cybersecurity journalist Brian Krebs, exposed sensitive information of both ordinary citizens and high‑profile figures such as U.S. Secretary of Defense Pete Hegseth. The Pentagon and the FBI are investigating, and IDScan indicated that the attackers may have demanded payment for full access to the data. The company’s notice marks its first public acknowledgment of the intrusion, and it has yet to disclose how many individuals were affected or whether a ransom was requested.",
+      "key_points": [
+        "IDScan confirmed a breach that exposed over 150 million driver’s license records, including names, license numbers, passports, and photos.",
+        "The data leak was revealed by Brian Krebs and involved high‑profile individuals, prompting investigations by the Pentagon and FBI.",
+        "IDScan’s notice suggests the attackers may have demanded payment for full access to the stolen data.",
+        "The company has not yet responded to inquiries about ransom demands or the exact number of affected individuals."
+      ],
+      "topics": [
+        "data breach",
+        "identity verification",
+        "cybersecurity",
+        "government",
+        "ransomware"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 13:21:09 +0000",
+      "processed_at": "2026-09-10T13:25:28.847645+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-snapchat-takes-aim-at-partiful-with-new-event-planning-features",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+      "title": "Snapchat takes aim at Partiful with new event-planning features | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Snapchat has unveiled Snapchat Plans, a new suite of event‑planning tools that let users create, share, and manage real‑world gatherings within the app. The feature supports invitations to up to 200 friends, RSVP options, and a My Plans hub for tracking past, present, and upcoming events. By positioning itself against competitors like Partiful and Apple’s Invites, Snapchat aims to capture Gen Z’s growing preference for dedicated event apps over generic group chats. The move signals the company’s broader strategy to expand beyond messaging and foster in‑person connections among its user base.",
+      "key_points": [
+        "Snapchat launches Snapchat Plans to organize real‑world events with invitations, RSVPs, and a My Plans dashboard",
+        "The feature allows hosts to invite up to 200 friends and manage event details in one place",
+        "Snapchat targets competitors such as Partiful and Apple’s Invites to capture Gen Z’s event‑planning market",
+        "The rollout reflects a trend toward dedicated event apps for in‑person gatherings",
+        ""
+      ],
+      "topics": [
+        "snapchat",
+        "event planning",
+        "social media",
+        "gen z",
+        "partiful"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-10T13:25:39.038085+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-09-openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
@@ -2344,106 +2445,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 02 Sep 2026 20:19:14 +0000",
       "processed_at": "2026-09-03T23:04:49.740252+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891",
-      "title": "MapQuest is now the No. 1 US app after bucking Trump's 'Lake America' renaming | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "MapQuest surged to the No. 1 spot on the U.S. App Store after it refused to rename Lake Ontario as \"Lake America\" in response to President Trump’s executive order, a move that sparked a wave of downloads and public support. Since the order on August 27, the app has been downloaded an estimated 632,000 times in the U.S. alone and over 1.5 million times across the U.S. and Canada, propelling its ranking from 128 to 1 in just a week. Users not only installed the app but also actively engaged with the company, sending feature requests and bug reports, while 56% of year‑to‑date U.S. downloads occurred between August 27 and September 1, a 123% day‑over‑day increase. The incident highlighted MapQuest’s willingness to challenge big‑tech conventions and demonstrated the impact of a small company taking a stand on a political issue.",
-      "key_points": [
-        "MapQuest’s refusal to rename Lake Ontario catapulted it to No. 1 on the U.S. App Store, with 632,000 U.S. downloads since the August 27 order.",
-        "The app’s ranking climbed from 128 to 1 in a week, and it now has over 1.5 million installs in the U.S. and Canada.",
-        "More than half of its year‑to‑date U.S. downloads happened between August 27 and September 1, a 123% day‑over‑day surge.",
-        "Users actively engaged with MapQuest, sending feature requests and bug reports, showing strong community support."
-      ],
-      "topics": [
-        "mapping",
-        "app store",
-        "political controversy",
-        "consumer activism",
-        "small tech companies"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 20:12:41 +0000",
-      "processed_at": "2026-09-03T23:04:51.850517+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-it-sure-looks-like-hackers-breached-a-major-id-card-verification-service",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hegseth-nexus-crime-e1788376444397.jpg?resize=1200,982",
-      "title": "It sure looks like hackers breached a major ID card verification service | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "An independent security journalist uncovered that IDScan, a Louisiana‑based identity verification service, was likely hacked, exposing more than 150 million U.S. and Canadian driver’s licenses and passports. The stolen data was sold on the dark‑web site Nexus, which allowed users to search for IDs and view photos, including those of high‑profile figures such as Secretary of Defense Pete Hegseth. The FBI’s New Orleans field office and the Department of Defense are investigating the breach, which is believed to be the largest single theft of identity documents in recent memory. The incident underscores the growing risk to identity‑verification companies as governments expand age‑verification requirements.",
-      "key_points": [
-        "IDScan breach exposed over 150 million U.S. and Canadian driver’s licenses and passports",
-        "Dark‑web site Nexus offered searchable database with photos, including high‑profile figures",
-        "FBI and Department of Defense are investigating the incident",
-        "It is considered the largest known single identity‑document breach in recent history"
-      ],
-      "topics": [
-        "data breach",
-        "identity verification",
-        "cybersecurity",
-        "dark web",
-        "government"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 19:35:09 +0000",
-      "processed_at": "2026-09-03T23:04:52.869817+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-02-google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "The Justice Department has pursued two antitrust suits against Google—one in 2020 over its search dominance and another in 2023 targeting its ad‑technology arm—both of which courts have ruled as illegal monopolies. In September 2025, Judge Amit Mehta denied the DOJ’s request to divest Chrome and Android, ordering Google to end exclusive default‑placement deals and share search data instead. A week later, Judge Leonie M. Brinkema confirmed that Google may keep its advertising business but must adjust its practices to favor competitors, though the specific remedies remain under seal for 14 days. Google has framed the outcome as a win, asserting that the court’s decision preserves tools that help small businesses reach customers.",
-      "key_points": [
-        "The DOJ filed two antitrust lawsuits, one in 2020 over search and another in 2023 over ad‑tech, both resulting in court rulings that Google’s practices were illegal monopolies.",
-        "Judge Amit Mehta in September 2025 rejected divestiture of Chrome and Android but required Google to end exclusive default‑placement deals and share search data.",
-        "Judge Leonie M. Brinkema allowed Google to keep its ad business but mandated adjustments to favor competitors, with specific remedies still sealed.",
-        "Google publicly welcomed the rulings, claiming they protect tools that help small businesses reach new customers."
-      ],
-      "topics": [
-        "antitrust",
-        "google",
-        "adtech",
-        "search",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 21:38:34 +0000",
-      "processed_at": "2026-09-03T20:55:27.334503+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
-      "title": "Pangram's Max Spero on why AI detection is harder than 'Real or Fake' | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Pangram, a startup focused on AI detection, has raised $9 million and partnered with Substack to flag AI‑generated newsletter content. The company also launched a new AI image detection tool to help platforms and users spot synthetic media. Co‑founder and CEO Max Spero discussed the challenges of distinguishing AI‑assisted from fully AI‑generated text on TechCrunch’s Equity podcast. The conversation highlights the growing need for a “trust layer” as AI‑generated content infiltrates job applications, reviews, and insurance claims.",
-      "key_points": [
-        "Pangram secured $9 million in funding and partnered with Substack to identify AI‑generated newsletters",
-        "The startup released a new AI image detection tool to combat synthetic media",
-        "CEO Max Spero explained the difficulty of separating AI‑assisted from fully AI‑generated content",
-        "The discussion underscores the urgent need for a trust layer amid rising AI‑generated content in various domains"
-      ],
-      "topics": [
-        "ai",
-        "ai detection",
-        "startup",
-        "trust",
-        "media"
-      ],
-      "source_url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "processed_at": "2026-09-03T20:55:01.360731+00:00"
     }
   ]
 }

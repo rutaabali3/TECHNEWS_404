@@ -1,24 +1,30 @@
 {
-  "updated_at": "2026-09-10T08:48:30.575399+00:00",
+  "updated_at": "2026-09-10T13:25:27.327359+00:00",
   "items": [
-    {
-      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-      "feed_excerpt": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-      "published": "Wed, 09 Sep 2026 20:58:09 +0000"
-    },
-    {
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "feed_excerpt": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "published": "Wed, 09 Sep 2026 20:03:43 +0000"
-    },
     {
       "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
       "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
       "feed_excerpt": "Mullenweg said in a company Slack message that it was against his will.",
       "published": "Wed, 09 Sep 2026 23:14:29 +0000"
+    },
+    {
+      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+      "url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+      "feed_excerpt": "The buzzy startup raised $600 million in its Series C round.",
+      "published": "Thu, 10 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+      "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+      "feed_excerpt": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered down.",
+      "published": "Thu, 10 Sep 2026 12:25:08 +0000"
+    },
+    {
+      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+      "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+      "feed_excerpt": "Tern has described its tech as \"Google Maps for the battlefield.\"",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-10T08:48:58.692941+00:00"
+  "last_processed_at": "2026-09-10T13:25:39.038161+00:00"
 }
