@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-10T19:59:06.201313+00:00",
+  "updated_at": "2026-09-10T22:27:30.197156+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-10-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Mark Wahlberg will headline the main stage at TechCrunch Disrupt 2026, sharing how he has leveraged his Hollywood success to build a diverse portfolio that includes a production company, restaurant chain, apparel brand, and a youth foundation.  The actor will sit down with Bruce K. Lee, CEO of Keebeck Wealth Management, to discuss his transition into institutional‑level investing, especially in healthcare and wellness startups, and how he has learned to apply entrepreneurial instincts in sophisticated financial environments.  Disrupt 2026 will run from October 13‑15 in San Francisco’s Moscone West, featuring over 200 sessions and 10,000 tech leaders, and tickets are discounted by up to $200 before rates rise on September 25.  Wahlberg’s appearance underscores the event’s focus on building sustainable innovation in the AI era.",
+      "key_points": [
+        "Mark Wahlberg will speak on the main stage of TechCrunch Disrupt 2026 about his career and investing journey.",
+        "He will discuss his partnership with Bruce K. Lee and his focus on healthcare and wellness startups.",
+        "Tickets are discounted up to $200 before September 25, and the event hosts 200+ sessions for 10,000+ tech leaders.",
+        "The talk highlights how entertainment figures can transition into sophisticated business and finance roles."
+      ],
+      "topics": [
+        "tech",
+        "entertainment",
+        "investing",
+        "health",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 21:35:00 +0000",
+      "processed_at": "2026-09-10T22:27:27.698467+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI has temporarily halted new sign‑ups for its $200‑per‑month Pro plan after the launch of its new model, Astra, caused unprecedented demand that strained the company’s infrastructure. The pause was announced by product leader Thibault Sottiaux on X, who noted that the Pro tier places the most pressure on OpenAI’s systems while other plans such as API, Go, and Plus remain available. OpenAI has not yet specified how long the suspension will last, but it aims to keep service quality high for existing users. Astra, released on September 3, is positioned as a major leap in AI reasoning, coding, and computer use, fueling the surge in interest and the need for capacity adjustments.",
+      "key_points": [
+        "OpenAI has temporarily disabled new Pro plan subscriptions due to high demand for its Astra model.",
+        "Other subscription tiers, including API, Go, and Plus, continue to be available.",
+        "The duration of the pause is unknown, but the company is prioritizing service stability for current users.",
+        "Astra, launched on September 3, is marketed as a generational leap toward the AGI era."
+      ],
+      "topics": [
+        "ai",
+        "openai",
+        "subscription",
+        "infrastructure",
+        "asteramodel"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "processed_at": "2026-09-10T22:27:12.756033+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-amazon-makes-it-easier-to-buy-what-you-see-on-prime-video",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675",
+      "title": "Amazon makes it easier to buy what you see on Prime Video | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Amazon has rolled out new shopping features for Prime Video, adding a Shop tab to its X‑Ray interface and a Shop the Scene option that uses Lens to identify items in on‑screen scenes. The updates also expand the existing Shop the Show function from 1,300 to over 8,000 titles, making product recommendations more visible and easier to access. These changes aim to boost second‑screen shopping revenue and give viewers a smoother, less intrusive way to buy items related to what they’re watching. The move puts Amazon in line with competitors such as YouTube, Peacock, Roku, and Disney that are also integrating shoppable content into streaming experiences.",
+      "key_points": [
+        "Amazon adds a Shop tab to its X‑Ray interface for product discovery",
+        "Shop the Scene uses Lens to identify items in on‑screen scenes",
+        "Shop the Show expands from 1,300 to over 8,000 titles",
+        "The updates aim to boost second‑screen shopping revenue and improve user experience"
+      ],
+      "topics": [
+        "amazon",
+        "shopping",
+        "prime video",
+        "x-ray",
+        "lens"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 18:10:36 +0000",
+      "processed_at": "2026-09-10T22:27:12.743424+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675",
+      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Instagram has introduced a new feature that lets users add posts they’re tagged in directly to their main profile grid, offering a convenient way to showcase shared moments without reposting. The addition can be made from the DM notification, the post itself, or the Tagged tab, and can be removed later without affecting the original post. The move is part of Instagram’s broader effort to give users more control over their profile layout, following earlier updates like grid reordering and new editing tools. Creators and brands can also use the feature to highlight collaborative content without republishing or using the invite‑collaborators option.",
+      "key_points": [
+        "Instagram now allows users to add tagged posts to their main profile grid via DM, post, or Tagged tab.",
+        "The added post is a copy that can be removed without deleting the original, preserving the tagged post’s location.",
+        "The feature is especially useful for creators and brand campaigns to showcase collaborative content easily.",
+        "It fits into Instagram’s larger strategy of enhancing profile customization and content management tools."
+      ],
+      "topics": [
+        "instagram",
+        "social media",
+        "user experience",
+        "content creation",
+        "platform updates"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 16:31:25 +0000",
+      "processed_at": "2026-09-10T22:27:12.240530+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-us-army-places-11m-bet-on-austin-based-gps-alternative-tern",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TERN_IDPS_Offroad2-copy.jpg?resize=1200,809",
+      "title": "US Army places $11M bet on Austin-based GPS alternative Tern | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "The U.S. Army has awarded Austin‑based startup Tern an $11.26 million contract to deploy its low‑cost GPS‑alternative navigation system in military vehicles. Tern’s technology extracts vehicle‑generated data, processes it on‑board, and produces latitude/longitude without relying on satellite signals, offering resilience against jamming and a closed, hard‑to‑disrupt system. The contract comes amid growing concerns over GPS reliability in conflict zones such as Ukraine, Russia, and the Middle East, and follows U.S. military experiments with jamming that have caused operational incidents. Tern’s founders, veterans with field experience, emphasize that the solution is designed for real‑world deployment and scalability rather than laboratory proof‑of‑concept.",
+      "key_points": [
+        "U.S. Army awards $11.26M contract to Tern for GPS‑alternative navigation",
+        "Tern’s system uses vehicle diagnostics data to compute position, bypassing satellite signals",
+        "The technology offers a closed, jamming‑resistant solution for battlefield use"
+      ],
+      "topics": [
+        "gps",
+        "military",
+        "techstartups",
+        "navigation",
+        "austin"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "processed_at": "2026-09-10T22:27:12.809260+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-09-automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
@@ -2322,127 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
       "processed_at": "2026-09-04T16:00:23.072117+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-the-cybercab-is-teslas-fork-in-the-road-moment",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
-      "title": "The Cybercab is Tesla's ‘fork in the road’ moment | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Tesla is set to launch the Cybercab, a small gold two‑seater sedan that relies entirely on cameras and AI for navigation, in Austin, Texas, marking a potential turning point for the company’s long‑standing ambition to become a full‑stack AI and robotics firm. The Cybercab, which lacks a steering wheel and pedals, is designed to be cheaper and lighter than existing Tesla models, giving the automaker a cost advantage over rivals like Waymo and positioning it to scale a robotaxi network. Tesla’s history of incremental autonomy progress and recent layoffs to focus on full self‑driving underscore the significance of this launch as either a breakthrough in urban transportation or a reminder that the company remains primarily an automaker. The event also signals a shift from Tesla’s previously cautious messaging toward a more aggressive deployment strategy, with CEO Elon Musk openly endorsing the Cybercab’s potential to reshape city streets.",
-      "key_points": [
-        "Tesla will launch the Cybercab, a driverless two‑seater sedan, in Austin as a test of its robotaxi ambitions",
-        "The Cybercab’s low cost and lightweight design give Tesla a competitive edge over other autonomous vehicle providers",
-        "Tesla’s history of gradual autonomy development and recent workforce cuts highlight the company’s focus on full self‑driving",
-        "The launch marks a shift from cautious messaging to a bold move toward transforming urban transportation"
-      ],
-      "topics": [
-        "tesla",
-        "autonomous vehicles",
-        "robotaxi",
-        "electric vehicles",
-        "innovation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
-      "processed_at": "2026-09-04T11:36:35.867625+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200",
-      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Circular has announced its new Ring 3 series, which comes in a Pro and a Slim variant, both featuring an integrated NFC chip for contactless payments and on‑finger vibration alerts for alarms and reminders. The Pro model adds FDA‑cleared ECG for atrial fibrillation detection, blood pressure trend tracking, glucose monitoring, advanced sleep analysis, and 12 days of battery life, while the Slim offers core health metrics such as heart rate, HRV, SpO₂, skin temperature, and 10 days of battery life in a lighter design. Both rings are made of titanium steel, are 50‑metre water‑resistant, support wireless charging, and will be available in sizes 6‑14 in gold, rose gold, silver, and black. Pricing and preorder details will be released later, with the rings expected to ship in early 2027 amid growing competition from Oura Ring 5 and RingConn Gen 3.",
-      "key_points": [
-        "Ring 3 Pro adds FDA‑cleared ECG, BP trend, glucose tracking, and 12‑day battery life, while the Slim focuses on core health metrics and 10‑day battery life"
-      ],
-      "topics": [
-        "smart ring",
-        "contactless payments",
-        "health monitoring",
-        "wearable tech",
-        "battery life"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 16:42:54 +0000",
-      "processed_at": "2026-09-04T11:36:14.078684+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Ollie, a family‑focused AI assistant, has achieved SOC 2 compliance to demonstrate strong data‑privacy controls and signals to users that it will not harvest personal data for training. The startup runs on a subscription model, uses a cloud‑based browser to log in to users’ accounts without storing usernames or passwords, and plans future tokenization to improve convenience. With a modest $7.5 million seed round led by Khosla Ventures, Ollie positions itself against competitors like Poke, Fambot, and Instinct by prioritizing trust and privacy. The company’s CEO, Bill Lennon, stresses that building reliable, defensively harnessed AI is essential as the market for personal assistants heats up.",
-      "key_points": [
-        "Ollie achieved SOC 2 compliance to underscore its privacy‑first approach",
-        "The assistant uses a subscription model and cloud browser logins to avoid storing credentials",
-        "It raised $7.5 million in seed funding and competes with other text‑based AI assistants by emphasizing trust"
-      ],
-      "topics": [
-        "ai",
-        "privacy",
-        "startup",
-        "ai assistants",
-        "subscription"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 16:09:01 +0000",
-      "processed_at": "2026-09-04T11:36:15.092336+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-google-launches-ai-voice-features-in-gmail-docs-and-keep",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Google has rolled out Gemini-powered conversational AI features—Docs Live, Gmail Live, and Keep Live—allowing users to ask natural‑language questions, draft content, and take voice notes across its productivity suite. In Gmail Live, users can query their inboxes and receive live transcripts, while Docs Live helps generate drafts by pulling data from Gmail, Drive, chat, and the web. Keep Live turns the app into a voice‑controlled scratchpad that can assemble recipes and lists on demand. The features are currently available to Google AI Plus, Pro, and Ultra subscribers, with a planned rollout to Workplace Business customers soon.",
-      "key_points": [
-        "Google introduces Gemini‑powered AI in Gmail, Docs, and Keep for natural‑language queries and dictation",
-        "Docs Live drafts content using data from Gmail, Drive, chat, and the web",
-        "Gmail Live provides live transcripts and inbox search via AI",
-        "Features are available to Google AI Plus, Pro, and Ultra users, with Workplace rollout upcoming"
-      ],
-      "topics": [
-        "google",
-        "ai",
-        "gmail",
-        "docs",
-        "keep"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-04T11:36:16.066904+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675",
-      "title": "Google's latest AI weather model gives you no excuse to forget your umbrella | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Google DeepMind and Google Research unveiled WeatherNext 3, an AI weather model that outperforms leading competitors and traditional forecasts on the Operational WeatherBench benchmark. The model delivers 5‑km resolution, hourly predictions, and 60% better rain accuracy by training on raw satellite observations rather than processed supercomputer outputs. It will feed into Google Search, Maps, Gemini and be available on Google Cloud, promising faster, cheaper, and more granular forecasts worldwide. The advance could boost agriculture, renewable energy planning, and weather‑sensitive industries in both developed and developing regions.",
-      "key_points": [
-        "WeatherNext 3 tops existing AI and traditional models on Operational WeatherBench, beating Google, Microsoft, Nvidia, ECMWF, and the U.S. National Weather Service.",
-        "It offers 5‑km spatial resolution, hourly forecasts, and a 60% improvement in rain prediction over its predecessor.",
-        "The model uniquely ingests raw, real‑time satellite data, making it the first global AI forecast to use unformatted observations directly.",
-        "Its deployment in Google products and cloud services aims to democratize high‑accuracy weather information and support economic benefits in underserved areas."
-      ],
-      "topics": [
-        "ai",
-        "weather",
-        "deepmind",
-        "forecasting",
-        "google"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-04T11:36:20.902466+00:00"
     }
   ]
 }
