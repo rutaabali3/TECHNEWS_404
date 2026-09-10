@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-09-10T03:54:12.323008+00:00",
+  "updated_at": "2026-09-10T08:48:30.575399+00:00",
   "items": [
-    {
-      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-      "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
-      "feed_excerpt": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "feed_excerpt": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000"
-    },
     {
       "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
       "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
       "feed_excerpt": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
       "published": "Wed, 09 Sep 2026 20:58:09 +0000"
-    },
-    {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "feed_excerpt": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "published": "Wed, 09 Sep 2026 20:24:48 +0000"
     },
     {
       "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
@@ -32,29 +14,11 @@
       "published": "Wed, 09 Sep 2026 20:03:43 +0000"
     },
     {
-      "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-      "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-      "feed_excerpt": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
-      "published": "Wed, 09 Sep 2026 19:56:18 +0000"
-    },
-    {
       "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
       "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
       "feed_excerpt": "Mullenweg said in a company Slack message that it was against his will.",
       "published": "Wed, 09 Sep 2026 23:14:29 +0000"
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "feed_excerpt": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "published": "Wed, 09 Sep 2026 22:25:22 +0000"
-    },
-    {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "feed_excerpt": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "published": "Thu, 10 Sep 2026 00:00:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-10T03:54:27.365422+00:00"
+  "last_processed_at": "2026-09-10T08:48:58.692941+00:00"
 }
