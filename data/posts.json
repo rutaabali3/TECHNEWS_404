@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-10T22:27:30.197156+00:00",
+  "updated_at": "2026-09-11T00:28:22.218082+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "e-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800",
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Collaborative Fund has taken a stake in Major League Soccer’s D.C. United and its Audi Field stadium, following Thrive Capital’s recent foray into pro‑sports ownership. Thrive’s new vehicle, Thrive Eternal, already bought a stake in the San Francisco Giants and acquired the Los Angeles Lakers for a record $12.5 billion, signaling a new model of long‑term franchise ownership. Collaborative’s approach differs by treating the team as a consumer product and using the stadium as a distribution channel for its portfolio brands, such as Whoop and Olipop. The move highlights a growing trend of venture firms blending investment, marketing and infrastructure in the sports arena, expanding beyond traditional private‑equity or individual‑wealth ownership.\n",
+      "key_points": [
+        "Collaborative Fund invests in D.C. United and Audi Field, following Thrive Capital’s sports ownership trend",
+        "Thrive Capital’s Thrive Eternal vehicle bought Giants stake and Lakers for $12.5 billion, creating a new long‑term franchise ownership model",
+        "Collaborative treats the franchise as a consumer product, leveraging the stadium for portfolio brand activation",
+        "The shift reflects venture capital’s expanding role in sports, blending investment with marketing and infrastructure"
+      ],
+      "topics": [
+        "venture capital",
+        "sports ownership",
+        "pro sports",
+        "investment strategy",
+        "soccer"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 22:30:00 +0000",
+      "processed_at": "2026-09-11T00:28:06.990811+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Jensen Huang told attendees at a Goldman Sachs conference that Nvidia expects a 70% revenue growth next year, projecting about $680 billion from the current $400 billion. He highlighted the company’s deep integration across the AI ecosystem—from GPUs to data‑center infrastructure—and its strategic investments that return high margins. Despite rising competition from hyperscalers, AI labs, and new chipmakers like Cerebras, Nvidia’s sales of flagship systems—such as the 36‑CPU, 72‑GPU Grace‑Blackwell platform—are already growing 27% month‑to‑month. The CEO emphasized that Nvidia’s \"circular\" deals are risk‑managed through proven revenue contracts, underscoring confidence that the firm will maintain its AI dominance into the next fiscal year.",
+      "key_points": [
+        "Nvidia forecasts 70% revenue growth to $680 billion next year",
+        "Sales of high‑end Grace‑Blackwell systems are up 27% month‑to‑month",
+        "CEO stresses deep ecosystem integration and risk‑managed circular deals",
+        "Competition from hyperscalers and new chipmakers remains but Nvidia’s market position is strong"
+      ],
+      "topics": [
+        "nvidia",
+        "ai",
+        "gpu",
+        "revenue",
+        "chipmakers"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "processed_at": "2026-09-11T00:27:49.714359+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Anthropic released a report detailing nearly 200 million exchanges linked to distillation attacks by five separate campaigns, the largest of which was a 151 million‑exchange effort attributed to Alibaba. The attacks targeted Claude’s agentic, coding, and reasoning capabilities by tricking the model into revealing its chain‑of‑thought, a technique Anthropic normally hides. A second campaign from Moonshot AI routed requests through thousands of accounts, some allegedly linked to the Chinese military, while OpenAI has also reported similar activity from DeepSeek. The findings underscore growing competition and security concerns in the U.S. AI ecosystem as foreign labs intensify efforts to harvest model knowledge.",
+      "key_points": [
+        "Anthropic identified nearly 200 million exchanges across five distillation campaigns, with Alibaba’s effort alone accounting for 151 million exchanges",
+        "Distillation attacks extract a model’s chain‑of‑thought, enabling attackers to train smaller models on advanced reasoning skills",
+        "Moonshot AI’s campaign routed requests through thousands of accounts, some linked to the Chinese military, targeting Claude’s Opus model",
+        "The report highlights escalating security threats as foreign AI labs intensify attempts to harvest U.S. frontier model capabilities"
+      ],
+      "topics": [
+        "distillation",
+        "ai security",
+        "anthropic",
+        "alibaba",
+        "moonshot"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "processed_at": "2026-09-11T00:27:49.793935+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-10-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
@@ -2371,81 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 03 Sep 2026 19:36:29 +0000",
       "processed_at": "2026-09-04T16:00:19.959357+00:00"
-    },
-    {
-      "id": "-techcrunch-com-2026-09-03-utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?resize=1200,900",
-      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Realta Fusion announced a partnership with Madison Gas & Electric that will bring one of the first grid‑connected fusion power plants to Wisconsin, targeting a 200‑megawatt facility in the mid‑2030s. The deal includes an equity investment and gives the startup access to land, interconnection sites, engineering support and financing that would otherwise be costly. Utilities worldwide are increasingly courting fusion startups as a way to secure reliable, fossil‑fuel‑free baseload power amid growing demand from AI data centers and the intermittency of renewables. Similar agreements—such as Commonwealth Fusion Systems with Dominion Energy and Helion with Chelan County—highlight a growing trend of utilities investing in fusion to diversify their future energy mix.",
-      "key_points": [
-        "Realta Fusion secured a 200‑MW fusion plant deal and equity investment from Madison Gas & Electric",
-        "Utilities are partnering with fusion startups to gain early access to clean, 24/7 baseload power",
-        "Other notable deals include CFS with Dominion, Helion with Chelan County, Type One Energy with TVA, and Proxima Fusion with RWE",
-        "These partnerships provide startups with engineering, permitting, land and financing advantages while offering utilities a potential long‑term power source"
-      ],
-      "topics": [
-        "fusion",
-        "utilities",
-        "energy",
-        "grid",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 19:29:16 +0000",
-      "processed_at": "2026-09-04T16:00:21.180735+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Abliteration.ai has commercialized a technique that removes guardrails from open-weight AI models, offering versions of models like Z.ai’s GLM‑5.3 that can comply with harmful requests. The startup claims the service is intended for defensive work such as red‑team testing, but it has already demonstrated the ability to generate exploit code and dangerous bioweapon protocols. While the company provides a minimal moderation layer and plans to add more safeguards, it has no KYC beyond credit‑card logging and has not raised venture capital yet. Critics warn that widespread access to abliterated models could accelerate misuse, prompting calls for government regulation and stricter identity verification for GPU rentals.\n",
-      "key_points": [
-        "Abliteration.ai offers commercially hosted, guard‑rail‑removed AI models for red‑team and offensive testing.\nThe service can produce exploit code and bioweapon instructions, raising safety concerns.\nThe company has no formal KYC and relies on customer revenue, with no VC funding yet.\nExperts argue that while defenders may benefit, the risk of misuse is high and may require regulatory intervention.\n",
-        "topics",
-        ":",
-        [
-          "ai",
-          "safety",
-          "cybersecurity",
-          "open-source",
-          "policy"
-        ]
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
-      "processed_at": "2026-09-04T16:00:21.980014+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "title": "Meta is paying to peek at how you use their latest AI model | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Meta has introduced a new pricing tier for its Muse Spark model that offers an average 95% discount to users who agree to share their prompts and outputs, reducing input token costs from $1.25 to $0.10 per million and output token costs from $4.25 to $0.20 per million. The move comes after internal backlash over a company‑wide data‑collection initiative that was paused in June, highlighting the difficulty Meta faces in gathering training data for agentic tools. By monetizing data sharing, Meta hopes to lower barriers for prototyping and scaling experiments while encouraging enterprises to decide which data can be shared. The announcement follows similar price cuts from Anthropic and OpenAI, intensifying competition among frontier AI labs.",
-      "key_points": [
-        "Meta offers an average 95% discount for users who share prompts and outputs for Muse Spark",
-        "Standard input token cost $1.25 per million drops to $0.10 under the contributor model",
-        "Standard output token cost $4.25 per million drops to $0.20 under the contributor model",
-        "The pricing shift follows internal criticism of Meta’s data‑collection initiative and mirrors price cuts from Anthropic and OpenAI"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "pricing",
-        "data privacy",
-        "agentic tools"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "processed_at": "2026-09-04T16:00:23.072117+00:00"
     }
   ]
 }
