@@ -1,7 +1,48 @@
 {
-  "updated_at": "2026-09-11T14:15:10.741672+00:00",
+  "updated_at": "2026-09-11T17:50:04.292181+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-11-nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Nscale, a UK‑based AI data‑center startup, has added former OpenAI executive Fidji Simo to its board as it prepares for a fall IPO. Simo, who was OpenAI’s No. 2 executive and previously led Instacart through its 2023 IPO, brings experience scaling products used by billions of people. The board now also includes Sheryl Sandberg, Susan Decker and Nick Clegg, underscoring the company’s ambition to raise up to $3.5 billion and position itself as a major player in AI infrastructure.",
+      "key_points": [
+        "Nscale appoints former OpenAI executive Fidji Simo to its board ahead of a planned IPO",
+        "Simo’s background includes scaling OpenAI, Instacart and Meta products for billions of users",
+        "The company is seeking to raise up to $3.5 billion and is targeting a fall IPO",
+        "The board also features high‑profile tech leaders Sheryl Sandberg, Susan Decker and Nick Clegg"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "board",
+        "ipo",
+        "infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "processed_at": "2026-09-11T17:50:02.612514+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-11-matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800",
+      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he's back in control after CEO ouster | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Matt Mullenweg has posted a message to Automattic’s Slack claiming he is back in control as CEO after the board voted to oust him, a claim that has not yet been confirmed by the company. The board’s decision, made a few days earlier, placed CFO Mark Davies on a paid leave of absence and named him interim CEO, a move that Mullenweg described as a conspiracy. Mullenweg’s subsequent Slack and X posts, which include a reference to LL Cool J’s “Mama Said Knock You Out” and a self‑described “pirate” persona, have raised questions about whether he is trolling or if a genuine leadership change has occurred. Automattic has declined to comment, and the situation remains unresolved as employees report that Davies’ Slack account was deactivated and that Mullenweg has removed all Slack admins.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 15:19:00 +0000",
+      "processed_at": "2026-09-11T17:50:04.291874+00:00"
+    },
     {
       "id": "om-2026-09-11-scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider",
       "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800",
@@ -2405,47 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 04 Sep 2026 12:01:14 +0000",
       "processed_at": "2026-09-04T19:40:38.385130+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-what-will-apples-john-ternus-era-look-like",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
-      "title": "What will Apple's John Ternus era look like? | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Apple has officially entered the John Ternus era after Tim Cook stepped down as CEO this week, with the former hardware chief taking the helm. Cook will remain as Executive Chairman, concentrating on policy relationships that have recently become high‑profile, while Ternus’s first memo already promises a \"huge launch next week,\" putting the next iPhone event on his agenda before he has fully settled in. The transition raises questions about how much autonomy shareholders will grant Ternus as he navigates Apple’s next phase, and whether his background in hardware will translate into stronger software and AI initiatives. TechCrunch’s Equity podcast hosts discuss Ternus’s challenges and the broader implications for Apple’s strategy in the AI era.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "processed_at": "2026-09-04T19:35:20.362250+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-oura-files-to-go-public",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
-      "title": "Oura files to go public | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Oura, the Finnish smart‑ring maker, has filed with the SEC to go public, citing a jump in revenue from $697 million in the first nine months of 2023 to $1.2 billion in the same period of 2024. The company projects 2024 revenue of $500 million, $1 billion in 2025, and close to $2 billion this year, and is seeking a valuation of roughly $16 billion after a prior $11 billion valuation in October. Oura’s 3.6 million rings sold last year and 5 million paid members give it an 85 % 12‑month retention rate, while its large longitudinal biometric dataset fuels AI‑driven health insights. The IPO is shadowed by a proposed class‑action lawsuit alleging the rings misrepresent sleep‑tracking accuracy, a claim the company says it will defend.",
-      "key_points": [
-        "Oura filed for IPO after revenue grew from $697M to $1.2B in nine months",
-        "Company aims for ~$16B valuation, targeting $3B raise",
-        "5M paid members, 85% retention, 3.6M rings sold",
-        "Facing class‑action lawsuit over sleep‑tracking accuracy"
-      ],
-      "topics": [
-        "ipo",
-        "wearables",
-        "healthtech",
-        "ai",
-        "lawsuit"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 22:35:41 +0000",
-      "processed_at": "2026-09-04T19:03:25.141277+00:00"
     }
   ]
 }
