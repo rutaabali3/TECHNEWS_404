@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-11T20:42:21.126503+00:00",
+  "updated_at": "2026-09-11T23:04:35.860519+00:00",
   "items": [
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "published": "Fri, 11 Sep 2026 20:33:18 +0000"
-    },
     {
       "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
       "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
@@ -18,7 +12,13 @@
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "feed_excerpt": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
       "published": "Fri, 11 Sep 2026 19:35:54 +0000"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "feed_excerpt": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "published": "Fri, 11 Sep 2026 22:58:17 +0000"
     }
   ],
-  "last_processed_at": "2026-09-11T20:42:22.382750+00:00"
+  "last_processed_at": "2026-09-11T23:04:40.413036+00:00"
 }
