@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-09-11T05:06:21.623774+00:00",
+  "updated_at": "2026-09-11T09:56:42.917149+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-10-indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
+      "title": "India's Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Pocket FM, an Indian audio storytelling platform, has doubled its annualized revenue run rate to $500 million, driven largely by the adoption of generative AI that now powers 93% of its catalog and 99% of new content. The company reports that AI has cut production costs about 80‑fold, enabling it to produce 100 hours of content in a day and expand its library from 100,000 to over 770,000 audio series while boosting 12‑month revenue retention to 76%. Pocket FM’s U.S. market accounts for roughly 70% of revenue, with $85 million from ads and the rest from paid episodes, and its parent company is exploring new formats such as the AI‑produced Pocket Saga microdrama and plans to raise $100‑$120 million without an immediate IPO.",
+      "key_points": [
+        "AI now powers 93% of Pocket FM’s catalog and 99% of new content, cutting production costs 80‑fold",
+        "Revenue run rate has doubled to $500 million, with the U.S. market contributing about 70% of revenue and a 12‑month retention rate of 76%",
+        "Pocket Entertainment is expanding into new entertainment formats and seeking $100‑$120 million in funding while deferring a public listing for at least 24 months"
+      ],
+      "topics": [
+        "ai",
+        "audio",
+        "startup",
+        "revenue",
+        "content production"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 17:45:00 +0000",
+      "processed_at": "2026-09-11T09:56:35.742431+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-10-google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Google has agreed to buy 1 million carbon credits from Indian climate‑tech startup Mitti Labs through 2030, a deal that the companies say is the largest publicly announced purchase of credits generated from cutting methane emissions in rice farming. The four‑year agreement will cover about 100,000 hectares of rice farms in Karnataka, Andhra Pradesh and Telangana, paying farmers to adopt practices that reduce the duration of flooded fields and cut methane releases by roughly 50% while also saving about 40% of irrigation water. Mitti Labs’ GeoAI platform uses satellite radar imagery and field data to monitor crop growth, soil moisture and flooding, enabling the project to maintain yields while lowering emissions. The deal supports Google’s net‑zero goal by 2030 and gives Mitti Labs the scale needed to expand its technology to millions of farmers across India and beyond.",
+      "key_points": [
+        "Google will purchase 1 million carbon credits from Mitti Labs through 2030, covering 100,000 hectares of rice farms in three Indian states.",
+        "Mitti Labs’ GeoAI platform cuts methane emissions by about 50% and irrigation water use by about 40% without reducing crop yields.",
+        "The agreement is the largest publicly announced methane‑credit deal and will enable Mitti Labs to scale to millions of farmers.",
+        "Google’s net‑zero target and expanding AI infrastructure drive its investment in agricultural carbon removal."
+      ],
+      "topics": [
+        "google",
+        "carboncredits",
+        "methane",
+        "agriculture",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 10 Sep 2026 13:34:01 +0000",
+      "processed_at": "2026-09-11T09:56:42.916884+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-10-furos-founders-left-silicon-valley-and-its-paying-off",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900",
@@ -2397,56 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 03 Sep 2026 22:18:30 +0000",
       "processed_at": "2026-09-04T19:03:26.029172+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-startup-arr-is-less-secure-than-ever-new-research-shows",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
-      "title": "Startup ARR is less secure than ever, new research shows | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Madrona’s latest survey of 150 enterprise IT professionals shows that 74% plan to expand AI budgets in the next year, yet fewer than half of AI pilots ever reach full production. 77% of enterprises reevaluate their AI vendors every six months, creating a fast‑in, fast‑out cycle that undermines the long‑term annual recurring revenue (ARR) that AI startups rely on.  The research also highlights a pricing mismatch: more than half of technical buyers prefer outcome‑based fees over token‑usage models, making it harder for startups to demonstrate economic value.  These dynamics signal a shift toward continuous experimentation and a fragile revenue foundation for AI startups.",
-      "key_points": [
-        "74% of surveyed enterprises will increase AI spend, but less than 50% of pilots succeed",
-        "77% of companies reassess AI vendors every six months, eroding long‑term ARR",
-        "Outcome‑based pricing is preferred over token usage, complicating startup revenue models",
-        "The fast‑in, fast‑out cycle threatens the sustainability of AI startup growth"
-      ],
-      "topics": [
-        "enterprise ai",
-        "startup revenue",
-        "pricing models",
-        "vendor churn",
-        "ai adoption"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 20:59:23 +0000",
-      "processed_at": "2026-09-04T19:03:26.853831+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-openai-launches-astra-its-powerful-and-controversial-new-model",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "OpenAI unveiled Astra, its most powerful model yet, claiming it offers unmatched speed, accuracy, and safety. The model is initially available to Daybreak customers and will roll out to Pro, Plus, Enterprise, and Business plans as well as the API over the next week. Astra boasts advanced cybersecurity features, including zero‑day exploit detection, and is touted as the best software‑engineering model to date, outperforming Sol and Anthropic’s Fable on several benchmarks. However, the use of opaque recurrence has sparked concerns about monitorability, and OpenAI’s leaders downplayed any AGI milestone, framing the release as a mission concept rather than a contractual trigger.",
-      "key_points": [
-        "Astra is OpenAI’s most powerful model, emphasizing speed, accuracy, and safety",
-        "It includes advanced cybersecurity capabilities such as zero‑day exploit detection and excels in coding benchmarks",
-        "The model’s use of opaque recurrence raises monitorability concerns",
-        "OpenAI leaders dismiss an AGI claim, describing the release as a mission concept"
-      ],
-      "topics": [
-        "ai",
-        "openai",
-        "cybersecurity",
-        "alignment",
-        "agi"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "processed_at": "2026-09-04T19:03:23.972162+00:00"
     }
   ]
 }
