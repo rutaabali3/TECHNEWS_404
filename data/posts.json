@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-11T09:56:42.917149+00:00",
+  "updated_at": "2026-09-11T14:15:10.741672+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "om-2026-09-11-scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800",
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Trezor has warned its customers again that a cyberattack on Brevo, a marketing‑tech partner, exposed the data of roughly 347,000 wallet owners to a mass phishing campaign. The attackers sent emails that appeared to come from Trezor, containing a link that downloaded an app asking for the user’s wallet backup password, which could allow irreversible theft of funds on the public blockchain. This incident follows a prior breach at ShipMonk that exposed the personal data of at least 81,000 Trezor buyers, raising concerns about targeted violence and “wrench” attacks. Trezor says its own products and account system were not compromised and is reevaluating its vendor relationships while warning that customer email addresses may be used again for phishing.\n",
+      "key_points": [
+        "Brevo’s breach enabled 347,000 phishing emails to Trezor customers, each with a malicious link designed to harvest wallet backup passwords.",
+        "Hackers exploited a flaw that granted them broad access to Brevo accounts, allowing them to send mass phishing messages to any reachable organization.",
+        "A prior breach at ShipMonk exposed the personal data of at least 81,000 Trezor buyers, heightening the risk of targeted physical attacks on crypto owners.",
+        "Trezor’s products and account system were not affected, but the company is reviewing vendor relationships and cautions that customer emails may be reused for future phishing.\n"
+      ],
+      "topics": [
+        "crypto",
+        "data breach",
+        "phishing",
+        "hardware wallet",
+        "third‑party security"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 13:32:54 +0000",
+      "processed_at": "2026-09-11T14:15:10.741480+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-10-indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
@@ -2421,31 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 03 Sep 2026 22:35:41 +0000",
       "processed_at": "2026-09-04T19:03:25.141277+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-03-tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Tesla has released a public interest form inviting businesses to buy or operate Cybercab fleets, signaling a shift from its previous in‑house robotaxi strategy. The form offers several options, including fleet purchase, infrastructure support, event collaboration, and other partnership models. This move indicates Tesla’s intent to scale its autonomous ride‑sharing network by partnering with third‑party operators. By opening the door to external fleets, Tesla aims to accelerate market penetration and attract new players such as Moove, Avomo, and traditional rental companies.",
-      "key_points": [
-        "Tesla opens a form for third‑party Cybercab fleet operators",
-        "Options include fleet purchase, infrastructure, event collaboration, and other partnerships",
-        "The initiative marks a shift from Tesla’s sole in‑house robotaxi model",
-        "It could speed market adoption and attract new operators"
-      ],
-      "topics": [
-        "tesla",
-        "robotaxi",
-        "autonomous vehicles",
-        "fleet management",
-        "partnerships"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 03 Sep 2026 22:18:30 +0000",
-      "processed_at": "2026-09-04T19:03:26.029172+00:00"
     }
   ]
 }
