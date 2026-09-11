@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-11T17:50:04.292181+00:00",
+  "updated_at": "2026-09-11T20:42:43.725260+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-11-roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Roblox announced a suite of new tools that make game creation easier and more accessible, including the expansion of its generative‑AI Build feature from New Zealand to Serbia and Singapore and the addition of desktop support, a new asset library, and iterative control. The company is also enabling creators to publish games as standalone apps on mobile, PC, and consoles, with in‑browser play via a link expected by year‑end, while adding offline mode and enhanced NPC playtesting. In addition to creative tools, Roblox is launching a Roblox Wallet and a future Roblox Card to give creators instant payouts and spendable earnings, partnering with Airwallex for U.S. users. These moves signal Roblox’s shift from merely attracting players to empowering developers to build, monetize, and distribute games across platforms.\n",
+      "key_points": [
+        "Build AI game creation is now available in Serbia and Singapore and will soon support desktop and prompt‑based scene generation",
+        "Creators can publish games as separate apps on mobile, PC, consoles, and in‑browser links by year‑end",
+        "Roblox Wallet offers real‑money payouts daily and transfers to bank accounts, with a Roblox Card planned for 2025",
+        "New NPC features include playtesting bots and offline mode to improve gameplay experience"
+      ],
+      "topics": [
+        "roblox",
+        "ai",
+        "gaming",
+        "developer tools",
+        "financial services"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "processed_at": "2026-09-11T20:42:22.237781+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-11-central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675",
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Cerberus, WeGlobal AI, and LOOQ were named the top three winners of the Central Eurasia Road to TechCrunch Startup Battlefield 2026, earning spots at TechCrunch Disrupt 2026 in San Francisco. The competition drew 726 applications from 39 countries, a 50% increase over 2025, and 84% of the entrants were AI‑focused startups. All three champions—an AI cybersecurity agent, a student mental‑health platform, and an attention‑measuring hardware—will showcase their products to a global audience of more than 10,000 tech leaders. The results underscore Central Eurasia’s growing AI ecosystem and its emerging role on the world stage.",
+      "key_points": [
+        "726 applications from 39 countries, 84% AI‑focused",
+        "Winners: Cerberus (cybersecurity), WeGlobal AI (student mental health), LOOQ (ad attention)",
+        "All three will compete at TechCrunch Disrupt 2026 in San Francisco",
+        "Highlights Central Eurasia’s expanding AI startup ecosystem"
+      ],
+      "topics": [
+        "startup",
+        "ai",
+        "techcrunch",
+        "eurasia",
+        "disrupt"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 18:58:01 +0000",
+      "processed_at": "2026-09-11T20:42:22.382652+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-11-nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
@@ -2396,56 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 04 Sep 2026 14:47:20 +0000",
       "processed_at": "2026-09-04T19:40:09.880102+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-04-less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675",
-      "title": "Less than 24 hours to apply for your Disrupt 2026 Side Event | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging last‑minute applicants to submit proposals for Side Events at Disrupt 2026, with the deadline at midnight PT today. The conference, running Oct. 10-16 in San Francisco, will feature major AI players like OpenAI, Anthropic, and Replit across six industry stages and offers a 25% discount on tickets. Hosting a Side Event lets brands host meetups, panels, or workshops and connect with the 10,000+ founders, investors, and tech leaders attending. Those who apply will have their proposals reviewed by the TechCrunch events team, but acceptance is not guaranteed and all logistics remain the host’s responsibility.",
-      "key_points": [
-        "Applications for Disrupt 2026 Side Events close at midnight PT today.",
-        "The conference will run Oct. 10-16 in San Francisco and feature AI leaders such as OpenAI, Anthropic, and Replit.",
-        "Approved Side Events can host meetups, panels, or workshops and are fully organized by the host.",
-        "Ticket discounts of up to 25% are available until September 25."
-      ],
-      "topics": [
-        "tech conferences",
-        "side events",
-        "disrupt",
-        "ai",
-        "ticket discounts"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-04T19:40:22.211343+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-04-feds-launch-investigation-into-teslas-cybercab-deployment",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-      "title": "Feds launch investigation into Tesla's Cybercab deployment | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Tesla’s newly deployed Cybercab, a driverless vehicle that operates without a steering wheel or pedals. Tesla claimed it had self‑certified the Cybercab as compliant with all Federal Motor Vehicle Safety Standards, but NHTSA is scrutinizing the data and assumptions that underlie that certification. The probe echoes a 2022 inquiry into Amazon‑owned Zoox’s robotaxi, and comes as the Department of Transportation considers loosening manual‑control requirements for autonomous cars. The outcome could shape how quickly Tesla and other automakers bring fully autonomous rides to market.",
-      "key_points": [
-        "NHTSA has launched a probe into Tesla’s Cybercab after the company self‑certified its compliance with FMVSS.",
-        "The Cybercab lacks traditional controls, mirroring the design of Zoox’s robotaxi, which faced a similar regulatory review in 2022.",
-        "The investigation will examine Tesla’s certification data and the applicability of federal motor standards to the vehicle.",
-        "Regulatory changes are underway to potentially remove manual‑control requirements for autonomous vehicles, but existing standards remain in force until updates are finalized."
-      ],
-      "topics": [
-        "tesla",
-        "nhtsa",
-        "autonomous vehicles",
-        "regulation",
-        "cybercab"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 12:01:14 +0000",
-      "processed_at": "2026-09-04T19:40:38.385130+00:00"
     }
   ]
 }
