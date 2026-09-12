@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-11T23:04:54.632207+00:00",
+  "updated_at": "2026-09-12T01:24:17.257284+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Mecka AI, a startup that gathers human motion data to train humanoid robots, is close to securing a Sequoia‑led funding round that would value the company at roughly $500 million. The new financing follows a $60 million raise led by Framework Ventures just three months earlier, and the deal could still change as terms are finalized. Mecka’s founders, none of whom have robotics experience, identified a shortage of real‑world data as the main barrier to general‑purpose robots and built a platform that pays people to record everyday tasks with sensors and smartphones. The company projects an annual run rate of $100 million by the end of 2026, positioning it as a key player in the growing market for robot training data.\n",
+      "key_points": [
+        "Sequoia Capital is leading a near $500 million valuation round for Mecka AI.",
+        "Mecka collects egocentric human motion data to address the data bottleneck in humanoid robot training.",
+        "The founders come from fintech and crypto backgrounds, not robotics, yet they identified a critical need for real‑world data.",
+        "Mecka previously raised $60 million and aims for a $100 million annual run rate by 2026."
+      ],
+      "topics": [
+        "robotics",
+        "ai",
+        "startup",
+        "funding",
+        "data"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "processed_at": "2026-09-12T01:24:16.900730+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-11-final-final-final-call-for-techcrunch-disrupt-2026-side-events",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800",
+      "title": "Disrupt 2026 Side Event final deadline is tonight | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 is closing the final window for official Side Event applications at 11:59 p.m. PT on September 11, offering organizers a chance to host a focused gathering that can turn connections into deals and deepen relationships with founders, investors, and partners. Side Events can be promoted across TechCrunch’s agenda, app, newsletters, and social channels, and participants receive a 25% discount on Disrupt tickets, making the event part of a larger experience. The conference will feature industry leaders such as OpenAI, Anthropic, and Replit across six stages, while regular ticket pricing ends on September 25, after which prices rise.",
+      "key_points": [
+        "Final deadline for Side Event applications is tonight, September 11 at 11:59 p.m. PT",
+        "Side Events provide networking, brand exposure, and a 25% ticket discount for attendees",
+        "Disrupt 2026 will showcase major AI companies on six industry stages",
+        "Regular ticket pricing ends September 25, after which prices increase"
+      ],
+      "topics": [
+        "techcrunch",
+        "disrupt",
+        "side event",
+        "ai",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 20:30:17 +0000",
+      "processed_at": "2026-09-12T01:24:16.904940+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-11-kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Moonshot AI, a leading Chinese AI lab, is aiming for $2 billion in annual revenue by year‑end, doubling its August run‑rate, driven by the K3 open‑weight model. Despite a slight dip in usage, K3 still powers up to 300 billion tokens daily on OpenRouter, showing strong demand for open‑weight models. The target is modest compared to OpenAI’s $40 billion and Anthropic’s $65 billion, reflecting lower margins from free weights. The company faces legal scrutiny after Anthropic alleged a massive distillation campaign that siphoned millions of responses from Claude Opus for training.",
+      "key_points": [
+        "Moonshot AI targets $2 billion annual revenue, double its August run‑rate.",
+        "K3 model generates ~300 billion tokens daily on OpenRouter.",
+        "Open‑weight models still generate revenue but with lower margins than closed‑weight rivals.",
+        "Anthropic accuses Moonshot of a large distillation campaign using Claude Opus data."
+      ],
+      "topics": [
+        "ai",
+        "open-source",
+        "business",
+        "legal",
+        "china"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 11 Sep 2026 19:35:54 +0000",
+      "processed_at": "2026-09-12T01:24:17.256828+00:00"
+    },
     {
       "id": "echcrunch-com-2026-09-11-khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
@@ -2366,84 +2441,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 04 Sep 2026 21:12:11 +0000",
       "processed_at": "2026-09-04T23:49:05.272702+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-04-judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
-      "title": "Judge blocks X rival from using Twitter name, but allows 'Tweet' for now | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "A Delaware federal court ruled that Elon Musk’s X must prevent the startup Operation Bluebird from using the name \"Twitter,\" but it allowed the use of the \"tweet\" mark and the Twitter bird logo, which the court found X had likely abandoned.  Operation Bluebird has since rebranded its site as Tweet.app, launched to the public, and reported more than 172,000 people requested handles before the launch, charging $20 to reserve one.  Judge Colm F. Connolly granted a preliminary injunction on eight Twitter‑related marks but denied it for the tweet mark and bird logo, leaving the case to determine whether X still retains rights to any of the trademarks.  The decision underscores the ongoing legal battle over brand assets as X continues to rebrand itself from Twitter to X.",
-      "key_points": [
-        "Delaware court blocks Operation Bluebird from using the name \"Twitter\" but allows use of \"tweet\" and the bird logo.",
-        "Operation Bluebird rebranded to Tweet.app, launched publicly, and attracted 172,000 handle requests, charging $20 per handle.",
-        "Judge Colm F. Connolly issued a split ruling: injunction granted on eight marks but denied for tweet and bird, leaving the case unresolved.",
-        "The case highlights the legal complexities of trademark ownership as X moves away from the Twitter brand."
-      ],
-      "topics": [
-        "trademark",
-        "social media",
-        "x",
-        "twitter",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 17:52:05 +0000",
-      "processed_at": "2026-09-04T21:41:34.232053+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-04-cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402",
-      "title": "CD sales are making an unexpected comeback amid a retro tech boom | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "The Recording Industry Association of America reported that CD sales rebounded in the first half of 2026, with revenue reaching $171.1 million and 17.5 million units sold—an increase of 58.6% and 45.7% respectively compared to the same period in 2025. This surge follows a steep decline in 2025, when CD revenue fell 7.8% year‑over‑year and units dropped 11.6%. The comeback is part of a broader retro‑tech revival, driven by Gen Z’s nostalgia for simpler, non‑smart devices and physical media, and it coincides with a 25.9% jump in overall physical‑media revenue, including a 17.7% rise in vinyl sales. The trend highlights a shift in consumer behavior that challenges the dominance of streaming platforms and suggests a growing market for tangible music formats.",
-      "key_points": [
-        "CD revenue and unit sales surged 58.6% and 45.7% in H1 2026, reversing a 2025 decline",
-        "The rebound is fueled by a retro‑tech boom and Gen Z nostalgia for non‑smart devices",
-        "Physical‑media revenue grew 25.9% overall, with vinyl sales up 17.7%",
-        "RIAA’s 2025 method change means revenue figures aren’t directly comparable, but unit sales confirm the trend"
-      ],
-      "topics": [
-        "cds",
-        "physical media",
-        "retro tech",
-        "gen z",
-        "music industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-04T21:41:33.122252+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-04-googles-gemini-spark-can-now-manage-your-google-photos-library",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "title": "Google's Gemini Spark can now manage your Google Photos library | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has added new AI capabilities to its Gemini Spark personal agent, allowing it to manage users’ Google Photos libraries. The feature lets users edit images, curate albums, create shared albums automatically, turn concert flyer photos into calendar events, and run photo‑related workflows. It will roll out over the next few weeks to Gemini AI Pro and Ultra subscribers in the U.S. who speak English, with no announced international availability yet. The move reflects Google’s broader strategy of embedding AI into everyday consumer tools to simplify tedious tasks, though critics note such incremental updates may not fully deliver on AI’s promised transformative impact.",
-      "key_points": [
-        "Gemini Spark can now execute a range of tasks in Google Photos, from editing to automated album creation.",
-        "The feature will be released over the next weeks to Gemini AI Pro and Ultra U.S. subscribers in English.",
-        "Google is using AI to make photo library management easier, fitting into its broader consumer‑AI strategy.",
-        "No international rollout has been announced, so the update is currently limited to U.S. users.”]",
-        "topics",
-        ":",
-        [
-          "google",
-          "gemini",
-          "google photos",
-          "ai",
-          "productivity"
-        ]
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "processed_at": "2026-09-04T19:41:37.176386+00:00"
     }
   ]
 }
