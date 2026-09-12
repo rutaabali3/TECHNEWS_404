@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-12T19:35:08.706921+00:00",
+  "updated_at": "2026-09-12T22:01:20.224848+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-12-openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+      "title": "OpenAI’s Sam Altman says it would be 'ill-advised' to go public in 2026 | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "OpenAI CEO Sam Altman confirmed that the company will not pursue an initial public offering in 2026, citing safety concerns and market volatility. Altman said the firm will only go public when its business and societal conditions are ready, implying a likely shift to 2027 or later. The decision follows confidential IPO preparations and recent reports that OpenAI had hired bankers for a 2026 launch. The announcement underscores the company's focus on responsible AI development over rapid capital raising.",
+      "key_points": [
+        "OpenAI will not IPO in 2026",
+        "IPO likely postponed to 2027 or later",
+        "Safety concerns cited as reason",
+        "Market volatility also a factor"
+      ],
+      "topics": [
+        "openai",
+        "ipo",
+        "ai safety",
+        "tech stocks",
+        "business strategy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "processed_at": "2026-09-12T22:01:20.224651+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-12-tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1",
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
@@ -2411,31 +2436,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 05 Sep 2026 17:00:00 +0000",
       "processed_at": "2026-09-05T17:29:07.722991+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-05-oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-      "title": "Oura is going public, but these smart ring companies are coming for its crown | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Oura filed for an IPO on September 3 after reporting $1.21 billion in revenue for the nine months ended June 30 and selling 3.6 million rings, while adding 5 million paid members. The Finnish company’s move follows the launch of its slimmest Ring 5, but rivals are quickly catching up with new features such as tap‑to‑pay, haptic alerts, on‑device AI and touchpads. Companies like Circular, RingConn, Ultrahuman, Samsung and Dreame are all targeting the market with rings that blend health tracking with smartphone‑like capabilities, turning the niche into a crowded battleground. The shift signals a broader trend toward miniaturized, multifunctional wearables that blur the line between health gadgets and everyday tech.",
-      "key_points": [
-        "Oura’s IPO filing comes after doubling revenue to $1.21 billion and selling 3.6 million rings",
-        "Rivals such as Circular, RingConn, Ultrahuman, Samsung and Dreame are adding payment, haptic, AI and touchpad features",
-        "The smart‑ring market is evolving from pure health tracking to mini‑smartphone functionality",
-        "Ultrahuman raised $70 million and launched the Ring Pro to bypass Oura’s patent"
-      ],
-      "topics": [
-        "smartrings",
-        "ipo",
-        "competition",
-        "healthtech",
-        "fintech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 05 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-05T15:03:01.062035+00:00"
     }
   ]
 }
