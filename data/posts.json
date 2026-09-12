@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-12T17:23:19.693457+00:00",
+  "updated_at": "2026-09-12T19:35:08.706921+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-12-tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1 | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Tesla has announced that the long‑delayed second‑generation Roadster will be unveiled on October 1, as indicated by a simple X post featuring the date and a graphic hinting at optional cold‑gas thrusters from SpaceX. The new model follows the 2017 version, which was abandoned for a new design that will be revealed imminently. Despite the reveal, Musk has said production will not begin for another 12 to 18 months. The announcement marks a significant milestone for Tesla’s high‑performance electric sports car line.",
+      "key_points": [
+        "Tesla confirms October 1 launch for the second‑generation Roadster",
+        "The design includes optional cold‑gas thrusters developed by SpaceX",
+        "The 2017 Roadster model was abandoned for a new design",
+        "Production is expected 12–18 months after the reveal"
+      ],
+      "topics": [
+        "tesla",
+        "roadster",
+        "electric vehicles",
+        "spacex",
+        "launch"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 12 Sep 2026 19:21:19 +0000",
+      "processed_at": "2026-09-12T19:35:08.706651+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-12-anthropic-ceo-outlines-plan-to-pace-the-frontier",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
@@ -2411,31 +2436,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 05 Sep 2026 15:00:00 +0000",
       "processed_at": "2026-09-05T15:03:01.062035+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-04-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "XDOF, a robotics‑data startup that emerged from stealth less than three months ago, is in late‑stage Series B talks with a valuation of about $1.2 billion led by 8VC, according to sources. The company, founded in 2024 by UC Berkeley researchers Philipp Wu and Fred Shentu, has already raised $70 million in a Series A and is generating annualized revenue approaching $50 million, prompting new investor interest. XDOF builds data pipelines, collection tools, and annotation systems for general‑purpose robots, positioning itself as the Scale AI of physical robotics. It is partnering with UC Berkeley’s AI lab to release the ABC dataset, the largest high‑quality robot training data set yet assembled.",
-      "key_points": [
-        "XDOF is negotiating a Series B at a $1.2 billion valuation led by 8VC",
-        "The startup’s rapid growth—annualized revenue near $50 million after a $70 million Series A—has attracted new VC interest",
-        "XDOF provides outsourced data‑supply chains for robotics, similar to Scale AI for AI models",
-        "It is collaborating with UC Berkeley to launch the ABC dataset, the largest robot training data collection to date"
-      ],
-      "topics": [
-        "robotics",
-        "data",
-        "venturecapital",
-        "ai",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "processed_at": "2026-09-04T23:49:04.295543+00:00"
     }
   ]
 }
