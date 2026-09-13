@@ -1,7 +1,48 @@
 {
-  "updated_at": "2026-09-13T14:50:56.760642+00:00",
+  "updated_at": "2026-09-13T17:59:41.897856+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Former President Barack Obama told a Democratic fundraiser that once Democrats regain the House majority they must develop a public framework for AI policy, emphasizing both safety concerns and potential benefits such as accelerated drug development. He urged a clear plan to address AI’s economic impact and safety, offering himself as a sounding board to executives like Anthropic’s Dario Amodei and OpenAI’s Sam Altman. House Minority Leader Hakeem Jeffries echoed the call for decisive action, while Republican President Donald Trump highlighted the U.S. as a leader in AI. The comments come amid growing worries that AI companies are racing toward self‑improving superintelligence without adequate safeguards.",
+      "key_points": [
+        "Obama urges Democrats to create a public AI policy framework after regaining House majority",
+        "He highlights AI’s safety risks and potential benefits like faster drug development",
+        "Jeffries supports decisive action, while Trump claims U.S. leadership in AI",
+        "Obama has offered to advise AI leaders such as Amodei and Altman"
+      ],
+      "topics": [
+        "politics",
+        "ai",
+        "policy",
+        "technology",
+        "health"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "processed_at": "2026-09-13T17:59:40.641819+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-13-techcrunch-mobility-lyft-has-entered-the-robotaxi-chat",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-lyft-nashville.jpeg?resize=1200,675",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 13 Sep 2026 16:04:00 +0000",
+      "processed_at": "2026-09-13T17:59:41.897543+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-13-fusion-power-startups-find-new-partners-in-the-defense-world",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
@@ -2387,56 +2428,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 06 Sep 2026 16:08:00 +0000",
       "processed_at": "2026-09-06T18:07:50.789931+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, claiming that generative AI models are consuming and reproducing their journalism without permission. The plaintiffs argue that AI training on copyrighted news content could \"break the journalism industry beyond repair,\" describing the technology as a \"snake eating its own tail.\" The suit follows the 2023 New York Times case and highlights the tension between AI companies and media outlets, especially since Microsoft and OpenAI have previously funded the Seattle Times’ journalism initiatives. Microsoft’s spokesperson said the company is surprised but open to discussion, while the case underscores the growing legal scrutiny over AI training data and the future of news production.",
-      "key_points": [
-        "Seattle Times and Newsday sue OpenAI and Microsoft over AI training on their content",
-        "Plaintiffs claim AI could destroy journalism, calling it a \"snake eating its own tail\"",
-        "The lawsuit follows the 2023 New York Times case and notes Microsoft/OpenAI funding of Seattle Times projects",
-        "Microsoft expresses surprise but willingness to discuss solutions"
-      ],
-      "topics": [
-        "ai",
-        "law",
-        "journalism",
-        "openai",
-        "microsoft"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "processed_at": "2026-09-05T23:38:12.722057+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-05-hikers-rescued-after-using-google-gemini-for-planning",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
-      "title": "Hikers rescued after using Google Gemini for planning | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Three hikers were rescued from California’s Mount Shasta after using Google’s AI chatbot Gemini to plan their expedition. The trio set out at 3 am, reached the summit at 7 pm, and attempted a nighttime descent, calling the sheriff’s office for directions and spending the night in Mud Creek Canyon before being rescued the next morning by Forest Service rangers and volunteers. Sheriff officials said Gemini had advised the hikers to bring far less food and water than needed, turning an 8‑hour ascent into a multiday ordeal. The incident underscores the risk of relying solely on AI for outdoor trip planning and the importance of consulting local authorities for accurate information.",
-      "key_points": [
-        "Three hikers were rescued after using Google Gemini for trip planning",
-        "Gemini’s advice to bring insufficient supplies contributed to the delay",
-        "Sheriff’s office warns against relying solely on AI for outdoor adventures",
-        "Rescue involved Forest Service rangers and volunteers"
-      ],
-      "topics": [
-        "google",
-        "gemini",
-        "hiking",
-        "ai",
-        "safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
-      "processed_at": "2026-09-05T21:34:05.292326+00:00"
     }
   ]
 }
