@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-09-13T20:41:59.709809+00:00",
+  "updated_at": "2026-09-13T23:00:32.196973+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "-insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
+      "title": "Insight Partners' Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Devin Parekh, co‑chair of Insight Partners, explained at StrictlyVC why the $90 billion firm remains quietly diversified even as the VC world rushes into frontier AI labs like OpenAI and Anthropic.  He highlighted the firm’s portfolio‑driven approach—investing in founders across early‑stage, growth, and buyout rounds worldwide—while noting that high valuations and limited incremental data make early bets more attractive.  Parekh also discussed the firm’s recent loss of the AI legal‑tech deal Legora, its cautious stance on physical AI, and the importance of geographic talent diversity beyond the San Francisco AI hub.  Overall, Insight Partners prioritizes performance over hype, aiming for long‑term returns through a balanced, globally‑oriented investment mix.",
+      "key_points": [
+        "Insight Partners keeps a diversified, portfolio‑driven strategy despite heavy stakes in OpenAI and Anthropic.",
+        "Early‑stage and smaller bets are favored because current valuations offer little incremental data, making later rounds riskier.",
+        "The firm’s global talent focus means deals are sourced worldwide, though AI infrastructure remains concentrated in San Francisco.",
+        "Physical AI remains a speculative bet; Insight is watching but not yet investing heavily.",
+        "Concentration risk is mitigated by a broad fund strategy, with LPs generally preferring diversification over single‑company exposure."
+      ],
+      "topics": [
+        "venture capital",
+        "ai",
+        "investment strategy",
+        "diversification",
+        "global talent"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 13 Sep 2026 21:30:00 +0000",
+      "processed_at": "2026-09-13T23:00:32.196699+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-13-larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Oracle co‑founder Larry Ellison has withdrawn a planned sale of 50 million shares valued at roughly $7.5 billion, a move the company confirmed without providing a reason. The cancellation means no Oracle stock was sold and Ellison has no other plans to divest his holdings. Oracle’s shares have fallen about 22% since the start of the year amid heavy spending on data centers and its role as a major owner and security partner for TikTok’s U.S. operations. Ellison’s wealth has also been used to support his son David’s contested acquisition of Warner Bros., adding further complexity to the situation.",
+      "key_points": [
+        "Ellison canceled a $7.5 billion sale of 50 million Oracle shares",
+        "No other plans to sell Oracle stock have been announced",
+        "Oracle shares are down 22% year‑to‑date amid heavy data‑center investment",
+        "Ellison’s wealth backs his son’s contested Warner Bros. acquisition"
+      ],
+      "topics": [
+        "oracle",
+        "ellison",
+        "stock",
+        "tiktok",
+        "warner bros"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 13 Sep 2026 20:49:38 +0000",
+      "processed_at": "2026-09-13T23:00:31.886195+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-13-the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs",
       "image": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
@@ -2386,57 +2437,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 07 Sep 2026 15:58:00 +0000",
       "processed_at": "2026-09-07T17:42:29.770774+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-06-phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Phil Schiller, the long‑time head of Apple’s App Store, has announced he will step down from the role but will stay on as an Apple Fellow working on unspecified projects. According to Bloomberg’s Mark Gurman, Schiller’s decision is partly driven by a desire to spend more time with his family and pursue philanthropic interests. He also expressed concern that the new CEO John Ternus and services chief Eddy Cue’s plan to raise App Store margins and boost recurring revenue could heighten tensions with governments and developers. The move comes amid ongoing criticism and lawsuits over Apple’s App Store fee structure and its impact on the developer ecosystem.",
-      "key_points": [
-        "Schiller steps down as App Store head but remains an Apple Fellow",
-        "He cites family time and philanthropy as key motivations",
-        "He worries that new profit‑maximizing strategy will increase conflict with developers and regulators",
-        "Apple’s App Store fee structure has faced sustained criticism and legal challenges"
-      ],
-      "topics": [
-        "apple",
-        "app store",
-        "developer relations",
-        "tech leadership",
-        "philanthropy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 06 Sep 2026 21:41:06 +0000",
-      "processed_at": "2026-09-06T22:47:39.511194+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-06-authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Anthropic’s $1.5 billion copyright settlement will pay $3,000 for each pirated work to nearly 500,000 authors, with payments split 50‑50 with publishers if the book remains in‑print and paid in full to authors if the rights have reverted or the book is self‑published.  However, many authors have reported that publishers and even literary agents are claiming a larger share of the payouts than the settlement allows, sparking disputes on social media.  The Authors Guild and industry insiders say the problem stems largely from poor record‑keeping and a confusing settlement process, not intentional malice.  Authors can challenge allocations, but must prove that rights reversion occurred before August 10 2022, the settlement’s “download date.”",
-      "key_points": [
-        "Anthropic’s $1.5 billion settlement pays $3,000 per pirated work to nearly 500,000 authors.",
-        "Publishers and agents are claiming more than their entitled share, leading to author disputes.",
-        "Authors Guild attributes the issue to poor record‑keeping and confusing settlement terms, not deliberate wrongdoing.",
-        "Authors can dispute allocations but must prove rights reversion before Aug 10 2022.",
-        ""
-      ],
-      "topics": [
-        "anthropic",
-        "settlement",
-        "authors",
-        "publishers",
-        "agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "processed_at": "2026-09-06T22:47:38.400071+00:00"
     }
   ]
 }
