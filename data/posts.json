@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-12T22:01:20.224848+00:00",
+  "updated_at": "2026-09-13T00:09:24.122457+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-12-automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Automattic confirmed that WordPress founder Matt Mullenweg has returned to his role as chairman and CEO after a board‑initiated leave of absence that sparked a brief power struggle. The board had voted earlier this week to place Mullenweg on paid leave, appointing CFO Mark Davies as interim CEO, but Mullenweg quickly regained control and publicly announced his return. The company stated that the board fully supports him and that many top executives and employees back his leadership. The incident highlights ongoing tensions within Automattic’s governance and raises questions about board‑executive relations in tech firms.",
+      "key_points": [
+        "Mullenweg returned to CEO after board‑initiated leave",
+        "Board fully supports Mullenweg and appointed Mark Davies as interim CEO",
+        "The episode exposed internal board tensions and executive conflict",
+        "Automattic’s governance structure remains in flux"
+      ],
+      "topics": [
+        "automattic",
+        "mullenweg",
+        "board",
+        "ceo",
+        "wordpress"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 12 Sep 2026 23:25:38 +0000",
+      "processed_at": "2026-09-13T00:09:24.122223+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-12-openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
@@ -2412,30 +2437,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 05 Sep 2026 18:05:27 +0000",
       "processed_at": "2026-09-05T19:23:43.638582+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-05-cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200",
-      "title": "Clucky's new alarm app wakes you up with a crowing rooster | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Clucky is a new iPhone alarm app that wakes users with a rooster crow and forces them to complete a mission before the alarm can be dismissed. The app offers a range of wake‑up challenges—from math puzzles to physical tasks—and tracks performance with stats and a weekly “Rooster Report.” Users can also create private alarm groups called “Nests” to wake up together and hold each other accountable. Clucky is available for free on the App Store, with a pro subscription priced at $39.99 per year, and was founded by former Fanatics engineer Adrian Angelo Abelarde.",
-      "key_points": [
-        "Clucky uses a rooster crow and interactive missions to ensure users fully wake up instead of snoozing",
-        "The app includes a pro plan at $39.99/year and features social alarm groups called Nests",
-        "Founder Adrian Angelo Abelarde previously worked as a software engineer at Fanatics"
-      ],
-      "topics": [
-        "alarm app",
-        "productivity",
-        "mobile apps",
-        "subscription",
-        "social features"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 05 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-05T17:29:07.722991+00:00"
     }
   ]
 }
