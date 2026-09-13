@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-13T17:59:41.897856+00:00",
+  "updated_at": "2026-09-13T20:41:59.709809+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-13-the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Y Combinator’s latest Demo Day showcased a cohort skewed toward deep‑tech startups, prompting early‑stage VCs to highlight nine companies that stood out for their innovative solutions and solid valuation prospects. The highlighted firms range from Atomarine’s floating nuclear‑powered data centers and Dipole Labs’ optical networking hardware to Isengard’s locally produced jet drones and Lamb Labs’ hard‑coded AI inference chips. Other entries include data‑collection platforms for robot training, affordable household robots, heavy‑lift autonomous robots aimed at Mars construction, brain‑cell compute research, and an LLM‑driven robot‑control API. The consensus among investors was that, while the ideas feel “science fiction,” the valuations remain grounded and the startups have already attracted significant customer interest and revenue.",
+      "key_points": [
+        "Y Combinator’s Demo Day skewed toward deep‑tech startups",
+        "Nine startups were flagged by VCs as the most buzzworthy",
+        "The companies span floating nuclear data centers, optical networking, jet drones, custom AI chips, robot training data, affordable robots, Mars‑construction robots, brain‑cell compute, and LLM robot control",
+        "Investors noted grounded valuations and strong customer interest"
+      ],
+      "topics": [
+        "ycombinator",
+        "demo day",
+        "deep tech",
+        "startups",
+        "venture capital"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 13 Sep 2026 20:28:00 +0000",
+      "processed_at": "2026-09-13T20:41:59.338755+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-13-whats-behind-the-ai-industrys-latest-warnings-of-doom",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+      "title": "What's behind the AI industry’s latest warnings of doom? | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "The article reports that AI researcher Jacob Coxon resigned from Anthropic after expressing concerns that leading AI firms are \"gambling with our lives.\" Anthropic’s alignment lead amplified Coxon’s warning by posting that AI could kill all humans and that the chance is \">10% within the next decade.\" TechCrunch’s Equity podcast discussed whether these doomsday claims are genuine safety concerns or a marketing ploy ahead of Anthropic’s IPO, and how they might appear in the company’s S‑1 filing. The debate highlights the tension between rapid AI progress, public risk communication, and corporate disclosure obligations.",
+      "key_points": [
+        "Jacob Coxon resigned from Anthropic citing existential risk concerns",
+        "Anthropic’s alignment lead posted that AI could kill all humans with a >10% chance within a decade",
+        "TechCrunch’s Equity podcast debated whether doomsday rhetoric is genuine or a marketing tactic",
+        "The claims may influence Anthropic’s upcoming IPO filings and risk disclosures"
+      ],
+      "topics": [
+        "ai",
+        "doomsday",
+        "anthropic",
+        "ipo",
+        "ethics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "processed_at": "2026-09-13T20:41:59.709495+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
@@ -2387,47 +2437,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 06 Sep 2026 20:47:37 +0000",
       "processed_at": "2026-09-06T22:47:38.400071+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-06-travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 06 Sep 2026 16:45:00 +0000",
-      "processed_at": "2026-09-06T18:07:52.420914+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-06-techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Tesla’s Cybercab event in Austin fell flat, with a quiet crowd and no presence from CEO Elon Musk, undermining the company’s claim to be a robotaxi leader. The demonstration showed only 45 Cybercabs registered in Texas, a far cry from Waymo’s scale, and the vehicles lack manual controls required by federal safety rules. Hours after the launch, the National Highway Traffic Safety Administration opened an investigation into Tesla’s self‑certification of the Cybercabs, citing the absence of steering wheels and pedals. The incident highlights the regulatory and operational hurdles Tesla faces before it can roll out a safe, large‑scale autonomous ride‑share service.",
-      "key_points": [
-        "Tesla’s Cybercab event was underwhelming and Musk did not attend",
-        "Only 45 Cybercabs are registered in Texas, showing limited scale",
-        "NHTSA opened an investigation over missing manual controls",
-        "Waymo’s larger fleet underscores Tesla’s lag in robotaxi deployment"
-      ],
-      "topics": [
-        "tesla",
-        "cybercab",
-        "robotaxi",
-        "nhtsa",
-        "autonomous vehicles"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 06 Sep 2026 16:08:00 +0000",
-      "processed_at": "2026-09-06T18:07:50.789931+00:00"
     }
   ]
 }
