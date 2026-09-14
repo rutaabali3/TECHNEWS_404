@@ -1,5 +1,78 @@
 {
-  "updated_at": "2026-09-13T23:00:29.904285+00:00",
-  "items": [],
-  "last_processed_at": "2026-09-13T23:00:32.196801+00:00"
+  "updated_at": "2026-09-14T19:06:26.719081+00:00",
+  "items": [
+    {
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "feed_excerpt": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "published": "Mon, 14 Sep 2026 18:08:43 +0000"
+    },
+    {
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "feed_excerpt": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "published": "Mon, 14 Sep 2026 17:41:20 +0000"
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "feed_excerpt": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "published": "Mon, 14 Sep 2026 17:10:30 +0000"
+    },
+    {
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "feed_excerpt": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "published": "Mon, 14 Sep 2026 17:10:09 +0000"
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "feed_excerpt": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "published": "Mon, 14 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Waymo opens robotaxi service in Las Vegas",
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "feed_excerpt": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "published": "Mon, 14 Sep 2026 16:04:16 +0000"
+    },
+    {
+      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "feed_excerpt": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "published": "Mon, 14 Sep 2026 15:34:31 +0000"
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "feed_excerpt": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "published": "Mon, 14 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "feed_excerpt": "Fathom said that it has over 400,000 monthly active users.",
+      "published": "Mon, 14 Sep 2026 14:45:44 +0000"
+    },
+    {
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "published": "Mon, 14 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "feed_excerpt": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+      "published": "Mon, 14 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "feed_excerpt": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "published": "Mon, 14 Sep 2026 13:55:00 +0000"
+    }
+  ],
+  "last_processed_at": "2026-09-14T19:06:41.545844+00:00"
 }
