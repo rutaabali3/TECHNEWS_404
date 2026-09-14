@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-14T19:06:46.781254+00:00",
+  "updated_at": "2026-09-14T22:40:14.192109+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-14-with-ios-27-im-actually-using-siri-again",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "title": "With iOS 27, I'm actually using Siri again | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple’s iOS 27 release brings a major overhaul of Siri, now powered by Gemini‑based Apple Intelligence that can handle complex, multi‑step requests, fetch on‑screen context, and interact with the camera and other apps. The update also introduces natural‑language shortcut creation, a universal clipboard, intelligent network switching, and a host of child‑safety tools that let parents set schedules and approve new sites. While many users had abandoned Siri, the new AI capabilities and quality‑of‑life improvements have made it a central part of the user experience. iOS 27 is available to iPhone 11 or newer and iPhone SE (2nd gen) or newer devices.",
+      "key_points": [
+        "Siri is now powered by Gemini‑based Apple Intelligence, enabling complex, context‑aware interactions and on‑screen queries",
+        "iOS 27 adds natural‑language shortcut creation, a universal clipboard, and intelligent network switching for smoother workflows",
+        "Apple has expanded child‑safety features with a new setup flow, usage schedules, and content warnings",
+        "The update ships to iPhone 11 and newer models, including the iPhone SE (2nd gen)"
+      ],
+      "topics": [
+        "siri",
+        "ios27",
+        "appleintelligence",
+        "ai",
+        "childsafety"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 17:10:30 +0000",
+      "processed_at": "2026-09-14T22:39:46.241102+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-macos-27-new-siri-takes-on-ai-productivity-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
+      "title": "macOS 27: new Siri takes on AI productivity apps | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple’s macOS 27 Golden Gate release brings a major overhaul of Siri, giving the assistant visual intelligence that lets users select parts of a screen or a window to provide context‑aware answers, document editing help, and even image searches. The update also expands Spotlight and Safari with AI‑powered search, tab organization, and shortcut execution, while adding new design elements such as Liquid Glass icons, consistent window corners, and a cross‑platform photo album feature. These changes position macOS as a stronger productivity platform that rivals browser‑based AI assistants and underscores Apple’s push into AI‑enhanced user workflows. The OS is now available for a wide range of Macs from 2020 onward, making the new features accessible to most current users.",
+      "key_points": [
+        "macOS 27 introduces a context‑aware Siri with visual intelligence and deeper file access",
+        "Spotlight and Safari receive AI enhancements for search, tab organization, and shortcuts",
+        "Design updates include Liquid Glass icons, consistent window corners, and new shortcuts",
+        "macOS 27 is available on Macs from 2020 and later"
+      ],
+      "topics": [
+        "apple",
+        "macos",
+        "siri",
+        "ai",
+        "productivity"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 17:10:09 +0000",
+      "processed_at": "2026-09-14T22:39:46.229654+00:00"
+    },
+    {
+      "id": "2026-09-14-fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Daydream, an AI‑powered fashion discovery app, has added two new features that leverage Apple’s latest iOS 27 developer tools. The first lets iPhone users turn photos already saved in their Photos app into shoppable results by analyzing the outfit and matching it to roughly 3 million products in Daydream’s catalog. The second is a Siri‑powered natural‑language search that lets users request items by voice or text without opening the app, with results personalized through the company’s Style Passport. These launches are part of Daydream’s broader goal of building a shopping agent that understands a user’s style across every surface of their life.",
+      "key_points": [
+        "Daydream’s new image‑context feature turns saved outfit photos into shoppable results using iOS 27’s image‑analysis tools.",
+        "The app can match items in a photo to up to 3 million products, offering exact matches or similar alternatives if the item is unavailable.",
+        "A Siri‑powered search lets users request clothing or accessories by voice or text, providing personalized results without opening the app.",
+        "Daydream aims to evolve these tools into a comprehensive shopping agent that operates across all user touchpoints."
+      ],
+      "topics": [
+        "fashion",
+        "ai",
+        "shopping",
+        "apple",
+        "siri"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-14T22:39:46.433372+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-waymo-opens-robotaxi-service-in-las-vegas",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+      "title": "Waymo opens robotaxi service in Las Vegas | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Waymo has begun offering its robotaxi service to the public in Las Vegas after receiving final approval from Nevada regulators. The Alphabet-owned company will roll out dozens of its new Ojai minivan robotaxis in the Strip south of Highway 589 and into Boulder Junction, inviting riders on a rolling basis and issuing access codes. This launch marks Waymo’s 15th market and follows recent openings in Denver, San Diego, and Tampa, as the company seeks to keep pace with competitors like Tesla, Zoox, and Motional. Nevada’s Transportation Authority has authorized up to 1,000 autonomous vehicles for Waymo, while Tesla and Uber have larger caps, potentially saturating the county with robotaxis within a year.",
+      "key_points": [
+        "Waymo has opened its robotaxi service to the public in Las Vegas after regulatory approval.",
+        "The launch uses dozens of Ojai minivan robotaxis covering the Strip south of Highway 589 and Boulder Junction.",
+        "Riders must request an invite and receive an access code; full public rollout expected within a month or two.",
+        "Nevada allows Waymo up to 1,000 autonomous vehicles, while Tesla and Uber have higher caps, creating potential market saturation."
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "robotaxi",
+        "waymo",
+        "las vegas",
+        "nevada"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 16:04:16 +0000",
+      "processed_at": "2026-09-14T22:39:59.015056+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-14-amazon-prime-video-takes-on-tiktok-with-short-form-news-clips",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
@@ -2354,97 +2454,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 08 Sep 2026 14:10:17 +0000",
       "processed_at": "2026-09-08T17:22:18.516116+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800",
-      "title": "Exclusive: Poseidon Aerospace lands $60 million ahead of first pilotless test flight | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Poseidon Aerospace has closed a $60 million Series A led by TQ Ventures, bringing its total funding to $71 million as it prepares for the first test flight of its uncrewed cargo plane Egret by the end of 2024. The company, founded by former Amazon logistics engineer David Zagaynov and Lockheed veteran Parker Tenney, is building a fixed‑wing, combustion‑engine aircraft that eschews the popular VTOL and electric powertrains in favor of lower operating costs and higher payload efficiency. Poseidon plans to run its own regional air‑cargo network, targeting defense logistics in remote areas and commercial cargo for carriers such as UPS and FedEx, while leveraging autonomy to cut pilot‑related expenses and enable point‑to‑point service. The new funding and upcoming flight position Poseidon as a cost‑focused alternative in the emerging unmanned cargo market.\n",
-      "key_points": [
-        "$60M Series A led by TQ Ventures with investors including Hanwha, G Squared, JAWS, Starship, Draper and Drover",
-        "Egret’s first test flight is slated for the end of 2024",
-        "Poseidon uses fixed‑wing combustion engines, avoiding VTOL and electric tech to lower costs",
-        "The company intends to operate its own cargo network for defense and regional commercial markets"
-      ],
-      "topics": [
-        "aerospace",
-        "unmanned",
-        "logistics",
-        "startup",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-08T13:24:52.766650+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800",
-      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Stoke Space Technologies has closed a $1 billion Series E round, bringing its total funding to $2.3 billion, to scale production and develop a fully reusable two‑stage rocket. The company’s Nova Pathfinder, slated to fly in early 2027, will carry 3 metric‑tons to low‑Earth orbit and uses a unique liquid‑hydrogen",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 09:00:00 +0000",
-      "processed_at": "2026-09-08T13:24:55.613846+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-09-07-eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
-      "title": "Eric Wu's newest company, out of stealth since May, is going after construction's labor crunch | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Eric Wu, former Opendoor CEO, launched NavigateAI in late May with a $25 million seed round that valued the company at $225 million. The startup builds AI copilots that guide construction workers via smartphones and Meta’s AI glasses, aiming to address the industry’s severe labor shortage and cut project costs. Its pricing model has shifted from usage‑based to a share of value, capturing roughly 20 % of savings when it reduces a home’s construction cost from $300,000 to $280,000. While the company boasts high‑profile investors such as Elad Gil, Khosla Ventures, Lennar, and Meta, it faces challenges around adoption, liability, and attribution of savings.",
-      "key_points": [
-        "NavigateAI raised $25 million in seed funding at a $225 million valuation led by Elad Gil and backed by Khosla Ventures, Lennar, and others",
-        "The platform offers AI‑powered, hands‑free coaching for construction workers through smartphones and Meta glasses to improve accuracy and speed",
-        "Its revenue model captures a share of cost savings, targeting a 5‑10 % improvement on builders’ $9 billion annual labor spend",
-        "The company collects labeled video data from job sites, positioning a future data‑driven business for robotics and AI firms"
-      ],
-      "topics": [
-        "construction",
-        "ai",
-        "startup",
-        "labor",
-        "realestate"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 02:16:39 +0000",
-      "processed_at": "2026-09-08T03:47:22.619044+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-07-artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
-      "title": "Opaque recurrence, and other AI terms that you should probably know | TechCrunch",
-      "author": "Natasha Lomas",
-      "summary": "TechCrunch has published a living glossary of AI terminology designed to help readers keep pace with the rapidly evolving language of the field. The article explains key concepts such as opaque recurrence, large language models (LLMs), retrieval‑augmented generation (RAG), reinforcement learning from human feedback (RLHF), artificial general intelligence (AGI), AI agents, chain‑of‑thought reasoning, diffusion models, and distillation. It is aimed at developers, investors, and anyone following AI news, offering plain‑English definitions that are updated as the industry changes. The glossary underscores how AI is not only reshaping technology but also creating its own specialized vocabulary.",
-      "key_points": [
-        "TechCrunch provides a living glossary to demystify fast‑moving AI jargon",
-        "It covers foundational concepts from AGI definitions to advanced techniques like opaque recurrence and chain‑of‑thought reasoning",
-        "The resource targets builders, investors, and general readers seeking clear explanations",
-        "The glossary highlights the rapid evolution of AI terminology and the need for ongoing updates"
-      ],
-      "topics": [
-        "ai",
-        "glossary",
-        "terminology",
-        "machine learning",
-        "deep learning"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "processed_at": "2026-09-07T21:19:03.260799+00:00"
     }
   ]
 }

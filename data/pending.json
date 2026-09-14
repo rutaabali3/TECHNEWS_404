@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:06:26.719081+00:00",
+  "updated_at": "2026-09-14T22:39:45.015359+00:00",
   "items": [
     {
       "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
@@ -12,30 +12,6 @@
       "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
       "feed_excerpt": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
       "published": "Mon, 14 Sep 2026 17:41:20 +0000"
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "feed_excerpt": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "published": "Mon, 14 Sep 2026 17:10:30 +0000"
-    },
-    {
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "feed_excerpt": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
-      "published": "Mon, 14 Sep 2026 17:10:09 +0000"
-    },
-    {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "feed_excerpt": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "published": "Mon, 14 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Waymo opens robotaxi service in Las Vegas",
-      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "feed_excerpt": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
-      "published": "Mon, 14 Sep 2026 16:04:16 +0000"
     },
     {
       "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
@@ -72,7 +48,25 @@
       "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "feed_excerpt": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
       "published": "Mon, 14 Sep 2026 13:55:00 +0000"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "feed_excerpt": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "published": "Mon, 14 Sep 2026 21:51:02 +0000"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "feed_excerpt": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "published": "Mon, 14 Sep 2026 20:44:14 +0000"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "feed_excerpt": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "published": "Mon, 14 Sep 2026 20:07:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-14T19:06:41.545844+00:00"
+  "last_processed_at": "2026-09-14T22:39:59.015144+00:00"
 }
