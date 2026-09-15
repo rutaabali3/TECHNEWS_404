@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-15T17:33:09.420265+00:00",
+  "updated_at": "2026-09-15T21:01:38.097457+00:00",
   "items": [
-    {
-      "title": "US military confirms it launched space weapons into Earth’s orbit",
-      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "feed_excerpt": "This is the first public acknowledgement that the U.S. military put a space weapon in Earth's orbit.",
-      "published": "Tue, 15 Sep 2026 17:09:06 +0000"
-    },
     {
       "title": "Meta expands subscription push with new AI-focused plans",
       "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "feed_excerpt": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
       "published": "Tue, 15 Sep 2026 17:05:24 +0000"
-    },
-    {
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-      "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "feed_excerpt": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
       "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
@@ -26,40 +14,16 @@
       "published": "Tue, 15 Sep 2026 15:49:18 +0000"
     },
     {
-      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
-      "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
-      "feed_excerpt": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
-      "published": "Tue, 15 Sep 2026 15:21:10 +0000"
-    },
-    {
       "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
       "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
       "feed_excerpt": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
       "published": "Tue, 15 Sep 2026 14:42:37 +0000"
     },
     {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
-      "published": "Tue, 15 Sep 2026 14:30:00 +0000"
-    },
-    {
       "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
       "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
       "feed_excerpt": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
       "published": "Tue, 15 Sep 2026 14:22:49 +0000"
-    },
-    {
-      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "feed_excerpt": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
-      "published": "Tue, 15 Sep 2026 14:13:59 +0000"
-    },
-    {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "published": "Tue, 15 Sep 2026 14:00:00 +0000"
     },
     {
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
@@ -72,7 +36,37 @@
       "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
       "feed_excerpt": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
       "published": "Tue, 15 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "feed_excerpt": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "published": "Tue, 15 Sep 2026 20:12:53 +0000"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "feed_excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "Tue, 15 Sep 2026 19:00:00 +0000"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "feed_excerpt": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "published": "Tue, 15 Sep 2026 18:29:20 +0000"
+    },
+    {
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "feed_excerpt": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+      "published": "Tue, 15 Sep 2026 18:16:07 +0000"
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "feed_excerpt": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "published": "Tue, 15 Sep 2026 17:42:59 +0000"
     }
   ],
-  "last_processed_at": "2026-09-15T17:33:11.287124+00:00"
+  "last_processed_at": "2026-09-15T21:02:07.121804+00:00"
 }
