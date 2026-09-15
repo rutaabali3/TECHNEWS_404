@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-15T06:32:18.843251+00:00",
+  "updated_at": "2026-09-15T12:32:00.861165+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-15-new-italian-unicorn-exein-rides-the-physical-ai-wave",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Exein_-left-to-right-Gerardo-Gagliardo-CFO-Co-Founder-Gianni-Cuozzo-CEO-Founder-Giovanni-Alberto-Falcione-CTO-Co-Founder-.png?resize=1200,801",
+      "title": "New Italian unicorn Exein rides the physical AI wave | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "Italian cybersecurity startup Exein has raised $270 million in a round led by Headline, boosting its valuation to $1.7 billion as it expands its physical‑AI security platform. The Rome‑based company, which has been working directly with OEMs and silicon vendors since 2018, now offers Photon, a kernel‑level runtime protection that targets the growing threat landscape of connected devices in aerospace, automotive, energy and other critical sectors. Exein’s growth has accelerated 400% year‑on‑year, and the fresh capital will fund acquisitions, staff hiring and a planned foundational model for Physical AI security slated for release in early 2027. The company’s expansion comes at a time when the EU’s Cyber Resilience Act will soon require manufacturers to certify digital products against cyber threats, potentially creating new regulatory demand for Exein’s solutions.",
+      "key_points": [
+        "Exein secured $270 million, valuing the company at $1.7 billion, a thirty‑fold increase since its Series B",
+        "Its Photon runtime security protects devices at the kernel level and is built through close partnerships with OEMs and silicon vendors",
+        "The startup is targeting the rise of physical AI, covering AI‑powered robots, drones, self‑driving cars and edge‑AI devices",
+        "Exein plans to use the funding for acquisitions, hiring and to launch a foundational model for Physical AI security by Q1 2027"
+      ],
+      "topics": [
+        "startup",
+        "cybersecurity",
+        "physical ai",
+        "valuation",
+        "europe"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 12:19:38 +0000",
+      "processed_at": "2026-09-15T12:31:59.858886+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Marc-Benioff-DSC03537.jpg?resize=1200,800",
+      "title": "Salesforce and Nvidia's new reasoning model is everything the AI labs should fear | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Salesforce unveiled Koa, its first reasoning model built on Nvidia’s open‑weight Nemotron, at the Dreamforce conference. Koa is fine‑tuned with synthetic data to excel at sales, marketing and customer‑support tasks, offering token‑efficient reasoning that is cheaper than routing such requests to frontier models like Claude or ChatGPT. The company still maintains a partnership with Anthropic through ClaudeForce, allowing customers to use Claude while keeping data within Salesforce’s secure infrastructure. Nemotron’s sovereign AI architecture gives Salesforce a domestic, provenance‑clear base model and faster time‑to‑first‑token for enterprise workloads.",
+      "key_points": [
+        "Salesforce launches Koa, a reasoning model built on Nvidia’s Nemotron, tailored for sales and support tasks.",
+        "Koa uses synthetic data and token‑efficient inference, making it cheaper than frontier models such as Claude or ChatGPT.",
+        "Salesforce continues to partner with Anthropic via ClaudeForce, keeping customer data inside Salesforce’s system of records.",
+        "Nemotron provides a sovereign AI base with fast inference and clear data provenance for enterprise use."
+      ],
+      "topics": [
+        "salesforce",
+        "nvidia",
+        "ai",
+        "enterprise",
+        "nemotron"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "processed_at": "2026-09-15T12:32:00.860787+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-09-14-superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Superhuman has acquired Y Combinator‑backed notetaking startup Fathom to expand its AI‑driven productivity suite. Fathom, founded in 2020, has raised more than $30 million, was valued at $94 million in 2024, and boasts over 400,000 monthly active users and one million recorded meetings. The acquisition follows Superhuman’s internal testing of a notetaker, which revealed the complexity of building such a product from scratch. With Fathom integrated, Superhuman can surface real‑time meeting context, draft emails, update data, and trigger AI agents to act on meeting insights, leveraging its 40‑million‑user base for rapid distribution.",
+      "key_points": [
+        "Superhuman acquires Fathom to add AI‑powered meeting notes to its suite",
+        "Fathom has 400,000 monthly active users and 1 million recorded meetings",
+        "Superhuman’s 40 million users provide a large distribution channel",
+        "The notetaker market is highly competitive with rivals like Granola, Read AI, and Wispr"
+      ],
+      "topics": [
+        "productivity",
+        "ai",
+        "notetaking",
+        "acquisition",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 14:45:44 +0000",
+      "processed_at": "2026-09-15T12:31:59.845503+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-14-jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
@@ -2385,82 +2460,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 06:00:00 +0000",
       "processed_at": "2026-09-09T06:29:23.255089+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
-      "title": "CloudNC raises $20M to automate manufacturing's most pressing bottlenecks | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "CloudNC, a UK‑based manufacturing software startup, closed a $20 million B‑round that brings its total funding to $128 million, according to CEO Theo Saville. The company’s AI‑powered CAM Assist plugs into existing CAM tools such as Autodesk Fusion and Mastercam to automatically select tools, approach directions, feeds and speeds, drafting CNC code that machinists can review and approve. With over 1,000 machine shops already using the product—80 % of them in the U.S.—the new capital will accelerate adoption, expand into new markets and support the launch of Quote Agent, a tool that helps shops estimate project cost and risk quickly. The round was led by Nimble Ventures and included Calculus Venture Capital, Entrepreneur First and Lockheed Martin’s LM Capital, underscoring investor confidence in AI‑driven manufacturing solutions.",
-      "key_points": [
-        "CloudNC raised $20 million in a B‑round, raising its total capital to $128 million",
-        "Its CAM Assist software automates tool selection, approach, feeds and speeds, drafting CNC code for machinists to approve",
-        "The company plans to launch Quote Agent to help shops quote projects faster and assess risk",
-        "Investors include Nimble Ventures, Calculus Venture Capital, Entrepreneur First and LM Capital"
-      ],
-      "topics": [
-        "manufacturing",
-        "ai",
-        "cnc",
-        "software",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 04:01:00 +0000",
-      "processed_at": "2026-09-09T06:29:24.189679+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
-      "title": "White House takes down 'Build the Wall' game after the Tetris Company complains | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "The White House removed its controversial arcade‑style game \"Build the Wall\" after the Tetris Company complained that the game copied Tetris gameplay and was criticized for racist content. The game, which asked players to stack blocks to build a wall against a \"zombie border siege,\" was taken down and its page now returns a 404 error. The Tetris Company clarified it had no role in creating the game and warned that it takes copyright infringement seriously. While \"Build the Wall\" is gone, another game called \"Rio Run\" remains on the site, featuring a white male character deporting immigrant characters.",
-      "key_points": [
-        "White House removed \"Build the Wall\" after the Tetris Company complained about copyright infringement and racist themes.",
-        "The game closely mimicked Tetris gameplay, prompting criticism and a 404 error after removal.",
-        "The Tetris Company clarified it had no involvement and emphasized its stance on copyright.",
-        "A separate game, \"Rio Run,\" still remains on the White House website.",
-        ""
-      ],
-      "topics": [
-        "white house",
-        "tetris",
-        "copyright",
-        "racism",
-        "gaming"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 23:23:23 +0000",
-      "processed_at": "2026-09-09T01:06:11.780297+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-hackers-are-stealing-claude-tokens-from-subscribers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "title": "Hackers are stealing Claude tokens from subscribers | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "A hacker stole Claude tokens from users’ accounts, prompting Anthropic to suspend and refund affected customers. The theft was traced to a compromised Claude session key that allowed unauthorized OAuth tokens to be minted, and the malware used was a common infostealer that steals login sessions. Because Anthropic’s support only tracks total usage, many users went months unaware of the theft, leading to significant business disruption and prompting some to cancel their subscriptions. After a two‑week reinstatement, users like Grant De Swardt switched to alternatives such as Cursor, citing the lack of itemized usage tools and slow support as key concerns.",
-      "key_points": [
-        "Anthropic suspended accounts and issued refunds after discovering token theft via compromised session keys.",
-        "The theft was enabled by infostealer malware that stole login sessions, not by Claude itself.",
-        "Users could not detect the theft for months due to lack of itemized usage data.",
-        "Affected users are moving to other AI platforms like Cursor because of support and transparency issues."
-      ],
-      "topics": [
-        "anthropic",
-        "claude",
-        "token theft",
-        "malware",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 21:10:27 +0000",
-      "processed_at": "2026-09-09T01:06:12.195897+00:00"
     }
   ]
 }
