@@ -1,42 +1,12 @@
 {
-  "updated_at": "2026-09-15T01:15:59.474389+00:00",
+  "updated_at": "2026-09-15T06:31:47.591628+00:00",
   "items": [
-    {
-      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "feed_excerpt": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
-      "published": "Mon, 14 Sep 2026 15:34:31 +0000"
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "feed_excerpt": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "published": "Mon, 14 Sep 2026 15:00:00 +0000"
-    },
     {
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
       "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
       "feed_excerpt": "Fathom said that it has over 400,000 monthly active users.",
       "published": "Mon, 14 Sep 2026 14:45:44 +0000"
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-      "published": "Mon, 14 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "feed_excerpt": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "published": "Mon, 14 Sep 2026 13:55:00 +0000"
-    },
-    {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "feed_excerpt": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-      "published": "Mon, 14 Sep 2026 20:07:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-15T01:16:12.437680+00:00"
+  "last_processed_at": "2026-09-15T06:32:18.842684+00:00"
 }

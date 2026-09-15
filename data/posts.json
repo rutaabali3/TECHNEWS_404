@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-09-15T01:16:28.603547+00:00",
+  "updated_at": "2026-09-15T06:32:18.843251+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-14-jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "At Nvidia’s All‑In conference in Los Angeles, former President Donald Trump surprised the audience by calling CEO Jensen Huang live on stage. The two discussed AI safety, with Trump dismissing the panic as a hoax and suggesting that China and political actors benefit from the fear. Huang answered the call on a foldable phone—later clarified to be a non‑Apple device—while wearing his signature alligator‑leather jacket. The exchange came as Nvidia’s shares, up 33% over the past year, slipped slightly, underscoring the company’s reliance on AI chip sales.",
+      "key_points": [
+        "Former President Trump called Nvidia CEO Jensen Huang live at the All‑In conference",
+        "The conversation turned to AI safety, with Trump dismissing fears as a hoax",
+        "Huang used a foldable phone, not an Apple iPhone Duo, to take the call",
+        "Nvidia’s share price dipped slightly amid the exchange, reflecting its AI chip business model"
+      ],
+      "topics": [
+        "nvidia",
+        "ai",
+        "trump",
+        "all‑in",
+        "foldable"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "processed_at": "2026-09-15T06:31:49.154777+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Cornelis, a former Intel spin‑off that builds networking tech for AI chips, closed a $205 million round led by IAG Capital Partners on Monday. The company unveiled its Active Compute Fabric, a networking fabric that lets GPUs process and transmit data simultaneously, aiming to cut the idle time that plagues current GPU workloads. By offering an open‑architecture solution, Cornelis lets customers mix and match GPUs and accelerators instead of being locked into Nvidia’s proprietary stack, positioning itself as a challenger to Nvidia’s dominance. The firm has already shipped the first generation of the fabric and plans to release a newer version later this year.",
+      "key_points": [
+        "Cornelis raised $205 million led by IAG Capital Partners",
+        "Active Compute Fabric reduces GPU idle time by enabling simultaneous processing and transmission",
+        "The open‑architecture approach allows customers to use diverse GPUs and accelerators, challenging Nvidia’s closed stack",
+        "First‑generation fabric is already shipping, with a newer version expected later this year"
+      ],
+      "topics": [
+        "ai infrastructure",
+        "nvidia",
+        "networking",
+        "open architecture",
+        "chip manufacturing"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "processed_at": "2026-09-15T06:31:49.210653+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "title": "Sources say Automattic's board is out after failed attempt to oust CEO Matt Mullenweg | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Automattic’s board was ousted after a failed vote to place CEO Matt Mullenweg on a paid leave of absence, prompting Mullenweg to publicly declare his return to leadership via Slack and a company statement.  Founding CEO Toni Schneider resigned his board seat, and Mullenweg subsequently removed board members Sue Decker and Gen. Ann Dunwoody, with Decker resigning and Dunwoody being dismissed.  The shake‑up also saw the departure of Chief Legal Officer Andy Missan and CFO Mark Davies, as Mullenweg consolidated control amid a high‑profile lawsuit with WP Engine over trademark and open‑source contributions.  Automattic confirmed the changes and indicated a new board would be announced shortly, while the dispute with WP Engine remains unresolved.",
+      "key_points": [
+        "Automattic’s board was ousted after a failed vote to place CEO Matt Mullenweg on paid leave",
+        "Toni Schneider resigned his board seat and Mullenweg removed Sue Decker and Gen. Ann Dunwoody",
+        "CFO Mark Davies and CLO Andy Missan left the company following Mullenweg’s consolidation of power",
+        "The board changes occur amid a lawsuit with WP Engine over WordPress trademark and open‑source contributions"
+      ],
+      "topics": [
+        "automattic",
+        "board",
+        "mullenweg",
+        "wp engine",
+        "lawsuit"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 15:34:31 +0000",
+      "processed_at": "2026-09-15T06:31:48.946765+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
+      "title": "Learn how to build lasting AI defensibility at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a Builders Stage session titled \"What Happens When OpenAI Ships Your Roadmap,\" where founders, operators, and investors discuss how AI startups can maintain defensibility as foundation models rapidly add similar capabilities. The session, hosted by Michel Tricot of Airbyte, Linda Tong of Webflow, and Rob Toews of Radical Ventures, will explore strategies such as leveraging proprietary data, embedded workflows, and customer trust to keep products valuable beyond platform updates. Disrupt, held October 13–15 at Moscone West in San Francisco, offers more than 250 sessions and a 25% discount on tickets until September 25. The event aims to help founders rethink product strategy, fundraising, and valuation in an ecosystem where the platform itself becomes a competitive threat.",
+      "key_points": [
+        "AI startups risk losing competitive advantage when foundation models add similar features",
+        "Defensibility can be built through proprietary data, workflows, and trust rather than model performance",
+        "Speakers include Michel Tricot (Airbyte), Linda Tong (Webflow), and Rob Toews (Radical Ventures)",
+        "Disrupt 2026 runs Oct 13–15 at Moscone West and offers a 25% ticket discount until Sept 25"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "defensibility",
+        "disrupt",
+        "techconference"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-15T06:31:49.226362+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Ben-Lamm_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "title": "Hear how AI can engineer nature’s comeback at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a Real World AI Stage fireside chat titled \"Can We Engineer Nature’s Comeback?\" that brings together Ben Lamm, CEO of Colossal Biosciences, to discuss how artificial intelligence and synthetic biology are being used to revive extinct species and the broader implications for conservation. The session examines the intersection of AI with modern biology, the potential of de‑extinction as a conservation tool, and the ethical debate over whether engineering nature is a breakthrough or a distraction from protecting existing ecosystems. Disrupt 2026, held at Moscone West in San Francisco from October 13–15, will host over 10,000 founders, investors and operators across 250+ sessions, and offers discounted tickets for early registrants.",
+      "key_points": [
+        "Colossal Biosciences is applying AI and synthetic biology to pursue de‑extinction",
+        "The fireside chat explores AI’s role in conservation and the ethical questions it raises",
+        "Disrupt 2026 attracts 10,000+ participants and offers discounted tickets",
+        "The discussion highlights the tension between engineering nature and protecting existing ecosystems"
+      ],
+      "topics": [
+        "ai",
+        "biology",
+        "de-extinction",
+        "conservation",
+        "techconference"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-09-15T06:32:18.842583+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "A Vinyl Bar in Shibuya, a startup founded by former Spotify innovation head Máuhan M. Zonoozy, has raised a $5.5 million pre‑seed round from a mix of venture funds and industry insiders to build a suite of music‑creation tools that blend generative AI with hands‑on remixing. The company releases its experiments as “singles” across web and iOS apps—such as Speed Surfer, Usersound, Stacks, Drops, Sampler, and the iOS app bop—that let users manipulate sounds, create mixes, and export them to social media, while keeping AI as a supportive layer rather than the core creative engine. Zonoozy stresses that the goal is to empower users to participate in music creation, not to replace human taste with AI‑generated songs, and plans a multiplayer remix platform and a musical sandbox mixer later this year. The venture’s focus on interactive, user‑driven music tools positions it at the intersection of generative AI, music technology, and consumer creativity.\n",
+      "key_points": [
+        "A Vinyl Bar in Shibuya, led by former Spotify innovation head Máuhan M. Zonoozy, raised $5.5 million in a pre‑seed round to develop AI‑augmented music creation apps.",
+        "The startup offers a range of web and iOS tools—Speed Surfer, Usersound, Stacks, Drops, Sampler, and bop—that let users remix, generate, and export music while keeping AI as an auxiliary layer.",
+        "Zonoozy emphasizes that AI should enhance, not replace, human creativity, aiming for a multiplayer remix platform and prompt‑based features.",
+        "The company plans to launch a musical sandbox mixer this year to further empower user interaction with music production.\n"
+      ],
+      "topics": [
+        "startup",
+        "musictech",
+        "generativeai",
+        "spotify",
+        "shibuya"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 13:55:00 +0000",
+      "processed_at": "2026-09-15T06:31:49.162202+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
@@ -2311,147 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 08 Sep 2026 21:10:27 +0000",
       "processed_at": "2026-09-09T01:06:12.195897+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Google Cloud and Accenture have launched a joint unit, the Accenture Gemini Enterprise Business Group, to deploy up to 1,000 forward‑deployed engineers (FDEs) who will help enterprises build custom AI applications on Google’s Gemini Enterprise platform. The partnership is part of Google’s broader strategy to accelerate enterprise AI adoption and close the gap with rivals such as OpenAI, Anthropic, Microsoft and Amazon, who have also created dedicated FDE units. Despite generating $24.8 billion in Q",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 16:20:31 +0000",
-      "processed_at": "2026-09-09T01:06:12.416296+00:00"
-    },
-    {
-      "id": "h-com-2026-09-08-cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Cognition, the startup behind the coding assistant Devin, closed a $2 billion round that pushed its valuation to $48 billion, a dramatic jump from the $26 billion valuation it achieved just four months earlier. The company reports its annualized run‑rate revenue has climbed from $492 million to $900 million since May, underscoring investors’ belief that the AI coding market can support multiple major players. Cognition’s high server costs—an Nvidia cluster that could drive annual cash burn to $800 million—raise questions about long‑term sustainability, especially after its competitor Cursor was sold to SpaceX for $60 billion amid compute constraints. By the end of 2026, Cognition is projected to hit $4–5 billion in annualized revenue, still trailing Cursor’s $6 billion target, but the company’s rapid growth and enterprise clientele, including Mercedes‑Benz, NASA, Goldman Sachs and Citi, signal strong market traction.",
-      "key_points": [
-        "Cognition raised $2 billion at a $48 billion valuation, with run‑rate revenue rising to $900 million from $492 million in four months",
-        "VCs see room for multiple AI coding leaders, as Cognition’s revenue multiple exceeds that of Cursor before its $60 billion sale",
-        "High server costs and potential compute limits could challenge Cognition’s path to breakeven",
-        "Projected $4–5 billion annualized revenue by 2026 still lags Cursor’s $6 billion target but reflects rapid scaling"
-      ],
-      "topics": [
-        "ai",
-        "coding",
-        "valuation",
-        "venturecapital",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 21:04:06 +0000",
-      "processed_at": "2026-09-08T22:54:53.307119+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-the-exploration-company-nabs-450-million-to-challenge-spacex",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.jpg?resize=1200,800",
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "The Exploration Company (TEC) has closed a $450 million Series C, the largest ever for a European space firm, to fund its reusable Nyx capsule and Storm engine program. The company aims to dock Nyx with the International Space Station and return safely by November 2028, positioning itself as a European alternative to SpaceX’s low‑Earth‑orbit launches. Investors include Atomico, EQT‑managed Scaleup Europe Fund, and Bessemer Venture Partners, reflecting transatlantic confidence in reusable launchers. TEC’s funding will also support launch pad construction and the development of a heavy‑lift launcher to meet growing demand for space‑based services.",
-      "key_points": [
-        "TEC raised $450 million in a Series C, the largest for a European space company",
-        "The Nyx reusable capsule is slated to dock with the ISS and return by Nov 2028",
-        "Funding will also support the Storm engine and launch infrastructure",
-        "The move signals growing competition with SpaceX and US rivals like Stoke Space"
-      ],
-      "topics": [
-        "space",
-        "europe",
-        "venturecapital",
-        "reusable",
-        "launch"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 20:47:34 +0000",
-      "processed_at": "2026-09-08T22:54:43.314830+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it? | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta has launched Muse, its first personal AI agent that can perform everyday tasks such as sending emails, booking travel, and making purchases by connecting to users’ apps and services. The agent runs on a dedicated secure virtual machine and offers a free tier with optional paid plans of $20 and $100 per month, using Stripe Link for checkout. While Muse promises privacy protections and no sharing of conversations with Meta’s ad system, the company’s history of privacy violations may hinder consumer trust. Muse will be available on the web, iOS, Android, WhatsApp, and soon Meta’s AI glasses, positioning it as a next‑generation tool beyond chat‑based assistants.",
-      "key_points": [
-        "Muse is Meta’s first consumer AI agent that can execute tasks by connecting to users’ apps and services.",
-        "It offers a free tier and paid plans ($20/month and $100/month) and uses Stripe Link for secure checkout.",
-        "Meta claims privacy safeguards via a dedicated secure VM, but past privacy scandals raise trust concerns.",
-        "Muse will launch on web, iOS, Android, WhatsApp, and later on Meta’s AI glasses."
-      ],
-      "topics": [
-        "ai",
-        "consumerai",
-        "privacy",
-        "meta",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 19:00:00 +0000",
-      "processed_at": "2026-09-08T22:54:43.364004+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-how-to-watch-apples-foldable-iphone-announcement",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927",
-      "title": "How to watch Apple's foldable iPhone announcement | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Apple will hold its annual iPhone event on Wednesday, September 9 at 10 a.m. PDT, where it is expected to unveil a foldable iPhone Ultra, marking its first entry into the foldable smartphone market about seven years after Samsung. The company will also likely announce the iPhone 18 Pro and iPhone 18 Pro Max, offering options for customers who prefer a non‑foldable device or who are unwilling to pay the rumored $2,000 price for the Ultra. Additional hardware such as an updated HomePod, camera‑enabled AirPods, and new Apple Watches may also be introduced. This event will be Apple’s first major product launch under new CEO John Ternus, following Tim Cook’s departure.",
-      "key_points": [
-        "Apple is expected to launch a foldable iPhone Ultra at its September 9 event.",
-        "The iPhone 18 Pro and iPhone 18 Pro Max will likely be announced, with the standard iPhone 18 slated for next year.",
-        "This will be the first major product launch under new CEO John Ternus after Tim Cook stepped down.",
-        "Additional hardware such as an updated HomePod, camera‑enabled AirPods, and new Apple Watches may debut."
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "foldable",
-        "product launch",
-        "new ceo"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 17:46:53 +0000",
-      "processed_at": "2026-09-08T20:08:10.528808+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "NYU mathematician Tristan Buckmaster and Anthropic collaborator Levent Alpöge announced partial proofs of the Navier–Stokes existence and smoothness problem using OpenAI’s Codex and Anthropic’s Claude, sparking a dispute when OpenAI released a full proof shortly after. Buckmaster claims OpenAI accessed or was influenced by his Codex interactions, raising questions about data usage and academic rivalry. OpenAI maintains its proof was independent, noting no direct access to Buckmaster’s work, but acknowledges the possibility of de‑identified data aiding model improvement. The controversy underscores the growing debate over AI’s role in mathematical research and the ethics of training data derived from user interactions.",
-      "key_points": [
-        "Buckmaster and Alpöge published partial Navier–Stokes proofs with Codex and Claude",
-        "OpenAI released a full proof soon after, claiming independent work",
-        "Allegations that OpenAI used Buckmaster’s Codex data or was influenced by it",
-        "The dispute highlights ethical concerns about AI training data and academic competition"
-      ],
-      "topics": [
-        "ai",
-        "mathematics",
-        "navier-stokes",
-        "openai",
-        "researchethics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 17:32:15 +0000",
-      "processed_at": "2026-09-08T20:08:10.414640+00:00"
     }
   ]
 }
