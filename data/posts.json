@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-09-14T22:40:14.192109+00:00",
+  "updated_at": "2026-09-15T01:16:28.603547+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "title": "Nvidia CEO Jensen Huang tells Trump 'we're not going to let [an AI slowdown] happen' | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Nvidia CEO Jensen Huang answered a live phone call from former President Donald Trump during the All‑In Summit in Los Angeles, projecting the conversation to the audience to emphasize that the U.S. would not let an AI slowdown occur. Trump, joined by Y Combinator CEO Garry Tan, argued that opposition to data‑center construction is part of a global psyop aimed at stifling American growth, citing Gallup polls that show widespread public concern. Huang, who had been discussing Anthropic CEO Dario Amodei’s call to slow AI progress, agreed with Trump and received applause from the crowd. The exchange highlighted the clash between industry leaders who want rapid AI development and political voices warning about potential risks and public backlash.",
+      "key_points": [
+        "Huang projected Trump’s call to the All‑In audience to assert that the U.S. will not slow AI progress",
+        "Trump and allies claim data‑center opposition is a global psyop aimed at hindering American growth",
+        "The debate reflects a broader tension between rapid AI development and concerns over environmental and societal impacts"
+      ],
+      "topics": [
+        "nvidia",
+        "trump",
+        "ai",
+        "data centers",
+        "all‑in"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "processed_at": "2026-09-15T01:16:00.873040+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "OpenAI has acquired smartphone camera startup Glass Imaging for a deal worth more than $300 million, according to a Wall Street Journal report. Glass Imaging, founded in 2019 by former Apple engineers Ziv Attar and Tom Bishop, uses AI to learn the characteristics of individual camera systems and deliver better images from the moment a photo is taken, bypassing the need for post‑capture editing. The acquisition follows OpenAI’s recent purchase of Jony Ive’s design firm and signals the company’s growing interest in building its own hardware, such as smartphones and earbuds. The deal adds a team with deep expertise in camera technology to OpenAI’s expanding hardware ambitions.",
+      "key_points": [
+        "OpenAI bought Glass Imaging for over $300 million",
+        "Glass Imaging’s AI learns camera system specifics to improve image quality at capture",
+        "Founders were key engineers behind Apple’s Portrait Mode",
+        "The purchase fits OpenAI’s rumored move into consumer hardware"
+      ],
+      "topics": [
+        "openai",
+        "ai",
+        "smartphone",
+        "camera",
+        "acquisition"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "processed_at": "2026-09-15T01:16:01.326258+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hbo-max-screenshot-clickfix.jpg?resize=1200,843",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "ClickFix attacks have evolved into a sophisticated phishing technique that lures users into executing terminal commands that install info‑stealing malware.  In a recent campaign, hackers compromised the HBO Max Reddit advertising account and posted fake ads that prompted users to copy and paste a command into Windows Command Prompt or macOS Terminal.  The malware immediately harvests passwords, logged‑in account credentials, and crypto wallet keys, often bypassing antivirus tools because it runs directly in the operating system.  Companies can mitigate the threat by blocking terminal access on corporate devices or using defensive tools such as BlockBlock for Mac users.",
+      "key_points": [
+        "ClickFix tricks users into running terminal commands that install malware",
+        "The latest campaign used a compromised HBO Max Reddit ad to lure victims",
+        "The malware steals passwords, account access, and crypto wallet information",
+        "Blocking terminal access or using tools like BlockBlock can help prevent attacks"
+      ],
+      "topics": [
+        "cybersecurity",
+        "malware",
+        "clickfix",
+        "reddit",
+        "hbo max"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 18:08:43 +0000",
+      "processed_at": "2026-09-15T01:16:00.540328+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800",
+      "title": "Volkswagen's crazy-efficient EV borrows an idea from Slate | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Volkswagen unveiled its Mission Efficiency prototype, a teardrop‑shaped electric car that achieved an equivalent of 323 miles per gallon on a 794‑mile trip from Wolfsburg to Vienna, consuming only 7.51 kWh per 100 miles (279 MPGe). The design features a Kammback roofline that lowered the drag coefficient to 0.158 and a 2.08‑m² frontal area, while solar cells on the roof and trunk add a modest 18 miles of range. The vehicle eschews a traditional infotainment system in favor of a portable Bluetooth speaker, and its 2+2 seating is limited to passengers under 5‑ft‑3, reflecting a focus on extreme efficiency over practicality. Though marketed as a near‑production model, Volkswagen has not committed to mass production, echoing its past halo projects like the XL1.",
+      "key_points": [
+        "Prototype achieved 279 MPGe (7.51 kWh/100mi) on a 794‑mile journey with 104 miles of range remaining",
+        "Kammback design lowered drag coefficient to 0.158 and frontal area to 2.08 m²",
+        "Solar cells add only 18 miles of range; no infotainment, only a portable Bluetooth speaker",
+        "Volkswagen labels it near‑production but has not committed to production, similar to its XL1 halo car"
+      ],
+      "topics": [
+        "electric vehicles",
+        "efficiency",
+        "automotive design",
+        "halo cars",
+        "innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 17:41:20 +0000",
+      "processed_at": "2026-09-15T01:16:01.062094+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-14-techcrunch-disrupt-2026-exhibit-table-deadline-5-days",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49206046722_4126352615_k.jpg?resize=1200,800",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will run October 13–15 at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech leaders. The event features 300+ startups, six industry stages, AI‑powered matchmaking, and the Startup Battlefield 200 competition. Exhibitors can secure a 6′ × 30″ table in the Expo Hall to demo products, meet prospects, and generate high‑impact leads. The last day to book an exhibit table is September 18 at 11:59 p.m. PT, with a 25 % discount available for early registrants.",
+      "key_points": [
+        "Disrupt 2026 runs Oct 13–15 at Moscone West, hosting 10,000+ attendees and 300+ startups.",
+        "Exhibit tables (6′ × 30″) are available until Sept 18, offering direct access to investors and partners.",
+        "The Expo Hall features six industry stages, AI matchmaking, and the Startup Battlefield 200 competition."
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "exhibitions",
+        "investing",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 14 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-15T01:16:12.437619+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-14-with-ios-27-im-actually-using-siri-again",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
@@ -2329,131 +2452,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 08 Sep 2026 17:32:15 +0000",
       "processed_at": "2026-09-08T20:08:10.414640+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Google’s plan to revive the Duane Arnold Energy Center in Iowa has secured a $1.9 billion loan from the U.S. Department of Energy, marking the second such federal loan under the Trump administration to support nuclear power for AI data centers. The loan will fund a 2029 restart that will add 615 MW of capacity, including 50 MW earmarked for a local power cooperative, and is part of a broader trend of tech firms turning to shuttered nuclear plants for clean, firm electricity. The move follows similar DOE‑backed projects at Three Mile Island and Clinton Clean Energy, underscoring the growing role of nuclear power in meeting the rapidly expanding electricity demand of AI infrastructure.",
-      "key_points": [
-        "DOE has granted a $1.9 billion loan to NextEra Energy to restart the Duane Arnold nuclear plant, slated for 2029.",
-        "The Trump administration views revived nuclear plants as a key clean power source for AI data centers.",
-        "The plant will produce 615 MW of power, with 50 MW reserved for a local cooperative, helping to meet Iowa’s growing demand.",
-        "Similar federal loans have supported the restart of reactors at Three Mile Island and Clinton Clean Energy, reflecting a broader industry shift toward nuclear for AI workloads."
-      ],
-      "topics": [
-        "nuclear power",
-        "ai",
-        "data centers",
-        "energy policy",
-        "tech industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 15:25:35 +0000",
-      "processed_at": "2026-09-08T20:08:10.247699+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has shifted Chrome’s release cadence from a four‑week to a two‑week cycle, launching Chrome 153 on Tuesday across desktop, iOS, and Android. The change is driven by the rise of AI‑generated bugs and faster‑moving threats, allowing the company to close the N‑day patch gap and deliver security fixes more quickly. Faster releases also help Chrome ship new AI‑powered features and keep pace with emerging competitor browsers. The move sets a new industry standard, with Mozilla, Microsoft, and Brave already adopting similar schedules.",
-      "key_points": [
-        "Chrome now releases updates every two weeks.",
-        "Shift aims to reduce the N‑day patch gap amid AI‑driven security threats.",
-        "Faster releases enable quicker AI feature iteration and feature rollout.",
-        "Other browsers are following Chrome’s lead with two‑week cycles."
-      ],
-      "topics": [
-        "chrome",
-        "security",
-        "ai",
-        "browser",
-        "updates"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 15:04:09 +0000",
-      "processed_at": "2026-09-08T20:08:24.916778+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-      "title": "Mistral raises €3B as sovereign AI becomes big business | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Mistral AI announced a €3 billion Series D funding round that values the French lab at over €21 billion, making it the largest equity raise ever completed by a European technology company. The round was led by Samsung Electronics, with co‑lead participation from EQT‑managed Scaleup Europe Fund, PSG Equity, and a mix of European and U.S. investors such as a16z, Nvidia, and Salesforce Ventures. Mistral plans to use the capital to scale compute capacity, build a 1 GW European infrastructure by 2030, and expand its international footprint while positioning itself as an AI services provider that gives customers control over model choice and data residency. The deal underscores the growing push for sovereign AI solutions in Europe amid heightened concerns over U.S. tech dominance and regulatory scrutiny.",
-      "key_points": [
-        "Mistral AI raised €3 billion in a Series D, valuing it at over €21 billion, the largest equity raise for a European tech firm.",
-        "The funding was led by Samsung and backed by a mix of European and U.S. investors, highlighting a bipartisan push for sovereign AI infrastructure.",
-        "Mistral will use the money to build 1 GW of compute capacity in Europe by 2030 and expand its services to give customers control over model choice and data residency.",
-        "The company positions itself as an AI services provider rather than a model creator, aiming to address EU concerns about dependence on U.S. technology."
-      ],
-      "topics": [
-        "ai",
-        "funding",
-        "europe",
-        "sovereignai",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 14:17:48 +0000",
-      "processed_at": "2026-09-08T20:08:10.945720+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798",
-      "title": "A hacker stole $340M in a crypto heist, then returned most of it | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "A hacker stole roughly 4,000 bitcoins, worth about $340 million, from Liquid Network, a settlement layer built by Blockstream. The attacker, who identified as a “white‑hat,” claimed the theft was due to a software bug and promised to return the funds once the flaw was fixed. Blockstream confirmed the vulnerability was patched and has recovered about 3,400 of the stolen coins, leaving around 600 bitcoins (≈$47 million) still in the hacker’s possession. The incident ranks among the largest crypto heists of the year and has prompted the company to suspend operations until further security measures are implemented.",
-      "key_points": [
-        "A hacker stole ~4,000 BTC (~$340M) from Liquid Network.",
-        "The attacker was a “white‑hat” who returned most of the coins after a bug fix.",
-        "Blockstream patched the vulnerability and recovered ~3,400 BTC; ~600 BTC remain missing.",
-        "The heist is one of the largest crypto thefts of 2026 and led to a pause in Liquid Network operations."
-      ],
-      "topics": [
-        "crypto",
-        "heist",
-        "blockchain",
-        "security",
-        "blockstream"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 14:11:29 +0000",
-      "processed_at": "2026-09-08T17:22:03.275110+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Bluecore Energy, a startup founded by Kofi Asante, announced an oversubscribed $50 million seed round just months after a $10 million pre‑seed and emerging from stealth. The company builds small modular reactors on floating barges to deliver clean power to ports and nearby infrastructure, aiming to democratize access to energy and water. Investors include Slauson & Co., Harlem Capital, Ripple co‑founder Chris Larsen, Collab Capital, Kevin Hart’s HartBeat Ventures, and angels from Tesla, Uber, Amazon and Google, with Silverton Partners leading the round. The new capital will fund product development, regulatory work with the NRC and Coast Guard, nuclear fuel purchases, and scaling the supply chain to meet growing demand from ports, data centers and communities.\n",
-      "key_points": [
-        "Bluecore Energy secured $50M seed after a $10M pre‑seed, oversubscribed",
-        "Company builds floating SMRs to deliver clean power to ports and infrastructure",
-        "Investors include major VC and tech angels, led by Silverton Partners",
-        "Capital will fund regulatory approvals, fuel procurement and supply‑chain scaling"
-      ],
-      "topics": [
-        "nuclear energy",
-        "startups",
-        "clean energy",
-        "floating reactors",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 08 Sep 2026 14:10:17 +0000",
-      "processed_at": "2026-09-08T17:22:18.516116+00:00"
     }
   ]
 }

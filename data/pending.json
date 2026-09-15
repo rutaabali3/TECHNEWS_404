@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-14T22:39:45.015359+00:00",
+  "updated_at": "2026-09-15T01:15:59.474389+00:00",
   "items": [
-    {
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "feed_excerpt": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
-      "published": "Mon, 14 Sep 2026 18:08:43 +0000"
-    },
-    {
-      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "feed_excerpt": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
-      "published": "Mon, 14 Sep 2026 17:41:20 +0000"
-    },
     {
       "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
       "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
@@ -38,28 +26,10 @@
       "published": "Mon, 14 Sep 2026 14:30:00 +0000"
     },
     {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "feed_excerpt": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-      "published": "Mon, 14 Sep 2026 14:00:00 +0000"
-    },
-    {
       "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
       "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "feed_excerpt": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
       "published": "Mon, 14 Sep 2026 13:55:00 +0000"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "feed_excerpt": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "published": "Mon, 14 Sep 2026 21:51:02 +0000"
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "feed_excerpt": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "published": "Mon, 14 Sep 2026 20:44:14 +0000"
     },
     {
       "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
@@ -68,5 +38,5 @@
       "published": "Mon, 14 Sep 2026 20:07:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-14T22:39:59.015144+00:00"
+  "last_processed_at": "2026-09-15T01:16:12.437680+00:00"
 }
