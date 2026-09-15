@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-15T21:02:08.208153+00:00",
+  "updated_at": "2026-09-15T23:36:22.842474+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-15-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has launched a new WhatsApp Business Tools MCP server that lets AI agents such as Claude, Cursor, Codex, or ChatGPT set up and manage WhatsApp Business messaging, replacing a previously cumbersome multi‑tool process. The AI can create the business account, verify phone numbers, register for the Cloud API, check Terms of Service, and handle template creation, editing, testing, and monitoring. Meta’s expansion of its MCP server lineup aligns it with other tech firms offering AI‑enabled integration, streamlining onboarding for businesses. This move reduces manual steps and speeds up the setup of customer conversations on WhatsApp.",
+      "key_points": [
+        "Meta introduces WhatsApp Business Tools MCP, enabling AI agents to automate the setup and management of WhatsApp Business messaging",
+        "AI agents can handle account creation, phone verification, API registration, template creation, testing, and monitoring tasks",
+        "Meta expands its MCP server lineup, matching other companies that provide AI‑enabled integration",
+        "The feature simplifies onboarding and reduces manual effort for businesses using WhatsApp for customer communication"
+      ],
+      "topics": [
+        "meta",
+        "whatsapp",
+        "ai",
+        "mcp",
+        "business messaging"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "processed_at": "2026-09-15T23:35:53.571077+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22 | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "SpaceX is set to launch its 14th Starship test flight on September 22, aiming to place the upper stage into Earth orbit for the first time. The 75‑minute launch window opens at 7:15 a.m. CT and will carry 26 third‑generation Starlink satellites, marking the first revenue‑generating flight for the company’s launch division. The mission follows a July test that successfully deployed V3 Starlinks but did not reach orbit, and it follows SpaceX’s IPO in June, the largest in history. Engineers have made additional hardware and software changes to the Super Heavy booster and Starship heat shield to address prior failures, while the company plans to retire Falcon 9 and Falcon Heavy once Starship can fly reliably several times per week.",
+      "key_points": [
+        "14th Starship test flight scheduled for September 22, first upper stage to reach orbit",
+        "26 V3 Starlink satellites will be deployed, making it the first revenue‑generating launch for SpaceX’s launch division",
+        "Modifications to the Super Heavy booster and Starship heat shield were made after Flight 13 failures",
+        "SpaceX aims to retire Falcon 9 and Falcon Heavy once Starship achieves reliable weekly cadence"
+      ],
+      "topics": [
+        "spacex",
+        "starship",
+        "starlink",
+        "launch",
+        "satellite"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 18:16:07 +0000",
+      "processed_at": "2026-09-15T23:35:53.941960+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+      "title": "Nitter and XCancel are dead (again) after X's latest legal actions | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "X’s latest legal action has effectively ended the privacy‑friendly services Nitter and XCancel, which let users view X posts without logging in. After receiving a cease‑and‑desist letter accusing Nitter of unlawfully scraping X’s data, the project’s GitHub page was archived on September 11, and XCancel announced a suspension of its service. The closures follow a history of X’s attempts to curb third‑party access to its content, a move that limits users’ ability to read posts without engaging with X’s monetized platform.",
+      "key_points": [
+        "X issued a cease‑and‑desist to Nitter over alleged unlawful API use and data scraping.",
+        "Nitter’s GitHub repository was archived and XCancel suspended its service after a brief relaunch.",
+        "The shutdowns end privacy‑friendly, ad‑free ways to view X content without an account.",
+        "X’s actions reflect its broader strategy to prevent third‑party access to its data for monetization purposes."
+      ],
+      "topics": [
+        "social media",
+        "privacy",
+        "legal",
+        "open source",
+        "x"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 15:49:18 +0000",
+      "processed_at": "2026-09-15T23:35:53.231906+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Former TikTok employees Melody Chu and Jing Liu have launched an iOS camera app called Superpose that uses generative AI to suggest poses for selfies and portrait photos. The app, released in July, has already been downloaded more than 22,000 times and users have generated over 190,000 poses, offering five free generations per day and paid packs for additional shots. Superpose focuses on improving real‑life photography by coaching users on framing and composition, rather than creating AI‑generated backgrounds, and has raised $2.2 million from investors including Khosla Ventures, Meitu, and OVTR VC.",
+      "key_points": [
+        "Superpose generates AI‑suggested poses for selfies and portrait photography, offering free daily generations and paid packs",
+        "The app has surpassed 22,000 downloads and 190,000 generated poses since its July launch",
+        "It has secured $2.2 million in funding from Khosla Ventures, Meitu, and OVTR VC",
+        "The founders emphasize real‑life portrait capture over AI‑generated backgrounds or fantastical scenes"
+      ],
+      "topics": [
+        "ai",
+        "photography",
+        "startup",
+        "app",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 14:42:37 +0000",
+      "processed_at": "2026-09-15T23:35:53.663232+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Header-1.png?resize=1200,458",
+      "title": "Spotify finally lets parents exclude kids' music from Wrapped and recommendations | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Spotify has introduced a new toggle that lets parents exclude kids’ music from their taste profile, which will stop tracks like Kidz Bop and Disney songs from influencing personalized playlists and the year‑end Wrapped summary. The feature is rolling out globally on mobile for both Free and Premium users and works retroactively, removing previously streamed children’s songs from Discover Weekly, Daily Mix and Wrapped. Parents can now keep their accounts from being skewed by shared listening on home devices, smart speakers, and cars. The change follows years of user complaints that family accounts were being used for kids’ listening, which distorted the platform’s recommendation engine.",
+      "key_points": [
+        "Spotify introduces a toggle to exclude kids’ music from taste profiles, affecting playlists and Wrapped",
+        "The feature rolls out globally on mobile for Free and Premium users and works retroactively",
+        "It addresses long‑standing complaints about shared family accounts skewing recommendations"
+      ],
+      "topics": [
+        "spotify",
+        "music",
+        "parenting",
+        "recommendations",
+        "wrapped"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-15T23:36:07.337148+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-15-us-military-confirms-it-launched-space-weapons-into-earths-orbit",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=1024",
@@ -2338,129 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 19:08:59 +0000",
       "processed_at": "2026-09-09T21:51:48.486645+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-09-09-apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675",
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Apple unveiled the Apple Watch Series 12 and Ultra 4 at its iPhone launch event, offering no major hardware changes but adding AI‑driven audio features such as Live Rewind, Siri Recap, and Sound Recognition. The watches also feature an upgraded health‑sensing system that captures heart‑rate data every five seconds, provides readiness scores, and introduces a Health Age metric. The Series 12 starts at $399 and the Ultra 4 at $499, and Apple emphasizes that the new audio intelligence does not create or store recordings.",
-      "key_points": [
-        "Apple adds AI‑powered audio features like Live Rewind and Siri Recap to its new watches",
-        "Health sensors now record heart rate every five seconds and offer readiness and Health Age metrics",
-        "Series 12 and Ultra 4 retain existing hardware design and are priced at $399 and $499 respectively",
-        "The audio intelligence features do not store or create audio recordings"
-      ],
-      "topics": [
-        "apple",
-        "smartwatch",
-        "ai",
-        "healthtech",
-        "wearables"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 18:08:46 +0000",
-      "processed_at": "2026-09-09T21:51:36.563452+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Apple unveiled the Apple Reference Image feature at its Surprise and Shine event, allowing iPhone 18 Pro users to verify that a photo has not been altered by comparing a signed sensor‑captured reference image with any edited version. The reference image, described as a digital negative, is stored in Apple’s Private Cloud Compute and can be accessed in the Photos app, with APIs soon to be available for third‑party developers. In addition to this authenticity tool, Apple announced a variable‑aperture 48‑megapixel fusion main camera that uses six laser‑cut blades and a custom rotor mechanism to give photographers finer control over light, especially in low‑light conditions. The company also pledged support for the SynthID standard to help users detect AI‑generated or altered images.",
-      "key_points": [
-        "Apple introduces Apple Reference Image to prove iPhone photos are authentic using signed sensor data",
-        "The feature creates an unalterable image viewable in Photos and will be exposed via APIs for developers",
-        "iPhone 18 Pro adds a variable‑aperture 48‑MP fusion main camera with laser‑cut blades for better low‑light control",
-        "Apple supports the SynthID standard to identify AI‑generated or altered images"
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "photography",
-        "ai",
-        "camera"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 18:08:35 +0000",
-      "processed_at": "2026-09-09T21:51:36.245813+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674",
-      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "A bipartisan group of U.S. lawmakers has asked the Commerce Department to add three Indian hack‑for‑hire firms—BellTroX, CyberRoot, and Sunkissed Organic Farms (formerly Appin)—to its entity list, effectively banning U.S. businesses from transacting with them. The firms are accused of targeting Americans, stealing data, manipulating litigation, and using foreign courts to silence reporting on their activities. The lawmakers argue that the companies’ actions undermine constitutional rights and that sanctions would cut off access to critical technology such as software licenses and cloud infrastructure. The request follows extensive investigative reporting that links the firms to state‑backed operations and a history of aggressive censorship campaigns.",
-      "key_points": [
-        "Lawmakers urge Commerce Department to add BellTroX, CyberRoot, and Sunkissed Organic Farms to the entity list.",
-        "The firms are accused of long‑term cyberattacks, data theft, and using foreign courts to suppress reporting.",
-        "Potential sanctions would bar U.S. companies from accessing software licenses and cloud infrastructure."
-      ],
-      "topics": [
-        "hack-for-hire",
-        "cybersecurity",
-        "sanctions",
-        "foreign courts",
-        "lawmakers"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 13:01:00 +0000",
-      "processed_at": "2026-09-09T21:51:36.350521+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687",
-      "title": "The hinge for Apple's new foldable phone was built with AI | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Apple’s first foldable phone, the Duo, features a hinge that was designed and built with the help of AI and 3D printing, according to chief hardware officer Johny Srouji. During manufacturing, AI algorithms match each hinge to its housing, a confocal laser scans every unit, and up to 25 micro‑layers of custom photopolymer are 3D‑printed to eliminate residual waviness. The Duo also sports a custom nano‑texture finish that reduces glare and a multi‑layer lamination strategy aimed at boosting durability, though long‑term performance remains to be seen.",
-      "key_points": [
-        "Apple’s Duo foldable phone hinge was designed using AI algorithms to match each hinge to its housing.",
-        "Apple uses 3D printing to create up to 25 micro‑layers of custom photopolymer, reducing residual waviness.",
-        "The phone features a custom nano‑texture finish and multi‑layer lamination to improve durability.",
-        "Durability over long‑term use remains untested."
-      ],
-      "topics": [
-        "apple",
-        "foldable",
-        "ai",
-        "hardware",
-        "durability"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 19:21:48 +0000",
-      "processed_at": "2026-09-09T19:23:38.015265+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-harvey-hits-15-5b-valuation-months-after-reaching-11b",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Harvey, a legal AI startup, raised $550 million in a new round that values the company at $15.5 billion, nearly doubling its valuation in nine months. The round was co‑led by Diffusion and Lightspeed Venture Partners and follows earlier $200 million and $8 billion‑valuation rounds in March and December, respectively. With the fresh capital, Harvey has raised over $1.55 billion in total and is positioning itself as a leader in the legal sector by offering its own open‑weight model, Harvey Tenet, and encouraging customers to post‑train their own models. The move underscores the growing appetite for specialized AI firms that can compete with large‑scale labs while serving niche industries.",
-      "key_points": [
-        "Harvey secured $550 million, pushing its valuation to $15.5 billion, a near 40% increase from March’s $11 billion valuation.",
-        "The funding round was co‑led by Diffusion and Lightspeed Venture Partners, following multiple priced rounds since 2023.",
-        "Harvey is expanding its product line with the in‑house model Harvey Tenet and promoting customer‑trained open‑weight models, positioning itself as a legal‑AI alternative to OpenAI and Anthropic."
-      ],
-      "topics": [
-        "legal ai",
-        "venture capital",
-        "startup funding",
-        "ai models",
-        "law tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 18:34:24 +0000",
-      "processed_at": "2026-09-09T19:23:26.851254+00:00"
     }
   ]
 }

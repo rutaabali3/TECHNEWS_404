@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-15T21:01:38.097457+00:00",
+  "updated_at": "2026-09-15T23:35:52.210941+00:00",
   "items": [
     {
       "title": "Meta expands subscription push with new AI-focused plans",
       "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "feed_excerpt": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
       "published": "Tue, 15 Sep 2026 17:05:24 +0000"
-    },
-    {
-      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-      "feed_excerpt": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-      "published": "Tue, 15 Sep 2026 15:49:18 +0000"
-    },
-    {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "feed_excerpt": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "published": "Tue, 15 Sep 2026 14:42:37 +0000"
     },
     {
       "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
@@ -32,18 +20,6 @@
       "published": "Tue, 15 Sep 2026 13:00:00 +0000"
     },
     {
-      "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
-      "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
-      "feed_excerpt": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "feed_excerpt": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "published": "Tue, 15 Sep 2026 20:12:53 +0000"
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "feed_excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -56,17 +32,17 @@
       "published": "Tue, 15 Sep 2026 18:29:20 +0000"
     },
     {
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-      "feed_excerpt": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-      "published": "Tue, 15 Sep 2026 18:16:07 +0000"
-    },
-    {
       "title": "AI agents now have a place to snitch",
       "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "feed_excerpt": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
       "published": "Tue, 15 Sep 2026 17:42:59 +0000"
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "published": "Tue, 15 Sep 2026 21:47:38 +0000"
     }
   ],
-  "last_processed_at": "2026-09-15T21:02:07.121804+00:00"
+  "last_processed_at": "2026-09-15T23:36:07.337242+00:00"
 }
