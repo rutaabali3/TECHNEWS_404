@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-09-15T12:32:00.861165+00:00",
+  "updated_at": "2026-09-15T17:33:35.776339+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-15-health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/Thatch-founders.jpg?resize=1200,801",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Thatch, a health‑benefits marketplace that uses AI to match employees with individual insurance plans, closed a $108 million round that values the company at $1 billion, a dramatic jump from its $410 million valuation 17 months earlier. The funding comes from The General Partnership, Index Ventures, General Catalyst and Andreessen Horowitz and follows a $40 million Series B. Thatch’s growth is driven by rising employer healthcare costs—projected to rise over 8% in 2027—and workers’ demand for treatments like GLP‑1 drugs that traditional plans often exclude. By leveraging the ICHRA/CHOICE model, Thatch lets employers set a fixed health budget per employee, who can then choose from dozens of plans and use a debit card for out‑of‑pocket expenses, creating competition among insurers and cost savings for companies.\n",
+      "key_points": [
+        "Thatch raised $108 million, reaching a $1 billion valuation after a $40 million Series B 17 months earlier",
+        "The platform uses AI to recommend individual insurance plans under the ICHRA/CHOICE model, giving employees more choice and employers cost control",
+        "Rising employer healthcare costs and demand for GLP‑1 drugs are key drivers of Thatch’s rapid revenue growth"
+      ],
+      "topics": [
+        "healthcare",
+        "startup",
+        "valuation",
+        "benefits",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 17:02:04 +0000",
+      "processed_at": "2026-09-15T17:33:10.959476+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "OpenAI’s global policy chief Chris Lehane confirmed that OpenAI, Anthropic, and Google DeepMind have been in talks for several weeks about AI safety, following Anthropic CEO Dario Amodei’s call for industry cooperation. The discussion comes amid growing pressure from U.S. lawmakers and the FRONTIER Act to embed third‑party evaluators in frontier AI labs. While the companies say the coordination is aimed at preventing catastrophic risks, some executives warn it could raise antitrust concerns if it suppresses competition. The talks illustrate a shift toward a shared standards body that could monitor and slow the deployment of advanced models.",
+      "key_points": [
+        "OpenAI, Anthropic, and Google DeepMind have been negotiating AI safety protocols for weeks",
+        "The talks were sparked by Anthropic’s Amodei essay urging industry slowdown to avoid catastrophic risks",
+        "The collaboration could face antitrust scrutiny but is supported by the FRONTIER Act’s independent verification provision",
+        "Industry leaders plan a shared standards body to monitor and potentially slow advanced AI deployment"
+      ],
+      "topics": [
+        "ai safety",
+        "antitrust",
+        "industry collaboration",
+        "policy",
+        "frontier act"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "processed_at": "2026-09-15T17:33:11.287016+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-09-15-aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Profound-founders.jpg?resize=1200,798",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Profound, a startup that builds marketing software to help brands appear in AI search results, has closed a $180 million Series D that values the company at $1.8 billion, less than seven months after its $96 million Series C. The round was led by Sequoia and Kleiner Perkins, with existing investors Lightspeed Venture Partners, Khosla Ventures, and South Park Commons also participating. Founded two years ago as an analytics platform, Profound now offers tools for researching and creating marketing strategies that leverage generative engine optimization, and it reports a three‑fold revenue increase over the past six months. The company boasts more than 1,000 enterprise customers, including Comcast, The Estée Lauder Companies, and Walmart, underscoring its rapid growth and market traction.",
+      "key_points": [
+        "$180M Series D at a $1.8B valuation",
+        "Sequoia and Kleiner Perkins led the round, with existing investors joining",
+        "Revenue tripled in six months and the firm now serves over 1,000 enterprise customers",
+        "Profound focuses on generative engine optimization to boost brand visibility in AI search"
+      ],
+      "topics": [
+        "startup",
+        "valuation",
+        "series d",
+        "ai marketing",
+        "unicorn"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 15:22:48 +0000",
+      "processed_at": "2026-09-15T17:33:11.025532+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-15-new-italian-unicorn-exein-rides-the-physical-ai-wave",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Exein_-left-to-right-Gerardo-Gagliardo-CFO-Co-Founder-Gianni-Cuozzo-CEO-Founder-Giovanni-Alberto-Falcione-CTO-Co-Founder-.png?resize=1200,801",
@@ -2386,80 +2460,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 14:51:45 +0000",
       "processed_at": "2026-09-09T16:13:34.426959+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/uber-black-india.jpg?resize=1200,800",
-      "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Uber has injected $10 million into Indian fleet‑management startup Carrum Mobility, valuing the company at $168 million post‑money. The investment follows an earlier $7 million round that lifted Carrum’s valuation to $63 million, giving Uber a stake in the mid‑teens percent range. Carrum currently operates roughly 5,100 vehicles and 18,000 drivers across major Indian cities, supplying Uber’s entry‑level, premium and Black tiers and serving as Uber’s largest Black fleet partner in the country. The firm has seen its annualized revenue jump from about $6.5 million to $45 million, plans to double its fleet to 11,000 vehicles, and aims to expand beyond India as a global Uber fleet partner.",
-      "key_points": [
-        "Uber’s $10 million investment values Carrum at $168 million, up from $63 million after a prior $7 million round.",
-        "Carrum supplies 5,100 vehicles and 18,000 drivers to Uber, dominating the Black tier fleet in India.",
-        "Revenue grew from $6.5 million to $45 million and net profit roughly doubled in the last year.",
-        "The startup plans to double its fleet to 11,000 vehicles, expand into more cities, and pursue global partnership ambitions."
-      ],
-      "topics": [
-        "uber",
-        "fleet management",
-        "startup",
-        "investment",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 14:38:41 +0000",
-      "processed_at": "2026-09-09T16:13:16.267375+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Instacart has launched Clementine, an AI‑powered grocery shopping assistant that turns conversations, recipes, or grocery lists into ready‑to‑buy carts. The assistant can suggest personalized recipes, filter by dietary preferences, surface deals, and even convert photo or screenshot lists into cart items. By offering these planning tools, Instacart aims to keep users within its app rather than turning to external chatbots, positioning itself as a default meal‑planning companion. Clementine is currently available in the United States and Canada.",
-      "key_points": [
-        "Instacart introduces Clementine, an AI assistant that converts natural language requests into grocery carts.",
-        "Clementine offers personalized recipes, dietary filtering, and in‑app deals to streamline shopping.",
-        "The launch reflects a broader shift among delivery apps toward becoming household meal‑planning tools."
-      ],
-      "topics": [
-        "instacart",
-        "ai",
-        "grocery",
-        "delivery",
-        "mealplanning"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-09T16:13:15.985633+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-08-google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800",
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Fusionality, a Lausanne‑based startup founded by Google DeepMind alumni Federico Felici and Jonas Buchli, has raised a $3.7 million pre‑seed round to build modular control systems and simulation tools for fusion reactors. The company aims to standardize the common 80 % of control‑system logic used across magnetic‑confinement fusion plants, allowing startups to fine‑tune the remaining 20 % for their specific designs. By combining physics‑based models with machine‑learning interfaces, Fusionality plans to accelerate the deployment of fusion power for the grid. The funding will support a small team as it develops a “Lego‑block” suite of technologies that can be expanded to other fusion approaches.",
-      "key_points": [
-        "Founded by DeepMind alumni and raised $3.7 million pre‑seed",
-        "Focuses on modular control systems that standardize 80 % of fusion reactor logic",
-        "Uses AI to complement, not replace, control systems",
-        "Aims to accelerate fusion power deployment for the grid"
-      ],
-      "topics": [
-        "fusion",
-        "startups",
-        "deepmind",
-        "ai",
-        "energy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 06:00:00 +0000",
-      "processed_at": "2026-09-09T06:29:23.255089+00:00"
     }
   ]
 }
