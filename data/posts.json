@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-16T18:20:07.383554+00:00",
+  "updated_at": "2026-09-16T21:34:17.148257+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-video-how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?resize=1200,675",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Fortell, an AI‑driven hearing‑aid startup, has secured $163 million in funding from Founders Fund, Thrive Capital and Valor Equity Partners. The company is developing devices that use real‑time sound analysis to amplify important sounds while suppressing background noise, moving beyond the one‑size‑fits‑all approach of current hearing aids. Fortell’s launch challenges a market dominated by five firms that control 97 % of hearing‑aid sales, a sector where insurance rarely covers the cost. The move signals a potential shift toward more personalized, tech‑enabled hearing solutions.",
+      "key_points": [
+        "Fortell raised $163 million from Founders Fund, Thrive Capital and Valor Equity Partners",
+        "The startup uses AI to selectively amplify important sounds and suppress background noise in hearing aids",
+        "It targets a market dominated by five companies that hold 97 % of hearing‑aid sales",
+        "Insurance typically does not cover hearing aids, limiting accessibility"
+      ],
+      "topics": [
+        "hearing aids",
+        "ai",
+        "startup funding",
+        "healthtech",
+        "monopoly"
+      ],
+      "source_url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-16T21:33:49.567325+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/10/23584287926_9ad6b13311_k.jpg?resize=1200,800",
+      "title": "3 days left to exhibit at TechCrunch Disrupt 2026",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will take place from October 13-15 at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech leaders across 200+ sessions and six industry stages. The event’s last day to book an exhibit table is Friday, September 18 at 11:59 p.m. PT, offering a 6′ × 30″ table in the Expo Hall’s highest‑traffic area along with 10 team passes, website and app branding, press‑list access, and Silver Tier sponsor branding. Attendees can also access Deal Flow Café and Investor‑to‑Founder networking opportunities, while non‑exhibiting founders can still purchase tickets at a discount of up to $200 before prices rise on September 25. The expo promises AI‑powered matchmaking and a chance to discover 300+ startups, including the Startup Battlefield 200, making it a prime venue for lead generation and partnership building.",
+      "key_points": [
+        "Last day to book an exhibit table is September 18 at 11:59 p.m. PT",
+        "Exhibit tables include 10 passes, branding, press‑list access, and Silver Tier sponsor branding",
+        "Disrupt 2026 hosts 10,000+ attendees, 200+ sessions, and AI matchmaking",
+        "Tickets can be saved up to $200 before September 25"
+      ],
+      "topics": [
+        "tech events",
+        "startup expo",
+        "investor networking",
+        "ticket discounts",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-16T21:34:01.434377+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-16-hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?resize=1200,800",
@@ -2413,56 +2463,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 19:56:18 +0000",
       "processed_at": "2026-09-10T08:48:32.354922+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/cymphony-founders.jpg?resize=1200,800",
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Sequoia Capital has committed $30 million in a Series A round for AI‑security startup Cymphony, valuing the New York‑ and Tel Aviv‑based company at over $100 million. The funding follows an earlier undisclosed seed investment and comes as Cymphony’s platform—built around a “workforce graph” that tracks human, AI, and other nonhuman identities—helps enterprises spot and remediate AI‑driven data exposure. In early deployments the company identified roughly 85,000 files exposed to AI tools at a U.S. public firm and closed the risk without any AI‑driven access. Sequoia’s bet signals a growing recognition that traditional identity controls are ill‑suited for the dynamic, autonomous agents now being deployed across corporate environments.",
-      "key_points": [
-        "Sequoia Capital invested $30 million in Cymphony, valuing the startup at more than $100 million after the Series A round.",
-        "Cymphony’s workforce‑graph platform provides a unified view of human and AI identities, enabling detection and remediation of AI‑related security gaps.",
-        "The startup has already uncovered and closed tens of thousands of files exposed to AI agents in large enterprises.",
-        "The investment reflects the increasing importance of dedicated AI‑agent security solutions in the cybersecurity market."
-      ],
-      "topics": [
-        "sequoia",
-        "cymphony",
-        "ai agent security",
-        "cybersecurity",
-        "venture capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-10T08:48:32.212553+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/autonomy-app-bronco-square-white-ver-2.jpg?resize=1200,1200",
-      "title": "Exclusive: Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Autonomy, a California startup that originally aimed to offer a subscription service for 23,000 electric vehicles, has pivoted to include internal combustion engine cars after struggling with an EV price war and a shrinking fleet. The company will now add gas‑powered Ford models such as the Mustang, Ranger, F‑150, Bronco Sport, Escape, and Explorer sourced from Galpin Motors, targeting customers like students, military families, foreign workers, and those seeking a \"company car\" experience. Autonomy’s CEO Fred Weick says the shift to familiar powertrains will attract users who want quick, hassle‑free mobility amid rising new‑car prices. Despite the pivot, the firm still maintains a small EV fleet and continues to pursue subscriptions as a way to make vehicle ownership more accessible for people with limited credit.",
-      "key_points": [
-        "Autonomy added gas‑powered Ford vehicles to its subscription fleet after an EV price war hit",
-        "The new lineup includes Mustang, Ranger, F‑150, Bronco Sport, Escape, Explorer sourced from Galpin Motors",
-        "Target customers: university students, military families, foreign workers, and \"company car\" seekers",
-        "Company still keeps a small EV fleet and aims to offer low‑credit‑score friendly subscriptions"
-      ],
-      "topics": [
-        "vehicle subscriptions",
-        "electric vehicles",
-        "internal combustion engine",
-        "startup",
-        "automotive industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-10T08:48:58.692847+00:00"
     }
   ]
 }

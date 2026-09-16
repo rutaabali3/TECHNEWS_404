@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:19:45.246498+00:00",
+  "updated_at": "2026-09-16T21:33:48.028884+00:00",
   "items": [
     {
       "title": "AI agents now have a place to snitch",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "published": "Tue, 15 Sep 2026 21:47:38 +0000"
-    },
-    {
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "published": "Wed, 16 Sep 2026 14:00:00 +0000"
     },
     {
       "title": "Former Infosys chief’s AI startup nabs another $53M",
@@ -41,12 +35,6 @@
       "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "feed_excerpt": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
       "published": "Wed, 16 Sep 2026 16:00:00 +0000"
     },
     {
@@ -78,7 +66,55 @@
       "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
       "feed_excerpt": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
       "published": "Wed, 16 Sep 2026 14:24:58 +0000"
+    },
+    {
+      "title": "Pulley, a Carta rival, is shutting down",
+      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "feed_excerpt": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+      "published": "Wed, 16 Sep 2026 21:23:19 +0000"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "feed_excerpt": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "published": "Wed, 16 Sep 2026 21:07:24 +0000"
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "feed_excerpt": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "published": "Wed, 16 Sep 2026 20:12:00 +0000"
+    },
+    {
+      "title": "X will now let US users trade via Cashtags",
+      "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+      "feed_excerpt": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
+      "published": "Wed, 16 Sep 2026 19:57:22 +0000"
+    },
+    {
+      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "feed_excerpt": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
+      "published": "Wed, 16 Sep 2026 19:35:29 +0000"
+    },
+    {
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "feed_excerpt": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+      "published": "Wed, 16 Sep 2026 19:02:49 +0000"
+    },
+    {
+      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "published": "Wed, 16 Sep 2026 18:45:35 +0000"
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "feed_excerpt": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "published": "Wed, 16 Sep 2026 18:25:25 +0000"
     }
   ],
-  "last_processed_at": "2026-09-16T18:19:51.867287+00:00"
+  "last_processed_at": "2026-09-16T21:34:01.434488+00:00"
 }
