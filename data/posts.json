@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-15T23:36:22.842474+00:00",
+  "updated_at": "2026-09-16T04:03:12.589338+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-15-us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035 | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "By 2035 U.S. data centers are projected to consume 18 billion cubic feet of natural gas per day, surpassing the combined usage of Germany and Japan. Onsite gas‑powered plants announced by Meta, Microsoft, Google and Amazon could account for roughly 3 billion cubic feet per day, while grid‑connected centers are expected to add another 15 billion cubic feet. The resulting demand spike could drive natural gas prices higher and generate about 1 million metric tons of CO₂ emissions daily—roughly 12 % of U.S. greenhouse gas output. This growth would outpace other grid‑connected sectors and could strain utility ratepayers despite tech firms’ financial capacity to absorb higher costs.",
+      "key_points": [
+        "U.S. data centers projected to use 18 Bcf/day of natural gas by 2035, exceeding Germany and Japan combined",
+        "Onsite gas plants by major tech firms could supply ~3 Bcf/day, while grid‑connected centers add ~15 Bcf/day",
+        "The surge may raise natural gas prices and add ~1 million metric tons of CO₂ emissions daily, about 12 % of U.S. GHGs",
+        "Demand growth could outstrip other grid sectors and impact utility ratepayers"
+      ],
+      "topics": [
+        "data centers",
+        "natural gas",
+        "climate change",
+        "energy demand",
+        "tech industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 18:29:20 +0000",
+      "processed_at": "2026-09-16T04:03:09.416417+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-meta-expands-subscription-push-with-new-ai-focused-plans",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "title": "Meta expands subscription push with new AI-focused plans | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has launched Meta One, a new subscription service that bundles its existing Instagram Plus, Facebook Plus, and WhatsApp Plus tiers with expanded access to Muse AI tools for image, video, and story editing. The Core ($7.99/month) and Premium ($19.99/month) plans target power users, while a suite of business and creator plans—Essential, Advanced, Expert, and Max—offer tiered features such as advanced analytics, team access, and Meta Business Agent support. Early data shows the Plus tiers already boosted Instagram’s daily revenue to $1.2 million and Facebook’s to $528,000, and Meta projects the subscription push could add $13.5 billion by 2028 and $20 billion by 2030. The rollout reflects Meta’s strategy to monetize its $14.3 billion AI investment and broaden its monetization beyond ad revenue.",
+      "key_points": [
+        "Meta One bundles existing Plus tiers with expanded Muse AI usage under Core and Premium plans",
+        "Instagram and Facebook Plus tiers have already increased daily revenue to $1.2 million and $528,000 respectively",
+        "Business and creator plans range from Essential to Max, adding advanced analytics, team access, and Meta Business Agent features",
+        "Meta forecasts the subscription strategy could generate $13.5 billion by 2028 and $20 billion by 2030"
+      ],
+      "topics": [
+        "meta",
+        "subscription",
+        "ai",
+        "social media",
+        "business"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "processed_at": "2026-09-16T04:02:51.946050+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1359469404.jpg?resize=1200,800",
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "India will impose a 0.4% merchant fee on Unified Payments Interface (UPI) transactions above ₹2,000 (about $21) starting October 15, while consumers will continue to use the service for free. The fee is capped at ₹300 (about $3) for payments of ₹75,000 (around $783) or more, and small merchants earning up to ₹100,000 a month are exempt. The move aims to make the UPI network financially self‑sustaining by covering its estimated ₹200 billion ($2.1 billion) annual operating cost and funding infrastructure, cybersecurity, and fraud prevention. Merchants cannot pass the fee onto customers, but the new charge could influence payment method choices for larger purchases.",
+      "key_points": [
+        "0.4% merchant fee on UPI payments above ₹2,000 begins Oct 15",
+        "Fee capped at ₹300 for transactions of ₹75,000 or more; small merchants exempt",
+        "Goal is to cover ₹200 billion annual operating cost and fund infrastructure",
+        "Merchants cannot charge customers; consumers remain free"
+      ],
+      "topics": [
+        "upi",
+        "merchant fees",
+        "digital payments",
+        "india",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 14:22:49 +0000",
+      "processed_at": "2026-09-16T04:02:51.906179+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-15-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
@@ -2387,81 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 17:58:14 +0000",
       "processed_at": "2026-09-09T23:55:40.763913+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-doj-wants-more-answers-on-foxs-22b-roku-deal",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800",
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "The U.S. Justice Department has issued a second request for documents in the antitrust review of Fox’s $22 billion acquisition of Roku, signaling deeper scrutiny of the deal’s competitive implications.  The inquiry focuses on how Fox’s vast content library and Roku’s dominant platform could give Fox‑owned services preferential placement, leverage data for advertising, and disadvantage rival streaming services.  The investigation comes amid criticism of the DOJ’s handling of politically connected mergers, with Fox’s Murdoch family’s ties to former President Trump adding a political dimension.  The merger is still expected to close in the first half of 2027 if approved.",
-      "key_points": [
-        "DOJ issued a second request for more data on the Fox‑Roku merger, indicating heightened antitrust scrutiny.",
-        "Concerns include potential preferential treatment of Fox content on Roku’s platform and use of user data to boost advertising.",
-        "The case is politically charged due to the Murdoch family’s ties to President Trump and past DOJ criticism of similar deals.",
-        "The merger is slated to close in the first half of 2027 if cleared by regulators."
-      ],
-      "topics": [
-        "antitrust",
-        "mergers",
-        "media",
-        "streaming",
-        "politics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 16:44:21 +0000",
-      "processed_at": "2026-09-09T23:55:20.346896+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-viral-ai-assistant-instinct-now-has-its-own-email-address",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1200",
-      "title": "Viral AI assistant Instinct now has its own email address | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Instinct, the AI assistant valued at $2.5 billion, has launched its own email addresses so it can create and manage accounts on behalf of users without cluttering their inboxes. Founder Noah Shinn explained the feature lets Instinct sign up for services, contact businesses, and handle tasks that require email, such as reservations or returns, autonomously. The rollout builds on recent partnerships with 1Password for login support, Stripe for seamless payments, and a location‑sharing capability that helps Instinct find nearby businesses and plan itineraries. Users can claim an Instinct email at mail.instinct.com and forward messages to the bot to gather information and act independently.",
-      "key_points": [
-        "Instinct now has dedicated email addresses for autonomous account handling",
-        "The feature reduces user credential sharing and inbox clutter",
-        "Partnerships with 1Password, Stripe, and location sharing expand its automation scope",
-        "Users can claim or forward emails to Instinct via mail.instinct.com"
-      ],
-      "topics": [
-        "ai assistants",
-        "email integration",
-        "user privacy",
-        "automation",
-        "fintech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 15:13:12 +0000",
-      "processed_at": "2026-09-09T23:55:25.913223+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apple-watchs-new-feature-listens-to-your-chats-and-recaps-them",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-watch-granola.jpg?resize=1200,675",
-      "title": "Apple Watch’s new feature listens to your chats and recaps them | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple introduced Siri Recap, a meeting‑notetaking feature for the Apple Watch Series 12 and Ultra 4 that listens to ambient audio and automatically generates a title, summary, and key points. The feature can be set to always on, scheduled, or off, and Apple stresses that raw audio is not stored and recaps are end‑to‑end encrypted. Alongside Siri Recap, Apple added Shazam integration, sound‑recognition for sirens, alarms, and other loud noises, and Live Rewind, which lets users double‑press the crown to replay the last 15 seconds of conversation. While Apple touts privacy safeguards, the always‑listening nature of Siri Recap raises concerns about potential capture of sensitive information.",
-      "key_points": [
-        "Siri Recap automatically generates meeting notes from ambient audio on Apple Watch",
-        "New audio features include Shazam, sound recognition, and Live Rewind for quick recaps",
-        "Apple claims no raw audio is stored and recaps are encrypted, but privacy concerns remain",
-        "Users can control the feature’s activation schedule"
-      ],
-      "topics": [
-        "apple",
-        "watch",
-        "siri",
-        "audio intelligence",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 19:08:59 +0000",
-      "processed_at": "2026-09-09T21:51:48.486645+00:00"
     }
   ]
 }

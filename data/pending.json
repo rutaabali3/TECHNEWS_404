@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-15T23:35:52.210941+00:00",
+  "updated_at": "2026-09-16T04:02:50.686171+00:00",
   "items": [
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "feed_excerpt": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
-      "published": "Tue, 15 Sep 2026 17:05:24 +0000"
-    },
-    {
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "feed_excerpt": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
-      "published": "Tue, 15 Sep 2026 14:22:49 +0000"
-    },
     {
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
@@ -26,12 +14,6 @@
       "published": "Tue, 15 Sep 2026 19:00:00 +0000"
     },
     {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "feed_excerpt": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "published": "Tue, 15 Sep 2026 18:29:20 +0000"
-    },
-    {
       "title": "AI agents now have a place to snitch",
       "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "feed_excerpt": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
@@ -42,7 +24,13 @@
       "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "published": "Tue, 15 Sep 2026 21:47:38 +0000"
+    },
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "feed_excerpt": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000"
     }
   ],
-  "last_processed_at": "2026-09-15T23:36:07.337242+00:00"
+  "last_processed_at": "2026-09-16T04:03:09.416507+00:00"
 }
