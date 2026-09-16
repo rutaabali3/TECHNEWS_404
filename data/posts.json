@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-16T04:03:12.589338+00:00",
+  "updated_at": "2026-09-16T09:26:18.922321+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-15-we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "title": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "At Salesforce’s Dreamforce conference, Nvidia CEO Jensen Huang argued that artificial intelligence is simply a computing system that can be controlled by existing laws and engineering practices, and that new regulations are unnecessary. He emphasized that safety is an engineering problem, not a legal one, and that market forces will pressure companies to avoid releasing unsafe products. Huang cautioned that firms should pause if a product’s safety is uncertain, but otherwise pursue rapid innovation. His stance has sparked debate over whether the industry should rely on self‑regulation or adopt formal legal safeguards to prevent harm from AI systems.",
+      "key_points": [
+        "Huang claims AI safety is an engineering issue, not a legal one, and that existing laws suffice.",
+        "He believes the free market will deter companies from releasing unsafe AI products.",
+        "He warns firms should pause if safety is uncertain but otherwise pursue rapid innovation.",
+        "His position raises concerns about the adequacy of self‑regulation versus formal regulation."
+      ],
+      "topics": [
+        "ai regulation",
+        "ai safety",
+        "nvidia",
+        "dreamforce",
+        "product liability"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "processed_at": "2026-09-16T09:26:01.275923+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "The TechCrunch piece catalogs a growing \"AI graveyard,\" highlighting how many artificial‑intelligence ventures—both independent startups and corporate experiments—have shut down or pivoted after failing to sustain traction. It cites a 42% abandonment rate for AI initiatives within parent companies, citing funding gaps, technical hurdles, and stiff competition from larger platforms. The article spotlights specific failures such as Relay, OpenAI’s short‑lived super‑app and ChatGPT Atlas, Apple’s delayed Siri AI, Microsoft’s controversial Recall feature, and hardware attempts like the Humane AI Pin and Rabbit R1. Together, these stories illustrate the volatility of the AI market and the lessons that can be drawn for future product development.",
+      "key_points": [
+        "42% of corporate AI projects are abandoned due to funding, technical, or scaling challenges",
+        "Relay closed after larger platforms integrated similar automation, eroding its niche",
+        "OpenAI’s consolidation strategy led to the discontinuation of several standalone apps",
+        "Hardware ventures such as the Humane AI Pin and Rabbit R1 failed to meet performance expectations"
+      ],
+      "topics": [
+        "ai",
+        "startups",
+        "product failures",
+        "technology",
+        "industry trends"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "processed_at": "2026-09-16T09:26:01.677655+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/AIUC-founders-Rune-Kvist-Rajiv-Dattani.jpg?resize=1200,845",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Artificial Intelligence Underwriting Company (AIUC), founded by former Anthropic employee Rune Kvist and ex-METR COO Rajiv Dattani, has secured a $40 million Series A led by Ribbit Capital, bringing its total funding to $55 million. The startup builds an AIUC‑1 standard modeled after SOC 2, running roughly 5,000 tests to audit AI agents for jailbreaks, hallucinations, and data leaks, and delivers a 100‑page safety report verified by humans. AIUC’s clients include Cursor, Lovable, Harvey, and ElevenLabs, and the company aims to give enterprises an independent assessment of how safe their AI agents are before deployment. This effort follows growing concerns about rogue AI behavior and the need for third‑party safety verification in the industry.",
+      "key_points": [
+        "AIUC raised $40 million in Series A, totaling $55 million in funding",
+        "It created the AIUC‑1 standard, inspired by SOC 2, to audit AI agents with 5,000 tests",
+        "The audit produces a detailed safety report that is human‑verified",
+        "Clients such as Cursor, Lovable, Harvey, and ElevenLabs already use the service"
+      ],
+      "topics": [
+        "ai safety",
+        "startup",
+        "funding",
+        "cybersecurity",
+        "ai regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-16T09:26:01.423730+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-15-us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035",
       "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
@@ -2387,81 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 17:26:05 +0000",
       "processed_at": "2026-09-10T03:54:13.774851+00:00"
-    },
-    {
-      "id": "echcrunch-com-2026-09-09-suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Suno has launched a new model family, Suno v6, that is trained exclusively on licensed music from labels such as Warner Music Group, BMG, and Believe, in an effort to address ongoing copyright lawsuits. The lineup includes a base model for reliable, steerable outputs, an experimental \"wild\" version for ideation, and a faster \"mini\" version available to all users, with plans to retire older models. Suno also announced new features that allow users to edit songs, remix tracks, and use text, images, or video as creative prompts, while pledging to add watermarks and stricter download limits to curb misuse. Despite these steps, the company remains embroiled in legal disputes with Sony, Universal Music Group, and artists like Jason Isbell, and has admitted to training earlier models on YouTube videos.",
-      "key_points": [
-        "Suno’s Suno v6 is trained on licensed music to mitigate copyright claims",
-        "The new lineup offers base, wild, and mini models with varied use cases",
-        "Suno plans revenue‑generating features such as remixing and artist opt‑in programs",
-        "The company still faces lawsuits from major labels and artists"
-      ],
-      "topics": [
-        "ai music",
-        "copyright",
-        "startup",
-        "music industry",
-        "legal"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 12:05:34 +0000",
-      "processed_at": "2026-09-10T03:54:13.760908+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727",
-      "title": "Apple's revamped Health app will calculate your 'health age' and readiness score | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple unveiled a redesigned Health app that leverages Apple Intelligence to provide a new Insights tab, a readiness score, and a calculation of users’ \"Health Age\" based on metrics such as VO2 max, sleep, and blood biomarkers. The update also introduces a Longevity tab that aggregates data from the Apple Watch and iPhone to assess sleep, movement, heart health, and other factors, and it can incorporate lab results through a partnership with Quest for a 50‑biomarker panel. Users receive personalized guidance, in‑depth movement assessments, and coach‑style demonstrations to help improve fitness and recovery. The refreshed app will roll out later this year in U.S. English.",
-      "key_points": [
-        "Apple Health app now includes a Health Age metric and readiness score powered by Apple Intelligence",
-        "Longevity tab aggregates sleep, movement, heart health and lab biomarkers, with a Quest partnership for a 50‑biomarker panel",
-        "The app offers personalized guidance, in‑depth movement assessments, and coach‑style demonstrations",
-        "Updates will launch later this year in U.S. English"
-      ],
-      "topics": [
-        "apple",
-        "health",
-        "biomarkers",
-        "fitness",
-        "wearables"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 18:16:29 +0000",
-      "processed_at": "2026-09-09T23:55:20.030090+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apple-unveils-its-first-foldable-the-iphone-duo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "title": "Apple unveils its first foldable, the iPhone Duo | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple unveiled its first foldable phone, the iPhone Duo, at the Surprise and Shine event in Cupertino, marking the first marquee launch under new CEO John Ternus. The Duo features a 7.6‑inch unfolded Retina display and a 5.4‑inch outer screen, an under‑display camera, a custom nanotexture finish to hide the crease, and a grade‑5 aluminum hinge with over 100 components for smooth operation. Powered by the A20 Pro chip, the eSIM‑only device offers 48‑megapixel dual cameras, 31‑hour video playback on the inner display and 44 hours on the outer, and runs iOS 27 adapted for foldable use, with Apple Pencil support slated for later this year. Priced at $1,999 with 256 GB storage, preorders begin October 16 and the phone will ship on October 23, with analysts projecting it could capture up to 25% of the foldable market by year‑end.",
-      "key_points": [
-        "Apple’s iPhone Duo is its first foldable, featuring a 7.6‑inch unfolded screen and a 5.4‑inch outer display with an under‑display camera and a custom nanotexture crease finish",
-        "The device uses a grade‑5 aluminum hinge with over 100 special components, supports Touch ID only, and runs the new A20 Pro chip on an eSIM‑only platform",
-        "iOS 27 has been adapted for the foldable, allowing split‑screen use and vertical orientation, and Apple Pencil support will arrive later this year",
-        "The iPhone Duo is priced at $1,999, preorders start October 16, and it is expected to be available on October 23, potentially capturing up to 25% of the foldable market"
-      ],
-      "topics": [
-        "apple",
-        "foldable",
-        "iphone",
-        "technology",
-        "smartphone"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 17:58:14 +0000",
-      "processed_at": "2026-09-09T23:55:40.763913+00:00"
     }
   ]
 }
