@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-16T09:26:18.922321+00:00",
+  "updated_at": "2026-09-16T14:18:41.088201+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "echcrunch-com-2026-09-16-next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "title": "Here are the VCs judging in Startup Battlefield 200 Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will take place October 13-15 at Moscone West in San Francisco and will feature Startup Battlefield 200, a pitch competition that prioritizes company fundamentals over polished presentations. Five new venture‑capital judges—Aditi Maliwal of Upfront Ventures, Michael Palank of MaC Ventures, Nell Daly of Revenge Capital, Grace Ge of Amplify Partners, and Crystal Huang of Google Ventures—will evaluate founders across multiple industries. The event offers up to $200 in ticket savings before September 25, and the judges will probe conviction, clarity, execution, and the potential for the startups to become category leaders. The competition has a history of launching companies that shape entire markets, and this year’s lineup reflects a focus on diverse founders and emerging technologies.",
+      "key_points": [
+        "Five VC judges—Aditi Maliwal, Michael Palank, Nell Daly, Grace Ge, and Crystal Huang—will sit in Startup Battlefield 200’s judging seats",
+        "Disrupt 2026 runs October 13-15 at Moscone West and offers up to $200 in ticket savings before September 25",
+        "Startup Battlefield 200 emphasizes company fundamentals such as conviction, clarity, execution, and category‑leader potential over polished demos",
+        "The judges’ questions aim to uncover what rehearsed answers cannot, focusing on real problem solving and sustainable business models"
+      ],
+      "topics": [
+        "techconference",
+        "venturecapital",
+        "startuppitch",
+        "disrupt",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 14:15:00 +0000",
+      "processed_at": "2026-09-16T14:18:12.727968+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/SK-Hynix.jpg?resize=1200,675",
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US | TechCrunch",
+      "author": "Kate Park",
+      "summary": "South Korean memory‑chip giant SK Hynix is in talks with Intel about building RAM chips in the United States, a move that would mark the first time the company manufactures on U.S. soil.  The companies are exploring options such as leasing space at Intel’s planned Ohio factory and possibly forming a joint venture that could involve cloud‑service providers, though no concrete plans have been finalized.  SK Hynix is already investing $3.8 billion in an advanced packaging and research facility in Indiana that will use Korean DRAM wafers to produce high‑bandwidth memory for AI data centers.  The potential partnership comes amid U.S. efforts to expand domestic chip production and could trigger government review due to the strategic nature of the technology.",
+      "key_points": [
+        "SK Hynix is negotiating with Intel to manufacture RAM chips in the U.S., potentially leasing space at Intel’s Ohio plant",
+        "No decisions have been made yet; the companies are still exploring options including a joint venture with cloud providers",
+        "SK Hynix is already building a $3.8 billion AI‑chip facility in Indiana that will use Korean DRAM wafers",
+        "The deal would align with U.S. policy to boost domestic semiconductor manufacturing and may face regulatory scrutiny"
+      ],
+      "topics": [
+        "semiconductors",
+        "memory chips",
+        "us manufacturing",
+        "ai chips",
+        "trade policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 13:23:02 +0000",
+      "processed_at": "2026-09-16T14:18:37.265435+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-amazon-launches-alexa-in-india-with-hindi-support",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675",
+      "title": "Amazon launches Alexa+ in India with Hindi support | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Amazon has rolled out its Alexa+ conversational assistant in India, adding Hindi support and offering extended conversation, context retention, and multi‑step task handling. The new assistant is free for Prime members and costs ₹2,000 ($20.85) per month for non‑Prime users, and it can switch between English and Hindi mid‑sentence. It is integrated with local services such as Swiggy, Zomato District, TripAdvisor, MakeMyTrip, EazyDiner, Amazon Music, and JioSaavn, enabling grocery orders, smart‑home control, and entertainment. The launch targets India’s 600 million Hindi speakers and follows Amazon’s earlier Alexa+ releases in the U.S., U.K., Canada, Brazil, Mexico, Italy, and Germany.\n",
+      "key_points": [
+        "Alexa+ is now available in India with Hindi and English, free for Prime members and ₹2,000/month for non‑Prime users",
+        "The assistant supports longer conversations, context retention, multi‑step tasks, and language switching mid‑sentence",
+        "It is integrated with local services like Swiggy, Zomato District, TripAdvisor, MakeMyTrip, EazyDiner, Amazon Music, and JioSaavn",
+        "Amazon aims to tap the 600 million Hindi‑speaking market and reports a 20% growth in smart‑home devices"
+      ],
+      "topics": [
+        "amazon",
+        "alexa",
+        "india",
+        "hindi",
+        "smarthome"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 10:34:47 +0000",
+      "processed_at": "2026-09-16T14:18:12.783094+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-15-we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
@@ -2387,81 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 21:43:34 +0000",
       "processed_at": "2026-09-10T03:54:27.365332+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apple-shows-off-airpods-5-with-improved-active-noise-cancellation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198",
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Apple unveiled the AirPods 5 at its Surprise and Shine event, announcing a 50% improvement in active noise cancellation that the company calls industry‑best. The new earbuds add stem‑based volume control, hands‑free Siri with context‑aware responses, and an upgraded Transparency mode that adapts to the environment. Battery life now reaches five hours with ANC on a single charge and 22 hours total with the charging case. The base model starts at $129, the wireless‑charging version at $149, with preorders beginning today and shipping slated for September 18.",
-      "key_points": [
-        "AirPods 5 deliver 50% better active noise cancellation, touted as industry‑leading",
-        "Stem volume control and context‑aware Siri upgrades bring new convenience",
-        "Battery life extended to 5h with ANC and 22h total with case",
-        "Pricing starts at $129, $149 with wireless charging, preorders open now"
-      ],
-      "topics": [
-        "apple",
-        "airpods",
-        "noise cancellation",
-        "siri",
-        "battery"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 18:06:40 +0000",
-      "processed_at": "2026-09-10T03:54:13.687540+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple’s new CEO John Ternus announced at the Surprise and Shine event that the iPhone is already the best AI device and will remain the company’s central AI hub, emphasizing on‑device processing and privacy over new hardware. He described the ideal AI device as an intelligent personal hub that understands context, runs models locally, and seamlessly integrates with other Apple services. Ternus highlighted that Apple’s approach to AI will prioritize user data control, contrasting with competitors that collect and store personal data. The remarks signal Apple’s strategy to compete in the AI era without launching new AI‑specific devices.",
-      "key_points": [
-        "Apple positions the iPhone as its primary AI platform, avoiding new hardware",
-        "On‑device AI processing and privacy are core to Apple’s strategy",
-        "John Ternus has taken over from Tim Cook as CEO",
-        "Apple will not introduce new AI‑specific devices at this time"
-      ],
-      "topics": [
-        "apple",
-        "ai",
-        "privacy",
-        "iphone",
-        "leadership"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "processed_at": "2026-09-10T03:54:13.623015+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apple-launches-iphone-18-pro-with-upgraded-camera",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675",
-      "title": "Apple launches iPhone 18 Pro with upgraded camera | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max at its fall Surprise and Shine event, spotlighting a new 48‑megapixel camera with variable aperture and advanced pro controls that promise better low‑light performance and faster shooting. The devices run Apple’s A20 Pro chip, featuring a vapor‑chamber cooling system and an improved battery that supports 36‑hour video playback on the Pro and 45 hours on the Pro Max. A new Siri AI with contextual on‑screen intelligence launches in English beta alongside iOS 27, with additional language support slated for October, and the phones introduce a slimmer Dynamic Island that tracks three live activities. Priced at $1,199 for the Pro and $1,299 for the Pro Max, the models will be available for preorder on Saturday and ship on September 18.",
-      "key_points": [
-        "48‑megapixel camera with variable aperture and new pro controls",
-        "A20 Pro silicon with vapor‑chamber cooling and extended battery life",
-        "Siri AI launches in English beta with iOS 27, expanding to other languages in October",
-        "Prices are $1,199 and $1,299, $100 higher than last year’s models"
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "camera",
-        "ai",
-        "pricing"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 17:26:05 +0000",
-      "processed_at": "2026-09-10T03:54:13.774851+00:00"
     }
   ]
 }

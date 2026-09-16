@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T09:26:00.198942+00:00",
+  "updated_at": "2026-09-16T14:18:11.062131+00:00",
   "items": [
     {
       "title": "AI agents now have a place to snitch",
@@ -12,7 +12,25 @@
       "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "published": "Tue, 15 Sep 2026 21:47:38 +0000"
+    },
+    {
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "published": "Wed, 16 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "feed_excerpt": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "published": "Wed, 16 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+      "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "feed_excerpt": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
+      "published": "Wed, 16 Sep 2026 13:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-16T09:26:01.677749+00:00"
+  "last_processed_at": "2026-09-16T14:18:37.265536+00:00"
 }
