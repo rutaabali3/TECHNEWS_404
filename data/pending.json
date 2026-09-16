@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T14:18:11.062131+00:00",
+  "updated_at": "2026-09-16T18:19:45.246498+00:00",
   "items": [
     {
       "title": "AI agents now have a place to snitch",
@@ -30,7 +30,55 @@
       "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
       "feed_excerpt": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
       "published": "Wed, 16 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "feed_excerpt": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "published": "Wed, 16 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "feed_excerpt": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "feed_excerpt": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+      "published": "Wed, 16 Sep 2026 15:27:13 +0000"
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "published": "Wed, 16 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+      "feed_excerpt": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+      "published": "Wed, 16 Sep 2026 14:47:07 +0000"
+    },
+    {
+      "title": "Amazon gives its workers a raise of $1 per hour",
+      "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+      "feed_excerpt": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+      "published": "Wed, 16 Sep 2026 14:32:08 +0000"
+    },
+    {
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "feed_excerpt": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "published": "Wed, 16 Sep 2026 14:24:58 +0000"
     }
   ],
-  "last_processed_at": "2026-09-16T14:18:37.265536+00:00"
+  "last_processed_at": "2026-09-16T18:19:51.867287+00:00"
 }

@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-16T14:18:41.088201+00:00",
+  "updated_at": "2026-09-16T18:20:07.383554+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-16-hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?resize=1200,800",
+      "title": "Hackers publish thousands of drivers' data after breaching Florida motor vehicle database | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The ShinyHunters hacking group breached Florida’s motor vehicle database, DAVID, in early September and released hundreds of thousands of files on its leak site after the state refused to pay a ransom. The stolen data includes vehicle ownership certificates with owners’ names, addresses, and VINs, as well as a smaller set of records containing Social Security numbers, passports, and immigration documents, but no driver‑license photos. Florida’s Highway Safety and Motor Vehicles agency confirmed the breach, noting that the attackers accessed a police officer’s credentials stored on a personal device. The incident comes amid a broader wave of identity‑theft attacks, including a recent hack of IDScan that exposed over 150 million driver‑license images.\n",
+      "key_points": [
+        "ShinyHunters published hundreds of thousands of vehicle ownership records after Florida’s motor vehicle database was breached in September.",
+        "The stolen data included names, addresses, VINs, and some SSNs and passports, but no driver‑license photos.",
+        "Florida’s Highway Safety and Motor Vehicles confirmed the breach and cited stolen police credentials as the entry point.",
+        "The hack coincided with a larger identity‑theft incident at IDScan that exposed over 150 million driver‑license images."
+      ],
+      "topics": [
+        "data breach",
+        "cybersecurity",
+        "vehicle registration",
+        "identity theft",
+        "hacking"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 18:00:54 +0000",
+      "processed_at": "2026-09-16T18:19:51.867087+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675",
+      "title": "Anthropic merges Claude chat and Cowork in one interface | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Anthropic has unified its Claude chat, Cowork, and Artifacts tools into a single interface, automatically routing user requests to the appropriate feature without tab switching. The update also introduces new Docs and presentation capabilities, letting users create, edit, and download slides or documents directly from Claude. The changes roll out first to Pro and Max subscribers on web, desktop, and mobile, with plans to extend to free and team tiers later. The rollout follows an upgrade to Cowork’s memory layer, improving context retention across chats.",
+      "key_points": [
+        "Unified interface merges Claude chat, Cowork, Artifacts, and Claude Design into one window",
+        "New Docs and presentation features enable creation, editing, sharing, and downloading of slides and documents",
+        "Rollout begins with Pro and Max plans, with free and team tiers to follow",
+        "Cowork’s memory layer upgrade enhances context retention across conversations"
+      ],
+      "topics": [
+        "anthropic",
+        "claude",
+        "ai",
+        "productivity",
+        "interface"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "processed_at": "2026-09-16T18:19:46.337395+00:00"
+    },
     {
       "id": "echcrunch-com-2026-09-16-next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
       "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
@@ -2413,55 +2463,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 09 Sep 2026 13:00:00 +0000",
       "processed_at": "2026-09-10T08:48:58.692847+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Listen Labs, a voice‑AI market‑research startup, pulled back from a $125 million Series C that would have valued it at $1.5 billion after signing a term sheet led by Menlo Ventures. The withdrawal is widely believed to stem from ongoing acquisition talks with Salesforce, which has reportedly floated a roughly $2 billion offer. If the deal falls through, investors expect Listen Labs to re‑enter fundraising with a valuation of $2 billion or higher, while Salesforce may deem the 67× revenue multiple too steep. The company’s technology, used by clients such as Microsoft and Canva, automates customer interviews and delivers ready‑to‑use reports, positioning it as a key player in the AI‑driven research space.",
-      "key_points": [
-        "Listen Labs abandoned a $125 million Series C at a $1.5 billion valuation after signing a term sheet, likely due to Salesforce acquisition talks.",
-        "Salesforce has reportedly offered about $2 billion for the startup, but the deal is not finalized and may not materialize.",
-        "If the acquisition stalls, investors anticipate Listen Labs will seek a new valuation of $2 billion or higher in future fundraising."
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "salesforce",
-        "market research"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 00:00:37 +0000",
-      "processed_at": "2026-09-10T08:48:32.308425+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-massachusetts-hits-data-centers-with-new-clean-power-rules",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
-      "title": "Massachusetts hits data centers with new clean power rules | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Massachusetts has issued an executive order that forces data centers larger than 25 MW to supply 100% of their electricity from clean sources or contribute to a ratepayer protection fund. The governor also paused the state’s recent data‑center sales‑tax exemption to give regulators time to implement the new rule. This move follows similar restrictions in Texas and New York and signals a shift from incentives to stricter environmental requirements for the AI‑driven industry. Tech firms are responding with political advertising aimed at voters in key states ahead of the midterms.",
-      "key_points": [
-        "MA mandates 100% clean power for data centers over 25 MW or a fund contribution",
-        "The sales‑tax exemption for data centers is temporarily suspended",
-        "The order follows Texas and New York’s tighter data‑center rules",
-        "Tech companies are countering with voter‑targeted ads"
-      ],
-      "topics": [
-        "data centers",
-        "clean energy",
-        "state regulation",
-        "ai industry",
-        "public policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
-      "processed_at": "2026-09-10T03:54:27.365332+00:00"
     }
   ]
 }
