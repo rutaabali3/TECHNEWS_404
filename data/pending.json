@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:10:39.163369+00:00",
+  "updated_at": "2026-09-17T22:22:15.783850+00:00",
   "items": [
     {
       "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
@@ -20,12 +20,6 @@
       "published": "Thu, 17 Sep 2026 05:00:00 +0000"
     },
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "feed_excerpt": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "published": "Thu, 17 Sep 2026 00:58:49 +0000"
-    },
-    {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
       "feed_excerpt": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
@@ -36,24 +30,6 @@
       "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
       "feed_excerpt": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
       "published": "Thu, 17 Sep 2026 13:46:16 +0000"
-    },
-    {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "feed_excerpt": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "published": "Thu, 17 Sep 2026 13:38:33 +0000"
-    },
-    {
-      "title": "Lucid Motors has a potential robotaxi partner for Europe",
-      "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
-      "feed_excerpt": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
-      "published": "Thu, 17 Sep 2026 13:26:32 +0000"
-    },
-    {
-      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-      "url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-      "feed_excerpt": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.",
-      "published": "Thu, 17 Sep 2026 12:57:46 +0000"
     },
     {
       "title": "Spotify expands its partner program for podcasts to 35 new countries",
@@ -108,7 +84,43 @@
       "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
       "feed_excerpt": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
       "published": "Thu, 17 Sep 2026 15:50:29 +0000"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "feed_excerpt": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "published": "Thu, 17 Sep 2026 22:14:59 +0000"
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "feed_excerpt": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "published": "Thu, 17 Sep 2026 20:34:47 +0000"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "feed_excerpt": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "published": "Thu, 17 Sep 2026 20:34:24 +0000"
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "feed_excerpt": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "published": "Thu, 17 Sep 2026 20:19:37 +0000"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "feed_excerpt": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "published": "Thu, 17 Sep 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "feed_excerpt": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "published": "Thu, 17 Sep 2026 19:46:08 +0000"
     }
   ],
-  "last_processed_at": "2026-09-17T19:11:06.004958+00:00"
+  "last_processed_at": "2026-09-17T22:22:31.478750+00:00"
 }

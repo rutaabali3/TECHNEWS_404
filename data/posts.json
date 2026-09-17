@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-17T19:11:12.113299+00:00",
+  "updated_at": "2026-09-17T22:22:47.821226+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "ps-techcrunch-com-2026-09-17-google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Emerald AI, backed by Google, Nvidia, and Anthropic, has launched the AI Energy Management Alliance to use its grid‑management software to enable demand response in data centers, potentially freeing up 100 GW of grid capacity for new facilities. The coalition partners with utilities such as AES, Constellation, National Grid, and NRG Energy to coordinate load shifting and pause non‑critical tasks instead of relying on diesel generators. Emerald AI’s technology connects utilities directly to data centers, allowing rapid response similar to batteries, and the startup recently raised $150 M in Series A funding to scale the solution. While the approach can reduce the need for new generation, experts note it will not eliminate all grid challenges.",
+      "key_points": [
+        "Emerald AI’s coalition with Google, Nvidia, and Anthropic aims to free up 100 GW of grid capacity for data centers through demand response",
+        "The startup’s software links utilities directly to data centers, enabling rapid load shifting without diesel generators",
+        "Emerald AI raised $150 M in Series A funding to deploy its technology at scale"
+      ],
+      "topics": [
+        "data centers",
+        "grid management",
+        "demand response",
+        "ai",
+        "energy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 13:38:33 +0000",
+      "processed_at": "2026-09-17T22:22:17.003730+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-lucid-motors-has-a-potential-robotaxi-partner-for-europe",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Luicid-Gravity-interior-9.jpg?resize=1200,675",
+      "title": "Lucid Motors has a potential robotaxi partner for Europe | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Lucid Motors has teamed up with European mobility platform Bolt to bring its upcoming mid‑size electric vehicle platform to the continent, with plans to deploy at least 25,000 fully autonomous vehicles. The partnership will co‑design the vehicle and its software, using Nvidia’s Hyperion autonomous‑driving compute, though no order has yet been placed and a public deployment timeline remains unclear. Lucid’s new CEO Silvio Napoli, who recently restructured the company and delayed the mid‑size platform launch to the second half of 2027, sees robotaxi margins far exceeding those of the traditional retail model. Bolt aims to scale its autonomous fleet to 100,000 vehicles by 2035, positioning the collaboration as a major step toward that ambition.\n",
+      "key_points": [
+        "Lucid and Bolt plan to deploy 25,000 autonomous vehicles in Europe using Lucid’s mid‑size EV platform and Nvidia Hyperion technology.",
+        "No order has been placed yet; the partnership focuses on co‑designing vehicle and software rather than immediate production.",
+        "Lucid’s CEO Silvio Napoli views robotaxi margins as vastly higher than retail, aligning the deal with post‑restructuring strategy.",
+        "Bolt’s long‑term goal is 100,000 autonomous vehicles by 2035, with this partnership seen as a major milestone.\n"
+      ],
+      "topics": [
+        "robotaxi",
+        "autonomous vehicles",
+        "electric vehicles",
+        "partnerships",
+        "europe"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 13:26:32 +0000",
+      "processed_at": "2026-09-17T22:22:31.478676+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
+      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Bain Capital Ventures has closed a new $1.6 billion fund, a 14% increase over its $1.4 billion fund three years ago, and plans to deploy the capital mainly into AI‑focused startups. The firm is targeting the post‑AGI era, prioritizing infrastructure, healthcare, physical AI and security, and has highlighted portfolio companies such as data‑center developer Crusoe, longevity pet startup Loyal, and AI defender Dream. BCV intends to back 30 to 40 companies from seed through Series B, with partners often working in pairs or trios to provide thoughtful, hands‑on support. Its affiliation with Bain Capital gives it a unique advantage, offering founders not only equity but also debt facilities, infrastructure partnerships and real‑economy relationships.",
+      "key_points": [
+        "BCV raised a $1.6 billion fund, 14% larger than its previous fund",
+        "The firm will focus on AI, AGI infrastructure, healthcare and security startups",
+        "BCV plans to invest in 30–40 companies from seed to Series B, with partners collaborating closely",
+        "Bain Capital’s backing allows BCV to offer equity plus debt and infrastructure support"
+      ],
+      "topics": [
+        "venture capital",
+        "ai",
+        "healthcare",
+        "security",
+        "infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 12:57:46 +0000",
+      "processed_at": "2026-09-17T22:22:17.476530+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Snap is attempting to salvage its $2,200 Specs smart glasses after a poorly received launch by adding new entertainment, AI, and enterprise features at a Los Angeles event. The company unveiled integration with HBO Max and Spotify, introduced Specs Intelligence—a predictive AI system that syncs with iPhones, Macs, and the glasses to streamline productivity, and launched Specs for Enterprise to embed the device in corporate workflows with partners like Amazon, Salesforce, and Nvidia. Additional announcements include an NBA/WNBA AR training app, a Verizon‑powered cellular connectivity package priced at $10/month for Verizon customers and $20/month for others, and a pop‑up showcase scheduled for October. Despite these efforts, the heavy, pricey hardware remains a niche product aimed primarily at IT professionals and tech enthusiasts, with its broader consumer appeal still uncertain.",
+      "key_points": [
+        "Snap added HBO Max, Spotify, and a predictive AI system called Specs Intelligence to give its $2,200 glasses more utility.",
+        "The company introduced Specs for Enterprise, partnering with Amazon, Salesforce, and Nvidia to target corporate IT teams.",
+        "A Verizon‑based cellular connectivity package will let users use Specs on the go for $10/month (Verizon) or $20/month (non‑Verizon).",
+        "An AR basketball training app and a pop‑up event in October signal Snap’s push to broaden the glasses’ appeal."
+      ],
+      "topics": [
+        "smartglasses",
+        "ai",
+        "enterprise",
+        "entertainment",
+        "verizon"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "processed_at": "2026-09-17T22:22:17.402373+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-16-x-will-now-let-u-s-users-trade-via-cashtags",
       "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
@@ -2365,105 +2464,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 11 Sep 2026 13:32:54 +0000",
       "processed_at": "2026-09-11T14:15:10.741480+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
-      "title": "India's Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Pocket FM, an Indian audio storytelling platform, has doubled its annualized revenue run rate to $500 million, driven largely by the adoption of generative AI that now powers 93% of its catalog and 99% of new content. The company reports that AI has cut production costs about 80‑fold, enabling it to produce 100 hours of content in a day and expand its library from 100,000 to over 770,000 audio series while boosting 12‑month revenue retention to 76%. Pocket FM’s U.S. market accounts for roughly 70% of revenue, with $85 million from ads and the rest from paid episodes, and its parent company is exploring new formats such as the AI‑produced Pocket Saga microdrama and plans to raise $100‑$120 million without an immediate IPO.",
-      "key_points": [
-        "AI now powers 93% of Pocket FM’s catalog and 99% of new content, cutting production costs 80‑fold",
-        "Revenue run rate has doubled to $500 million, with the U.S. market contributing about 70% of revenue and a 12‑month retention rate of 76%",
-        "Pocket Entertainment is expanding into new entertainment formats and seeking $100‑$120 million in funding while deferring a public listing for at least 24 months"
-      ],
-      "topics": [
-        "ai",
-        "audio",
-        "startup",
-        "revenue",
-        "content production"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 17:45:00 +0000",
-      "processed_at": "2026-09-11T09:56:35.742431+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Google has agreed to buy 1 million carbon credits from Indian climate‑tech startup Mitti Labs through 2030, a deal that the companies say is the largest publicly announced purchase of credits generated from cutting methane emissions in rice farming. The four‑year agreement will cover about 100,000 hectares of rice farms in Karnataka, Andhra Pradesh and Telangana, paying farmers to adopt practices that reduce the duration of flooded fields and cut methane releases by roughly 50% while also saving about 40% of irrigation water. Mitti Labs’ GeoAI platform uses satellite radar imagery and field data to monitor crop growth, soil moisture and flooding, enabling the project to maintain yields while lowering emissions. The deal supports Google’s net‑zero goal by 2030 and gives Mitti Labs the scale needed to expand its technology to millions of farmers across India and beyond.",
-      "key_points": [
-        "Google will purchase 1 million carbon credits from Mitti Labs through 2030, covering 100,000 hectares of rice farms in three Indian states.",
-        "Mitti Labs’ GeoAI platform cuts methane emissions by about 50% and irrigation water use by about 40% without reducing crop yields.",
-        "The agreement is the largest publicly announced methane‑credit deal and will enable Mitti Labs to scale to millions of farmers.",
-        "Google’s net‑zero target and expanding AI infrastructure drive its investment in agricultural carbon removal."
-      ],
-      "topics": [
-        "google",
-        "carboncredits",
-        "methane",
-        "agriculture",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 13:34:01 +0000",
-      "processed_at": "2026-09-11T09:56:42.916884+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-furos-founders-left-silicon-valley-and-its-paying-off",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900",
-      "title": "Furo's founders left Silicon Valley — and it's paying off | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Furo, a Munich‑based startup that builds software for industrial battery storage, raised $4 million from U.S. investors after its founders left Silicon Valley and relocated to Germany. The move has accelerated growth, allowing the company to land enterprise customers such as Deutsche Bahn within a year of founding. Operating in Europe gives Furo cost advantages, strong university ties, and a robust talent pool, while the founders still visit the U.S. quarterly to maintain investor relationships. The story illustrates how a hybrid presence can combine U.S. capital with European operational benefits for energy tech startups.",
-      "key_points": [
-        "Furo secured $4 million in U.S. funding after relocating to Germany",
-        "The founders’ move enabled rapid growth and early enterprise deals like Deutsche Bahn",
-        "European operations offer lower talent costs and strong university networks",
-        "The team maintains U.S. investor ties while operating from Munich"
-      ],
-      "topics": [
-        "startup",
-        "venturecapital",
-        "energy",
-        "europe",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 20:48:00 +0000",
-      "processed_at": "2026-09-11T05:06:14.848767+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "title": "Meta's AI agent Muse is now the No. 2 app in the US | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta’s new AI agent, Muse, has climbed to the No. 2 spot on the U.S. App Store after downloading over 83,000 times, a figure that still lags behind the launch numbers of Meta’s own Threads and Meta AI, as well as OpenAI’s ChatGPT. The app is currently limited to iOS in the United States, while its Android counterpart ranks only 338th in Google Play’s Productivity category. Muse’s slower uptake may be influenced by Meta’s recent $18 billion settlement over consumer harms and ongoing privacy concerns, yet the company views agentic AI as the next frontier for consumer technology. The launch also intensifies competition with rivals like Instinct, which has raised $2.5 billion and is building a new social graph through text‑based interactions.",
-      "key_points": [
-        "Muse has surpassed 83,000 U.S. iOS downloads, reaching No. 2 on the App Store but still behind Threads’ 4.3 million and Meta AI’s 108,000 launch figures",
-        "The Android version of Muse is far less popular, ranking 338th in Google Play’s Productivity category",
-        "Meta’s launch follows an $18 billion settlement over privacy violations, potentially dampening user enthusiasm",
-        "Instinct, a competitor with $2.5 billion in funding, is rapidly expanding features such as email addresses and a social‑graph‑based coordination system"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "appstore",
-        "consumerai",
-        "competition"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "processed_at": "2026-09-11T05:06:14.807886+00:00"
     }
   ]
 }
