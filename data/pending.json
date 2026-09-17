@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-17T10:17:38.439598+00:00",
+  "updated_at": "2026-09-17T15:12:18.065779+00:00",
   "items": [
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "published": "Tue, 15 Sep 2026 21:47:38 +0000"
-    },
     {
       "title": "X will now let US users trade via Cashtags",
       "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
@@ -14,34 +8,10 @@
       "published": "Wed, 16 Sep 2026 19:57:22 +0000"
     },
     {
-      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "feed_excerpt": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-      "published": "Wed, 16 Sep 2026 19:35:29 +0000"
-    },
-    {
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-      "feed_excerpt": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-      "published": "Wed, 16 Sep 2026 19:02:49 +0000"
-    },
-    {
-      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "feed_excerpt": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-      "published": "Wed, 16 Sep 2026 23:50:07 +0000"
-    },
-    {
       "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "feed_excerpt": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
       "published": "Wed, 16 Sep 2026 23:43:09 +0000"
-    },
-    {
-      "title": "US automakers could soon be forced to include AM radio for free",
-      "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-      "feed_excerpt": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
-      "published": "Wed, 16 Sep 2026 22:37:08 +0000"
     },
     {
       "title": "Noise wants to help everyday people become paid content creators",
@@ -56,17 +26,71 @@
       "published": "Thu, 17 Sep 2026 05:00:00 +0000"
     },
     {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-      "published": "Thu, 17 Sep 2026 03:30:00 +0000"
-    },
-    {
       "title": "Snap tries to make the case again for its $2,200 smart glasses",
       "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
       "feed_excerpt": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
       "published": "Thu, 17 Sep 2026 00:58:49 +0000"
+    },
+    {
+      "title": "Last call: Disrupt volunteer application closes soon",
+      "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
+      "feed_excerpt": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
+      "published": "Thu, 17 Sep 2026 15:02:00 +0000"
+    },
+    {
+      "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
+      "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
+      "feed_excerpt": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
+      "published": "Thu, 17 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "feed_excerpt": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "published": "Thu, 17 Sep 2026 14:06:14 +0000"
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "published": "Thu, 17 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "feed_excerpt": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "published": "Thu, 17 Sep 2026 13:46:16 +0000"
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "feed_excerpt": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "published": "Thu, 17 Sep 2026 13:38:33 +0000"
+    },
+    {
+      "title": "Lucid Motors has a potential robotaxi partner for Europe",
+      "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+      "feed_excerpt": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
+      "published": "Thu, 17 Sep 2026 13:26:32 +0000"
+    },
+    {
+      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
+      "url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
+      "feed_excerpt": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.",
+      "published": "Thu, 17 Sep 2026 12:57:46 +0000"
+    },
+    {
+      "title": "Spotify expands its partner program for podcasts to 35 new countries",
+      "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
+      "feed_excerpt": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "feed_excerpt": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+      "published": "Thu, 17 Sep 2026 11:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-17T10:18:02.360758+00:00"
+  "last_processed_at": "2026-09-17T15:12:35.149612+00:00"
 }

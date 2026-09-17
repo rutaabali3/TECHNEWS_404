@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-09-17T10:18:05.620054+00:00",
+  "updated_at": "2026-09-17T15:12:49.272304+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-16-musks-long-time-backer-is-giving-spacex-stock-to-its-investors",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=1024",
+      "title": "Musk's long-time backer is giving SpaceX stock to its investors | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Valor Equity Partners, founded by long‑time Elon Musk backer Antonio Gracias, has transferred 8.5% of its SpaceX holdings—worth roughly $8.5 billion—to its limited‑partner investors instead of liquidating the shares. The move keeps the shares off the open market, preventing a potential price dip, and may offer tax advantages to the LPs. After the giveaway, Valor will still own more than 460 million SpaceX shares. The decision comes as SpaceX shares have slipped about 10% since the company’s IPO.",
+      "key_points": [
+        "Valor Equity Partners gave 8.5% of its SpaceX shares, valued at about $8.5 billion, to its limited‑partner investors.",
+        "The transfer avoids a market dump and could provide tax benefits for the LPs.",
+        "Valor will retain over 460 million SpaceX shares after the giveaway.",
+        "SpaceX shares have fallen roughly 10% since the IPO."
+      ],
+      "topics": [
+        "spacex",
+        "valor equity partners",
+        "stock giveaway",
+        "investment",
+        "tax strategy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 23:50:07 +0000",
+      "processed_at": "2026-09-17T15:12:19.667292+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-us-automakers-could-soon-be-forced-to-include-am-radio-for-free",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/am-radio-getty.jpg?resize=1200,801",
+      "title": "US automakers could soon be forced to include AM radio for free | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "The House of Representatives has passed the AM Radio for Every Vehicle Act, a bipartisan bill that will require all new cars, trucks and SUVs to include AM radio at no extra cost to consumers. The legislation, co-sponsored by Senators Ed Markey and Ted Cruz, is expected to move to the Senate where it has strong support from both parties, the broadcast industry and emergency‑response groups. Many automakers—including Tesla, Rivian, BMW, Volvo and Ford—have removed AM radio from their models because of interference from electric motors, so the bill aims to preserve the emergency‑communication and entertainment value of AM radio for millions of Americans.",
+      "key_points": [
+        "House passed bipartisan AM Radio for Every Vehicle Act requiring AM radio in new vehicles at no cost",
+        "Senate likely to follow after bipartisan support and 60 co‑sponsors for the bill",
+        "Automakers have removed AM radio due to EV interference, raising concerns about emergency communication",
+        "The legislation could impact EV makers such as Tesla, Rivian, and Ford"
+      ],
+      "topics": [
+        "automotive",
+        "legislation",
+        "emergency communications",
+        "am radio",
+        "electric vehicles"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 22:37:08 +0000",
+      "processed_at": "2026-09-17T15:12:19.614513+00:00"
+    },
+    {
+      "id": "-com-2026-09-16-automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
+      "title": "Automattic's interim CEO and legal chief signed reciprocal severance deals during Mullenweg's brief ouster | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Automattic’s board placed CEO Matt Mullenweg on paid leave on September 9, a move the board has not publicly explained. Within the 33‑hour window before Mullenweg’s return, CFO Mark Davies, who had become interim CEO, and Chief Legal Officer Andy Missan signed each other’s severance agreements, creating a combined payout of $8.15 million. The agreements grant each executive a lump‑sum 12‑month salary, accelerated equity vesting, option exercise rights, and a year of health coverage, and they are contingent on a broad release and post‑employment restrictions. Automattic’s legal team is now deciding whether to honor the packages or challenge their validity amid a broader governance dispute that saw the board members who voted Mullenweg out depart the company.",
+      "key_points": [
+        "Mullenweg was put on paid leave and returned after 33 hours",
+        "Davies and Missan signed reciprocal severance deals worth $8.15M",
+        "The packages include 12‑month salary, accelerated equity, and health coverage",
+        "Board members who voted him out have left the company"
+      ],
+      "topics": [
+        "automattic",
+        "executive-turnover",
+        "severance",
+        "board-governance",
+        "legal"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 19:35:29 +0000",
+      "processed_at": "2026-09-17T15:12:19.711120+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-former-waymo-cfo-jumps-to-self-driving-startup-wayve",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675",
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Elisa de Martel, former CFO of Waymo, has joined Wayve as CFO, bringing experience from Waymo's commercial launch and significant fundraising. Wayve, valued at about $8.5 billion, is transitioning from testing to deploying its neural‑network‑based autonomous driving software in robotaxis and passenger vehicles. De Martel will oversee finance, capital allocation, and strategic partnerships as Wayve expands after recent public rides in London and partnerships with Nissan and Stellantis. The hire signals Wayve’s intent to scale and compete with larger players in the self‑driving market.",
+      "key_points": [
+        "Elisa de Martel, ex‑Waymo CFO, appointed CFO of Wayve",
+        "Wayve is moving from testing to deployment of its neural‑network autonomous driving tech in robotaxis and consumer vehicles",
+        "The company has raised $3.2 billion, is valued at $8.5 billion, and has partnerships with Nissan, Stellantis, and Uber",
+        "De Martel will manage finance, capital allocation, and strategic deals to support Wayve’s scaling"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "startup",
+        "finance",
+        "technology",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 19:02:49 +0000",
+      "processed_at": "2026-09-17T15:12:35.149538+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-15-the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+      "title": "The AI data center boom is colliding with cities scarred by big industry | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "The rapid expansion of AI data centers is sparking backlash in cities that have already suffered from heavy industry, as residents fear new pollution and energy demands. In Philadelphia, activists led by Shawmar Pitts and Philly Thrive are pushing a moratorium after city officials flagged two potential sites, one in Grays Ferry. The movement echoes a national trend, with governors and municipalities like New York, Denver, and Indianapolis banning or delaying large data‑center projects to protect local resources and public health. Analysts warn that by 2035 U.S. data centers could consume more natural gas than Germany and Japan combined, adding roughly 1 million metric tons of greenhouse‑gas emissions daily.",
+      "key_points": [
+        "Philadelphia residents oppose data centers citing pollution and health concerns, leading to a moratorium push.",
+        "City officials have identified two potential sites, but community opposition is gaining traction.",
+        "Nationally, states and cities are banning or delaying large data‑center projects to protect resources and public health.",
+        "Data centers are projected to consume massive amounts of natural gas, contributing significantly to greenhouse‑gas emissions."
+      ],
+      "topics": [
+        "ai",
+        "data centers",
+        "environment",
+        "energy",
+        "public policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "processed_at": "2026-09-17T15:12:19.898178+00:00"
+    },
+    {
+      "id": "ext-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+      "title": "Learn about AI in HR at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a Builders Stage session titled \"Hiring When AI Is a Co-Founder\" that examines how early‑stage companies can blend human talent with AI agents to accelerate growth. The panel includes Josh Reeves of Gusto, Michelle Johnson of Insight Partners, and John Koelliker of Leland, each offering perspectives from payroll, venture, and talent‑platform viewpoints. The discussion will cover practical questions about ownership, accountability, and the balance between human judgment and automated workflows, as well as the strategic implications for hiring and culture. The event runs October 13–15 at Moscone West, with ticket discounts up to 30% for early and group registrations before September 25.",
+      "key_points": [
+        "AI agents can replace early hires for tasks like engineering, support, and research, prompting founders to rethink team composition.",
+        "The session will address ownership, decision‑making, and risk when delegating work to AI.",
+        "Panelists bring insights from payroll, venture capital, and talent platforms to illustrate AI‑native team strategies.",
+        "Early‑bird ticket discounts of up to 30% are available until September 25."
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "hiring",
+        "techconference",
+        "event"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "processed_at": "2026-09-17T15:12:19.705144+00:00"
+    },
     {
       "id": "s-techcrunch-com-2026-09-16-hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Max-Hodak_1-Speaker-16x9-Dark.png?resize=1200,675",
@@ -2314,155 +2464,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 10 Sep 2026 20:57:30 +0000",
       "processed_at": "2026-09-11T00:27:49.793935+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Mark Wahlberg will headline the main stage at TechCrunch Disrupt 2026, sharing how he has leveraged his Hollywood success to build a diverse portfolio that includes a production company, restaurant chain, apparel brand, and a youth foundation.  The actor will sit down with Bruce K. Lee, CEO of Keebeck Wealth Management, to discuss his transition into institutional‑level investing, especially in healthcare and wellness startups, and how he has learned to apply entrepreneurial instincts in sophisticated financial environments.  Disrupt 2026 will run from October 13‑15 in San Francisco’s Moscone West, featuring over 200 sessions and 10,000 tech leaders, and tickets are discounted by up to $200 before rates rise on September 25.  Wahlberg’s appearance underscores the event’s focus on building sustainable innovation in the AI era.",
-      "key_points": [
-        "Mark Wahlberg will speak on the main stage of TechCrunch Disrupt 2026 about his career and investing journey.",
-        "He will discuss his partnership with Bruce K. Lee and his focus on healthcare and wellness startups.",
-        "Tickets are discounted up to $200 before September 25, and the event hosts 200+ sessions for 10,000+ tech leaders.",
-        "The talk highlights how entertainment figures can transition into sophisticated business and finance roles."
-      ],
-      "topics": [
-        "tech",
-        "entertainment",
-        "investing",
-        "health",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 21:35:00 +0000",
-      "processed_at": "2026-09-10T22:27:27.698467+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "OpenAI has temporarily halted new sign‑ups for its $200‑per‑month Pro plan after the launch of its new model, Astra, caused unprecedented demand that strained the company’s infrastructure. The pause was announced by product leader Thibault Sottiaux on X, who noted that the Pro tier places the most pressure on OpenAI’s systems while other plans such as API, Go, and Plus remain available. OpenAI has not yet specified how long the suspension will last, but it aims to keep service quality high for existing users. Astra, released on September 3, is positioned as a major leap in AI reasoning, coding, and computer use, fueling the surge in interest and the need for capacity adjustments.",
-      "key_points": [
-        "OpenAI has temporarily disabled new Pro plan subscriptions due to high demand for its Astra model.",
-        "Other subscription tiers, including API, Go, and Plus, continue to be available.",
-        "The duration of the pause is unknown, but the company is prioritizing service stability for current users.",
-        "Astra, launched on September 3, is marketed as a generational leap toward the AGI era."
-      ],
-      "topics": [
-        "ai",
-        "openai",
-        "subscription",
-        "infrastructure",
-        "asteramodel"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 20:59:51 +0000",
-      "processed_at": "2026-09-10T22:27:12.756033+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-amazon-makes-it-easier-to-buy-what-you-see-on-prime-video",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675",
-      "title": "Amazon makes it easier to buy what you see on Prime Video | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon has rolled out new shopping features for Prime Video, adding a Shop tab to its X‑Ray interface and a Shop the Scene option that uses Lens to identify items in on‑screen scenes. The updates also expand the existing Shop the Show function from 1,300 to over 8,000 titles, making product recommendations more visible and easier to access. These changes aim to boost second‑screen shopping revenue and give viewers a smoother, less intrusive way to buy items related to what they’re watching. The move puts Amazon in line with competitors such as YouTube, Peacock, Roku, and Disney that are also integrating shoppable content into streaming experiences.",
-      "key_points": [
-        "Amazon adds a Shop tab to its X‑Ray interface for product discovery",
-        "Shop the Scene uses Lens to identify items in on‑screen scenes",
-        "Shop the Show expands from 1,300 to over 8,000 titles",
-        "The updates aim to boost second‑screen shopping revenue and improve user experience"
-      ],
-      "topics": [
-        "amazon",
-        "shopping",
-        "prime video",
-        "x-ray",
-        "lens"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 18:10:36 +0000",
-      "processed_at": "2026-09-10T22:27:12.743424+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675",
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Instagram has introduced a new feature that lets users add posts they’re tagged in directly to their main profile grid, offering a convenient way to showcase shared moments without reposting. The addition can be made from the DM notification, the post itself, or the Tagged tab, and can be removed later without affecting the original post. The move is part of Instagram’s broader effort to give users more control over their profile layout, following earlier updates like grid reordering and new editing tools. Creators and brands can also use the feature to highlight collaborative content without republishing or using the invite‑collaborators option.",
-      "key_points": [
-        "Instagram now allows users to add tagged posts to their main profile grid via DM, post, or Tagged tab.",
-        "The added post is a copy that can be removed without deleting the original, preserving the tagged post’s location.",
-        "The feature is especially useful for creators and brand campaigns to showcase collaborative content easily.",
-        "It fits into Instagram’s larger strategy of enhancing profile customization and content management tools."
-      ],
-      "topics": [
-        "instagram",
-        "social media",
-        "user experience",
-        "content creation",
-        "platform updates"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 16:31:25 +0000",
-      "processed_at": "2026-09-10T22:27:12.240530+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-us-army-places-11m-bet-on-austin-based-gps-alternative-tern",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TERN_IDPS_Offroad2-copy.jpg?resize=1200,809",
-      "title": "US Army places $11M bet on Austin-based GPS alternative Tern | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "The U.S. Army has awarded Austin‑based startup Tern an $11.26 million contract to deploy its low‑cost GPS‑alternative navigation system in military vehicles. Tern’s technology extracts vehicle‑generated data, processes it on‑board, and produces latitude/longitude without relying on satellite signals, offering resilience against jamming and a closed, hard‑to‑disrupt system. The contract comes amid growing concerns over GPS reliability in conflict zones such as Ukraine, Russia, and the Middle East, and follows U.S. military experiments with jamming that have caused operational incidents. Tern’s founders, veterans with field experience, emphasize that the solution is designed for real‑world deployment and scalability rather than laboratory proof‑of‑concept.",
-      "key_points": [
-        "U.S. Army awards $11.26M contract to Tern for GPS‑alternative navigation",
-        "Tern’s system uses vehicle diagnostics data to compute position, bypassing satellite signals",
-        "The technology offers a closed, jamming‑resistant solution for battlefield use"
-      ],
-      "topics": [
-        "gps",
-        "military",
-        "techstartups",
-        "navigation",
-        "austin"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 12:00:00 +0000",
-      "processed_at": "2026-09-10T22:27:12.809260+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Automattic’s board has placed founder and CEO Matt Mullenweg on a paid leave of absence, appointing CFO Mark Davies as interim CEO, a move that the board says reflects confidence in Davies’ leadership. Mullenweg publicly accused board members of conspiring to remove him, though he remains on the board and has denied the board’s stated reasons. The decision comes amid a backdrop of legal battles with WP Engine, internal layoffs, and a history of tension between Mullenweg and staff. The change raises questions about Automattic’s future direction and its impact on the WordPress open‑source community.",
-      "key_points": [
-        "Board forced Mullenweg into paid leave and appointed CFO Mark Davies as interim CEO",
-        "Mullenweg claims a conspiracy by board members but remains on the board",
-        "Automattic is embroiled in lawsuits with WP Engine and has faced internal layoffs",
-        "Employee reactions are mixed, reflecting uncertainty about the company’s stability"
-      ],
-      "topics": [
-        "automattic",
-        "wordpress",
-        "leadership",
-        "lawsuit",
-        "open-source"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 23:14:29 +0000",
-      "processed_at": "2026-09-10T19:58:37.459262+00:00"
     }
   ]
 }
