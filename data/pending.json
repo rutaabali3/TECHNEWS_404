@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-16T21:33:48.028884+00:00",
+  "updated_at": "2026-09-17T00:12:29.731798+00:00",
   "items": [
-    {
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "feed_excerpt": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "published": "Tue, 15 Sep 2026 17:42:59 +0000"
-    },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
       "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "published": "Tue, 15 Sep 2026 21:47:38 +0000"
-    },
-    {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "feed_excerpt": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "published": "Wed, 16 Sep 2026 13:00:00 +0000"
     },
     {
       "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
@@ -42,18 +30,6 @@
       "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
       "feed_excerpt": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
       "published": "Wed, 16 Sep 2026 15:27:13 +0000"
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-      "published": "Wed, 16 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "feed_excerpt": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-      "published": "Wed, 16 Sep 2026 14:47:07 +0000"
     },
     {
       "title": "Amazon gives its workers a raise of $1 per hour",
@@ -114,7 +90,31 @@
       "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
       "feed_excerpt": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
       "published": "Wed, 16 Sep 2026 18:25:25 +0000"
+    },
+    {
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "feed_excerpt": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+      "published": "Wed, 16 Sep 2026 23:50:07 +0000"
+    },
+    {
+      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "feed_excerpt": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "published": "Wed, 16 Sep 2026 23:43:09 +0000"
+    },
+    {
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "feed_excerpt": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "published": "Wed, 16 Sep 2026 22:37:08 +0000"
+    },
+    {
+      "title": "Noise wants to help everyday people become paid content creators",
+      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "feed_excerpt": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+      "published": "Wed, 16 Sep 2026 21:35:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-16T21:34:01.434488+00:00"
+  "last_processed_at": "2026-09-17T00:12:40.671476+00:00"
 }
