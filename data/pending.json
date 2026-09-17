@@ -1,35 +1,11 @@
 {
-  "updated_at": "2026-09-17T05:08:57.316395+00:00",
+  "updated_at": "2026-09-17T10:17:38.439598+00:00",
   "items": [
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
       "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "feed_excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "published": "Tue, 15 Sep 2026 21:47:38 +0000"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "feed_excerpt": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "published": "Wed, 16 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "feed_excerpt": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
-      "published": "Wed, 16 Sep 2026 15:27:13 +0000"
-    },
-    {
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "feed_excerpt": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
-      "published": "Wed, 16 Sep 2026 14:32:08 +0000"
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "feed_excerpt": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-      "published": "Wed, 16 Sep 2026 14:24:58 +0000"
     },
     {
       "title": "X will now let US users trade via Cashtags",
@@ -48,18 +24,6 @@
       "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
       "feed_excerpt": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
       "published": "Wed, 16 Sep 2026 19:02:49 +0000"
-    },
-    {
-      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "published": "Wed, 16 Sep 2026 18:45:35 +0000"
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "feed_excerpt": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "published": "Wed, 16 Sep 2026 18:25:25 +0000"
     },
     {
       "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
@@ -104,5 +68,5 @@
       "published": "Thu, 17 Sep 2026 00:58:49 +0000"
     }
   ],
-  "last_processed_at": "2026-09-17T05:09:26.015983+00:00"
+  "last_processed_at": "2026-09-17T10:18:02.360758+00:00"
 }
