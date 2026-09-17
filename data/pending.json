@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T00:12:29.731798+00:00",
+  "updated_at": "2026-09-17T05:08:57.316395+00:00",
   "items": [
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
@@ -8,22 +8,10 @@
       "published": "Tue, 15 Sep 2026 21:47:38 +0000"
     },
     {
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-      "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "feed_excerpt": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-      "published": "Wed, 16 Sep 2026 13:00:00 +0000"
-    },
-    {
       "title": "Your AI agents can now control your Google Home devices",
       "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
       "feed_excerpt": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
       "published": "Wed, 16 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
     },
     {
       "title": "May Mobility is going public in a $1.4B SPAC deal",
@@ -42,24 +30,6 @@
       "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
       "feed_excerpt": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
       "published": "Wed, 16 Sep 2026 14:24:58 +0000"
-    },
-    {
-      "title": "Pulley, a Carta rival, is shutting down",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "feed_excerpt": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
-      "published": "Wed, 16 Sep 2026 21:23:19 +0000"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "feed_excerpt": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "published": "Wed, 16 Sep 2026 21:07:24 +0000"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "feed_excerpt": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "published": "Wed, 16 Sep 2026 20:12:00 +0000"
     },
     {
       "title": "X will now let US users trade via Cashtags",
@@ -114,7 +84,25 @@
       "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
       "feed_excerpt": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
       "published": "Wed, 16 Sep 2026 21:35:00 +0000"
+    },
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "feed_excerpt": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "published": "Thu, 17 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "published": "Thu, 17 Sep 2026 03:30:00 +0000"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "feed_excerpt": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "published": "Thu, 17 Sep 2026 00:58:49 +0000"
     }
   ],
-  "last_processed_at": "2026-09-17T00:12:40.671476+00:00"
+  "last_processed_at": "2026-09-17T05:09:26.015983+00:00"
 }

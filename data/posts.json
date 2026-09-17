@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-17T00:12:58.675999+00:00",
+  "updated_at": "2026-09-17T05:09:26.016944+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-16-pulley-a-carta-rival-is-shutting-down",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1458551911.jpg?resize=1200,675",
+      "title": "Pulley, a Carta rival, is shutting down | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Pulley, a cap‑table management platform that raised more than $50 million, announced it would shut down on December 8 and has partnered with rival Carta to transfer its customers and redirect prospective clients to Carta. Founder Yin Wu, a serial entrepreneur and former Microsoft employee, thanked her team and backers but did not explain why the service is closing. A former employee speculated that Pulley’s competition was more with spreadsheets than with Carta, noting that AI tools now make spreadsheet maintenance easier for startups. The company’s final day of operations will see all services discontinued and customers migrated to Carta’s platform.",
+      "key_points": [
+        "Pulley will cease operations on December 8 and hand over customers to Carta",
+        "The company raised over $50 million from investors such as General Catalyst, Stripe, and Founders Fund",
+        "Founder Yin Wu thanked the team but offered no reason for the shutdown",
+        "Speculation suggests Pulley was competing with spreadsheets, not Carta, as AI improves spreadsheet use"
+      ],
+      "topics": [
+        "startup",
+        "funding",
+        "carta",
+        "cap table",
+        "shutdown"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 21:23:19 +0000",
+      "processed_at": "2026-09-17T05:08:59.163514+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman announced plans to embed third‑party evaluators such as METR and Redwood Research inside their companies, granting them deep access to training checkpoints, logs, and internal systems to independently assess safety and alignment. The proposal is welcomed by researchers who argue that only such access can uncover hidden misbehavior that models may hide during final testing, but they insist that details and legal safeguards are needed to ensure true independence. Neither company has yet disclosed which evaluators will be used, the scope of access, or the timelines for embedding them, leaving doubts about whether the evaluators will truly operate as watchdogs or remain under corporate control. Industry experts call for a transparent, possibly regulated framework that standardizes auditor qualifications and mandates open reporting to prevent companies from sidestepping oversight through selective access or restrictive NDAs.",
+      "key_points": [
+        "Anthropic and OpenAI plan to embed independent evaluators with deep access to training checkpoints and logs",
+        "Evaluators argue that short testing windows are insufficient and that only full access can reveal hidden misalignment",
+        "Companies have not yet defined evaluator identities, access levels, or timelines, raising concerns about independence",
+        "Experts call for a transparent, possibly regulated framework to enforce independent safety oversight"
+      ],
+      "topics": [
+        "ai safety",
+        "independent evaluation",
+        "anthropic",
+        "openai",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "processed_at": "2026-09-17T05:09:26.015889+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
+      "title": "After accusations of selling 'perv glasses,' Meta prepares to sell a pair without a camera | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta has announced a new camera‑free smart glasses model called Luna in response to backlash over its camera‑equipped glasses, which some consumers dubbed \"pervert glasses\". Luna will feature six built‑in microphones and a side button that activates Meta’s AI chatbot and Muse, allowing hands‑free voice interaction. The company plans to reveal the device at its upcoming Meta Connect event in Menlo Park next week. Despite the new privacy‑focused design, Meta’s Reality Labs continues to report significant losses as the smart‑glasses market grapples with usability, cost and privacy concerns.",
+      "key_points": [
+        "Meta is launching Luna, a camera‑free smart glasses model to address privacy concerns",
+        "Luna includes six microphones and AI chatbot integration for hands‑free use",
+        "The device may debut at Meta Connect next week",
+        "Meta’s Reality Labs still faces large financial losses amid market challenges"
+      ],
+      "topics": [
+        "meta",
+        "smartglasses",
+        "privacy",
+        "ai",
+        "hardware"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 20:12:00 +0000",
+      "processed_at": "2026-09-17T05:08:59.249760+00:00"
+    },
+    {
+      "id": "chcrunch-com-2026-09-16-hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Max-Hodak_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "title": "Co-founder Max Hodak joins the agenda lineup on Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Max Hodak, co‑founder of Science Corporation and former Neuralink president, will speak at TechCrunch Disrupt 2026 about the company’s biohybrid brain‑computer interface and its PRIMA implant that has already restored vision to people with severe sight loss. The company, which raised $230 million in a Series C round at a $1.5 billion valuation, is also exploring applications for brain‑implanted sensors in treating neurological conditions. Disrupt 2026 will host more than 10,000 founders, investors and startup community members across 250+ sessions, with a particular focus on building sustainable AI companies. Ticket discounts of up to $200 and 30% off for groups are available until September 25.",
+      "key_points": [
+        "Hodak will present on Science Corporation’s biohybrid brain‑computer interface at Disrupt 2026",
+        "The PRIMA implant has restored vision in patients and the company raised $230 million in Series C funding",
+        "Disrupt 2026 features 250+ sessions, 10,000 attendees and a focus on sustainable AI",
+        "Tickets offer up to $200 savings and 30% group discounts until September 25"
+      ],
+      "topics": [
+        "brain-computer interface",
+        "disrupt",
+        "science corporation",
+        "sustainable ai",
+        "tech conference"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-17T05:08:58.970405+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-16-clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800",
+      "title": "Exclusive: Clean tech startup Fluxnium found a way to tap 50,000 years' worth of nuclear fuel | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Fluxnium, a clean‑tech startup, has developed a polymer‑fiber system that can extract uranium from seawater, potentially unlocking 50,000 years of nuclear fuel and addressing the U.S. nuclear supply shortfall projected for 2050. The technology, built on chemistry licensed from DOE national labs, increases fiber surface area to lower extraction costs to competitive levels with mined uranium, and the company recently closed a $7 million seed round led by Congruent Ventures with participation from Active Impact Investments and Constellation Energy. Founder Jeff Green, a serial entrepreneur behind Stamps.com and NanoH2O, argues that seawater extraction would eliminate geopolitical risks tied to current uranium sources such as Kazakhstan and Russia. If commercialized, Fluxnium’s approach could provide a low‑cost, abundant, and politically neutral supply of uranium for the expanding U.S. nuclear industry and its data‑center power needs.",
+      "key_points": [
+        "Fluxnium’s polymer‑fiber system can extract uranium from seawater, offering a potentially unlimited supply of nuclear fuel.",
+        "The startup’s technology reduces extraction costs to competitive levels with mined uranium, making it economically viable.",
+        "A $7 million seed round led by Congruent Ventures, with Active Impact Investments and Constellation Energy, backs the company’s commercial ambitions."
+      ],
+      "topics": [
+        "nuclear",
+        "clean-tech",
+        "seawater",
+        "uranium",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-17T05:08:59.236339+00:00"
+    },
     {
       "id": "crunch-com-2026-09-16-robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
@@ -2338,131 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 10 Sep 2026 14:34:09 +0000",
       "processed_at": "2026-09-10T17:06:16.621778+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/EthanThornton5.jpg?resize=1200,931",
-      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Defense tech startup Mach Industries closed a $600 million Series C extension round that doubled its valuation to $3.7 billion in just three months, following a $300 million Series C in June that valued the company at $1.8 billion. The new funding round was led by Ribbit Capital, Infinite Capital, Bedrock Capital and Sequoia, marking Sequoia’s first investment in a defense‑tech company. Mach, which designs unmanned military vehicles, vertical‑takeoff drones, long‑range strike systems and counter‑drone solutions, has broadened its capabilities by acquiring rocket‑motor startup Exquadrum for $50 million, creating a new business unit called Mach Energetics that produces solid‑rocket motors and energetic systems. Founded and run by 22‑year‑old Ethan Thornton, the company’s rapid growth and high‑profile investors underscore the increasing interest of Silicon Valley venture capital in defense technology.",
-      "key_points": [
-        "$600M Series C extension doubles Mach Industries’ valuation to $3.7B in three months",
-        "Investors include Ribbit Capital, Infinite Capital, Bedrock Capital and Sequoia, Sequoia’s first defense‑tech investment",
-        "Acquisition of Exquadrum for $50M launches Mach Energetics, producing solid‑rocket motors to address supply bottlenecks",
-        "Founded by 22‑year‑old Ethan Thornton, Mach exemplifies the surge of young founders in defense tech"
-      ],
-      "topics": [
-        "defense",
-        "startup",
-        "valuation",
-        "drones",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-10T17:06:16.383456+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-10-european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2266663070.jpg?resize=1200,800",
-      "title": "European founders and VCs urge lawmakers 'to get EU Inc right' | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "European founders and venture capitalists have issued an open letter urging EU lawmakers to preserve the core features of the EU Inc proposal, a draft corporate statute that would allow companies to incorporate under a single EU-wide framework similar to the Delaware C Corp. The letter, signed by high‑profile VCs such as Sonali De Rycker, Michael Moritz and Niklas Zennström, and founders of unicorns like Synthesia and ElevenLabs, warns that diluting key provisions could render the legislation ineffective and stifle cross‑border entrepreneurship. EU Inc supporters argue that a robust, unified company form would reduce regulatory friction, unlock investment and spur a new wave of European startups. Negotiations are still underway with the European Parliament and Council, and the letter arrives just 100 days before the EU’s winter recess, highlighting the urgency of the issue.",
-      "key_points": [
-        "EU Inc seeks a single EU‑wide company statute akin to the Delaware C Corp",
-        "The open letter, signed by prominent VCs and founders, warns that weakening the proposal could make it unusable",
-        "Preserving central features such as a single registry and clear stock‑option taxation is deemed essential",
-        "Negotiations with the European Parliament and Council are ongoing, with 100 days left before winter recess"
-      ],
-      "topics": [
-        "europe",
-        "startup",
-        "corporate law",
-        "venture capital",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 12:25:08 +0000",
-      "processed_at": "2026-09-10T17:06:16.517138+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-09-apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
-      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Apple CEO John Ternus announced in his first keynote that the iPhone will remain the centerpiece of the company's product strategy as it moves into the AI era. He framed the device as an \"intelligent personal hub\" and countered recent pundit claims that the smartphone is past its prime. Ternus’s approach echoes Steve Jobs’ 2001 vision of the Mac as a digital hub that would drive the next wave of consumer devices. By emphasizing the iPhone’s powerful processor, high‑resolution cameras, persistent networking, and on‑device AI, Apple positions the phone as the most capable personal computer for the coming decade.",
-      "key_points": [
-        "Ternus positions the iPhone as the core of Apple’s AI‑driven product strategy.",
-        "He echoes Steve Jobs’ 2001 strategy of using a digital hub to drive new consumer devices.",
-        "Apple counters claims that the smartphone is past its prime by highlighting the iPhone’s power and versatility.",
-        "The iPhone’s processor, cameras, networking, and on‑device AI make it the most capable personal computer for the next decade."
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "ai",
-        "leadership",
-        "strategy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 20:58:09 +0000",
-      "processed_at": "2026-09-10T13:25:29.120972+00:00"
-    },
-    {
-      "id": "9-09-everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730",
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Apple unveiled its first foldable phone, the iPhone Duo, at its fall event, debuting a 7.6‑inch inner Retina display and a 5.4‑inch outer screen, with a 48‑megapixel main camera and 48‑megapixel ultrawide camera that includes 2x optical zoom. The company also refreshed the iPhone 18 Pro line, adding a 48‑megapixel sensor with variable aperture and new Pro controls, while the Apple Watch Series 12 and Ultra 4 received AI‑driven audio features such as Live Rewind and Siri Recap. AirPods 5 were announced with stronger noise cancellation, volume control on the stem, and a 50% reduction in background noise, and Apple rolled out a redesigned Health app that leverages Apple Intelligence for personalized insights. Preorders for the Duo open October 16 with shipping on October 23, while the iPhone 18 Pro and Pro Max, Apple Watch Series 12/Ultra 4, and AirPods 5 all become available on September 18 after today’s preorders.",
-      "key_points": [
-        "Apple’s first foldable, the iPhone Duo, launches October 23 with a 7.6‑inch inner display and 48‑megapixel cameras",
-        "The iPhone 18 Pro line adds a variable‑aperture 48‑megapixel sensor and new Pro controls for better low‑light photography",
-        "Apple Watch Series 12 and Ultra 4 introduce AI audio features like Live Rewind and Siri Recap to capture conversations",
-        "AirPods 5 improve noise cancellation by 50% and add stem volume control, shipping September 18"
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "foldable",
-        "wearables",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 09 Sep 2026 20:03:43 +0000",
-      "processed_at": "2026-09-10T13:25:28.965410+00:00"
-    },
-    {
-      "id": "unch-com-2026-09-10-id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-681253878.jpg?resize=1200,788",
-      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver's licenses stolen | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "IDScan, a Louisiana‑based identity verification service, confirmed that hackers stole more than 150 million driver’s license records from its cloud systems, including full names, license numbers, passport data, and photos. The breach, first reported by cybersecurity journalist Brian Krebs, exposed sensitive information of both ordinary citizens and high‑profile figures such as U.S. Secretary of Defense Pete Hegseth. The Pentagon and the FBI are investigating, and IDScan indicated that the attackers may have demanded payment for full access to the data. The company’s notice marks its first public acknowledgment of the intrusion, and it has yet to disclose how many individuals were affected or whether a ransom was requested.",
-      "key_points": [
-        "IDScan confirmed a breach that exposed over 150 million driver’s license records, including names, license numbers, passports, and photos.",
-        "The data leak was revealed by Brian Krebs and involved high‑profile individuals, prompting investigations by the Pentagon and FBI.",
-        "IDScan’s notice suggests the attackers may have demanded payment for full access to the stolen data.",
-        "The company has not yet responded to inquiries about ransom demands or the exact number of affected individuals."
-      ],
-      "topics": [
-        "data breach",
-        "identity verification",
-        "cybersecurity",
-        "government",
-        "ransomware"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 10 Sep 2026 13:21:09 +0000",
-      "processed_at": "2026-09-10T13:25:28.847645+00:00"
     }
   ]
 }
