@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-17T15:12:18.065779+00:00",
+  "updated_at": "2026-09-17T19:10:39.163369+00:00",
   "items": [
-    {
-      "title": "X will now let US users trade via Cashtags",
-      "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-      "feed_excerpt": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-      "published": "Wed, 16 Sep 2026 19:57:22 +0000"
-    },
     {
       "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
@@ -32,28 +26,10 @@
       "published": "Thu, 17 Sep 2026 00:58:49 +0000"
     },
     {
-      "title": "Last call: Disrupt volunteer application closes soon",
-      "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-      "feed_excerpt": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
-      "published": "Thu, 17 Sep 2026 15:02:00 +0000"
-    },
-    {
-      "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
-      "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-      "feed_excerpt": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
-      "published": "Thu, 17 Sep 2026 15:00:00 +0000"
-    },
-    {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
       "feed_excerpt": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
       "published": "Thu, 17 Sep 2026 14:06:14 +0000"
-    },
-    {
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "published": "Thu, 17 Sep 2026 14:00:00 +0000"
     },
     {
       "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
@@ -90,7 +66,49 @@
       "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
       "feed_excerpt": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
       "published": "Thu, 17 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "feed_excerpt": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+      "published": "Thu, 17 Sep 2026 18:30:30 +0000"
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "feed_excerpt": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "published": "Thu, 17 Sep 2026 17:26:25 +0000"
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "feed_excerpt": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "published": "Thu, 17 Sep 2026 17:15:59 +0000"
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "feed_excerpt": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "published": "Thu, 17 Sep 2026 17:15:00 +0000"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "feed_excerpt": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
+      "published": "Thu, 17 Sep 2026 16:34:36 +0000"
+    },
+    {
+      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+      "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "feed_excerpt": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
+      "published": "Thu, 17 Sep 2026 16:09:58 +0000"
+    },
+    {
+      "title": "Roku’s new Labs hub brings experimental apps to the big screen",
+      "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+      "feed_excerpt": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
+      "published": "Thu, 17 Sep 2026 15:50:29 +0000"
     }
   ],
-  "last_processed_at": "2026-09-17T15:12:35.149612+00:00"
+  "last_processed_at": "2026-09-17T19:11:06.004958+00:00"
 }
