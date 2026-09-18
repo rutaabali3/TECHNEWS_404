@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-18T00:41:03.722399+00:00",
+  "updated_at": "2026-09-18T05:39:22.660049+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-17-spotify-expands-its-partner-program-for-podcasts-to-35-new-countries",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "title": "Spotify expands its partner program for podcasts to 35 new countries | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Spotify has expanded its partner program for podcasts to 35 regions, adding Italy, Spain, Brazil, Mexico, Colombia, Poland, Chile, the Dominican Republic, and the Bahamas this fall. Eligible podcasters can now earn revenue from both video and audio podcasts, with video impressions from Premium users and ad revenue from free listeners counted toward payouts. Podcasters may distribute their shows on other platforms and keep all sponsorship revenue they earn. The expansion follows a 140% rise in video podcast consumption since 2022 and a one‑third increase in monthly payouts since January.",
+      "key_points": [
+        "Spotify expands partner program to 35 regions, adding Italy, Spain, Brazil, Mexico, Colombia, Poland, Chile, Dominican Republic, and Bahamas",
+        "Podcasters can earn from video and audio, with video impressions from Premium users counted",
+        "Eligibility requires 3 episodes, 2000 consumption hours, and 1,000 engaged audience in the last 30 days",
+        "Video podcast consumption rose 140% and monthly payouts increased a third since January"
+      ],
+      "topics": [
+        "spotify",
+        "podcasting",
+        "partner program",
+        "video podcasts",
+        "ad revenue"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "processed_at": "2026-09-18T05:38:53.568808+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Comp-AI-Team-Photo.jpeg?resize=1200,656",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Comp AI, a cybersecurity and compliance startup founded in January by Lewis Carhart and the Fuentes brothers, announced a $34 million Series A round led by Roo Capital and Grand Ventures. The company is building an agentic platform that uses AI agents to draft security policies, continuously monitor SOC 2 compliance, and perform AI‑powered penetration testing. By automating these tedious tasks, Comp AI aims to help companies keep up with rapid AI adoption and the need for real‑time compliance validation. The Series A brings total funding to $37.5 million, positioning the firm to expand its product suite.",
+      "key_points": [
+        "$34 million Series A led by Roo Capital and Grand Ventures",
+        "AI agents automate policy drafting, compliance monitoring, and penetration testing",
+        "Comp AI focuses on continuous compliance for AI‑driven changes",
+        "Total funding to date is $37.5 million"
+      ],
+      "topics": [
+        "cybersecurity",
+        "ai",
+        "compliance",
+        "startup",
+        "financing"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 11:00:00 +0000",
+      "processed_at": "2026-09-18T05:38:53.388943+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-16-al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
@@ -2422,56 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 11 Sep 2026 20:57:36 +0000",
       "processed_at": "2026-09-11T23:04:36.974407+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging startups to secure exhibit tables at Disrupt 2026 before the September 18 deadline, offering a 25% discount on tickets and up to $300 off. The event will feature 6 industry stages with major players like OpenAI, Anthropic, and Replit, and exhibitors receive a 6′ × 30″ table in the Expo Hall for all three days to demo products and engage investors. Limited space means tables can sell out early, so companies risk missing out on valuable leads and partnership opportunities. The call to action emphasizes that the real cost of waiting is lost conversations and growth potential.",
-      "key_points": [
-        "Disrupt 2026 offers a 25% ticket discount and up to $300 off for early bookings.",
-        "Exhibitors get a dedicated 6′ × 30″ table in the Expo Hall for all three days to demo products and meet investors.",
-        "Tables are limited and can sell out before the September 18, 11:59 pm PT deadline.",
-        "Missing a table means missing potential leads, partnerships, and growth opportunities."
-      ],
-      "topics": [
-        "tech events",
-        "startup expo",
-        "disrupt 2026",
-        "exhibit tables",
-        "ticket discounts"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "processed_at": "2026-09-11T23:04:40.412949+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Roblox announced a suite of new tools that make game creation easier and more accessible, including the expansion of its generative‑AI Build feature from New Zealand to Serbia and Singapore and the addition of desktop support, a new asset library, and iterative control. The company is also enabling creators to publish games as standalone apps on mobile, PC, and consoles, with in‑browser play via a link expected by year‑end, while adding offline mode and enhanced NPC playtesting. In addition to creative tools, Roblox is launching a Roblox Wallet and a future Roblox Card to give creators instant payouts and spendable earnings, partnering with Airwallex for U.S. users. These moves signal Roblox’s shift from merely attracting players to empowering developers to build, monetize, and distribute games across platforms.\n",
-      "key_points": [
-        "Build AI game creation is now available in Serbia and Singapore and will soon support desktop and prompt‑based scene generation",
-        "Creators can publish games as separate apps on mobile, PC, consoles, and in‑browser links by year‑end",
-        "Roblox Wallet offers real‑money payouts daily and transfers to bank accounts, with a Roblox Card planned for 2025",
-        "New NPC features include playtesting bots and offline mode to improve gameplay experience"
-      ],
-      "topics": [
-        "roblox",
-        "ai",
-        "gaming",
-        "developer tools",
-        "financial services"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 19:00:00 +0000",
-      "processed_at": "2026-09-11T20:42:22.237781+00:00"
     }
   ]
 }
