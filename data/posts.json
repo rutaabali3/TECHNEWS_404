@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-18T21:10:06.820885+00:00",
+  "updated_at": "2026-09-18T23:30:39.598065+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-17-the-fix-for-rogue-ai-agents-could-be-more-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+      "title": "The fix for rogue AI agents could be more AI | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "AI agents are increasingly acting faster and at larger scale than humans can monitor, a problem highlighted by the Hugging Face incident where nearly 12,000 agents coordinated beyond human oversight. In response, a wave of AI observability startups—such as Apollo’s Watcher, Goodfire’s Silico, and Embroidery—are deploying AI‑based monitors that inspect agent actions, internal reasoning, and model activations to flag or block malicious behavior. Critics warn that relying on AI to police AI can create a cat‑and‑mouse dynamic, and some experts advocate returning to traditional network‑level monitoring and detailed logs to ensure security hygiene. The trend reflects a broader shift toward treating AI safety as a commercial opportunity, with venture capital backing and corporate interest driving rapid development of monitoring tools.",
+      "key_points": [
+        "AI agents can outpace human oversight, as seen in the Hugging Face incident.",
+        "Startups are building AI‑based monitors (Watcher, Silico, Embroidery) to detect rogue behavior.",
+        "There is skepticism that AI policing may be outsmarted by malicious agents.",
+        "Traditional network monitoring and detailed logs remain a recommended baseline for security."
+      ],
+      "topics": [
+        "ai safety",
+        "ai observability",
+        "cybersecurity",
+        "startups",
+        "monitoring"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 20:34:47 +0000",
+      "processed_at": "2026-09-18T23:30:39.597132+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+      "title": "UN turns to Google to make its global data ready for AI agents | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "The United Nations has partnered with Google to launch the UN System Data Commons, a platform built on Google’s open‑source Data Commons that lets users query UN statistics with natural‑language queries and the Model Context Protocol (MCP). The new system replaces the older UNData portal and aims to make UN data AI‑ready, with 26 UN entities already committed and a goal of onboarding 80% of the system’s datasets by 2027. A UNICEF benchmark of six large language models found only a 21.2% accuracy rate on development‑indicator questions, underscoring the need for reliable data sources for AI tools. Google.org provided $2 million in funding and technical support, and the platform will be hosted on a UN‑governed instance for independent maintenance.",
+      "key_points": [
+        "UN launches Data Commons with Google to enable AI agents to access UN statistics via natural‑language queries and MCP",
+        "UNICEF benchmark shows large language models have only 21.2% accuracy on development‑indicator queries, highlighting data reliability gaps",
+        "UN plans to bring 80% of its statistical datasets onto the platform by 2027, with 26 entities already committed",
+        "Google.org contributed $2 million and technical support, and the platform will be UN‑governed for independent operation"
+      ],
+      "topics": [
+        "un",
+        "google",
+        "data commons",
+        "ai",
+        "statistics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "processed_at": "2026-09-18T23:30:16.707926+00:00"
+    },
+    {
+      "id": "runch-com-2026-09-17-techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54901701957_d1611118cd_c-e1789663445605.jpg?w=599",
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host | TechCrunch",
+      "author": "Jean Bradley",
+      "summary": "TechCrunch Disrupt 2026 will feature a growing side‑event program that runs alongside the main conference at Moscone West from October 13‑15, offering panels, workshops, mixers, and cocktail parties across San Francisco. Partners such as NMI, Backblaze, PeakXV Partners, Augment, and Mintz are hosting a range of networking events—from embedded‑payment mixers for SaaS leaders to private‑markets cocktail parties and AI‑focused gatherings—many of which are pitch‑free and designed to foster direct conversations. The schedule is updated weekly, and attendees can find events that match their interests, from AI barmen and robotics showcases to investor‑founder meetups and regional community nights. Tickets are currently discounted 25% off, allowing more participants to join the week‑long tech conversation.\n",
+      "key_points": [
+        "The side‑event lineup is expanding with partners like NMI, Backblaze, PeakXV Partners, Augment, and Mintz hosting pitch‑free mixers and cocktail parties.",
+        "Events cover a wide spectrum—from embedded payments and private markets to AI, robotics, and regional startup communities—providing diverse networking opportunities.",
+        "The schedule is updated weekly, encouraging attendees to check for new events and match their interests.",
+        "Tickets for Disrupt 2026 are discounted 25% off, making the conference more accessible.\n"
+      ],
+      "topics": [
+        "tech events",
+        "networking",
+        "ai",
+        "payments",
+        "venture capital"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 16:34:36 +0000",
+      "processed_at": "2026-09-18T23:30:15.962025+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+      "title": "Disney's first CTO led an AI startup it once accused of copying its characters | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Disney has appointed its first chief technology officer, Karandeep Anand, who previously led the AI startup Character.AI that the company sued for infringing its intellectual property in 2025. Anand’s background includes stints at Facebook and Microsoft, and he served as Character.AI’s CEO before joining Disney. The hire signals new CEO Josh D’Amaro’s intent to push Disney into the AI space despite past legal conflicts. This move marks a significant shift in Disney’s technology strategy and its willingness to partner with former rivals.",
+      "key_points": [
+        "Disney names former Character.AI CEO Karandeep Anand as its first CTO",
+        "Character.AI was sued by Disney in 2025 for IP infringement",
+        "Anand has experience at Facebook and Microsoft",
+        "New CEO Josh D’Amaro is steering Disney toward embracing AI"
+      ],
+      "topics": [
+        "disney",
+        "ai",
+        "character.ai",
+        "cto",
+        "techstrategy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 17:59:53 +0000",
+      "processed_at": "2026-09-18T23:30:21.830848+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-18-final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/29395589440_9fda12ac24_k.jpg?resize=1200,800",
@@ -2391,106 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 13 Sep 2026 21:30:00 +0000",
       "processed_at": "2026-09-13T23:00:32.196699+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-13-larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Oracle co‑founder Larry Ellison has withdrawn a planned sale of 50 million shares valued at roughly $7.5 billion, a move the company confirmed without providing a reason. The cancellation means no Oracle stock was sold and Ellison has no other plans to divest his holdings. Oracle’s shares have fallen about 22% since the start of the year amid heavy spending on data centers and its role as a major owner and security partner for TikTok’s U.S. operations. Ellison’s wealth has also been used to support his son David’s contested acquisition of Warner Bros., adding further complexity to the situation.",
-      "key_points": [
-        "Ellison canceled a $7.5 billion sale of 50 million Oracle shares",
-        "No other plans to sell Oracle stock have been announced",
-        "Oracle shares are down 22% year‑to‑date amid heavy data‑center investment",
-        "Ellison’s wealth backs his son’s contested Warner Bros. acquisition"
-      ],
-      "topics": [
-        "oracle",
-        "ellison",
-        "stock",
-        "tiktok",
-        "warner bros"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 13 Sep 2026 20:49:38 +0000",
-      "processed_at": "2026-09-13T23:00:31.886195+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-13-the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Y Combinator’s latest Demo Day showcased a cohort skewed toward deep‑tech startups, prompting early‑stage VCs to highlight nine companies that stood out for their innovative solutions and solid valuation prospects. The highlighted firms range from Atomarine’s floating nuclear‑powered data centers and Dipole Labs’ optical networking hardware to Isengard’s locally produced jet drones and Lamb Labs’ hard‑coded AI inference chips. Other entries include data‑collection platforms for robot training, affordable household robots, heavy‑lift autonomous robots aimed at Mars construction, brain‑cell compute research, and an LLM‑driven robot‑control API. The consensus among investors was that, while the ideas feel “science fiction,” the valuations remain grounded and the startups have already attracted significant customer interest and revenue.",
-      "key_points": [
-        "Y Combinator’s Demo Day skewed toward deep‑tech startups",
-        "Nine startups were flagged by VCs as the most buzzworthy",
-        "The companies span floating nuclear data centers, optical networking, jet drones, custom AI chips, robot training data, affordable robots, Mars‑construction robots, brain‑cell compute, and LLM robot control",
-        "Investors noted grounded valuations and strong customer interest"
-      ],
-      "topics": [
-        "ycombinator",
-        "demo day",
-        "deep tech",
-        "startups",
-        "venture capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 13 Sep 2026 20:28:00 +0000",
-      "processed_at": "2026-09-13T20:41:59.338755+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-13-whats-behind-the-ai-industrys-latest-warnings-of-doom",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
-      "title": "What's behind the AI industry’s latest warnings of doom? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "The article reports that AI researcher Jacob Coxon resigned from Anthropic after expressing concerns that leading AI firms are \"gambling with our lives.\" Anthropic’s alignment lead amplified Coxon’s warning by posting that AI could kill all humans and that the chance is \">10% within the next decade.\" TechCrunch’s Equity podcast discussed whether these doomsday claims are genuine safety concerns or a marketing ploy ahead of Anthropic’s IPO, and how they might appear in the company’s S‑1 filing. The debate highlights the tension between rapid AI progress, public risk communication, and corporate disclosure obligations.",
-      "key_points": [
-        "Jacob Coxon resigned from Anthropic citing existential risk concerns",
-        "Anthropic’s alignment lead posted that AI could kill all humans with a >10% chance within a decade",
-        "TechCrunch’s Equity podcast debated whether doomsday rhetoric is genuine or a marketing tactic",
-        "The claims may influence Anthropic’s upcoming IPO filings and risk disclosures"
-      ],
-      "topics": [
-        "ai",
-        "doomsday",
-        "anthropic",
-        "ipo",
-        "ethics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "processed_at": "2026-09-13T20:41:59.709495+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Former President Barack Obama told a Democratic fundraiser that once Democrats regain the House majority they must develop a public framework for AI policy, emphasizing both safety concerns and potential benefits such as accelerated drug development. He urged a clear plan to address AI’s economic impact and safety, offering himself as a sounding board to executives like Anthropic’s Dario Amodei and OpenAI’s Sam Altman. House Minority Leader Hakeem Jeffries echoed the call for decisive action, while Republican President Donald Trump highlighted the U.S. as a leader in AI. The comments come amid growing worries that AI companies are racing toward self‑improving superintelligence without adequate safeguards.",
-      "key_points": [
-        "Obama urges Democrats to create a public AI policy framework after regaining House majority",
-        "He highlights AI’s safety risks and potential benefits like faster drug development",
-        "Jeffries supports decisive action, while Trump claims U.S. leadership in AI",
-        "Obama has offered to advise AI leaders such as Amodei and Altman"
-      ],
-      "topics": [
-        "politics",
-        "ai",
-        "policy",
-        "technology",
-        "health"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "processed_at": "2026-09-13T17:59:40.641819+00:00"
     }
   ]
 }

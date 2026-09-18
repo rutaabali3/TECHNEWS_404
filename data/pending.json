@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-09-18T21:08:07.589768+00:00",
+  "updated_at": "2026-09-18T23:30:14.876845+00:00",
   "items": [
-    {
-      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
-      "feed_excerpt": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
-      "published": "Thu, 17 Sep 2026 16:34:36 +0000"
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "feed_excerpt": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "published": "Thu, 17 Sep 2026 20:34:47 +0000"
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "feed_excerpt": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "published": "Thu, 17 Sep 2026 20:00:00 +0000"
-    },
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
       "feed_excerpt": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
       "published": "Fri, 18 Sep 2026 14:00:14 +0000"
-    },
-    {
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "feed_excerpt": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "published": "Fri, 18 Sep 2026 17:59:53 +0000"
     },
     {
       "title": "In India, the new iPhone can arrive faster than a pizza",
@@ -150,7 +126,31 @@
       "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
       "feed_excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
       "published": "Fri, 18 Sep 2026 18:49:30 +0000"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "feed_excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "published": "Fri, 18 Sep 2026 23:25:01 +0000"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "feed_excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "published": "Fri, 18 Sep 2026 23:13:31 +0000"
+    },
+    {
+      "title": "AI Hallucination Nearly Triggers US Military Operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "feed_excerpt": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "published": "Fri, 18 Sep 2026 23:12:32 +0000"
+    },
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "feed_excerpt": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "published": "Fri, 18 Sep 2026 21:44:33 +0000"
     }
   ],
-  "last_processed_at": "2026-09-18T21:08:09.221843+00:00"
+  "last_processed_at": "2026-09-18T23:30:39.597267+00:00"
 }
