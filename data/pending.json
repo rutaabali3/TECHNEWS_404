@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-17T22:22:15.783850+00:00",
+  "updated_at": "2026-09-18T00:40:41.721725+00:00",
   "items": [
-    {
-      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "feed_excerpt": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "published": "Wed, 16 Sep 2026 23:43:09 +0000"
-    },
     {
       "title": "Noise wants to help everyday people become paid content creators",
       "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
@@ -20,18 +14,6 @@
       "published": "Thu, 17 Sep 2026 05:00:00 +0000"
     },
     {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "feed_excerpt": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "published": "Thu, 17 Sep 2026 14:06:14 +0000"
-    },
-    {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "feed_excerpt": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "published": "Thu, 17 Sep 2026 13:46:16 +0000"
-    },
-    {
       "title": "Spotify expands its partner program for podcasts to 35 new countries",
       "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
       "feed_excerpt": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
@@ -42,12 +24,6 @@
       "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
       "feed_excerpt": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
       "published": "Thu, 17 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-      "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-      "feed_excerpt": "The company suspended service in the city in April after one of its robotaxis got swept away.",
-      "published": "Thu, 17 Sep 2026 18:30:30 +0000"
     },
     {
       "title": "Even the king of England has his hesitations about AI",
@@ -120,7 +96,37 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "feed_excerpt": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
       "published": "Thu, 17 Sep 2026 19:46:08 +0000"
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "feed_excerpt": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "published": "Fri, 18 Sep 2026 00:02:36 +0000"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "feed_excerpt": "The round values the data center giant at $30.9 billion.",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "feed_excerpt": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000"
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "feed_excerpt": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "published": "Thu, 17 Sep 2026 23:08:24 +0000"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "feed_excerpt": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "published": "Thu, 17 Sep 2026 22:34:09 +0000"
     }
   ],
-  "last_processed_at": "2026-09-17T22:22:31.478750+00:00"
+  "last_processed_at": "2026-09-18T00:40:43.303771+00:00"
 }

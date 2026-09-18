@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-17T22:22:47.821226+00:00",
+  "updated_at": "2026-09-18T00:41:03.722399+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-16-al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
+      "title": "Al Gore says the real AI risk isn't data centers | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Al Gore argues that the real danger of artificial intelligence lies not in the emissions of its data centers but in the safety warnings coming from within the industry itself. He points out that AI data center emissions are only a fraction of global emissions, and that the larger climate threat comes from air conditioning and other infrastructure. Gore stresses that public backlash against data centers is driven more by fears of automation and job loss than by carbon concerns, and he takes recent AI safety warnings from leaders like Dario Amodei, Sam Altman, and Elon Musk seriously. He also highlights that AI can help cut global emissions by 6‑9% per year while clean‑energy investment now outpaces fossil‑fuel investment worldwide.",
+      "key_points": [
+        "AI data center emissions are a small fraction of global emissions",
+        "Gore prioritizes AI safety warnings over data‑center protests",
+        "Clean‑energy investment now exceeds fossil‑fuel investment",
+        "AI could reduce global emissions by 6‑9% per year"
+      ],
+      "topics": [
+        "ai",
+        "climate",
+        "energy",
+        "investment",
+        "policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
+      "processed_at": "2026-09-18T00:40:43.173874+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-waymo-restarts-san-antonio-service-five-months-after-flooding-troubles",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Waymo has resumed its robotaxi service in San Antonio, Texas, five months after a vehicle was swept away during a flash flood. The company issued a recall in May and restricted operations in flood‑prone areas, but has since updated its software to better detect standing water. Service will cover a 60‑mile radius that includes downtown and the San Antonio International Airport, with dozens of vehicles operating. Waymo now offers paid rides in 15 U.S. cities after pausing operations in several Texas cities during the storm.",
+      "key_points": [
+        "Waymo restarted San Antonio robotaxi service after a flood incident that swept a vehicle away.",
+        "The company recalled vehicles in May and limited operations in flood‑risk zones, then updated software to detect standing water.",
+        "Service covers a 60‑mile area including downtown and the airport, with dozens of vehicles.",
+        "Waymo now offers paid rides in 15 U.S. cities after pausing operations in some Texas cities."
+      ],
+      "topics": [
+        "self-driving",
+        "waymo",
+        "flooding",
+        "robotaxi",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 18:30:30 +0000",
+      "processed_at": "2026-09-18T00:40:43.303710+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?resize=1200,900",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Huawei announced it will launch its next‑generation Ascend 960DT AI chip in Q1 2027, moving the release up from the originally planned Q3 2027. The chip is part of Huawei’s Peerium Computing Architecture, which aims to link hundreds of thousands of accelerators into a single supercomputer for training and inference. The announcement came just a week before the U.S. President and Chinese President’s meeting on September 24, amid ongoing U.S. restrictions on advanced semiconductor technology. Despite those constraints, Huawei says its Atlas 950 SuperCluster can connect up to 256,000 accelerator cards, signaling a push to close the AI chip gap with Nvidia.",
+      "key_points": [
+        "Ascend 960DT launch moved to Q1 2027",
+        "Peerium Architecture enables massive scale of accelerators",
+        "Announcement precedes US‑China summit, highlighting geopolitical context",
+        "Atlas 950 SuperCluster supports up to 256,000 chips, aiming to rival Nvidia"
+      ],
+      "topics": [
+        "ai chips",
+        "huawei",
+        "nvidia",
+        "geopolitics",
+        "semiconductor"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 14:06:14 +0000",
+      "processed_at": "2026-09-18T00:40:43.254229+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-937980652.jpg?resize=1200,801",
+      "title": "Rival AI agents, Instinct and Meta's Muse, both add the ability to make calls | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Instinct, a San Francisco‑based text‑based AI assistant, has launched a new calling feature called Instinct Concierge that lets its agents place phone calls, book restaurants, and handle high‑touch service requests. Meta’s Muse AI assistant has also added outbound calling to U.S. businesses, rolling it out first to users who explicitly ask for the feature. With both agents now able to make calls, the competitive gap on this capability has closed, while Instinct continues to attract investor interest at a reported $10 billion valuation after a recent $350 million funding round. The move underscores the growing emphasis on multimodal interactions in the rapidly expanding AI assistant market.",
+      "key_points": [
+        "Instinct introduced Instinct Concierge, enabling agents to place calls and manage high‑touch tasks",
+        "Meta’s Muse added outbound calling to U.S. businesses, first to users who request it",
+        "Both agents now offer comparable calling capabilities, leveling the competitive field",
+        "Instinct’s valuation has risen to $10 billion after a $350 million funding round"
+      ],
+      "topics": [
+        "ai assistants",
+        "calling feature",
+        "startup funding",
+        "text-based ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 13:46:16 +0000",
+      "processed_at": "2026-09-18T00:40:43.202882+00:00"
+    },
     {
       "id": "ps-techcrunch-com-2026-09-17-google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
       "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
@@ -2373,97 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 11 Sep 2026 19:00:00 +0000",
       "processed_at": "2026-09-11T20:42:22.237781+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Cerberus, WeGlobal AI, and LOOQ were named the top three winners of the Central Eurasia Road to TechCrunch Startup Battlefield 2026, earning spots at TechCrunch Disrupt 2026 in San Francisco. The competition drew 726 applications from 39 countries, a 50% increase over 2025, and 84% of the entrants were AI‑focused startups. All three champions—an AI cybersecurity agent, a student mental‑health platform, and an attention‑measuring hardware—will showcase their products to a global audience of more than 10,000 tech leaders. The results underscore Central Eurasia’s growing AI ecosystem and its emerging role on the world stage.",
-      "key_points": [
-        "726 applications from 39 countries, 84% AI‑focused",
-        "Winners: Cerberus (cybersecurity), WeGlobal AI (student mental health), LOOQ (ad attention)",
-        "All three will compete at TechCrunch Disrupt 2026 in San Francisco",
-        "Highlights Central Eurasia’s expanding AI startup ecosystem"
-      ],
-      "topics": [
-        "startup",
-        "ai",
-        "techcrunch",
-        "eurasia",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 18:58:01 +0000",
-      "processed_at": "2026-09-11T20:42:22.382652+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Nscale, a UK‑based AI data‑center startup, has added former OpenAI executive Fidji Simo to its board as it prepares for a fall IPO. Simo, who was OpenAI’s No. 2 executive and previously led Instacart through its 2023 IPO, brings experience scaling products used by billions of people. The board now also includes Sheryl Sandberg, Susan Decker and Nick Clegg, underscoring the company’s ambition to raise up to $3.5 billion and position itself as a major player in AI infrastructure.",
-      "key_points": [
-        "Nscale appoints former OpenAI executive Fidji Simo to its board ahead of a planned IPO",
-        "Simo’s background includes scaling OpenAI, Instacart and Meta products for billions of users",
-        "The company is seeking to raise up to $3.5 billion and is targeting a fall IPO",
-        "The board also features high‑profile tech leaders Sheryl Sandberg, Susan Decker and Nick Clegg"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "board",
-        "ipo",
-        "infrastructure"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 16:46:25 +0000",
-      "processed_at": "2026-09-11T17:50:02.612514+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800",
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he's back in control after CEO ouster | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Matt Mullenweg has posted a message to Automattic’s Slack claiming he is back in control as CEO after the board voted to oust him, a claim that has not yet been confirmed by the company. The board’s decision, made a few days earlier, placed CFO Mark Davies on a paid leave of absence and named him interim CEO, a move that Mullenweg described as a conspiracy. Mullenweg’s subsequent Slack and X posts, which include a reference to LL Cool J’s “Mama Said Knock You Out” and a self‑described “pirate” persona, have raised questions about whether he is trolling or if a genuine leadership change has occurred. Automattic has declined to comment, and the situation remains unresolved as employees report that Davies’ Slack account was deactivated and that Mullenweg has removed all Slack admins.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 15:19:00 +0000",
-      "processed_at": "2026-09-11T17:50:04.291874+00:00"
-    },
-    {
-      "id": "om-2026-09-11-scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Trezor has warned its customers again that a cyberattack on Brevo, a marketing‑tech partner, exposed the data of roughly 347,000 wallet owners to a mass phishing campaign. The attackers sent emails that appeared to come from Trezor, containing a link that downloaded an app asking for the user’s wallet backup password, which could allow irreversible theft of funds on the public blockchain. This incident follows a prior breach at ShipMonk that exposed the personal data of at least 81,000 Trezor buyers, raising concerns about targeted violence and “wrench” attacks. Trezor says its own products and account system were not compromised and is reevaluating its vendor relationships while warning that customer email addresses may be used again for phishing.\n",
-      "key_points": [
-        "Brevo’s breach enabled 347,000 phishing emails to Trezor customers, each with a malicious link designed to harvest wallet backup passwords.",
-        "Hackers exploited a flaw that granted them broad access to Brevo accounts, allowing them to send mass phishing messages to any reachable organization.",
-        "A prior breach at ShipMonk exposed the personal data of at least 81,000 Trezor buyers, heightening the risk of targeted physical attacks on crypto owners.",
-        "Trezor’s products and account system were not affected, but the company is reviewing vendor relationships and cautions that customer emails may be reused for future phishing.\n"
-      ],
-      "topics": [
-        "crypto",
-        "data breach",
-        "phishing",
-        "hardware wallet",
-        "third‑party security"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 13:32:54 +0000",
-      "processed_at": "2026-09-11T14:15:10.741480+00:00"
     }
   ]
 }
