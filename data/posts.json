@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-09-18T14:50:53.657575+00:00",
+  "updated_at": "2026-09-18T18:10:17.462640+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-17-google-deepmind-launches-institute-to-widen-the-agi-debate",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
+      "title": "Google DeepMind launches institute to widen the AGI debate | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Google and DeepMind have launched the DeepMind Institute to broaden the conversation around artificial general intelligence. The institute, led by directors Shane Legg, James Manyika, and Demis Hassabis, will surface differing views between Google, DeepMind, and the global research community. Its first collection of essays tackles economic policy, model transparency, human flourishing, and a framework for evaluating frontier AI models. The initiative signals a shift from abstract concerns to concrete safety proposals and potential coordinated slowdowns in the AI industry.",
+      "key_points": [
+        "DeepMind Institute created with directors Legg, Manyika, and Hassabis to surface differing AGI views",
+        "First essays propose transparency safeguards, a U.S. standards body, and an evaluation framework for frontier AI models",
+        "Industry moves toward concrete safety proposals and coordinated slowdowns"
+      ],
+      "topics": [
+        "artificial general intelligence",
+        "ai safety",
+        "deepmind",
+        "google",
+        "research institute"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "processed_at": "2026-09-18T18:09:46.959823+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-is-the-ai-safety-debate-about-safety-or-control",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "title": "Is the AI safety debate about safety or control? | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "The TechCrunch article examines the current debate over AI safety, highlighting a split between executives who favor industry‑driven safeguards and those who call for international collaboration and deceleration of AI development. Anthropic’s CEO Dario Amodei has published a 4,000‑word essay urging a global strategy to deploy guardrails, a stance that has been echoed by OpenAI’s Sam Altman and xAI’s Elon Musk but rejected by some who see government oversight as unnecessary. Meanwhile, Meta’s Mark Zuckerberg and other tech leaders argue that market incentives and internal safety protocols will ultimately prevent chaos, while a private AI standards organization is forming to self‑regulate. The discussion also touches on geopolitical implications, with U.S. officials and Chinese critics debating whether safety measures could be used to gain a competitive edge over rivals like China.",
+      "key_points": [
+        "Anthropic’s Amodei essay calls for deceleration and international collaboration to deploy AI guardrails",
+        "Major executives such as Zuckerberg, Altman, and Musk support industry‑led safety but largely reject mandatory government regulation",
+        "A private AI standards body is emerging, raising concerns about regulatory capture and the exclusion of smaller firms",
+        "Geopolitical stakes are high, with U.S. and Chinese officials debating whether safety measures could be used to shift competitive advantage"
+      ],
+      "topics": [
+        "ai safety",
+        "regulation",
+        "industry",
+        "geopolitics",
+        "corporate governance"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 20:19:37 +0000",
+      "processed_at": "2026-09-18T18:09:47.883224+00:00"
+    },
+    {
+      "id": "ps-techcrunch-com-2026-09-17-khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Mazama Energy, a Khosla‑Ventures incubated geothermal startup, raised an oversubscribed $135 million Series B to build horizontal wells in superhot rock that can generate 15 megawatts of electricity per well. The funding will accelerate development of its first Oregon site, which the company now estimates could produce 10 gigawatts—up from the 5 gigawatt figure announced last year—and aims to start generating power next year. By drilling to about 15,000 feet, Mazama can tap 750 °F supercritical fluid that delivers up to ten times the energy of conventional geothermal, positioning the firm as a dark horse in the race to power AI data centers and other large grid loads.",
+      "key_points": [
+        "Mazama Energy secured $135 million in an oversubscribed Series B to develop superhot‑rock geothermal wells.",
+        "The company targets 15,000‑foot depth, producing 15 MW per well and a first Oregon site that could reach 10 GW of power.",
+        "Funding was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips, Shell Ventures, Khosla Ventures, Gates Frontier and others.",
+        "Supercritical fluid at 750 °F allows up to ten times the power of traditional geothermal, with a global potential of 63 TW if 1 % of superhot rock is tapped."
+      ],
+      "topics": [
+        "geothermal",
+        "cleanenergy",
+        "startup",
+        "investment",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "processed_at": "2026-09-18T18:09:47.301990+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-16-noise-wants-to-help-everyday-people-become-paid-content-creators",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?resize=1200,803",
@@ -2408,81 +2482,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 13 Sep 2026 16:04:00 +0000",
       "processed_at": "2026-09-13T17:59:41.897543+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-13-fusion-power-startups-find-new-partners-in-the-defense-world",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
-      "title": "Fusion power startups find new partners in the defense world | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Fusion startups are turning back to their Cold War roots by partnering with defense firms, as climate‑tech venture funding slows.  Xcimer, which operates the world’s largest privately owned laser system, has secured investment from RTX Ventures and is exploring how its lasers could power future laser weapons.  Pacific Fusion has signed a memorandum of understanding with the National Nuclear Security Administration and is building a high‑energy‑density facility near Sandia and Los Alamos that could support both power‑plant and defense research.  These collaborations give fusion companies new capital and a practical application for their technology while offering the defense sector cheaper, rapid‑response laser options for modern warfare.",
-      "key_points": [
-        "Xcimer partners with RTX Ventures to develop laser‑based fusion tech for defense applications",
-        "Pacific Fusion signs an MOU with the NNSA and is constructing a high‑energy‑density facility near Sandia and Los Alamos",
-        "Defense interest in laser weapons offers a cheaper, faster alternative to traditional missiles, aligning with fusion startups’ capabilities",
-        "Stalled climate‑tech VC funding pushes fusion companies toward defense collaborations"
-      ],
-      "topics": [
-        "fusion",
-        "defense",
-        "lasers",
-        "climate tech",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 13 Sep 2026 13:15:00 +0000",
-      "processed_at": "2026-09-13T14:50:56.760372+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-12-automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Automattic confirmed that WordPress founder Matt Mullenweg has returned to his role as chairman and CEO after a board‑initiated leave of absence that sparked a brief power struggle. The board had voted earlier this week to place Mullenweg on paid leave, appointing CFO Mark Davies as interim CEO, but Mullenweg quickly regained control and publicly announced his return. The company stated that the board fully supports him and that many top executives and employees back his leadership. The incident highlights ongoing tensions within Automattic’s governance and raises questions about board‑executive relations in tech firms.",
-      "key_points": [
-        "Mullenweg returned to CEO after board‑initiated leave",
-        "Board fully supports Mullenweg and appointed Mark Davies as interim CEO",
-        "The episode exposed internal board tensions and executive conflict",
-        "Automattic’s governance structure remains in flux"
-      ],
-      "topics": [
-        "automattic",
-        "mullenweg",
-        "board",
-        "ceo",
-        "wordpress"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 12 Sep 2026 23:25:38 +0000",
-      "processed_at": "2026-09-13T00:09:24.122223+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-12-openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-      "title": "OpenAI’s Sam Altman says it would be 'ill-advised' to go public in 2026 | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "OpenAI CEO Sam Altman confirmed that the company will not pursue an initial public offering in 2026, citing safety concerns and market volatility. Altman said the firm will only go public when its business and societal conditions are ready, implying a likely shift to 2027 or later. The decision follows confidential IPO preparations and recent reports that OpenAI had hired bankers for a 2026 launch. The announcement underscores the company's focus on responsible AI development over rapid capital raising.",
-      "key_points": [
-        "OpenAI will not IPO in 2026",
-        "IPO likely postponed to 2027 or later",
-        "Safety concerns cited as reason",
-        "Market volatility also a factor"
-      ],
-      "topics": [
-        "openai",
-        "ipo",
-        "ai safety",
-        "tech stocks",
-        "business strategy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "processed_at": "2026-09-12T22:01:20.224651+00:00"
     }
   ]
 }

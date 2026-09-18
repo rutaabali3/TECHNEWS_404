@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T14:50:20.459476+00:00",
+  "updated_at": "2026-09-18T18:09:45.301389+00:00",
   "items": [
     {
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
@@ -14,12 +14,6 @@
       "published": "Thu, 17 Sep 2026 20:34:47 +0000"
     },
     {
-      "title": "Is the AI safety debate about safety or control?",
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "feed_excerpt": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "published": "Thu, 17 Sep 2026 20:19:37 +0000"
-    },
-    {
       "title": "UN turns to Google to make its global data ready for AI agents",
       "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
       "feed_excerpt": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
@@ -32,22 +26,10 @@
       "published": "Thu, 17 Sep 2026 19:46:08 +0000"
     },
     {
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "feed_excerpt": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-      "published": "Fri, 18 Sep 2026 00:02:36 +0000"
-    },
-    {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "feed_excerpt": "The round values the data center giant at $30.9 billion.",
       "published": "Thu, 17 Sep 2026 23:25:52 +0000"
-    },
-    {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "feed_excerpt": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
-      "published": "Thu, 17 Sep 2026 23:21:17 +0000"
     },
     {
       "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
@@ -78,7 +60,79 @@
       "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
       "published": "Fri, 18 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "feed_excerpt": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "published": "Fri, 18 Sep 2026 17:59:53 +0000"
+    },
+    {
+      "title": "In India, the new iPhone can arrive faster than a pizza",
+      "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+      "feed_excerpt": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+      "published": "Fri, 18 Sep 2026 17:45:00 +0000"
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "feed_excerpt": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "published": "Fri, 18 Sep 2026 17:33:50 +0000"
+    },
+    {
+      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "feed_excerpt": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
+      "published": "Fri, 18 Sep 2026 17:26:41 +0000"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "feed_excerpt": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]",
+      "published": "Fri, 18 Sep 2026 17:09:56 +0000"
+    },
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "feed_excerpt": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "published": "Fri, 18 Sep 2026 16:35:49 +0000"
+    },
+    {
+      "title": "Family offices are clamoring for AI investments",
+      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "feed_excerpt": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
+      "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "feed_excerpt": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
+      "published": "Fri, 18 Sep 2026 15:44:09 +0000"
+    },
+    {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "published": "Fri, 18 Sep 2026 15:30:00 +0000"
+    },
+    {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "feed_excerpt": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "published": "Fri, 18 Sep 2026 15:22:48 +0000"
+    },
+    {
+      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+      "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+      "feed_excerpt": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.",
+      "published": "Fri, 18 Sep 2026 15:22:16 +0000"
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "published": "Fri, 18 Sep 2026 15:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-18T14:50:52.426229+00:00"
+  "last_processed_at": "2026-09-18T18:09:47.883305+00:00"
 }
