@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T05:38:51.923730+00:00",
+  "updated_at": "2026-09-18T10:50:23.084698+00:00",
   "items": [
     {
       "title": "Noise wants to help everyday people become paid content creators",
@@ -26,34 +26,10 @@
       "published": "Thu, 17 Sep 2026 17:15:59 +0000"
     },
     {
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "feed_excerpt": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "published": "Thu, 17 Sep 2026 17:15:00 +0000"
-    },
-    {
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
       "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
       "feed_excerpt": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
       "published": "Thu, 17 Sep 2026 16:34:36 +0000"
-    },
-    {
-      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-      "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-      "feed_excerpt": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
-      "published": "Thu, 17 Sep 2026 16:09:58 +0000"
-    },
-    {
-      "title": "Roku’s new Labs hub brings experimental apps to the big screen",
-      "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-      "feed_excerpt": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
-      "published": "Thu, 17 Sep 2026 15:50:29 +0000"
-    },
-    {
-      "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "feed_excerpt": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "published": "Thu, 17 Sep 2026 22:14:59 +0000"
     },
     {
       "title": "The fix for rogue AI agents could be more AI",
@@ -116,5 +92,5 @@
       "published": "Thu, 17 Sep 2026 22:34:09 +0000"
     }
   ],
-  "last_processed_at": "2026-09-18T05:38:53.568913+00:00"
+  "last_processed_at": "2026-09-18T10:50:43.063081+00:00"
 }

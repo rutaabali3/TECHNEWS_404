@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-18T05:39:22.660049+00:00",
+  "updated_at": "2026-09-18T10:50:58.010717+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-17-the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+      "title": "The FAA's plan to fix air traffic? $875M worth of AI | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "The Federal Aviation Administration is investing $875 million in an AI‑driven system called SMART (Strategic Management of Airspace, Routes, and Trajectories) to help air traffic controllers manage workflows and improve flight safety. SMART, built by Air Space Intelligence, will run in the cloud and analyze airline schedules, weather, airport capacity, airspace conditions, and operational constraints to predict traffic flows and spot potential conflicts before they arise. The program will first deploy in the Washington, D.C., metropolitan area and then expand nationwide over a 12‑year period. In addition to the AI initiative, the FAA has announced a bold hiring plan and broader modernization efforts to address long‑standing staffing shortages and aging air‑traffic systems.",
+      "key_points": [
+        "FAA is allocating $875 million to launch the AI platform SMART for air traffic management",
+        "SMART uses predictive analytics to assess schedules, weather, capacity, and constraints to prevent conflicts",
+        "The system will roll out in the Washington, D.C. area first and expand across the country over 12 years",
+        "The FAA is also pursuing a new hiring strategy and broader modernization of its air‑traffic infrastructure"
+      ],
+      "topics": [
+        "aviation",
+        "ai",
+        "federal government",
+        "air traffic control",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
+      "processed_at": "2026-09-18T10:50:33.643498+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?resize=1200,808",
+      "title": "Pinterest teases a new 'Restyle' feature that lets you redesign your room with AI | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Pinterest has unveiled a beta feature called Restyle that lets users upload a photo of their space and use AI to add or swap furniture, wall art, lighting, paint colors, and other decor items directly into the image. The feature is powered by Pinterest Intelligence, which combines Nvidia Blackwell GPUs, Nvidia Dynamo, open‑source models, and Pinterest‑built technology to enhance visual search and AI discovery. Restyle enables shoppers to see how Pinterest‑saved items would look in their own rooms, potentially nudging them toward purchase and giving advertisers new ways to showcase products. The beta is currently available in the U.S. and Canada and is expected to roll out more broadly next month.",
+      "key_points": [
+        "Pinterest’s Restyle lets users virtually redesign rooms by adding or swapping decor items in a photo of their space",
+        "The AI engine uses Nvidia GPUs and Pinterest’s own models to improve visual search and shopping discovery",
+        "Restyle bridges the gap between inspiration and purchase, encouraging users to buy items they’ve pinned",
+        "The feature debuted at Pinterest Presents and will expand beyond the U.S. and Canada next month"
+      ],
+      "topics": [
+        "pinterest",
+        "ai",
+        "home decor",
+        "visual search",
+        "ecommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "processed_at": "2026-09-18T10:50:24.604835+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?resize=1200,675",
+      "title": "Apple will let EU apps use less-alarming tracking-consent screens | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple has agreed to modify its App Tracking Transparency (ATT) consent screens for apps distributed in the EU, following a multi‑year antitrust probe by German and other regulators. The new screens will be full‑page, remove the word “track,” use “Allow” and “Reject” buttons, and include a link to additional information, making the prompts less intimidating for users. Apple will still require a prompt, but the updated format aims to improve user understanding while allowing developers to request tracking permissions. The changes apply to apps in Germany, France, Italy, Poland, and Romania, and Apple will re‑prompt EU users a year after their last choice.",
+      "key_points": [
+        "Apple will modify ATT consent screens for EU apps, making them full‑page and less alarming.",
+        "New screens remove the word “track,” change button labels to “Allow” and “Reject,” and add a link to more information.",
+        "The changes apply to apps in Germany, France, Italy, Poland, and Romania, and Apple will re‑prompt users after one year.",
+        "Apple still allows its own apps to track users without a prompt, raising privacy concerns."
+      ],
+      "topics": [
+        "apple",
+        "privacy",
+        "app tracking transparency",
+        "eu regulation",
+        "advertising"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 16:09:58 +0000",
+      "processed_at": "2026-09-18T10:50:43.062991+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-17-rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Roku-Labs_High-Res.png?resize=1200,772",
+      "title": "Roku's new Labs hub brings experimental apps to the big screen | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Roku has launched Roku Labs, a new hub on its Home Screen that lets U.S. users try experimental first‑party apps such as weather and stock trackers and a game called Roku Dash. The move signals a push toward monetizable in‑house content that could keep viewers on Roku’s platform amid competition from AI‑powered TVs from Google and Amazon. The update also expands Roku’s personalized Home Screen to Mexico and Brazil, adds weather‑question support for its voice assistant, and introduces bundled subscription options for U.S. and Mexican customers. Additionally, Roku is open‑sourceing the software behind its remote, inviting external developers to build on the platform.",
+      "key_points": [
+        "Roku Labs adds experimental first‑party apps via a new Home Screen tile",
+        "The hub includes weather, stocks, and a game called Roku Dash",
+        "Roku expands personalized Home Screen to Mexico and Brazil and offers bundled streaming subscriptions",
+        "The company open‑sources its remote OS to encourage third‑party development"
+      ],
+      "topics": [
+        "roku",
+        "connected tv",
+        "first-party apps",
+        "open source",
+        "subscription bundles"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 15:50:29 +0000",
+      "processed_at": "2026-09-18T10:50:33.708033+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-17-spotify-expands-its-partner-program-for-podcasts-to-35-new-countries",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
@@ -2374,104 +2474,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 11 Sep 2026 20:30:17 +0000",
       "processed_at": "2026-09-12T01:24:16.904940+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Moonshot AI, a leading Chinese AI lab, is aiming for $2 billion in annual revenue by year‑end, doubling its August run‑rate, driven by the K3 open‑weight model. Despite a slight dip in usage, K3 still powers up to 300 billion tokens daily on OpenRouter, showing strong demand for open‑weight models. The target is modest compared to OpenAI’s $40 billion and Anthropic’s $65 billion, reflecting lower margins from free weights. The company faces legal scrutiny after Anthropic alleged a massive distillation campaign that siphoned millions of responses from Claude Opus for training.",
-      "key_points": [
-        "Moonshot AI targets $2 billion annual revenue, double its August run‑rate.",
-        "K3 model generates ~300 billion tokens daily on OpenRouter.",
-        "Open‑weight models still generate revenue but with lower margins than closed‑weight rivals.",
-        "Anthropic accuses Moonshot of a large distillation campaign using Claude Opus data."
-      ],
-      "topics": [
-        "ai",
-        "open-source",
-        "business",
-        "legal",
-        "china"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 19:35:54 +0000",
-      "processed_at": "2026-09-12T01:24:17.256828+00:00"
-    },
-    {
-      "id": "echcrunch-com-2026-09-11-khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Khosla Ventures is opening its first office outside of Sand Hill Road, with a new location on 14th Street in New York expected to open this fall. The move, announced by partner Keith Rabois at TechCrunch’s StrictlyVC event, will house a handful of investors and feature an executive briefing center that brings portfolio companies to meet Fortune 500 clients. Rabois highlighted New York’s growing tech talent pool and the firm’s strategy of building from the bottom up to address senior talent gaps. The expansion positions Khosla alongside other Bay‑area firms that have begun establishing a presence in New York amid shifting talent dynamics.",
-      "key_points": [
-        "Khosla Ventures opens its first New York office on 14th Street, slated for a fall opening.",
-        "The office will host investors and an executive briefing center that connects portfolio companies with Fortune 500 clients.",
-        "The move reflects New York’s rising tech talent headcount and Khosla’s strategy to recruit junior talent while addressing senior talent challenges."
-      ],
-      "topics": [
-        "venture capital",
-        "new york",
-        "tech talent",
-        "office expansion"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 21:19:05 +0000",
-      "processed_at": "2026-09-11T23:04:37.271770+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "title": "Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Garry Tan, CEO of Y Combinator, has said that U.S. open‑weight AI labs should be allowed to use distillation techniques on frontier models, mirroring the approach taken by Chinese labs. He argues that distillation is a legitimate training method that can diversify open AI options and prevent a single proprietary monopoly from dominating the field. Tan stresses that regulators should not impose restrictions on this practice and that open models should be treated as public goods. His position contrasts with Anthropic’s recent push for stricter regulation of illicit distillation attacks.",
-      "key_points": [
-        "Tan supports U.S. open‑weight labs using distillation on frontier models",
-        "He opposes regulatory overreach and views distillation as a normal training method",
-        "He warns against a single dominant AI provider",
-        "His stance differs from Anthropic’s call for a crackdown"
-      ],
-      "topics": [
-        "ai",
-        "open-source",
-        "distillation",
-        "regulation",
-        "ycombinator"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "processed_at": "2026-09-11T23:04:37.030554+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-11-openais-feud-with-mathematicians-is-only-escalating",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "title": "OpenAI's feud with mathematicians is only escalating | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Twenty-five Fields Medal–winning mathematicians have signed an open letter accusing OpenAI of threatening their work by pressuring collaborators and potentially using their research to produce unverified proofs. The letter cites a NYU professor’s claim that OpenAI pressured him not to credit an Anthropic collaborator and notes the company’s withdrawal of sponsorship from a CalTech math event after criticism. Critics warn that AI‑generated proofs, if rushed and unverified, could undermine attribution, plagiarism safeguards, and the open‑research culture that fuels mathematical progress. The letter follows the Leiden Declaration, which offers recommendations for mathematicians, institutions, and policymakers on navigating AI‑driven proofs and preserving the human transmission of ideas.",
-      "key_points": [
-        "25 Fields Medalists sign letter accusing OpenAI of pressuring collaborators and threatening math research",
-        "OpenAI withdrew sponsorship of a CalTech math event after criticism",
-        "Concerns over attribution, plagiarism, secrecy, and the erosion of open research culture",
-        "Leiden Declaration provides recommendations for handling AI‑generated proofs"
-      ],
-      "topics": [
-        "openai",
-        "mathematics",
-        "ai ethics",
-        "research integrity",
-        "attribution"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "processed_at": "2026-09-11T23:04:36.974407+00:00"
     }
   ]
 }
