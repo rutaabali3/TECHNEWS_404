@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T18:09:45.301389+00:00",
+  "updated_at": "2026-09-18T21:08:07.589768+00:00",
   "items": [
     {
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
@@ -54,12 +54,6 @@
       "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
       "feed_excerpt": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
       "published": "Fri, 18 Sep 2026 14:00:14 +0000"
-    },
-    {
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "published": "Fri, 18 Sep 2026 14:00:00 +0000"
     },
     {
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
@@ -132,7 +126,31 @@
       "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
       "published": "Fri, 18 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Automattic names interim CFO after exec departures",
+      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "feed_excerpt": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "published": "Fri, 18 Sep 2026 20:25:22 +0000"
+    },
+    {
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "feed_excerpt": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+      "published": "Fri, 18 Sep 2026 20:24:33 +0000"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "feed_excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "published": "Fri, 18 Sep 2026 20:18:14 +0000"
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "feed_excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "published": "Fri, 18 Sep 2026 18:49:30 +0000"
     }
   ],
-  "last_processed_at": "2026-09-18T18:09:47.883305+00:00"
+  "last_processed_at": "2026-09-18T21:08:09.221843+00:00"
 }
