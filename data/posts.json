@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-18T23:30:39.598065+00:00",
+  "updated_at": "2026-09-19T03:52:44.349662+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-18-joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
+      "title": "Joby Aviation's 3,100-mile autonomous flight signals its push beyond electric air taxis | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Joby Aviation completed the first fully autonomous cross‑country flight in the United States, covering more than 3,100 miles in a converted Cessna Caravan without a human pilot taking control. The aircraft performed autonomous taxiing, takeoffs, navigation and landings while a pilot remained on board for compliance and the flight was remotely supervised from Joby’s California headquarters and Shaw Air Force Base. The demonstration showcased the company’s autonomy stack in varied environments, hinting at future applications in medical transport, disaster response and defense logistics. It also signals Joby’s intent to expand beyond its electric vertical take‑off and landing air‑taxi vision, with plans for autonomous regional airframes supported by a $17 million Air Force contract and a recent $500 million acquisition of Resonant Sciences.",
+      "key_points": [
+        "Joby completed the first fully autonomous 3,100‑mile flight in a converted Cessna Caravan.",
+        "The autonomy stack proved capable of medical transport, disaster response and defense logistics.",
+        "Joby is pursuing a second business line of autonomous regional airframes, backed by a $17 million Air Force contract.",
+        "The company’s defense focus is reinforced by a $500 million acquisition of Resonant Sciences."
+      ],
+      "topics": [
+        "autonomous flight",
+        "joby aviation",
+        "defense",
+        "electric air taxi",
+        "aerospace"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 17:26:41 +0000",
+      "processed_at": "2026-09-19T03:52:17.122612+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-17-the-fix-for-rogue-ai-agents-could-be-more-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
@@ -2465,32 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 14 Sep 2026 16:27:53 +0000",
       "processed_at": "2026-09-14T19:06:30.332661+00:00"
-    },
-    {
-      "id": "-insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
-      "title": "Insight Partners' Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Devin Parekh, co‑chair of Insight Partners, explained at StrictlyVC why the $90 billion firm remains quietly diversified even as the VC world rushes into frontier AI labs like OpenAI and Anthropic.  He highlighted the firm’s portfolio‑driven approach—investing in founders across early‑stage, growth, and buyout rounds worldwide—while noting that high valuations and limited incremental data make early bets more attractive.  Parekh also discussed the firm’s recent loss of the AI legal‑tech deal Legora, its cautious stance on physical AI, and the importance of geographic talent diversity beyond the San Francisco AI hub.  Overall, Insight Partners prioritizes performance over hype, aiming for long‑term returns through a balanced, globally‑oriented investment mix.",
-      "key_points": [
-        "Insight Partners keeps a diversified, portfolio‑driven strategy despite heavy stakes in OpenAI and Anthropic.",
-        "Early‑stage and smaller bets are favored because current valuations offer little incremental data, making later rounds riskier.",
-        "The firm’s global talent focus means deals are sourced worldwide, though AI infrastructure remains concentrated in San Francisco.",
-        "Physical AI remains a speculative bet; Insight is watching but not yet investing heavily.",
-        "Concentration risk is mitigated by a broad fund strategy, with LPs generally preferring diversification over single‑company exposure."
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "investment strategy",
-        "diversification",
-        "global talent"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 13 Sep 2026 21:30:00 +0000",
-      "processed_at": "2026-09-13T23:00:32.196699+00:00"
     }
   ]
 }

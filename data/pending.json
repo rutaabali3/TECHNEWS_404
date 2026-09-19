@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:30:14.876845+00:00",
+  "updated_at": "2026-09-19T03:52:15.220289+00:00",
   "items": [
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -48,12 +48,6 @@
       "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "feed_excerpt": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
       "published": "Fri, 18 Sep 2026 17:33:50 +0000"
-    },
-    {
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "feed_excerpt": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "published": "Fri, 18 Sep 2026 17:26:41 +0000"
     },
     {
       "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
@@ -150,7 +144,19 @@
       "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
       "feed_excerpt": "Accenture is about to take on its most high-risk consulting engagement ever.",
       "published": "Fri, 18 Sep 2026 21:44:33 +0000"
+    },
+    {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "feed_excerpt": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "published": "Sat, 19 Sep 2026 01:00:00 +0000"
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "feed_excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "published": "Sat, 19 Sep 2026 00:12:07 +0000"
     }
   ],
-  "last_processed_at": "2026-09-18T23:30:39.597267+00:00"
+  "last_processed_at": "2026-09-19T03:52:17.122706+00:00"
 }
