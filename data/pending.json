@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:40:33.105366+00:00",
+  "updated_at": "2026-09-19T12:58:26.085459+00:00",
   "items": [
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "feed_excerpt": "The round values the data center giant at $30.9 billion.",
       "published": "Thu, 17 Sep 2026 23:25:52 +0000"
-    },
-    {
-      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "feed_excerpt": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
-      "published": "Thu, 17 Sep 2026 23:08:24 +0000"
     },
     {
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
@@ -42,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "feed_excerpt": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
       "published": "Fri, 18 Sep 2026 17:33:50 +0000"
-    },
-    {
-      "title": "Family offices are clamoring for AI investments",
-      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-      "feed_excerpt": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
     },
     {
       "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
@@ -140,5 +128,5 @@
       "published": "Sat, 19 Sep 2026 00:12:07 +0000"
     }
   ],
-  "last_processed_at": "2026-09-19T08:40:58.582373+00:00"
+  "last_processed_at": "2026-09-19T12:58:27.953489+00:00"
 }

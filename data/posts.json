@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-19T08:41:02.640625+00:00",
+  "updated_at": "2026-09-19T12:58:58.931521+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-17-amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
+      "title": "Amazon-owned Zoox's 100-robotaxi limit in Nevada is about to disappear | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "The Nevada Transportation Authority will lift its 100‑robotaxi cap on September 25, allowing Amazon‑owned Zoox to expand its fleet in Las Vegas at a time when rivals such as Waymo, Tesla and Uber are also gaining permits. Zoox currently operates about 100 custom‑built robotaxis across four U.S. cities, with the majority in Las Vegas and San Francisco, and has begun charging riders after receiving a federal safety exemption. The removal of the cap gives Zoox more flexibility to grow its commercial operations in a market that could soon host up to 7,000 robotaxis from multiple companies. This regulatory change positions Zoox to compete more aggressively in the burgeoning autonomous ride‑hailing sector.\n",
+      "key_points": [
+        "The Nevada Transportation Authority will lift Zoox’s 100‑robotaxi cap on September 25, freeing the company to expand its Las Vegas fleet.",
+        "Zoox currently operates roughly 100 robotaxis, mainly in Las Vegas and San Francisco, and has started charging riders after a federal safety exemption.",
+        "Waymo, Tesla and Uber already hold permits that could bring up to 7,000 robotaxis to Clark County in the next year.",
+        "The cap removal comes as competition heats up, giving Zoox a chance to increase its presence in a key market.\n"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "robotaxi",
+        "regulation",
+        "las vegas",
+        "amazon"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 23:08:24 +0000",
+      "processed_at": "2026-09-19T12:58:27.341678+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-family-offices-are-clamoring-for-ai-investments",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1957635505.jpg?resize=1200,675",
+      "title": "Family offices are clamoring for AI investments | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Family offices are increasingly allocating capital to AI companies, favoring direct and secondary deals over traditional VC funds. Advisors like Djoann Fal report that the upside potential of AI—triple returns in months—outweighs longer‑term green‑energy bets, prompting offices to chase single‑name stakes. The shift is driven by a growing pool of $5.5 trillion in family‑office wealth, rising alternative‑investment exposure, and a belief that secondary market stakes offer de‑risked exposure to proven AI firms. Despite concerns about inflated valuations and macro risks, 65% of global family offices plan to prioritize AI, signaling a bullish stance that could reshape private‑equity deal flow.",
+      "key_points": [
+        "Family offices are moving away from blind‑pool VC funds toward direct and secondary AI investments.",
+        "The high upside of AI—potential 3x returns in months—drives this shift.",
+        "Secondary market stakes are seen as de‑risked because they target companies with traction and revenue.",
+        "65% of global family offices plan to prioritize AI despite valuation concerns."
+      ],
+      "topics": [
+        "family offices",
+        "ai investments",
+        "secondary market",
+        "venture capital",
+        "private equity"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-19T12:58:27.953408+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-18-in-india-the-new-iphone-can-arrive-faster-than-a-pizza",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800",
@@ -2441,56 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 14 Sep 2026 17:10:30 +0000",
       "processed_at": "2026-09-14T22:39:46.241102+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-macos-27-new-siri-takes-on-ai-productivity-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
-      "title": "macOS 27: new Siri takes on AI productivity apps | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple’s macOS 27 Golden Gate release brings a major overhaul of Siri, giving the assistant visual intelligence that lets users select parts of a screen or a window to provide context‑aware answers, document editing help, and even image searches. The update also expands Spotlight and Safari with AI‑powered search, tab organization, and shortcut execution, while adding new design elements such as Liquid Glass icons, consistent window corners, and a cross‑platform photo album feature. These changes position macOS as a stronger productivity platform that rivals browser‑based AI assistants and underscores Apple’s push into AI‑enhanced user workflows. The OS is now available for a wide range of Macs from 2020 onward, making the new features accessible to most current users.",
-      "key_points": [
-        "macOS 27 introduces a context‑aware Siri with visual intelligence and deeper file access",
-        "Spotlight and Safari receive AI enhancements for search, tab organization, and shortcuts",
-        "Design updates include Liquid Glass icons, consistent window corners, and new shortcuts",
-        "macOS 27 is available on Macs from 2020 and later"
-      ],
-      "topics": [
-        "apple",
-        "macos",
-        "siri",
-        "ai",
-        "productivity"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 17:10:09 +0000",
-      "processed_at": "2026-09-14T22:39:46.229654+00:00"
-    },
-    {
-      "id": "2026-09-14-fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Daydream, an AI‑powered fashion discovery app, has added two new features that leverage Apple’s latest iOS 27 developer tools. The first lets iPhone users turn photos already saved in their Photos app into shoppable results by analyzing the outfit and matching it to roughly 3 million products in Daydream’s catalog. The second is a Siri‑powered natural‑language search that lets users request items by voice or text without opening the app, with results personalized through the company’s Style Passport. These launches are part of Daydream’s broader goal of building a shopping agent that understands a user’s style across every surface of their life.",
-      "key_points": [
-        "Daydream’s new image‑context feature turns saved outfit photos into shoppable results using iOS 27’s image‑analysis tools.",
-        "The app can match items in a photo to up to 3 million products, offering exact matches or similar alternatives if the item is unavailable.",
-        "A Siri‑powered search lets users request clothing or accessories by voice or text, providing personalized results without opening the app.",
-        "Daydream aims to evolve these tools into a comprehensive shopping agent that operates across all user touchpoints."
-      ],
-      "topics": [
-        "fashion",
-        "ai",
-        "shopping",
-        "apple",
-        "siri"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-14T22:39:46.433372+00:00"
     }
   ]
 }
