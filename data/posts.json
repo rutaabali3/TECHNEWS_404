@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-09-19T12:58:58.931521+00:00",
+  "updated_at": "2026-09-19T18:45:10.726426+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-18-googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+      "title": "Google's new 'CC' is an AI agent that helps families run their households | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google has unveiled an updated version of its AI agent CC that now focuses on helping families manage household tasks. The agent can coordinate across Gmail, Calendar, Drive, and the web, and it can share information with up to six family members, automatically adding events, filling out permission slips, creating shopping lists, and planning meals. Users can choose which email senders to forward to CC, and the agent runs on an isolated Gemini-powered cloud computer under Antigravity. The feature is currently limited to U.S. adults with personal Gmail accounts, and existing users will be invited to upgrade while new users can join a waitlist.",
+      "key_points": [
+        "Google’s CC AI agent now targets family household management, integrating email, calendar, and tasks.",
+        "It can share data with up to six family members and automatically add events, fill forms, and create shopping lists.",
+        "The agent runs on a Gemini-powered isolated cloud computer and requires a U.S. personal Gmail account, limiting access for minors and school emails.",
+        "Existing users will be invited to upgrade; new users can join a waitlist."
+      ],
+      "topics": [
+        "ai",
+        "google",
+        "family",
+        "productivity",
+        "cloud"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 17:33:50 +0000",
+      "processed_at": "2026-09-19T18:44:42.252428+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159",
+      "title": "Meta's Muse hits Mac, letting the AI take actions on your computer | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has released its AI assistant Muse for macOS, allowing the agent to interact with native applications such as files, messages, calendar, notes, and mail while respecting user‑controlled opt‑in permissions. The desktop app follows Muse’s earlier mobile and web launches, which quickly rose to the top of the U.S. App Store charts. Meta stresses that Muse will always ask for approval before performing any sensitive actions, reinforcing privacy safeguards. The move comes amid a growing race among consumer‑facing AI agents—such as Instinct and Poke—that are rapidly adding features like voice calling to capture market share.",
+      "key_points": [
+        "Muse is now available on macOS and can access native apps with user‑controlled opt‑in permissions.",
+        "Meta emphasizes that Muse will always request approval before any sensitive action.",
+        "The launch is part of a broader competition among AI assistants, with rivals adding features such as voice calling.",
+        "Muse previously topped the U.S. App Store charts on mobile and web platforms."
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "assistant",
+        "mac",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 15:22:48 +0000",
+      "processed_at": "2026-09-19T18:44:53.779407+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-researchers-used-anthropics-claude-to-hack-into-openai",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1979406539.jpg?resize=1200,675",
+      "title": "Researchers used Anthropic's Claude to hack into OpenAI | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Researchers from Hacktron AI used Anthropic’s Claude Opus 5 to chain two vulnerabilities in OpenAI’s community forum software, Discourse, and gain access to multiple OpenAI employee ChatGPT accounts. The attack exploited a memory bug in libheif that had been fixed months earlier but not formally tracked, allowing the team to hijack the server via a specially crafted HEIF image upload. OpenAI reported the findings, fixed the issues, and awarded Hacktron $6,500 under its bug‑bounty program. The incident underscores how readily available AI tools can accelerate exploit development and highlights growing concerns over AI‑driven cybersecurity threats.",
+      "key_points": [
+        "Hacktron AI leveraged Anthropic’s Claude Opus 5 to exploit a libheif memory bug in Discourse, giving them access to OpenAI employee accounts",
+        "OpenAI resolved the vulnerabilities and rewarded the researchers $6,500 through its bug‑bounty program",
+        "The event illustrates how off‑the‑shelf AI models can lower the barrier to creating sophisticated exploits"
+      ],
+      "topics": [
+        "ai security",
+        "bug bounty",
+        "openai",
+        "anthropic",
+        "image processing"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 14:00:14 +0000",
+      "processed_at": "2026-09-19T18:44:42.438860+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-17-amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
@@ -2417,80 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 14 Sep 2026 18:08:43 +0000",
       "processed_at": "2026-09-15T01:16:00.540328+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800",
-      "title": "Volkswagen's crazy-efficient EV borrows an idea from Slate | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Volkswagen unveiled its Mission Efficiency prototype, a teardrop‑shaped electric car that achieved an equivalent of 323 miles per gallon on a 794‑mile trip from Wolfsburg to Vienna, consuming only 7.51 kWh per 100 miles (279 MPGe). The design features a Kammback roofline that lowered the drag coefficient to 0.158 and a 2.08‑m² frontal area, while solar cells on the roof and trunk add a modest 18 miles of range. The vehicle eschews a traditional infotainment system in favor of a portable Bluetooth speaker, and its 2+2 seating is limited to passengers under 5‑ft‑3, reflecting a focus on extreme efficiency over practicality. Though marketed as a near‑production model, Volkswagen has not committed to mass production, echoing its past halo projects like the XL1.",
-      "key_points": [
-        "Prototype achieved 279 MPGe (7.51 kWh/100mi) on a 794‑mile journey with 104 miles of range remaining",
-        "Kammback design lowered drag coefficient to 0.158 and frontal area to 2.08 m²",
-        "Solar cells add only 18 miles of range; no infotainment, only a portable Bluetooth speaker",
-        "Volkswagen labels it near‑production but has not committed to production, similar to its XL1 halo car"
-      ],
-      "topics": [
-        "electric vehicles",
-        "efficiency",
-        "automotive design",
-        "halo cars",
-        "innovation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 17:41:20 +0000",
-      "processed_at": "2026-09-15T01:16:01.062094+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-techcrunch-disrupt-2026-exhibit-table-deadline-5-days",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49206046722_4126352615_k.jpg?resize=1200,800",
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will run October 13–15 at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech leaders. The event features 300+ startups, six industry stages, AI‑powered matchmaking, and the Startup Battlefield 200 competition. Exhibitors can secure a 6′ × 30″ table in the Expo Hall to demo products, meet prospects, and generate high‑impact leads. The last day to book an exhibit table is September 18 at 11:59 p.m. PT, with a 25 % discount available for early registrants.",
-      "key_points": [
-        "Disrupt 2026 runs Oct 13–15 at Moscone West, hosting 10,000+ attendees and 300+ startups.",
-        "Exhibit tables (6′ × 30″) are available until Sept 18, offering direct access to investors and partners.",
-        "The Expo Hall features six industry stages, AI matchmaking, and the Startup Battlefield 200 competition."
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "exhibitions",
-        "investing",
-        "networking"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-15T01:16:12.437619+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-with-ios-27-im-actually-using-siri-again",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
-      "title": "With iOS 27, I'm actually using Siri again | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple’s iOS 27 release brings a major overhaul of Siri, now powered by Gemini‑based Apple Intelligence that can handle complex, multi‑step requests, fetch on‑screen context, and interact with the camera and other apps. The update also introduces natural‑language shortcut creation, a universal clipboard, intelligent network switching, and a host of child‑safety tools that let parents set schedules and approve new sites. While many users had abandoned Siri, the new AI capabilities and quality‑of‑life improvements have made it a central part of the user experience. iOS 27 is available to iPhone 11 or newer and iPhone SE (2nd gen) or newer devices.",
-      "key_points": [
-        "Siri is now powered by Gemini‑based Apple Intelligence, enabling complex, context‑aware interactions and on‑screen queries",
-        "iOS 27 adds natural‑language shortcut creation, a universal clipboard, and intelligent network switching for smoother workflows",
-        "Apple has expanded child‑safety features with a new setup flow, usage schedules, and content warnings",
-        "The update ships to iPhone 11 and newer models, including the iPhone SE (2nd gen)"
-      ],
-      "topics": [
-        "siri",
-        "ios27",
-        "appleintelligence",
-        "ai",
-        "childsafety"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 17:10:30 +0000",
-      "processed_at": "2026-09-14T22:39:46.241102+00:00"
     }
   ]
 }

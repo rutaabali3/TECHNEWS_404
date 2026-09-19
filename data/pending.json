@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:21:59.173708+00:00",
+  "updated_at": "2026-09-19T18:44:40.769082+00:00",
   "items": [
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -26,18 +26,6 @@
       "published": "Fri, 18 Sep 2026 14:30:00 +0000"
     },
     {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "feed_excerpt": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "published": "Fri, 18 Sep 2026 14:00:14 +0000"
-    },
-    {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "feed_excerpt": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "published": "Fri, 18 Sep 2026 17:33:50 +0000"
-    },
-    {
       "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
       "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
       "feed_excerpt": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
       "published": "Fri, 18 Sep 2026 15:30:00 +0000"
-    },
-    {
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "feed_excerpt": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "published": "Fri, 18 Sep 2026 15:22:48 +0000"
     },
     {
       "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
@@ -150,7 +132,19 @@
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
       "feed_excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "feed_excerpt": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "published": "Sat, 19 Sep 2026 17:30:00 +0000"
+    },
+    {
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "feed_excerpt": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "published": "Sat, 19 Sep 2026 17:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-19T12:58:27.953489+00:00"
+  "last_processed_at": "2026-09-19T18:44:53.779487+00:00"
 }
