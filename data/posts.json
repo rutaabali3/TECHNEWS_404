@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-19T21:21:23.553477+00:00",
+  "updated_at": "2026-09-19T23:23:50.136356+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-18-anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
+      "title": "Anthropic is operating a lab that conducts biology experiments | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Anthropic has opened a wet biology lab in the Bay Area to run physical experiments that test its AI models, confirming that the company is moving beyond simulation into real‑world biology. The lab focuses on fundamental biology research rather than drug discovery, and Anthropic collaborates with external partners while also working with major pharma clients such as Novo Nordisk. In addition to the lab, the company launched a Life Sciences Verification Program to grant vetted researchers access to its most powerful models and has published reports on accelerating protein design and bimolecular modeling. The move follows Anthropic’s acquisition of stealth biotech Coefficient Bio and comes amid broader industry discussions about AI safety and the potential risks of advanced AI systems.",
+      "key_points": [
+        "Anthropic operates a wet biology lab to test AI models in real experiments",
+        "The lab focuses on fundamental biology and collaborates with external partners",
+        "Anthropic launched a Life Sciences Verification Program for vetted researchers",
+        "The company has published research on protein design and bimolecular modeling"
+      ],
+      "topics": [
+        "ai",
+        "biology",
+        "wetlab",
+        "drug discovery",
+        "ai safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "processed_at": "2026-09-19T23:23:32.711275+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-automattic-names-interim-cfo-after-exec-departures",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?resize=1200,800",
+      "title": "Automattic names interim CFO after exec departures | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Automattic has appointed Jeremy Klaperman, the former CFO of its WordPress VIP Enterprise unit, as interim chief financial officer following the departure of CFO Mark Davies and other executives after a failed attempt to oust CEO Matt Mullenweg. Mullenweg, who briefly stepped down during the board dispute, has returned to the helm and confirmed that the board will still evaluate internal and external candidates for the CFO role before a final decision. In addition, a new chief legal officer has verbally accepted the position, replacing Andy Missan, who left the company alongside Davies. The company’s next board meeting is scheduled for September 23, and the board’s new members have yet to be announced.",
+      "key_points": [
+        "Jeremy Klaperman named interim CFO after Mark Davies left",
+        "Matt Mullenweg returned as CEO following a failed board ouster attempt",
+        "A new chief legal officer has accepted the role, replacing Andy Missan",
+        "The board will still evaluate candidates and will meet on September 23"
+      ],
+      "topics": [
+        "automattic",
+        "cfo",
+        "executive departures",
+        "board changes",
+        "legal chief"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 20:25:22 +0000",
+      "processed_at": "2026-09-19T23:23:41.866701+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-world-model-companies-are-keeping-a-lot-of-secrets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "title": "World model companies are keeping a lot of secrets | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "The TechCrunch piece reports that leading world‑model labs such as Yann LeCun’s AMI Labs and Fei‑Fei Li’s World Labs are deliberately withholding details about their product plans, citing a research‑and‑build phase.  While world models promise a range of applications—from autonomous vehicles to interactive video and robotics—companies are keeping their exact use cases under wraps to avoid attracting competitors.  The article notes that the ease of fundraising in the AI space fuels a “dark forest” dynamic, where firms delay disclosure to stay ahead of rivals that could emerge once the market path becomes clear.  Even suppliers like Physicl remain in the dark about how their data is being used, underscoring the broader secrecy surrounding the field.",
+      "key_points": [
+        "AMI Labs and World Labs are keeping product plans secret to avoid early competition",
+        "World models have broad potential uses, from robotics to media creation",
+        "Easy fundraising encourages firms to delay disclosure and protect their competitive edge",
+        "Suppliers lack clarity on how their data is applied in world‑model projects"
+      ],
+      "topics": [
+        "ai",
+        "world models",
+        "secrecy",
+        "fundraising",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "processed_at": "2026-09-19T23:23:21.354849+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/coast-guard-fbi-tankers.jpg?resize=1200,800",
+      "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The FBI and U.S. Coast Guard boarded two U.S.-bound oil tankers in the Gulf of Mexico between August 21 and 24 after hackers compromised the vessels’ networks and took control of navigation, propulsion, and cargo systems. One of the ships, the 333‑meter VL Prosperity, can carry over 2 million barrels of oil and was reported to have lost communications for more than a day. Authorities say the boarding was to ensure the integrity of the vessels’ operational and information technology systems, and no operational disruptions, crew danger, or environmental impacts were reported. Investigators are looking into whether Iranian‑backed hackers, part of a broader wave of cyberattacks, were responsible for the incident.",
+      "key_points": [
+        "FBI and Coast Guard boarded two oil tankers after hackers compromised their networks",
+        "Hackers gained control of navigation, propulsion, and cargo systems",
+        "One tanker, VL Prosperity, is 333 m long and holds over 2 million barrels of oil",
+        "Investigations suggest Iranian‑backed hackers may be behind the attack, but no operational disruptions were reported"
+      ],
+      "topics": [
+        "cybersecurity",
+        "shipping",
+        "oil",
+        "fbi",
+        "coast guard"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 15:44:09 +0000",
+      "processed_at": "2026-09-19T23:23:21.437125+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-17-crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
@@ -2392,106 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 01:50:48 +0000",
       "processed_at": "2026-09-15T06:31:49.154777+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Cornelis, a former Intel spin‑off that builds networking tech for AI chips, closed a $205 million round led by IAG Capital Partners on Monday. The company unveiled its Active Compute Fabric, a networking fabric that lets GPUs process and transmit data simultaneously, aiming to cut the idle time that plagues current GPU workloads. By offering an open‑architecture solution, Cornelis lets customers mix and match GPUs and accelerators instead of being locked into Nvidia’s proprietary stack, positioning itself as a challenger to Nvidia’s dominance. The firm has already shipped the first generation of the fabric and plans to release a newer version later this year.",
-      "key_points": [
-        "Cornelis raised $205 million led by IAG Capital Partners",
-        "Active Compute Fabric reduces GPU idle time by enabling simultaneous processing and transmission",
-        "The open‑architecture approach allows customers to use diverse GPUs and accelerators, challenging Nvidia’s closed stack",
-        "First‑generation fabric is already shipping, with a newer version expected later this year"
-      ],
-      "topics": [
-        "ai infrastructure",
-        "nvidia",
-        "networking",
-        "open architecture",
-        "chip manufacturing"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 20:07:37 +0000",
-      "processed_at": "2026-09-15T06:31:49.210653+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
-      "title": "Sources say Automattic's board is out after failed attempt to oust CEO Matt Mullenweg | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Automattic’s board was ousted after a failed vote to place CEO Matt Mullenweg on a paid leave of absence, prompting Mullenweg to publicly declare his return to leadership via Slack and a company statement.  Founding CEO Toni Schneider resigned his board seat, and Mullenweg subsequently removed board members Sue Decker and Gen. Ann Dunwoody, with Decker resigning and Dunwoody being dismissed.  The shake‑up also saw the departure of Chief Legal Officer Andy Missan and CFO Mark Davies, as Mullenweg consolidated control amid a high‑profile lawsuit with WP Engine over trademark and open‑source contributions.  Automattic confirmed the changes and indicated a new board would be announced shortly, while the dispute with WP Engine remains unresolved.",
-      "key_points": [
-        "Automattic’s board was ousted after a failed vote to place CEO Matt Mullenweg on paid leave",
-        "Toni Schneider resigned his board seat and Mullenweg removed Sue Decker and Gen. Ann Dunwoody",
-        "CFO Mark Davies and CLO Andy Missan left the company following Mullenweg’s consolidation of power",
-        "The board changes occur amid a lawsuit with WP Engine over WordPress trademark and open‑source contributions"
-      ],
-      "topics": [
-        "automattic",
-        "board",
-        "mullenweg",
-        "wp engine",
-        "lawsuit"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 15:34:31 +0000",
-      "processed_at": "2026-09-15T06:31:48.946765+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
-      "title": "Learn how to build lasting AI defensibility at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a Builders Stage session titled \"What Happens When OpenAI Ships Your Roadmap,\" where founders, operators, and investors discuss how AI startups can maintain defensibility as foundation models rapidly add similar capabilities. The session, hosted by Michel Tricot of Airbyte, Linda Tong of Webflow, and Rob Toews of Radical Ventures, will explore strategies such as leveraging proprietary data, embedded workflows, and customer trust to keep products valuable beyond platform updates. Disrupt, held October 13–15 at Moscone West in San Francisco, offers more than 250 sessions and a 25% discount on tickets until September 25. The event aims to help founders rethink product strategy, fundraising, and valuation in an ecosystem where the platform itself becomes a competitive threat.",
-      "key_points": [
-        "AI startups risk losing competitive advantage when foundation models add similar features",
-        "Defensibility can be built through proprietary data, workflows, and trust rather than model performance",
-        "Speakers include Michel Tricot (Airbyte), Linda Tong (Webflow), and Rob Toews (Radical Ventures)",
-        "Disrupt 2026 runs Oct 13–15 at Moscone West and offers a 25% ticket discount until Sept 25"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "defensibility",
-        "disrupt",
-        "techconference"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-15T06:31:49.226362+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Ben-Lamm_1-Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Hear how AI can engineer nature’s comeback at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a Real World AI Stage fireside chat titled \"Can We Engineer Nature’s Comeback?\" that brings together Ben Lamm, CEO of Colossal Biosciences, to discuss how artificial intelligence and synthetic biology are being used to revive extinct species and the broader implications for conservation. The session examines the intersection of AI with modern biology, the potential of de‑extinction as a conservation tool, and the ethical debate over whether engineering nature is a breakthrough or a distraction from protecting existing ecosystems. Disrupt 2026, held at Moscone West in San Francisco from October 13–15, will host over 10,000 founders, investors and operators across 250+ sessions, and offers discounted tickets for early registrants.",
-      "key_points": [
-        "Colossal Biosciences is applying AI and synthetic biology to pursue de‑extinction",
-        "The fireside chat explores AI’s role in conservation and the ethical questions it raises",
-        "Disrupt 2026 attracts 10,000+ participants and offers discounted tickets",
-        "The discussion highlights the tension between engineering nature and protecting existing ecosystems"
-      ],
-      "topics": [
-        "ai",
-        "biology",
-        "de-extinction",
-        "conservation",
-        "techconference"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-15T06:32:18.842583+00:00"
     }
   ]
 }

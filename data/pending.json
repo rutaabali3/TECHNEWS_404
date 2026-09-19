@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:20:56.459361+00:00",
+  "updated_at": "2026-09-19T23:23:20.290991+00:00",
   "items": [
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -14,12 +14,6 @@
       "published": "Thu, 17 Sep 2026 22:34:09 +0000"
     },
     {
-      "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
-      "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-      "feed_excerpt": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
-      "published": "Fri, 18 Sep 2026 15:44:09 +0000"
-    },
-    {
       "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
       "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
       "feed_excerpt": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.",
@@ -32,18 +26,6 @@
       "published": "Fri, 18 Sep 2026 15:00:00 +0000"
     },
     {
-      "title": "Automattic names interim CFO after exec departures",
-      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-      "feed_excerpt": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-      "published": "Fri, 18 Sep 2026 20:25:22 +0000"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "feed_excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "published": "Fri, 18 Sep 2026 20:18:14 +0000"
-    },
-    {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
       "feed_excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "feed_excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "published": "Fri, 18 Sep 2026 23:25:01 +0000"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "feed_excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "published": "Fri, 18 Sep 2026 23:13:31 +0000"
     },
     {
       "title": "AI Hallucination Nearly Triggers US Military Operation",
@@ -134,5 +110,5 @@
       "published": "Sat, 19 Sep 2026 19:57:47 +0000"
     }
   ],
-  "last_processed_at": "2026-09-19T21:21:09.549296+00:00"
+  "last_processed_at": "2026-09-19T23:23:41.866772+00:00"
 }
