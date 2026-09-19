@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:44:40.769082+00:00",
+  "updated_at": "2026-09-19T21:20:56.459361+00:00",
   "items": [
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -8,34 +8,16 @@
       "published": "Thu, 17 Sep 2026 19:46:08 +0000"
     },
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "feed_excerpt": "The round values the data center giant at $30.9 billion.",
-      "published": "Thu, 17 Sep 2026 23:25:52 +0000"
-    },
-    {
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
       "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "feed_excerpt": "If AI lab PrismML isn't on your radar yet, it should be.",
       "published": "Thu, 17 Sep 2026 22:34:09 +0000"
     },
     {
-      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-      "published": "Fri, 18 Sep 2026 14:30:00 +0000"
-    },
-    {
       "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
       "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
       "feed_excerpt": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
       "published": "Fri, 18 Sep 2026 15:44:09 +0000"
-    },
-    {
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "published": "Fri, 18 Sep 2026 15:30:00 +0000"
     },
     {
       "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
       "feed_excerpt": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
       "published": "Fri, 18 Sep 2026 20:25:22 +0000"
-    },
-    {
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "feed_excerpt": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
-      "published": "Fri, 18 Sep 2026 20:24:33 +0000"
     },
     {
       "title": "World model companies are keeping a lot of secrets",
@@ -144,7 +120,19 @@
       "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
       "feed_excerpt": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
       "published": "Sat, 19 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "feed_excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "published": "Sat, 19 Sep 2026 20:39:13 +0000"
+    },
+    {
+      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "feed_excerpt": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "published": "Sat, 19 Sep 2026 19:57:47 +0000"
     }
   ],
-  "last_processed_at": "2026-09-19T18:44:53.779487+00:00"
+  "last_processed_at": "2026-09-19T21:21:09.549296+00:00"
 }

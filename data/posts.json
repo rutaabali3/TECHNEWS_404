@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-19T18:45:10.726426+00:00",
+  "updated_at": "2026-09-19T21:21:23.553477+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-17-crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular 'AI factories' | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Crusoe has secured a $3.9 billion Series F round that lifts its valuation to $30.9 billion, with the funding led by Atreides Management, Mubadala Capital and Valor Equity Partners and joined by Founders Fund, GIC, Nvidia, QIA, Radical Ventures and TPG. The capital will support existing projects such as a large OpenAI‑backed data center in Abilene, Texas, and the launch of modular AI factories called Spark that can be truck‑mounted and powered almost anywhere, helping the company avoid community opposition to massive complexes. Crusoe’s three‑pronged revenue model—leasing space, renting GPUs and selling inference compute—has already attracted high‑profile clients like Meta, Microsoft, Oracle and a $13 billion, five‑year contract with Jane Street. The company is also in talks with Goldman Sachs and Morgan Stanley about a potential IPO, following a $1.38 billion raise at a $10 billion valuation last October.",
+      "key_points": [
+        "$3.9 billion Series F round pushes valuation to $30.9 billion",
+        "Launch of modular AI factories (Spark) to speed deployment and reduce community backlash",
+        "$13 billion, five‑year contract with Jane Street expands AI infrastructure",
+        "Potential IPO discussions underway with Goldman Sachs and Morgan Stanley"
+      ],
+      "topics": [
+        "ai infrastructure",
+        "data centers",
+        "venture capital",
+        "investment",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "processed_at": "2026-09-19T21:20:57.716311+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Angle Health, a Y Combinator alum that offers level‑funded health plans for small businesses, closed a $200 million Series C and a $400 million tender offer that values the company at $2.7 billion. The round was led by Vitruvian Partners with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator, and is expected to close later this month. Angle’s AI‑powered platform integrates with payroll and HR systems and already serves more than 5,000 businesses, reporting profitability. The deal underscores growing investor interest in non‑AI‑centric health‑tech startups and the appeal of level‑funded plans that blend predictability with cost savings.",
+      "key_points": [
+        "Series C raised $200M plus $400M tender offer, valuing Angle Health at $2.7B.",
+        "Angle Health offers level‑funded health plans that combine features of fully insured and self‑funded models.",
+        "The company serves over 5,000 small businesses and is already profitable.",
+        "Investment led by Vitruvian Partners with participation from Y Combinator and other venture firms."
+      ],
+      "topics": [
+        "health insurance",
+        "startup funding",
+        "ycombinator",
+        "level funded",
+        "ai platform"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 20:24:33 +0000",
+      "processed_at": "2026-09-19T21:21:09.549209+00:00"
+    },
+    {
+      "id": "-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
+      "title": "NVIDIA’s Nader Khalil and Sydney Sykes join Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "NVIDIA’s Nader Khalil and Sydney Sykes will co‑host a session on the open versus proprietary AI debate at TechCrunch Disrupt 2026’s Builders Stage. The discussion will explore how founders, investors, and line‑of‑business leaders can weigh cost, control, and defensibility when choosing between open models like Nvidia’s Nemotron and closed frontier models. Khalil brings a builder perspective from his background at Brev.dev, while Sykes adds a venture‑capital view as Nvidia’s Global Head of VC Partnerships. The session, scheduled for Oct. 13‑15 in San Francisco, is part of a broader event featuring 25 % off tickets and highlights the growing trend toward hybrid AI stacks.",
+      "key_points": [
+        "NVIDIA leaders will debate open vs closed AI at Disrupt 2026",
+        "The session examines cost, control, and defensibility for startups and investors",
+        "It highlights the rise of hybrid models combining open and proprietary systems",
+        "Ticket discounts up to $200 are available until Sept. 25"
+      ],
+      "topics": [
+        "ai",
+        "open-source",
+        "proprietary",
+        "startups",
+        "nvidia"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 15:30:00 +0000",
+      "processed_at": "2026-09-19T21:20:58.384182+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Jeff-Lawson_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "title": "Inertia co-founder Jeff Lawson’s joins Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Jeff Lawson, the co‑founder of Twilio, will headline a session at TechCrunch Disrupt 2026 where he will discuss his pivot to leading Inertia, a fusion‑energy startup. Inertia recently closed a $450 million Series A led by Bessemer Venture Partners with participation from GV and other investors to fund laser systems and mass‑manufacture fusion fuel targets. The company has opened a 50,000‑square‑foot headquarters in Livermore, California, and hired talent from Apple, Corning and Waymo to build its manufacturing and supply‑chain capabilities. Lawson’s talk will explore how software‑scaling experience translates to the capital‑intensive, engineering‑heavy world of fusion power and what it means for founders, investors and the broader tech ecosystem.",
+      "key_points": [
+        "Jeff Lawson moves from Twilio to lead Inertia, a fusion‑energy startup",
+        "Inertia raised $450 million in Series A funding led by Bessemer Venture Partners and GV",
+        "Lawson will discuss the transition at TechCrunch Disrupt 2026",
+        "Inertia has a new Livermore HQ and recruits talent from Apple, Corning and Waymo"
+      ],
+      "topics": [
+        "tech entrepreneurship",
+        "fusion energy",
+        "startup funding",
+        "tech conferences",
+        "leadership"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-09-19T21:20:58.242912+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-18-googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
@@ -2392,105 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 14 Sep 2026 14:30:00 +0000",
       "processed_at": "2026-09-15T06:32:18.842583+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "A Vinyl Bar in Shibuya, a startup founded by former Spotify innovation head Máuhan M. Zonoozy, has raised a $5.5 million pre‑seed round from a mix of venture funds and industry insiders to build a suite of music‑creation tools that blend generative AI with hands‑on remixing. The company releases its experiments as “singles” across web and iOS apps—such as Speed Surfer, Usersound, Stacks, Drops, Sampler, and the iOS app bop—that let users manipulate sounds, create mixes, and export them to social media, while keeping AI as a supportive layer rather than the core creative engine. Zonoozy stresses that the goal is to empower users to participate in music creation, not to replace human taste with AI‑generated songs, and plans a multiplayer remix platform and a musical sandbox mixer later this year. The venture’s focus on interactive, user‑driven music tools positions it at the intersection of generative AI, music technology, and consumer creativity.\n",
-      "key_points": [
-        "A Vinyl Bar in Shibuya, led by former Spotify innovation head Máuhan M. Zonoozy, raised $5.5 million in a pre‑seed round to develop AI‑augmented music creation apps.",
-        "The startup offers a range of web and iOS tools—Speed Surfer, Usersound, Stacks, Drops, Sampler, and bop—that let users remix, generate, and export music while keeping AI as an auxiliary layer.",
-        "Zonoozy emphasizes that AI should enhance, not replace, human creativity, aiming for a multiplayer remix platform and prompt‑based features.",
-        "The company plans to launch a musical sandbox mixer this year to further empower user interaction with music production.\n"
-      ],
-      "topics": [
-        "startup",
-        "musictech",
-        "generativeai",
-        "spotify",
-        "shibuya"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 13:55:00 +0000",
-      "processed_at": "2026-09-15T06:31:49.162202+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "title": "Nvidia CEO Jensen Huang tells Trump 'we're not going to let [an AI slowdown] happen' | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Nvidia CEO Jensen Huang answered a live phone call from former President Donald Trump during the All‑In Summit in Los Angeles, projecting the conversation to the audience to emphasize that the U.S. would not let an AI slowdown occur. Trump, joined by Y Combinator CEO Garry Tan, argued that opposition to data‑center construction is part of a global psyop aimed at stifling American growth, citing Gallup polls that show widespread public concern. Huang, who had been discussing Anthropic CEO Dario Amodei’s call to slow AI progress, agreed with Trump and received applause from the crowd. The exchange highlighted the clash between industry leaders who want rapid AI development and political voices warning about potential risks and public backlash.",
-      "key_points": [
-        "Huang projected Trump’s call to the All‑In audience to assert that the U.S. will not slow AI progress",
-        "Trump and allies claim data‑center opposition is a global psyop aimed at hindering American growth",
-        "The debate reflects a broader tension between rapid AI development and concerns over environmental and societal impacts"
-      ],
-      "topics": [
-        "nvidia",
-        "trump",
-        "ai",
-        "data centers",
-        "all‑in"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "processed_at": "2026-09-15T01:16:00.873040+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "OpenAI has acquired smartphone camera startup Glass Imaging for a deal worth more than $300 million, according to a Wall Street Journal report. Glass Imaging, founded in 2019 by former Apple engineers Ziv Attar and Tom Bishop, uses AI to learn the characteristics of individual camera systems and deliver better images from the moment a photo is taken, bypassing the need for post‑capture editing. The acquisition follows OpenAI’s recent purchase of Jony Ive’s design firm and signals the company’s growing interest in building its own hardware, such as smartphones and earbuds. The deal adds a team with deep expertise in camera technology to OpenAI’s expanding hardware ambitions.",
-      "key_points": [
-        "OpenAI bought Glass Imaging for over $300 million",
-        "Glass Imaging’s AI learns camera system specifics to improve image quality at capture",
-        "Founders were key engineers behind Apple’s Portrait Mode",
-        "The purchase fits OpenAI’s rumored move into consumer hardware"
-      ],
-      "topics": [
-        "openai",
-        "ai",
-        "smartphone",
-        "camera",
-        "acquisition"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "processed_at": "2026-09-15T01:16:01.326258+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hbo-max-screenshot-clickfix.jpg?resize=1200,843",
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "ClickFix attacks have evolved into a sophisticated phishing technique that lures users into executing terminal commands that install info‑stealing malware.  In a recent campaign, hackers compromised the HBO Max Reddit advertising account and posted fake ads that prompted users to copy and paste a command into Windows Command Prompt or macOS Terminal.  The malware immediately harvests passwords, logged‑in account credentials, and crypto wallet keys, often bypassing antivirus tools because it runs directly in the operating system.  Companies can mitigate the threat by blocking terminal access on corporate devices or using defensive tools such as BlockBlock for Mac users.",
-      "key_points": [
-        "ClickFix tricks users into running terminal commands that install malware",
-        "The latest campaign used a compromised HBO Max Reddit ad to lure victims",
-        "The malware steals passwords, account access, and crypto wallet information",
-        "Blocking terminal access or using tools like BlockBlock can help prevent attacks"
-      ],
-      "topics": [
-        "cybersecurity",
-        "malware",
-        "clickfix",
-        "reddit",
-        "hbo max"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 18:08:43 +0000",
-      "processed_at": "2026-09-15T01:16:00.540328+00:00"
     }
   ]
 }
