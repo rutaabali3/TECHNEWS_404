@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T03:52:15.220289+00:00",
+  "updated_at": "2026-09-19T08:40:33.105366+00:00",
   "items": [
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -38,28 +38,10 @@
       "published": "Fri, 18 Sep 2026 14:00:14 +0000"
     },
     {
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "feed_excerpt": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "published": "Fri, 18 Sep 2026 17:45:00 +0000"
-    },
-    {
       "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
       "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "feed_excerpt": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
       "published": "Fri, 18 Sep 2026 17:33:50 +0000"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "feed_excerpt": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]",
-      "published": "Fri, 18 Sep 2026 17:09:56 +0000"
-    },
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "feed_excerpt": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "published": "Fri, 18 Sep 2026 16:35:49 +0000"
     },
     {
       "title": "Family offices are clamoring for AI investments",
@@ -158,5 +140,5 @@
       "published": "Sat, 19 Sep 2026 00:12:07 +0000"
     }
   ],
-  "last_processed_at": "2026-09-19T03:52:17.122706+00:00"
+  "last_processed_at": "2026-09-19T08:40:58.582373+00:00"
 }

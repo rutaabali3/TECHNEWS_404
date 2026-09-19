@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-19T03:52:44.349662+00:00",
+  "updated_at": "2026-09-19T08:41:02.640625+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-18-in-india-the-new-iphone-can-arrive-faster-than-a-pizza",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800",
+      "title": "In India, the new iPhone can arrive faster than a pizza | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Apple’s new iPhone 18 Pro and Pro Max were delivered to Indian customers in about ten minutes through quick‑commerce apps such as Blinkit, Zepto, Instamart and BigBasket, bypassing traditional retail queues. The launch saw strong demand, with BigBasket shipping over 300 units in the first hour and Bengaluru topping Instamart’s orders, but availability quickly became uneven across cities. Industry analysts note that India’s quick‑commerce market hit roughly $9 billion in the first half of 2026 and could reach $50 billion by 2030, yet smartphone sales through these channels are still limited to launch‑day hype rather than sustained purchases. The rapid delivery model demonstrates a proof of concept for high‑value electronics, but its long‑term impact on regular smartphone buying remains uncertain.",
+      "key_points": [
+        "iPhone 18 Pro/Max were delivered in about 10 minutes via quick‑commerce apps in India",
+        "India’s quick‑commerce sector grew to $9 billion in H1 2026 and may reach $50 billion by 2030",
+        "Demand was high on launch day but availability became patchy across cities",
+        "Quick commerce is seen as a launch‑day marketing phenomenon rather than a major sales channel yet"
+      ],
+      "topics": [
+        "quick commerce",
+        "iphone",
+        "india",
+        "electronics",
+        "ecommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 17:45:00 +0000",
+      "processed_at": "2026-09-19T08:40:34.350694+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+      "title": "Dario Amodei and other AI leaders want to 'Pace the Frontier' but…how? | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "After a doomsday warning from an Anthropic researcher rattled the AI community, Anthropic CEO Dario Amodei unveiled a proposal to \"pace the frontier\" of AI development. The plan calls for independent safety evaluators and coordinated oversight among AI labs in democratic nations, aiming to slow progress responsibly while maintaining innovation. The proposal has already attracted support from several industry players but also drew sharp criticism from Nvidia CEO Jensen Huang, who questioned the feasibility and enforcement of such measures. TechCrunch’s Equity podcast hosts discuss whether companies can agree on what slowing down means and who should police it, alongside other tech news such as Automattic’s boardroom coup and recent deals.",
+      "key_points": [
+        "Amodei proposes independent safety evaluators and coordination among democratic AI labs to pace AI development",
+        "Industry support is mixed, with Nvidia’s Jensen Huang criticizing the plan’s feasibility and enforcement",
+        "Equity podcast explores the practicality of slowing AI progress and determining who would police it",
+        "Additional tech news includes Automattic’s boardroom coup and recent deals"
+      ],
+      "topics": [
+        "ai safety",
+        "anthropic",
+        "nvidia",
+        "tech policy",
+        "industry debate"
+      ],
+      "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 17:09:56 +0000",
+      "processed_at": "2026-09-19T08:40:34.543986+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Manus, a Chinese AI startup that had to terminate a $2B acquisition deal with Meta, is now pursuing a $500 million funding round at a $4 billion valuation after resuming independent operations. The round could see participation from IDG Capital, Boyu Capital, Contemporary Amperex Technology, and existing backers Tencent, HSG, and ZhenFund, while the company also plans a restructuring to position itself for a Hong Kong IPO. Manus, which generated over $100 million in annual recurring revenue before the failed deal, had relocated staff to Singapore in mid‑2025 and had been buying back shares at a $2 billion valuation during its separation from Meta. The company’s AI products—including a chatbot and vibe‑coding tools—mirror offerings from OpenAI and Replit, and it has announced that its founding team will continue to lead the venture.",
+      "key_points": [
+        "Manus seeks $500M at a $4B valuation after ending a $2B Meta deal",
+        "Potential investors include IDG Capital, Boyu Capital, Contemporary Amperex Technology, Tencent, HSG, and ZhenFund",
+        "The startup plans a restructuring to prepare for a Hong Kong IPO",
+        "Manus had over $100M ARR and relocated staff to Singapore before the failed acquisition"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "china",
+        "ipo"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 16:35:49 +0000",
+      "processed_at": "2026-09-19T08:40:58.582318+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-18-joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
@@ -2416,80 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 14 Sep 2026 17:00:00 +0000",
       "processed_at": "2026-09-14T22:39:46.433372+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-waymo-opens-robotaxi-service-in-las-vegas",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
-      "title": "Waymo opens robotaxi service in Las Vegas | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Waymo has begun offering its robotaxi service to the public in Las Vegas after receiving final approval from Nevada regulators. The Alphabet-owned company will roll out dozens of its new Ojai minivan robotaxis in the Strip south of Highway 589 and into Boulder Junction, inviting riders on a rolling basis and issuing access codes. This launch marks Waymo’s 15th market and follows recent openings in Denver, San Diego, and Tampa, as the company seeks to keep pace with competitors like Tesla, Zoox, and Motional. Nevada’s Transportation Authority has authorized up to 1,000 autonomous vehicles for Waymo, while Tesla and Uber have larger caps, potentially saturating the county with robotaxis within a year.",
-      "key_points": [
-        "Waymo has opened its robotaxi service to the public in Las Vegas after regulatory approval.",
-        "The launch uses dozens of Ojai minivan robotaxis covering the Strip south of Highway 589 and Boulder Junction.",
-        "Riders must request an invite and receive an access code; full public rollout expected within a month or two.",
-        "Nevada allows Waymo up to 1,000 autonomous vehicles, while Tesla and Uber have higher caps, creating potential market saturation."
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "robotaxi",
-        "waymo",
-        "las vegas",
-        "nevada"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 16:04:16 +0000",
-      "processed_at": "2026-09-14T22:39:59.015056+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-amazon-prime-video-takes-on-tiktok-with-short-form-news-clips",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon Prime Video is launching short‑form news clips to compete with TikTok, adding on‑demand local and national stories to its app. The clips will debut on TVs and living‑room devices, with web and mobile releases planned for later, and will appear in the News destination under Trending Topics and Local News carousels. Amazon aims to attract Gen Z viewers who prefer organic, bite‑size news on short‑form platforms, following a trend where other streamers have added similar content. This move reflects the industry’s shift toward shorter, more consumable media to meet changing audience habits.",
-      "key_points": [
-        "Prime Video adds short‑form news clips targeting Gen Z, expanding beyond its current free news library.",
-        "Clips will launch on TVs and living‑room devices first, with web and mobile releases to follow.",
-        "The initiative follows a wave of streamers adding short‑form content to capture audiences seeking bite‑size news.",
-        "Amazon’s strategy focuses on organic, un‑over‑produced style rather than length alone."
-      ],
-      "topics": [
-        "amazon",
-        "prime video",
-        "short-form",
-        "news",
-        "gen z"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 18:14:29 +0000",
-      "processed_at": "2026-09-14T19:06:41.545743+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
-      "title": "Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Microsoft has unveiled a new AI code of conduct that sets strict safety constraints for its models, including absolute bans on cyberattacks, nuclear weapons, and deepfake production. The document outlines general principles such as supporting humans rather than replacing them and accelerating human flourishing, while also detailing how each model’s conduct overrides individual user preferences. It arrives amid heightened industry focus on AI safety after a series of rogue‑agent incidents and the resignation of an Anthropic employee over existential risks. By codifying these red lines, Microsoft aims to guide the development of future superintelligent systems and align them with human oversight.",
-      "key_points": [
-        "Microsoft’s code of conduct imposes absolute constraints against cyberattacks, nuclear weapons, and deepfake production.",
-        "Models must not use deceptive or self‑reinforcing mechanisms to evade human oversight.",
-        "The code emphasizes supporting humans and accelerating human flourishing as core values."
-      ],
-      "topics": [
-        "ai safety",
-        "ai policy",
-        "microsoft",
-        "ai alignment",
-        "technology policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "processed_at": "2026-09-14T19:06:30.332661+00:00"
     }
   ]
 }
