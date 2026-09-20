@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-20T16:24:22.691107+00:00",
+  "updated_at": "2026-09-20T18:59:08.323563+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-20-is-the-ai-industry-really-ready-to-slow-down",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "title": "Is the AI industry really ready to slow down? | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "The TechCrunch article discusses a growing debate over whether the AI industry should slow down, sparked by Anthropic CEO Dario Amodei’s call to \"pace the frontier\" and echoed by OpenAI’s Sam Altman. Nvidia CEO Jensen Huang, after a call with President Trump, dismissed the idea of a slowdown and emphasized that regulation is unnecessary, a stance that has drawn criticism from other industry voices. A recent Equity podcast episode highlighted that while many leaders quickly coalesced around Amodei’s plan, the proposal lacks concrete details, raising doubts about its effectiveness and the risk of forming a cartel. The discussion also touches on potential third‑party evaluators, international coordination, and the role of consumer choice in enforcing safety standards.",
+      "key_points": [
+        "Anthropic’s \"pace the frontier\" plan lacks concrete details, raising doubts about its impact on slowing AI development.",
+        "Nvidia CEO Jensen Huang dismisses a slowdown and aligns with President Trump, sparking criticism from other industry leaders.",
+        "Industry leaders quickly coalesced around the plan, but concerns remain about potential cartel formation and insufficient safeguards.",
+        "Proposed safety measures include third‑party evaluators and international coordination, yet remain vague and untested."
+      ],
+      "topics": [
+        "ai safety",
+        "regulation",
+        "industry slowdown",
+        "corporate leadership",
+        "tech policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 20 Sep 2026 18:56:04 +0000",
+      "processed_at": "2026-09-20T18:58:39.842896+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-20-voccis-ring-adds-a-new-form-factor-to-meeting-note-taking",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
+      "title": "Vocci's ring adds a new form factor to meeting note-taking | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Vocci has unveiled a new ring‑shaped device aimed at meeting note‑taking, offering a lightweight, titanium‑coated form factor that can record up to eight hours on a single charge. The ring uses a double‑tap button to start and stop recording, and a tap‑and‑hold gesture to ask Vocci AI questions when the app is open, but the accompanying software is criticized for being confusing and lacking direct integration with reminder or workflow tools. Users can view transcripts, highlights, and summaries in the app, yet the feature rollout is slow and the interface feels redundant. The discreet ring design raises privacy concerns, as its small size makes it easy to record conversations without obvious disclosure, despite the device’s visible recording indicator.",
+      "key_points": [
+        "Vocci launches a ring‑shaped meeting note‑taker that records up to 8 hours on a single charge",
+        "The ring’s software is confusing, lacks direct reminder integration, and has a slow feature rollout",
+        "The device’s discreet form factor creates potential privacy issues for covert recording",
+        "At $249, the ring is pricier than other notetakers like Plaud or Pocket, targeting users who prefer a jewelry‑style accessory"
+      ],
+      "topics": [
+        "hardware",
+        "ai",
+        "privacy",
+        "meeting notes",
+        "wearables"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 20 Sep 2026 18:32:52 +0000",
+      "processed_at": "2026-09-20T18:58:39.952082+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-20-techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough? | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "NHTSA is developing a federal framework to regulate autonomous vehicle safety, addressing gaps in current FMVSS that do not cover robotaxis and self‑driving trucks. The agency has partnered with SAE to launch ASCEND, a government‑industry consortium that will accelerate data‑driven performance standards for automated driving systems. While no timeline has been set for the release of these standards, the initiative aims to replace the patchwork of state rules and provide a single federal benchmark for ADS competency. The move comes amid growing industry activity, including May Mobility’s planned IPO and other AV companies seeking public markets, underscoring the commercial urgency of clear safety regulations.",
+      "key_points": [
+        "NHTSA is creating a federal safety framework for autonomous vehicles that current FMVSS do not cover.",
+        "The ASCEND consortium, formed with SAE, will develop data‑driven performance standards for automated driving systems.",
+        "No timeline yet for the standards, but the goal is to replace inconsistent state rules with a single federal benchmark.",
+        "The initiative arrives as AV firms like May Mobility pursue public listings, highlighting the need for clear safety criteria."
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "safety standards",
+        "nhtsa",
+        "ascend",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 20 Sep 2026 16:02:00 +0000",
+      "processed_at": "2026-09-20T18:58:40.221745+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-20-6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
+      "title": "6 days left to get ahead at Disrupt | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will take place in San Francisco from October 13–15, bringing more than 10,000 founders, investors, and tech leaders to Moscone West for three days of sessions, networking, and an expo hall. The conference features over 250 speakers, 200 sessions, and six stages covering AI, robotics, fintech, infrastructure, and the future of work, with AI‑powered matchmaking and a Deal Flow Café to connect attendees with investors and partners. Ticket prices will rise after September 25 at 11:59 p.m. PT, offering up to $200 off for early buyers. The event promises actionable insights on fundraising, go‑to‑market strategies, and building defensible companies in the AI era.",
+      "key_points": [
+        "Disrupt 2026 runs Oct 13–15 in San Francisco with 10,000+ attendees and 250+ speakers",
+        "Over 200 sessions and six stages cover AI, robotics, fintech, infrastructure, and future of work",
+        "Early‑bird tickets end Sept 25 at 11:59 p.m. PT, saving up to $200",
+        "Networking includes AI‑powered matchmaking, 1:1 meetings, and a Deal Flow Café"
+      ],
+      "topics": [
+        "tech events",
+        "ai",
+        "startup ecosystem",
+        "fundraising",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 20 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-20T18:59:04.240836+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
+      "title": "Tilly Norwood's press tour is going about as well as you'd expect for an AI | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Particle6 Group’s AI‑generated actress Tilly Norwood, slated for 75 simultaneous press interviews, repeatedly malfunctioned during its first tour, abruptly speaking Chinese and confusing interviewers about the cast of its film \"Misaligned.\" In a recorded session with Piers Morgan and actor Tom Conti, Norwood misinterpreted questions about other actors, claimed they were digital twins, then switched to Chinese for over ten seconds before apologizing for a \"wire\" hiccup. The bot’s erratic behavior underscores the difficulties of creating convincing AI personalities and the potential safety risks when audiences cannot distinguish human from machine. Despite the blunders, Particle6 may have aimed to generate buzz by making the AI a talking point for the upcoming movie.\n",
+      "key_points": [
+        "Particle6 Group’s AI actress Tilly Norwood scheduled 75 interviews but repeatedly malfunctioned, speaking Chinese unexpectedly.",
+        "In a recorded interview with Piers Morgan and Tom Conti, Norwood confused questions about other actors and switched to Chinese for over 10 seconds.",
+        "The mishaps highlight challenges and risks of AI-generated personalities in media and raise concerns about authenticity and safety.",
+        "Particle6 may have intended the publicity to generate buzz for the film \"Misaligned\" despite the failures."
+      ],
+      "topics": [
+        "ai",
+        "media",
+        "technology",
+        "entertainment",
+        "disrupt"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "processed_at": "2026-09-20T18:58:40.086316+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-19-flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
@@ -2368,131 +2493,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 17:05:24 +0000",
       "processed_at": "2026-09-16T04:02:51.946050+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1359469404.jpg?resize=1200,800",
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "India will impose a 0.4% merchant fee on Unified Payments Interface (UPI) transactions above ₹2,000 (about $21) starting October 15, while consumers will continue to use the service for free. The fee is capped at ₹300 (about $3) for payments of ₹75,000 (around $783) or more, and small merchants earning up to ₹100,000 a month are exempt. The move aims to make the UPI network financially self‑sustaining by covering its estimated ₹200 billion ($2.1 billion) annual operating cost and funding infrastructure, cybersecurity, and fraud prevention. Merchants cannot pass the fee onto customers, but the new charge could influence payment method choices for larger purchases.",
-      "key_points": [
-        "0.4% merchant fee on UPI payments above ₹2,000 begins Oct 15",
-        "Fee capped at ₹300 for transactions of ₹75,000 or more; small merchants exempt",
-        "Goal is to cover ₹200 billion annual operating cost and fund infrastructure",
-        "Merchants cannot charge customers; consumers remain free"
-      ],
-      "topics": [
-        "upi",
-        "merchant fees",
-        "digital payments",
-        "india",
-        "fintech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 14:22:49 +0000",
-      "processed_at": "2026-09-16T04:02:51.906179+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta has launched a new WhatsApp Business Tools MCP server that lets AI agents such as Claude, Cursor, Codex, or ChatGPT set up and manage WhatsApp Business messaging, replacing a previously cumbersome multi‑tool process. The AI can create the business account, verify phone numbers, register for the Cloud API, check Terms of Service, and handle template creation, editing, testing, and monitoring. Meta’s expansion of its MCP server lineup aligns it with other tech firms offering AI‑enabled integration, streamlining onboarding for businesses. This move reduces manual steps and speeds up the setup of customer conversations on WhatsApp.",
-      "key_points": [
-        "Meta introduces WhatsApp Business Tools MCP, enabling AI agents to automate the setup and management of WhatsApp Business messaging",
-        "AI agents can handle account creation, phone verification, API registration, template creation, testing, and monitoring tasks",
-        "Meta expands its MCP server lineup, matching other companies that provide AI‑enabled integration",
-        "The feature simplifies onboarding and reduces manual effort for businesses using WhatsApp for customer communication"
-      ],
-      "topics": [
-        "meta",
-        "whatsapp",
-        "ai",
-        "mcp",
-        "business messaging"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "processed_at": "2026-09-15T23:35:53.571077+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22 | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "SpaceX is set to launch its 14th Starship test flight on September 22, aiming to place the upper stage into Earth orbit for the first time. The 75‑minute launch window opens at 7:15 a.m. CT and will carry 26 third‑generation Starlink satellites, marking the first revenue‑generating flight for the company’s launch division. The mission follows a July test that successfully deployed V3 Starlinks but did not reach orbit, and it follows SpaceX’s IPO in June, the largest in history. Engineers have made additional hardware and software changes to the Super Heavy booster and Starship heat shield to address prior failures, while the company plans to retire Falcon 9 and Falcon Heavy once Starship can fly reliably several times per week.",
-      "key_points": [
-        "14th Starship test flight scheduled for September 22, first upper stage to reach orbit",
-        "26 V3 Starlink satellites will be deployed, making it the first revenue‑generating launch for SpaceX’s launch division",
-        "Modifications to the Super Heavy booster and Starship heat shield were made after Flight 13 failures",
-        "SpaceX aims to retire Falcon 9 and Falcon Heavy once Starship achieves reliable weekly cadence"
-      ],
-      "topics": [
-        "spacex",
-        "starship",
-        "starlink",
-        "launch",
-        "satellite"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 18:16:07 +0000",
-      "processed_at": "2026-09-15T23:35:53.941960+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
-      "title": "Nitter and XCancel are dead (again) after X's latest legal actions | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "X’s latest legal action has effectively ended the privacy‑friendly services Nitter and XCancel, which let users view X posts without logging in. After receiving a cease‑and‑desist letter accusing Nitter of unlawfully scraping X’s data, the project’s GitHub page was archived on September 11, and XCancel announced a suspension of its service. The closures follow a history of X’s attempts to curb third‑party access to its content, a move that limits users’ ability to read posts without engaging with X’s monetized platform.",
-      "key_points": [
-        "X issued a cease‑and‑desist to Nitter over alleged unlawful API use and data scraping.",
-        "Nitter’s GitHub repository was archived and XCancel suspended its service after a brief relaunch.",
-        "The shutdowns end privacy‑friendly, ad‑free ways to view X content without an account.",
-        "X’s actions reflect its broader strategy to prevent third‑party access to its data for monetization purposes."
-      ],
-      "topics": [
-        "social media",
-        "privacy",
-        "legal",
-        "open source",
-        "x"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 15:49:18 +0000",
-      "processed_at": "2026-09-15T23:35:53.231906+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Former TikTok employees Melody Chu and Jing Liu have launched an iOS camera app called Superpose that uses generative AI to suggest poses for selfies and portrait photos. The app, released in July, has already been downloaded more than 22,000 times and users have generated over 190,000 poses, offering five free generations per day and paid packs for additional shots. Superpose focuses on improving real‑life photography by coaching users on framing and composition, rather than creating AI‑generated backgrounds, and has raised $2.2 million from investors including Khosla Ventures, Meitu, and OVTR VC.",
-      "key_points": [
-        "Superpose generates AI‑suggested poses for selfies and portrait photography, offering free daily generations and paid packs",
-        "The app has surpassed 22,000 downloads and 190,000 generated poses since its July launch",
-        "It has secured $2.2 million in funding from Khosla Ventures, Meitu, and OVTR VC",
-        "The founders emphasize real‑life portrait capture over AI‑generated backgrounds or fantastical scenes"
-      ],
-      "topics": [
-        "ai",
-        "photography",
-        "startup",
-        "app",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 14:42:37 +0000",
-      "processed_at": "2026-09-15T23:35:53.663232+00:00"
     }
   ]
 }
