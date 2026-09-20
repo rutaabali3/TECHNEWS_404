@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-20T01:27:58.945210+00:00",
+  "updated_at": "2026-09-20T06:52:25.727237+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-18-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
+      "title": "India forces caller-ID apps to feed spam reports to telcos | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "India's telecom regulator TRAI has amended its commercial communication rules to force caller‑ID and call‑management apps that flag spam to forward those reports to a blockchain‑based platform run by telecom operators. The move is intended to widen the data pool used to fight spam, but Truecaller—India’s largest market—argues the requirement is a one‑way, anti‑competitive data transfer that could harm its business model. The new rules also extend the A2P framework to automatically generated calls, requiring companies to declare their use of AI or prerecorded voices and allowing operators to levy a small termination fee. The changes raise technical, jurisdictional, and privacy questions about what data must be shared, how users are notified, and how the enforcement mechanism will be applied.",
+      "key_points": [
+        "TRAI now requires caller‑ID apps to forward spam reports to telecom operators via a blockchain platform.",
+        "Truecaller claims the rule is anti‑competitive and a one‑way data transfer that could hurt its business.",
+        "The amendment expands the A2P framework to cover AI‑generated robocalls, requiring disclosure and allowing a small termination fee.",
+        "The rule raises questions about data scope, user consent, and enforcement mechanisms."
+      ],
+      "topics": [
+        "telecom regulation",
+        "spam",
+        "caller-id",
+        "ai calls",
+        "data privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "processed_at": "2026-09-20T06:52:00.388883+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Diogo Almeida, a former OpenAI researcher, has launched TypeSafe AI’s new transformer model Jev, which departs from traditional large language models by outputting calibrated probability scores instead of text. The model is designed to be inexpensive, fast, and free of hallucinations, making it attractive for software automation and as a lightweight guard against LLM misbehavior. Early adopters such as Vercel and Bryo AI report significant speedups and cost savings compared to OpenAI’s Luna and Gemini, while also gaining useful confidence metrics for workflow integration. Almeida envisions Jev enabling widespread, distributed smart software that mirrors the early internet’s modular growth, with future versions expanding into new modalities.",
+      "key_points": [
+        "Jev outputs calibrated probabilities rather than text, eliminating hallucinations and reducing cost",
+        "Developers report 5–18× faster and cheaper performance than existing LLMs for classification tasks",
+        "The model can serve as a lightweight monitor for LLM agents and aid in model routing",
+        "Almeida plans to expand Jev into additional modalities and compete with emerging alternatives"
+      ],
+      "topics": [
+        "ai",
+        "language models",
+        "software automation",
+        "reinforcement learning",
+        "open-source"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
+      "processed_at": "2026-09-20T06:52:00.103403+00:00"
+    },
     {
       "id": "m-2026-09-17-microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
@@ -2442,56 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 15:47:03 +0000",
       "processed_at": "2026-09-15T17:33:11.287016+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-09-15-aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Profound-founders.jpg?resize=1200,798",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Profound, a startup that builds marketing software to help brands appear in AI search results, has closed a $180 million Series D that values the company at $1.8 billion, less than seven months after its $96 million Series C. The round was led by Sequoia and Kleiner Perkins, with existing investors Lightspeed Venture Partners, Khosla Ventures, and South Park Commons also participating. Founded two years ago as an analytics platform, Profound now offers tools for researching and creating marketing strategies that leverage generative engine optimization, and it reports a three‑fold revenue increase over the past six months. The company boasts more than 1,000 enterprise customers, including Comcast, The Estée Lauder Companies, and Walmart, underscoring its rapid growth and market traction.",
-      "key_points": [
-        "$180M Series D at a $1.8B valuation",
-        "Sequoia and Kleiner Perkins led the round, with existing investors joining",
-        "Revenue tripled in six months and the firm now serves over 1,000 enterprise customers",
-        "Profound focuses on generative engine optimization to boost brand visibility in AI search"
-      ],
-      "topics": [
-        "startup",
-        "valuation",
-        "series d",
-        "ai marketing",
-        "unicorn"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 15:22:48 +0000",
-      "processed_at": "2026-09-15T17:33:11.025532+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-new-italian-unicorn-exein-rides-the-physical-ai-wave",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Exein_-left-to-right-Gerardo-Gagliardo-CFO-Co-Founder-Gianni-Cuozzo-CEO-Founder-Giovanni-Alberto-Falcione-CTO-Co-Founder-.png?resize=1200,801",
-      "title": "New Italian unicorn Exein rides the physical AI wave | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Italian cybersecurity startup Exein has raised $270 million in a round led by Headline, boosting its valuation to $1.7 billion as it expands its physical‑AI security platform. The Rome‑based company, which has been working directly with OEMs and silicon vendors since 2018, now offers Photon, a kernel‑level runtime protection that targets the growing threat landscape of connected devices in aerospace, automotive, energy and other critical sectors. Exein’s growth has accelerated 400% year‑on‑year, and the fresh capital will fund acquisitions, staff hiring and a planned foundational model for Physical AI security slated for release in early 2027. The company’s expansion comes at a time when the EU’s Cyber Resilience Act will soon require manufacturers to certify digital products against cyber threats, potentially creating new regulatory demand for Exein’s solutions.",
-      "key_points": [
-        "Exein secured $270 million, valuing the company at $1.7 billion, a thirty‑fold increase since its Series B",
-        "Its Photon runtime security protects devices at the kernel level and is built through close partnerships with OEMs and silicon vendors",
-        "The startup is targeting the rise of physical AI, covering AI‑powered robots, drones, self‑driving cars and edge‑AI devices",
-        "Exein plans to use the funding for acquisitions, hiring and to launch a foundational model for Physical AI security by Q1 2027"
-      ],
-      "topics": [
-        "startup",
-        "cybersecurity",
-        "physical ai",
-        "valuation",
-        "europe"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 12:19:38 +0000",
-      "processed_at": "2026-09-15T12:31:59.858886+00:00"
     }
   ]
 }
