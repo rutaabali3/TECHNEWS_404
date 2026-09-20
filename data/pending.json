@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-20T06:51:58.689648+00:00",
+  "updated_at": "2026-09-20T12:06:49.492264+00:00",
   "items": [
-    {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "feed_excerpt": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "published": "Thu, 17 Sep 2026 22:34:09 +0000"
-    },
     {
       "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
@@ -44,22 +38,10 @@
       "published": "Sat, 19 Sep 2026 15:00:00 +0000"
     },
     {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "feed_excerpt": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
-      "published": "Sat, 19 Sep 2026 14:00:00 +0000"
-    },
-    {
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
       "feed_excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "feed_excerpt": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "published": "Sat, 19 Sep 2026 17:30:00 +0000"
     },
     {
       "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
@@ -80,5 +62,5 @@
       "published": "Sat, 19 Sep 2026 19:57:47 +0000"
     }
   ],
-  "last_processed_at": "2026-09-20T06:52:00.388980+00:00"
+  "last_processed_at": "2026-09-20T12:07:00.934894+00:00"
 }
