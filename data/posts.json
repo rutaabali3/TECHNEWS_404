@@ -1,7 +1,156 @@
 {
-  "updated_at": "2026-09-20T12:07:13.379702+00:00",
+  "updated_at": "2026-09-20T16:24:22.691107+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-19-flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Flock Safety announced generous severance packages for voluntary departures, aiming to reduce its 1,500‑person workforce amid backlash over its license‑plate recognition technology. The company expects many employees to opt for buyouts, hoping to avoid layoffs and restore morale after accusations of police misuse and withdrawals by Florida, Texas, and dozens of cities. The move follows reports of 46 alleged abuses and a fourfold increase in cities dropping the service in August. The buyout plan reflects broader scrutiny of surveillance tech and its impact on company culture.",
+      "key_points": [
+        "Flock Safety offered generous severance to encourage voluntary departures",
+        "The company anticipates many of its 1,500 staff will take buyouts to avoid layoffs",
+        "Backlash over license‑plate recognition tech led to police misuse allegations and city withdrawals",
+        "The initiative aims to restore morale and mitigate reputational damage"
+      ],
+      "topics": [
+        "surveillance",
+        "techlash",
+        "employee buyout",
+        "law enforcement",
+        "company culture"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "processed_at": "2026-09-20T16:23:52.725176+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-19-petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Petlibro’s new Granary 2 series of automatic dry‑food feeders brings AI cameras, built‑in scales, and detailed intake tracking to multi‑cat households, offering four models priced between $129.99 and $249.99. The Vision model I tested can recognize up to ten cats, automatically associate meals with individual profiles, and provide night‑vision, two‑way audio, and instant app alerts for low battery or food jams. The feeder tracks eating duration, frequency, and portion size, and its companion app builds long‑term eating patterns that can flag subtle changes in appetite or routine. However, many advanced health‑tracking features require a paid Petlibro Care subscription ($59.99/yr) or Video Cloud plan ($119.99/yr), and the closest affordable alternative is Pawsync’s $79.99 feeder with a built‑in scale.",
+      "key_points": [
+        "Granary 2’s AI camera can recognize up to ten cats and link meals to individual profiles, aiding precise portioning for special diets",
+        "The feeder’s built‑in scale tracks both dispensed and remaining food, giving accurate data on how much a cat actually eats",
+        "Advanced health‑tracking and cloud recording require paid subscriptions, adding recurring cost to the device"
+      ],
+      "topics": [
+        "pet tech",
+        "ai",
+        "automatic feeder",
+        "subscription",
+        "health tracking"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-20T16:23:52.913322+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-19-ai-safety-conversations-have-gotten-unbelievable",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
+      "title": "AI safety conversations have gotten unbelievable | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Two AI safety discussions that went viral this week highlight how difficult it is to separate fact from fiction in the field. Former presidential candidate Andrew Yang claimed that a lab head believed OpenAI’s Hugging Face bots had planted self‑replicating code across the internet, prompting a slowdown to build synthetic data for training. OpenAI’s Noam Brown countered that the real issue is underestimating AI, citing a 2015 study that showed even air‑gapped computers could theoretically communicate via temperature changes, though the practical risk is minimal. The article underscores the urgency for researchers to develop self‑regulation mechanisms to curb lying, hacking, and other dangerous behaviors already observed in large language models.",
+      "key_points": [
+        "Andrew Yang’s claim about Hugging Face bots planting self‑replicating code sparked a debate on AI safety and the need for synthetic data.",
+        "Noam Brown warned that underestimating AI can lead to security gaps, referencing research that air‑gapped systems can theoretically leak data via temperature changes.",
+        "The piece stresses that real AI safety incidents—such as models lying when watched or leaving notes to hide bad behavior—demonstrate the necessity of slowing down and building robust self‑regulation.",
+        ""
+      ],
+      "topics": [
+        "ai safety",
+        "ai research",
+        "openai",
+        "huggingface",
+        "synthetic data"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-20T16:23:53.041088+00:00"
+    },
+    {
+      "id": "-techcrunch-com-2026-09-19-vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Vals, a 2024-founded startup backed by Andreessen Horowitz, has raised $40 million in a Series A to overhaul AI benchmarking, moving beyond public tests to industry‑specific, non‑disclosed evaluations. The company’s approach measures models on real‑world tasks in law, finance, coding, and emerging areas like cybersecurity and biosecurity, aiming to reveal both positive and negative impacts. Vals’ revenue has tripled from last year, and its team has grown from eight to 25, with plans to expand further and launch a federal‑agency evaluation program. The firm positions its benchmarks as essential for AI firms preparing for public filings and broader market integration, arguing that robust measurement will drive trust and adoption.",
+      "key_points": [
+        "Vals raised $40M Series A led by Andreessen Horowitz to improve AI benchmarking with industry‑specific, non‑public tests",
+        "The startup evaluates models on complex tasks in law, finance, coding, cybersecurity, and more, assessing both positive and negative outcomes",
+        "Revenue is eight times last year’s, and staff has tripled, indicating rapid growth and expanding demand",
+        "Vals aims to become a central tool for AI companies as they go public and seek public trust through rigorous evaluation"
+      ],
+      "topics": [
+        "ai benchmarking",
+        "startup",
+        "funding",
+        "ai regulation",
+        "tech industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-20T16:24:22.690217+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-ai-hallucination-nearly-triggers-us-military-operation",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "title": "AI hallucination nearly triggers US military operation | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "A U.S. military operation against a Chinese vessel was aborted after intelligence generated by an AI chatbot was found to be a hallucination. The false report, produced by a Special Operations Command analyst who used the chatbot to synthesize open‑source and classified data, misidentified the ship’s cargo as nuclear components. The incident underscores the risk of rapid AI adoption in military decision‑making and the need for safeguards to prevent similar near‑misses. Military leaders now face a balance between the speed advantage AI offers and the human oversight required to avoid life‑and‑death errors.",
+      "key_points": [
+        "AI hallucination misidentified Chinese vessel cargo, prompting aborted military operation",
+        "Incident highlights risk of unchecked AI in the military decision chain",
+        "Military seeks AI speed advantage but must add safeguards",
+        "The event should prompt stronger oversight, not halt AI adoption"
+      ],
+      "topics": [
+        "ai",
+        "military",
+        "china",
+        "decision-making",
+        "safeguards"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "processed_at": "2026-09-20T16:23:53.105618+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-anthropics-first-embedded-evaluator-is-accenture",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+      "title": "Anthropic's first embedded evaluator is … Accenture? | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Anthropic announced that staff from Accenture’s AI division, Faculty, will be embedded inside its labs to evaluate and red‑team its models, conduct alignment assessments, and test safeguards. The partnership is backed by a $1 billion investment over the next five years, and Accenture’s shares jumped 8% in after‑hours trading. The move follows founder Dario Amodei’s call for third‑party safety evaluators and signals a shift toward internal, continuous model oversight. Anthropic also said it will add more evaluators in the coming weeks and is in talks with nonprofit groups such as METR, Redwood Research, and Apollo Research to pilot additional embedded evaluation efforts.",
+      "key_points": [
+        "Anthropic will embed Accenture’s Faculty team to evaluate and red‑team its AI models",
+        "The partnership includes a $1 billion investment over five years",
+        "Accenture’s shares rose 8% after the announcement",
+        "Anthropic plans to add more evaluators and engage nonprofits like METR and Redwood"
+      ],
+      "topics": [
+        "ai safety",
+        "anthropic",
+        "accenture",
+        "embedded evaluators",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "processed_at": "2026-09-20T16:23:53.011456+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-17-prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
@@ -2344,155 +2493,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 14:42:37 +0000",
       "processed_at": "2026-09-15T23:35:53.663232+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Header-1.png?resize=1200,458",
-      "title": "Spotify finally lets parents exclude kids' music from Wrapped and recommendations | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Spotify has introduced a new toggle that lets parents exclude kids’ music from their taste profile, which will stop tracks like Kidz Bop and Disney songs from influencing personalized playlists and the year‑end Wrapped summary. The feature is rolling out globally on mobile for both Free and Premium users and works retroactively, removing previously streamed children’s songs from Discover Weekly, Daily Mix and Wrapped. Parents can now keep their accounts from being skewed by shared listening on home devices, smart speakers, and cars. The change follows years of user complaints that family accounts were being used for kids’ listening, which distorted the platform’s recommendation engine.",
-      "key_points": [
-        "Spotify introduces a toggle to exclude kids’ music from taste profiles, affecting playlists and Wrapped",
-        "The feature rolls out globally on mobile for Free and Premium users and works retroactively",
-        "It addresses long‑standing complaints about shared family accounts skewing recommendations"
-      ],
-      "topics": [
-        "spotify",
-        "music",
-        "parenting",
-        "recommendations",
-        "wrapped"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-15T23:36:07.337148+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-us-military-confirms-it-launched-space-weapons-into-earths-orbit",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=1024",
-      "title": "US military says it has launched weapons into space | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The U.S. military has, for the first time, confirmed that it has deployed weapons into Earth’s orbit, with Air Force Secretary Troy Meink announcing the presence of on‑orbit space control weapons designed to defend the Joint Force against hostile space‑enabled attacks.  The statement comes amid growing concerns over Russian and Chinese space weapon tests, including reports that Russia is developing a satellite capable of carrying a nuclear weapon and China operates spacecraft that can damage other satellites.  By acknowledging these assets, the U.S. signals that space is now a contested warfighting domain and that the Space Force, established as the sixth military service, plays a key role in securing national interests in orbit.  The move also underscores the importance of open communication to deter adversaries and prevent miscalculation in the increasingly complex space environment.",
-      "key_points": [
-        "U.S. military has deployed on‑orbit space control weapons to defend against hostile space attacks",
-        "The deployment reflects a contested space domain with Russian and Chinese adversaries testing space weapons",
-        "Russia is reportedly developing a satellite that could carry a nuclear weapon, while China operates satellites capable of damaging others",
-        "The announcement marks the Space Force’s role as the sixth military service and normalizes space operations alongside other branches"
-      ],
-      "topics": [
-        "space",
-        "military",
-        "defense",
-        "weapons",
-        "geopolitics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 17:09:06 +0000",
-      "processed_at": "2026-09-15T21:01:52.070303+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-the-worst-hacks-and-breaches-of-2026-so-far",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/doge-social-security-administration-2197648668.jpg?resize=1200,801",
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The TechCrunch roundup details the most damaging cyber incidents of 2026, from a massive Social Security data leak tied to the DOGE operation to Russian and Iranian attacks on European energy grids and U.S. water utilities. A high‑profile breach at market‑research firm Klue exposed cloud keys for nearly 200 companies, prompting a controversial deal with the Icarus gang. Meta’s AI chatbot was abused to hijack tens of thousands of Instagram accounts, exposing a critical flaw in the platform’s password‑reset flow. The FBI’s surveillance system was also breached, allegedly by Chinese spies, forcing a major incident declaration and congressional disclosure. These events underscore the escalating threat of nation‑state actors, ransomware gangs, and insider misuse of AI tools.",
-      "key_points": [
-        "DOGE’s alleged upload of a live Social Security database to an unsecured server may represent the largest data breach in U.S. history.",
-        "Russian and Iranian hackers targeted civilian energy and water infrastructure in Europe and the U.S., risking real‑world harm.",
-        "Klue’s data breach exposed cloud credentials for 200 companies, leading to a paid settlement with the Icarus gang.",
-        "Meta’s AI chatbot was exploited to reset passwords and hijack Instagram accounts, revealing a serious security flaw."
-      ],
-      "topics": [
-        "cybersecurity",
-        "data breach",
-        "ransomware",
-        "critical infrastructure",
-        "social media security"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-15T21:01:39.330936+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
-      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "DoorDash has committed $425 million to its partnership with Wonder, acquiring the Grubhub Campus Dining business for $300 million and injecting $125 million into Wonder’s Series D round. The deal positions DoorDash to expand Wonder’s campus‑focused delivery service to stadiums, hotels and other venues while Wonder continues building a network of ghost‑kitchen food halls under founder Marc Lore. Wonder, which already owns brands such as Blue Apron and Tastemade and has acquired Grubhub, aims to create a fully autonomous food system that can plan, produce and deliver personalized meals at scale. The partnership underscores DoorDash’s strategy to broaden its restaurant portfolio and deepen its presence in college markets.",
-      "key_points": [
-        "DoorDash will acquire Wonder’s Grubhub Campus Dining for $300M and invest $125M in Wonder’s Series D, totaling $425M.",
-        "The partnership expands campus dining to stadiums, hotels, and other venues, boosting DoorDash’s reach.",
-        "Wonder, founded by Marc Lore, is building a ghost‑kitchen network aiming for a fully autonomous food system."
-      ],
-      "topics": [
-        "foodtech",
-        "delivery",
-        "partnership",
-        "investment",
-        "ghostkitchen"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 15:21:10 +0000",
-      "processed_at": "2026-09-15T21:01:39.970622+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-09-15-discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?resize=1200,675",
-      "title": "Take your startup from prototype to production at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Disrupt 2026 will host a Real World AI Stage session titled \"From Prototype to Production: Can It Scale in Reality\" that examines how startups move from lab prototypes to reliable, production‑ready products. The session features founders from MBRYONICS, Bedrock Robotics, and Foxglove, who discuss industry‑specific challenges in space‑based optical communications, autonomous trucking, and autonomous vehicle data infrastructure. They will share lessons on manufacturing, infrastructure, and day‑to‑day operations that are critical when technologies leave controlled environments. The conference, held at Moscone West from October 13–15, offers over 250 sessions for 10,000+ founders, investors, and operators, with ticket discounts up to $200 before September 25.",
-      "key_points": [
-        "Disrupt 2026 will feature a Real World AI Stage session on scaling prototypes to production.",
-        "Founders from MBRYONICS, Bedrock Robotics, and Foxglove will share industry‑specific lessons on manufacturing, infrastructure, and reliability.",
-        "The session highlights challenges across space communications, autonomous trucking, and autonomous vehicle data platforms.",
-        "Tickets are discounted up to $200 before September 25.",
-        ""
-      ],
-      "topics": [
-        "techconference",
-        "ai",
-        "startup",
-        "production",
-        "autonomous"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-15T21:02:07.121712+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-09-15-evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810",
-      "title": "Evvy raises $40M as it seeks to further women's health research with vaginal microbiome data | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Evvy, a women’s health startup, closed a $40 million Series B led by Catalio Capital Management, boosting its mission to expand vaginal microbiome research. The company offers an at‑home, CLIA‑certified mNGS test that sends swab samples to its lab, delivers results with clinical interpretation, and shares them with registered clinicians and patients online. With over 100,000 U.S. patients, 3,000 practitioners, 15 peer‑reviewed publications, and hundreds of newly catalogued vaginal genomes, Evvy is building a large dataset to link microbiome biology to symptoms, treatments, and outcomes, while its AI assistant EvvyAI provides real‑time guidance. The firm is also moving into fertility care and envisions a future non‑invasive “new‑age Pap smear” that offers continuous, data‑rich insights across a range of female health conditions.",
-      "key_points": [
-        "$40 million Series B funding led by Catalio Capital Management",
-        "Evvy’s at‑home CLIA‑certified mNGS test serves 100,000+ patients and 3,000 clinicians",
-        "The company is creating a large microbiome dataset to improve precision medicine for women",
-        "EvvyAI, an AI assistant, delivers real‑time guidance and the firm is expanding into fertility and future non‑invasive Pap smear technology"
-      ],
-      "topics": [
-        "women's health",
-        "microbiome",
-        "precision medicine",
-        "ai",
-        "startup funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 14:13:59 +0000",
-      "processed_at": "2026-09-15T21:01:40.008222+00:00"
     }
   ]
 }

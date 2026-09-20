@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T12:06:49.492264+00:00",
+  "updated_at": "2026-09-20T16:23:51.382164+00:00",
   "items": [
     {
       "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
@@ -8,40 +8,10 @@
       "published": "Fri, 18 Sep 2026 23:25:01 +0000"
     },
     {
-      "title": "AI Hallucination Nearly Triggers US Military Operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "feed_excerpt": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "published": "Fri, 18 Sep 2026 23:12:32 +0000"
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "feed_excerpt": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "published": "Fri, 18 Sep 2026 21:44:33 +0000"
-    },
-    {
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "feed_excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "published": "Sat, 19 Sep 2026 00:12:07 +0000"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "feed_excerpt": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "published": "Sat, 19 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "feed_excerpt": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "published": "Sat, 19 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "feed_excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "published": "Sat, 19 Sep 2026 13:00:00 +0000"
     },
     {
       "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
@@ -50,17 +20,29 @@
       "published": "Sat, 19 Sep 2026 17:00:00 +0000"
     },
     {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "feed_excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "published": "Sat, 19 Sep 2026 20:39:13 +0000"
-    },
-    {
       "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
       "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "feed_excerpt": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "published": "Sat, 19 Sep 2026 19:57:47 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "published": "Sun, 20 Sep 2026 16:02:00 +0000"
+    },
+    {
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "feed_excerpt": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. […]",
+      "published": "Sun, 20 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "published": "Sun, 20 Sep 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-20T12:07:00.934894+00:00"
+  "last_processed_at": "2026-09-20T16:24:22.690297+00:00"
 }
