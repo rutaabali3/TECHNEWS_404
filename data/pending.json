@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-20T18:58:38.545710+00:00",
+  "updated_at": "2026-09-20T21:26:40.389743+00:00",
   "items": [
-    {
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "feed_excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "published": "Fri, 18 Sep 2026 23:25:01 +0000"
-    },
     {
       "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
       "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
@@ -36,7 +30,13 @@
       "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
       "feed_excerpt": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
       "published": "Sun, 20 Sep 2026 16:30:00 +0000"
+    },
+    {
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+      "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "feed_excerpt": "Many of The Boring Company's announced project have not materialized.",
+      "published": "Sun, 20 Sep 2026 19:38:48 +0000"
     }
   ],
-  "last_processed_at": "2026-09-20T18:59:04.240954+00:00"
+  "last_processed_at": "2026-09-20T21:26:41.850227+00:00"
 }

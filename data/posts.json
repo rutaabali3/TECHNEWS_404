@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-20T18:59:08.323563+00:00",
+  "updated_at": "2026-09-20T21:27:06.326120+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "title": "World model companies are keeping a lot of secrets | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "World‑model startups such as Yann LeCun’s AMI Labs and Fei‑Fei Li’s World Labs are quietly advancing spatial‑intelligence technology while keeping product plans under wraps. The panel at the All In conference revealed that AMI’s VP of World Models declined to discuss specifics, and even suppliers like Physicl are left in the dark about what data is being used. Although world models promise lucrative applications from robotics to interactive video, the companies’ secrecy is a deliberate strategy to delay competition and protect nascent intellectual property. As funding remains plentiful, the industry may see a burst of breakthroughs once the companies decide to reveal their breakthroughs.",
+      "key_points": [
+        "AMI Labs and World Labs are keeping product details secret to avoid early competition",
+        "World models have broad applications from robotics to interactive video but are still in research phase",
+        "Suppliers such as Physicl are unaware of exact uses of their data",
+        "The industry’s easy fundraising fuels a race to reveal breakthroughs while maintaining secrecy"
+      ],
+      "topics": [
+        "world models",
+        "ai",
+        "secrecy",
+        "robotics",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 20 Sep 2026 20:29:07 +0000",
+      "processed_at": "2026-09-20T21:26:41.850119+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Vantora, the rebranded version of UP.Labs, secured a $100 million investment from Silversmith Capital Partners and is pivoting to build startups exclusively for its corporate partners, offering a proprietary M&A pipeline that lets those partners absorb the ventures into their core businesses. The firm is sharpening its focus on physical AI solutions, targeting sovereign intelligence layers for Fortune 100 industrial companies that need to retrofit hardware for autonomy. Vantora’s portfolio now includes startups for Porsche, Alaska Airlines, J.B. Hunt, Wabash and TDG, and the new model allows it to pursue high‑value, proprietary use cases that were previously too sensitive for public markets.",
+      "key_points": [
+        "Vantora raised $100 million and rebranded from UP.Labs",
+        "It now builds startups solely for corporate partners with a proprietary M&A pipeline",
+        "The focus is on physical AI to meet sovereign intelligence needs of industrial clients",
+        "Existing partners include Porsche, Alaska Airlines, J.B. Hunt, Wabash and TDG"
+      ],
+      "topics": [
+        "startup",
+        "venturecapital",
+        "ai",
+        "physicalai",
+        "corporateinnovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "processed_at": "2026-09-20T21:26:41.598120+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-20-is-the-ai-industry-really-ready-to-slow-down",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
@@ -2443,56 +2493,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 13:00:00 +0000",
       "processed_at": "2026-09-16T09:26:01.423730+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035 | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "By 2035 U.S. data centers are projected to consume 18 billion cubic feet of natural gas per day, surpassing the combined usage of Germany and Japan. Onsite gas‑powered plants announced by Meta, Microsoft, Google and Amazon could account for roughly 3 billion cubic feet per day, while grid‑connected centers are expected to add another 15 billion cubic feet. The resulting demand spike could drive natural gas prices higher and generate about 1 million metric tons of CO₂ emissions daily—roughly 12 % of U.S. greenhouse gas output. This growth would outpace other grid‑connected sectors and could strain utility ratepayers despite tech firms’ financial capacity to absorb higher costs.",
-      "key_points": [
-        "U.S. data centers projected to use 18 Bcf/day of natural gas by 2035, exceeding Germany and Japan combined",
-        "Onsite gas plants by major tech firms could supply ~3 Bcf/day, while grid‑connected centers add ~15 Bcf/day",
-        "The surge may raise natural gas prices and add ~1 million metric tons of CO₂ emissions daily, about 12 % of U.S. GHGs",
-        "Demand growth could outstrip other grid sectors and impact utility ratepayers"
-      ],
-      "topics": [
-        "data centers",
-        "natural gas",
-        "climate change",
-        "energy demand",
-        "tech industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 18:29:20 +0000",
-      "processed_at": "2026-09-16T04:03:09.416417+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-meta-expands-subscription-push-with-new-ai-focused-plans",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "title": "Meta expands subscription push with new AI-focused plans | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta has launched Meta One, a new subscription service that bundles its existing Instagram Plus, Facebook Plus, and WhatsApp Plus tiers with expanded access to Muse AI tools for image, video, and story editing. The Core ($7.99/month) and Premium ($19.99/month) plans target power users, while a suite of business and creator plans—Essential, Advanced, Expert, and Max—offer tiered features such as advanced analytics, team access, and Meta Business Agent support. Early data shows the Plus tiers already boosted Instagram’s daily revenue to $1.2 million and Facebook’s to $528,000, and Meta projects the subscription push could add $13.5 billion by 2028 and $20 billion by 2030. The rollout reflects Meta’s strategy to monetize its $14.3 billion AI investment and broaden its monetization beyond ad revenue.",
-      "key_points": [
-        "Meta One bundles existing Plus tiers with expanded Muse AI usage under Core and Premium plans",
-        "Instagram and Facebook Plus tiers have already increased daily revenue to $1.2 million and $528,000 respectively",
-        "Business and creator plans range from Essential to Max, adding advanced analytics, team access, and Meta Business Agent features",
-        "Meta forecasts the subscription strategy could generate $13.5 billion by 2028 and $20 billion by 2030"
-      ],
-      "topics": [
-        "meta",
-        "subscription",
-        "ai",
-        "social media",
-        "business"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 17:05:24 +0000",
-      "processed_at": "2026-09-16T04:02:51.946050+00:00"
     }
   ]
 }
