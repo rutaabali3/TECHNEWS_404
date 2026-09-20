@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-19T23:23:50.136356+00:00",
+  "updated_at": "2026-09-20T01:27:58.945210+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "m-2026-09-17-microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Unredacted filings in the New York Times lawsuit reveal that a senior Microsoft executive privately called AI scraping “the largest theft of labor in human history,” and that OpenAI’s leadership warned the models posed an existential threat to publishers. The documents detail how the companies bypassed paywalls, stripped copyright notices, and built training datasets that contain over 91,000 copies of NYT and other news works, raising serious fair‑use questions. The filings also show that Microsoft’s Copilot reduced click‑throughs to the Times by up to 93%, illustrating the potential market harm to content creators. These admissions deepen the legal and ethical debate over whether generative‑AI training on copyrighted material can be justified as fair use.",
+      "key_points": [
+        "Microsoft executive described AI scraping as theft and warned of an existential threat to publishers",
+        "OpenAI and Microsoft allegedly scraped and stripped copyright notices from over 91,000 NYT works",
+        "The filings show Microsoft’s Copilot cut NYT click‑throughs by up to 93%, indicating market harm",
+        "The case highlights the unclear legal status of using copyrighted content to train AI models"
+      ],
+      "topics": [
+        "ai",
+        "copyright",
+        "law",
+        "technology",
+        "media"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "processed_at": "2026-09-20T01:27:29.278056+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-18-im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Orion_Product-1.png?resize=1200,828",
+      "title": "I’m so mad that I love Orion's $2,195 AI mattress pad | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Orion’s $2,195 AI‑enabled mattress pad uses a phone‑controlled cooling system that learns a sleeper’s temperature preferences to reduce nighttime awakenings. The product was founded by 26‑year‑old Harry Gestetner, former Fanfix CEO, who cites his own sleep struggles and longevity interests as motivation. While the pad has helped the author sleep better, its steep price keeps it out of reach for most consumers, though Gestetner plans a $500 model in the future. The system collects detailed sleep data that is transmitted to the cloud, raising potential security concerns despite the company’s stated investment in protection.",
+      "key_points": [
+        "Orion offers AI‑driven temperature control to improve sleep quality",
+        "Founder Harry Gestetner, former Fanfix CEO, aims to make the product affordable at $500",
+        "The high price ($2,195) limits accessibility, though competitor Eight Sleep is $3,000",
+        "Sleep data is transmitted to the cloud, raising security concerns"
+      ],
+      "topics": [
+        "sleep tech",
+        "ai",
+        "consumer electronics",
+        "healthtech",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 15:22:16 +0000",
+      "processed_at": "2026-09-20T01:27:29.846778+00:00"
+    },
+    {
+      "id": "crunch-com-2026-09-18-robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Abhishek-Fatehpuria_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "title": "Robinhood’s Abhishek Fatehpuria joins Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Robinhood’s Vice President of Product Management for Brokerage, Abhishek Fatehpuria, will speak at TechCrunch Disrupt 2026 about how the company is reshaping financial services for the modern consumer. The session will cover Robinhood’s rapid expansion from commission‑free trading to a full‑stack financial platform that includes banking, credit, crypto, retirement, prediction markets, and AI‑powered trading tools such as Cortex and Agentic Trading. With 28.6 million funded customers and $384 billion in platform assets, Robinhood is using technology to meet consumers’ expectations for instant, personalized, and seamless digital experiences while maintaining trust. The talk aims to provide founders, investors, and product leaders with lessons on scaling product complexity without compromising user experience.",
+      "key_points": [
+        "Robinhood has grown from a trading app to a comprehensive financial platform that now includes banking, credit, crypto, retirement, prediction markets, and AI‑powered trading.",
+        "Abhishek Fatehpuria’s Disrupt 2026 session will explore how to build trusted products at massive scale while meeting the evolving expectations of modern financial consumers.",
+        "The company’s AI initiatives—Cortex and Agentic Trading—have attracted nearly 100,000 users, and its prediction markets have seen a 15‑fold year‑over‑year increase in August.",
+        "The event offers insights for founders, investors, and product leaders on prioritization, trust, and managing complexity in fintech and beyond."
+      ],
+      "topics": [
+        "fintech",
+        "ai",
+        "consumer finance",
+        "product management",
+        "events"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-20T01:27:29.145866+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-18-anthropic-is-operating-a-lab-that-conducts-biology-experiments",
       "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
@@ -2417,81 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 12:19:38 +0000",
       "processed_at": "2026-09-15T12:31:59.858886+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Marc-Benioff-DSC03537.jpg?resize=1200,800",
-      "title": "Salesforce and Nvidia's new reasoning model is everything the AI labs should fear | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Salesforce unveiled Koa, its first reasoning model built on Nvidia’s open‑weight Nemotron, at the Dreamforce conference. Koa is fine‑tuned with synthetic data to excel at sales, marketing and customer‑support tasks, offering token‑efficient reasoning that is cheaper than routing such requests to frontier models like Claude or ChatGPT. The company still maintains a partnership with Anthropic through ClaudeForce, allowing customers to use Claude while keeping data within Salesforce’s secure infrastructure. Nemotron’s sovereign AI architecture gives Salesforce a domestic, provenance‑clear base model and faster time‑to‑first‑token for enterprise workloads.",
-      "key_points": [
-        "Salesforce launches Koa, a reasoning model built on Nvidia’s Nemotron, tailored for sales and support tasks.",
-        "Koa uses synthetic data and token‑efficient inference, making it cheaper than frontier models such as Claude or ChatGPT.",
-        "Salesforce continues to partner with Anthropic via ClaudeForce, keeping customer data inside Salesforce’s system of records.",
-        "Nemotron provides a sovereign AI base with fast inference and clear data provenance for enterprise use."
-      ],
-      "topics": [
-        "salesforce",
-        "nvidia",
-        "ai",
-        "enterprise",
-        "nemotron"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
-      "processed_at": "2026-09-15T12:32:00.860787+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-09-14-superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Superhuman has acquired Y Combinator‑backed notetaking startup Fathom to expand its AI‑driven productivity suite. Fathom, founded in 2020, has raised more than $30 million, was valued at $94 million in 2024, and boasts over 400,000 monthly active users and one million recorded meetings. The acquisition follows Superhuman’s internal testing of a notetaker, which revealed the complexity of building such a product from scratch. With Fathom integrated, Superhuman can surface real‑time meeting context, draft emails, update data, and trigger AI agents to act on meeting insights, leveraging its 40‑million‑user base for rapid distribution.",
-      "key_points": [
-        "Superhuman acquires Fathom to add AI‑powered meeting notes to its suite",
-        "Fathom has 400,000 monthly active users and 1 million recorded meetings",
-        "Superhuman’s 40 million users provide a large distribution channel",
-        "The notetaker market is highly competitive with rivals like Granola, Read AI, and Wispr"
-      ],
-      "topics": [
-        "productivity",
-        "ai",
-        "notetaking",
-        "acquisition",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 14 Sep 2026 14:45:44 +0000",
-      "processed_at": "2026-09-15T12:31:59.845503+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-14-jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "At Nvidia’s All‑In conference in Los Angeles, former President Donald Trump surprised the audience by calling CEO Jensen Huang live on stage. The two discussed AI safety, with Trump dismissing the panic as a hoax and suggesting that China and political actors benefit from the fear. Huang answered the call on a foldable phone—later clarified to be a non‑Apple device—while wearing his signature alligator‑leather jacket. The exchange came as Nvidia’s shares, up 33% over the past year, slipped slightly, underscoring the company’s reliance on AI chip sales.",
-      "key_points": [
-        "Former President Trump called Nvidia CEO Jensen Huang live at the All‑In conference",
-        "The conversation turned to AI safety, with Trump dismissing fears as a hoax",
-        "Huang used a foldable phone, not an Apple iPhone Duo, to take the call",
-        "Nvidia’s share price dipped slightly amid the exchange, reflecting its AI chip business model"
-      ],
-      "topics": [
-        "nvidia",
-        "ai",
-        "trump",
-        "all‑in",
-        "foldable"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
-      "processed_at": "2026-09-15T06:31:49.154777+00:00"
     }
   ]
 }

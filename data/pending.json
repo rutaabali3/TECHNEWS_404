@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-09-19T23:23:20.290991+00:00",
+  "updated_at": "2026-09-20T01:27:27.891447+00:00",
   "items": [
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "feed_excerpt": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-      "published": "Thu, 17 Sep 2026 19:46:08 +0000"
-    },
     {
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
       "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "feed_excerpt": "If AI lab PrismML isn't on your radar yet, it should be.",
       "published": "Thu, 17 Sep 2026 22:34:09 +0000"
-    },
-    {
-      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-      "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-      "feed_excerpt": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.",
-      "published": "Fri, 18 Sep 2026 15:22:16 +0000"
-    },
-    {
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "published": "Fri, 18 Sep 2026 15:00:00 +0000"
     },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -110,5 +92,5 @@
       "published": "Sat, 19 Sep 2026 19:57:47 +0000"
     }
   ],
-  "last_processed_at": "2026-09-19T23:23:41.866772+00:00"
+  "last_processed_at": "2026-09-20T01:27:29.846849+00:00"
 }
