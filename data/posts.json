@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-21T01:26:30.191226+00:00",
+  "updated_at": "2026-09-21T13:55:04.887234+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-21-corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Corridor, founded by former Scale AI product lead Jackson Wagner, raised a $25 million seed round led by Bain Capital Ventures to launch an AI‑powered health benefits brokerage for small businesses. The platform pairs human advisors with AI agents that automate administrative tasks such as network checks, scheduling, and information updates, aiming to serve SMBs that traditional brokers often overlook. Wagner’s personal experience with chronic pain and inefficient care motivated the venture, and the company plans to go live in Q4 when most small businesses select health plans. Corridor competes with firms such as Ignition Benefits and Nava Benefits, and its investors include BoxGroup and executives from OpenAI, Scale AI, and Ramp.",
+      "key_points": [
+        "Corridor raised $25 million seed led by Bain Capital Ventures to launch an AI‑powered health benefits brokerage for small businesses.",
+        "The service combines human advisors with AI agents that handle administrative tasks such as network verification and scheduling.",
+        "Founder Jackson Wagner’s personal health struggles inspired the focus on improving access to better health plans for SMBs.",
+        "Corridor plans to go live in Q4, aligning with the peak period when 80% of small businesses choose health plans."
+      ],
+      "topics": [
+        "healthtech",
+        "ai",
+        "startups",
+        "smallbusiness",
+        "venturecapital"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 13:49:00 +0000",
+      "processed_at": "2026-09-21T13:55:04.886432+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-20-new-california-law-will-penalize-influencers-dont-disclose-political-ads",
       "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1405560217.jpg?resize=1200,800",
@@ -2467,31 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 18:00:54 +0000",
       "processed_at": "2026-09-16T18:19:51.867087+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-anthropic-merges-claude-chat-and-cowork-in-one-interface",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675",
-      "title": "Anthropic merges Claude chat and Cowork in one interface | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Anthropic has unified its Claude chat, Cowork, and Artifacts tools into a single interface, automatically routing user requests to the appropriate feature without tab switching. The update also introduces new Docs and presentation capabilities, letting users create, edit, and download slides or documents directly from Claude. The changes roll out first to Pro and Max subscribers on web, desktop, and mobile, with plans to extend to free and team tiers later. The rollout follows an upgrade to Cowork’s memory layer, improving context retention across chats.",
-      "key_points": [
-        "Unified interface merges Claude chat, Cowork, Artifacts, and Claude Design into one window",
-        "New Docs and presentation features enable creation, editing, sharing, and downloading of slides and documents",
-        "Rollout begins with Pro and Max plans, with free and team tiers to follow",
-        "Cowork’s memory layer upgrade enhances context retention across conversations"
-      ],
-      "topics": [
-        "anthropic",
-        "claude",
-        "ai",
-        "productivity",
-        "interface"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 16:30:00 +0000",
-      "processed_at": "2026-09-16T18:19:46.337395+00:00"
     }
   ]
 }
