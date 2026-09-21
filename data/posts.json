@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-09-21T19:09:12.597054+00:00",
+  "updated_at": "2026-09-21T22:45:29.380245+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-21-kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Kairos Power has secured up to $100 million from Samsung C&T, including a $70 million equity stake and in‑kind engineering services, to build a 50‑megawatt demonstration reactor for Google by 2030. Samsung C&T, which has built about a dozen reactors worldwide, will help construct the fluoride‑salt‑cooled high‑temperature reactor that uses TRISO fuel to reduce meltdowns. The project follows Google’s 2024 agreement for Kairos to deliver half a gigawatt of power by 2035, with the first commercial‑scale unit, Hermes 2, slated to start operating in 2030. The deal positions Kairos among a wave of nuclear startups targeting AI data‑center demand and showcases a rapid, low‑pressure reactor design that could accelerate commercial deployment.",
+      "key_points": [
+        "Samsung C&T will invest $70 million equity and provide engineering services worth up to $100 million for Kairos Power’s 50‑MW reactor for Google.",
+        "The reactor will be a fluoride‑salt‑cooled high‑temperature design using TRISO fuel, aiming to start operation in 2030.",
+        "Google’s 2024 deal calls for Kairos to deliver 0.5 GW of power by 2035, with Hermes 2 counting as the first 50 MW.",
+        "Samsung C&T’s experience building a dozen reactors worldwide could help Kairos accelerate future commercial deployments."
+      ],
+      "topics": [
+        "nuclear",
+        "startups",
+        "google",
+        "samsung",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 18:23:05 +0000",
+      "processed_at": "2026-09-21T22:44:58.863070+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "title": "Oura's $2.2B IPO is mostly a payday for existing shareholders | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Oura plans to raise up to $2.2 billion in its IPO, but the deal is largely a liquidity event for existing shareholders, with Forerunner Ventures set to sell its 9.3% stake for roughly $1.2 billion. The company will receive about $532.6 million in net proceeds, which it intends to use to settle tax obligations tied to employee share grants, leaving only a few million for general corporate purposes. Oura’s business is shifting toward a highly profitable membership model that now accounts for 20% of sales, while hardware remains the largest revenue source. If the shares price at the top of the $40–$44 range, the company could achieve a market cap near $14.1 billion, up from an $11 billion valuation in October 2025.",
+      "key_points": [
+        "The IPO is mainly a payday for existing shareholders, especially Forerunner Ventures, which will sell its 9.3% stake for about $1.2 billion.",
+        "Oura will use the bulk of its net proceeds to pay tax obligations related to employee share grants, leaving only a small amount for corporate use.",
+        "The company’s membership business, with an 89% gross margin, is growing rapidly and now represents 20% of total revenue.",
+        "If priced at the top of the range, Oura could reach a market cap of roughly $14.1 billion.",
+        ""
+      ],
+      "topics": [
+        "ipo",
+        "tech",
+        "wearable",
+        "healthtech",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 16:45:47 +0000",
+      "processed_at": "2026-09-21T22:44:58.782317+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-21-metas-ai-agent-has-been-blocked-from-using-amazon-com",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
@@ -2442,56 +2493,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 15 Sep 2026 17:42:59 +0000",
       "processed_at": "2026-09-17T00:12:31.201143+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?resize=1200,675",
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Fortell, an AI‑driven hearing‑aid startup, has secured $163 million in funding from Founders Fund, Thrive Capital and Valor Equity Partners. The company is developing devices that use real‑time sound analysis to amplify important sounds while suppressing background noise, moving beyond the one‑size‑fits‑all approach of current hearing aids. Fortell’s launch challenges a market dominated by five firms that control 97 % of hearing‑aid sales, a sector where insurance rarely covers the cost. The move signals a potential shift toward more personalized, tech‑enabled hearing solutions.",
-      "key_points": [
-        "Fortell raised $163 million from Founders Fund, Thrive Capital and Valor Equity Partners",
-        "The startup uses AI to selectively amplify important sounds and suppress background noise in hearing aids",
-        "It targets a market dominated by five companies that hold 97 % of hearing‑aid sales",
-        "Insurance typically does not cover hearing aids, limiting accessibility"
-      ],
-      "topics": [
-        "hearing aids",
-        "ai",
-        "startup funding",
-        "healthtech",
-        "monopoly"
-      ],
-      "source_url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-16T21:33:49.567325+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/10/23584287926_9ad6b13311_k.jpg?resize=1200,800",
-      "title": "3 days left to exhibit at TechCrunch Disrupt 2026",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will take place from October 13-15 at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech leaders across 200+ sessions and six industry stages. The event’s last day to book an exhibit table is Friday, September 18 at 11:59 p.m. PT, offering a 6′ × 30″ table in the Expo Hall’s highest‑traffic area along with 10 team passes, website and app branding, press‑list access, and Silver Tier sponsor branding. Attendees can also access Deal Flow Café and Investor‑to‑Founder networking opportunities, while non‑exhibiting founders can still purchase tickets at a discount of up to $200 before prices rise on September 25. The expo promises AI‑powered matchmaking and a chance to discover 300+ startups, including the Startup Battlefield 200, making it a prime venue for lead generation and partnership building.",
-      "key_points": [
-        "Last day to book an exhibit table is September 18 at 11:59 p.m. PT",
-        "Exhibit tables include 10 passes, branding, press‑list access, and Silver Tier sponsor branding",
-        "Disrupt 2026 hosts 10,000+ attendees, 200+ sessions, and AI matchmaking",
-        "Tickets can be saved up to $200 before September 25"
-      ],
-      "topics": [
-        "tech events",
-        "startup expo",
-        "investor networking",
-        "ticket discounts",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-16T21:34:01.434377+00:00"
     }
   ]
 }

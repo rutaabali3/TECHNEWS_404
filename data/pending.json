@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-21T19:08:44.321703+00:00",
+  "updated_at": "2026-09-21T22:44:57.348006+00:00",
   "items": [
-    {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "feed_excerpt": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50 megawatt nuclear power plant.",
-      "published": "Mon, 21 Sep 2026 18:23:05 +0000"
-    },
     {
       "title": "X will now tell users when governments have forced it to limit their posts",
       "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
       "feed_excerpt": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
       "published": "Mon, 21 Sep 2026 17:45:35 +0000"
-    },
-    {
-      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-      "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-      "feed_excerpt": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-      "published": "Mon, 21 Sep 2026 16:45:47 +0000"
     },
     {
       "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
@@ -48,7 +36,25 @@
       "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
       "published": "Mon, 21 Sep 2026 14:15:00 +0000"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "feed_excerpt": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "published": "Mon, 21 Sep 2026 20:15:58 +0000"
+    },
+    {
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+      "published": "Mon, 21 Sep 2026 19:25:00 +0000"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "feed_excerpt": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "published": "Mon, 21 Sep 2026 19:19:21 +0000"
     }
   ],
-  "last_processed_at": "2026-09-21T19:08:45.502822+00:00"
+  "last_processed_at": "2026-09-21T22:44:58.863147+00:00"
 }
