@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-21T13:55:04.887234+00:00",
+  "updated_at": "2026-09-21T19:09:12.597054+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-21-metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "title": "Meta's AI agent has been blocked from using Amazon.com | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Meta’s AI assistant Muse was blocked from making purchases on Amazon after users received an error message stating that continued access by an unauthorized AI agent violates Amazon’s Conditions of Use. The block highlights a clash between two tech giants, with Amazon citing its own foundation models and the risk of handling mistakes made by an external AI. Amazon’s reluctance to allow Muse to shop stems from concerns over order errors, customer and vendor fallout, and the company’s desire to control agent‑driven commerce until it is more mature. The incident underscores the growing tension as AI assistants expand into e‑commerce while major platforms guard their own ecosystems.",
+      "key_points": [
+        "Amazon blocked Meta’s Muse from shopping due to unauthorized AI use.",
+        "Amazon’s own foundation models and risk of order errors make it cautious about agentic commerce.",
+        "The block reflects a broader rivalry between Meta and Amazon in the AI and e‑commerce space.",
+        "Amazon may wait for more stable AI releases before enabling such features."
+      ],
+      "topics": [
+        "amazon",
+        "meta",
+        "ai",
+        "ecommerce",
+        "agentic commerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "processed_at": "2026-09-21T19:08:45.502718+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-21-corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
@@ -2467,31 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 14:00:00 +0000",
       "processed_at": "2026-09-16T21:34:01.434377+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?resize=1200,800",
-      "title": "Hackers publish thousands of drivers' data after breaching Florida motor vehicle database | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The ShinyHunters hacking group breached Florida’s motor vehicle database, DAVID, in early September and released hundreds of thousands of files on its leak site after the state refused to pay a ransom. The stolen data includes vehicle ownership certificates with owners’ names, addresses, and VINs, as well as a smaller set of records containing Social Security numbers, passports, and immigration documents, but no driver‑license photos. Florida’s Highway Safety and Motor Vehicles agency confirmed the breach, noting that the attackers accessed a police officer’s credentials stored on a personal device. The incident comes amid a broader wave of identity‑theft attacks, including a recent hack of IDScan that exposed over 150 million driver‑license images.\n",
-      "key_points": [
-        "ShinyHunters published hundreds of thousands of vehicle ownership records after Florida’s motor vehicle database was breached in September.",
-        "The stolen data included names, addresses, VINs, and some SSNs and passports, but no driver‑license photos.",
-        "Florida’s Highway Safety and Motor Vehicles confirmed the breach and cited stolen police credentials as the entry point.",
-        "The hack coincided with a larger identity‑theft incident at IDScan that exposed over 150 million driver‑license images."
-      ],
-      "topics": [
-        "data breach",
-        "cybersecurity",
-        "vehicle registration",
-        "identity theft",
-        "hacking"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 18:00:54 +0000",
-      "processed_at": "2026-09-16T18:19:51.867087+00:00"
     }
   ]
 }
