@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:12:47.174445+00:00",
+  "updated_at": "2026-09-22T20:25:29.130982+00:00",
   "items": [
     {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
@@ -44,18 +44,6 @@
       "published": "Tue, 22 Sep 2026 14:15:00 +0000"
     },
     {
-      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-      "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-      "feed_excerpt": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
-      "published": "Tue, 22 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-      "published": "Tue, 22 Sep 2026 14:00:00 +0000"
-    },
-    {
       "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
       "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
       "feed_excerpt": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
@@ -72,7 +60,49 @@
       "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
       "feed_excerpt": "Inside two years of fraught AI data center debates in Pennsylvania.",
       "published": "Tue, 22 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "feed_excerpt": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "feed_excerpt": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "published": "Tue, 22 Sep 2026 19:27:57 +0000"
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "feed_excerpt": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "published": "Tue, 22 Sep 2026 19:09:11 +0000"
+    },
+    {
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "feed_excerpt": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "published": "Tue, 22 Sep 2026 18:40:30 +0000"
+    },
+    {
+      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "feed_excerpt": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
+      "published": "Tue, 22 Sep 2026 18:24:34 +0000"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "feed_excerpt": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "published": "Tue, 22 Sep 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "feed_excerpt": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+      "published": "Tue, 22 Sep 2026 17:36:06 +0000"
     }
   ],
-  "last_processed_at": "2026-09-22T17:13:13.509286+00:00"
+  "last_processed_at": "2026-09-22T20:25:54.920931+00:00"
 }
