@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-22T01:30:38.673157+00:00",
+  "updated_at": "2026-09-22T06:45:12.329233+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-21-morphotonics-raises-e40m-as-it-tk-tk-tk-t",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675",
+      "title": "Morphotonics raises €40M to expand its display tech into data centers | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Morphotonics, a Dutch nanoimprint lithography startup, has raised €40 million to scale its waveguide production and expand into optical components for data centers. The funding round was led by 3M Ventures, Innovation Industries, BOM, Invest‑NL, the EIC Fund, Ernij Next and the European Investment Bank. With 60 employees and a new machine capable of producing more than 6 million waveguides a year, the company aims to meet the growing demand for smart‑glass displays and photonic integrated circuits. Revenue is largely hardware‑based, but Morphotonics plans to reach 50 deployments in the next two to three years, boosting service income as well.",
+      "key_points": [
+        "€40 million raised from a mix of venture, family office and European institutional investors",
+        "Morphotonics uses nanoimprint lithography to manufacture waveguides for smart glasses and is targeting data‑center optics",
+        "The next machine will produce over 6 million waveguides per year and the company plans to grow headcount to 70‑75",
+        "Hardware sales account for ~90% of revenue, with plans to expand deployments to 50 in 2‑3 years"
+      ],
+      "topics": [
+        "nanolithography",
+        "smartglasses",
+        "data centers",
+        "photonic integrated circuits",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 06:00:00 +0000",
+      "processed_at": "2026-09-22T06:44:40.515838+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
+      "title": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Ron Johnson, the architect behind Apple’s retail empire, argues that Silicon Valley’s push for AI‑driven shopping is overestimating how much consumers will hand over buying decisions to machines. He believes physical stores will remain essential for high‑value, tactile purchases like laptops, and that AI will mainly serve to inform shoppers before they visit a store. Johnson, who built Apple’s stores in the early 2000s and later led a failed turnaround at J.C. Penney, stresses that people, not commission‑based sales pressure, are the secret to successful retail. Despite his skepticism about AI replacing human judgment, he remains an AI optimist and thinks the technology will complement, not replace, in‑store experiences.",
+      "key_points": [
+        "Ron Johnson believes AI will not replace physical shopping for high‑value, tactile products",
+        "He argues that AI will mainly inform shoppers, not make purchases",
+        "Johnson’s experience shows that people‑centric retail models outperform commission‑based sales cultures"
+      ],
+      "topics": [
+        "ai",
+        "retail",
+        "apple",
+        "shopping",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "processed_at": "2026-09-22T06:44:41.017939+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Ahad Ali, a former accountant who once managed 20 staff and 2,000+ returns a year, is building Tabby, an AI‑powered real‑time bookkeeping platform that eliminates the need for traditional accounting software like QuickBooks. Tabby pulls live account data via Plaid and instantly generates profit‑and‑loss dashboards, targeting small businesses that want a single, subscription‑style service instead of multiple SaaS tools. With 5,500 small‑business customers and roughly $100,000 in annual recurring revenue, the seven‑person team is raising $1 million in pre‑seed funding and plans to launch a natural‑language interface called Tabby Talk. The company faces competition from QuickBooks, Sequoia‑backed Rillet, and finance tools from major AI labs, but aims to carve out a niche by focusing on the 30 million small‑to‑medium firms that could benefit from automated bookkeeping.",
+      "key_points": [
+        "Tabby uses AI to automate bookkeeping and replace traditional accounting software",
+        "The startup has 5,500 customers, $100k ARR, and a 7‑person team raising $1M pre‑seed",
+        "Competition includes QuickBooks, Rillet, and major AI labs’ finance tools",
+        "Tabby seeks to shift small‑business accounting costs to a low‑margin subscription model"
+      ],
+      "topics": [
+        "ai",
+        "accounting",
+        "fintech",
+        "startup",
+        "smallbusiness"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "processed_at": "2026-09-22T06:44:56.842018+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_1-Speaker_Stein-16x9-Dark.png?resize=1200,675",
+      "title": "Google’s VP of product Robby Stein joins Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Google’s vice president of product, Robby Stein, will headline a Fireside Chat at TechCrunch Disrupt 2026 titled \"From MVP to Billions of Users: How Product Decisions Must Change at Scale.\" The session will explore how product teams balance speed, trust, and reliability as their user base grows to billions, with a particular focus on generative AI features in Google Search that now serve over a billion monthly users. Stein brings a blend of startup and large‑company experience, having co‑founded Stamped, led Instagram’s consumer products, and returned to Google in 2024 to work on AI Mode. Disrupt 2026, held at Moscone West from October 13‑15, offers 10,000+ attendees, 200+ sessions, and early‑bird ticket discounts that end September 25.",
+      "key_points": [
+        "Robby Stein’s session examines how product decision‑making shifts from MVP to serving billions, emphasizing speed versus reliability.",
+        "Stein’s background spans founding Stamped, leading Instagram’s core products, and driving AI Mode at Google Search, which now exceeds 1 billion users.",
+        "The talk highlights the challenges of integrating generative AI while maintaining user trust and consistent performance.",
+        "Disrupt 2026 provides a platform for founders, investors, and tech leaders to network across six industry stages and 200+ sessions."
+      ],
+      "topics": [
+        "product management",
+        "ai",
+        "google",
+        "disrupt",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-09-22T06:44:40.988091+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-21-openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
@@ -2395,104 +2494,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 21:07:24 +0000",
       "processed_at": "2026-09-17T05:09:26.015889+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-      "title": "After accusations of selling 'perv glasses,' Meta prepares to sell a pair without a camera | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Meta has announced a new camera‑free smart glasses model called Luna in response to backlash over its camera‑equipped glasses, which some consumers dubbed \"pervert glasses\". Luna will feature six built‑in microphones and a side button that activates Meta’s AI chatbot and Muse, allowing hands‑free voice interaction. The company plans to reveal the device at its upcoming Meta Connect event in Menlo Park next week. Despite the new privacy‑focused design, Meta’s Reality Labs continues to report significant losses as the smart‑glasses market grapples with usability, cost and privacy concerns.",
-      "key_points": [
-        "Meta is launching Luna, a camera‑free smart glasses model to address privacy concerns",
-        "Luna includes six microphones and AI chatbot integration for hands‑free use",
-        "The device may debut at Meta Connect next week",
-        "Meta’s Reality Labs still faces large financial losses amid market challenges"
-      ],
-      "topics": [
-        "meta",
-        "smartglasses",
-        "privacy",
-        "ai",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 20:12:00 +0000",
-      "processed_at": "2026-09-17T05:08:59.249760+00:00"
-    },
-    {
-      "id": "chcrunch-com-2026-09-16-hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Max-Hodak_1-Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Co-founder Max Hodak joins the agenda lineup on Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Max Hodak, co‑founder of Science Corporation and former Neuralink president, will speak at TechCrunch Disrupt 2026 about the company’s biohybrid brain‑computer interface and its PRIMA implant that has already restored vision to people with severe sight loss. The company, which raised $230 million in a Series C round at a $1.5 billion valuation, is also exploring applications for brain‑implanted sensors in treating neurological conditions. Disrupt 2026 will host more than 10,000 founders, investors and startup community members across 250+ sessions, with a particular focus on building sustainable AI companies. Ticket discounts of up to $200 and 30% off for groups are available until September 25.",
-      "key_points": [
-        "Hodak will present on Science Corporation’s biohybrid brain‑computer interface at Disrupt 2026",
-        "The PRIMA implant has restored vision in patients and the company raised $230 million in Series C funding",
-        "Disrupt 2026 features 250+ sessions, 10,000 attendees and a focus on sustainable AI",
-        "Tickets offer up to $200 savings and 30% group discounts until September 25"
-      ],
-      "topics": [
-        "brain-computer interface",
-        "disrupt",
-        "science corporation",
-        "sustainable ai",
-        "tech conference"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-17T05:08:58.970405+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800",
-      "title": "Exclusive: Clean tech startup Fluxnium found a way to tap 50,000 years' worth of nuclear fuel | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Fluxnium, a clean‑tech startup, has developed a polymer‑fiber system that can extract uranium from seawater, potentially unlocking 50,000 years of nuclear fuel and addressing the U.S. nuclear supply shortfall projected for 2050. The technology, built on chemistry licensed from DOE national labs, increases fiber surface area to lower extraction costs to competitive levels with mined uranium, and the company recently closed a $7 million seed round led by Congruent Ventures with participation from Active Impact Investments and Constellation Energy. Founder Jeff Green, a serial entrepreneur behind Stamps.com and NanoH2O, argues that seawater extraction would eliminate geopolitical risks tied to current uranium sources such as Kazakhstan and Russia. If commercialized, Fluxnium’s approach could provide a low‑cost, abundant, and politically neutral supply of uranium for the expanding U.S. nuclear industry and its data‑center power needs.",
-      "key_points": [
-        "Fluxnium’s polymer‑fiber system can extract uranium from seawater, offering a potentially unlimited supply of nuclear fuel.",
-        "The startup’s technology reduces extraction costs to competitive levels with mined uranium, making it economically viable.",
-        "A $7 million seed round led by Congruent Ventures, with Active Impact Investments and Constellation Energy, backs the company’s commercial ambitions."
-      ],
-      "topics": [
-        "nuclear",
-        "clean-tech",
-        "seawater",
-        "uranium",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-17T05:08:59.236339+00:00"
-    },
-    {
-      "id": "crunch-com-2026-09-16-robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-      "title": "Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch reports that Nvidia’s Les Karpas will speak at Disrupt 2026 about the bottleneck in physical AI and robotics, highlighting the lack of large-scale datasets and the need for simulation and synthetic data. Karpas, the Global Head of Physical AI at Nvidia Inception, will discuss how the company collaborates with startups across robotics, automotive, and smart‑city sectors to bridge the digital‑physical gap. The event, held Oct. 13‑15 in San Francisco, features a lineup that includes OpenAI, Anthropic, and Replit, and offers discounted tickets until September 25. Attendees can gain insights into Nvidia’s strategy and potential investment opportunities in the robotics ecosystem.",
-      "key_points": [
-        "Les Karpas will address the data gap that limits general‑purpose robotics at Disrupt 2026.",
-        "Nvidia Inception collaborates with a wide startup ecosystem to develop simulation and synthetic data for physical AI.",
-        "Disrupt 2026 offers discounted tickets and a lineup of AI leaders like OpenAI, Anthropic, and Replit."
-      ],
-      "topics": [
-        "ai",
-        "robotics",
-        "nvidia",
-        "disrupt",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-17T00:12:31.394568+00:00"
     }
   ]
 }
