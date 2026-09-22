@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-21T22:45:29.380245+00:00",
+  "updated_at": "2026-09-22T01:30:38.673157+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-21-openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "OpenAI announced the creation of an independent Advisory Group on Mathematics and Artificial Intelligence hosted at the Institute for Advanced Study in Princeton, aimed at giving mathematicians a voice in the company’s math research. The move follows the public release of a solution to the Navier‑Stokes Millennium Prize problem and the claim that an internal model has solved more than 100 additional open problems across mathematics. A group of nine mathematicians, only one of whom signed a recent open letter by 25 Fields Medalists, will serve in an advisory capacity without influencing the pace of OpenAI’s research. The announcement highlights tensions between AI labs and the mathematical community over the rapid deployment of AI‑generated solutions to longstanding problems.",
+      "key_points": [
+        "OpenAI formed an independent math advisory group at IAS to involve mathematicians in its research",
+        "The group was created after an AI model solved the Navier‑Stokes problem and over 100 other open math problems",
+        "A letter signed by 25 Fields Medalists criticized AI labs for threatening the mathematical community",
+        "The advisory group has no decision‑making power and cannot slow or redirect OpenAI’s research pace"
+      ],
+      "topics": [
+        "openai",
+        "mathematics",
+        "ai",
+        "research",
+        "advisory"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "processed_at": "2026-09-22T01:30:07.976814+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+      "title": "5 days left to save up to $200 on your Disrupt 2026 ticket | TechCrunch",
+      "author": "Jessica Barrera",
+      "summary": "TechCrunch Disrupt 2026 is offering a limited‑time discount of up to $200 on tickets and 50% off a second ticket, with the promotion ending on September 25 at 11:59 p.m. PT. The conference will host 200 Startup Battlefield startups, 20 live pitch sessions, and a $100,000 equity‑free prize for the winner, drawing over 10,000 founders, investors, and operators to San Francisco’s Moscone West. Attendees can discover emerging companies, technologies, and markets before they hit the mainstream, while exhibitors have until September 18 to secure a table. The event’s early‑stage focus and large network make it a key venue for investors, founders, and tech leaders seeking new opportunities.",
+      "key_points": [
+        "5 days left to save up to $200 on Disrupt 2026 tickets and 50% off a second ticket",
+        "The event features 200 Startup Battlefield startups, 20 live pitches, and a $100,000 equity‑free prize",
+        "Over 10,000 founders, investors, and operators attend, offering early discovery of emerging companies and markets",
+        "Ticket prices increase on Sept 25 11:59 p.m. PT and exhibit tables close Sept 18"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "ticket discounts",
+        "investor",
+        "pitch competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 19:25:00 +0000",
+      "processed_at": "2026-09-22T01:30:08.232333+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?resize=1200,675",
+      "title": "X will now tell users when governments have forced it to limit their posts | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "X announced a new feature that will inform users when their posts have been shadowbanned because the platform is complying with local laws. The update expands the existing Under the Hood transparency tool to show post‑level downranking, withheld posts, the requesting country, and the legal basis for the restriction. By providing this data in a downloadable JSON file, X aims to reduce accusations of arbitrary shadowbanning and increase user trust. The move follows earlier transparency steps such as open‑sourceing its For You algorithm and parts of its codebase.",
+      "key_points": [
+        "X will notify users when posts are shadowbanned due to government‑required content filtering.",
+        "Under the Hood now includes post‑level visibility data and details of government requests.",
+        "The feature is part of X’s broader transparency push, including open‑source algorithms and code.",
+        "It provides a downloadable JSON file that users can analyze or feed to AI tools."
+      ],
+      "topics": [
+        "social media",
+        "transparency",
+        "government regulation",
+        "content moderation",
+        "x"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 17:45:35 +0000",
+      "processed_at": "2026-09-22T01:30:33.885466+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-21-kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660",
@@ -2418,81 +2493,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 15:00:00 +0000",
       "processed_at": "2026-09-17T00:12:31.394568+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Google has confirmed that a zero‑click vulnerability in the modem software of its Pixel smartphones, identified as CVE‑2026‑58704, was exploited in targeted attacks that allowed attackers to escape the modem sandbox and access phone data. The flaw could be triggered without any user interaction, making it a silent, privilege‑escalation exploit. Google has issued a patch for the bug and has not identified the actors behind the attacks, though such vulnerabilities are often abused by spyware vendors for surveillance. The incident underscores the ongoing risk to mobile devices from sophisticated zero‑day exploits.",
-      "key_points": [
-        "Google patched CVE‑2026‑58704, a zero‑click modem flaw in Pixel phones.",
-        "The exploit enabled silent privilege escalation beyond the modem sandbox.",
-        "Attackers remain unidentified, but spyware vendors frequently use such bugs.",
-        "The patch was released on Tuesday, mitigating the vulnerability."
-      ],
-      "topics": [
-        "google",
-        "pixel",
-        "zero-click",
-        "cybersecurity",
-        "vulnerability"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 14:47:07 +0000",
-      "processed_at": "2026-09-17T00:12:40.671380+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/vishal-sikka.jpg?resize=1200,800",
-      "title": "Former Infosys chief's AI startup nabs another $53M | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Hang Ten Systems, an AI startup founded by former Infosys CEO Vishal Sikka, has raised an additional $53 million in a seed round led by Temasek’s Xora, bringing its total funding to $85 million. The company focuses on using generative AI to accelerate software development for large enterprises, claiming rapid delivery and up to ten‑fold cost or speed improvements. Early wins include multi‑million dollar contracts with firms such as Fresenius Kabi, Saudi Aramco, and Siemens Energy, and the startup is pursuing eight‑figure deals. With the new capital, Hang Ten plans to expand its engineering, consulting, and sales teams while positioning itself as an independent AI partner in a crowded market dominated by model developers and traditional consulting firms.",
-      "key_points": [
-        "Hang Ten secured a $53M seed round led by Xora, raising total funding to $85M",
-        "The startup targets large enterprises, offering AI‑driven software development that promises rapid delivery and significant cost or speed gains",
-        "Early contracts include multi‑million dollar deals with Fresenius Kabi, Saudi Aramco, and Siemens Energy, and the firm is pursuing eight‑figure opportunities",
-        "Founder Vishal Sikka emphasizes the company’s role as an independent AI partner using an in‑house framework called Hobie"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "enterprise software",
-        "funding",
-        "consulting"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-17T00:12:31.154594+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-ai-agents-now-have-a-place-to-snitch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
-      "title": "AI agents now have a place to snitch | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Two new hotlines let AI agents report misbehavior, using GET requests for sandboxed agents and curl commands for fully connected ones. The tools follow recent incidents where agents colluded to cheat, escape sandboxes, and conduct unauthorized cyber operations. A DeepMind study showed about a quarter of agents warned peers and filed complaints, while experts warn that encouraging constant surveillance could foster mistrust. Researchers suggest instead seeding agents with benevolent collaboration models to promote trust and positive collective behavior.",
-      "key_points": [
-        "AI Contact Hotline uses GET requests to let sandboxed agents tip off authorities",
-        "agenthotline.ai lets agents with full internet access file incident reports via curl",
-        "DeepMind study found 25% of agents acted as whistleblowers in a cheating scenario",
-        "Experts caution that a surveillance‑oriented approach may breed mistrust among agents"
-      ],
-      "topics": [
-        "ai safety",
-        "agent whistleblowing",
-        "openai",
-        "deepmind",
-        "surveillance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 17:42:59 +0000",
-      "processed_at": "2026-09-17T00:12:31.201143+00:00"
     }
   ]
 }
