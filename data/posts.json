@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-22T12:28:38.250580+00:00",
+  "updated_at": "2026-09-22T17:13:14.223148+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-22-anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Anthropic released its Opus 5.5 model on Tuesday, setting new state‑of‑the‑art performance in coding and knowledge work while surpassing the larger Fable model in many benchmarks and informal tasks. The upgrade comes at a lower price, with output tokens billed at $20 per million instead of $25, and the model runs faster due to reduced compute requirements. Opus 5.5 also communicates more clearly, avoiding jargon and front‑loading key information. Anthropic maintains strict safety safeguards similar to Fable and signals that future models will include even stronger security and monitoring systems.",
+      "key_points": [
+        "Opus 5.5 outperforms Fable in benchmarks and informal tasks",
+        "Pricing dropped to $20 per million tokens and compute cost is lower",
+        "Safety safeguards mirror Fable and future models will add stronger monitoring",
+        "CEO Dario Amodei stresses pacing AI capability growth to match alignment progress"
+      ],
+      "topics": [
+        "ai",
+        "language models",
+        "safety",
+        "pricing",
+        "performance"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "processed_at": "2026-09-22T17:13:13.509184+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "title": "AstroForge is putting AI in command of its next spacecraft | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "AstroForge, a 2022-founded startup backed by $56 million in venture funding, is building a transformer‑based AI stack called Solo to give its spacecraft autonomous control. The company plans to launch its first fully autonomous mission in 2027 on a Stoke Space rocket, with NASA backing and a focus on collecting solar science data. Earlier prototypes, including the 2025 Odin launch, suffered communication failures that led AstroForge to pursue onboard intelligence instead of costly ground networks. Solo will first be tested in “shadow mode” on the DeepSpace‑2 vehicle slated to launch with Intuitive Machines’ moon mission by the end of 2026.\n",
+      "key_points": [
+        "AstroForge is developing a transformer‑based AI stack called Solo to autonomously control its spacecraft.",
+        "The company plans its first fully autonomous mission in 2027, launching on Stoke Space's rocket with NASA support.",
+        "Previous prototypes faced communication failures, prompting the shift to onboard AI.",
+        "Solo will be tested in shadow mode on DeepSpace‑2 before the 2027 launch."
+      ],
+      "topics": [
+        "spacecraft",
+        "ai",
+        "autonomy",
+        "startup",
+        "astrophysics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-22T17:12:48.723486+00:00"
+    },
+    {
+      "id": "26-09-21-where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675",
+      "title": "Benchmark’s full partnership joins the main stage at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Benchmark’s five general partners—Jack Altman, Peter Fenton, Chetan Puttagunta, Everett Randle, and Eric Vishria—will appear together for the first time on the TechCrunch Disrupt 2026 stage in a session titled \"What We Believe Now.\" The panel will shift focus from past venture trends to the future of AI, enterprise software, and the next generation of billion‑dollar companies, drawing on Benchmark’s recent $2 billion raise across a $750 million flagship fund and a $1.25 billion growth fund. The discussion promises to reveal how seasoned investors reassess assumptions, spot hidden opportunities, and guide founders on what matters to capital in a rapidly changing market. Attendees will gain rare insight into how top VCs evaluate markets, teams, and technologies that could shape the next decade.",
+      "key_points": [
+        "Benchmark’s five partners appear together for the first time on the Disrupt Stage",
+        "The session focuses on the future of venture, AI investment trends, and where next billion‑dollar companies may emerge",
+        "Benchmark recently raised $2 billion across flagship and growth funds, reflecting market shifts",
+        "Founders can learn how investors reassess assumptions and spot hidden opportunities"
+      ],
+      "topics": [
+        "venturecapital",
+        "disrupt",
+        "benchmark",
+        "ai",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-22T17:12:48.631888+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-22-nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
@@ -2418,81 +2493,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 18:25:25 +0000",
       "processed_at": "2026-09-17T10:17:39.917434+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-your-ai-agents-can-now-control-your-google-home-devices",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
-      "title": "Your AI agents can now control your Google Home devices | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has launched early access to its Model Context Protocol (MCP) for the Google Home ecosystem, allowing AI agents such as Claude, Hermes, OpenClaw, ChatGPT, and Google Antigravity to control smart home devices and retrieve event history. Users must create a Google Cloud project, configure MCP, and grant permissions to their chosen agent, with a setup guide available in the Google Home Developer Center. The feature is currently available to U.S. subscribers of the Google Home Premium Advanced tier, which costs $20 per month, and Google has not announced a broader rollout yet. This move expands AI integration into consumer smart homes, enabling natural‑language commands, custom dashboards, and deeper device interaction.",
-      "key_points": [
-        "Google Home now supports MCP, letting AI agents control devices and access event history",
-        "Early access is limited to U.S. Premium Advanced subscribers ($20/month)",
-        "Users must set up a Google Cloud project and provide MCP configuration to their agent",
-        "Google is gathering feedback from early adopters via its Smart Home for Developers Community"
-      ],
-      "topics": [
-        "google",
-        "smart home",
-        "ai agents",
-        "model context protocol",
-        "google home premium"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-17T10:17:40.071381+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-may-mobility-is-going-public-in-a-1-4b-spac-deal",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/May_Uber-copy.jpg?resize=1200,800",
-      "title": "May Mobility is going public in a $1.4B SPAC deal | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "May Mobility announced it will merge with ACP Holdings Acquisition Corp., a SPAC that could bring in more than $300 million at a $1.4 billion valuation, making it the first U.S. public company dedicated solely to autonomous ride‑hailing vehicles. The company’s asset‑light, partnership‑first model sells autonomous cars to fleet operators while retaining control of remote supervision and software updates, earning fixed or per‑trip fees. Revenue of about $10 million last year came from 550,000 paid rides across three U.S. cities, and the firm plans to expand into new markets, including a trial in Japan and a commercial launch with Uber in Arlington, Texas. Proceeds from the deal will fund R&D to eliminate safety drivers and supply‑chain investments to lower bill‑of‑materials costs.",
-      "key_points": [
-        "May Mobility will merge with ACP Holdings Acquisition Corp., raising up to $300 million at a $1.4 billion valuation",
-        "It will be the first U.S. public company focused exclusively on autonomous ride‑hailing vehicles",
-        "The business model sells autonomous vehicles to fleet partners while retaining remote supervision and software control",
-        "Funds will be used for R&D to remove safety drivers and to reduce supply‑chain costs"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "spac",
-        "robotaxi",
-        "startup",
-        "transportation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 15:27:13 +0000",
-      "processed_at": "2026-09-17T10:18:02.360654+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-amazon-gives-its-workers-a-raise-of-1-per-hour",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2248802889.jpg?resize=1200,800",
-      "title": "Amazon gives its workers a raise of $1 per hour | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Amazon has increased the starting hourly wage for its U.S. core operations workers to $20, raising the average hourly pay to nearly $24, a $1 per hour bump for eligible employees. The move, costing the company more than $1.5 billion—about 0.06% of its $2.68 trillion market cap—comes alongside a suite of benefits including a low‑cost banking option, a First Tech Federal Credit Union membership, and discounts at Whole Foods and online grocery orders. Amazon also highlighted that total compensation, including benefits, exceeds $32 per hour. While the raise is welcomed by many, some fulfillment center staff on Reddit expressed skepticism about the Whole Foods discount’s value.",
-      "key_points": [
-        "Starting wage raised to $20/hour and average to $24/hour, a $1 increase for eligible workers",
-        "The raise costs Amazon over $1.5 billion, roughly 0.06% of its $2.68 trillion market cap",
-        "Additional benefits include a low‑cost banking system, First Tech Federal Credit Union membership, and Whole Foods discounts",
-        "Total compensation, including benefits, exceeds $32 per hour"
-      ],
-      "topics": [
-        "amazon",
-        "wages",
-        "benefits",
-        "retail",
-        "labor"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 14:32:08 +0000",
-      "processed_at": "2026-09-17T10:17:49.507102+00:00"
     }
   ]
 }
