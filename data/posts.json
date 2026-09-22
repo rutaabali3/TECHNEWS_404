@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-22T20:25:58.278682+00:00",
+  "updated_at": "2026-09-22T23:12:09.905263+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-22-stolen-passwords-are-exposing-americas-water-providers-to-hackers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/glen-canyon-dam-2290782874-getty.jpg?resize=1200,818",
+      "title": "Stolen passwords are exposing America's water providers to hackers | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "SpyCloud’s latest research reveals that more than 1,700 U.S. water and wastewater providers have been compromised by password‑stealing malware, with 250 of those organizations exposing credentials that could reach their operational networks and remote‑access systems. The study catalogued over 66,000 public‑facing systems registered with the EPA, covering 10,000 utilities, and found that the malware had captured passwords from 1,787 of them, including 167 utilities that rely on a single infected metering‑tech provider. Stolen passwords and session tokens can bypass multi‑factor authentication, giving attackers a straightforward path into critical infrastructure. This vulnerability is distinct from recent Iran‑linked attacks, which were driven by default passwords on physical controllers, underscoring the dual threat of software and hardware weaknesses in the water sector.",
+      "key_points": [
+        "More than 1,700 U.S. water providers were hit by password‑stealing malware, exposing 250 with credentials that could access operational networks",
+        "The malware also infected a metering‑tech provider, leaking credentials for 167 utilities",
+        "Stolen passwords and session tokens can bypass MFA, giving attackers easy entry into critical infrastructure",
+        "The threat is separate from Iran‑linked attacks that exploited default passwords on physical devices"
+      ],
+      "topics": [
+        "water infrastructure",
+        "cybersecurity",
+        "password theft",
+        "critical infrastructure",
+        "malware"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 15:50:58 +0000",
+      "processed_at": "2026-09-22T23:11:52.602599+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-09-22-five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "title": "Five AI safety sessions every founder should have on their Disrupt 2026 agenda | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s coverage of Disrupt 2026 highlights five AI‑safety sessions that founders should add to their agenda. Sessions cover Anthropic’s real‑world Claude deployments, the overlooked security of autonomous agents, the added complexity of securing AI in the cloud, the high‑stakes safety of physical‑world AI systems, and the data gap that is holding back robotics. The event, taking place Oct. 13‑15 in San Francisco, also offers up to $200 in ticket savings and a 50 % discount on a second pass. These talks aim to help founders build trustworthy AI that can be deployed in enterprises, vehicles, robots, and other critical environments.",
+      "key_points": [
+        "Anthropic’s insights on why some enterprise Claude deployments succeed while others stall",
+        "The security challenges unique to autonomous AI agents and infrastructure-level safeguards",
+        "How securing AI in the cloud adds layers of governance, observability, and compliance",
+        "The safety, testing, and data pipeline hurdles that physical AI and robotics face"
+      ],
+      "topics": [
+        "ai safety",
+        "enterprise ai",
+        "agent security",
+        "physical ai",
+        "robotics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-22T23:12:09.904367+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
+      "title": "Exclusive: Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Breakthrough Energy is backing 21 early‑stage startups in its sixth Fellows cohort to prepare for a projected three‑fold increase in global electricity demand as economies electrify to curb carbon emissions. The cohort includes high‑risk ventures such as Borealis Fusion’s proton‑boron fusion, StarWarden’s reactor heat‑management, K1 Semiconductor’s low‑cost gallium nitride processing, and hydrogen‑ammonia transport solutions from AmHyTech and Ammovolt Energy. Despite the departure of former program lead Ashley Grosh, senior director Benjamin Gaddy is steering the initiative, emphasizing bold bets that could yield large payoffs for decarbonization and climate adaptation. The program’s focus spans fusion, semiconductor efficiency, hydrogen infrastructure, and technologies that help societies adapt to a warming world.",
+      "key_points": [
+        "Breakthrough Energy is funding 21 startups to meet a projected 3x rise in electricity demand as economies electrify",
+        "The cohort features high‑risk fusion, semiconductor efficiency, hydrogen‑ammonia transport, and climate‑adaptation technologies",
+        "Senior director Benjamin Gaddy is acting as program lead after Ashley Grosh’s departure",
+        "The strategy centers on big bets that could deliver significant decarbonization and adaptation payoffs"
+      ],
+      "topics": [
+        "breakthrough energy",
+        "fusion",
+        "hydrogen",
+        "semiconductors",
+        "climate adaptation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-22T23:11:38.605504+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-22-4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-Audience.webp?resize=1200,799",
@@ -2416,81 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 19:35:29 +0000",
       "processed_at": "2026-09-17T15:12:19.711120+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-former-waymo-cfo-jumps-to-self-driving-startup-wayve",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675",
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Elisa de Martel, former CFO of Waymo, has joined Wayve as CFO, bringing experience from Waymo's commercial launch and significant fundraising. Wayve, valued at about $8.5 billion, is transitioning from testing to deploying its neural‑network‑based autonomous driving software in robotaxis and passenger vehicles. De Martel will oversee finance, capital allocation, and strategic partnerships as Wayve expands after recent public rides in London and partnerships with Nissan and Stellantis. The hire signals Wayve’s intent to scale and compete with larger players in the self‑driving market.",
-      "key_points": [
-        "Elisa de Martel, ex‑Waymo CFO, appointed CFO of Wayve",
-        "Wayve is moving from testing to deployment of its neural‑network autonomous driving tech in robotaxis and consumer vehicles",
-        "The company has raised $3.2 billion, is valued at $8.5 billion, and has partnerships with Nissan, Stellantis, and Uber",
-        "De Martel will manage finance, capital allocation, and strategic deals to support Wayve’s scaling"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "startup",
-        "finance",
-        "technology",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 19:02:49 +0000",
-      "processed_at": "2026-09-17T15:12:35.149538+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-15-the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
-      "title": "The AI data center boom is colliding with cities scarred by big industry | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "The rapid expansion of AI data centers is sparking backlash in cities that have already suffered from heavy industry, as residents fear new pollution and energy demands. In Philadelphia, activists led by Shawmar Pitts and Philly Thrive are pushing a moratorium after city officials flagged two potential sites, one in Grays Ferry. The movement echoes a national trend, with governors and municipalities like New York, Denver, and Indianapolis banning or delaying large data‑center projects to protect local resources and public health. Analysts warn that by 2035 U.S. data centers could consume more natural gas than Germany and Japan combined, adding roughly 1 million metric tons of greenhouse‑gas emissions daily.",
-      "key_points": [
-        "Philadelphia residents oppose data centers citing pollution and health concerns, leading to a moratorium push.",
-        "City officials have identified two potential sites, but community opposition is gaining traction.",
-        "Nationally, states and cities are banning or delaying large data‑center projects to protect resources and public health.",
-        "Data centers are projected to consume massive amounts of natural gas, contributing significantly to greenhouse‑gas emissions."
-      ],
-      "topics": [
-        "ai",
-        "data centers",
-        "environment",
-        "energy",
-        "public policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "processed_at": "2026-09-17T15:12:19.898178+00:00"
-    },
-    {
-      "id": "ext-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-      "title": "Learn about AI in HR at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a Builders Stage session titled \"Hiring When AI Is a Co-Founder\" that examines how early‑stage companies can blend human talent with AI agents to accelerate growth. The panel includes Josh Reeves of Gusto, Michelle Johnson of Insight Partners, and John Koelliker of Leland, each offering perspectives from payroll, venture, and talent‑platform viewpoints. The discussion will cover practical questions about ownership, accountability, and the balance between human judgment and automated workflows, as well as the strategic implications for hiring and culture. The event runs October 13–15 at Moscone West, with ticket discounts up to 30% for early and group registrations before September 25.",
-      "key_points": [
-        "AI agents can replace early hires for tasks like engineering, support, and research, prompting founders to rethink team composition.",
-        "The session will address ownership, decision‑making, and risk when delegating work to AI.",
-        "Panelists bring insights from payroll, venture capital, and talent platforms to illustrate AI‑native team strategies.",
-        "Early‑bird ticket discounts of up to 30% are available until September 25."
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "hiring",
-        "techconference",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 03:30:00 +0000",
-      "processed_at": "2026-09-17T15:12:19.705144+00:00"
     }
   ]
 }

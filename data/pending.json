@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:25:29.130982+00:00",
+  "updated_at": "2026-09-22T23:11:37.050476+00:00",
   "items": [
     {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
@@ -14,21 +14,9 @@
       "published": "Mon, 21 Sep 2026 19:19:21 +0000"
     },
     {
-      "title": "Stolen passwords are exposing America’s water providers to hackers",
-      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-      "feed_excerpt": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
-      "published": "Tue, 22 Sep 2026 15:50:58 +0000"
-    },
-    {
       "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
       "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
       "feed_excerpt": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "feed_excerpt": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
       "published": "Tue, 22 Sep 2026 15:00:00 +0000"
     },
     {
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
       "feed_excerpt": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
       "published": "Tue, 22 Sep 2026 13:20:00 +0000"
-    },
-    {
-      "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
-      "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
-      "feed_excerpt": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
-      "published": "Tue, 22 Sep 2026 13:00:00 +0000"
     },
     {
       "title": "Everyone can find a reason to dislike data center construction",
@@ -102,7 +84,13 @@
       "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
       "feed_excerpt": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
       "published": "Tue, 22 Sep 2026 17:36:06 +0000"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "feed_excerpt": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "published": "Tue, 22 Sep 2026 21:56:43 +0000"
     }
   ],
-  "last_processed_at": "2026-09-22T20:25:54.920931+00:00"
+  "last_processed_at": "2026-09-22T23:12:09.904448+00:00"
 }
