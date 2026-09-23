@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-23T17:56:55.228061+00:00",
+  "updated_at": "2026-09-23T21:23:55.209937+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-video-the-old-cybersecurity-model-is-breaking",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750",
+      "title": "The old cybersecurity model is breaking | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Cybersecurity investors are pouring large sums into AI‑native security startups, with firms like Instinct and Simile attracting nine‑figure checks that would have seemed unlikely a few years ago.  Index Ventures partner Shardul Shah, who has backed cloud‑security firm Wiz through six rounds before its $32 billion Google acquisition, explains on the Equity podcast that periodic, human‑in‑the‑loop security can no longer keep pace with an AI‑native world.  Shah argues that this shift is prompting investors to commit to AI‑security companies at earlier stages than before, reflecting a broader industry pivot toward automated, AI‑driven protection.  The conversation underscores how the traditional cybersecurity model is breaking down as AI becomes central to both threat and defense strategies.",
+      "key_points": [
+        "Cybersecurity investors are backing AI‑native security firms with large, nine‑figure checks.",
+        "Index Ventures’ Shardul Shah says human‑in‑the‑loop security is insufficient for the AI era.",
+        "Wiz’s $32 billion acquisition by Google illustrates the rapid valuation growth in AI‑security.",
+        "Investors are moving to earlier stages for AI‑security startups, signaling a strategic shift."
+      ],
+      "topics": [
+        "cybersecurity",
+        "ai",
+        "investing",
+        "startup",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 17:44:02 +0000",
+      "processed_at": "2026-09-23T21:23:23.675055+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-pitpros-first-tire-changing-robot-goes-live-in-canada",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PitProImage1.jpg?resize=1200,675",
+      "title": "PitPro's first tire-changing robot goes live in Canada | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "PitPro Automation has installed its first automatic tire‑changing robot at a Kal Tire shop in Calgary, Alberta, marking the first real‑world deployment of the startup’s system in Canada. The robot can swap a full set of four tires in under 15 minutes and is designed to fit into existing maintenance bays, using sensors and a robotic arm to locate and loosen lug nuts. PitPro’s founder Jeremy Conrad says the company is targeting tire chains and commercial fleets first, citing standardized layouts and a chronic labor shortage in tire shops. The deployment also highlighted practical challenges such as dust, debris, and even dandelion seeds, which the team has addressed to keep the system robust.\n",
+      "key_points": [
+        "First deployment of PitPro’s tire‑changing robot in Calgary’s Kal Tire shop, completing a full tire set in under 15 minutes",
+        "The system is built to slide into existing bays and uses sensors and a robotic arm to handle lug nuts",
+        "PitPro is focusing on tire chains and commercial fleets for early adoption due to standardized layouts and high demand for tire changes",
+        "The startup has addressed environmental challenges like dust and debris to ensure reliable operation"
+      ],
+      "topics": [
+        "robotics",
+        "automotive",
+        "labor",
+        "tire",
+        "canada"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-23T21:23:53.984953+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-7.58.47-AM.png?resize=1200,879",
+      "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Comma.ai, the startup founded by hacker George Hotz, is under a federal investigation after five reported crashes involving its aftermarket hands‑off driver assistance system, two of which caused three deaths. The National Highway Traffic Safety Administration’s Office of Defects Investigation found that the devices failed to detect or respond to slow or stopped vehicles in the same lane, injuring up to 11 people across four incidents. Some crashes, including a fatal February 2026 incident in Louisiana, may have involved modified versions of the company’s openpilot software such as the third‑party fork FrogPilot. The investigation highlights ongoing safety challenges for autonomous‑driving systems and raises questions about the use of altered software in consumer vehicles.",
+      "key_points": [
+        "NHTSA ODI is investigating five crashes involving Comma.ai devices, two of which were fatal and caused three deaths",
+        "The devices failed to detect or respond to slow or stopped vehicles in the same lane, leading to injuries",
+        "Some crashes involved modified or forked versions of openpilot, such as FrogPilot",
+        "Founder George Hotz has distanced himself from day‑to‑day operations and has not commented on the investigation"
+      ],
+      "topics": [
+        "autonomous driving",
+        "safety investigation",
+        "comma.ai",
+        "nhtsa",
+        "crash"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 12:12:39 +0000",
+      "processed_at": "2026-09-23T21:23:38.890166+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Ema, a Bay‑Area startup that deploys teams of AI agents to automate corporate processes, closed a $77 million Series B round led by Bengaluru‑based Creaegis, bringing its total funding to $140 million and more than quadrupling its valuation from the last round in 2024. The company, founded in 2023 by former Google, Coinbase, and Okta executives, positions its technology—called “AI employees”—to wrap around existing enterprise applications and gradually replace or reduce reliance on traditional SaaS products. With over 50 active enterprise deals, a million users, and 5 million actions handled, Ema reports 90 % customer expansion, 180 % net dollar retention, and revenue bookings exceeding $150 million, while its pricing is tied to task completion rather than seats or token usage. The new capital will be used to scale sales and marketing, expand into Asia‑Pacific, South America, and the Middle East, and continue developing its AI‑driven automation platform.",
+      "key_points": [
+        "Ema raised $77 million in a Series B led by Creaegis, raising total funding to $140 million and quadrupling its valuation",
+        "The startup uses coordinated AI agents to automate multi‑step business processes across HR, IT, and finance, aiming to replace traditional SaaS",
+        "It has more than 50 enterprise deals, 1 million users, 5 million actions, 90 % customer expansion, and 180 % net dollar retention",
+        "Funding will boost go‑to‑market operations and global expansion into new regions"
+      ],
+      "topics": [
+        "ai",
+        "enterprise software",
+        "startup funding",
+        "automation",
+        "saaS"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "processed_at": "2026-09-23T21:23:23.874891+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories",
       "image": "https://techcrunch.com/wp-content/uploads/2024/04/linkedin-getty.jpg?w=1200",
@@ -2392,106 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 16:09:58 +0000",
       "processed_at": "2026-09-18T10:50:43.062991+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Roku-Labs_High-Res.png?resize=1200,772",
-      "title": "Roku's new Labs hub brings experimental apps to the big screen | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Roku has launched Roku Labs, a new hub on its Home Screen that lets U.S. users try experimental first‑party apps such as weather and stock trackers and a game called Roku Dash. The move signals a push toward monetizable in‑house content that could keep viewers on Roku’s platform amid competition from AI‑powered TVs from Google and Amazon. The update also expands Roku’s personalized Home Screen to Mexico and Brazil, adds weather‑question support for its voice assistant, and introduces bundled subscription options for U.S. and Mexican customers. Additionally, Roku is open‑sourceing the software behind its remote, inviting external developers to build on the platform.",
-      "key_points": [
-        "Roku Labs adds experimental first‑party apps via a new Home Screen tile",
-        "The hub includes weather, stocks, and a game called Roku Dash",
-        "Roku expands personalized Home Screen to Mexico and Brazil and offers bundled streaming subscriptions",
-        "The company open‑sources its remote OS to encourage third‑party development"
-      ],
-      "topics": [
-        "roku",
-        "connected tv",
-        "first-party apps",
-        "open source",
-        "subscription bundles"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 15:50:29 +0000",
-      "processed_at": "2026-09-18T10:50:33.708033+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-spotify-expands-its-partner-program-for-podcasts-to-35-new-countries",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
-      "title": "Spotify expands its partner program for podcasts to 35 new countries | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Spotify has expanded its partner program for podcasts to 35 regions, adding Italy, Spain, Brazil, Mexico, Colombia, Poland, Chile, the Dominican Republic, and the Bahamas this fall. Eligible podcasters can now earn revenue from both video and audio podcasts, with video impressions from Premium users and ad revenue from free listeners counted toward payouts. Podcasters may distribute their shows on other platforms and keep all sponsorship revenue they earn. The expansion follows a 140% rise in video podcast consumption since 2022 and a one‑third increase in monthly payouts since January.",
-      "key_points": [
-        "Spotify expands partner program to 35 regions, adding Italy, Spain, Brazil, Mexico, Colombia, Poland, Chile, Dominican Republic, and Bahamas",
-        "Podcasters can earn from video and audio, with video impressions from Premium users counted",
-        "Eligibility requires 3 episodes, 2000 consumption hours, and 1,000 engaged audience in the last 30 days",
-        "Video podcast consumption rose 140% and monthly payouts increased a third since January"
-      ],
-      "topics": [
-        "spotify",
-        "podcasting",
-        "partner program",
-        "video podcasts",
-        "ad revenue"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
-      "processed_at": "2026-09-18T05:38:53.568808+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Comp-AI-Team-Photo.jpeg?resize=1200,656",
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Comp AI, a cybersecurity and compliance startup founded in January by Lewis Carhart and the Fuentes brothers, announced a $34 million Series A round led by Roo Capital and Grand Ventures. The company is building an agentic platform that uses AI agents to draft security policies, continuously monitor SOC 2 compliance, and perform AI‑powered penetration testing. By automating these tedious tasks, Comp AI aims to help companies keep up with rapid AI adoption and the need for real‑time compliance validation. The Series A brings total funding to $37.5 million, positioning the firm to expand its product suite.",
-      "key_points": [
-        "$34 million Series A led by Roo Capital and Grand Ventures",
-        "AI agents automate policy drafting, compliance monitoring, and penetration testing",
-        "Comp AI focuses on continuous compliance for AI‑driven changes",
-        "Total funding to date is $37.5 million"
-      ],
-      "topics": [
-        "cybersecurity",
-        "ai",
-        "compliance",
-        "startup",
-        "financing"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 11:00:00 +0000",
-      "processed_at": "2026-09-18T05:38:53.388943+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
-      "title": "Al Gore says the real AI risk isn't data centers | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Al Gore argues that the real danger of artificial intelligence lies not in the emissions of its data centers but in the safety warnings coming from within the industry itself. He points out that AI data center emissions are only a fraction of global emissions, and that the larger climate threat comes from air conditioning and other infrastructure. Gore stresses that public backlash against data centers is driven more by fears of automation and job loss than by carbon concerns, and he takes recent AI safety warnings from leaders like Dario Amodei, Sam Altman, and Elon Musk seriously. He also highlights that AI can help cut global emissions by 6‑9% per year while clean‑energy investment now outpaces fossil‑fuel investment worldwide.",
-      "key_points": [
-        "AI data center emissions are a small fraction of global emissions",
-        "Gore prioritizes AI safety warnings over data‑center protests",
-        "Clean‑energy investment now exceeds fossil‑fuel investment",
-        "AI could reduce global emissions by 6‑9% per year"
-      ],
-      "topics": [
-        "ai",
-        "climate",
-        "energy",
-        "investment",
-        "policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
-      "processed_at": "2026-09-18T00:40:43.173874+00:00"
     }
   ]
 }
