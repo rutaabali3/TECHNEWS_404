@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-23T07:33:07.545320+00:00",
+  "updated_at": "2026-09-23T13:28:33.839034+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "-2026-09-22-techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
+      "title": "Founder Summit’s agenda revealed | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit on November 4 in Boston’s SoWa Power Station will offer a one‑day crash course for startup founders, featuring sessions on fundraising, CEO evolution, AI‑native company building, investor selection, hiring, and product‑market fit. Speakers include Brian Devaney of Underscore, HubSpot co‑founder Brian Halligan, 7AI CEO Lior Div, Cogent Security CEO Vineet Edupuganti, TDK Ventures’ Tina Tosukhowong, NEA partner Melissa Taunton, HqO CEO Chase Garbarino, and Bessemer partner Kent Bennett. The agenda aims to give founders direct access to seasoned investors and founders to avoid trial‑and‑error and accelerate growth. Tickets are discounted up to 50% off a second ticket and $200 savings until September 25.",
+      "key_points": [
+        "Founder Summit offers a one‑day crash course on startup essentials.",
+        "Sessions cover fundraising, AI strategy, hiring, and product‑market fit.",
+        "Speakers include industry leaders like Brian Halligan, Lior Div, and Chase Garbarino.",
+        "Tickets are discounted up to 50% off a second ticket and $200 savings until Sept 25."
+      ],
+      "topics": [
+        "startup",
+        "fundraising",
+        "ai",
+        "hiring",
+        "product-market-fit"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "processed_at": "2026-09-23T13:28:05.273142+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Snorkel AI has secured a $350 million Series E round that values the seven‑year‑old startup at $3.5 billion, nearly triple the $1.3 billion valuation it achieved 17 months earlier. The company has pivoted from a data‑labeling tool to a data‑as‑a‑service platform that blends synthetic data generation with subject‑matter experts, and its annualized revenue run rate now stands at $375 million—an 18‑fold increase over the past year. This surge reflects the explosive demand from AI labs for high‑quality training datasets and simulated environments, a trend mirrored by peers such as Mercor, Handshake, and Micro1. Snorkel’s hybrid model also changes how it accounts for expert payments, treating them as cost of goods sold rather than headline revenue.\n",
+      "key_points": [
+        "Snorkel AI raised $350 million in Series E, valuing it at $3.5 billion, nearly triple its prior valuation.",
+        "The startup now offers data‑as‑a‑service, combining synthetic data generation with expert input, and reports $375 million in annualized revenue.",
+        "AI labs’ appetite for premium training data has driven an 18‑fold revenue jump, a pattern seen across the AI data‑lab sector.",
+        "Snorkel’s cost structure differs from pure human‑labor models, with expert payments recorded as cost of goods sold rather than headline revenue."
+      ],
+      "topics": [
+        "ai",
+        "data",
+        "valuation",
+        "startup",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "processed_at": "2026-09-23T13:28:29.527261+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-waymos-latest-expansion-strategy-teenagers",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Waymo_teens_3.png?resize=1200,675",
+      "title": "Waymo's latest expansion strategy: teenagers | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Waymo has begun offering teen accounts in Nashville, allowing riders as young as 13 to hail its robotaxis through the Waymo app and the Lyft app. The new accounts, which require a parent or guardian link, let teens bring up to three guests aged 13 to 17, a move aimed at tapping a demographic that often relies on parents or public transit. Nashville is the second city to launch the program after Phoenix, and Waymo plans to roll out similar teen services in other mature markets where local regulations permit. This expansion follows a rapid growth in ridership, with weekly paid trips jumping from 50,000 in May 2024 to over half a million earlier this year as the company adds dozens of new cities.",
+      "key_points": [
+        "Waymo is launching teen accounts in Nashville, enabling riders aged 13 and up to use its robotaxi service.",
+        "Teen accounts require a parent or guardian link and allow up to three guests aged 13‑17 to ride together.",
+        "The service is available through both the Waymo app and the Lyft app, marking a new partnership for the company.",
+        "Waymo’s expansion to teen riders is part of a broader strategy that has seen ridership grow tenfold in two years as the company adds dozens of new cities."
+      ],
+      "topics": [
+        "waymo",
+        "robotaxi",
+        "teenaccounts",
+        "nashville",
+        "autonomousvehicles"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 17:36:06 +0000",
+      "processed_at": "2026-09-23T13:28:05.001524+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-22-hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-headquarters-2269711939.jpg?resize=1200,800",
@@ -2415,81 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 13:38:33 +0000",
       "processed_at": "2026-09-17T22:22:17.003730+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-lucid-motors-has-a-potential-robotaxi-partner-for-europe",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Luicid-Gravity-interior-9.jpg?resize=1200,675",
-      "title": "Lucid Motors has a potential robotaxi partner for Europe | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Lucid Motors has teamed up with European mobility platform Bolt to bring its upcoming mid‑size electric vehicle platform to the continent, with plans to deploy at least 25,000 fully autonomous vehicles. The partnership will co‑design the vehicle and its software, using Nvidia’s Hyperion autonomous‑driving compute, though no order has yet been placed and a public deployment timeline remains unclear. Lucid’s new CEO Silvio Napoli, who recently restructured the company and delayed the mid‑size platform launch to the second half of 2027, sees robotaxi margins far exceeding those of the traditional retail model. Bolt aims to scale its autonomous fleet to 100,000 vehicles by 2035, positioning the collaboration as a major step toward that ambition.\n",
-      "key_points": [
-        "Lucid and Bolt plan to deploy 25,000 autonomous vehicles in Europe using Lucid’s mid‑size EV platform and Nvidia Hyperion technology.",
-        "No order has been placed yet; the partnership focuses on co‑designing vehicle and software rather than immediate production.",
-        "Lucid’s CEO Silvio Napoli views robotaxi margins as vastly higher than retail, aligning the deal with post‑restructuring strategy.",
-        "Bolt’s long‑term goal is 100,000 autonomous vehicles by 2035, with this partnership seen as a major milestone.\n"
-      ],
-      "topics": [
-        "robotaxi",
-        "autonomous vehicles",
-        "electric vehicles",
-        "partnerships",
-        "europe"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 13:26:32 +0000",
-      "processed_at": "2026-09-17T22:22:31.478676+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Bain Capital Ventures has closed a new $1.6 billion fund, a 14% increase over its $1.4 billion fund three years ago, and plans to deploy the capital mainly into AI‑focused startups. The firm is targeting the post‑AGI era, prioritizing infrastructure, healthcare, physical AI and security, and has highlighted portfolio companies such as data‑center developer Crusoe, longevity pet startup Loyal, and AI defender Dream. BCV intends to back 30 to 40 companies from seed through Series B, with partners often working in pairs or trios to provide thoughtful, hands‑on support. Its affiliation with Bain Capital gives it a unique advantage, offering founders not only equity but also debt facilities, infrastructure partnerships and real‑economy relationships.",
-      "key_points": [
-        "BCV raised a $1.6 billion fund, 14% larger than its previous fund",
-        "The firm will focus on AI, AGI infrastructure, healthcare and security startups",
-        "BCV plans to invest in 30–40 companies from seed to Series B, with partners collaborating closely",
-        "Bain Capital’s backing allows BCV to offer equity plus debt and infrastructure support"
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "healthcare",
-        "security",
-        "infrastructure"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 12:57:46 +0000",
-      "processed_at": "2026-09-17T22:22:17.476530+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Snap is attempting to salvage its $2,200 Specs smart glasses after a poorly received launch by adding new entertainment, AI, and enterprise features at a Los Angeles event. The company unveiled integration with HBO Max and Spotify, introduced Specs Intelligence—a predictive AI system that syncs with iPhones, Macs, and the glasses to streamline productivity, and launched Specs for Enterprise to embed the device in corporate workflows with partners like Amazon, Salesforce, and Nvidia. Additional announcements include an NBA/WNBA AR training app, a Verizon‑powered cellular connectivity package priced at $10/month for Verizon customers and $20/month for others, and a pop‑up showcase scheduled for October. Despite these efforts, the heavy, pricey hardware remains a niche product aimed primarily at IT professionals and tech enthusiasts, with its broader consumer appeal still uncertain.",
-      "key_points": [
-        "Snap added HBO Max, Spotify, and a predictive AI system called Specs Intelligence to give its $2,200 glasses more utility.",
-        "The company introduced Specs for Enterprise, partnering with Amazon, Salesforce, and Nvidia to target corporate IT teams.",
-        "A Verizon‑based cellular connectivity package will let users use Specs on the go for $10/month (Verizon) or $20/month (non‑Verizon).",
-        "An AR basketball training app and a pop‑up event in October signal Snap’s push to broaden the glasses’ appeal."
-      ],
-      "topics": [
-        "smartglasses",
-        "ai",
-        "enterprise",
-        "entertainment",
-        "verizon"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
-      "processed_at": "2026-09-17T22:22:17.402373+00:00"
     }
   ]
 }
