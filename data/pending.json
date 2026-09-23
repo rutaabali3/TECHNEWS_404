@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-09-23T13:28:03.264738+00:00",
+  "updated_at": "2026-09-23T17:56:22.223691+00:00",
   "items": [
     {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
       "published": "Mon, 21 Sep 2026 14:15:00 +0000"
-    },
-    {
-      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-      "feed_excerpt": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000"
     },
     {
       "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
@@ -24,18 +18,6 @@
       "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
       "feed_excerpt": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
       "published": "Tue, 22 Sep 2026 13:20:00 +0000"
-    },
-    {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "feed_excerpt": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "published": "Tue, 22 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "feed_excerpt": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "published": "Tue, 22 Sep 2026 18:00:00 +0000"
     },
     {
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -56,12 +38,6 @@
       "published": "Wed, 23 Sep 2026 13:00:00 +0000"
     },
     {
-      "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-      "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
-      "feed_excerpt": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000"
-    },
-    {
       "title": "PitPro’s first tire-changing robot goes live in Canada",
       "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
       "feed_excerpt": "The startup says its automated system can change four tires in under 15 minutes.",
@@ -78,7 +54,97 @@
       "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
       "feed_excerpt": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
       "published": "Wed, 23 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "title": "The old cybersecurity model is breaking",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "feed_excerpt": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
+      "published": "Wed, 23 Sep 2026 17:44:02 +0000"
+    },
+    {
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "feed_excerpt": "The Amazon-owned company launched an investigation after a worker submitted an OSHA complaint.",
+      "published": "Wed, 23 Sep 2026 17:28:38 +0000"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "feed_excerpt": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "published": "Wed, 23 Sep 2026 16:49:58 +0000"
+    },
+    {
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "feed_excerpt": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+      "published": "Wed, 23 Sep 2026 16:03:44 +0000"
+    },
+    {
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "feed_excerpt": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "published": "Wed, 23 Sep 2026 15:46:57 +0000"
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "feed_excerpt": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "published": "Wed, 23 Sep 2026 15:19:30 +0000"
+    },
+    {
+      "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+      "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "feed_excerpt": "Eight Sleep said the new pod is 20% faster than the previous generation.",
+      "published": "Wed, 23 Sep 2026 14:45:00 +0000"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "feed_excerpt": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+      "feed_excerpt": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "feed_excerpt": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "feed_excerpt": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "feed_excerpt": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+      "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+      "feed_excerpt": "YouTube's AI feature can now help you compare products as you shop.",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
+      "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
+      "feed_excerpt": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
+      "published": "Wed, 23 Sep 2026 14:21:41 +0000"
+    },
+    {
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+      "published": "Wed, 23 Sep 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-23T13:28:29.527365+00:00"
+  "last_processed_at": "2026-09-23T17:56:24.018567+00:00"
 }

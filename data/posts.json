@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-23T13:28:33.839034+00:00",
+  "updated_at": "2026-09-23T17:56:55.228061+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/linkedin-getty.jpg?w=1200",
+      "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "LinkedIn has rolled out a suite of new tools aimed at curbing fake profiles and bogus work histories, a problem that has been amplified by AI‑driven identity creation. The updates include a vouching feature that lets verified members confirm colleagues’ experience, and company controls that allow page admins to remove false employment claims and require workplace verification for new members. LinkedIn highlights that verified profiles already enjoy a 50% boost in post views and a 90% increase in impressions, underscoring the value of authenticity on the platform. The company also expands its verification partnerships to include Truecaller, PeerSpot, Adobe, and UserTesting, enabling verified identities to be displayed beyond LinkedIn.\n",
+      "key_points": [
+        "LinkedIn introduces a vouching system that requires the vouching member to be verified, connected for at least a year, and use two‑factor authentication",
+        "Company page admins can now remove accounts falsely claiming employment and enforce workplace verification for future members",
+        "Verified profiles receive on average 50% more post views and 90% more impressions compared to non‑verified profiles",
+        "LinkedIn expands verification partnerships to Truecaller, PeerSpot, Adobe, and UserTesting to showcase verified identities outside the platform"
+      ],
+      "topics": [
+        "linkedin",
+        "verification",
+        "fakeprofiles",
+        "professionalnetwork",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-23T17:56:24.018455+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-openai-launches-gpt-6-sol-and-luna",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI has released updated GPT-6 Sol and Luna models, extending the GPT‑6 generation with lower cost and improved accuracy. The new Sol and Luna variants are priced at half the cost of the 5.6 series, thanks to better caching and inference, and claim to make about half as many factual mistakes as their predecessors, reaching Astra‑level reliability. OpenAI positions the models as superior to Anthropic’s top offerings, such as Fable and Opus, and they are now available in ChatGPT Work, Codex, the API, and the desktop app for free and Go users.",
+      "key_points": [
+        "GPT‑6 Sol and Luna are launched at half the price of the 5.6 series, emphasizing efficiency gains",
+        "The models reduce factual errors by roughly 50%, achieving Astra‑level reliability",
+        "OpenAI claims the new models outperform Anthropic’s Fable and Opus in task performance",
+        "They are accessible via ChatGPT Work, Codex, the API, and the desktop app for various user tiers"
+      ],
+      "topics": [
+        "ai",
+        "openai",
+        "gpt-6",
+        "pricing",
+        "anthropic"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 18:00:00 +0000",
+      "processed_at": "2026-09-23T17:56:23.909371+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2194453798.jpeg?resize=1200,800",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Noble Carbon has unveiled smart circuit breakers that let homeowners install electric‑vehicle chargers without upgrading their main electrical panel, a move that could cut installation costs by more than half. The breakers fit into existing panel slots, adjust power delivery in real time, and can be installed in under five minutes. The Massachusetts‑based startup is testing the units in its own homes, pursuing UL certification, and has partnered with utility Eversource to deploy them in up to 200 multifamily units. The product will be showcased as one of 200 startups in TechCrunch Startup Battlefield at Disrupt 2026.",
+      "key_points": [
+        "Smart breakers allow EV charger installation without a main panel upgrade",
+        "They adjust power in real time to keep total load within panel capacity",
+        "Installation takes less than five minutes and fits existing panel slots",
+        "Noble Carbon is partnering with Eversource for 200 multifamily units and seeking UL certification"
+      ],
+      "topics": [
+        "ev charging",
+        "smart breakers",
+        "home electrical",
+        "techstartup",
+        "cleanenergy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-23T17:56:23.749723+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-everyone-can-find-a-reason-to-dislike-data-center-construction",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-496672575.jpg?resize=1200,800",
+      "title": "Everyone can find a reason to dislike data center construction | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "The article reports on a new Data & Society study that used 18 months of ethnographic research and interviews with 44 Pennsylvanians to explain why local residents oppose data center construction, despite AI companies’ push for scaling. The study finds opposition is driven by a mix of economic concerns—such as higher power bills and lower property values—environmental worries, and distrust of corporate secrecy, all of which clash with the AI industry’s narrative of inevitable industrial progress. Pennsylvania’s history of industrial trauma fuels skepticism, leading to post‑partisan resistance that is not simply NIMBY but includes anti‑AI sentiment, environmental groups, and public health concerns. The findings suggest that without addressing local material interests and building relational trust, AI firms will struggle to secure community support for their infrastructure projects.",
+      "key_points": [
+        "Data & Society’s ethnographic study reveals diverse, post‑partisan opposition to data centers in Pennsylvania.",
+        "Residents cite economic concerns (power bills, property values) and distrust of corporate secrecy as major drivers.",
+        "The AI industry’s “inevitable” narrative clashes with the state’s industrial trauma history, fueling skepticism.",
+        "Without local trust and material benefit, data center projects face growing community resistance."
+      ],
+      "topics": [
+        "data centers",
+        "ai industry",
+        "public opinion",
+        "industrialization",
+        "trust"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-23T17:56:23.864951+00:00"
+    },
     {
       "id": "-2026-09-22-techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
@@ -2392,104 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 16 Sep 2026 23:43:09 +0000",
       "processed_at": "2026-09-18T00:40:43.173874+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-waymo-restarts-san-antonio-service-five-months-after-flooding-troubles",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
-      "title": "Waymo restarts San Antonio service 5 months after flooding troubles | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Waymo has resumed its robotaxi service in San Antonio, Texas, five months after a vehicle was swept away during a flash flood. The company issued a recall in May and restricted operations in flood‑prone areas, but has since updated its software to better detect standing water. Service will cover a 60‑mile radius that includes downtown and the San Antonio International Airport, with dozens of vehicles operating. Waymo now offers paid rides in 15 U.S. cities after pausing operations in several Texas cities during the storm.",
-      "key_points": [
-        "Waymo restarted San Antonio robotaxi service after a flood incident that swept a vehicle away.",
-        "The company recalled vehicles in May and limited operations in flood‑risk zones, then updated software to detect standing water.",
-        "Service covers a 60‑mile area including downtown and the airport, with dozens of vehicles.",
-        "Waymo now offers paid rides in 15 U.S. cities after pausing operations in some Texas cities."
-      ],
-      "topics": [
-        "self-driving",
-        "waymo",
-        "flooding",
-        "robotaxi",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 18:30:30 +0000",
-      "processed_at": "2026-09-18T00:40:43.303710+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?resize=1200,900",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia | TechCrunch",
-      "author": "Kate Park",
-      "summary": "Huawei announced it will launch its next‑generation Ascend 960DT AI chip in Q1 2027, moving the release up from the originally planned Q3 2027. The chip is part of Huawei’s Peerium Computing Architecture, which aims to link hundreds of thousands of accelerators into a single supercomputer for training and inference. The announcement came just a week before the U.S. President and Chinese President’s meeting on September 24, amid ongoing U.S. restrictions on advanced semiconductor technology. Despite those constraints, Huawei says its Atlas 950 SuperCluster can connect up to 256,000 accelerator cards, signaling a push to close the AI chip gap with Nvidia.",
-      "key_points": [
-        "Ascend 960DT launch moved to Q1 2027",
-        "Peerium Architecture enables massive scale of accelerators",
-        "Announcement precedes US‑China summit, highlighting geopolitical context",
-        "Atlas 950 SuperCluster supports up to 256,000 chips, aiming to rival Nvidia"
-      ],
-      "topics": [
-        "ai chips",
-        "huawei",
-        "nvidia",
-        "geopolitics",
-        "semiconductor"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 14:06:14 +0000",
-      "processed_at": "2026-09-18T00:40:43.254229+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-937980652.jpg?resize=1200,801",
-      "title": "Rival AI agents, Instinct and Meta's Muse, both add the ability to make calls | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Instinct, a San Francisco‑based text‑based AI assistant, has launched a new calling feature called Instinct Concierge that lets its agents place phone calls, book restaurants, and handle high‑touch service requests. Meta’s Muse AI assistant has also added outbound calling to U.S. businesses, rolling it out first to users who explicitly ask for the feature. With both agents now able to make calls, the competitive gap on this capability has closed, while Instinct continues to attract investor interest at a reported $10 billion valuation after a recent $350 million funding round. The move underscores the growing emphasis on multimodal interactions in the rapidly expanding AI assistant market.",
-      "key_points": [
-        "Instinct introduced Instinct Concierge, enabling agents to place calls and manage high‑touch tasks",
-        "Meta’s Muse added outbound calling to U.S. businesses, first to users who request it",
-        "Both agents now offer comparable calling capabilities, leveling the competitive field",
-        "Instinct’s valuation has risen to $10 billion after a $350 million funding round"
-      ],
-      "topics": [
-        "ai assistants",
-        "calling feature",
-        "startup funding",
-        "text-based ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 13:46:16 +0000",
-      "processed_at": "2026-09-18T00:40:43.202882+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-09-17-google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Emerald AI, backed by Google, Nvidia, and Anthropic, has launched the AI Energy Management Alliance to use its grid‑management software to enable demand response in data centers, potentially freeing up 100 GW of grid capacity for new facilities. The coalition partners with utilities such as AES, Constellation, National Grid, and NRG Energy to coordinate load shifting and pause non‑critical tasks instead of relying on diesel generators. Emerald AI’s technology connects utilities directly to data centers, allowing rapid response similar to batteries, and the startup recently raised $150 M in Series A funding to scale the solution. While the approach can reduce the need for new generation, experts note it will not eliminate all grid challenges.",
-      "key_points": [
-        "Emerald AI’s coalition with Google, Nvidia, and Anthropic aims to free up 100 GW of grid capacity for data centers through demand response",
-        "The startup’s software links utilities directly to data centers, enabling rapid load shifting without diesel generators",
-        "Emerald AI raised $150 M in Series A funding to deploy its technology at scale"
-      ],
-      "topics": [
-        "data centers",
-        "grid management",
-        "demand response",
-        "ai",
-        "energy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 13:38:33 +0000",
-      "processed_at": "2026-09-17T22:22:17.003730+00:00"
     }
   ]
 }
