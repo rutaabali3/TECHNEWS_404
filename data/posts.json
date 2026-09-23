@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-23T21:23:55.209937+00:00",
+  "updated_at": "2026-09-23T23:53:56.856760+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-even-americans-who-use-ai-every-day-are-worried-about-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900",
+      "title": "Even Americans who use AI every day are worried about it | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "A Gallup survey commissioned by Microsoft found that 68% of Americans who use AI daily report feeling worried about the technology, with overall anxiety in the U.S. at 74%. The study, covering 37 countries and about 1,000 respondents each, shows that while Western nations exhibit high concern, many Asian and African countries report optimism, with up to 90% of respondents in China and Singapore expecting AI to improve daily life. Despite frequent use, only 45% of U.S. daily users trust AI’s results, and overall confidence across all surveyed countries is just 36%, indicating a gap between curiosity and trust. The findings suggest that widespread adoption does not equate to enthusiasm, and the growing unease may influence future regulation and public acceptance of AI.",
+      "key_points": [
+        "74% of Americans feel worried about AI, even among daily users",
+        "Asian countries like China and Singapore show high optimism, with 80-90% expecting benefits",
+        "Trust in AI’s accuracy remains low, with only 45% of U.S. daily users confident in results",
+        "The survey indicates that adoption does not automatically translate to enthusiasm, highlighting potential regulatory challenges"
+      ],
+      "topics": [
+        "ai",
+        "public opinion",
+        "survey",
+        "trust",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 16:49:58 +0000",
+      "processed_at": "2026-09-23T23:53:39.659837+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-discords-age-verification-era-is-upon-us-despite-community-backlash",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
+      "title": "Discord's age-verification era is upon us, despite community backlash | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Discord is rolling out age‑verification measures to all users, using machine‑learning models that analyze account tenure, device and activity data to classify users as adults, teens, or unconfirmed. More than 90% of users will not need to submit biometric or ID scans, but teens will be blocked from age‑restricted servers and will see friend requests from non‑mutual contacts in a separate inbox. The move follows a breach of a third‑party vendor that exposed ID photos and selfies of 70,000 users, and it is driven by expanding age‑assurance laws in regions such as Brazil and Texas. Discord offers alternative verification methods, such as credit‑card or app‑store data, to confirm adult status without biometric scans.",
+      "key_points": [
+        "Discord uses machine‑learning signals to classify users, sparing most from verification but restricting teens from age‑restricted content",
+        "Over 90% of users will not need to submit biometric or ID scans, though teens can appeal with credit‑card or app‑store data",
+        "The rollout follows a breach that exposed 70,000 users’ ID photos and selfies, raising privacy concerns",
+        "Teens will face new restrictions on servers and friend requests, reflecting compliance with expanding age‑verification laws"
+      ],
+      "topics": [
+        "discord",
+        "age verification",
+        "privacy",
+        "social media",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 03:31:12 +0000",
+      "processed_at": "2026-09-23T23:53:55.609275+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
+      "title": "Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Hello Robot showcased its latest home‑assistant robot, Stretch 4, on the Real World AI Stage at TechCrunch Disrupt 2026, demonstrating how the compact wheeled robot can perform everyday tasks for people with severe mobility impairments. CEO and co‑founder Aaron Edsinger highlighted that Stretch 4’s design— a single telescoping arm and sensors for safe navigation— prioritizes usefulness, safety, and accessibility over a humanoid look. The first production run of Stretch 4 sold out shortly after its May launch, and the company is offering a full‑stack, open‑source software platform for researchers and developers. The live demo underscored the shift in robotics toward practical, human‑collaborative solutions rather than flashy demonstrations.",
+      "key_points": [
+        "Stretch 4’s live demo at Disrupt 2026 showed the robot performing tasks like closing blinds and feeding users with mobility impairments.",
+        "Hello Robot focuses on compact, wheeled design with a telescoping arm, emphasizing usefulness over humanoid appearance.",
+        "The first production run of Stretch 4 sold out in June, and the robot comes with an open‑source software platform.",
+        "Aaron Edsinger’s background includes founding Meka Robotics and Redwood Robotics, both acquired by Google, and leading Google’s robotics strategy."
+      ],
+      "topics": [
+        "robotics",
+        "physical ai",
+        "assistive technology",
+        "open source",
+        "event"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-09-23T23:53:39.641556+00:00"
+    },
     {
       "id": "https-techcrunch-com-video-the-old-cybersecurity-model-is-breaking",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750",
@@ -2417,81 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 05:00:00 +0000",
       "processed_at": "2026-09-18T14:50:22.438123+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
-      "title": "The FAA's plan to fix air traffic? $875M worth of AI | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "The Federal Aviation Administration is investing $875 million in an AI‑driven system called SMART (Strategic Management of Airspace, Routes, and Trajectories) to help air traffic controllers manage workflows and improve flight safety. SMART, built by Air Space Intelligence, will run in the cloud and analyze airline schedules, weather, airport capacity, airspace conditions, and operational constraints to predict traffic flows and spot potential conflicts before they arise. The program will first deploy in the Washington, D.C., metropolitan area and then expand nationwide over a 12‑year period. In addition to the AI initiative, the FAA has announced a bold hiring plan and broader modernization efforts to address long‑standing staffing shortages and aging air‑traffic systems.",
-      "key_points": [
-        "FAA is allocating $875 million to launch the AI platform SMART for air traffic management",
-        "SMART uses predictive analytics to assess schedules, weather, capacity, and constraints to prevent conflicts",
-        "The system will roll out in the Washington, D.C. area first and expand across the country over 12 years",
-        "The FAA is also pursuing a new hiring strategy and broader modernization of its air‑traffic infrastructure"
-      ],
-      "topics": [
-        "aviation",
-        "ai",
-        "federal government",
-        "air traffic control",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
-      "processed_at": "2026-09-18T10:50:33.643498+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?resize=1200,808",
-      "title": "Pinterest teases a new 'Restyle' feature that lets you redesign your room with AI | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Pinterest has unveiled a beta feature called Restyle that lets users upload a photo of their space and use AI to add or swap furniture, wall art, lighting, paint colors, and other decor items directly into the image. The feature is powered by Pinterest Intelligence, which combines Nvidia Blackwell GPUs, Nvidia Dynamo, open‑source models, and Pinterest‑built technology to enhance visual search and AI discovery. Restyle enables shoppers to see how Pinterest‑saved items would look in their own rooms, potentially nudging them toward purchase and giving advertisers new ways to showcase products. The beta is currently available in the U.S. and Canada and is expected to roll out more broadly next month.",
-      "key_points": [
-        "Pinterest’s Restyle lets users virtually redesign rooms by adding or swapping decor items in a photo of their space",
-        "The AI engine uses Nvidia GPUs and Pinterest’s own models to improve visual search and shopping discovery",
-        "Restyle bridges the gap between inspiration and purchase, encouraging users to buy items they’ve pinned",
-        "The feature debuted at Pinterest Presents and will expand beyond the U.S. and Canada next month"
-      ],
-      "topics": [
-        "pinterest",
-        "ai",
-        "home decor",
-        "visual search",
-        "ecommerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 17:15:00 +0000",
-      "processed_at": "2026-09-18T10:50:24.604835+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?resize=1200,675",
-      "title": "Apple will let EU apps use less-alarming tracking-consent screens | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple has agreed to modify its App Tracking Transparency (ATT) consent screens for apps distributed in the EU, following a multi‑year antitrust probe by German and other regulators. The new screens will be full‑page, remove the word “track,” use “Allow” and “Reject” buttons, and include a link to additional information, making the prompts less intimidating for users. Apple will still require a prompt, but the updated format aims to improve user understanding while allowing developers to request tracking permissions. The changes apply to apps in Germany, France, Italy, Poland, and Romania, and Apple will re‑prompt EU users a year after their last choice.",
-      "key_points": [
-        "Apple will modify ATT consent screens for EU apps, making them full‑page and less alarming.",
-        "New screens remove the word “track,” change button labels to “Allow” and “Reject,” and add a link to more information.",
-        "The changes apply to apps in Germany, France, Italy, Poland, and Romania, and Apple will re‑prompt users after one year.",
-        "Apple still allows its own apps to track users without a prompt, raising privacy concerns."
-      ],
-      "topics": [
-        "apple",
-        "privacy",
-        "app tracking transparency",
-        "eu regulation",
-        "advertising"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 16:09:58 +0000",
-      "processed_at": "2026-09-18T10:50:43.062991+00:00"
     }
   ]
 }
