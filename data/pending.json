@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-09-23T01:41:43.246248+00:00",
+  "updated_at": "2026-09-23T07:32:37.437471+00:00",
   "items": [
     {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
       "published": "Mon, 21 Sep 2026 14:15:00 +0000"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "feed_excerpt": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "published": "Mon, 21 Sep 2026 19:19:21 +0000"
     },
     {
       "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
@@ -26,12 +20,6 @@
       "published": "Tue, 22 Sep 2026 14:30:00 +0000"
     },
     {
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "feed_excerpt": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-      "published": "Tue, 22 Sep 2026 14:15:00 +0000"
-    },
-    {
       "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
       "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
       "feed_excerpt": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
@@ -42,18 +30,6 @@
       "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
       "feed_excerpt": "Inside two years of fraught AI data center debates in Pennsylvania.",
       "published": "Tue, 22 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-      "feed_excerpt": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
-      "published": "Tue, 22 Sep 2026 18:40:30 +0000"
-    },
-    {
-      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-      "feed_excerpt": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
-      "published": "Tue, 22 Sep 2026 18:24:34 +0000"
     },
     {
       "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
@@ -78,7 +54,19 @@
       "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "feed_excerpt": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
       "published": "Tue, 22 Sep 2026 23:21:49 +0000"
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "feed_excerpt": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "published": "Wed, 23 Sep 2026 04:59:08 +0000"
+    },
+    {
+      "title": "Discord’s age verification era is upon us, despite community backlash",
+      "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "feed_excerpt": "According to Discord, 90% of users will not have to verify their age.",
+      "published": "Wed, 23 Sep 2026 03:31:12 +0000"
     }
   ],
-  "last_processed_at": "2026-09-23T01:41:51.147767+00:00"
+  "last_processed_at": "2026-09-23T07:32:39.170274+00:00"
 }

@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-23T01:42:07.835747+00:00",
+  "updated_at": "2026-09-23T07:33:07.545320+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-22-hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-headquarters-2269711939.jpg?resize=1200,800",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents' and applicants' data | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "ShinyHunters, a well‑known cybercriminal group, announced that it has breached the FBI and stolen personal data on thousands of agents and job applicants, including names, home addresses and phone numbers. The hackers accessed an Oracle PeopleSoft server used for recruiting and then pivoted to an Amazon‑hosted government cloud that stored the agents’ information, claiming the theft was not financially motivated and demanding the FBI remove a report that they say contains false allegations. The breach, which also involved defacing the FBI’s jobs portal, raises a serious counterintelligence risk as the stolen data could be used to coerce or extort agents and their families. The FBI has not responded to inquiries, and this incident marks the second known compromise of an FBI system this year.",
+      "key_points": [
+        "ShinyHunters claimed to have breached the FBI and stolen data on thousands of agents and applicants.",
+        "The hackers accessed an Oracle PeopleSoft server and an Amazon‑hosted government cloud, taking terabytes of personal information.",
+        "They demand the FBI remove a report they say contains false allegations and say the hack is not financially motivated.",
+        "The breach poses a counterintelligence threat and follows a pattern of FBI system compromises this year."
+      ],
+      "topics": [
+        "cybersecurity",
+        "hacking",
+        "fbi",
+        "data breach",
+        "counterintelligence"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 18:40:30 +0000",
+      "processed_at": "2026-09-23T07:32:38.841748+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1225201409.jpg?resize=1200,900",
+      "title": "a16z is challenging Silicon Valley's love for drop-outs by launching a school | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Andreessen Horowitz has launched The Horowitz Andreessen Academy, a one‑year, tuition‑free program for high‑school graduates who have not yet attended college. The school, located in San Francisco, will admit about 50 students selected on proof of work and will provide hands‑on coursework in areas such as AI research and life philosophy, as well as mentorship from 200 speakers including leaders from Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe. While the academy is not accredited and offers no degree or transferable credits, it aims to bridge the gap between a traditional college education and the drop‑out startup path, with plans to introduce a two‑year, tuition‑based program in 2028 that will cost “similar in cost to an elite private university.”",
+      "key_points": [
+        "a16z’s new academy targets high‑school graduates with no college experience, offering a free, one‑year program for 50 students selected on proof of work",
+        "the curriculum blends technical subjects like AI research with life‑philosophy courses, and students receive mentorship from 200 top‑tech speakers",
+        "the school is not accredited and does not grant degrees, but aims to serve as a middle ground between college and startup drop‑outs",
+        "in 2028 the academy plans a two‑year, tuition‑based program priced like elite private universities, expanding beyond 50 students"
+      ],
+      "topics": [
+        "education",
+        "startup",
+        "tech",
+        "ai",
+        "venturecapital"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 18:24:34 +0000",
+      "processed_at": "2026-09-23T07:32:38.926008+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-exhibitor-program-reopened-book-by-sept-30",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54885180072_e211a254ca_k.jpg?resize=1200,800",
+      "title": "Exhibitor program reopened: Book by Sept 30 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 is back on track with exhibitor bookings reopening until September 30, giving startups a final chance to secure a table in the Expo Hall. The $12,500 package includes a 6′ × 30″ branded table, 10 team passes, lead‑generation tools, and Silver Tier sponsor branding, while ticket savings of up to $200 and a 50% discount on a second ticket remain available until September 25. The three‑day conference, held October 13‑15 at Moscone West in San Francisco, will host over 10,000 founders, investors, and tech leaders across 200+ sessions and six industry stages. Early exhibitors can leverage the venue’s networking hubs, such as Deal Flow Café and Investor‑to‑Founder Networking, to connect with potential partners and investors.",
+      "key_points": [
+        "Exhibitor bookings reopen until September 30 for a $12,500 package that includes a branded table, team passes, and lead‑generation tools",
+        "Ticket discounts of up to $200 and a 50% off second ticket are available until September 25",
+        "Disrupt 2026 runs October 13‑15 at Moscone West and will host more than 10,000 founders, investors, and tech leaders",
+        "Early exhibitors can access networking opportunities like Deal Flow Café and Investor‑to‑Founder Networking"
+      ],
+      "topics": [
+        "tech conference",
+        "startup expo",
+        "exhibitor program",
+        "ticket discounts",
+        "disrupt 2026"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 14:15:00 +0000",
+      "processed_at": "2026-09-23T07:32:38.788908+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-21-metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "title": "Meta's Muse is outpacing ChatGPT’s early mobile launch | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta’s new AI app Muse has outpaced ChatGPT in its first 12 days on mobile, with 1.8 million iOS downloads in the U.S. and Canada versus 1.3 million for ChatGPT, according to Apptopia. Muse also leads in daily active users, reaching 642,000 U.S. users compared to ChatGPT’s 231,000, and has climbed to the top spot on the U.S. App Store, surpassing ChatGPT. The app’s cross‑promotion within Meta’s ecosystem—over 95% of Muse users are also Facebook users and 63% Instagram users—suggests a strong growth engine. These early metrics indicate Muse could become Meta’s next flagship mobile app.",
+      "key_points": [
+        "Muse logged 1.8 million iOS downloads in the U.S. and Canada in its first 12 days, beating ChatGPT’s 1.3 million",
+        "Muse’s U.S. daily active users hit 642,000 versus ChatGPT’s 231,000 at the same launch stage",
+        "Muse moved from #2 to #1 on the U.S. App Store, overtaking ChatGPT",
+        "More than 95% of Muse users are Facebook users and 63% are Instagram users, highlighting Meta’s cross‑promotion advantage"
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "chatgpt",
+        "appstore",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "processed_at": "2026-09-23T07:32:39.170204+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
@@ -2390,106 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 00:58:49 +0000",
       "processed_at": "2026-09-17T22:22:17.402373+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-x-will-now-let-u-s-users-trade-via-cashtags",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "title": "X will now let US users trade via Cashtags | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "X, formerly Twitter, has launched a Cashtag trading feature that lets U.S. users trade stocks, ETFs, and cryptocurrencies directly from their timelines through partners such as Interactive Brokers, Moomoo, Gemini, Kraken, and Coinbase. The feature builds on the long‑standing Cashtag convention—adding a dollar sign to ticker symbols—to turn them into interactive links that display live charts and related posts before routing the user to a brokerage. This move is part of X’s broader X Money strategy to monetize financial content and deepen user engagement. While the seamless trading experience is a draw, regulators and users warn that it could amplify market manipulation by bots and spammers.",
-      "key_points": [
-        "X introduces Cashtag trading for U.S. users with partners Interactive Brokers, Moomoo, Gemini, Kraken, and Coinbase",
-        "Cashtags turn ticker symbols into interactive links that show charts and conversation before routing to a brokerage",
-        "The feature is part of X’s X Money strategy to monetize financial content",
-        "Potential risk of increased market manipulation via bots and spammers"
-      ],
-      "topics": [
-        "social media",
-        "fintech",
-        "trading",
-        "cryptocurrency",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 19:57:22 +0000",
-      "processed_at": "2026-09-17T19:10:40.520264+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-last-call-disrupt-volunteer-application-closes-soon",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?resize=1200,800",
-      "title": "Last call: Disrupt volunteer application closes soon | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging last‑minute volunteers to apply for the upcoming Disrupt 2026 conference, with the application deadline on September 22. Volunteers receive a free three‑day pass (October 13‑15) and behind‑the‑scenes access to founders, VCs, and operators, offering insider knowledge that can shape future tech decisions. The event features major industry players such as OpenAI, Anthropic, and Replit across six stages, and volunteer spots are limited and will not reopen until next year. Act now to secure a spot and gain networking opportunities that many paid attendees miss.",
-      "key_points": [
-        "Application deadline is September 22 and volunteer spots are limited",
-        "Volunteers receive a free three‑day pass and insider access to founders, VCs, and operators",
-        "Disrupt 2026 hosts major players like OpenAI, Anthropic, and Replit across six stages",
-        "Volunteer positions will not reopen until next year"
-      ],
-      "topics": [
-        "tech events",
-        "volunteer",
-        "disrupt",
-        "startup ecosystem",
-        "networking"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 15:02:00 +0000",
-      "processed_at": "2026-09-17T19:10:40.355821+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/smart-oven-tovala.png?w=1200",
-      "title": "I tried Tovala's smart oven for two weeks — here's whether it beats takeout | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Tovala’s smart oven was put to the test over two weeks to see if it could deliver on its promise of effortless, home‑cooked meals. The countertop appliance automatically follows pre‑set recipes for over 45 weekly meal options, while the company’s meal plans range from 4 to 16 servings at $13.99 per single serving plus a $10.99 shipping fee. Though the convenience is undeniable, the reviewer found that some dishes—particularly meats—lacked the desired texture, prompting extra finishing steps. Overall, Tovala offers a compelling alternative to takeout for those who want quick, mostly hands‑off cooking, and its barcode‑scanning feature lets it handle grocery‑store products as well.",
-      "key_points": [
-        "Tovala’s oven automates cooking of pre‑portioned meals, offering convenience but mixed taste results",
-        "Meal plans range from 4 to 16 servings per week, costing $13.99 per single‑serving meal plus shipping",
-        "The oven can also cook grocery‑store products via barcode scanning, extending its utility beyond Tovala meals",
-        "Overall, Tovala is a compelling option for those who prefer takeout over cooking, though it may not replace home‑cooked quality"
-      ],
-      "topics": [
-        "smart oven",
-        "meal delivery",
-        "home cooking",
-        "tech gadgets",
-        "food tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-17T19:10:40.470121+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-2-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/Disrupt-2024-Exhibitors.jpg?resize=1200,800",
-      "title": "2 days left to exhibit at Disrupt 2026 |TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Disrupt 2026 is almost here, and the final opportunity to secure an exhibit table ends tomorrow, Friday, September 18 at 11:59 p.m. PT. The event will run October 13–15 at Moscone West in San Francisco, drawing over 10,000 founders, investors, and tech leaders across six industry stages. A 6′ × 30″ table gives exhibitors three days to showcase their product, plus 10 team passes, branding, press‑list access, and AI‑powered matchmaking. Tickets are also discounted up to $200 if purchased before September 25, offering a chance to connect with 250+ top‑tier tech leaders and 300+ startups.",
-      "key_points": [
-        "Last chance to book exhibit tables by September 18, 11:59 p.m. PT.",
-        "Exhibit tables include 10 passes, branding, and AI matchmaking.",
-        "Event runs Oct 13–15 at Moscone West with 10,000+ attendees.",
-        "Tickets discounted up to $200 if purchased before September 25."
-      ],
-      "topics": [
-        "tech",
-        "startups",
-        "events",
-        "expo",
-        "networking"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-17T19:11:06.004902+00:00"
     }
   ]
 }
