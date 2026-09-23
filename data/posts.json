@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-09-22T23:12:09.905263+00:00",
+  "updated_at": "2026-09-23T01:42:07.835747+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Qualcomm unveiled its Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 processors, both engineered to power AI‑centric features in smartphones. The chips feature new sensing hubs that can run small models up to 200 million parameters, a dedicated accelerator for efficient inference, and a 30‑billion‑parameter mixture‑of‑experts model that activates only the needed subset of parameters. The Extreme version also delivers pro‑level camera capabilities, including pixel‑level control, 8K 60fps video, 4K 240fps slow‑motion, and the Advanced Professional Video codec. Motorola’s upcoming Signature 27 will ship with the Extreme Gen 6, underscoring Qualcomm’s push to keep phones as the primary platform for AI applications.",
+      "key_points": [
+        "Snapdragon 8 Elite Gen 6 and Extreme Gen 6 bring AI‑focused sensing hubs and a 30‑billion‑parameter MoE model for local inference",
+        "Extreme Gen 6 supports 8K 60fps video, 4K 240fps slow‑motion, and the Advanced Professional Video codec",
+        "Motorola’s Signature 27 will launch with the Extreme Gen 6 later this year",
+        "Qualcomm aims to keep smartphones as the main AI device amid growing competition"
+      ],
+      "topics": [
+        "qualcomm",
+        "snapdragon",
+        "ai",
+        "smartphone",
+        "camera"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "processed_at": "2026-09-23T01:41:51.147653+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
+      "title": "Apple could take on Whoop with a new fitness tracker, report says | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Apple is reportedly developing a new screen‑less fitness tracker that would compete with Whoop, featuring a thin fabric band with a sensor‑equipped computing module. The company has built several prototypes and is conducting a technology investigation to decide whether to fully develop and release the product, with a projected launch no earlier than 2028. While Apple already sells the Apple Watch, the new form factor is more akin to Whoop’s simple fitness bands that track a range of health metrics. The move comes as Apple navigates a leadership transition, rising supply‑chain costs, and a slate of new devices and legal battles with OpenAI.",
+      "key_points": [
+        "Apple is exploring a screen‑less fitness tracker similar to Whoop’s band.",
+        "Prototype development is underway and a release is expected no earlier than 2028.",
+        "Apple is in a period of leadership change and supply‑chain challenges.",
+        "The company is also pursuing new devices and litigation against OpenAI."
+      ],
+      "topics": [
+        "fitness",
+        "apple",
+        "whoop",
+        "product development",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 19:27:57 +0000",
+      "processed_at": "2026-09-23T01:41:44.478803+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta’s Muse AI has been compared to the open‑source OpenClaw, and Meta’s product lead Nat Friedman confirmed the comparison is not accidental. Friedman said Muse was built from scratch but was \"heavily inspired\" by OpenClaw, and that the team adopted OpenClaw’s file structure and content because they believed it was well‑designed. The admission follows viral claims that Muse’s system files match OpenClaw’s almost exactly, including the SOUL.md personality file. Muse has already topped the U.S. App Store, suggesting Meta’s strategy to scale a proven design to billions of users is paying off.",
+      "key_points": [
+        "Meta acknowledges Muse was heavily inspired by OpenClaw and built from scratch",
+        "The team adopted OpenClaw’s file names and content because they believed it was well‑designed",
+        "Muse has topped the U.S. App Store, indicating strong user adoption"
+      ],
+      "topics": [
+        "meta",
+        "openclaw",
+        "ai",
+        "product",
+        "appstore"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "processed_at": "2026-09-23T01:41:44.807716+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-22-stolen-passwords-are-exposing-americas-water-providers-to-hackers",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/glen-canyon-dam-2290782874-getty.jpg?resize=1200,818",
@@ -2416,81 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 14:00:00 +0000",
       "processed_at": "2026-09-17T19:11:06.004902+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-musks-long-time-backer-is-giving-spacex-stock-to-its-investors",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=1024",
-      "title": "Musk's long-time backer is giving SpaceX stock to its investors | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Valor Equity Partners, founded by long‑time Elon Musk backer Antonio Gracias, has transferred 8.5% of its SpaceX holdings—worth roughly $8.5 billion—to its limited‑partner investors instead of liquidating the shares. The move keeps the shares off the open market, preventing a potential price dip, and may offer tax advantages to the LPs. After the giveaway, Valor will still own more than 460 million SpaceX shares. The decision comes as SpaceX shares have slipped about 10% since the company’s IPO.",
-      "key_points": [
-        "Valor Equity Partners gave 8.5% of its SpaceX shares, valued at about $8.5 billion, to its limited‑partner investors.",
-        "The transfer avoids a market dump and could provide tax benefits for the LPs.",
-        "Valor will retain over 460 million SpaceX shares after the giveaway.",
-        "SpaceX shares have fallen roughly 10% since the IPO."
-      ],
-      "topics": [
-        "spacex",
-        "valor equity partners",
-        "stock giveaway",
-        "investment",
-        "tax strategy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 23:50:07 +0000",
-      "processed_at": "2026-09-17T15:12:19.667292+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-16-us-automakers-could-soon-be-forced-to-include-am-radio-for-free",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/am-radio-getty.jpg?resize=1200,801",
-      "title": "US automakers could soon be forced to include AM radio for free | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "The House of Representatives has passed the AM Radio for Every Vehicle Act, a bipartisan bill that will require all new cars, trucks and SUVs to include AM radio at no extra cost to consumers. The legislation, co-sponsored by Senators Ed Markey and Ted Cruz, is expected to move to the Senate where it has strong support from both parties, the broadcast industry and emergency‑response groups. Many automakers—including Tesla, Rivian, BMW, Volvo and Ford—have removed AM radio from their models because of interference from electric motors, so the bill aims to preserve the emergency‑communication and entertainment value of AM radio for millions of Americans.",
-      "key_points": [
-        "House passed bipartisan AM Radio for Every Vehicle Act requiring AM radio in new vehicles at no cost",
-        "Senate likely to follow after bipartisan support and 60 co‑sponsors for the bill",
-        "Automakers have removed AM radio due to EV interference, raising concerns about emergency communication",
-        "The legislation could impact EV makers such as Tesla, Rivian, and Ford"
-      ],
-      "topics": [
-        "automotive",
-        "legislation",
-        "emergency communications",
-        "am radio",
-        "electric vehicles"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 22:37:08 +0000",
-      "processed_at": "2026-09-17T15:12:19.614513+00:00"
-    },
-    {
-      "id": "-com-2026-09-16-automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
-      "title": "Automattic's interim CEO and legal chief signed reciprocal severance deals during Mullenweg's brief ouster | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Automattic’s board placed CEO Matt Mullenweg on paid leave on September 9, a move the board has not publicly explained. Within the 33‑hour window before Mullenweg’s return, CFO Mark Davies, who had become interim CEO, and Chief Legal Officer Andy Missan signed each other’s severance agreements, creating a combined payout of $8.15 million. The agreements grant each executive a lump‑sum 12‑month salary, accelerated equity vesting, option exercise rights, and a year of health coverage, and they are contingent on a broad release and post‑employment restrictions. Automattic’s legal team is now deciding whether to honor the packages or challenge their validity amid a broader governance dispute that saw the board members who voted Mullenweg out depart the company.",
-      "key_points": [
-        "Mullenweg was put on paid leave and returned after 33 hours",
-        "Davies and Missan signed reciprocal severance deals worth $8.15M",
-        "The packages include 12‑month salary, accelerated equity, and health coverage",
-        "Board members who voted him out have left the company"
-      ],
-      "topics": [
-        "automattic",
-        "executive-turnover",
-        "severance",
-        "board-governance",
-        "legal"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 16 Sep 2026 19:35:29 +0000",
-      "processed_at": "2026-09-17T15:12:19.711120+00:00"
     }
   ]
 }
