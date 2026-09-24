@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-24T03:55:20.669175+00:00",
+  "updated_at": "2026-09-24T09:09:29.061532+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Eight-Sleep-feat.jpg?resize=1200,675",
+      "title": "Eight Sleep's new Pod 6 comes in smaller and solo sizes, starting at $1,999 | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Eight Sleep unveiled its Pod 6, a slimmer sleep‑tech mattress cover that now comes in solo and standard sizes and can adjust temperature 20% faster than its predecessor. The new pod is 50% smaller, fits most bed frames, and boasts nine times more sensors to deliver granular temperature control while ignoring data from pets or children. It launches in over 37 countries with solo units priced at $1,999 and standard units at $2,699, and the company is pursuing FDA approval to market the device as a medical solution for sleep apnea. Earlier this year Eight Sleep raised $50 million from Tether at a $1.5 billion valuation and is expanding its international footprint amid supply‑chain concerns from component shortages.",
+      "key_points": [
+        "Pod 6 is 50% smaller, offers solo and standard sizes, and adjusts temperature 20% faster than the previous model",
+        "The device contains nine times more sensors, enabling granular temperature control and ignoring pets or children on the bed",
+        "Pricing starts at $1,999 for solo units and $2,699 for standard units, available in 37+ countries",
+        "Eight Sleep is seeking FDA approval for sleep apnea treatment and recently raised $50 million at a $1.5 billion valuation"
+      ],
+      "topics": [
+        "sleep tech",
+        "pod",
+        "pricing",
+        "fda",
+        "international"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 14:45:00 +0000",
+      "processed_at": "2026-09-24T09:09:25.869341+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-youtube-will-let-you-build-your-own-algorithm-with-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675",
+      "title": "YouTube will let you build your own algorithm with AI | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "YouTube has unveiled a new feature called custom feeds that lets users describe the type of videos they want recommended, using prompts that are processed by Google’s Gemini AI model. The resulting feed is pinned to the top of the home page in its own tab, allowing users to quickly switch between multiple tailored feeds while the main recommendation feed remains unchanged. Support for creating multiple custom feeds will roll out across web and mobile next month, following a broader industry trend of AI‑powered feed customization by platforms such as Meta, X, and Spotify.",
+      "key_points": [
+        "YouTube introduces prompt‑based custom feeds powered by Gemini AI.",
+        "Custom feeds appear as pinned tabs and do not replace the main recommendation feed.",
+        "Multiple custom feeds will be available on web and mobile starting next month.",
+        "The feature aligns with a growing trend of AI‑driven feed personalization across social networks."
+      ],
+      "topics": [
+        "youtube",
+        "ai",
+        "customfeeds",
+        "gemini",
+        "socialmedia"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-09-24T09:09:02.101728+00:00"
+    },
+    {
+      "id": "echcrunch-com-2026-09-23-spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Taste-Profile_Blog-header.png?resize=1200,458",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of 'Taste Profile' | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Spotify has begun rolling out its new \"Taste Profile\" feature to Premium subscribers in the United States, allowing users to see and edit how the platform’s AI shapes their Home feed recommendations. The tool, first unveiled at SXSW and previously beta‑tested in New Zealand, lets listeners request changes via natural language to add variety or reduce certain genres, artists, or vibes. By directly adjusting their Taste Profile, users can influence playlists such as Discover Weekly, Made for You, and Spotify Wrapped, giving them unprecedented control over the algorithm that drives their listening experience. The feature remains in beta with no announced wider release date, but it signals Spotify’s move toward more transparent and user‑driven recommendation systems.",
+      "key_points": [
+        "Taste Profile lets Premium users edit Spotify’s recommendation algorithm using natural language commands.",
+        "The feature was first introduced at SXSW and beta‑tested in New Zealand before launching in the U.S. market.",
+        "Users can add or remove genres, artists, or vibes to diversify or refine their Home feed, Discover Weekly, and Wrapped playlists.",
+        "Spotify keeps the feature in beta and has not yet set a timeline for broader availability."
+      ],
+      "topics": [
+        "spotify",
+        "recommendation",
+        "ai",
+        "music streaming",
+        "user experience"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-24T09:09:02.464423+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-22-singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800",
+      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Singapore‑based startup Nexstrom is developing a 300mm wafer system called North Star that grows transition‑metal dichalcogenide (TMD) 2D semiconductors directly on chip wafers, offering a path to further shrink silicon transistors. The company has raised a $12 million seed round, bringing its total funding to $15 million, and plans to use the money to refine process control, expand its team, and qualify its equipment with industry partners. Nexstrom is positioning itself as a supplier to major foundries such as TSMC, Intel, and Samsung rather than competing with them, and expects its equipment to reach commercial production between 2030 and 2035. This effort follows a broader industry push, with players like TSMC, Intel, and IMEC exploring 2D materials to address silicon scaling limits and the ongoing global component shortage.",
+      "key_points": [
+        "Nexstrom’s North Star system can grow TMD 2D semiconductors on 300mm wafers for chip manufacturing",
+        "The startup raised $12 million in seed funding, totaling $15 million, to scale its technology toward commercial production by 2030‑35",
+        "It aims to partner with major foundries rather than compete directly with industry giants",
+        "2D materials offer a promising route to overcome the challenges of further shrinking silicon transistors"
+      ],
+      "topics": [
+        "semiconductors",
+        "2d materials",
+        "chip manufacturing",
+        "startup",
+        "foundry technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 22 Sep 2026 13:20:00 +0000",
+      "processed_at": "2026-09-24T09:09:02.366178+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?resize=1200,649",
@@ -2390,105 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 18 Sep 2026 17:59:53 +0000",
       "processed_at": "2026-09-18T23:30:21.830848+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/29395589440_9fda12ac24_k.jpg?resize=1200,800",
-      "title": "Final 24 hours to exhibit at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Disrupt 2026 will take place October 13–15 at Moscone West in San Francisco and will bring more than 10,000 founders, investors, operators, and tech leaders to a three‑day expo hall and six industry stages. The final 24 hours to book an exhibit table end at 11:59 p.m. PT on September 18, after which startups can no longer add themselves to the Expo Hall. A $12,500 exhibit package provides a 6′ × 30″ table for all three days, ten team passes, and access to the Deal Flow Café and Investor‑to‑Founder networking, giving companies a chance to demo products, meet VCs, and generate leads. Regular ticket pricing for the event ends September 25, offering up to $200 in savings before rates increase.",
-      "key_points": [
-        "Exhibit table bookings close at 11:59 p.m. PT on September 18, 2026.",
-        "The $12,500 exhibit package includes a 6′ × 30″ table, ten passes, and access to Deal Flow Café and Investor‑to‑Founder networking.",
-        "Disrupt 2026 will host over 10,000 attendees, 200+ sessions, and six industry stages from October 13–15.",
-        "Regular ticket pricing ends September 25, with discounts of up to $200 before the price increase."
-      ],
-      "topics": [
-        "tech events",
-        "startup expo",
-        "investor networking",
-        "disrupt",
-        "techcrunch"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-18T21:08:09.221737+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-google-deepmind-launches-institute-to-widen-the-agi-debate",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
-      "title": "Google DeepMind launches institute to widen the AGI debate | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Google and DeepMind have launched the DeepMind Institute to broaden the conversation around artificial general intelligence. The institute, led by directors Shane Legg, James Manyika, and Demis Hassabis, will surface differing views between Google, DeepMind, and the global research community. Its first collection of essays tackles economic policy, model transparency, human flourishing, and a framework for evaluating frontier AI models. The initiative signals a shift from abstract concerns to concrete safety proposals and potential coordinated slowdowns in the AI industry.",
-      "key_points": [
-        "DeepMind Institute created with directors Legg, Manyika, and Hassabis to surface differing AGI views",
-        "First essays propose transparency safeguards, a U.S. standards body, and an evaluation framework for frontier AI models",
-        "Industry moves toward concrete safety proposals and coordinated slowdowns"
-      ],
-      "topics": [
-        "artificial general intelligence",
-        "ai safety",
-        "deepmind",
-        "google",
-        "research institute"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
-      "processed_at": "2026-09-18T18:09:46.959823+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-is-the-ai-safety-debate-about-safety-or-control",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "title": "Is the AI safety debate about safety or control? | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "The TechCrunch article examines the current debate over AI safety, highlighting a split between executives who favor industry‑driven safeguards and those who call for international collaboration and deceleration of AI development. Anthropic’s CEO Dario Amodei has published a 4,000‑word essay urging a global strategy to deploy guardrails, a stance that has been echoed by OpenAI’s Sam Altman and xAI’s Elon Musk but rejected by some who see government oversight as unnecessary. Meanwhile, Meta’s Mark Zuckerberg and other tech leaders argue that market incentives and internal safety protocols will ultimately prevent chaos, while a private AI standards organization is forming to self‑regulate. The discussion also touches on geopolitical implications, with U.S. officials and Chinese critics debating whether safety measures could be used to gain a competitive edge over rivals like China.",
-      "key_points": [
-        "Anthropic’s Amodei essay calls for deceleration and international collaboration to deploy AI guardrails",
-        "Major executives such as Zuckerberg, Altman, and Musk support industry‑led safety but largely reject mandatory government regulation",
-        "A private AI standards body is emerging, raising concerns about regulatory capture and the exclusion of smaller firms",
-        "Geopolitical stakes are high, with U.S. and Chinese officials debating whether safety measures could be used to shift competitive advantage"
-      ],
-      "topics": [
-        "ai safety",
-        "regulation",
-        "industry",
-        "geopolitics",
-        "corporate governance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "processed_at": "2026-09-18T18:09:47.883224+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-09-17-khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Mazama Energy, a Khosla‑Ventures incubated geothermal startup, raised an oversubscribed $135 million Series B to build horizontal wells in superhot rock that can generate 15 megawatts of electricity per well. The funding will accelerate development of its first Oregon site, which the company now estimates could produce 10 gigawatts—up from the 5 gigawatt figure announced last year—and aims to start generating power next year. By drilling to about 15,000 feet, Mazama can tap 750 °F supercritical fluid that delivers up to ten times the energy of conventional geothermal, positioning the firm as a dark horse in the race to power AI data centers and other large grid loads.",
-      "key_points": [
-        "Mazama Energy secured $135 million in an oversubscribed Series B to develop superhot‑rock geothermal wells.",
-        "The company targets 15,000‑foot depth, producing 15 MW per well and a first Oregon site that could reach 10 GW of power.",
-        "Funding was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips, Shell Ventures, Khosla Ventures, Gates Frontier and others.",
-        "Supercritical fluid at 750 °F allows up to ten times the power of traditional geothermal, with a global potential of 63 TW if 1 % of superhot rock is tapped."
-      ],
-      "topics": [
-        "geothermal",
-        "cleanenergy",
-        "startup",
-        "investment",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 00:02:36 +0000",
-      "processed_at": "2026-09-18T18:09:47.301990+00:00"
     }
   ]
 }
