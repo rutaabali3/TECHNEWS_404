@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-24T14:20:40.482868+00:00",
+  "updated_at": "2026-09-24T18:36:51.045496+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Enveda has secured $311 million in a Series E round that values the company at $2 billion, a doubling of its valuation from a year ago, with Catalio Capital Management leading the investment alongside Iconiq and other participants. The biotech, founded in 2019 by former Recursion Pharmaceuticals employee Viswa Colluru, uses artificial intelligence to identify therapeutic compounds from plants and microbes rather than synthesizing them in a lab. Several of Enveda’s AI‑discovered candidates are already in human clinical trials, including a treatment for severe skin conditions and a drug aimed at sustaining weight loss after stopping GLP‑1 therapies. The new capital positions Enveda among the growing cohort of AI‑driven drug discovery firms advancing candidates into clinical testing, underscoring the increasing role of AI in biopharma R&D.",
+      "key_points": [
+        "$311 million Series E led by Catalio Capital values Enveda at $2 billion, doubling last year’s valuation",
+        "Enveda applies AI to discover drugs from natural sources, founded by former Recursion employee Viswa Colluru",
+        "Multiple AI‑identified candidates are in human trials, targeting skin disorders and weight‑loss maintenance",
+        "The funding strengthens Enveda’s position in the expanding AI‑driven drug discovery landscape"
+      ],
+      "topics": [
+        "biotech",
+        "ai",
+        "drug discovery",
+        "funding",
+        "clinical trials"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "processed_at": "2026-09-24T18:36:29.466029+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-highlander-getty.jpg?resize=1200,800",
+      "title": "Exclusive: Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "author": "Sean O'Kane",
+      "summary": "Zoox has grounded its autonomous vehicle test fleet in Atlanta after workers reported symptoms of toxic gas exposure, including carbon monoxide, carbon dioxide, and hydrogen sulfide, inside its vehicles. OSHA opened an inquiry following a complaint filed by a contractor, and the company has investigated the incidents, replaced 12‑volt batteries, and added CO2 monitors that will detect other gases. The company says fewer than 40 workers were exposed, but the incidents have halted test operations in the market while investigations continue. The episode underscores safety risks as Zoox expands its fleet in cities like Las Vegas and San Francisco, a sector where other robotaxi developers use electric vehicles that do not produce exhaust gases.",
+      "key_points": [
+        "Zoox grounded its Atlanta test fleet after workers reported toxic gas exposure symptoms",
+        "OSHA opened an inquiry after a contractor filed a complaint",
+        "The company investigated, replaced batteries, and added CO2 monitors to detect other gases",
+        "The incident highlights safety risks amid Zoox’s rapid expansion into new cities"
+      ],
+      "topics": [
+        "zoox",
+        "autonomous vehicles",
+        "safety",
+        "osha",
+        "toxic gas"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 17:28:38 +0000",
+      "processed_at": "2026-09-24T18:36:29.225995+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
@@ -2442,56 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 18 Sep 2026 17:09:56 +0000",
       "processed_at": "2026-09-19T08:40:34.543986+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Manus, a Chinese AI startup that had to terminate a $2B acquisition deal with Meta, is now pursuing a $500 million funding round at a $4 billion valuation after resuming independent operations. The round could see participation from IDG Capital, Boyu Capital, Contemporary Amperex Technology, and existing backers Tencent, HSG, and ZhenFund, while the company also plans a restructuring to position itself for a Hong Kong IPO. Manus, which generated over $100 million in annual recurring revenue before the failed deal, had relocated staff to Singapore in mid‑2025 and had been buying back shares at a $2 billion valuation during its separation from Meta. The company’s AI products—including a chatbot and vibe‑coding tools—mirror offerings from OpenAI and Replit, and it has announced that its founding team will continue to lead the venture.",
-      "key_points": [
-        "Manus seeks $500M at a $4B valuation after ending a $2B Meta deal",
-        "Potential investors include IDG Capital, Boyu Capital, Contemporary Amperex Technology, Tencent, HSG, and ZhenFund",
-        "The startup plans a restructuring to prepare for a Hong Kong IPO",
-        "Manus had over $100M ARR and relocated staff to Singapore before the failed acquisition"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "china",
-        "ipo"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 16:35:49 +0000",
-      "processed_at": "2026-09-19T08:40:58.582318+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
-      "title": "Joby Aviation's 3,100-mile autonomous flight signals its push beyond electric air taxis | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Joby Aviation completed the first fully autonomous cross‑country flight in the United States, covering more than 3,100 miles in a converted Cessna Caravan without a human pilot taking control. The aircraft performed autonomous taxiing, takeoffs, navigation and landings while a pilot remained on board for compliance and the flight was remotely supervised from Joby’s California headquarters and Shaw Air Force Base. The demonstration showcased the company’s autonomy stack in varied environments, hinting at future applications in medical transport, disaster response and defense logistics. It also signals Joby’s intent to expand beyond its electric vertical take‑off and landing air‑taxi vision, with plans for autonomous regional airframes supported by a $17 million Air Force contract and a recent $500 million acquisition of Resonant Sciences.",
-      "key_points": [
-        "Joby completed the first fully autonomous 3,100‑mile flight in a converted Cessna Caravan.",
-        "The autonomy stack proved capable of medical transport, disaster response and defense logistics.",
-        "Joby is pursuing a second business line of autonomous regional airframes, backed by a $17 million Air Force contract.",
-        "The company’s defense focus is reinforced by a $500 million acquisition of Resonant Sciences."
-      ],
-      "topics": [
-        "autonomous flight",
-        "joby aviation",
-        "defense",
-        "electric air taxi",
-        "aerospace"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 17:26:41 +0000",
-      "processed_at": "2026-09-19T03:52:17.122612+00:00"
     }
   ]
 }
