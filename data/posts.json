@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-24T18:36:51.045496+00:00",
+  "updated_at": "2026-09-24T22:07:56.520316+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-meta-introduces-camera-free-ai-glasses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+      "title": "Meta introduces camera-free AI glasses | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta unveiled its first camera‑free AI glasses, the Ray‑Ban Meta Audio, at Connect 2026 to address privacy concerns that plagued earlier camera‑enabled models. The audio‑only glasses, priced at $349, weigh 43 grams, offer up to 12 hours of battery life on a single charge and support music, podcasts, calls, speech translation and the Muse AI assistant. They come in 23 color and lens combinations, including retro‑inspired Clubmaster and classic Burbank styles, and will be available for preorder on October 13. Meta also announced its next‑generation camera glasses, the Ray‑Ban Meta Gen 3, and teased additional software updates such as Dolby Atmos Capture and private data processing.\n",
+      "key_points": [
+        "Meta launches camera‑free AI glasses to mitigate privacy backlash",
+        "The Ray‑Ban Meta Audio starts at $349, weighs 43 g, and offers 12‑hour battery life",
+        "Preorders begin October 13 with 23 color/lens options and prescription compatibility",
+        "Meta also reveals next‑gen camera glasses and new software features"
+      ],
+      "topics": [
+        "meta",
+        "ai glasses",
+        "privacy",
+        "audio",
+        "eyewear"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "processed_at": "2026-09-24T22:07:31.748795+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
+      "title": "Disney+ and Hulu add to the growing trend of streaming inflation | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Disney has raised the price of its ad‑free Disney+ and Hulu bundle to $21.99 a month, up from $19.99, and the stand‑alone ad‑free plans to $21.49, up from $18.99, while the ad‑supported plans now cost $12.49 a month. The move follows a broader industry trend of streaming inflation, with Peacock, Apple TV and Netflix also hiking prices earlier this year. Disney said its streaming revenue rose 11% to $5.5 billion in the third quarter of 2026, driven by subscriber growth and prior price increases, and the company is also exploring a free tier and new discovery features such as Playlists while hiring a chief technology officer.",
+      "key_points": [
+        "Disney+ and Hulu ad‑free bundle now $21.99, stand‑alone ad‑free plans $21.49, ad‑supported plans $12.49",
+        "The hikes are part of a wider streaming inflation trend after Peacock, Apple TV and Netflix raised prices",
+        "Disney’s streaming revenue grew 11% to $5.5 billion in Q3 2026, reflecting subscriber gains and price impacts",
+        "Disney is testing a free tier, adding Playlists for content discovery, and has hired a new CTO"
+      ],
+      "topics": [
+        "streaming",
+        "disney",
+        "pricehike",
+        "inflation",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 18:06:27 +0000",
+      "processed_at": "2026-09-24T22:07:31.869204+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Ask-YouTube-Title-Card.jpg?resize=1200,675",
+      "title": "YouTube doubles down on video shopping with AI-powered 'Ask YouTube' feature | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "YouTube has expanded its AI‑powered conversational search feature, Ask YouTube, to serve as a shopping companion, adding product recommendations, comparison tables, and the ability to ask follow‑up questions directly on a video’s watch page. The company says the changes are driven by user behavior and creator insights, and that a custom Gemini model maps complex questions to the exact second in a video that provides the answer. In June, 140 million people used Ask YouTube—a more than 500% increase since December—highlighting rapid adoption. The new shopping‑focused capabilities aim to turn passive search into an instant, meaningful connection between viewers, creators, and products.",
+      "key_points": [
+        "YouTube adds shopping features to Ask YouTube, including product recommendations and comparison tables.",
+        "Users can ask follow‑up questions directly on a video’s watch page.",
+        "140 million users used Ask YouTube in June, a 500% jump since December.",
+        "A custom Gemini model maps complex queries to exact video timestamps."
+      ],
+      "topics": [
+        "youtube",
+        "ai",
+        "shopping",
+        "video",
+        "conversational search"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-09-24T22:07:31.747348+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-09-23-heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/elizabeth-holmes-sentence-1.jpg?resize=1200,800",
+      "title": "Here's the trailer for Nathan Fielder's Elizabeth Holmes documentary, in theaters October 16 | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "A new documentary titled \"You Can See Everything\" directed by comedian‑filmmaker Nathan Fielder will hit theaters on October 16, chronicling the rise and fall of Elizabeth Holmes, the founder of Theranos. The film, produced by A24, promises a blend of Fielder’s signature awkward humor with a deep dive into Holmes’s controversial claims and ongoing denial of wrongdoing. TechCrunch’s preview highlights the film’s potential to spark debate about corporate accountability and the limits of public trust. The release comes amid a broader cultural fascination with tech scandals and the personalities behind them.",
+      "key_points": [
+        "Nathan Fielder directs a documentary on Elizabeth Holmes titled \"You Can See Everything\"",
+        "The film premieres in theaters on October 16 and is produced by A24",
+        "It blends Fielder’s comedic style with an investigative look at Theranos and Holmes’s denial of guilt"
+      ],
+      "topics": [
+        "documentary",
+        "theranos",
+        "nathan fielder",
+        "elizabeth holmes",
+        "a24"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 14:21:41 +0000",
+      "processed_at": "2026-09-24T22:07:31.638038+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Networking_disrupt.png?resize=1200,800",
+      "title": "3 days left to save up to $200 and make impactful connections at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is urging last‑minute buyers to secure discounted tickets for Disrupt 2026, offering up to $200 off and a 50% discount on a second ticket before the September 25 deadline. The conference will take place at San Francisco’s Moscone West from October 13‑15 and will bring together more than 10,000 founders, investors, and operators, including big names such as OpenAI, Anthropic, and Replit. Attendees can schedule AI‑powered one‑on‑one meetings through the event app, access a dedicated networking lounge, and participate in industry meetups and roundtables to spark meaningful conversations. The event’s emphasis on intentional networking and real‑time matchmaking highlights its role as a catalyst for new partnerships, funding opportunities, and talent acquisition in the tech ecosystem.",
+      "key_points": [
+        "Ticket savings of up to $200 and a 50% discount on a second ticket expire on September 25, 11:59 p.m. PT",
+        "Disrupt 2026 will host over 10,000 founders, investors, and operators at Moscone West from October 13‑15",
+        "The event offers AI‑powered matchmaking, a networking lounge, and industry meetups to facilitate connections",
+        "Attendees are encouraged to plan a networking schedule and use the event app to book one‑on‑one meetings"
+      ],
+      "topics": [
+        "tech events",
+        "networking",
+        "ai",
+        "startup",
+        "conferences"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-24T22:07:31.894225+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
       "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
@@ -2368,130 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 18 Sep 2026 15:22:48 +0000",
       "processed_at": "2026-09-19T18:44:53.779407+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-researchers-used-anthropics-claude-to-hack-into-openai",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1979406539.jpg?resize=1200,675",
-      "title": "Researchers used Anthropic's Claude to hack into OpenAI | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Researchers from Hacktron AI used Anthropic’s Claude Opus 5 to chain two vulnerabilities in OpenAI’s community forum software, Discourse, and gain access to multiple OpenAI employee ChatGPT accounts. The attack exploited a memory bug in libheif that had been fixed months earlier but not formally tracked, allowing the team to hijack the server via a specially crafted HEIF image upload. OpenAI reported the findings, fixed the issues, and awarded Hacktron $6,500 under its bug‑bounty program. The incident underscores how readily available AI tools can accelerate exploit development and highlights growing concerns over AI‑driven cybersecurity threats.",
-      "key_points": [
-        "Hacktron AI leveraged Anthropic’s Claude Opus 5 to exploit a libheif memory bug in Discourse, giving them access to OpenAI employee accounts",
-        "OpenAI resolved the vulnerabilities and rewarded the researchers $6,500 through its bug‑bounty program",
-        "The event illustrates how off‑the‑shelf AI models can lower the barrier to creating sophisticated exploits"
-      ],
-      "topics": [
-        "ai security",
-        "bug bounty",
-        "openai",
-        "anthropic",
-        "image processing"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 14:00:14 +0000",
-      "processed_at": "2026-09-19T18:44:42.438860+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
-      "title": "Amazon-owned Zoox's 100-robotaxi limit in Nevada is about to disappear | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "The Nevada Transportation Authority will lift its 100‑robotaxi cap on September 25, allowing Amazon‑owned Zoox to expand its fleet in Las Vegas at a time when rivals such as Waymo, Tesla and Uber are also gaining permits. Zoox currently operates about 100 custom‑built robotaxis across four U.S. cities, with the majority in Las Vegas and San Francisco, and has begun charging riders after receiving a federal safety exemption. The removal of the cap gives Zoox more flexibility to grow its commercial operations in a market that could soon host up to 7,000 robotaxis from multiple companies. This regulatory change positions Zoox to compete more aggressively in the burgeoning autonomous ride‑hailing sector.\n",
-      "key_points": [
-        "The Nevada Transportation Authority will lift Zoox’s 100‑robotaxi cap on September 25, freeing the company to expand its Las Vegas fleet.",
-        "Zoox currently operates roughly 100 robotaxis, mainly in Las Vegas and San Francisco, and has started charging riders after a federal safety exemption.",
-        "Waymo, Tesla and Uber already hold permits that could bring up to 7,000 robotaxis to Clark County in the next year.",
-        "The cap removal comes as competition heats up, giving Zoox a chance to increase its presence in a key market.\n"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "robotaxi",
-        "regulation",
-        "las vegas",
-        "amazon"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 23:08:24 +0000",
-      "processed_at": "2026-09-19T12:58:27.341678+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-family-offices-are-clamoring-for-ai-investments",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1957635505.jpg?resize=1200,675",
-      "title": "Family offices are clamoring for AI investments | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Family offices are increasingly allocating capital to AI companies, favoring direct and secondary deals over traditional VC funds. Advisors like Djoann Fal report that the upside potential of AI—triple returns in months—outweighs longer‑term green‑energy bets, prompting offices to chase single‑name stakes. The shift is driven by a growing pool of $5.5 trillion in family‑office wealth, rising alternative‑investment exposure, and a belief that secondary market stakes offer de‑risked exposure to proven AI firms. Despite concerns about inflated valuations and macro risks, 65% of global family offices plan to prioritize AI, signaling a bullish stance that could reshape private‑equity deal flow.",
-      "key_points": [
-        "Family offices are moving away from blind‑pool VC funds toward direct and secondary AI investments.",
-        "The high upside of AI—potential 3x returns in months—drives this shift.",
-        "Secondary market stakes are seen as de‑risked because they target companies with traction and revenue.",
-        "65% of global family offices plan to prioritize AI despite valuation concerns."
-      ],
-      "topics": [
-        "family offices",
-        "ai investments",
-        "secondary market",
-        "venture capital",
-        "private equity"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-19T12:58:27.953408+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-in-india-the-new-iphone-can-arrive-faster-than-a-pizza",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800",
-      "title": "In India, the new iPhone can arrive faster than a pizza | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Apple’s new iPhone 18 Pro and Pro Max were delivered to Indian customers in about ten minutes through quick‑commerce apps such as Blinkit, Zepto, Instamart and BigBasket, bypassing traditional retail queues. The launch saw strong demand, with BigBasket shipping over 300 units in the first hour and Bengaluru topping Instamart’s orders, but availability quickly became uneven across cities. Industry analysts note that India’s quick‑commerce market hit roughly $9 billion in the first half of 2026 and could reach $50 billion by 2030, yet smartphone sales through these channels are still limited to launch‑day hype rather than sustained purchases. The rapid delivery model demonstrates a proof of concept for high‑value electronics, but its long‑term impact on regular smartphone buying remains uncertain.",
-      "key_points": [
-        "iPhone 18 Pro/Max were delivered in about 10 minutes via quick‑commerce apps in India",
-        "India’s quick‑commerce sector grew to $9 billion in H1 2026 and may reach $50 billion by 2030",
-        "Demand was high on launch day but availability became patchy across cities",
-        "Quick commerce is seen as a launch‑day marketing phenomenon rather than a major sales channel yet"
-      ],
-      "topics": [
-        "quick commerce",
-        "iphone",
-        "india",
-        "electronics",
-        "ecommerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 17:45:00 +0000",
-      "processed_at": "2026-09-19T08:40:34.350694+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
-      "title": "Dario Amodei and other AI leaders want to 'Pace the Frontier' but…how? | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "After a doomsday warning from an Anthropic researcher rattled the AI community, Anthropic CEO Dario Amodei unveiled a proposal to \"pace the frontier\" of AI development. The plan calls for independent safety evaluators and coordinated oversight among AI labs in democratic nations, aiming to slow progress responsibly while maintaining innovation. The proposal has already attracted support from several industry players but also drew sharp criticism from Nvidia CEO Jensen Huang, who questioned the feasibility and enforcement of such measures. TechCrunch’s Equity podcast hosts discuss whether companies can agree on what slowing down means and who should police it, alongside other tech news such as Automattic’s boardroom coup and recent deals.",
-      "key_points": [
-        "Amodei proposes independent safety evaluators and coordination among democratic AI labs to pace AI development",
-        "Industry support is mixed, with Nvidia’s Jensen Huang criticizing the plan’s feasibility and enforcement",
-        "Equity podcast explores the practicality of slowing AI progress and determining who would police it",
-        "Additional tech news includes Automattic’s boardroom coup and recent deals"
-      ],
-      "topics": [
-        "ai safety",
-        "anthropic",
-        "nvidia",
-        "tech policy",
-        "industry debate"
-      ],
-      "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 17:09:56 +0000",
-      "processed_at": "2026-09-19T08:40:34.543986+00:00"
     }
   ]
 }

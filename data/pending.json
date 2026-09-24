@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-09-24T18:36:28.146501+00:00",
+  "updated_at": "2026-09-24T22:07:30.600337+00:00",
   "items": [
     {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "feed_excerpt": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "feed_excerpt": "YouTube's AI feature can now help you compare products as you shop.",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-      "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-      "feed_excerpt": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
-      "published": "Wed, 23 Sep 2026 14:21:41 +0000"
-    },
-    {
-      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
-      "published": "Wed, 23 Sep 2026 14:00:00 +0000"
     },
     {
       "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
@@ -38,12 +20,6 @@
       "published": "Wed, 23 Sep 2026 19:05:00 +0000"
     },
     {
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-      "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "feed_excerpt": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-      "published": "Wed, 23 Sep 2026 18:06:27 +0000"
-    },
-    {
       "title": "ChatGPT mobile app gets voice-based agentic features",
       "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "feed_excerpt": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
@@ -54,12 +30,6 @@
       "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
       "feed_excerpt": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
       "published": "Wed, 23 Sep 2026 23:47:35 +0000"
-    },
-    {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "feed_excerpt": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "published": "Wed, 23 Sep 2026 23:39:44 +0000"
     },
     {
       "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
@@ -168,7 +138,31 @@
       "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
       "feed_excerpt": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
       "published": "Thu, 24 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "feed_excerpt": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "published": "Thu, 24 Sep 2026 20:45:00 +0000"
+    },
+    {
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "feed_excerpt": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "published": "Thu, 24 Sep 2026 19:15:00 +0000"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "feed_excerpt": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "published": "Thu, 24 Sep 2026 19:00:42 +0000"
+    },
+    {
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "feed_excerpt": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "published": "Thu, 24 Sep 2026 18:52:38 +0000"
     }
   ],
-  "last_processed_at": "2026-09-24T18:36:29.466138+00:00"
+  "last_processed_at": "2026-09-24T22:07:31.894266+00:00"
 }
