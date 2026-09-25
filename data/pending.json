@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-25T16:52:16.390544+00:00",
+  "updated_at": "2026-09-25T20:19:30.585986+00:00",
   "items": [
-    {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "feed_excerpt": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000"
-    },
     {
       "title": "Australia to investigate if OpenAI hack of government health website broke the law",
       "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
       "feed_excerpt": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
       "published": "Thu, 24 Sep 2026 12:54:19 +0000"
-    },
-    {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "feed_excerpt": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "published": "Thu, 24 Sep 2026 18:11:44 +0000"
     },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
@@ -26,28 +14,10 @@
       "published": "Thu, 24 Sep 2026 17:39:24 +0000"
     },
     {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "published": "Thu, 24 Sep 2026 16:03:36 +0000"
-    },
-    {
       "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
       "published": "Thu, 24 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "feed_excerpt": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "feed_excerpt": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "published": "Thu, 24 Sep 2026 20:45:00 +0000"
     },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
@@ -138,7 +108,49 @@
       "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
       "feed_excerpt": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
       "published": "Fri, 25 Sep 2026 13:24:34 +0000"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "feed_excerpt": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "published": "Fri, 25 Sep 2026 19:13:38 +0000"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "published": "Fri, 25 Sep 2026 18:48:33 +0000"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "feed_excerpt": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "published": "Fri, 25 Sep 2026 18:33:59 +0000"
+    },
+    {
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "feed_excerpt": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+      "published": "Fri, 25 Sep 2026 17:30:00 +0000"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "feed_excerpt": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "published": "Fri, 25 Sep 2026 17:29:46 +0000"
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "feed_excerpt": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "published": "Fri, 25 Sep 2026 17:24:36 +0000"
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "feed_excerpt": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-25T16:52:46.418154+00:00"
+  "last_processed_at": "2026-09-25T20:19:56.479927+00:00"
 }
