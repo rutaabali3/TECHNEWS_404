@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:41:46.763758+00:00",
+  "updated_at": "2026-09-25T16:52:16.390544+00:00",
   "items": [
     {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
@@ -26,40 +26,16 @@
       "published": "Thu, 24 Sep 2026 17:39:24 +0000"
     },
     {
-      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "feed_excerpt": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "published": "Thu, 24 Sep 2026 16:35:13 +0000"
-    },
-    {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
       "published": "Thu, 24 Sep 2026 16:03:36 +0000"
     },
     {
-      "title": "Google tests letting Gemini call businesses for you",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "feed_excerpt": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
-    },
-    {
       "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
       "published": "Thu, 24 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "feed_excerpt": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
-      "published": "Thu, 24 Sep 2026 14:43:25 +0000"
-    },
-    {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "feed_excerpt": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
-      "published": "Thu, 24 Sep 2026 14:31:00 +0000"
     },
     {
       "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
@@ -102,7 +78,67 @@
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
       "feed_excerpt": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "published": "Fri, 25 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "feed_excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+      "published": "Fri, 25 Sep 2026 16:16:52 +0000"
+    },
+    {
+      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "feed_excerpt": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+      "published": "Fri, 25 Sep 2026 15:52:13 +0000"
+    },
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "feed_excerpt": "The latest unauthorized agent swarms were discovered by researchers.",
+      "published": "Fri, 25 Sep 2026 15:48:14 +0000"
+    },
+    {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "feed_excerpt": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "published": "Fri, 25 Sep 2026 15:40:03 +0000"
+    },
+    {
+      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+      "feed_excerpt": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+      "published": "Fri, 25 Sep 2026 15:24:50 +0000"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "feed_excerpt": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+      "published": "Fri, 25 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "feed_excerpt": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "published": "Fri, 25 Sep 2026 14:15:00 +0000"
+    },
+    {
+      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+      "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+      "feed_excerpt": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
+      "published": "Fri, 25 Sep 2026 14:05:04 +0000"
+    },
+    {
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "feed_excerpt": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+      "published": "Fri, 25 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+      "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+      "feed_excerpt": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+      "published": "Fri, 25 Sep 2026 13:24:34 +0000"
     }
   ],
-  "last_processed_at": "2026-09-25T11:42:16.539966+00:00"
+  "last_processed_at": "2026-09-25T16:52:46.418154+00:00"
 }

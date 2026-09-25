@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-25T11:42:20.039757+00:00",
+  "updated_at": "2026-09-25T16:52:48.402078+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-24-twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
+      "title": "ElevenLabs' CEO on margins, IPO timing, and telling customers they're talking to a bot | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "ElevenLabs CEO Mati Staniszewski discussed the company’s rapid growth, noting it now generates $600 million in annual recurring revenue and is valued at $22 billion, while also addressing the challenge of maintaining high gross margins as it expands market share. He confirmed the firm’s focus on delivering conversational AI that passes the Turing test, emphasizing the need for emotional intelligence and the use of both frontier and open‑weight models depending on the application. Staniszewski said the company will likely disclose when customers are speaking to an AI, and he hinted that an IPO could be targeted around 2028, though it remains contingent on timing and market conditions. The interview highlighted competition from companies like Decagon, the importance of data residency for government clients, and the company’s willingness to lower margins to prove value to customers.",
+      "key_points": [
+        "ElevenLabs is generating $600 million ARR and valued at $22 billion, yet it is willing to squeeze margins to grow market share.",
+        "The CEO plans to disclose AI interactions to customers and aims for an IPO around 2028, depending on conditions.",
+        "The firm competes with its own customers, such as Decagon, and uses a mix of frontier and open‑weight models tailored to enterprise needs."
+      ],
+      "topics": [
+        "ai",
+        "voice",
+        "enterprise",
+        "ipo",
+        "margins"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 16:35:13 +0000",
+      "processed_at": "2026-09-25T16:52:17.629872+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-24-google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?resize=1200,675",
+      "title": "Google tests letting Gemini call businesses for you | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google is testing a new Gemini feature called \"Call for Me\" that lets the AI agent place phone calls to businesses on users’ behalf. The rollout will begin with Pixel 11 owners in the U.S. who subscribe to Gemini and use the beta version of Google’s Phone app, and the calls will be made from the user’s own phone number with a live transcript so the user can monitor or take over the conversation. Gemini can navigate automated menus, wait on hold, and handle tasks such as checking product availability, making reservations, or rescheduling appointments. The experiment builds on earlier Google Assistant calling demos and aims to refine real‑world conversational nuance before a broader release.",
+      "key_points": [
+        "Google’s Gemini \"Call for Me\" lets the AI place business calls using the user’s phone number and live transcript.",
+        "The feature is limited to Pixel 11 owners with a Gemini subscription and the beta Phone app, starting in the U.S.",
+        "Gemini can handle complex tasks like reservations, inventory checks, and appointment changes while navigating IVR systems.",
+        "The rollout is a small‑scale experiment to improve real‑world conversational accuracy before wider availability."
+      ],
+      "topics": [
+        "google",
+        "gemini",
+        "ai agents",
+        "automated calling",
+        "pixel"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-25T16:52:17.703030+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-24-lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?resize=1200,675",
+      "title": "Lovable's annualized revenue crosses $600M as vibe coding takes off | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Lovable, a vibe‑coding platform, announced at HumanX that its annualized revenue has surpassed $600 million, up from roughly $500 million in June. The company attributes the growth to a focus on enterprise customers, with two‑thirds of Fortune 500 firms now using the service, including Microsoft, Nvidia, and Deutsche Telekom. User‑created apps on the platform are drawing nearly a billion monthly views, far exceeding traffic to Lovable’s own site. After raising $700 million in two rounds—$300 million in December at a $6.6 billion valuation and $400 million in August at a $13.3 billion valuation—Lovable is positioned as a major player in the AI‑powered coding space.",
+      "key_points": [
+        "Annualized revenue exceeds $600 million",
+        "Two‑thirds of Fortune 500 companies use the platform",
+        "Apps on Lovable attract nearly 1 billion monthly views",
+        "Raised $700 million, valuation $13.3 billion"
+      ],
+      "topics": [
+        "ai",
+        "coding",
+        "startup",
+        "valuation",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 14:43:25 +0000",
+      "processed_at": "2026-09-25T16:52:31.140574+00:00"
+    },
+    {
+      "id": "ps-techcrunch-com-2026-09-24-ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Ando, a startup founded by Sara Du, has emerged from stealth with a team messaging platform that natively integrates AI agents alongside human users, positioning itself as a full replacement for Slack and Microsoft Teams. The app gives agents distinct identities and inboxes, allowing them to join channels, ask questions, and notify humans without needing a human intermediary, thereby addressing technical hurdles that have limited AI agent adoption in existing collaboration tools. Ando secured $20 million in pre‑seed and seed funding from Accel, Index Ventures and Emergence, and is already serving customers in software, real estate and finance across 15 countries, demonstrating that AI agents can coordinate work and scale small teams. The launch reflects a broader trend of AI agents becoming integral participants in workplace communication, promising to shift routine coordination tasks from people to intelligent agents while freeing humans for higher‑level decision making.",
+      "key_points": [
+        "Ando launches an AI‑native team messaging platform designed to replace Slack and Teams",
+        "The platform gives AI agents identities, inboxes, and the ability to join conversations and notify humans autonomously",
+        "Ando raised $20 million in pre‑seed and seed funding from Accel, Index Ventures and Emergence",
+        "Early customers report that agents can coordinate across channels and improve team efficiency"
+      ],
+      "topics": [
+        "ai agents",
+        "team messaging",
+        "startup",
+        "funding",
+        "productivity"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 14:31:00 +0000",
+      "processed_at": "2026-09-25T16:52:46.418055+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-anthropic-says-its-biology-lab-has-already-found-something-big",
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
@@ -2391,106 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 19 Sep 2026 17:30:00 +0000",
       "processed_at": "2026-09-20T12:07:00.934673+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-19-prices-go-up-in-7-days-get-your-disrupt-ticket-now",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?resize=1200,800",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now. | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging founders, investors, and tech leaders to secure tickets for Disrupt 2026 before the pricing window closes on September 25 at 11:59 p.m. PT, offering up to $200 in savings. The conference will run from October 13–15 at San Francisco’s Moscone West and will host more than 10,000 attendees looking to connect, invest, and discover emerging technologies. Exhibitors have a final chance to book tables by September 18 to gain high‑impact leads and brand visibility in the Expo Hall. The event promises to bring together industry leaders and innovators across multiple stages, making it a pivotal gathering for the tech ecosystem.",
-      "key_points": [
-        "Ticket prices increase after September 25, 2026, with up to $200 savings for early registrants",
-        "Disrupt 2026 takes place October 13–15 at Moscone West, San Francisco",
-        "Exhibit tables must be booked by September 18 to secure prime exposure",
-        "Over 10,000 founders, investors, and tech leaders will attend to network and explore new opportunities"
-      ],
-      "topics": [
-        "tech",
-        "events",
-        "ai",
-        "conferences",
-        "ticketing"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-20T12:06:50.950868+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
-      "title": "India forces caller-ID apps to feed spam reports to telcos | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "India's telecom regulator TRAI has amended its commercial communication rules to force caller‑ID and call‑management apps that flag spam to forward those reports to a blockchain‑based platform run by telecom operators. The move is intended to widen the data pool used to fight spam, but Truecaller—India’s largest market—argues the requirement is a one‑way, anti‑competitive data transfer that could harm its business model. The new rules also extend the A2P framework to automatically generated calls, requiring companies to declare their use of AI or prerecorded voices and allowing operators to levy a small termination fee. The changes raise technical, jurisdictional, and privacy questions about what data must be shared, how users are notified, and how the enforcement mechanism will be applied.",
-      "key_points": [
-        "TRAI now requires caller‑ID apps to forward spam reports to telecom operators via a blockchain platform.",
-        "Truecaller claims the rule is anti‑competitive and a one‑way data transfer that could hurt its business.",
-        "The amendment expands the A2P framework to cover AI‑generated robocalls, requiring disclosure and allowing a small termination fee.",
-        "The rule raises questions about data scope, user consent, and enforcement mechanisms."
-      ],
-      "topics": [
-        "telecom regulation",
-        "spam",
-        "caller-id",
-        "ai calls",
-        "data privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 19 Sep 2026 01:00:00 +0000",
-      "processed_at": "2026-09-20T06:52:00.388883+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Diogo Almeida, a former OpenAI researcher, has launched TypeSafe AI’s new transformer model Jev, which departs from traditional large language models by outputting calibrated probability scores instead of text. The model is designed to be inexpensive, fast, and free of hallucinations, making it attractive for software automation and as a lightweight guard against LLM misbehavior. Early adopters such as Vercel and Bryo AI report significant speedups and cost savings compared to OpenAI’s Luna and Gemini, while also gaining useful confidence metrics for workflow integration. Almeida envisions Jev enabling widespread, distributed smart software that mirrors the early internet’s modular growth, with future versions expanding into new modalities.",
-      "key_points": [
-        "Jev outputs calibrated probabilities rather than text, eliminating hallucinations and reducing cost",
-        "Developers report 5–18× faster and cheaper performance than existing LLMs for classification tasks",
-        "The model can serve as a lightweight monitor for LLM agents and aid in model routing",
-        "Almeida plans to expand Jev into additional modalities and compete with emerging alternatives"
-      ],
-      "topics": [
-        "ai",
-        "language models",
-        "software automation",
-        "reinforcement learning",
-        "open-source"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "processed_at": "2026-09-20T06:52:00.103403+00:00"
-    },
-    {
-      "id": "m-2026-09-17-microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Unredacted filings in the New York Times lawsuit reveal that a senior Microsoft executive privately called AI scraping “the largest theft of labor in human history,” and that OpenAI’s leadership warned the models posed an existential threat to publishers. The documents detail how the companies bypassed paywalls, stripped copyright notices, and built training datasets that contain over 91,000 copies of NYT and other news works, raising serious fair‑use questions. The filings also show that Microsoft’s Copilot reduced click‑throughs to the Times by up to 93%, illustrating the potential market harm to content creators. These admissions deepen the legal and ethical debate over whether generative‑AI training on copyrighted material can be justified as fair use.",
-      "key_points": [
-        "Microsoft executive described AI scraping as theft and warned of an existential threat to publishers",
-        "OpenAI and Microsoft allegedly scraped and stripped copyright notices from over 91,000 NYT works",
-        "The filings show Microsoft’s Copilot cut NYT click‑throughs by up to 93%, indicating market harm",
-        "The case highlights the unclear legal status of using copyrighted content to train AI models"
-      ],
-      "topics": [
-        "ai",
-        "copyright",
-        "law",
-        "technology",
-        "media"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "processed_at": "2026-09-20T01:27:29.278056+00:00"
     }
   ]
 }
