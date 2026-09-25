@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:07:30.600337+00:00",
+  "updated_at": "2026-09-25T00:42:34.972511+00:00",
   "items": [
     {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
@@ -14,30 +14,6 @@
       "published": "Wed, 23 Sep 2026 21:21:33 +0000"
     },
     {
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "feed_excerpt": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-      "published": "Wed, 23 Sep 2026 19:05:00 +0000"
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "feed_excerpt": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "published": "Wed, 23 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "feed_excerpt": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
-      "published": "Wed, 23 Sep 2026 23:47:35 +0000"
-    },
-    {
-      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-      "feed_excerpt": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-      "published": "Wed, 23 Sep 2026 23:33:22 +0000"
-    },
-    {
       "title": "Anthropic says its biology lab has already found something big",
       "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
       "feed_excerpt": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
@@ -48,12 +24,6 @@
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "feed_excerpt": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
       "published": "Thu, 24 Sep 2026 01:13:32 +0000"
-    },
-    {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "feed_excerpt": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "published": "Thu, 24 Sep 2026 00:46:17 +0000"
     },
     {
       "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
@@ -162,7 +132,13 @@
       "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
       "feed_excerpt": "Feather is betting on a customizable, $30,000 platform built for software developers.",
       "published": "Thu, 24 Sep 2026 18:52:38 +0000"
+    },
+    {
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "feed_excerpt": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "published": "Thu, 24 Sep 2026 23:24:33 +0000"
     }
   ],
-  "last_processed_at": "2026-09-24T22:07:31.894266+00:00"
+  "last_processed_at": "2026-09-25T00:42:43.670460+00:00"
 }

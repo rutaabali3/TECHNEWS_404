@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-24T22:07:56.520316+00:00",
+  "updated_at": "2026-09-25T00:42:59.962461+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-meta-is-trying-vr-glasses-again-this-time-with-more-imax",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.png?resize=1200,677",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta has unveiled a new pair of VR glasses that promise a lighter, more wearable experience than its previous headsets, with a price tag of $1,299.99 and a launch slated for next spring. The glasses feature 5K micro‑OLED displays, Dolby Vision and Atmos audio, and are marketed as the first IMAX‑enhanced certified VR device, allowing users to watch IMAX‑captured films in an expanded aspect ratio. They also support 3D content and integration with Disney+ for immersive movie experiences that blend the user’s surroundings with virtual environments. Built on Qualcomm’s Snapdragon Reality Elite processor and a pocket‑sized battery puck, the glasses include Meta AI for voice and gesture control, enabling hands‑free operation of media and other tasks.",
+      "key_points": [
+        "Meta launches lightweight VR glasses priced at $1,299.99 with IMAX compatibility",
+        "Glasses feature 5K micro‑OLED displays, Dolby Vision/Atmos audio, and 3D support",
+        "Integrated Meta AI assistant allows voice and gesture commands for media playback",
+        "Device connects to a pocket‑sized battery puck powered by Snapdragon Reality Elite"
+      ],
+      "topics": [
+        "meta",
+        "vr",
+        "imax",
+        "entertainment",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 23:47:35 +0000",
+      "processed_at": "2026-09-25T00:42:36.414407+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296638825.jpg?w=1024",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Vogue World’s Milan edition ended with a controversial act called \"The Age of Intelligence\" in which humanoid robots from Chinese firm Unitree walked the runway to Gigi D’Agostino’s \"L’Amour Toujours\" without clothing, prompting a viral reaction from Valentino’s creative director Alessandro Michele and widespread criticism that the show focused more on spectacle than on fashion. The event, marketed as a tribute to Italian craftsmanship and the \"human touch,\" was sponsored in part by Meta Glasses and supported by OpenAI, underscoring Vogue’s growing partnership with Silicon Valley tech giants. While the robots performed awkwardly and drew negative attention, the show highlighted the magazine’s attempt to blend technology and couture, a strategy that many observers say feels forced and out of touch with the real innovations happening at the intersection of fashion and tech. Vogue’s next edition will take place in San Francisco, a city known for its tech culture, raising questions about how the brand will balance its fashion legacy with its new tech alliances amid a broader debate over automation and labor displacement.",
+      "key_points": [
+        "Humanoid robots from Unitree performed on the Milan runway, sparking backlash and viral memes",
+        "Vogue World’s sponsorship by Meta Glasses and OpenAI signals a deepening alliance with Silicon Valley",
+        "The show’s focus on robotics eclipsed the fashion presentations, drawing criticism from industry insiders",
+        "The upcoming San Francisco edition may continue the trend of blending high fashion with cutting‑edge technology"
+      ],
+      "topics": [
+        "fashion",
+        "technology",
+        "robotics",
+        "vogue",
+        "techculture"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 23:33:22 +0000",
+      "processed_at": "2026-09-25T00:42:36.415978+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194",
+      "title": "Modal Motors is trying to cut China out of electric motors entirely | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Modal Motors, founded by veteran motor engineer Michael Van Steenburg, is positioning itself to eliminate China‑dependent rare‑earth magnets from U.S. electric motor production. The startup is developing two motors for its Disrupt 2024 showcase: a lightweight, high‑torque motor for drones, fans, and actuators, and a planar “Hybrid Enigma Drive” that fits low‑profile spaces. Van Steenburg argues that reshoring efforts that still rely on rare‑earths will remain vulnerable to China’s supply chain dominance, and he is drawing on a decade of automotive motor experience to build China‑free alternatives. The company’s goal is to make U.S. electric motor manufacturing independent of Chinese mineral control and to accelerate domestic supply chain development.",
+      "key_points": [
+        "Modal Motors seeks to cut China out of electric motor supply chains by eliminating rare‑earth magnets",
+        "Founder Michael Van Steenburg leverages a decade of motor expertise to develop China‑free products",
+        "The startup will showcase a drone‑grade motor and a planar Hybrid Enigma Drive at TechCrunch Disrupt 2024",
+        "Reshoring efforts that still depend on rare‑earths risk continued vulnerability to China’s supply chain control"
+      ],
+      "topics": [
+        "electric motors",
+        "reshoring",
+        "rare earths",
+        "startup",
+        "techcrunch disrupt"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 19:05:00 +0000",
+      "processed_at": "2026-09-25T00:42:36.244517+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-chatgpt-mobile-app-gets-voice-based-agentic-features",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "ChatGPT mobile app gets voice-based agentic features | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "OpenAI has announced that its ChatGPT mobile app will now support voice‑based agentic features, allowing Plus and Pro subscribers to trigger workflows such as drafting documents, summarizing emails, and building websites directly from their phones. The new voice conversations will produce richer text output and users can easily switch between voice and text, even resuming a conversation on desktop after starting it on mobile. Free and Go users will still have access to plugins and connected apps, while the Work tab on mobile will mirror the desktop experience introduced with GPT‑Live in July. This rollout comes as more users turn to voice commands for complex AI tasks and follows Anthropic’s similar mobile‑desktop handoff improvements.",
+      "key_points": [
+        "OpenAI adds voice‑based agentic features to ChatGPT mobile for Plus/Pro users",
+        "Users can trigger workflows like drafting docs, summarizing emails, and building sites via voice",
+        "Voice conversations offer richer text output and can be switched with text, with cross‑device continuity",
+        "The feature mirrors GPT‑Live’s desktop capabilities and follows Anthropic’s mobile‑desktop integration"
+      ],
+      "topics": [
+        "openai",
+        "chatgpt",
+        "voice",
+        "mobile",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-25T00:42:43.670386+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta announced Muse Charm, a keychain‑sized wearable that lets users interact with its Muse AI agent via a tiny screen and a fingerprint sensor. The device displays the Jolly avatar and supports real‑time voice commands without unlocking a phone. Zuckerberg said the product is not yet ready to ship, with a December release target after finalizing component layout. The gadget offers a low‑stakes, Tamagotchi‑like way to keep users connected to Meta’s AI, expanding distribution beyond the phone app.",
+      "key_points": [
+        "Meta unveiled Muse Charm, a keychain‑sized AI wearable for its Muse agent.",
+        "The device houses a tiny screen showing the Jolly avatar and uses a fingerprint sensor for instant voice interaction.",
+        "Zuckerberg said it will ship by December, after finalizing component layout.",
+        "The gadget offers a low‑stakes way to keep users connected to Meta’s AI, echoing the Tamagotchi vibe."
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "wearable",
+        "muse",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 00:46:17 +0000",
+      "processed_at": "2026-09-25T00:42:36.386847+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-meta-introduces-camera-free-ai-glasses",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
@@ -2367,131 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 23:25:52 +0000",
       "processed_at": "2026-09-19T21:20:57.716311+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Angle Health, a Y Combinator alum that offers level‑funded health plans for small businesses, closed a $200 million Series C and a $400 million tender offer that values the company at $2.7 billion. The round was led by Vitruvian Partners with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator, and is expected to close later this month. Angle’s AI‑powered platform integrates with payroll and HR systems and already serves more than 5,000 businesses, reporting profitability. The deal underscores growing investor interest in non‑AI‑centric health‑tech startups and the appeal of level‑funded plans that blend predictability with cost savings.",
-      "key_points": [
-        "Series C raised $200M plus $400M tender offer, valuing Angle Health at $2.7B.",
-        "Angle Health offers level‑funded health plans that combine features of fully insured and self‑funded models.",
-        "The company serves over 5,000 small businesses and is already profitable.",
-        "Investment led by Vitruvian Partners with participation from Y Combinator and other venture firms."
-      ],
-      "topics": [
-        "health insurance",
-        "startup funding",
-        "ycombinator",
-        "level funded",
-        "ai platform"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 20:24:33 +0000",
-      "processed_at": "2026-09-19T21:21:09.549209+00:00"
-    },
-    {
-      "id": "-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
-      "title": "NVIDIA’s Nader Khalil and Sydney Sykes join Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "NVIDIA’s Nader Khalil and Sydney Sykes will co‑host a session on the open versus proprietary AI debate at TechCrunch Disrupt 2026’s Builders Stage. The discussion will explore how founders, investors, and line‑of‑business leaders can weigh cost, control, and defensibility when choosing between open models like Nvidia’s Nemotron and closed frontier models. Khalil brings a builder perspective from his background at Brev.dev, while Sykes adds a venture‑capital view as Nvidia’s Global Head of VC Partnerships. The session, scheduled for Oct. 13‑15 in San Francisco, is part of a broader event featuring 25 % off tickets and highlights the growing trend toward hybrid AI stacks.",
-      "key_points": [
-        "NVIDIA leaders will debate open vs closed AI at Disrupt 2026",
-        "The session examines cost, control, and defensibility for startups and investors",
-        "It highlights the rise of hybrid models combining open and proprietary systems",
-        "Ticket discounts up to $200 are available until Sept. 25"
-      ],
-      "topics": [
-        "ai",
-        "open-source",
-        "proprietary",
-        "startups",
-        "nvidia"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 15:30:00 +0000",
-      "processed_at": "2026-09-19T21:20:58.384182+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Jeff-Lawson_1-Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Inertia co-founder Jeff Lawson’s joins Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Jeff Lawson, the co‑founder of Twilio, will headline a session at TechCrunch Disrupt 2026 where he will discuss his pivot to leading Inertia, a fusion‑energy startup. Inertia recently closed a $450 million Series A led by Bessemer Venture Partners with participation from GV and other investors to fund laser systems and mass‑manufacture fusion fuel targets. The company has opened a 50,000‑square‑foot headquarters in Livermore, California, and hired talent from Apple, Corning and Waymo to build its manufacturing and supply‑chain capabilities. Lawson’s talk will explore how software‑scaling experience translates to the capital‑intensive, engineering‑heavy world of fusion power and what it means for founders, investors and the broader tech ecosystem.",
-      "key_points": [
-        "Jeff Lawson moves from Twilio to lead Inertia, a fusion‑energy startup",
-        "Inertia raised $450 million in Series A funding led by Bessemer Venture Partners and GV",
-        "Lawson will discuss the transition at TechCrunch Disrupt 2026",
-        "Inertia has a new Livermore HQ and recruits talent from Apple, Corning and Waymo"
-      ],
-      "topics": [
-        "tech entrepreneurship",
-        "fusion energy",
-        "startup funding",
-        "tech conferences",
-        "leadership"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-19T21:20:58.242912+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
-      "title": "Google's new 'CC' is an AI agent that helps families run their households | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has unveiled an updated version of its AI agent CC that now focuses on helping families manage household tasks. The agent can coordinate across Gmail, Calendar, Drive, and the web, and it can share information with up to six family members, automatically adding events, filling out permission slips, creating shopping lists, and planning meals. Users can choose which email senders to forward to CC, and the agent runs on an isolated Gemini-powered cloud computer under Antigravity. The feature is currently limited to U.S. adults with personal Gmail accounts, and existing users will be invited to upgrade while new users can join a waitlist.",
-      "key_points": [
-        "Google’s CC AI agent now targets family household management, integrating email, calendar, and tasks.",
-        "It can share data with up to six family members and automatically add events, fill forms, and create shopping lists.",
-        "The agent runs on a Gemini-powered isolated cloud computer and requires a U.S. personal Gmail account, limiting access for minors and school emails.",
-        "Existing users will be invited to upgrade; new users can join a waitlist."
-      ],
-      "topics": [
-        "ai",
-        "google",
-        "family",
-        "productivity",
-        "cloud"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 17:33:50 +0000",
-      "processed_at": "2026-09-19T18:44:42.252428+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159",
-      "title": "Meta's Muse hits Mac, letting the AI take actions on your computer | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta has released its AI assistant Muse for macOS, allowing the agent to interact with native applications such as files, messages, calendar, notes, and mail while respecting user‑controlled opt‑in permissions. The desktop app follows Muse’s earlier mobile and web launches, which quickly rose to the top of the U.S. App Store charts. Meta stresses that Muse will always ask for approval before performing any sensitive actions, reinforcing privacy safeguards. The move comes amid a growing race among consumer‑facing AI agents—such as Instinct and Poke—that are rapidly adding features like voice calling to capture market share.",
-      "key_points": [
-        "Muse is now available on macOS and can access native apps with user‑controlled opt‑in permissions.",
-        "Meta emphasizes that Muse will always request approval before any sensitive action.",
-        "The launch is part of a broader competition among AI assistants, with rivals adding features such as voice calling.",
-        "Muse previously topped the U.S. App Store charts on mobile and web platforms."
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "assistant",
-        "mac",
-        "competition"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 15:22:48 +0000",
-      "processed_at": "2026-09-19T18:44:53.779407+00:00"
     }
   ]
 }
