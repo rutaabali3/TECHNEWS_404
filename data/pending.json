@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-25T20:19:30.585986+00:00",
+  "updated_at": "2026-09-25T23:26:14.116804+00:00",
   "items": [
-    {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "feed_excerpt": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-      "published": "Thu, 24 Sep 2026 12:54:19 +0000"
-    },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
@@ -26,34 +20,10 @@
       "published": "Thu, 24 Sep 2026 19:15:00 +0000"
     },
     {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "feed_excerpt": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "published": "Thu, 24 Sep 2026 19:00:42 +0000"
-    },
-    {
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "feed_excerpt": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "published": "Thu, 24 Sep 2026 18:52:38 +0000"
-    },
-    {
-      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
-      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "feed_excerpt": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
-      "published": "Thu, 24 Sep 2026 23:24:33 +0000"
-    },
-    {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
       "feed_excerpt": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "published": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "feed_excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
-      "published": "Fri, 25 Sep 2026 16:16:52 +0000"
     },
     {
       "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
@@ -150,7 +120,37 @@
       "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
       "feed_excerpt": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "feed_excerpt": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000"
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "feed_excerpt": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "published": "Fri, 25 Sep 2026 23:04:34 +0000"
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "feed_excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "published": "Fri, 25 Sep 2026 22:20:47 +0000"
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "feed_excerpt": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "published": "Fri, 25 Sep 2026 20:34:53 +0000"
+    },
+    {
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "feed_excerpt": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+      "published": "Fri, 25 Sep 2026 20:33:58 +0000"
     }
   ],
-  "last_processed_at": "2026-09-25T20:19:56.479927+00:00"
+  "last_processed_at": "2026-09-25T23:26:32.794431+00:00"
 }
