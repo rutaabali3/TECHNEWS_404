@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-25T05:58:38.964991+00:00",
+  "updated_at": "2026-09-25T11:42:20.039757+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-23-anthropic-says-its-biology-lab-has-already-found-something-big",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+      "title": "Anthropic says its biology lab has already found something big | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Anthropic’s newly opened wet biology lab in the Bay Area has announced the discovery of a previously unknown enzyme system in bacteriophages that behaves like CRISPR, capable of cutting, copying, and pasting DNA. The finding was largely driven by Anthropic’s language model Claude, which spent 21 hours of focused analysis using 950 agents and 210 million tokens to identify the system. While the lab operates at BSL‑1/2 levels and all experiments are performed by human scientists, Anthropic’s CEO Dario Amodei highlighted both the potential therapeutic benefits and the bioterrorism risks of such technology. The company is also exploring the possibility of fully automated, AI‑controlled biology labs in the future, while acknowledging the need for safety safeguards.",
+      "key_points": [
+        "Anthropic’s wet biology lab uncovered a CRISPR‑like enzyme system in bacteriophages, discovered largely by its AI model Claude in 21 hours.",
+        "The discovery involved 950 agents and 210 million tokens, showcasing the power of AI in guiding biological research.",
+        "All experiments are conducted by human scientists in a BSL‑1/2 lab, with plans to eventually automate lab work under strict safeguards.",
+        "CEO Dario Amodei emphasized both the medical potential and the bioterrorism risks of the new enzyme system."
+      ],
+      "topics": [
+        "ai",
+        "biology",
+        "gene editing",
+        "research",
+        "safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "processed_at": "2026-09-25T11:42:16.539871+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1209591548.jpeg?resize=1200,800",
+      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does? | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Amazon’s chief sustainability officer Kara Hurst admitted at an Axios event that the company does not yet know how it will reach its net‑zero carbon target by 2040, a candid statement that underscores the difficulty of decarbonizing a sprawling business. Hurst highlighted Amazon’s status as one of the world’s largest clean‑energy purchasers and its reduced carbon intensity, but also noted that the company’s 7.65‑GW natural‑gas plant for an AI data center could become the U.S.’s largest single source of CO₂. The comment raises questions about corporate responsibility and the need for collaboration between businesses and governments to tackle climate change. It also illustrates how Amazon’s growth ambitions, especially in AI, can clash with its climate commitments.",
+      "key_points": [
+        "Amazon’s sustainability chief said the company does not yet know how to hit its 2040 net‑zero goal.",
+        "Amazon is a major clean‑energy buyer but plans a 7.65‑GW natural‑gas plant that could emit 33 million tons of CO₂ annually.",
+        "Decarbonizing Amazon requires supplier collaboration and joint action with governments."
+      ],
+      "topics": [
+        "amazon",
+        "climate change",
+        "net-zero",
+        "clean energy",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 23 Sep 2026 21:21:33 +0000",
+      "processed_at": "2026-09-25T11:41:48.275731+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-24-techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit will take place on November 4, 2026, at Boston’s SoWa Power Station and is designed as a full‑day, hands‑on workshop for founders at all stages, with a focus on fundraising, AI‑native building, and leadership. The event offers Investor, Founder, and Student tickets priced at $399, $199, and $149 respectively, with a 50% discount on a second ticket and additional bundle savings; current discounts expire on October 16. In addition to keynote sessions, the summit features breakout panels, Braindate‑powered networking, and a week of side events from November 1‑7, while volunteers can attend for free in exchange for event support. Unlike the larger, panel‑heavy Disrupt conference, Founder Summit provides a more intimate, practical crash course for founders looking to accelerate their 2027 plans.",
+      "key_points": [
+        "Founder Summit is a one‑day, hands‑on event on Nov 4, 2026 at SoWa Power Station, Boston, focused on fundraising, AI‑native building, and leadership.",
+        "Tickets cost $399 for investors, $199 for founders, and $149 for students, with a 50% discount on a second ticket and bundle savings; discounts end Oct 16.",
+        "The summit includes breakout sessions, Braindate networking, a week of side events (Nov 1‑7), and a volunteer program that offers free access.",
+        "Founder Summit is distinct from Disrupt, offering a more intimate, practical experience and was formerly known as Early Stage and All Stage."
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "fundraising",
+        "ai",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 16:46:47 +0000",
+      "processed_at": "2026-09-25T11:41:48.254964+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-24-2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=1200",
+      "title": "2 days left to save up to $200 on a Disrupt 2026 pass | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is urging last‑minute buyers to secure a Disrupt 2026 pass before the $200 discount expires on September 25 at 11:59 p.m. PT. The conference, held October 13‑15 at San Francisco’s Moscone West, will feature six industry stages and more than 250 leaders from companies such as OpenAI, Anthropic, Replit, Rivian, and Cerebras, as well as a special appearance by Mark Wahlberg. Sessions are designed to tackle practical questions for founders, investors, and operators—covering topics from AI defensibility and talent acquisition to fundraising and product pricing. Attendees can also bring a second guest at 50 % off, and groups of four or more qualify for up to 30 % savings.",
+      "key_points": [
+        "Only two days remain to claim up to $200 off a Disrupt 2026 ticket and 50 % off a second ticket",
+        "The event hosts six stages with 250+ leaders from OpenAI, Anthropic, Replit, Rivian, Cerebras, and more",
+        "Sessions focus on real‑world challenges for founders, investors, and operators, including AI strategy, fundraising, and product economics",
+        "Groups of four or more can save up to 30 % on their passes"
+      ],
+      "topics": [
+        "tech events",
+        "ai",
+        "startup",
+        "conferences",
+        "discounts"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-25T11:41:48.155349+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-23-everything-new-coming-to-metas-ai-agent-muse",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "title": "Everything new coming to Meta's AI agent Muse | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Meta’s personal AI agent Muse, launched in early September, has expanded its capabilities at the company’s Connect event, with new features including a digital avatar, smart‑glasses integration, and Mac desktop support. The agent, powered by Muse Spark, can automate everyday tasks across users’ apps and services, and Meta plans to monetize it through a small fee on transactions after offering free tokens. Muse will also receive its own email address and can handle email threads, while partnerships with retailers like Best Buy, Gap, and Shopify enable it to shop and pay via Stripe, PayPal, and Shop Pay. Meta’s CEO Mark Zuckerberg emphasized Muse’s potential to become a “personal superintelligence” for billions, positioning it as a core consumer AI offering for the company.",
+      "key_points": [
+        "Muse now supports a digital avatar and real‑time video chat via Muse Realtime Avatar",
+        "The agent will integrate with Meta smart glasses, enabling voice‑activated tasks and shopping",
+        "Muse will gain its own email address to manage background tasks and email threads",
+        "Meta has secured e‑commerce partnerships with major retailers and payment platforms to enable seamless purchases"
+      ],
+      "topics": [
+        "meta",
+        "ai agent",
+        "muse",
+        "smart glasses",
+        "ecommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 01:13:32 +0000",
+      "processed_at": "2026-09-25T11:41:47.779629+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-24-databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart-e1790268797534.png?w=735",
@@ -2367,131 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 17 Sep 2026 19:46:08 +0000",
       "processed_at": "2026-09-20T01:27:29.278056+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Orion_Product-1.png?resize=1200,828",
-      "title": "I’m so mad that I love Orion's $2,195 AI mattress pad | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Orion’s $2,195 AI‑enabled mattress pad uses a phone‑controlled cooling system that learns a sleeper’s temperature preferences to reduce nighttime awakenings. The product was founded by 26‑year‑old Harry Gestetner, former Fanfix CEO, who cites his own sleep struggles and longevity interests as motivation. While the pad has helped the author sleep better, its steep price keeps it out of reach for most consumers, though Gestetner plans a $500 model in the future. The system collects detailed sleep data that is transmitted to the cloud, raising potential security concerns despite the company’s stated investment in protection.",
-      "key_points": [
-        "Orion offers AI‑driven temperature control to improve sleep quality",
-        "Founder Harry Gestetner, former Fanfix CEO, aims to make the product affordable at $500",
-        "The high price ($2,195) limits accessibility, though competitor Eight Sleep is $3,000",
-        "Sleep data is transmitted to the cloud, raising security concerns"
-      ],
-      "topics": [
-        "sleep tech",
-        "ai",
-        "consumer electronics",
-        "healthtech",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 15:22:16 +0000",
-      "processed_at": "2026-09-20T01:27:29.846778+00:00"
-    },
-    {
-      "id": "crunch-com-2026-09-18-robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Abhishek-Fatehpuria_1-Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Robinhood’s Abhishek Fatehpuria joins Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Robinhood’s Vice President of Product Management for Brokerage, Abhishek Fatehpuria, will speak at TechCrunch Disrupt 2026 about how the company is reshaping financial services for the modern consumer. The session will cover Robinhood’s rapid expansion from commission‑free trading to a full‑stack financial platform that includes banking, credit, crypto, retirement, prediction markets, and AI‑powered trading tools such as Cortex and Agentic Trading. With 28.6 million funded customers and $384 billion in platform assets, Robinhood is using technology to meet consumers’ expectations for instant, personalized, and seamless digital experiences while maintaining trust. The talk aims to provide founders, investors, and product leaders with lessons on scaling product complexity without compromising user experience.",
-      "key_points": [
-        "Robinhood has grown from a trading app to a comprehensive financial platform that now includes banking, credit, crypto, retirement, prediction markets, and AI‑powered trading.",
-        "Abhishek Fatehpuria’s Disrupt 2026 session will explore how to build trusted products at massive scale while meeting the evolving expectations of modern financial consumers.",
-        "The company’s AI initiatives—Cortex and Agentic Trading—have attracted nearly 100,000 users, and its prediction markets have seen a 15‑fold year‑over‑year increase in August.",
-        "The event offers insights for founders, investors, and product leaders on prioritization, trust, and managing complexity in fintech and beyond."
-      ],
-      "topics": [
-        "fintech",
-        "ai",
-        "consumer finance",
-        "product management",
-        "events"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-20T01:27:29.145866+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
-      "title": "Anthropic is operating a lab that conducts biology experiments | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Anthropic has opened a wet biology lab in the Bay Area to run physical experiments that test its AI models, confirming that the company is moving beyond simulation into real‑world biology. The lab focuses on fundamental biology research rather than drug discovery, and Anthropic collaborates with external partners while also working with major pharma clients such as Novo Nordisk. In addition to the lab, the company launched a Life Sciences Verification Program to grant vetted researchers access to its most powerful models and has published reports on accelerating protein design and bimolecular modeling. The move follows Anthropic’s acquisition of stealth biotech Coefficient Bio and comes amid broader industry discussions about AI safety and the potential risks of advanced AI systems.",
-      "key_points": [
-        "Anthropic operates a wet biology lab to test AI models in real experiments",
-        "The lab focuses on fundamental biology and collaborates with external partners",
-        "Anthropic launched a Life Sciences Verification Program for vetted researchers",
-        "The company has published research on protein design and bimolecular modeling"
-      ],
-      "topics": [
-        "ai",
-        "biology",
-        "wetlab",
-        "drug discovery",
-        "ai safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "processed_at": "2026-09-19T23:23:32.711275+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-automattic-names-interim-cfo-after-exec-departures",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?resize=1200,800",
-      "title": "Automattic names interim CFO after exec departures | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Automattic has appointed Jeremy Klaperman, the former CFO of its WordPress VIP Enterprise unit, as interim chief financial officer following the departure of CFO Mark Davies and other executives after a failed attempt to oust CEO Matt Mullenweg. Mullenweg, who briefly stepped down during the board dispute, has returned to the helm and confirmed that the board will still evaluate internal and external candidates for the CFO role before a final decision. In addition, a new chief legal officer has verbally accepted the position, replacing Andy Missan, who left the company alongside Davies. The company’s next board meeting is scheduled for September 23, and the board’s new members have yet to be announced.",
-      "key_points": [
-        "Jeremy Klaperman named interim CFO after Mark Davies left",
-        "Matt Mullenweg returned as CEO following a failed board ouster attempt",
-        "A new chief legal officer has accepted the role, replacing Andy Missan",
-        "The board will still evaluate candidates and will meet on September 23"
-      ],
-      "topics": [
-        "automattic",
-        "cfo",
-        "executive departures",
-        "board changes",
-        "legal chief"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 20:25:22 +0000",
-      "processed_at": "2026-09-19T23:23:41.866701+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-world-model-companies-are-keeping-a-lot-of-secrets",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-      "title": "World model companies are keeping a lot of secrets | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "The TechCrunch piece reports that leading world‑model labs such as Yann LeCun’s AMI Labs and Fei‑Fei Li’s World Labs are deliberately withholding details about their product plans, citing a research‑and‑build phase.  While world models promise a range of applications—from autonomous vehicles to interactive video and robotics—companies are keeping their exact use cases under wraps to avoid attracting competitors.  The article notes that the ease of fundraising in the AI space fuels a “dark forest” dynamic, where firms delay disclosure to stay ahead of rivals that could emerge once the market path becomes clear.  Even suppliers like Physicl remain in the dark about how their data is being used, underscoring the broader secrecy surrounding the field.",
-      "key_points": [
-        "AMI Labs and World Labs are keeping product plans secret to avoid early competition",
-        "World models have broad potential uses, from robotics to media creation",
-        "Easy fundraising encourages firms to delay disclosure and protect their competitive edge",
-        "Suppliers lack clarity on how their data is applied in world‑model projects"
-      ],
-      "topics": [
-        "ai",
-        "world models",
-        "secrecy",
-        "fundraising",
-        "competition"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 20:18:14 +0000",
-      "processed_at": "2026-09-19T23:23:21.354849+00:00"
     }
   ]
 }
