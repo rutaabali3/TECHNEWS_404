@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:42:34.972511+00:00",
+  "updated_at": "2026-09-25T05:58:10.797179+00:00",
   "items": [
     {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
@@ -48,18 +48,6 @@
       "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "feed_excerpt": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
       "published": "Thu, 24 Sep 2026 17:39:24 +0000"
-    },
-    {
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "feed_excerpt": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-      "published": "Thu, 24 Sep 2026 17:07:55 +0000"
-    },
-    {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "feed_excerpt": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "published": "Thu, 24 Sep 2026 17:00:00 +0000"
     },
     {
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -138,7 +126,13 @@
       "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
       "feed_excerpt": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
       "published": "Thu, 24 Sep 2026 23:24:33 +0000"
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "feed_excerpt": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-25T00:42:43.670460+00:00"
+  "last_processed_at": "2026-09-25T05:58:23.490736+00:00"
 }

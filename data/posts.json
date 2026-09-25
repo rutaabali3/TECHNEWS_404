@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-25T00:42:59.962461+00:00",
+  "updated_at": "2026-09-25T05:58:38.964991+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-24-databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart-e1790268797534.png?w=735",
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Databricks has acquired Row Zero, an early‑stage spreadsheet startup that can scale beyond one million live rows, after its finance team discovered the tool could be combined with Databricks’ AI agent Genie. The integration lets users ask natural‑language questions about data stored in Databricks while interacting through familiar spreadsheet formulas, keeping the data secure in the cloud. The deal, terms undisclosed, follows a series of 2026 acquisitions—including Quotient AI, SiftD.ai, Panther, and Electric—showing Databricks’ intent to continue expanding its AI and data‑management ecosystem.",
+      "key_points": [
+        "Databricks acquired Row Zero, a spreadsheet startup capable of handling over 1 million live rows",
+        "Row Zero will be integrated with Databricks’ Genie AI agent to allow natural‑language queries via spreadsheets",
+        "The acquisition is part of Databricks’ broader 2026 strategy of multiple startup purchases",
+        "Row Zero was founded by former AWS and Tableau engineers, raised $10M in May 2025, and was valued at $40M"
+      ],
+      "topics": [
+        "databricks",
+        "acquisition",
+        "ai",
+        "spreadsheets",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 17:07:55 +0000",
+      "processed_at": "2026-09-25T05:58:23.490605+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-24-google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+      "title": "Google Photos 'Clueless'-inspired virtual closet is now available on Android and iOS | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google Photos has launched an AI‑powered virtual closet that turns users’ outfit photos into a digital wardrobe, now available on Android and iOS in the U.S., Brazil, and India. The feature automatically catalogs clothing items by category, lets users filter tops, bottoms, jewelry, and mix and match to create new looks, all without sharing wardrobe data with third parties. The rollout comes alongside other Google Photos updates such as Gemini Spark prompts, an upgraded markup tool, Remix AI templates, and new “Moods” photo filters for Android. Google emphasizes that the virtual closet is designed to assist users while protecting privacy, and the service is free for all supported devices.",
+      "key_points": [
+        "Google Photos introduces an AI‑powered virtual closet available on Android and iOS in the U.S., Brazil, and India",
+        "The feature catalogs clothing by category and lets users mix and match outfits without sharing data with third parties",
+        "Rollout coincides with Gemini Spark prompts, an upgraded markup tool, Remix AI templates, and new Android “Moods” filters",
+        "Google stresses privacy protection and offers the service for free"
+      ],
+      "topics": [
+        "google",
+        "photos",
+        "ai",
+        "virtual closet",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-25T05:58:12.960819+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-23-meta-is-trying-vr-glasses-again-this-time-with-more-imax",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.png?resize=1200,677",
@@ -2442,56 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 18 Sep 2026 20:18:14 +0000",
       "processed_at": "2026-09-19T23:23:21.354849+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/coast-guard-fbi-tankers.jpg?resize=1200,800",
-      "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The FBI and U.S. Coast Guard boarded two U.S.-bound oil tankers in the Gulf of Mexico between August 21 and 24 after hackers compromised the vessels’ networks and took control of navigation, propulsion, and cargo systems. One of the ships, the 333‑meter VL Prosperity, can carry over 2 million barrels of oil and was reported to have lost communications for more than a day. Authorities say the boarding was to ensure the integrity of the vessels’ operational and information technology systems, and no operational disruptions, crew danger, or environmental impacts were reported. Investigators are looking into whether Iranian‑backed hackers, part of a broader wave of cyberattacks, were responsible for the incident.",
-      "key_points": [
-        "FBI and Coast Guard boarded two oil tankers after hackers compromised their networks",
-        "Hackers gained control of navigation, propulsion, and cargo systems",
-        "One tanker, VL Prosperity, is 333 m long and holds over 2 million barrels of oil",
-        "Investigations suggest Iranian‑backed hackers may be behind the attack, but no operational disruptions were reported"
-      ],
-      "topics": [
-        "cybersecurity",
-        "shipping",
-        "oil",
-        "fbi",
-        "coast guard"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 15:44:09 +0000",
-      "processed_at": "2026-09-19T23:23:21.437125+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-17-crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular 'AI factories' | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Crusoe has secured a $3.9 billion Series F round that lifts its valuation to $30.9 billion, with the funding led by Atreides Management, Mubadala Capital and Valor Equity Partners and joined by Founders Fund, GIC, Nvidia, QIA, Radical Ventures and TPG. The capital will support existing projects such as a large OpenAI‑backed data center in Abilene, Texas, and the launch of modular AI factories called Spark that can be truck‑mounted and powered almost anywhere, helping the company avoid community opposition to massive complexes. Crusoe’s three‑pronged revenue model—leasing space, renting GPUs and selling inference compute—has already attracted high‑profile clients like Meta, Microsoft, Oracle and a $13 billion, five‑year contract with Jane Street. The company is also in talks with Goldman Sachs and Morgan Stanley about a potential IPO, following a $1.38 billion raise at a $10 billion valuation last October.",
-      "key_points": [
-        "$3.9 billion Series F round pushes valuation to $30.9 billion",
-        "Launch of modular AI factories (Spark) to speed deployment and reduce community backlash",
-        "$13 billion, five‑year contract with Jane Street expands AI infrastructure",
-        "Potential IPO discussions underway with Goldman Sachs and Morgan Stanley"
-      ],
-      "topics": [
-        "ai infrastructure",
-        "data centers",
-        "venture capital",
-        "investment",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
-      "processed_at": "2026-09-19T21:20:57.716311+00:00"
     }
   ]
 }
