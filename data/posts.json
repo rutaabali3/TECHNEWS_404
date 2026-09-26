@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-26T01:52:45.687651+00:00",
+  "updated_at": "2026-09-26T07:17:17.838822+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-24-metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "title": "Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has unveiled the Muse Charm, a Tamagotchi‑style wearable that hosts its new AI agent and lets users design a custom avatar, positioning the device as both a tech tool and a fashion accessory. The product taps into Gen Z’s growing bag‑charm craze and the broader retro‑tech revival, aiming to make AI more approachable through a physical, personalized form factor. Reactions have been mixed, with critics pointing to Meta’s history of privacy violations as a potential barrier to widespread adoption. The company plans to monetize the Charm by taking a small fee on transactions made through the AI, underscoring its push into consumer‑facing AI hardware.",
+      "key_points": [
+        "Muse Charm is a Tamagotchi‑inspired wearable that hosts Meta’s AI and lets users customize a personal avatar.",
+        "It targets Gen Z by leveraging the bag‑charm trend and the retro‑tech revival to make AI more tangible.",
+        "Meta’s past privacy violations raise concerns about consumer trust and could limit the Charm’s success.",
+        "The device will be monetized through transaction fees on AI services, aligning with Meta’s ad‑driven business model."
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "wearable",
+        "gen z",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 17:39:24 +0000",
+      "processed_at": "2026-09-26T07:16:57.131306+00:00"
+    },
+    {
+      "id": "unch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
+      "title": "Ricursive Intelligence’s co-founders join Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Ricursive Intelligence’s co‑founders Anna Goldie and Azalia Mirhoseini will speak at TechCrunch Disrupt 2026 about using AI to design and improve computer chips, potentially cutting the design cycle from two‑to‑three years to weeks. The startup, founded in late 2025, has already raised $335 million at a $4 billion valuation, with Nvidia among its investors. Goldie and Mirhoseini previously led Google’s AlphaChip project, which accelerated chip layout generation, and they plan to extend that work to create a self‑learning loop between AI and hardware. Their session will explore how faster chip development could unlock more powerful and efficient AI systems.",
+      "key_points": [
+        "Ricursive Intelligence aims to reduce chip design time from years to weeks using AI.",
+        "Co‑founders Goldie and Mirhoseini previously led Google’s AlphaChip project.",
+        "The startup raised $335 million in a Series A at a $4 billion valuation within four months.",
+        "They will present at Disrupt 2026 on AI‑driven hardware design and its impact on AI progress."
+      ],
+      "topics": [
+        "ai",
+        "chip design",
+        "startup",
+        "disrupt",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-26T07:16:57.150876+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
+      "title": "Disrupt 2026 Layoff Expo+ Passes Available for $75 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is offering a discounted $75 Layoff Expo+ Pass for Disrupt 2026, targeting people who have been laid off. The promotion is limited to the first 100 qualifying individuals or until the conference opens on Oct. 13, 8 a.m. PT, whichever comes first. The pass grants access to the Expo Hall where attendees can meet over 300 startups, founders, investors, and tech leaders, but does not include industry stages or roundtables. The offer ends on Sept. 25 at 11:59 p.m. PT, and the full conference tickets can be purchased for additional programming.",
+      "key_points": [
+        "$75 Layoff Expo+ Pass is limited to the first 100 qualifying people or until the conference opens on Oct. 13",
+        "The pass includes access to the Expo Hall but excludes industry stages and roundtables",
+        "The promotion ends on Sept. 25 at 11:59 p.m. PT",
+        "Full conference tickets offer additional programming beyond the Expo Hall"
+      ],
+      "topics": [
+        "tech",
+        "networking",
+        "jobsearch",
+        "startup",
+        "event"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 14:15:00 +0000",
+      "processed_at": "2026-09-26T07:16:57.129394+00:00"
+    },
+    {
+      "id": "ps-techcrunch-com-2026-09-25-last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-Audience.webp?resize=1200,799",
+      "title": "Last 24 hours to save up to $200 on Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is offering a final 24‑hour window to save up to $200 on a Disrupt 2026 ticket, with an additional 50% off a second pass of the same type. The conference will take place at San Francisco’s Moscone West from October 13‑15 and will bring over 10,000 founders, investors and operators together for 250+ sessions across six industry stages. Attendees can compress months of research and networking into three days, gaining a year’s worth of connections and insights that can accelerate product launches, fundraising, and partnership deals. The discount ends at 11:59 p.m. PT on September 25, after which ticket prices will increase and the savings will disappear.",
+      "key_points": [
+        "Last chance to save up to $200 on a Disrupt 2026 ticket and 50% off a second pass.",
+        "Event hosts 10,000+ participants, 250+ sessions, and six industry stages in San Francisco.",
+        "Three‑day format promises accelerated networking, market research, and decision‑making.",
+        "Discount expires at 11:59 p.m. PT on September 25."
+      ],
+      "topics": [
+        "tech events",
+        "discounts",
+        "startup ecosystem",
+        "conferences",
+        "san francisco"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-26T07:16:59.570021+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-24-lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Lightspeed has announced a new early‑stage India fund, Lightspeed India Partners V, targeting $250 million with a focus on artificial intelligence. The fund is half the size of its $500 million predecessor raised in 2022 and already has 80 % of its commitments secured. Lightspeed plans to start investing within two months, aligning the fund’s cycle with its global vehicles for the first time. The firm believes AI will create more value in India than the internet did, and will seek companies across India and Southeast Asia.",
+      "key_points": [
+        "Lightspeed is raising a $250 million early‑stage AI fund in India, already 80 % committed.",
+        "The new fund is half the size of the 2022 $500 million fund and will invest over a 2½‑year period.",
+        "Lightspeed is aligning its India fund cycle with its global funds, a first for the firm.",
+        "The firm sees AI as the next major growth driver in India, targeting startups across India and Southeast Asia."
+      ],
+      "topics": [
+        "venturecapital",
+        "ai",
+        "india",
+        "fundraising",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "processed_at": "2026-09-26T07:17:15.325016+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-09-25-for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197091379.jpg?w=1024",
@@ -2343,130 +2468,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 20 Sep 2026 18:00:00 +0000",
       "processed_at": "2026-09-20T23:25:30.482978+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-19-trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
-      "title": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "President Donald Trump has announced a plan to rename artificial intelligence and is forming an AI Force, echoing his earlier stance that AI safety concerns are a hoax. He launched a poll on Truth Social asking followers to choose a new name for AI, offering options like Superior Intelligence, Extreme Intelligence, and Supreme Intelligence. Trump also said he will appoint an AI Czar and create a dedicated force to protect and oversee the industry, while dismissing critics who call for tighter regulation. The move comes amid heightened debate over AI safety, with industry leaders like OpenAI and Anthropic discussing existential risks and regulators weighing restrictions on data centers.",
-      "key_points": [
-        "Trump proposes renaming AI and holds a public poll for new terminology.",
-        "He announces an AI Force and an AI Czar to oversee the industry.",
-        "Trump dismisses AI safety concerns as a political hoax.",
-        "The announcement follows intensified debate over AI’s existential risks."
-      ],
-      "topics": [
-        "politics",
-        "ai",
-        "technology",
-        "safety",
-        "government"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 19 Sep 2026 19:57:47 +0000",
-      "processed_at": "2026-09-20T23:25:30.764716+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-19-even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
-      "title": "The US Navy just told us what's on its tech wish list for the next several years | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "The U.S. Navy has released a refreshed technology wish list outlining its priorities for the next several years, as revealed by Chief Technology Officer Justin Fanelli. The memo signals a shift from early‑stage research to buying mature Series D‑F companies and pursuing co‑investment opportunities, while keeping procurement streamlined through a small source‑selection committee. Key focus areas include applied AI, quantum information science, advanced networking, electromagnetic spectrum operations, and digital engineering and interoperability. Recent contracts—such as a $562 million MQ‑25 autonomous refueling drone and edge‑compute hardware from Armada—illustrate the Navy’s move toward commercial solutions that accelerate deployment and reduce costs.",
-      "key_points": [
-        "The Navy’s updated tech priorities emphasize applied AI, quantum science, advanced networking, spectrum ops, and digital engineering.",
-        "The procurement model now favors mature companies and co‑investment, moving away from early‑stage funding and complex approval layers.",
-        "Recent purchases demonstrate a rapid adoption of commercial tech, such as autonomous drones and edge‑compute containers, to enhance operational capability."
-      ],
-      "topics": [
-        "navy",
-        "defense",
-        "technology",
-        "procurement",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 19 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-20T23:25:30.589605+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-      "title": "World model companies are keeping a lot of secrets | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "World‑model startups such as Yann LeCun’s AMI Labs and Fei‑Fei Li’s World Labs are quietly advancing spatial‑intelligence technology while keeping product plans under wraps. The panel at the All In conference revealed that AMI’s VP of World Models declined to discuss specifics, and even suppliers like Physicl are left in the dark about what data is being used. Although world models promise lucrative applications from robotics to interactive video, the companies’ secrecy is a deliberate strategy to delay competition and protect nascent intellectual property. As funding remains plentiful, the industry may see a burst of breakthroughs once the companies decide to reveal their breakthroughs.",
-      "key_points": [
-        "AMI Labs and World Labs are keeping product details secret to avoid early competition",
-        "World models have broad applications from robotics to interactive video but are still in research phase",
-        "Suppliers such as Physicl are unaware of exact uses of their data",
-        "The industry’s easy fundraising fuels a race to reveal breakthroughs while maintaining secrecy"
-      ],
-      "topics": [
-        "world models",
-        "ai",
-        "secrecy",
-        "robotics",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 20 Sep 2026 20:29:07 +0000",
-      "processed_at": "2026-09-20T21:26:41.850119+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-18-a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Vantora, the rebranded version of UP.Labs, secured a $100 million investment from Silversmith Capital Partners and is pivoting to build startups exclusively for its corporate partners, offering a proprietary M&A pipeline that lets those partners absorb the ventures into their core businesses. The firm is sharpening its focus on physical AI solutions, targeting sovereign intelligence layers for Fortune 100 industrial companies that need to retrofit hardware for autonomy. Vantora’s portfolio now includes startups for Porsche, Alaska Airlines, J.B. Hunt, Wabash and TDG, and the new model allows it to pursue high‑value, proprietary use cases that were previously too sensitive for public markets.",
-      "key_points": [
-        "Vantora raised $100 million and rebranded from UP.Labs",
-        "It now builds startups solely for corporate partners with a proprietary M&A pipeline",
-        "The focus is on physical AI to meet sovereign intelligence needs of industrial clients",
-        "Existing partners include Porsche, Alaska Airlines, J.B. Hunt, Wabash and TDG"
-      ],
-      "topics": [
-        "startup",
-        "venturecapital",
-        "ai",
-        "physicalai",
-        "corporateinnovation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "processed_at": "2026-09-20T21:26:41.598120+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-20-is-the-ai-industry-really-ready-to-slow-down",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "title": "Is the AI industry really ready to slow down? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "The TechCrunch article discusses a growing debate over whether the AI industry should slow down, sparked by Anthropic CEO Dario Amodei’s call to \"pace the frontier\" and echoed by OpenAI’s Sam Altman. Nvidia CEO Jensen Huang, after a call with President Trump, dismissed the idea of a slowdown and emphasized that regulation is unnecessary, a stance that has drawn criticism from other industry voices. A recent Equity podcast episode highlighted that while many leaders quickly coalesced around Amodei’s plan, the proposal lacks concrete details, raising doubts about its effectiveness and the risk of forming a cartel. The discussion also touches on potential third‑party evaluators, international coordination, and the role of consumer choice in enforcing safety standards.",
-      "key_points": [
-        "Anthropic’s \"pace the frontier\" plan lacks concrete details, raising doubts about its impact on slowing AI development.",
-        "Nvidia CEO Jensen Huang dismisses a slowdown and aligns with President Trump, sparking criticism from other industry leaders.",
-        "Industry leaders quickly coalesced around the plan, but concerns remain about potential cartel formation and insufficient safeguards.",
-        "Proposed safety measures include third‑party evaluators and international coordination, yet remain vague and untested."
-      ],
-      "topics": [
-        "ai safety",
-        "regulation",
-        "industry slowdown",
-        "corporate leadership",
-        "tech policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 20 Sep 2026 18:56:04 +0000",
-      "processed_at": "2026-09-20T18:58:39.842896+00:00"
     }
   ]
 }
