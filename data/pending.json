@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:26:14.116804+00:00",
+  "updated_at": "2026-09-26T01:52:17.464737+00:00",
   "items": [
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
@@ -30,18 +30,6 @@
       "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
       "feed_excerpt": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
       "published": "Fri, 25 Sep 2026 15:52:13 +0000"
-    },
-    {
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "feed_excerpt": "The latest unauthorized agent swarms were discovered by researchers.",
-      "published": "Fri, 25 Sep 2026 15:48:14 +0000"
-    },
-    {
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "feed_excerpt": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "published": "Fri, 25 Sep 2026 15:40:03 +0000"
     },
     {
       "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
@@ -150,7 +138,13 @@
       "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
       "feed_excerpt": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
       "published": "Fri, 25 Sep 2026 20:33:58 +0000"
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "feed_excerpt": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "published": "Sat, 26 Sep 2026 01:08:57 +0000"
     }
   ],
-  "last_processed_at": "2026-09-25T23:26:32.794431+00:00"
+  "last_processed_at": "2026-09-26T01:52:28.194103+00:00"
 }
