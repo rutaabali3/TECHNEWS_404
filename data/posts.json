@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-09-26T19:41:19.473588+00:00",
+  "updated_at": "2026-09-26T22:32:01.936036+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-26-levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200",
+      "title": "Levoit's new air purifier is for the pet odors that have taken over your apartment | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Levoit's new Vital Pet Pro Air Purifier, priced at $189.99, targets pet owners by combining a three‑stage filtration system—washable pre‑filter, main filter, and 140‑gram activated carbon filter—with a U‑shaped inlet that captures pet hair and improves airflow. The device claims to remove up to 70% of pet odors within an hour and features automatic cleaning that deposits hair into a removable tray. A companion app offers Auto Plus, Pet, and Sleep modes that adjust fan speed and display air quality with a simple color system, while the purifier remains quiet enough for overnight use. It is available through Levoit's website, Amazon, Chewy, and other retailers.",
+      "key_points": [
+        "$189.99 price point for a pet‑specific air purifier",
+        "Three‑stage filtration with 140g activated carbon for odor control",
+        "Automatic cleaning and app‑controlled modes for hands‑off operation",
+        "Claims up to 70% odor removal in one hour"
+      ],
+      "topics": [
+        "pet care",
+        "air purifier",
+        "home appliances",
+        "technology",
+        "health"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 26 Sep 2026 17:00:00 +0000",
+      "processed_at": "2026-09-26T22:31:40.294428+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-26-i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Synthesia has created an interactive digital avatar of TechCrunch journalist Dominic‑Madori Davis, training it to answer only questions about his recent article on venture‑backed startup fraud. The avatar combines voice‑to‑text, language, text‑to‑voice, and video models, and is deterministic, redirecting any off‑topic query back to the trained content. This demo illustrates how AI avatars are being adopted in PR and raises questions about trust, authenticity, and the future role of journalists. Synthesia, now valued at $4 billion and boasting over $100 million in ARR, offers a range of products from scripted avatars to interactive role‑play sessions and an API for custom deployments.",
+      "key_points": [
+        "Synthesia built a deterministic interactive avatar of a journalist trained on a specific article",
+        "The avatar uses a stack of voice‑to‑text, language, text‑to‑voice, and video models",
+        "The demo highlights AI avatars’ potential in PR and raises concerns about journalistic trust",
+        "Synthesia’s $4 billion valuation and product suite position it as a leader in synthetic media"
+      ],
+      "topics": [
+        "ai avatars",
+        "synthetic media",
+        "journalism",
+        "tech startups",
+        "digital twins"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-26T22:32:01.934847+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-at-meta-connect-the-companys-smart-glasses-were-everywhere",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
+      "title": "At Meta Connect, the company's smart glasses were everywhere | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta Connect highlighted the company’s push into smart glasses, with the new audio‑only models dominating the event. The glasses feature six microphones but no camera, addressing privacy concerns, and integrate with Meta’s Muse AI to allow voice‑controlled tasks and customizable digital avatars. A second pair targets hearing‑impaired users, offering adjustable amplification at a $150 price point compared to traditional hearing aids. While the devices are still unreleased, the wide range of use cases suggests Meta is betting that smart glasses will become a mainstream accessory.",
+      "key_points": [
+        "Meta’s audio‑only smart glasses have no camera and six microphones, easing privacy worries.",
+        "The glasses integrate with Muse AI, enabling voice‑controlled tasks and avatar personalization.",
+        "A hearing‑impaired version offers adjustable amplification for $150, far cheaper than typical hearing aids.",
+        "Meta’s extensive showcase at Connect signals a broad strategy to make smart glasses stylish, functional, and useful."
+      ],
+      "topics": [
+        "meta",
+        "smartglasses",
+        "audioglasses",
+        "privacy",
+        "hearingaid"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 26 Sep 2026 01:08:57 +0000",
+      "processed_at": "2026-09-26T22:31:40.551083+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-meta-opens-early-access-program-for-new-muse-features",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "title": "Meta opens early access program for new Muse features | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta announced an early access program for its Muse AI app following its Connect 2026 developer conference, allowing users to request participation by sending a prompt to Muse. The program will let enthusiasts test new capabilities before the general public, including a digital avatar for video chat, expanded Mac app functionality, additional shopping connectors, and integration with Meta’s AI glasses. By targeting active AI users, Meta aims to gather feedback and stay ahead of competitors. The initiative reflects the company’s push to strengthen Muse’s position in the growing AI app market.",
+      "key_points": [
+        "Meta opens an early access program for Muse features via a prompt to Muse",
+        "New capabilities include a digital avatar, expanded Mac app, shopping connectors, and AI glasses integration",
+        "The program targets AI enthusiasts to provide feedback and maintain competitive advantage"
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "ai",
+        "early access",
+        "features"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 20:34:53 +0000",
+      "processed_at": "2026-09-26T22:31:45.506570+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pdp_hero_clean3.jpg?resize=1200,1200",
+      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Meadow, a new hardware startup founded by Shreyas Narlanka, offers a minimalist Android phone designed to let users unplug without abandoning essential services like Uber, Apple Music, and Maps. The device runs a stripped‑down UI, supports a limited set of native apps, and requires a separate subscription plan that provides a new phone number for calls and texts. While it can handle basic tasks and even ticket scanning, users must manage a second number and rely on a companion app on their main phone for photo storage and certain features. Meadow’s goal is to give people a low‑distraction companion that encourages outdoor activity and reduced screen time without fully replacing their primary smartphone.",
+      "key_points": [
+        "Meadow is a minimalist Android phone that supplements rather than replaces a user’s main smartphone, offering essential apps and a separate subscription‑based phone number.",
+        "The device supports core functions such as navigation, ride‑hailing, music streaming, and ticket scanning, but requires a companion app on the main phone for photo viewing and some features.",
+        "Meadow’s design prioritizes outdoor use and reduced digital distraction, aiming to help users disconnect while still staying connected to critical services.",
+        "The startup, led by 25‑year‑old founder Shreyas Narlanka, raised funding in December 2024 and has shipped its first batch to preorders."
+      ],
+      "topics": [
+        "minimal phone",
+        "disconnection",
+        "hardware startup",
+        "subscription services",
+        "mobile tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 14:05:04 +0000",
+      "processed_at": "2026-09-26T22:31:40.180142+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
@@ -2340,129 +2464,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 22 Sep 2026 12:23:05 +0000",
       "processed_at": "2026-09-22T12:28:19.716770+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1379161855.jpg?resize=1200,800",
-      "title": "Exclusive: Meta deal will help plastics recycling startup MacroCycle build its first factory | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Meta has entered a three‑year agreement with plastics‑recycling startup MacroCycle to purchase environmental attribute credits generated by MacroCycle’s low‑carbon PET recycling process. The deal will fund MacroCycle’s first U.S. commercial plant, which can produce 5,000 metric tons of recycled plastic per year and cuts carbon emissions by 80% compared to virgin PET. MacroCycle’s solvent‑based method removes contaminants and produces material indistinguishable from new plastic, positioning it to supply Meta’s packaging and hardware supply chain. The partnership also aims to create a broader market for low‑carbon plastics, helping Meta meet its growing carbon‑footprint goals amid the AI boom.",
-      "key_points": [
-        "Meta will pay MacroCycle for environmental attribute credits, providing revenue to build its first U.S. plant.",
-        "MacroCycle’s solvent‑based PET recycling cuts emissions 80% and can produce 5,000 metric tons annually.",
-        "The partnership helps Meta lower its own carbon footprint and stimulates a market for low‑carbon plastics."
-      ],
-      "topics": [
-        "plastics recycling",
-        "environmental credits",
-        "meta",
-        "sustainability",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 11:00:00 +0000",
-      "processed_at": "2026-09-22T12:28:36.115877+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675",
-      "title": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has launched the Googlebook, a $899 Android‑based laptop that integrates its Gemini AI directly into the desktop experience, offering features such as an AI cursor, Rambler dictation, and vibe‑coded widgets. The device is positioned as a step up from traditional Chromebooks and is aimed at the K‑12 market, where Google hopes to convert the roughly 50 million Chromebook users to its new AI platform. Flagship models from Acer, ASUS, Dell, HP and Lenovo will ship on October 4 in the U.S. and October 5 in several other countries, featuring up to 2.8K OLED displays, 14‑hour battery life and 10‑year updates, and include a 12‑month Google AI Pro subscription. Preorders are open through the Google Store and retailers like Best Buy, with the launch targeting both consumers and educational institutions.\n",
-      "key_points": [
-        "Googlebook is priced at $899 and will ship Oct 4/5 with preorders open now",
-        "It runs Android with ChromeOS elements and embeds Gemini AI via an AI cursor, Rambler dictation, and other AI features",
-        "Google targets the K‑12 market, aiming to transition 50 million Chromebook users to its Gemini‑powered platform",
-        "Flagship models from Acer, ASUS, Dell, HP and Lenovo offer up to 2.8K OLED, 14‑hour battery, 10‑year updates and include a 12‑month Google AI Pro subscription"
-      ],
-      "topics": [
-        "google",
-        "ai",
-        "laptop",
-        "chromebook",
-        "education"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "processed_at": "2026-09-22T12:28:20.049420+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-morphotonics-raises-e40m-as-it-tk-tk-tk-t",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675",
-      "title": "Morphotonics raises €40M to expand its display tech into data centers | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Morphotonics, a Dutch nanoimprint lithography startup, has raised €40 million to scale its waveguide production and expand into optical components for data centers. The funding round was led by 3M Ventures, Innovation Industries, BOM, Invest‑NL, the EIC Fund, Ernij Next and the European Investment Bank. With 60 employees and a new machine capable of producing more than 6 million waveguides a year, the company aims to meet the growing demand for smart‑glass displays and photonic integrated circuits. Revenue is largely hardware‑based, but Morphotonics plans to reach 50 deployments in the next two to three years, boosting service income as well.",
-      "key_points": [
-        "€40 million raised from a mix of venture, family office and European institutional investors",
-        "Morphotonics uses nanoimprint lithography to manufacture waveguides for smart glasses and is targeting data‑center optics",
-        "The next machine will produce over 6 million waveguides per year and the company plans to grow headcount to 70‑75",
-        "Hardware sales account for ~90% of revenue, with plans to expand deployments to 50 in 2‑3 years"
-      ],
-      "topics": [
-        "nanolithography",
-        "smartglasses",
-        "data centers",
-        "photonic integrated circuits",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 06:00:00 +0000",
-      "processed_at": "2026-09-22T06:44:40.515838+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
-      "title": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Ron Johnson, the architect behind Apple’s retail empire, argues that Silicon Valley’s push for AI‑driven shopping is overestimating how much consumers will hand over buying decisions to machines. He believes physical stores will remain essential for high‑value, tactile purchases like laptops, and that AI will mainly serve to inform shoppers before they visit a store. Johnson, who built Apple’s stores in the early 2000s and later led a failed turnaround at J.C. Penney, stresses that people, not commission‑based sales pressure, are the secret to successful retail. Despite his skepticism about AI replacing human judgment, he remains an AI optimist and thinks the technology will complement, not replace, in‑store experiences.",
-      "key_points": [
-        "Ron Johnson believes AI will not replace physical shopping for high‑value, tactile products",
-        "He argues that AI will mainly inform shoppers, not make purchases",
-        "Johnson’s experience shows that people‑centric retail models outperform commission‑based sales cultures"
-      ],
-      "topics": [
-        "ai",
-        "retail",
-        "apple",
-        "shopping",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
-      "processed_at": "2026-09-22T06:44:41.017939+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Ahad Ali, a former accountant who once managed 20 staff and 2,000+ returns a year, is building Tabby, an AI‑powered real‑time bookkeeping platform that eliminates the need for traditional accounting software like QuickBooks. Tabby pulls live account data via Plaid and instantly generates profit‑and‑loss dashboards, targeting small businesses that want a single, subscription‑style service instead of multiple SaaS tools. With 5,500 small‑business customers and roughly $100,000 in annual recurring revenue, the seven‑person team is raising $1 million in pre‑seed funding and plans to launch a natural‑language interface called Tabby Talk. The company faces competition from QuickBooks, Sequoia‑backed Rillet, and finance tools from major AI labs, but aims to carve out a niche by focusing on the 30 million small‑to‑medium firms that could benefit from automated bookkeeping.",
-      "key_points": [
-        "Tabby uses AI to automate bookkeeping and replace traditional accounting software",
-        "The startup has 5,500 customers, $100k ARR, and a 7‑person team raising $1M pre‑seed",
-        "Competition includes QuickBooks, Rillet, and major AI labs’ finance tools",
-        "Tabby seeks to shift small‑business accounting costs to a low‑margin subscription model"
-      ],
-      "topics": [
-        "ai",
-        "accounting",
-        "fintech",
-        "startup",
-        "smallbusiness"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "processed_at": "2026-09-22T06:44:56.842018+00:00"
     }
   ]
 }
