@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-26T12:22:26.938659+00:00",
+  "updated_at": "2026-09-26T16:38:05.538894+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "echcrunch-com-2026-09-24-bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+      "title": "Buy one and get a second Disrupt pass at 50% off | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is offering a buy‑one‑get‑one‑50%‑off deal for its 2026 Disrupt conference, valid until the venue opens on October 13. The promotion applies to all ticket types—Investor, Founder, Attendee, Non‑profit, Student, and Expo+—and can save attendees up to $450 on a second pass. The first‑ticket discount of up to 25% (or $200) ends September 25, after which prices rise. The offer encourages attendees to bring a colleague or partner to maximize networking and learning opportunities.",
+      "key_points": [
+        "Buy one, get a second Disrupt 2026 ticket at 50% off until October 13",
+        "Savings can reach $450 depending on ticket type",
+        "First‑ticket discount of up to 25% expires September 25",
+        "The deal is designed to boost networking by encouraging attendees to bring a colleague"
+      ],
+      "topics": [
+        "tech conferences",
+        "ticket discounts",
+        "networking",
+        "startups",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 19:15:00 +0000",
+      "processed_at": "2026-09-26T16:37:33.141229+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Mark Wahlberg will headline the main stage at TechCrunch Disrupt 2026, sharing how he pivoted from a Hollywood career to building a diversified business portfolio and an institutional‑level investment practice focused on healthcare and wellness startups. The session, co‑hosted with Bruce K. Lee, CEO of Keebeck Wealth Management, will reveal the mindset and strategies that helped Wahlberg transition into sophisticated finance and venture circles. Disrupt 2026 also features major AI players such as OpenAI, Anthropic, and Replit across 200+ sessions and offers ticket savings of up to $200 and a 50% discount on a second ticket until September 25. With more than 10,000 tech leaders expected to attend, the event promises a rare blend of entertainment, entrepreneurship, and cutting‑edge technology insights.",
+      "key_points": [
+        "Wahlberg will discuss his shift from acting to investing and business ventures, emphasizing healthcare and wellness startups",
+        "The talk will provide a candid look at building an investment mindset and navigating high‑profile deal flow",
+        "Disrupt 2026 hosts major AI companies and offers significant ticket discounts until September 25",
+        "The conference attracts over 10,000 tech leaders across 200+ sessions"
+      ],
+      "topics": [
+        "tech",
+        "investing",
+        "entertainment",
+        "ai",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 18:48:33 +0000",
+      "processed_at": "2026-09-26T16:37:48.295714+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-will-metas-ai-tamagotchi-bet-isworking",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+      "title": "Meta’s AI Tamagotchi bet is…working? | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Meta’s personal AI agent Muse is outpacing ChatGPT’s early mobile launch and has just debuted a Tamagotchi‑style wearable called Muse Charm, signaling the company’s push into consumer AI hardware. The new device showcases the agent’s capabilities and hints at future integration with Meta’s smart glasses. In a TechCrunch Equity podcast episode, hosts discuss how Meta’s consumer AI strategy could reshape startup opportunities and the broader AI ecosystem. The conversation also touches on recent model releases from OpenAI and Anthropic and highlights a16z’s new founder school and other AI‑hardware deals.",
+      "key_points": [
+        "Meta’s Muse AI agent surpasses ChatGPT on mobile launch",
+        "Meta released a Tamagotchi‑style wearable called Muse Charm",
+        "The move signals Meta’s push into consumer AI hardware, including smart glasses",
+        "Startups can build on Meta’s platform amid a broader AI ecosystem shift"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "consumerai",
+        "wearable",
+        "smartglasses"
+      ],
+      "source_url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-09-26T16:37:32.878207+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/ransomware-crypto-gold-Samuil_Levich-getty.jpg?resize=1200,799",
+      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "North Korean hackers are suspected of stealing more than $351 million from Bitget's hot wallets in a cyberattack that took place on Thursday. The breach is the largest known crypto theft of 2026, surpassing a $340 million heist in September that left $47 million missing. Bitget has halted withdrawals and says its $464 million user protection fund should cover the loss. The incident underscores the growing threat of state‑backed actors targeting cryptocurrency exchanges to fund illicit programs.",
+      "key_points": [
+        "$351 million theft from Bitget hot wallets",
+        "Largest crypto heist of 2026, surpassing $340 million September hack",
+        "Bitget suspended withdrawals; $464 million protection fund to cover loss"
+      ],
+      "topics": [
+        "cryptocurrency",
+        "cybersecurity",
+        "north korea",
+        "hack",
+        "crypto exchange"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 13:24:34 +0000",
+      "processed_at": "2026-09-26T16:37:33.027149+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-25-ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
@@ -2367,107 +2466,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 21 Sep 2026 17:45:35 +0000",
       "processed_at": "2026-09-22T01:30:33.885466+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660",
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Kairos Power has secured up to $100 million from Samsung C&T, including a $70 million equity stake and in‑kind engineering services, to build a 50‑megawatt demonstration reactor for Google by 2030. Samsung C&T, which has built about a dozen reactors worldwide, will help construct the fluoride‑salt‑cooled high‑temperature reactor that uses TRISO fuel to reduce meltdowns. The project follows Google’s 2024 agreement for Kairos to deliver half a gigawatt of power by 2035, with the first commercial‑scale unit, Hermes 2, slated to start operating in 2030. The deal positions Kairos among a wave of nuclear startups targeting AI data‑center demand and showcases a rapid, low‑pressure reactor design that could accelerate commercial deployment.",
-      "key_points": [
-        "Samsung C&T will invest $70 million equity and provide engineering services worth up to $100 million for Kairos Power’s 50‑MW reactor for Google.",
-        "The reactor will be a fluoride‑salt‑cooled high‑temperature design using TRISO fuel, aiming to start operation in 2030.",
-        "Google’s 2024 deal calls for Kairos to deliver 0.5 GW of power by 2035, with Hermes 2 counting as the first 50 MW.",
-        "Samsung C&T’s experience building a dozen reactors worldwide could help Kairos accelerate future commercial deployments."
-      ],
-      "topics": [
-        "nuclear",
-        "startups",
-        "google",
-        "samsung",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 18:23:05 +0000",
-      "processed_at": "2026-09-21T22:44:58.863070+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-      "title": "Oura's $2.2B IPO is mostly a payday for existing shareholders | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Oura plans to raise up to $2.2 billion in its IPO, but the deal is largely a liquidity event for existing shareholders, with Forerunner Ventures set to sell its 9.3% stake for roughly $1.2 billion. The company will receive about $532.6 million in net proceeds, which it intends to use to settle tax obligations tied to employee share grants, leaving only a few million for general corporate purposes. Oura’s business is shifting toward a highly profitable membership model that now accounts for 20% of sales, while hardware remains the largest revenue source. If the shares price at the top of the $40–$44 range, the company could achieve a market cap near $14.1 billion, up from an $11 billion valuation in October 2025.",
-      "key_points": [
-        "The IPO is mainly a payday for existing shareholders, especially Forerunner Ventures, which will sell its 9.3% stake for about $1.2 billion.",
-        "Oura will use the bulk of its net proceeds to pay tax obligations related to employee share grants, leaving only a small amount for corporate use.",
-        "The company’s membership business, with an 89% gross margin, is growing rapidly and now represents 20% of total revenue.",
-        "If priced at the top of the range, Oura could reach a market cap of roughly $14.1 billion.",
-        ""
-      ],
-      "topics": [
-        "ipo",
-        "tech",
-        "wearable",
-        "healthtech",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 16:45:47 +0000",
-      "processed_at": "2026-09-21T22:44:58.782317+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-metas-ai-agent-has-been-blocked-from-using-amazon-com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "title": "Meta's AI agent has been blocked from using Amazon.com | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Meta’s AI assistant Muse was blocked from making purchases on Amazon after users received an error message stating that continued access by an unauthorized AI agent violates Amazon’s Conditions of Use. The block highlights a clash between two tech giants, with Amazon citing its own foundation models and the risk of handling mistakes made by an external AI. Amazon’s reluctance to allow Muse to shop stems from concerns over order errors, customer and vendor fallout, and the company’s desire to control agent‑driven commerce until it is more mature. The incident underscores the growing tension as AI assistants expand into e‑commerce while major platforms guard their own ecosystems.",
-      "key_points": [
-        "Amazon blocked Meta’s Muse from shopping due to unauthorized AI use.",
-        "Amazon’s own foundation models and risk of order errors make it cautious about agentic commerce.",
-        "The block reflects a broader rivalry between Meta and Amazon in the AI and e‑commerce space.",
-        "Amazon may wait for more stable AI releases before enabling such features."
-      ],
-      "topics": [
-        "amazon",
-        "meta",
-        "ai",
-        "ecommerce",
-        "agentic commerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "processed_at": "2026-09-21T19:08:45.502718+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
-      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Corridor, founded by former Scale AI product lead Jackson Wagner, raised a $25 million seed round led by Bain Capital Ventures to launch an AI‑powered health benefits brokerage for small businesses. The platform pairs human advisors with AI agents that automate administrative tasks such as network checks, scheduling, and information updates, aiming to serve SMBs that traditional brokers often overlook. Wagner’s personal experience with chronic pain and inefficient care motivated the venture, and the company plans to go live in Q4 when most small businesses select health plans. Corridor competes with firms such as Ignition Benefits and Nava Benefits, and its investors include BoxGroup and executives from OpenAI, Scale AI, and Ramp.",
-      "key_points": [
-        "Corridor raised $25 million seed led by Bain Capital Ventures to launch an AI‑powered health benefits brokerage for small businesses.",
-        "The service combines human advisors with AI agents that handle administrative tasks such as network verification and scheduling.",
-        "Founder Jackson Wagner’s personal health struggles inspired the focus on improving access to better health plans for SMBs.",
-        "Corridor plans to go live in Q4, aligning with the peak period when 80% of small businesses choose health plans."
-      ],
-      "topics": [
-        "healthtech",
-        "ai",
-        "startups",
-        "smallbusiness",
-        "venturecapital"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 13:49:00 +0000",
-      "processed_at": "2026-09-21T13:55:04.886432+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T12:22:02.851731+00:00",
+  "updated_at": "2026-09-26T16:37:31.375391+00:00",
   "items": [
     {
       "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
@@ -8,34 +8,16 @@
       "published": "Thu, 24 Sep 2026 15:00:00 +0000"
     },
     {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "feed_excerpt": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "published": "Thu, 24 Sep 2026 19:15:00 +0000"
-    },
-    {
       "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
       "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
       "feed_excerpt": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
       "published": "Fri, 25 Sep 2026 14:05:04 +0000"
     },
     {
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-      "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-      "feed_excerpt": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
-      "published": "Fri, 25 Sep 2026 13:24:34 +0000"
-    },
-    {
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
       "feed_excerpt": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
       "published": "Fri, 25 Sep 2026 19:13:38 +0000"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "published": "Fri, 25 Sep 2026 18:48:33 +0000"
     },
     {
       "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
@@ -48,12 +30,6 @@
       "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
       "feed_excerpt": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
       "published": "Fri, 25 Sep 2026 17:24:36 +0000"
-    },
-    {
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "feed_excerpt": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -90,7 +66,13 @@
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "feed_excerpt": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
       "published": "Sat, 26 Sep 2026 01:08:57 +0000"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "feed_excerpt": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "published": "Sat, 26 Sep 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-26T12:22:10.624584+00:00"
+  "last_processed_at": "2026-09-26T16:37:48.295795+00:00"
 }
