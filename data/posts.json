@@ -1,7 +1,104 @@
 {
-  "updated_at": "2026-09-26T16:38:05.538894+00:00",
+  "updated_at": "2026-09-26T19:41:19.473588+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Crusoe, the Denver‑based AI data‑center builder that recently raised $3.9 billion, has dropped its $1.25 billion agreement to install 29 of Boom Supersonic’s 42‑megawatt Superpower turbines at its Abilene campus. The partnership, which was meant to begin deliveries in 2027, was called off after Boom’s CEO announced that turbines would no longer be part of Crusoe’s near‑term power mix, though the company still plans to use turbines from other suppliers. Boom Supersonic will continue to supply about 250 MW of Superpower turbines to other sites next year and aims for 1 GW by 2028, while Crusoe remains committed to a mix of wind, solar, batteries, grid and on‑site gas turbines for its expanding facilities.",
+      "key_points": [
+        "Crusoe cancels $1.25 billion deal with Boom Supersonic for 29 turbines, ending the planned 2027 delivery",
+        "Boom Supersonic will still deliver 250 MW of Superpower turbines to other sites next year and target 1 GW by 2028",
+        "Crusoe will continue using turbines from other suppliers and a mix of renewable and grid power for its data centers",
+        "The partnership’s collapse is a setback for Boom’s new business but does not halt its broader turbine rollout"
+      ],
+      "topics": [
+        "ai data centers",
+        "energy",
+        "boom supersonic",
+        "turbines",
+        "partnership"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "processed_at": "2026-09-26T19:40:53.379820+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Microphone.jpg?resize=1200,800",
+      "title": "The hottest new hangout for middle schoolers is NPR's comment section? | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "NPR’s Wild Card podcast has become an unexpected gathering place for middle‑schoolers who use the Spotify comment section to chat, a trend first noticed by the show’s producer who mistook the cryptic messages for bot traffic. The discovery came after NPR staff saw a flood of odd abbreviations and emojis and reported them to Spotify, only to learn the posts were from teens too young for mainstream social media. The kids explained they were simply looking for podcasts with fewer comments, turning NPR into a low‑pressure social hub. The episode highlights how younger audiences are finding new digital spaces and how creators might adapt to reach them.",
+      "key_points": [
+        "Middle‑schoolers are using NPR’s Wild Card Spotify comments as a social chat space.",
+        "NPR staff initially mistook the messages for bots before realizing they were real kids.",
+        "The trend shows younger audiences seeking low‑traffic platforms for peer interaction."
+      ],
+      "topics": [
+        "podcast",
+        "social media",
+        "gen z",
+        "childhood",
+        "digital culture"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 20:33:58 +0000",
+      "processed_at": "2026-09-26T19:41:01.220789+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/supabase-2279843922.jpg?resize=1200,800",
+      "title": "Some Supabase customers are publicly exposing reams of people's data to the web | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "UpGuard’s latest security research uncovered roughly 16,000 Supabase-hosted databases that were publicly exposing personal data, including names, addresses, phone numbers, and passwords. The findings highlight how developers using AI-generated code on the platform can unintentionally misconfigure databases, leading to leaks that range from private conversations to government consulate data. Supabase, which recently hit a $10 billion valuation, has defended its security posture as “secure by default” while emphasizing shared responsibility with customers. The study underscores the growing risk of data breaches fueled by rapid AI-driven app development and the need for tighter default safeguards.",
+      "key_points": [
+        "UpGuard identified about 16,000 Supabase databases with exposed personal data.",
+        "Exposures include sensitive information such as passwords, government consulate data, and private conversations.",
+        "Supabase claims its platform is secure by default but stresses shared responsibility with users.",
+        "AI-generated code and misconfigurations are driving a new wave of data breaches."
+      ],
+      "topics": [
+        "supabase",
+        "data breach",
+        "cybersecurity",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 17:29:46 +0000",
+      "processed_at": "2026-09-26T19:40:53.814321+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-astra-and-opus-just-passed-turings-other-test",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791",
+      "title": "Astra and Opus just passed Turing's other test | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI’s GPT‑6 model Astra and Anthropic’s Claude Opus 5 have each cracked a long‑unsolved Enigma message, a feat that had stumped researchers for decades. Developer Carter Leffen asked Astra to search a database of wartime Enigma transmissions, and the model built a simulator, located context clues, and produced the plaintext of a 2005‑unsolved message. Retired engineer Frode Weierud confirmed Leffen’s solution and praised the model’s archival research, noting it could have accessed German public archives or other private collections. Similarly, Jack Willis guided Claude Opus 5 to break another message by leveraging a known officer’s signature, bringing the total number of unbroken Enigma messages to seven.",
+      "key_points": [
+        "Astra and Claude Opus 5 each solved a previously unsolved Enigma message.",
+        "The breakthroughs were achieved by AI models building simulators and mining archival data.",
+        "The work demonstrates AI’s potential to accelerate cryptanalysis and historical research."
+      ],
+      "topics": [
+        "enigma",
+        "cryptanalysis",
+        "ai",
+        "openai",
+        "anthropic"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 17:24:36 +0000",
+      "processed_at": "2026-09-26T19:40:53.732462+00:00"
+    },
     {
       "id": "echcrunch-com-2026-09-24-bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass",
       "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
@@ -2366,106 +2463,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 21 Sep 2026 16:38:51 +0000",
       "processed_at": "2026-09-22T06:44:56.842018+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_1-Speaker_Stein-16x9-Dark.png?resize=1200,675",
-      "title": "Google’s VP of product Robby Stein joins Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Google’s vice president of product, Robby Stein, will headline a Fireside Chat at TechCrunch Disrupt 2026 titled \"From MVP to Billions of Users: How Product Decisions Must Change at Scale.\" The session will explore how product teams balance speed, trust, and reliability as their user base grows to billions, with a particular focus on generative AI features in Google Search that now serve over a billion monthly users. Stein brings a blend of startup and large‑company experience, having co‑founded Stamped, led Instagram’s consumer products, and returned to Google in 2024 to work on AI Mode. Disrupt 2026, held at Moscone West from October 13‑15, offers 10,000+ attendees, 200+ sessions, and early‑bird ticket discounts that end September 25.",
-      "key_points": [
-        "Robby Stein’s session examines how product decision‑making shifts from MVP to serving billions, emphasizing speed versus reliability.",
-        "Stein’s background spans founding Stamped, leading Instagram’s core products, and driving AI Mode at Google Search, which now exceeds 1 billion users.",
-        "The talk highlights the challenges of integrating generative AI while maintaining user trust and consistent performance.",
-        "Disrupt 2026 provides a platform for founders, investors, and tech leaders to network across six industry stages and 200+ sessions."
-      ],
-      "topics": [
-        "product management",
-        "ai",
-        "google",
-        "disrupt",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-22T06:44:40.988091+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "OpenAI announced the creation of an independent Advisory Group on Mathematics and Artificial Intelligence hosted at the Institute for Advanced Study in Princeton, aimed at giving mathematicians a voice in the company’s math research. The move follows the public release of a solution to the Navier‑Stokes Millennium Prize problem and the claim that an internal model has solved more than 100 additional open problems across mathematics. A group of nine mathematicians, only one of whom signed a recent open letter by 25 Fields Medalists, will serve in an advisory capacity without influencing the pace of OpenAI’s research. The announcement highlights tensions between AI labs and the mathematical community over the rapid deployment of AI‑generated solutions to longstanding problems.",
-      "key_points": [
-        "OpenAI formed an independent math advisory group at IAS to involve mathematicians in its research",
-        "The group was created after an AI model solved the Navier‑Stokes problem and over 100 other open math problems",
-        "A letter signed by 25 Fields Medalists criticized AI labs for threatening the mathematical community",
-        "The advisory group has no decision‑making power and cannot slow or redirect OpenAI’s research pace"
-      ],
-      "topics": [
-        "openai",
-        "mathematics",
-        "ai",
-        "research",
-        "advisory"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "processed_at": "2026-09-22T01:30:07.976814+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-      "title": "5 days left to save up to $200 on your Disrupt 2026 ticket | TechCrunch",
-      "author": "Jessica Barrera",
-      "summary": "TechCrunch Disrupt 2026 is offering a limited‑time discount of up to $200 on tickets and 50% off a second ticket, with the promotion ending on September 25 at 11:59 p.m. PT. The conference will host 200 Startup Battlefield startups, 20 live pitch sessions, and a $100,000 equity‑free prize for the winner, drawing over 10,000 founders, investors, and operators to San Francisco’s Moscone West. Attendees can discover emerging companies, technologies, and markets before they hit the mainstream, while exhibitors have until September 18 to secure a table. The event’s early‑stage focus and large network make it a key venue for investors, founders, and tech leaders seeking new opportunities.",
-      "key_points": [
-        "5 days left to save up to $200 on Disrupt 2026 tickets and 50% off a second ticket",
-        "The event features 200 Startup Battlefield startups, 20 live pitches, and a $100,000 equity‑free prize",
-        "Over 10,000 founders, investors, and operators attend, offering early discovery of emerging companies and markets",
-        "Ticket prices increase on Sept 25 11:59 p.m. PT and exhibit tables close Sept 18"
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "ticket discounts",
-        "investor",
-        "pitch competition"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "processed_at": "2026-09-22T01:30:08.232333+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?resize=1200,675",
-      "title": "X will now tell users when governments have forced it to limit their posts | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "X announced a new feature that will inform users when their posts have been shadowbanned because the platform is complying with local laws. The update expands the existing Under the Hood transparency tool to show post‑level downranking, withheld posts, the requesting country, and the legal basis for the restriction. By providing this data in a downloadable JSON file, X aims to reduce accusations of arbitrary shadowbanning and increase user trust. The move follows earlier transparency steps such as open‑sourceing its For You algorithm and parts of its codebase.",
-      "key_points": [
-        "X will notify users when posts are shadowbanned due to government‑required content filtering.",
-        "Under the Hood now includes post‑level visibility data and details of government requests.",
-        "The feature is part of X’s broader transparency push, including open‑source algorithms and code.",
-        "It provides a downloadable JSON file that users can analyze or feed to AI tools."
-      ],
-      "topics": [
-        "social media",
-        "transparency",
-        "government regulation",
-        "content moderation",
-        "x"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 17:45:35 +0000",
-      "processed_at": "2026-09-22T01:30:33.885466+00:00"
     }
   ]
 }

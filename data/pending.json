@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T16:37:31.375391+00:00",
+  "updated_at": "2026-09-26T19:40:52.170813+00:00",
   "items": [
     {
       "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
@@ -20,24 +20,6 @@
       "published": "Fri, 25 Sep 2026 19:13:38 +0000"
     },
     {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "feed_excerpt": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "published": "Fri, 25 Sep 2026 17:29:46 +0000"
-    },
-    {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "feed_excerpt": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "published": "Fri, 25 Sep 2026 17:24:36 +0000"
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "feed_excerpt": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
-      "published": "Fri, 25 Sep 2026 23:11:10 +0000"
-    },
-    {
       "title": "Automattic has a new board after failed attempt to put CEO on leave",
       "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
       "feed_excerpt": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
@@ -56,12 +38,6 @@
       "published": "Fri, 25 Sep 2026 20:34:53 +0000"
     },
     {
-      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-      "feed_excerpt": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-      "published": "Fri, 25 Sep 2026 20:33:58 +0000"
-    },
-    {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "feed_excerpt": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
@@ -72,7 +48,19 @@
       "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "feed_excerpt": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
       "published": "Sat, 26 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "feed_excerpt": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+      "published": "Sat, 26 Sep 2026 17:44:00 +0000"
+    },
+    {
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "feed_excerpt": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "published": "Sat, 26 Sep 2026 17:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-26T16:37:48.295795+00:00"
+  "last_processed_at": "2026-09-26T19:41:01.220867+00:00"
 }
