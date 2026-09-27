@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-27T06:56:58.571814+00:00",
+  "updated_at": "2026-09-27T17:36:53.842741+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-27-anthropics-dario-amodei-gets-the-snl-treatment",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "title": "Anthropic's Dario Amodei gets the SNL treatment | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Saturday Night Live’s Weekend Update featured a sketch in which cast member Jane Wickline impersonated Anthropic CEO Dario Amodei, lampooning the company’s recent public warnings about AI risks. The parody portrayed Amodei as stumbling through a press tour, delivering awkward answers and even a Gollum‑style confession that “AI is the devil and I its maker.” Wickline’s version of the CEO assured audiences that AI executives “are all on the same page here: We do not condone what we are doing,” while joking that AI is a tool for building weapons and that there is only a 10% chance cancer will be cured in ten years. The sketch was part of a broader SNL commentary on the AI industry’s hype and caution, coinciding with TechCrunch’s coverage of the event.",
+      "key_points": [
+        "SNL spoofed Anthropic CEO Dario Amodei with Jane Wickline",
+        "The sketch mocked AI risk warnings and portrayed Amodei as uncertain and ominous",
+        "It highlighted the tension between AI hype and ethical concerns",
+        "The segment was covered by TechCrunch alongside other AI industry news"
+      ],
+      "topics": [
+        "saturday night live",
+        "anthropic",
+        "dario amodei",
+        "ai",
+        "tech satire"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "processed_at": "2026-09-27T17:36:38.928321+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-27-techcrunch-mobility-av-companies-pick-their-lanes",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
+      "title": "TechCrunch Mobility: AV companies pick their lanes | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Autonomous‑vehicle firms are accelerating commercial rollout through strategic partnerships and geographic focus, with Wayve partnering with Mercedes‑Benz, Nissan and Stellantis to embed Level‑2 tech and launch a robotaxi in Tokyo, while Waymo concentrates its 4,000‑vehicle fleet in California and Texas and is expanding into teenage riders. Aurora is targeting 30,000 driverless trucks by 2030, and the industry is also seeing a wave of IPO activity outside the U.S., from SoftBank‑backed Carro to Hong Kong’s EcoCeres and U.S.‑based May Mobility. A safety scare at Zoox, where test‑fleet drivers in Atlanta reported gas exposure, prompted the company to ground its vehicles and an OSHA inquiry. Meanwhile, other movers such as Ultraviolette, Comma, and Tesla’s Semi trucks illustrate the sector’s rapid evolution and regulatory scrutiny.",
+      "key_points": [],
+      "topics": [
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 16:02:00 +0000",
+      "processed_at": "2026-09-27T17:36:38.802318+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-27-sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "The Sennheiser Momentum 5, priced at $399.99, delivers balanced, Dolby Atmos‑enabled sound that outperforms many rivals in clarity and bass without distortion. Its 57‑hour battery life—twice that of the Sony WH‑1000XM6 and nearly three times that of the AirPods Max 2—includes a replaceable cell and a quick‑charge feature that yields seven hours from a ten‑minute charge. With eight microphones, the Momentum 5 offers ANC that is up to three times more effective than the previous generation, reducing chatter and ambient noise without the pressurizing feel of some competitors. The companion Smart Control Plus app provides an 8‑band EQ, adjustable ANC levels, wind‑noise reduction, and a personalized sound profile, giving users extensive control over their listening experience.",
+      "key_points": [
+        "Balanced sound with Dolby Atmos support and strong bass",
+        "57‑hour battery life and replaceable cell for long‑term use",
+        "Eight microphones deliver ANC up to three times more effective than prior model",
+        "Smart Control Plus app offers EQ, ANC adjustment, wind‑noise mode, and sound personalization"
+      ],
+      "topics": [
+        "headphones",
+        "audio",
+        "battery",
+        "noise cancellation",
+        "app"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-27T17:36:53.842401+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-26-pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
@@ -2391,80 +2457,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 21 Sep 2026 19:19:21 +0000",
       "processed_at": "2026-09-23T07:32:39.170204+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Qualcomm unveiled its Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 processors, both engineered to power AI‑centric features in smartphones. The chips feature new sensing hubs that can run small models up to 200 million parameters, a dedicated accelerator for efficient inference, and a 30‑billion‑parameter mixture‑of‑experts model that activates only the needed subset of parameters. The Extreme version also delivers pro‑level camera capabilities, including pixel‑level control, 8K 60fps video, 4K 240fps slow‑motion, and the Advanced Professional Video codec. Motorola’s upcoming Signature 27 will ship with the Extreme Gen 6, underscoring Qualcomm’s push to keep phones as the primary platform for AI applications.",
-      "key_points": [
-        "Snapdragon 8 Elite Gen 6 and Extreme Gen 6 bring AI‑focused sensing hubs and a 30‑billion‑parameter MoE model for local inference",
-        "Extreme Gen 6 supports 8K 60fps video, 4K 240fps slow‑motion, and the Advanced Professional Video codec",
-        "Motorola’s Signature 27 will launch with the Extreme Gen 6 later this year",
-        "Qualcomm aims to keep smartphones as the main AI device amid growing competition"
-      ],
-      "topics": [
-        "qualcomm",
-        "snapdragon",
-        "ai",
-        "smartphone",
-        "camera"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
-      "processed_at": "2026-09-23T01:41:51.147653+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
-      "title": "Apple could take on Whoop with a new fitness tracker, report says | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Apple is reportedly developing a new screen‑less fitness tracker that would compete with Whoop, featuring a thin fabric band with a sensor‑equipped computing module. The company has built several prototypes and is conducting a technology investigation to decide whether to fully develop and release the product, with a projected launch no earlier than 2028. While Apple already sells the Apple Watch, the new form factor is more akin to Whoop’s simple fitness bands that track a range of health metrics. The move comes as Apple navigates a leadership transition, rising supply‑chain costs, and a slate of new devices and legal battles with OpenAI.",
-      "key_points": [
-        "Apple is exploring a screen‑less fitness tracker similar to Whoop’s band.",
-        "Prototype development is underway and a release is expected no earlier than 2028.",
-        "Apple is in a period of leadership change and supply‑chain challenges.",
-        "The company is also pursuing new devices and litigation against OpenAI."
-      ],
-      "topics": [
-        "fitness",
-        "apple",
-        "whoop",
-        "product development",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 19:27:57 +0000",
-      "processed_at": "2026-09-23T01:41:44.478803+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta’s Muse AI has been compared to the open‑source OpenClaw, and Meta’s product lead Nat Friedman confirmed the comparison is not accidental. Friedman said Muse was built from scratch but was \"heavily inspired\" by OpenClaw, and that the team adopted OpenClaw’s file structure and content because they believed it was well‑designed. The admission follows viral claims that Muse’s system files match OpenClaw’s almost exactly, including the SOUL.md personality file. Muse has already topped the U.S. App Store, suggesting Meta’s strategy to scale a proven design to billions of users is paying off.",
-      "key_points": [
-        "Meta acknowledges Muse was heavily inspired by OpenClaw and built from scratch",
-        "The team adopted OpenClaw’s file names and content because they believed it was well‑designed",
-        "Muse has topped the U.S. App Store, indicating strong user adoption"
-      ],
-      "topics": [
-        "meta",
-        "openclaw",
-        "ai",
-        "product",
-        "appstore"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
-      "processed_at": "2026-09-23T01:41:44.807716+00:00"
     }
   ]
 }
