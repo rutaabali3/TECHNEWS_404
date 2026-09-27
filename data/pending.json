@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-26T22:31:38.824283+00:00",
+  "updated_at": "2026-09-27T01:11:32.463995+00:00",
   "items": [
-    {
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
-      "published": "Thu, 24 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "feed_excerpt": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "published": "Fri, 25 Sep 2026 19:13:38 +0000"
-    },
     {
       "title": "Automattic has a new board after failed attempt to put CEO on leave",
       "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
@@ -20,29 +8,11 @@
       "published": "Fri, 25 Sep 2026 23:04:34 +0000"
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "feed_excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "published": "Fri, 25 Sep 2026 22:20:47 +0000"
-    },
-    {
       "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
       "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
       "feed_excerpt": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
       "published": "Sat, 26 Sep 2026 17:44:00 +0000"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "feed_excerpt": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "published": "Sat, 26 Sep 2026 21:02:06 +0000"
-    },
-    {
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "feed_excerpt": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "published": "Sat, 26 Sep 2026 20:24:45 +0000"
     }
   ],
-  "last_processed_at": "2026-09-26T22:32:01.934923+00:00"
+  "last_processed_at": "2026-09-27T01:11:58.857061+00:00"
 }

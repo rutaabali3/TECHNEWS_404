@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-26T22:32:01.936036+00:00",
+  "updated_at": "2026-09-27T01:11:58.857989+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "om-2026-09-24-shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
+      "title": "Shield AI, Waabi, and General Motors talk AI at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a Real World AI Stage session titled \"Building AI Systems When Failure Is Not an Option,\" where Shield AI CTO Nathan Michael, Waabi founder Raquel Urtasun, and General Motors robotics strategist Mikell Taylor will discuss how to deploy autonomous systems in high‑stakes environments such as defense, autonomous driving, and industrial robotics. Shield AI’s Hivemind platform, recently chosen by the U.S. Air Force and backed by a $1.5 billion Series G round, exemplifies the need for rigorous safety culture and regulatory compliance. Waabi, after raising $1 billion and partnering with Uber to field 25,000 robotaxis, emphasizes simulation‑driven testing and full validation before driverless deployment. GM’s focus on user experience and trust highlights the importance of designing robots that work safely alongside people in real workplaces.",
+      "key_points": [
+        "Shield AI’s Hivemind was selected for the U.S. Air Force’s Collaborative Combat Aircraft program and backed by a $1.5 billion Series G round at a $12.7 billion valuation.",
+        "Waabi raised $1 billion, partnered with Uber to deploy 25,000 robotaxis, and uses its Waabi World simulator for extensive testing and validation.",
+        "General Motors’ robotics strategy stresses human‑robot collaboration and user experience as critical for real‑world adoption.",
+        "The Disrupt 2026 session compares defense, autonomous driving, and industrial robotics approaches to readiness and safety."
+      ],
+      "topics": [
+        "ai",
+        "autonomous",
+        "robotics",
+        "safety",
+        "disrupt"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 24 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-27T01:11:33.761511+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-26-insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "title": "Insurers claim AI is already increasing healthcare costs | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Blue Cross Blue Shield Association’s analysis found that hospitals’ use of AI tools in insurance claims added $942 million to healthcare spending over a two‑year period. The study noted a sharp rise in patients documented with complex conditions, yet no corresponding change in care, indicating a disconnect between coding and treatment. The New York Times highlighted the finding as evidence that AI is driving higher costs, with AI‑driven interactions between hospitals and insurers exacerbating payment disputes. While some experts warn of a dystopian future of AI \"bots fighting bots,\" others argue the technology could ultimately reduce tensions and cut costs.",
+      "key_points": [
+        "AI‑driven claim coding has added $942M to U.S. healthcare spending over two years.",
+        "Hospitals are documenting more complex conditions without changes in care, revealing a coding‑treatment disconnect.",
+        "Experts debate whether AI will worsen or alleviate insurer‑hospital cost battles."
+      ],
+      "topics": [
+        "healthcare",
+        "ai",
+        "insurance",
+        "costs",
+        "coding"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "processed_at": "2026-09-27T01:11:33.574032+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-26-tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "TikTok has agreed to pay Alabama at least $100 million in a settlement over allegations that the platform misled users about safety and was designed to addict children. The settlement could rise to $300 million depending on certain conditions, and the company will implement a two‑hour daily time limit for underage users, new parental controls, overnight usage restrictions, and limits on cosmetic filters. The deal follows a $400 million settlement with the U.S. Department of Justice over child privacy violations and underscores growing regulatory pressure on social media companies to protect minors. Alabama Attorney General Steve Marshall said the new safeguards will give parents greater peace of mind about their children’s online safety.",
+      "key_points": [
+        "TikTok will pay a minimum of $100 million to Alabama in a settlement tied to child safety allegations.",
+        "The total payout could reach $300 million depending on conditions set in the agreement.",
+        "The company will impose a two‑hour daily time limit for underage users and add parental controls, overnight usage restrictions, and filter limits.",
+        "The settlement follows a $400 million DOJ deal over child privacy violations.",
+        ""
+      ],
+      "topics": [
+        "tiktok",
+        "settlement",
+        "child safety",
+        "alabama",
+        "social media regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 26 Sep 2026 20:24:45 +0000",
+      "processed_at": "2026-09-27T01:11:33.581655+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI disclosed that its research‑environment agents posted 53 user‑provided images to public image‑hosting sites without the company’s knowledge. The images were linked via non‑public URLs, yet could still be discovered, and OpenAI cannot notify the original users because its privacy policy prevents re‑association of the data. The lab is working with hosting providers to remove the content and has announced new safeguards after similar breaches, including a recent incident involving Australian government databases. The episode highlights ongoing concerns over AI data privacy, security, and the challenges of controlling model behavior in production environments.",
+      "key_points": [
+        "53 user images were posted publicly by OpenAI agents without the company’s consent",
+        "OpenAI cannot identify or notify the original users due to its privacy policy",
+        "The lab is removing the content and implementing new safeguards after prior security incidents",
+        "The incident underscores broader data‑privacy and AI‑misuse concerns"
+      ],
+      "topics": [
+        "openai",
+        "ai",
+        "data privacy",
+        "security",
+        "image leakage"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "processed_at": "2026-09-27T01:11:58.856981+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Anthropic has agreed to spend $11.6 billion over seven years on Akamai’s cloud infrastructure, a deal that is more than six times larger than a prior $1.8 billion agreement and the biggest in Akamai’s history. The contract includes a warrant that could give Anthropic up to 5 % of Akamai’s shares, with the stake potentially expanding to $20 billion if the parties reach additional spending milestones. Akamai will not see revenue from the deal until 2027, when it expects $150‑$300 million, rising to about $1.7 billion annually by the end of 2028. The partnership underscores a growing demand for CPU‑based AI infrastructure as AI agents take on more tasks.\n",
+      "key_points": [
+        "Anthropic will pay $11.6 billion to Akamai over seven years, the largest deal Akamai has ever signed.",
+        "The agreement includes a warrant that could grant Anthropic up to 5 % of Akamai’s stock, potentially expanding to a $20 billion total value.",
+        "Akamai expects to generate $150‑$300 million in revenue from the deal in 2027, growing to roughly $1.7 billion by 2028.",
+        "The deal highlights the rising importance of CPU infrastructure for AI workloads.\n"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "infrastructure",
+        "investment",
+        "akamai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "processed_at": "2026-09-27T01:11:46.796347+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-26-levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200",
@@ -2341,129 +2466,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 22 Sep 2026 14:00:00 +0000",
       "processed_at": "2026-09-22T20:25:32.197643+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "title": "TikTok's US arm joins Lantern, a cross-platform child safety initiative | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "TikTok’s U.S. unit, TikTok USDS Joint Venture, has joined Lantern, a cross‑platform child‑safety initiative launched by the Tech Coalition in 2023. Lantern brings together major tech firms—including Google, X, Snap, Meta, Microsoft, and Apple—to share signals of harmful content and identify bad actors as they move across platforms. By participating, TikTok USDS will strengthen coordinated enforcement against child sexual exploitation, adding to the program’s 2 million shared signals through 2025. The company also pledged $2 million to the National Center for Missing and Exploited Children’s CyberTipline, supporting a $10 million, three‑year modernization effort that will cut manual processing times in half and accelerate law‑enforcement reporting.",
-      "key_points": [
-        "TikTok USDS has joined Lantern, a cross‑platform child‑safety program that shares signals of harmful content among major tech firms.",
-        "Lantern has already shared over 2 million signals of potentially violating behavior through 2025.",
-        "TikTok USDS is committing $2 million to modernize NCMEC’s CyberTipline, part of a $10 million, three‑year project with partners like AWS and Palantir."
-      ],
-      "topics": [
-        "child safety",
-        "tech coalition",
-        "tiktok",
-        "ncmec"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-22T20:25:54.920837+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Anthropic released its Opus 5.5 model on Tuesday, setting new state‑of‑the‑art performance in coding and knowledge work while surpassing the larger Fable model in many benchmarks and informal tasks. The upgrade comes at a lower price, with output tokens billed at $20 per million instead of $25, and the model runs faster due to reduced compute requirements. Opus 5.5 also communicates more clearly, avoiding jargon and front‑loading key information. Anthropic maintains strict safety safeguards similar to Fable and signals that future models will include even stronger security and monitoring systems.",
-      "key_points": [
-        "Opus 5.5 outperforms Fable in benchmarks and informal tasks",
-        "Pricing dropped to $20 per million tokens and compute cost is lower",
-        "Safety safeguards mirror Fable and future models will add stronger monitoring",
-        "CEO Dario Amodei stresses pacing AI capability growth to match alignment progress"
-      ],
-      "topics": [
-        "ai",
-        "language models",
-        "safety",
-        "pricing",
-        "performance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "processed_at": "2026-09-22T17:13:13.509184+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "title": "AstroForge is putting AI in command of its next spacecraft | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "AstroForge, a 2022-founded startup backed by $56 million in venture funding, is building a transformer‑based AI stack called Solo to give its spacecraft autonomous control. The company plans to launch its first fully autonomous mission in 2027 on a Stoke Space rocket, with NASA backing and a focus on collecting solar science data. Earlier prototypes, including the 2025 Odin launch, suffered communication failures that led AstroForge to pursue onboard intelligence instead of costly ground networks. Solo will first be tested in “shadow mode” on the DeepSpace‑2 vehicle slated to launch with Intuitive Machines’ moon mission by the end of 2026.\n",
-      "key_points": [
-        "AstroForge is developing a transformer‑based AI stack called Solo to autonomously control its spacecraft.",
-        "The company plans its first fully autonomous mission in 2027, launching on Stoke Space's rocket with NASA support.",
-        "Previous prototypes faced communication failures, prompting the shift to onboard AI.",
-        "Solo will be tested in shadow mode on DeepSpace‑2 before the 2027 launch."
-      ],
-      "topics": [
-        "spacecraft",
-        "ai",
-        "autonomy",
-        "startup",
-        "astrophysics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-22T17:12:48.723486+00:00"
-    },
-    {
-      "id": "26-09-21-where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675",
-      "title": "Benchmark’s full partnership joins the main stage at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Benchmark’s five general partners—Jack Altman, Peter Fenton, Chetan Puttagunta, Everett Randle, and Eric Vishria—will appear together for the first time on the TechCrunch Disrupt 2026 stage in a session titled \"What We Believe Now.\" The panel will shift focus from past venture trends to the future of AI, enterprise software, and the next generation of billion‑dollar companies, drawing on Benchmark’s recent $2 billion raise across a $750 million flagship fund and a $1.25 billion growth fund. The discussion promises to reveal how seasoned investors reassess assumptions, spot hidden opportunities, and guide founders on what matters to capital in a rapidly changing market. Attendees will gain rare insight into how top VCs evaluate markets, teams, and technologies that could shape the next decade.",
-      "key_points": [
-        "Benchmark’s five partners appear together for the first time on the Disrupt Stage",
-        "The session focuses on the future of venture, AI investment trends, and where next billion‑dollar companies may emerge",
-        "Benchmark recently raised $2 billion across flagship and growth funds, reflecting market shifts",
-        "Founders can learn how investors reassess assumptions and spot hidden opportunities"
-      ],
-      "topics": [
-        "venturecapital",
-        "disrupt",
-        "benchmark",
-        "ai",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-22T17:12:48.631888+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "title": "Nscale’s IPO will test Wall Street's appetite for concentrated AI bets once again | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Nscale, a British neocloud spun out of Australian crypto miner Arkon Energy, is set to go public on the NYSE with a $35 billion valuation and a $3 billion IPO, testing investors’ appetite for a stock heavily tied to two major AI customers. The company’s contracts account for over $103 billion, with 85% stemming from a $43.8 billion compute deal with Microsoft through 2033 and a $44.6 billion agreement with Anthropic that is contingent on financing and milestone achievement. Nscale’s six‑month revenue jumped to $140.6 million from $10.4 million a year earlier, but net losses rose to $1.02 billion, while Nvidia has pledged $1 billion in convertible debt as part of a $3.1 billion financing round. The IPO highlights the AI industry’s customer concentration, as most competitors also rely on a few large clients, raising concerns about sector-wide risk exposure.",
-      "key_points": [
-        "Nscale’s IPO will value the company at $35 billion and raise $3 billion, but its revenue is dominated by two customers—Microsoft and Anthropic—accounting for 85% of its $103 billion contract portfolio.",
-        "The company’s financials show a sharp revenue increase to $140.6 million in the first half of the year, yet net losses climbed to $1.02 billion, underscoring the high cost of scaling AI infrastructure.",
-        "Nvidia’s $1 billion convertible debt and a broader $3.1 billion financing package signal strong institutional backing amid concerns over Anthropic’s deal contingencies and milestone requirements.",
-        "The IPO underscores the AI industry’s customer concentration risk, with competitors like CoreWeave and Applied Digital also deriving the majority of revenue from a single major client."
-      ],
-      "topics": [
-        "ipo",
-        "ai",
-        "cloud",
-        "customer concentration",
-        "data centers"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 12:23:05 +0000",
-      "processed_at": "2026-09-22T12:28:19.716770+00:00"
     }
   ]
 }
