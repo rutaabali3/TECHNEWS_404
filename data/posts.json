@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-09-27T17:36:53.842741+00:00",
+  "updated_at": "2026-09-27T21:05:54.851223+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-27-anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Anthropic CEO Dario Amodei is scheduled to dine with President Donald Trump at the White House, marking their first one‑on‑one encounter. The meeting comes amid a heated AI safety debate, with Amodei advocating caution and Trump dismissing concerns as a Democratic hoax while promoting the term “super intelligence.” Axios first reported the dinner plans, which TechCrunch confirmed via a source. The event follows earlier tensions, including the Pentagon’s supply‑chain risk designation of Anthropic over its guard‑rail policies, a move the company is contesting in court.",
+      "key_points": [
+        "Dario Amodei will meet President Trump for dinner at the White House, their first one‑on‑one.",
+        "The meeting reflects opposing views on AI safety: Amodei calls for caution, Trump dismisses backlash as a hoax.",
+        "Anthropic has faced a Pentagon supply‑chain risk designation over guard‑rail policies, which the company is challenging legally."
+      ],
+      "topics": [
+        "ai safety",
+        "anthropic",
+        "president trump",
+        "white house",
+        "politics"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "processed_at": "2026-09-27T21:05:54.850977+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-27-can-muse-overcome-metas-trust-issues",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+      "title": "Can Muse overcome Meta’s trust issues? | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Meta unveiled its new consumer‑focused AI agent Muse at the Connect event, positioning it as a Tamagotchi‑style personal assistant that can perform tasks like finding unclaimed funds. The company’s CEO emphasized a push to embed AI across its platforms, but the agent’s usefulness appears limited to occasional “party‑trick” functions rather than sustained daily use. Podcast hosts noted that while Muse shows promise, users question whether Meta can be trusted with sensitive data, given the company’s advertising revenue model. The discussion highlighted Meta’s strategic shift toward consumer AI amid a broader industry trend toward enterprise solutions from OpenAI and Anthropic.",
+      "key_points": [
+        "Meta’s Muse is a consumer‑oriented AI agent that offers limited, one‑off utilities such as locating unclaimed funds.",
+        "The agent’s potential is tempered by trust concerns, as users worry about Meta’s data‑driven ad business.",
+        "Meta’s strategy contrasts with other AI firms that are focusing on enterprise tools to generate revenue.",
+        "The podcast suggests Muse may be more of a novelty than a long‑term productivity tool."
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "ai",
+        "consumer",
+        "trust"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "processed_at": "2026-09-27T21:05:54.311583+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-27-anthropics-dario-amodei-gets-the-snl-treatment",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
@@ -2407,56 +2456,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 22 Sep 2026 18:24:34 +0000",
       "processed_at": "2026-09-23T07:32:38.926008+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-exhibitor-program-reopened-book-by-sept-30",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54885180072_e211a254ca_k.jpg?resize=1200,800",
-      "title": "Exhibitor program reopened: Book by Sept 30 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 is back on track with exhibitor bookings reopening until September 30, giving startups a final chance to secure a table in the Expo Hall. The $12,500 package includes a 6′ × 30″ branded table, 10 team passes, lead‑generation tools, and Silver Tier sponsor branding, while ticket savings of up to $200 and a 50% discount on a second ticket remain available until September 25. The three‑day conference, held October 13‑15 at Moscone West in San Francisco, will host over 10,000 founders, investors, and tech leaders across 200+ sessions and six industry stages. Early exhibitors can leverage the venue’s networking hubs, such as Deal Flow Café and Investor‑to‑Founder Networking, to connect with potential partners and investors.",
-      "key_points": [
-        "Exhibitor bookings reopen until September 30 for a $12,500 package that includes a branded table, team passes, and lead‑generation tools",
-        "Ticket discounts of up to $200 and a 50% off second ticket are available until September 25",
-        "Disrupt 2026 runs October 13‑15 at Moscone West and will host more than 10,000 founders, investors, and tech leaders",
-        "Early exhibitors can access networking opportunities like Deal Flow Café and Investor‑to‑Founder Networking"
-      ],
-      "topics": [
-        "tech conference",
-        "startup expo",
-        "exhibitor program",
-        "ticket discounts",
-        "disrupt 2026"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 14:15:00 +0000",
-      "processed_at": "2026-09-23T07:32:38.788908+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-metas-muse-is-outpacing-chatgpts-early-mobile-launch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-      "title": "Meta's Muse is outpacing ChatGPT’s early mobile launch | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta’s new AI app Muse has outpaced ChatGPT in its first 12 days on mobile, with 1.8 million iOS downloads in the U.S. and Canada versus 1.3 million for ChatGPT, according to Apptopia. Muse also leads in daily active users, reaching 642,000 U.S. users compared to ChatGPT’s 231,000, and has climbed to the top spot on the U.S. App Store, surpassing ChatGPT. The app’s cross‑promotion within Meta’s ecosystem—over 95% of Muse users are also Facebook users and 63% Instagram users—suggests a strong growth engine. These early metrics indicate Muse could become Meta’s next flagship mobile app.",
-      "key_points": [
-        "Muse logged 1.8 million iOS downloads in the U.S. and Canada in its first 12 days, beating ChatGPT’s 1.3 million",
-        "Muse’s U.S. daily active users hit 642,000 versus ChatGPT’s 231,000 at the same launch stage",
-        "Muse moved from #2 to #1 on the U.S. App Store, overtaking ChatGPT",
-        "More than 95% of Muse users are Facebook users and 63% are Instagram users, highlighting Meta’s cross‑promotion advantage"
-      ],
-      "topics": [
-        "meta",
-        "muse",
-        "chatgpt",
-        "appstore",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "processed_at": "2026-09-23T07:32:39.170204+00:00"
     }
   ]
 }
