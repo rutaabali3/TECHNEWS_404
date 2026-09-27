@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-27T01:11:58.857989+00:00",
+  "updated_at": "2026-09-27T06:56:58.571814+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-26-pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
+      "title": "PNOE's new face mask wants to make lab-grade breath testing a self-serve affair | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "PNOĒ is set to launch its new PNOĒ 2.0 mask on October 1, a self‑serve device that measures VO₂ max and 23 metabolic biomarkers from a person’s breath. The compact mask lets users perform an eight‑minute test in gyms, spas, or other wellness venues without trained staff, potentially expanding access to lab‑grade metabolic testing. The company, which has raised about $22 million and is already profitable, sells the hardware and software as a subscription to businesses such as Equinox, Four Seasons, and the NBA. While not FDA‑cleared and not offering medical diagnoses, PNOĒ envisions future use of its data for disease detection once regulatory hurdles are cleared.",
+      "key_points": [
+        "PNOĒ introduces a self‑serve breath‑analysis mask that captures VO₂ max and 23 metabolic biomarkers",
+        "The device enables gyms, spas, and wellness centers to offer lab‑grade metabolic testing without trained staff",
+        "PNOĒ has raised $22 million, is profitable, and plans a Series B round within the next year",
+        "The product is marketed as a wellness tool, not a medical device, though future disease‑detection applications are anticipated"
+      ],
+      "topics": [
+        "breathanalysis",
+        "wellnesstech",
+        "metabolictesting",
+        "fitnessindustry",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 01:40:30 +0000",
+      "processed_at": "2026-09-27T06:56:58.433025+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-26-google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Google is testing a new buying feature in India that lets users purchase Walmart‑owned Flipkart products directly from Gemini and Google’s AI Mode. The test, limited to a handful of smartphones, electronics and accessories, shows a “Buy” button that redirects to Flipkart’s checkout without leaving the AI interface. Google plans to expand the feature in October ahead of India’s festive shopping season, as it competes with rivals like OpenAI to add commerce capabilities to its AI services. The move follows Google’s earlier Universal Commerce Protocol and reflects its $350 million investment and partnership with Flipkart.",
+      "key_points": [
+        "Google pilots a “Buy” button in Gemini and AI Mode that routes users to Flipkart checkout for select products in India.",
+        "The feature is currently limited to a small set of items and users, with a broader rollout planned for October before the festive season.",
+        "Google’s test follows its Universal Commerce Protocol and a $350 million investment in Flipkart, positioning it against competitors like OpenAI."
+      ],
+      "topics": [
+        "google",
+        "flipkart",
+        "commerce",
+        "ai",
+        "india"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "processed_at": "2026-09-27T06:56:58.530697+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-26-meta-says-it-will-run-ads-for-musk-documentary-after-all",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Meta and YouTube have reversed earlier decisions and will now run paid ads for Alex Gibney’s documentary \"Musk,\" after the platforms initially rejected the trailer as political content. X remains opposed to the ads, citing the film’s political themes, while Meta and YouTube clarified that the trailer was temporarily restricted and has since been cleared. The documentary, which premiered at the Venice International Film Festival and holds a 100% fresh rating on Rotten Tomatoes, is slated for a U.S. theatrical release on October 9. This episode underscores how social‑media ad policies can affect the promotion of high‑profile documentary films.",
+      "key_points": [
+        "Meta and YouTube have reinstated ads for the \"Musk\" trailer after an initial rejection for political content.",
+        "X continues to block the trailer, citing its political nature.",
+        "The documentary has a 100% fresh rating on Rotten Tomatoes and will open in U.S. theaters on October 9.",
+        "The incident highlights the impact of platform ad policies on documentary promotion."
+      ],
+      "topics": [
+        "social media",
+        "advertising",
+        "politics",
+        "documentary",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 26 Sep 2026 17:44:00 +0000",
+      "processed_at": "2026-09-27T06:56:58.417994+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-25-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Automattic CEO Matt Mullenweg has rebuilt the company’s board after a failed attempt by the previous directors to place him on leave, a move that lasted just 33 hours before he regained control. The new board features a best‑selling science‑fiction author, two co‑founders of the defunct social app IRL, and additional advisers such as former Whoop CTO Jaime Waydo, June co‑founder Matt Van Horn, and KISSmetrics co‑founder Hiten Shah. Mullenweg, who holds 84% of the voting shares, used his majority to remove several board members and replace the legal counsel amid ongoing litigation with WP Engine over trademark and open‑source contribution disputes. The reshuffle underscores a broader governance battle that could shape Automattic’s strategic direction for the next two decades.",
+      "key_points": [
+        "Mullenweg regained control after a 33‑hour board vote to place him on leave",
+        "The new board includes a sci‑fi author, IRL co‑founders, and new advisers such as Jaime Waydo, Matt Van Horn, and Hiten Shah",
+        "Mullenweg holds 84% of voting shares, enabling him to overhaul the board",
+        "Automattic is embroiled in legal disputes with WP Engine and has hired new litigation counsel"
+      ],
+      "topics": [
+        "automattic",
+        "board",
+        "governance",
+        "tech",
+        "legal"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 25 Sep 2026 23:04:34 +0000",
+      "processed_at": "2026-09-27T06:56:58.571446+00:00"
+    },
     {
       "id": "om-2026-09-24-shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
@@ -2366,106 +2465,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 22 Sep 2026 19:09:11 +0000",
       "processed_at": "2026-09-23T01:41:44.807716+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-stolen-passwords-are-exposing-americas-water-providers-to-hackers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/glen-canyon-dam-2290782874-getty.jpg?resize=1200,818",
-      "title": "Stolen passwords are exposing America's water providers to hackers | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "SpyCloud’s latest research reveals that more than 1,700 U.S. water and wastewater providers have been compromised by password‑stealing malware, with 250 of those organizations exposing credentials that could reach their operational networks and remote‑access systems. The study catalogued over 66,000 public‑facing systems registered with the EPA, covering 10,000 utilities, and found that the malware had captured passwords from 1,787 of them, including 167 utilities that rely on a single infected metering‑tech provider. Stolen passwords and session tokens can bypass multi‑factor authentication, giving attackers a straightforward path into critical infrastructure. This vulnerability is distinct from recent Iran‑linked attacks, which were driven by default passwords on physical controllers, underscoring the dual threat of software and hardware weaknesses in the water sector.",
-      "key_points": [
-        "More than 1,700 U.S. water providers were hit by password‑stealing malware, exposing 250 with credentials that could access operational networks",
-        "The malware also infected a metering‑tech provider, leaking credentials for 167 utilities",
-        "Stolen passwords and session tokens can bypass MFA, giving attackers easy entry into critical infrastructure",
-        "The threat is separate from Iran‑linked attacks that exploited default passwords on physical devices"
-      ],
-      "topics": [
-        "water infrastructure",
-        "cybersecurity",
-        "password theft",
-        "critical infrastructure",
-        "malware"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 15:50:58 +0000",
-      "processed_at": "2026-09-22T23:11:52.602599+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-09-22-five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-      "title": "Five AI safety sessions every founder should have on their Disrupt 2026 agenda | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s coverage of Disrupt 2026 highlights five AI‑safety sessions that founders should add to their agenda. Sessions cover Anthropic’s real‑world Claude deployments, the overlooked security of autonomous agents, the added complexity of securing AI in the cloud, the high‑stakes safety of physical‑world AI systems, and the data gap that is holding back robotics. The event, taking place Oct. 13‑15 in San Francisco, also offers up to $200 in ticket savings and a 50 % discount on a second pass. These talks aim to help founders build trustworthy AI that can be deployed in enterprises, vehicles, robots, and other critical environments.",
-      "key_points": [
-        "Anthropic’s insights on why some enterprise Claude deployments succeed while others stall",
-        "The security challenges unique to autonomous AI agents and infrastructure-level safeguards",
-        "How securing AI in the cloud adds layers of governance, observability, and compliance",
-        "The safety, testing, and data pipeline hurdles that physical AI and robotics face"
-      ],
-      "topics": [
-        "ai safety",
-        "enterprise ai",
-        "agent security",
-        "physical ai",
-        "robotics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-22T23:12:09.904367+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
-      "title": "Exclusive: Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Breakthrough Energy is backing 21 early‑stage startups in its sixth Fellows cohort to prepare for a projected three‑fold increase in global electricity demand as economies electrify to curb carbon emissions. The cohort includes high‑risk ventures such as Borealis Fusion’s proton‑boron fusion, StarWarden’s reactor heat‑management, K1 Semiconductor’s low‑cost gallium nitride processing, and hydrogen‑ammonia transport solutions from AmHyTech and Ammovolt Energy. Despite the departure of former program lead Ashley Grosh, senior director Benjamin Gaddy is steering the initiative, emphasizing bold bets that could yield large payoffs for decarbonization and climate adaptation. The program’s focus spans fusion, semiconductor efficiency, hydrogen infrastructure, and technologies that help societies adapt to a warming world.",
-      "key_points": [
-        "Breakthrough Energy is funding 21 startups to meet a projected 3x rise in electricity demand as economies electrify",
-        "The cohort features high‑risk fusion, semiconductor efficiency, hydrogen‑ammonia transport, and climate‑adaptation technologies",
-        "Senior director Benjamin Gaddy is acting as program lead after Ashley Grosh’s departure",
-        "The strategy centers on big bets that could deliver significant decarbonization and adaptation payoffs"
-      ],
-      "topics": [
-        "breakthrough energy",
-        "fusion",
-        "hydrogen",
-        "semiconductors",
-        "climate adaptation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-22T23:11:38.605504+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-Audience.webp?resize=1200,799",
-      "title": "4 days to save up to $200 to Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is offering a limited‑time discount for its Disrupt 2026 conference, allowing attendees to save up to $200 on a single pass and receive 50% off a second pass if purchased before September 25 at 11:59 p.m. PT. The event will take place at Moscone West in San Francisco from October 13‑15 and will host more than 10,000 founders, investors, and technology leaders across 200+ sessions featuring 250+ speakers. Key themes include AI, robotics, infrastructure, and new financial models, with opportunities for networking, matchmaking, and exhibit booths. The discount deadline is approaching, and the last day to book an exhibit table is September 18.",
-      "key_points": [
-        "Up to $200 off a single Disrupt 2026 pass and 50% off a second pass are available until September 25 11:59 p.m. PT",
-        "The conference will run October 13‑15 at Moscone West, featuring 200+ sessions and 250+ tech leaders",
-        "Over 10,000 founders, investors, and operators will attend, covering AI, robotics, infrastructure, and new financial models",
-        "The final day to reserve an exhibit table is September 18"
-      ],
-      "topics": [
-        "tech events",
-        "ticket discounts",
-        "ai",
-        "robotics",
-        "venture capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-22T20:25:32.197643+00:00"
     }
   ]
 }
