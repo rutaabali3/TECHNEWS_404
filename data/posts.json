@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-27T21:05:54.851223+00:00",
+  "updated_at": "2026-09-28T04:30:52.525874+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-27-truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/truecaller-scam-checker-image-feature.jpg?resize=1200,800",
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Truecaller has launched Scam Checker, a free web and Android service that lets users paste suspicious phone numbers, links, or messages to verify whether they are fraudulent, without requiring the app or a sign‑in. The tool pulls reports from Truecaller’s community feed, ScamFeed, but detailed information about a number’s owner remains behind a login. Initially available in India, the service will expand to Latin America, the Middle East, Africa, and Southeast Asia, reflecting the company’s shift from a caller‑ID focus to broader multi‑channel scam detection amid rising fraud across messaging apps and web links.",
+      "key_points": [
+        "Truecaller introduces Scam Checker, a free web/Android tool that checks phone numbers, links, and messages for fraud using community reports.",
+        "The service is initially launched in India and will roll out to Latin America, Middle East, Africa, and Southeast Asia.",
+        "Scam Checker relies on Truecaller’s ScamFeed community, which hosts about 20,000 live reports and adds roughly 1,300 new reports weekly.",
+        "The launch signals Truecaller’s pivot beyond caller ID as telecom operators and competitors add their own spam‑blocking features."
+      ],
+      "topics": [
+        "scam detection",
+        "caller id",
+        "fraud prevention",
+        "mobile security",
+        "tech innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 04:30:00 +0000",
+      "processed_at": "2026-09-28T04:30:52.525706+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-27-anthropics-ceo-is-about-to-have-dinner-with-president-trump",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
@@ -2431,31 +2456,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 22 Sep 2026 18:40:30 +0000",
       "processed_at": "2026-09-23T07:32:38.841748+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1225201409.jpg?resize=1200,900",
-      "title": "a16z is challenging Silicon Valley's love for drop-outs by launching a school | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Andreessen Horowitz has launched The Horowitz Andreessen Academy, a one‑year, tuition‑free program for high‑school graduates who have not yet attended college. The school, located in San Francisco, will admit about 50 students selected on proof of work and will provide hands‑on coursework in areas such as AI research and life philosophy, as well as mentorship from 200 speakers including leaders from Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe. While the academy is not accredited and offers no degree or transferable credits, it aims to bridge the gap between a traditional college education and the drop‑out startup path, with plans to introduce a two‑year, tuition‑based program in 2028 that will cost “similar in cost to an elite private university.”",
-      "key_points": [
-        "a16z’s new academy targets high‑school graduates with no college experience, offering a free, one‑year program for 50 students selected on proof of work",
-        "the curriculum blends technical subjects like AI research with life‑philosophy courses, and students receive mentorship from 200 top‑tech speakers",
-        "the school is not accredited and does not grant degrees, but aims to serve as a middle ground between college and startup drop‑outs",
-        "in 2028 the academy plans a two‑year, tuition‑based program priced like elite private universities, expanding beyond 50 students"
-      ],
-      "topics": [
-        "education",
-        "startup",
-        "tech",
-        "ai",
-        "venturecapital"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 18:24:34 +0000",
-      "processed_at": "2026-09-23T07:32:38.926008+00:00"
     }
   ]
 }
