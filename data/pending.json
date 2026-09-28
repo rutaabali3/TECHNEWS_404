@@ -1,5 +1,102 @@
 {
-  "updated_at": "2026-09-28T04:30:50.366781+00:00",
-  "items": [],
-  "last_processed_at": "2026-09-28T04:30:52.525780+00:00"
+  "updated_at": "2026-09-28T19:25:57.348850+00:00",
+  "items": [
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "feed_excerpt": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+      "published": "Mon, 28 Sep 2026 19:21:59 +0000"
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "feed_excerpt": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "published": "Mon, 28 Sep 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "feed_excerpt": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "published": "Mon, 28 Sep 2026 17:29:50 +0000"
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "feed_excerpt": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "published": "Mon, 28 Sep 2026 17:09:02 +0000"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "published": "Mon, 28 Sep 2026 15:30:00 +0000"
+    },
+    {
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "feed_excerpt": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+      "published": "Mon, 28 Sep 2026 15:26:46 +0000"
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "feed_excerpt": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "feed_excerpt": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "published": "Mon, 28 Sep 2026 14:50:30 +0000"
+    },
+    {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+      "published": "Mon, 28 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+      "feed_excerpt": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "published": "Mon, 28 Sep 2026 14:05:00 +0000"
+    },
+    {
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "feed_excerpt": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
+      "published": "Mon, 28 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "feed_excerpt": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "published": "Mon, 28 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+      "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+      "feed_excerpt": "ElevenLabs v4 can clone voices with a 10 second clip",
+      "published": "Mon, 28 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "feed_excerpt": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "published": "Mon, 28 Sep 2026 13:38:48 +0000"
+    },
+    {
+      "title": "SpaceX’s Starship rocket reaches orbit for the first time",
+      "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+      "feed_excerpt": "Though not without some drama along the way.",
+      "published": "Mon, 28 Sep 2026 13:19:18 +0000"
+    }
+  ],
+  "last_processed_at": "2026-09-28T19:26:12.923350+00:00"
 }
