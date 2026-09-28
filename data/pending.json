@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:25:57.348850+00:00",
+  "updated_at": "2026-09-28T23:53:27.702439+00:00",
   "items": [
     {
       "title": "The AI boom took over Climate Week and not everyone is happy about it",
@@ -8,28 +8,10 @@
       "published": "Mon, 28 Sep 2026 19:21:59 +0000"
     },
     {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "feed_excerpt": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "published": "Mon, 28 Sep 2026 18:00:00 +0000"
-    },
-    {
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "feed_excerpt": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
       "published": "Mon, 28 Sep 2026 17:29:50 +0000"
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "feed_excerpt": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "published": "Mon, 28 Sep 2026 17:09:02 +0000"
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "published": "Mon, 28 Sep 2026 15:30:00 +0000"
     },
     {
       "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
@@ -48,12 +30,6 @@
       "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
       "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-      "feed_excerpt": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
-      "published": "Mon, 28 Sep 2026 14:50:30 +0000"
     },
     {
       "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
@@ -96,7 +72,43 @@
       "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
       "feed_excerpt": "Though not without some drama along the way.",
       "published": "Mon, 28 Sep 2026 13:19:18 +0000"
+    },
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "feed_excerpt": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "published": "Mon, 28 Sep 2026 23:39:20 +0000"
+    },
+    {
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "feed_excerpt": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "published": "Mon, 28 Sep 2026 22:58:35 +0000"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "feed_excerpt": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "published": "Mon, 28 Sep 2026 21:29:18 +0000"
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "feed_excerpt": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "published": "Mon, 28 Sep 2026 20:39:33 +0000"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "feed_excerpt": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "published": "Mon, 28 Sep 2026 19:33:57 +0000"
+    },
+    {
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "feed_excerpt": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "published": "Mon, 28 Sep 2026 19:27:27 +0000"
     }
   ],
-  "last_processed_at": "2026-09-28T19:26:12.923350+00:00"
+  "last_processed_at": "2026-09-28T23:53:36.445598+00:00"
 }
