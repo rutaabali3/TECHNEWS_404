@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-29T04:59:40.723535+00:00",
+  "updated_at": "2026-09-29T11:17:16.826012+00:00",
   "items": [
-    {
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "feed_excerpt": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-      "published": "Mon, 28 Sep 2026 17:29:50 +0000"
-    },
     {
       "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
       "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
@@ -32,30 +26,6 @@
       "published": "Mon, 28 Sep 2026 13:38:48 +0000"
     },
     {
-      "title": "SpaceX’s Starship rocket reaches orbit for the first time",
-      "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-      "feed_excerpt": "Though not without some drama along the way.",
-      "published": "Mon, 28 Sep 2026 13:19:18 +0000"
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "feed_excerpt": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "published": "Mon, 28 Sep 2026 23:39:20 +0000"
-    },
-    {
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-      "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "feed_excerpt": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-      "published": "Mon, 28 Sep 2026 22:58:35 +0000"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "feed_excerpt": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "published": "Mon, 28 Sep 2026 21:29:18 +0000"
-    },
-    {
       "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
       "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
       "feed_excerpt": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
@@ -78,7 +48,25 @@
       "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "feed_excerpt": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
       "published": "Tue, 29 Sep 2026 00:30:00 +0000"
+    },
+    {
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "feed_excerpt": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "published": "Tue, 29 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "feed_excerpt": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "published": "Tue, 29 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "feed_excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "published": "Tue, 29 Sep 2026 05:13:43 +0000"
     }
   ],
-  "last_processed_at": "2026-09-29T05:00:07.838433+00:00"
+  "last_processed_at": "2026-09-29T11:17:32.441484+00:00"
 }
