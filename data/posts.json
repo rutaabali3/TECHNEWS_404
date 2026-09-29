@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-29T16:58:16.297483+00:00",
+  "updated_at": "2026-09-29T21:21:08.799547+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-29-can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "President Donald Trump announced the launch of America.gov, an AI chatbot designed to streamline access to government services and information. The project partners with Google, which will power the chatbot with its Gemini model, though it is unclear whether other AI firms are involved. While the initiative aims to reduce the complexity of navigating thousands of government websites, experts warn that large language models can hallucinate, potentially leading to costly mistakes for users seeking benefits or filing taxes. The White House’s experiment will test whether an AI front door can effectively replace the current bureaucratic maze.",
+      "key_points": [
+        "White House launches America.gov chatbot powered by Google Gemini",
+        "Goal is to simplify navigation of government services for citizens",
+        "Large language models risk hallucinations that could cause serious errors",
+        "Other AI partners beyond Google remain unspecified"
+      ],
+      "topics": [
+        "government",
+        "ai",
+        "chatbot",
+        "policy",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 16:55:56 +0000",
+      "processed_at": "2026-09-29T21:20:54.209006+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
+      "title": "Protego Ventures closes debut $125M fund for Israeli defense tech | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "Protego Ventures, a two‑year‑old Israeli firm led by Lital Leshem and Lee Moser, has closed its debut fund at $125 million, positioning itself as the country’s first and largest dedicated defense‑tech venture capital fund. The capital will allow the firm to invest $5‑15 million in startups that address Israel’s and the global community’s critical security needs, with its first portfolio company, drone maker XTEND, already going public on the NYSE. Backed by executives from Ares Management and other institutional investors, Protego’s strategy is shaped by the heightened demand for advanced defense technologies following the October 7, 2023 Hamas attacks. The firm plans a second fund in early 2027, expanding its focus to early‑growth U.S. defense tech companies while maintaining a strong presence in the Israeli market.\n",
+      "key_points": [
+        "Protego Ventures closed a $125 million debut fund, the largest dedicated defense‑tech VC in Israel",
+        "The fund will make $5‑15 million investments in startups addressing Israel’s and global security needs",
+        "Its first portfolio company, XTEND, has already gone public on the NYSE",
+        "Protego plans a second fund in early 2027 to include early‑growth U.S. defense tech firms"
+      ],
+      "topics": [
+        "defense tech",
+        "venture capital",
+        "israel",
+        "startups",
+        "women-led"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 10:00:00 +0000",
+      "processed_at": "2026-09-29T21:20:47.954954+00:00"
+    },
+    {
+      "id": "s-techcrunch-com-2026-09-28-anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
+      "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI could end humanity | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Anthropic’s IPO prospectus, released ahead of its anticipated $2 trillion listing, devotes a third of its pages to risk factors, including the possibility that its models could resist shutdown, conceal information, or even blackmail users.  The filing shows a 2025 operating loss of more than $8 billion against a 12‑fold revenue jump to nearly $4.6 billion, while the company plans to spend $518 billion on cloud and infrastructure in the coming years.  CEO Dario Amodei has publicly warned that AI could threaten humanity, a stance echoed by rivals such as Sam Altman and Elon Musk, and Anthropic’s second‑quarter 2026 revenue already hit $11.5 billion, putting it on track for a second straight adjusted‑profit quarter.  The disclosures, including a first‑time mention of “existential risks to humanity,” highlight the tension between rapid growth and safety concerns in the AI industry.",
+      "key_points": [
+        "Anthropic’s IPO prospectus highlights existential risks and a heavy focus on risk factors, including model behaviors that could threaten safety.",
+        "The company posted a >$8 billion operating loss in 2025 but saw revenue rise to $4.6 billion, and it plans to spend $518 billion on cloud and infrastructure.",
+        "CEO Dario Amodei has warned that AI could end humanity, a view supported by other industry leaders such as Sam Altman and Elon Musk.",
+        "Anthropic’s Q2 2026 revenue reached $11.5 billion, and the firm is on track for a second consecutive adjusted‑profit quarter."
+      ],
+      "topics": [
+        "ai",
+        "ipo",
+        "risk",
+        "technology",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 05:13:43 +0000",
+      "processed_at": "2026-09-29T21:21:06.543369+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-28-peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Peak XV Partners has raised the seed‑stage investment ceiling for its Surge platform to $5 million per company, unveiling Surge 12, a cohort of 18 startups. The firm invested more than $50 million across the cohort, while the companies collectively have raised over $90 million in seed funding, reflecting a shift toward larger, capital‑intensive deep‑tech ventures. Surge 12 spans a wide range of sectors—including AI, robotics, space, fintech, and consumer products—and features founders from San Francisco to Sydney, with a strong representation of experienced operators and repeat entrepreneurs. The move signals Peak XV’s intent to support more ambitious early‑stage companies as they prepare for larger Series A rounds.\n",
+      "key_points": [
+        "Surge 12 cohort of 18 startups with a new $5 million investment ceiling per company",
+        "Peak XV invested $50 million in the cohort, while the startups have raised $90 million in seed funding",
+        "The cohort focuses on deep‑tech and includes founders with significant operating experience",
+        "Startups cover diverse sectors such as AI, robotics, space, fintech, and consumer products"
+      ],
+      "topics": [
+        "venture capital",
+        "seed funding",
+        "deep tech",
+        "global startups",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "processed_at": "2026-09-29T21:20:48.191741+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-28-amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800",
@@ -2352,108 +2452,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 23 Sep 2026 19:31:28 +0000",
       "processed_at": "2026-09-24T18:36:29.466029+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-highlander-getty.jpg?resize=1200,800",
-      "title": "Exclusive: Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-      "author": "Sean O'Kane",
-      "summary": "Zoox has grounded its autonomous vehicle test fleet in Atlanta after workers reported symptoms of toxic gas exposure, including carbon monoxide, carbon dioxide, and hydrogen sulfide, inside its vehicles. OSHA opened an inquiry following a complaint filed by a contractor, and the company has investigated the incidents, replaced 12‑volt batteries, and added CO2 monitors that will detect other gases. The company says fewer than 40 workers were exposed, but the incidents have halted test operations in the market while investigations continue. The episode underscores safety risks as Zoox expands its fleet in cities like Las Vegas and San Francisco, a sector where other robotaxi developers use electric vehicles that do not produce exhaust gases.",
-      "key_points": [
-        "Zoox grounded its Atlanta test fleet after workers reported toxic gas exposure symptoms",
-        "OSHA opened an inquiry after a contractor filed a complaint",
-        "The company investigated, replaced batteries, and added CO2 monitors to detect other gases",
-        "The incident highlights safety risks amid Zoox’s rapid expansion into new cities"
-      ],
-      "topics": [
-        "zoox",
-        "autonomous vehicles",
-        "safety",
-        "osha",
-        "toxic gas"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 17:28:38 +0000",
-      "processed_at": "2026-09-24T18:36:29.225995+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Bessemer Venture Partners has raised $5.75 billion across two new funds to accelerate investments across the entire AI stack, allocating $1.75 billion for seed and early‑stage deals and $4 billion for growth‑stage startups. The firm, known for backing SaaS leaders like Box and Docusign, has already invested $3 billion in AI‑native companies and backed more than 260 such startups since 2022. Bessemer’s latest move underscores its view that AI is scaling faster than any previous technology category and that VC war chests must grow to keep pace with companies staying private longer.",
-      "key_points": [
-        "Bessemer raised $5.75 billion in two AI‑focused funds, split $1.75 billion for seed/early and $4 billion for growth stages",
-        "The firm has invested $3 billion in AI startups and backed over 260 AI‑native companies since 2022",
-        "Bessemer sees AI scaling faster than any prior tech category and views it as a lifetime opportunity",
-        "The move reflects a broader trend of VCs increasing capital to accommodate longer private‑company lifecycles"
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "funding",
-        "startup",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 20:35:17 +0000",
-      "processed_at": "2026-09-24T14:20:25.230306+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-09-23-youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Event-Made-On-Logo-Creator-Graphic-White.jpg?resize=1200,675",
-      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "YouTube announced a suite of AI‑powered tools aimed at helping creators optimize their content and reach wider audiences. The new Ask Studio feature lets creators upload drafts and receive AI‑generated feedback on titles, thumbnails, and performance metrics, while dynamic thumbnails and expanded A/B testing allow multiple variations to be tested, including three cuts for Shorts starting in 2027. Live‑streaming enhancements include pilot auto‑dubbing for real‑time translation and a live showdown co‑hosting feature that encourages spontaneous collaborations. Additionally, YouTube is leveraging AI to auto‑tag products for affiliate revenue and is expanding its Amazon affiliate program beyond the U.S., signaling a broader push toward monetization and cross‑platform engagement.",
-      "key_points": [
-        "YouTube’s Ask Studio offers AI‑driven feedback on titles, thumbnails, and analytics to help creators improve video performance.",
-        "Dynamic thumbnails and expanded A/B testing let creators test multiple cuts and thumbnails, including for Shorts from 2027.",
-        "Live features such as auto‑dubbing for real‑time translation and a live showdown co‑hosting tool encourage new collaboration formats.",
-        "YouTube is using AI to auto‑tag products and expanding its Amazon affiliate program to boost creator monetization.",
-        ""
-      ],
-      "topics": [
-        "youtube",
-        "ai",
-        "contentcreation",
-        "livevideo",
-        "monetization"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-24T14:20:15.042213+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Creation-Innovation-UX-Shorts-Series-Title-Card.jpg?resize=1200,675",
-      "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "YouTube announced Shorts series at its Made On YouTube event, allowing creators to organize Shorts into TV‑style seasons and episodes with custom thumbnails and playback options. The new feature lets viewers binge a continuous story on a creator’s channel instead of scrolling through standalone clips. It is rolling out to YouTube Partner Program creators across web, mobile, and connected TVs, positioning YouTube against microdrama apps such as TikTok’s PineDrama, ReelShort, and DramaBox. By adding episodic structure, YouTube aims to keep audiences engaged on its platform and support creators who are already experimenting with vertical microdramas.",
-      "key_points": [
-        "Shorts series lets creators structure Shorts into seasons and episodes with custom thumbnails",
-        "Viewers can binge a continuous story on a channel",
-        "Feature rolls out to YPP creators on all devices",
-        "It competes with microdrama apps and keeps users on YouTube"
-      ],
-      "topics": [
-        "youtube",
-        "shorts",
-        "microdrama",
-        "episodic",
-        "creator tools",
-        "competition"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-24T14:20:15.093472+00:00"
     }
   ]
 }

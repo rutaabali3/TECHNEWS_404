@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T16:57:55.320413+00:00",
+  "updated_at": "2026-09-29T21:20:46.637461+00:00",
   "items": [
     {
       "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
@@ -8,34 +8,10 @@
       "published": "Mon, 28 Sep 2026 15:00:00 +0000"
     },
     {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "feed_excerpt": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "published": "Tue, 29 Sep 2026 00:30:00 +0000"
-    },
-    {
-      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-      "feed_excerpt": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-      "published": "Tue, 29 Sep 2026 10:00:00 +0000"
-    },
-    {
       "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
       "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
       "feed_excerpt": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
       "published": "Tue, 29 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "feed_excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "published": "Tue, 29 Sep 2026 05:13:43 +0000"
-    },
-    {
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "feed_excerpt": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-      "published": "Tue, 29 Sep 2026 16:55:56 +0000"
     },
     {
       "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
@@ -90,7 +66,85 @@
       "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
       "feed_excerpt": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
       "published": "Tue, 29 Sep 2026 12:30:00 +0000"
+    },
+    {
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "feed_excerpt": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+      "published": "Tue, 29 Sep 2026 21:20:12 +0000"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "feed_excerpt": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "published": "Tue, 29 Sep 2026 20:15:47 +0000"
+    },
+    {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "feed_excerpt": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "published": "Tue, 29 Sep 2026 19:52:37 +0000"
+    },
+    {
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "feed_excerpt": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
+      "published": "Tue, 29 Sep 2026 18:48:03 +0000"
+    },
+    {
+      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "feed_excerpt": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "published": "Tue, 29 Sep 2026 18:45:00 +0000"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "feed_excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "published": "Tue, 29 Sep 2026 18:35:00 +0000"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "feed_excerpt": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "published": "Tue, 29 Sep 2026 17:45:51 +0000"
+    },
+    {
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "feed_excerpt": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "published": "Tue, 29 Sep 2026 17:27:09 +0000"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "feed_excerpt": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "published": "Tue, 29 Sep 2026 17:20:00 +0000"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "feed_excerpt": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "published": "Tue, 29 Sep 2026 17:17:15 +0000"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "feed_excerpt": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "feed_excerpt": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "feed_excerpt": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-29T16:58:14.380274+00:00"
+  "last_processed_at": "2026-09-29T21:21:06.543463+00:00"
 }
