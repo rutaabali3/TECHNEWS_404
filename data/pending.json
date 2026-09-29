@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-28T23:53:27.702439+00:00",
+  "updated_at": "2026-09-29T04:59:40.723535+00:00",
   "items": [
-    {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "feed_excerpt": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
-      "published": "Mon, 28 Sep 2026 19:21:59 +0000"
-    },
     {
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "feed_excerpt": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
       "published": "Mon, 28 Sep 2026 17:29:50 +0000"
-    },
-    {
-      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-      "feed_excerpt": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
-      "published": "Mon, 28 Sep 2026 15:26:46 +0000"
     },
     {
       "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
@@ -30,30 +18,6 @@
       "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
       "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-      "published": "Mon, 28 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "feed_excerpt": "Modulate deploys its models to detect deepfake, fraud and scam",
-      "published": "Mon, 28 Sep 2026 14:05:00 +0000"
-    },
-    {
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "feed_excerpt": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-      "published": "Mon, 28 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "feed_excerpt": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "published": "Mon, 28 Sep 2026 14:00:00 +0000"
     },
     {
       "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
@@ -108,7 +72,13 @@
       "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
       "feed_excerpt": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
       "published": "Mon, 28 Sep 2026 19:27:27 +0000"
+    },
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "feed_excerpt": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "published": "Tue, 29 Sep 2026 00:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-28T23:53:36.445598+00:00"
+  "last_processed_at": "2026-09-29T05:00:07.838433+00:00"
 }
