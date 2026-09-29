@@ -1,47 +1,11 @@
 {
-  "updated_at": "2026-09-29T11:17:16.826012+00:00",
+  "updated_at": "2026-09-29T16:57:55.320413+00:00",
   "items": [
-    {
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "feed_excerpt": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-      "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-    },
     {
       "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
       "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
-      "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-      "feed_excerpt": "ElevenLabs v4 can clone voices with a 10 second clip",
-      "published": "Mon, 28 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "feed_excerpt": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-      "published": "Mon, 28 Sep 2026 13:38:48 +0000"
-    },
-    {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "feed_excerpt": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "published": "Mon, 28 Sep 2026 20:39:33 +0000"
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "feed_excerpt": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "published": "Mon, 28 Sep 2026 19:33:57 +0000"
-    },
-    {
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "feed_excerpt": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-      "published": "Mon, 28 Sep 2026 19:27:27 +0000"
     },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -66,7 +30,67 @@
       "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
       "feed_excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
       "published": "Tue, 29 Sep 2026 05:13:43 +0000"
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "feed_excerpt": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "published": "Tue, 29 Sep 2026 16:55:56 +0000"
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "feed_excerpt": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "published": "Tue, 29 Sep 2026 15:12:07 +0000"
+    },
+    {
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "feed_excerpt": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+      "published": "Tue, 29 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+      "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+      "feed_excerpt": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+      "published": "Tue, 29 Sep 2026 14:56:55 +0000"
+    },
+    {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "feed_excerpt": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+      "published": "Tue, 29 Sep 2026 13:53:01 +0000"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "feed_excerpt": "The tech giant says the agent can help owners run their business and find new customers.",
+      "published": "Tue, 29 Sep 2026 13:47:30 +0000"
+    },
+    {
+      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+      "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+      "feed_excerpt": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+      "published": "Tue, 29 Sep 2026 13:25:21 +0000"
+    },
+    {
+      "title": "Fireflies adds dictation to its desktop notetaking apps",
+      "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+      "feed_excerpt": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
+      "published": "Tue, 29 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "feed_excerpt": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "published": "Tue, 29 Sep 2026 12:45:05 +0000"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "feed_excerpt": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "published": "Tue, 29 Sep 2026 12:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-29T11:17:32.441484+00:00"
+  "last_processed_at": "2026-09-29T16:58:14.380274+00:00"
 }

@@ -1,7 +1,155 @@
 {
-  "updated_at": "2026-09-29T11:17:48.054218+00:00",
+  "updated_at": "2026-09-29T16:58:16.297483+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-28-amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800",
+      "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2 billion | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "AMD announced it will acquire World Labs for $8.2 billion, bringing Fei‑Fei Li on board as executive vice president and chief scientist. The deal is intended to embed World Labs’ physics‑grounded deep‑learning models—known as world models—into AMD’s chip roadmap and help the company compete with Nvidia’s AI‑specific hardware ecosystem. World Labs’ first product, Marble, is a tool for creating entertainment experiences and synthetic training environments for robots. The acquisition is expected to close before year‑end, pending regulatory approval.",
+      "key_points": [
+        "AMD pays $8.2 billion to acquire World Labs, led by Fei‑Fei Li",
+        "The acquisition aims to integrate world‑model AI into AMD’s hardware roadmap",
+        "World Labs’ Marble tool targets entertainment and robot training environments",
+        "The deal positions AMD to compete with Nvidia’s world‑model ecosystem"
+      ],
+      "topics": [
+        "ai",
+        "chipmakers",
+        "acquisition",
+        "robotics",
+        "world-models"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 20:39:33 +0000",
+      "processed_at": "2026-09-29T16:58:00.870605+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-28-shopify-opens-checkout-to-browser-based-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+      "title": "Shopify opens checkout to browser-based AI agents | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Shopify has expanded its WebMCP support to include checkout, allowing browser‑based AI agents to read, update, and submit purchases on merchants’ sites. The new tools—get_checkout, update_checkout, and complete_checkout—enable agents to inspect checkout details, modify address or delivery options, and place orders with buyer authorization. This feature is rolling out to all eligible Shopify merchants and is already partnered with top agents such as Muse and Instinct. The move positions Shopify as a leader in agentic commerce, contrasting with retailers like Amazon that block AI‑driven purchases.",
+      "key_points": [
+        "Shopify now lets browser‑based AI agents complete checkout on its platform using WebMCP tools.",
+        "The update introduces get_checkout, update_checkout, and complete_checkout APIs for structured checkout interactions.",
+        "The feature is available to all eligible merchants and is already integrated with agents like Muse and Instinct."
+      ],
+      "topics": [
+        "ai",
+        "ecommerce",
+        "shopify",
+        "webmcp",
+        "agentic commerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 19:33:57 +0000",
+      "processed_at": "2026-09-29T16:57:57.516181+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-28-tesla-delays-roadster-2-event-again-due-to-bad-weather",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+      "title": "Tesla delays Roadster 2 event again due to bad weather | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla has postponed the unveiling of its second‑generation Roadster to October 15, 2024, citing severe weather forecasts that would affect the outdoor event in Waco, Texas. The delay follows a history of rescheduling, with the company previously pushing the reveal to April Fools’ Day and then to October 1. The Roadster is notable for its planned integration of SpaceX cold‑gas thrusters that could enable limited flight, a feature that has kept the project in the spotlight. Musk has indicated that even after the reveal, production could still take a year or more, keeping the supercar’s launch timeline uncertain.",
+      "key_points": [
+        "Tesla rescheduled the Roadster 2 reveal to October 15 due to severe weather.",
+        "The event must be outdoors because of planned SpaceX thrusters that could allow the car to fly.",
+        "The Roadster has faced multiple delays and remains a high‑profile, speculative project."
+      ],
+      "topics": [
+        "tesla",
+        "roadster",
+        "spacex",
+        "electric vehicles",
+        "automotive"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 19:27:27 +0000",
+      "processed_at": "2026-09-29T16:58:14.380186+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-28-after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800",
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Tarini Padmanabhuni, whose grandfather fell victim to a deepfake voice scam, founded DetectifAI to prevent similar frauds. The San Francisco startup builds ultra‑compact AI models that run inside a smartphone’s operating system, giving instant on‑device verdicts on whether a voice is synthetic during calls, voice messages, and other audio. DetectifAI already earns revenue by handling over 100,000 AI‑agent calls per month for Indian financial institutions and has raised a seed round from investors including former TechCrunch editor Josh Constine. With Americans losing nearly $900 million to AI‑driven scams last year, the company’s phone‑integrated solution positions it as a competitive edge for manufacturers and a potential revenue stream for fraud‑prevention firms.",
+      "key_points": [
+        "Founder’s personal deepfake scam spurred creation of DetectifAI",
+        "The company delivers on‑device AI voice‑detection via compact models for phone OS integration",
+        "It already processes 100k+ AI‑agent calls monthly for Indian banks and has seed funding",
+        "The AI‑scam market hit $900M in losses last year, underscoring the need for such tech"
+      ],
+      "topics": [
+        "deepfake",
+        "voice detection",
+        "ai security",
+        "fintech",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-29T16:57:56.594545+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-28-elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "title": "ElevenLabs' new v4 speech model supports more expression control and 90 languages | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "ElevenLabs unveiled its v4 and v4 Turbo speech models, expanding language support to over 90 languages and enabling voice cloning from just 10 seconds of audio. The new architecture improves expression control with expanded inline tags and context‑aware reading, while reducing latency to allow voice agents to generate audio as the LLM produces responses. The company’s rapid enterprise growth—55% of revenue from large firms—has been fueled by a $500 million Series C that valued it at $11 billion, with revenue now exceeding $600 million. ElevenLabs plans an IPO in the coming years as it continues to scale its workforce and compete with rivals like Cartesia, Deepgram, and WellSaid Labs.",
+      "key_points": [
+        "v4 supports 90 languages and 10‑second voice cloning",
+        "expanded inline tags give finer expression control and context‑aware reading",
+        "lower latency lets voice agents start audio generation as LLM answers",
+        "company raised $500M, revenue >$600M, IPO planned in next years"
+      ],
+      "topics": [
+        "speech synthesis",
+        "ai",
+        "voice technology",
+        "startup funding",
+        "enterprise ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 14:00:00 +0000",
+      "processed_at": "2026-09-29T16:57:58.024580+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-28-viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Instinct, a consumer AI assistant that launched its invite‑only service in August 2026, has closed a $1 billion Series C round that values the company at $10 billion, with investors including Sequoia Capital, Benchmark and Coatue. The round follows a $2.5 billion valuation announced a month earlier and underscores the rapid appetite for AI agents that can book travel, make purchases, and perform other tasks via phone and computer. Instinct’s new concierge and trusted‑person‑network features expand its capabilities, but the company has faced privacy‑policy scrutiny that it has since updated. The startup now competes with Meta’s Muse, which offers similar functions plus deep integration with Meta’s social products and a mobile app, giving Muse a head start in app‑store downloads.",
+      "key_points": [
+        "Instinct raised $1 billion Series C, pushing its valuation to $10 billion",
+        "The company launched in August 2026 and quickly added concierge and trusted‑person‑network features",
+        "Instinct’s privacy policy was revised after user concerns about data disclosure",
+        "Meta’s Muse, with a mobile app and social‑product integration, is a growing competitor"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "consumerai",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 13:38:48 +0000",
+      "processed_at": "2026-09-29T16:57:56.853996+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-28-openai-reportedly-ditches-model-over-safety-concerns",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
@@ -2306,153 +2454,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000",
       "processed_at": "2026-09-24T14:20:15.093472+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-21-meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Startup-Battlefield-200-contestant_Disrupt-2024.jpg?resize=1200,1041",
-      "title": "The next wave of VCs judging Startup Battlefield at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will host Startup Battlefield 200 from October 13‑15 in San Francisco, where founders pitch for a $100,000 prize and a chance to impress a newly assembled panel of five top‑tier investors. The judging lineup includes Vaibhav Agrawal of ODDBIRD VC, Anu Bharadwaj of ICONIQ Growth, Sho Sho Leigha Ho of General Catalyst, Miloni Madan Presler of IVP, and Aidan Madigan‑Curtis of Eclipse Ventures, each bringing deep expertise in AI, enterprise software, and growth equity. The event attracts over 10,000 tech leaders and offers ticket savings of up to $200 before September 25, with an additional 30% off for group registrations. These developments underscore Disrupt’s role as a key venue for evaluating early‑stage companies and connecting founders with influential VCs.",
-      "key_points": [
-        "Disrupt 2026 features Startup Battlefield 200 with a $100,000 prize and a new panel of five prominent VC judges",
-        "The judging panel includes experts from ODDBIRD VC, ICONIQ Growth, General Catalyst, IVP, and Eclipse Ventures, covering AI, enterprise software, and growth equity",
-        "The event draws more than 10,000 tech leaders and offers up to $200 in ticket savings before September 25, plus 30% off for groups",
-        "Startup Battlefield’s intense pitch format and post‑presentation Q&A provide valuable insights for founders and the audience alike"
-      ],
-      "topics": [
-        "startup",
-        "venturecapital",
-        "techevents",
-        "ai",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 21 Sep 2026 14:15:00 +0000",
-      "processed_at": "2026-09-24T14:20:14.819344+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Eight-Sleep-feat.jpg?resize=1200,675",
-      "title": "Eight Sleep's new Pod 6 comes in smaller and solo sizes, starting at $1,999 | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Eight Sleep unveiled its Pod 6, a slimmer sleep‑tech mattress cover that now comes in solo and standard sizes and can adjust temperature 20% faster than its predecessor. The new pod is 50% smaller, fits most bed frames, and boasts nine times more sensors to deliver granular temperature control while ignoring data from pets or children. It launches in over 37 countries with solo units priced at $1,999 and standard units at $2,699, and the company is pursuing FDA approval to market the device as a medical solution for sleep apnea. Earlier this year Eight Sleep raised $50 million from Tether at a $1.5 billion valuation and is expanding its international footprint amid supply‑chain concerns from component shortages.",
-      "key_points": [
-        "Pod 6 is 50% smaller, offers solo and standard sizes, and adjusts temperature 20% faster than the previous model",
-        "The device contains nine times more sensors, enabling granular temperature control and ignoring pets or children on the bed",
-        "Pricing starts at $1,999 for solo units and $2,699 for standard units, available in 37+ countries",
-        "Eight Sleep is seeking FDA approval for sleep apnea treatment and recently raised $50 million at a $1.5 billion valuation"
-      ],
-      "topics": [
-        "sleep tech",
-        "pod",
-        "pricing",
-        "fda",
-        "international"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 14:45:00 +0000",
-      "processed_at": "2026-09-24T09:09:25.869341+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-youtube-will-let-you-build-your-own-algorithm-with-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675",
-      "title": "YouTube will let you build your own algorithm with AI | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "YouTube has unveiled a new feature called custom feeds that lets users describe the type of videos they want recommended, using prompts that are processed by Google’s Gemini AI model. The resulting feed is pinned to the top of the home page in its own tab, allowing users to quickly switch between multiple tailored feeds while the main recommendation feed remains unchanged. Support for creating multiple custom feeds will roll out across web and mobile next month, following a broader industry trend of AI‑powered feed customization by platforms such as Meta, X, and Spotify.",
-      "key_points": [
-        "YouTube introduces prompt‑based custom feeds powered by Gemini AI.",
-        "Custom feeds appear as pinned tabs and do not replace the main recommendation feed.",
-        "Multiple custom feeds will be available on web and mobile starting next month.",
-        "The feature aligns with a growing trend of AI‑driven feed personalization across social networks."
-      ],
-      "topics": [
-        "youtube",
-        "ai",
-        "customfeeds",
-        "gemini",
-        "socialmedia"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-24T09:09:02.101728+00:00"
-    },
-    {
-      "id": "echcrunch-com-2026-09-23-spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Taste-Profile_Blog-header.png?resize=1200,458",
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of 'Taste Profile' | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Spotify has begun rolling out its new \"Taste Profile\" feature to Premium subscribers in the United States, allowing users to see and edit how the platform’s AI shapes their Home feed recommendations. The tool, first unveiled at SXSW and previously beta‑tested in New Zealand, lets listeners request changes via natural language to add variety or reduce certain genres, artists, or vibes. By directly adjusting their Taste Profile, users can influence playlists such as Discover Weekly, Made for You, and Spotify Wrapped, giving them unprecedented control over the algorithm that drives their listening experience. The feature remains in beta with no announced wider release date, but it signals Spotify’s move toward more transparent and user‑driven recommendation systems.",
-      "key_points": [
-        "Taste Profile lets Premium users edit Spotify’s recommendation algorithm using natural language commands.",
-        "The feature was first introduced at SXSW and beta‑tested in New Zealand before launching in the U.S. market.",
-        "Users can add or remove genres, artists, or vibes to diversify or refine their Home feed, Discover Weekly, and Wrapped playlists.",
-        "Spotify keeps the feature in beta and has not yet set a timeline for broader availability."
-      ],
-      "topics": [
-        "spotify",
-        "recommendation",
-        "ai",
-        "music streaming",
-        "user experience"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-24T09:09:02.464423+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-22-singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800",
-      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs | TechCrunch",
-      "author": "Kate Park",
-      "summary": "Singapore‑based startup Nexstrom is developing a 300mm wafer system called North Star that grows transition‑metal dichalcogenide (TMD) 2D semiconductors directly on chip wafers, offering a path to further shrink silicon transistors. The company has raised a $12 million seed round, bringing its total funding to $15 million, and plans to use the money to refine process control, expand its team, and qualify its equipment with industry partners. Nexstrom is positioning itself as a supplier to major foundries such as TSMC, Intel, and Samsung rather than competing with them, and expects its equipment to reach commercial production between 2030 and 2035. This effort follows a broader industry push, with players like TSMC, Intel, and IMEC exploring 2D materials to address silicon scaling limits and the ongoing global component shortage.",
-      "key_points": [
-        "Nexstrom’s North Star system can grow TMD 2D semiconductors on 300mm wafers for chip manufacturing",
-        "The startup raised $12 million in seed funding, totaling $15 million, to scale its technology toward commercial production by 2030‑35",
-        "It aims to partner with major foundries rather than compete directly with industry giants",
-        "2D materials offer a promising route to overcome the challenges of further shrinking silicon transistors"
-      ],
-      "topics": [
-        "semiconductors",
-        "2d materials",
-        "chip manufacturing",
-        "startup",
-        "foundry technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 22 Sep 2026 13:20:00 +0000",
-      "processed_at": "2026-09-24T09:09:02.366178+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?resize=1200,649",
-      "title": "YouTube is making comments more fun — and fandom more lucrative for creators | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "YouTube announced a suite of community‑focused updates at its Made On YouTube event, adding GIF support and TV‑based commenting to make interactions more engaging. The platform is also testing personalized comment moderation and expanding its Channel Memberships with paid, members‑only communities and a new “Hype with Jewels” feature that lets fans purchase virtual currency to boost videos. These changes aim to give creators more tools to grow and monetize their fanbases beyond ad revenue. The updates arrive as YouTube seeks to keep pace with competitors like TikTok and Spotify, which already offer richer comment interactions.",
-      "key_points": [
-        "YouTube now supports GIFs in comments and allows users to comment via voice on TV"
-      ],
-      "topics": [
-        "youtube",
-        "comments",
-        "community",
-        "monetization",
-        "memberships"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 16:03:44 +0000",
-      "processed_at": "2026-09-24T03:55:17.595500+00:00"
     }
   ]
 }
