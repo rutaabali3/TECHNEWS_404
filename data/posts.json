@@ -1,7 +1,74 @@
 {
-  "updated_at": "2026-09-30T12:55:17.854716+00:00",
+  "updated_at": "2026-09-30T18:19:37.799711+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "crunch-com-2026-09-29-openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI unveiled a suite of productivity tools at its DevDay, positioning ChatGPT as a competitor to Microsoft’s Office. The new features—Space, a shared collaborative workspace; Pages, a word‑processor built for human‑agent teamwork; and Slides, a voice‑driven presentation builder—allow users to create, edit, and annotate documents and decks directly inside ChatGPT. By integrating AI agents called Dots that can perform tasks on behalf of users, OpenAI aims to streamline routine office work and blur the line between chatbot and traditional software. The launch signals a broader industry shift as companies like Microsoft and Salesforce race to embed generative AI into their core productivity suites.",
+      "key_points": [
+        "OpenAI introduced Space, Pages, and Slides as ChatGPT‑based office tools",
+        "The tools enable collaboration with AI agents (Dots) that can edit documents, update pages, and generate content",
+        "The rollout reflects a strategic push to compete with Microsoft’s Office and drive AI adoption in workplace software"
+      ],
+      "topics": [
+        "openai",
+        "productivity",
+        "ai",
+        "office suite",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:45:51 +0000",
+      "processed_at": "2026-09-30T18:19:05.356811+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Wabi, the AI startup that let users build apps with prompts, is pivoting to a new AI‑powered messenger called Wabi 2.0 that can create on‑demand interfaces to complete tasks. Founder Eugenia Kuyda, formerly of Replika, says the new product will combine chat, software and personal productivity in a single experience, addressing the clutter of pure chat agents. The move positions Wabi against emerging AI agents such as Meta’s Muse and Instinct, and dovetails with OpenAI’s recent plug‑in updates that embed apps inside ChatGPT. Access to Wabi 2.0 is currently invite‑only, with codes being distributed on X.",
+      "key_points": [
+        "Wabi is shifting from a prompt‑based app builder to an AI messenger that can generate on‑demand user interfaces for tasks.",
+        "Founder Eugenia Kuyda, ex‑Replika, stresses that the future of personal agents is a blend of chat, software and people in one place.",
+        "The new product competes directly with AI agents like Meta’s Muse and Instinct and aligns with OpenAI’s plug‑in strategy for ChatGPT.",
+        "Wabi 2.0 is available only by invite, with codes being shared on X."
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:20:00 +0000",
+      "processed_at": "2026-09-30T18:19:05.712451+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
+      "title": "Reco raises $55M as AI agent security startups crowd the market | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Reco, a startup that helps enterprises discover and secure AI agents, announced a $55 million funding round that brings its total capital raised to $140 million. The company, which recently broadened its offering from SaaS platform security to a context‑graph solution that maps agents to apps, people, accounts and permissions, says it has identified tens of thousands of unknown agents in Fortune 100 and financial‑services customers. Reco’s valuation has more than doubled since its Series B in February, and it expects annual recurring revenue to triple this year. The round, led by AT&T’s venture arm along with Forestay and Quadrille Capital, reflects growing investor interest in the rapidly expanding AI‑agent security market.",
+      "key_points": [
+        "Reco raised $55M, bringing total funding to $140M and doubling its valuation since Series B",
+        "The platform uses a context graph to map AI agents to apps, people, accounts and permissions, uncovering 21,000 unknown agents in a Fortune 100 client",
+        "Investor interest in AI‑agent security is high, with AT&T, Forestay and Quadrille Capital backing the latest round"
+      ],
+      "topics": [
+        "ai security",
+        "startup funding",
+        "enterprise security",
+        "ai agents",
+        "venture capital"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 12:30:00 +0000",
+      "processed_at": "2026-09-30T18:19:05.502154+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-29-tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2183782412.jpg?resize=1200,800",
@@ -2377,81 +2444,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 24 Sep 2026 14:00:00 +0000",
       "processed_at": "2026-09-25T11:41:48.155349+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-everything-new-coming-to-metas-ai-agent-muse",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
-      "title": "Everything new coming to Meta's AI agent Muse | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Meta’s personal AI agent Muse, launched in early September, has expanded its capabilities at the company’s Connect event, with new features including a digital avatar, smart‑glasses integration, and Mac desktop support. The agent, powered by Muse Spark, can automate everyday tasks across users’ apps and services, and Meta plans to monetize it through a small fee on transactions after offering free tokens. Muse will also receive its own email address and can handle email threads, while partnerships with retailers like Best Buy, Gap, and Shopify enable it to shop and pay via Stripe, PayPal, and Shop Pay. Meta’s CEO Mark Zuckerberg emphasized Muse’s potential to become a “personal superintelligence” for billions, positioning it as a core consumer AI offering for the company.",
-      "key_points": [
-        "Muse now supports a digital avatar and real‑time video chat via Muse Realtime Avatar",
-        "The agent will integrate with Meta smart glasses, enabling voice‑activated tasks and shopping",
-        "Muse will gain its own email address to manage background tasks and email threads",
-        "Meta has secured e‑commerce partnerships with major retailers and payment platforms to enable seamless purchases"
-      ],
-      "topics": [
-        "meta",
-        "ai agent",
-        "muse",
-        "smart glasses",
-        "ecommerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 01:13:32 +0000",
-      "processed_at": "2026-09-25T11:41:47.779629+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart-e1790268797534.png?w=735",
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Databricks has acquired Row Zero, an early‑stage spreadsheet startup that can scale beyond one million live rows, after its finance team discovered the tool could be combined with Databricks’ AI agent Genie. The integration lets users ask natural‑language questions about data stored in Databricks while interacting through familiar spreadsheet formulas, keeping the data secure in the cloud. The deal, terms undisclosed, follows a series of 2026 acquisitions—including Quotient AI, SiftD.ai, Panther, and Electric—showing Databricks’ intent to continue expanding its AI and data‑management ecosystem.",
-      "key_points": [
-        "Databricks acquired Row Zero, a spreadsheet startup capable of handling over 1 million live rows",
-        "Row Zero will be integrated with Databricks’ Genie AI agent to allow natural‑language queries via spreadsheets",
-        "The acquisition is part of Databricks’ broader 2026 strategy of multiple startup purchases",
-        "Row Zero was founded by former AWS and Tableau engineers, raised $10M in May 2025, and was valued at $40M"
-      ],
-      "topics": [
-        "databricks",
-        "acquisition",
-        "ai",
-        "spreadsheets",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 17:07:55 +0000",
-      "processed_at": "2026-09-25T05:58:23.490605+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
-      "title": "Google Photos 'Clueless'-inspired virtual closet is now available on Android and iOS | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google Photos has launched an AI‑powered virtual closet that turns users’ outfit photos into a digital wardrobe, now available on Android and iOS in the U.S., Brazil, and India. The feature automatically catalogs clothing items by category, lets users filter tops, bottoms, jewelry, and mix and match to create new looks, all without sharing wardrobe data with third parties. The rollout comes alongside other Google Photos updates such as Gemini Spark prompts, an upgraded markup tool, Remix AI templates, and new “Moods” photo filters for Android. Google emphasizes that the virtual closet is designed to assist users while protecting privacy, and the service is free for all supported devices.",
-      "key_points": [
-        "Google Photos introduces an AI‑powered virtual closet available on Android and iOS in the U.S., Brazil, and India",
-        "The feature catalogs clothing by category and lets users mix and match outfits without sharing data with third parties",
-        "Rollout coincides with Gemini Spark prompts, an upgraded markup tool, Remix AI templates, and new Android “Moods” filters",
-        "Google stresses privacy protection and offers the service for free"
-      ],
-      "topics": [
-        "google",
-        "photos",
-        "ai",
-        "virtual closet",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-25T05:58:12.960819+00:00"
     }
   ]
 }

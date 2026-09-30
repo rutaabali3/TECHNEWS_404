@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:54:48.862066+00:00",
+  "updated_at": "2026-09-30T18:19:03.864171+00:00",
   "items": [
     {
       "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
       "feed_excerpt": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
       "published": "Tue, 29 Sep 2026 13:25:21 +0000"
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "feed_excerpt": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "published": "Tue, 29 Sep 2026 12:30:00 +0000"
     },
     {
       "title": "OpenAI’s latest features take direct aim at the app store model",
@@ -38,22 +32,10 @@
       "published": "Tue, 29 Sep 2026 18:45:00 +0000"
     },
     {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "feed_excerpt": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
-      "published": "Tue, 29 Sep 2026 17:45:51 +0000"
-    },
-    {
       "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
       "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
       "feed_excerpt": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
       "published": "Tue, 29 Sep 2026 17:27:09 +0000"
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "feed_excerpt": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-      "published": "Tue, 29 Sep 2026 17:20:00 +0000"
     },
     {
       "title": "OpenAI launches Dots, its bubbly agentic avatar",
@@ -120,7 +102,109 @@
       "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
       "feed_excerpt": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
       "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "feed_excerpt": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "published": "Wed, 30 Sep 2026 17:45:00 +0000"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "feed_excerpt": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "published": "Wed, 30 Sep 2026 17:24:45 +0000"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "feed_excerpt": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "published": "Wed, 30 Sep 2026 16:24:23 +0000"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "feed_excerpt": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "published": "Wed, 30 Sep 2026 16:00:24 +0000"
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "feed_excerpt": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "feed_excerpt": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "published": "Wed, 30 Sep 2026 15:56:28 +0000"
+    },
+    {
+      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+      "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+      "feed_excerpt": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+      "published": "Wed, 30 Sep 2026 15:26:02 +0000"
+    },
+    {
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "feed_excerpt": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
+      "published": "Wed, 30 Sep 2026 14:50:55 +0000"
+    },
+    {
+      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+      "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+      "feed_excerpt": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
+      "published": "Wed, 30 Sep 2026 14:32:03 +0000"
+    },
+    {
+      "title": "Instagram rolls out an AI video assistant for creators",
+      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+      "feed_excerpt": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+      "published": "Wed, 30 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+      "published": "Wed, 30 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "feed_excerpt": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+      "published": "Wed, 30 Sep 2026 14:27:11 +0000"
+    },
+    {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "feed_excerpt": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+      "published": "Wed, 30 Sep 2026 14:15:00 +0000"
+    },
+    {
+      "title": "WhatsApp adds new parental controls for teen accounts",
+      "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
+      "feed_excerpt": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
+      "published": "Wed, 30 Sep 2026 13:50:16 +0000"
+    },
+    {
+      "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote",
+      "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
+      "feed_excerpt": "Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especially in the dark.",
+      "published": "Wed, 30 Sep 2026 13:43:54 +0000"
+    },
+    {
+      "title": "Charter Space raises $5M to bring insurance to the stars",
+      "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+      "feed_excerpt": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+      "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+      "feed_excerpt": "Tinder has been pushing users toward more real-world experiences for some time.",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-30T12:55:00.064133+00:00"
+  "last_processed_at": "2026-09-30T18:19:05.712536+00:00"
 }
