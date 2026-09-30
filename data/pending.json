@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:25:16.890797+00:00",
+  "updated_at": "2026-09-30T12:54:48.862066+00:00",
   "items": [
     {
       "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
@@ -20,22 +20,10 @@
       "published": "Tue, 29 Sep 2026 12:30:00 +0000"
     },
     {
-      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-      "feed_excerpt": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
-      "published": "Tue, 29 Sep 2026 21:20:12 +0000"
-    },
-    {
       "title": "OpenAI’s latest features take direct aim at the app store model",
       "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
       "feed_excerpt": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
       "published": "Tue, 29 Sep 2026 20:15:47 +0000"
-    },
-    {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "feed_excerpt": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "published": "Tue, 29 Sep 2026 19:52:37 +0000"
     },
     {
       "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
       "feed_excerpt": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
       "published": "Tue, 29 Sep 2026 18:45:00 +0000"
-    },
-    {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "feed_excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "published": "Tue, 29 Sep 2026 18:35:00 +0000"
     },
     {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
@@ -126,7 +108,19 @@
       "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "feed_excerpt": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "published": "Tue, 29 Sep 2026 19:52:37 +0000"
+    },
+    {
+      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+      "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+      "feed_excerpt": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "feed_excerpt": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-09-30T06:25:44.401891+00:00"
+  "last_processed_at": "2026-09-30T12:55:00.064133+00:00"
 }

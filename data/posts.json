@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-09-30T06:25:46.852289+00:00",
+  "updated_at": "2026-09-30T12:55:17.854716+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-29-tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2183782412.jpg?resize=1200,800",
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla has secured $30 billion in new credit lines, comprising a $20 billion delayed‑draw term loan from Citibank, an $8 billion revolving facility from Wells Fargo and a $2 billion revolving line with a 364‑day term. The company said it will not draw on these facilities this year, instead planning at least $25 billion in capital expenditures for 2026 to build out new manufacturing lines for its Cybercab robotaxi, Optimus robot and Tesla Semi. With roughly $9 billion in debt and more than $40 billion in cash and investments, Tesla is positioning itself to scale these high‑profile projects without immediate liquidity pressure. The move underscores the firm’s strategy to fund ambitious product development while maintaining a strong balance sheet.",
+      "key_points": [
+        "$30 billion in credit lines from Citibank and Wells Fargo",
+        "Tesla will not draw on the lines this year, targeting $25 billion in 2026 capex",
+        "New manufacturing lines are being built for Cybercab, Optimus and Semi",
+        "Tesla holds over $40 billion in cash and $9 billion in debt"
+      ],
+      "topics": [
+        "tesla",
+        "finance",
+        "credit",
+        "robotics",
+        "manufacturing"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 21:20:12 +0000",
+      "processed_at": "2026-09-30T12:54:49.908178+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "OpenAI is reportedly negotiating a pre‑IPO funding round of at least $30 billion that would value the company at roughly $1.4 trillion, according to Bloomberg. The deal comes after a 70 % jump in run‑rate revenue to $40 billion in August and follows a $122 billion raise in March that was meant to be the last private round. CEO Sam Altman has ruled out a 2026 public debut to focus on AI safety, so the new capital would act as a bridge to a future IPO. The move signals continued investor appetite for the ChatGPT maker amid growing concerns about the pace of its market entry.",
+      "key_points": [
+        "OpenAI seeks a $30B bridge round valuing it at $1.4T",
+        "Run‑rate revenue hit $40B in August, up 70% from July",
+        "CEO Sam Altman has postponed a 2026 IPO to prioritize AI safety"
+      ],
+      "topics": [
+        "openai",
+        "funding",
+        "valuation",
+        "ai safety",
+        "ipo"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 19:52:37 +0000",
+      "processed_at": "2026-09-30T12:55:00.064051+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "title": "Here's why OpenAI is absent from Nvidia's industry-wide effort to end rogue AI agents | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Nvidia has announced a new consortium of more than 100 companies to tackle rogue AI agents, but OpenAI is notably absent from the sign‑ups, even though it has expressed support for the effort. The initiative, called the Open Agent Safety Platform, relies on Nvidia’s open‑source sandbox OpenShell and a proprietary hardware monitor called Sentry that runs on Nvidia processors. OpenAI is collaborating on OpenShell but has chosen not to commit to the full platform, citing the proprietary hardware requirement and its own independent safety programs such as the Defense Factory. The move underscores OpenAI’s desire to maintain autonomy in AI safety while still engaging with Nvidia’s technology.\n",
+      "key_points": [
+        "Nvidia’s Open Agent Safety Platform gathers 100+ firms but excludes OpenAI, Amazon, Google, and Apple.",
+        "OpenAI works on the OpenShell sandbox but avoids the platform’s proprietary hardware component.",
+        "OpenAI maintains its own safety initiatives, including the Defense Factory consortium.",
+        "Nvidia’s hardware‑centric approach limits the platform’s appeal to non‑Nvidia ecosystems."
+      ],
+      "topics": [
+        "ai safety",
+        "nvidia",
+        "openai",
+        "consortium",
+        "hardware"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 18:35:00 +0000",
+      "processed_at": "2026-09-30T12:54:50.359640+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-29-instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
@@ -2378,81 +2452,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 24 Sep 2026 17:00:00 +0000",
       "processed_at": "2026-09-25T05:58:12.960819+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-meta-is-trying-vr-glasses-again-this-time-with-more-imax",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.png?resize=1200,677",
-      "title": "Meta is trying VR glasses (again), this time with more IMAX | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Meta has unveiled a new pair of VR glasses that promise a lighter, more wearable experience than its previous headsets, with a price tag of $1,299.99 and a launch slated for next spring. The glasses feature 5K micro‑OLED displays, Dolby Vision and Atmos audio, and are marketed as the first IMAX‑enhanced certified VR device, allowing users to watch IMAX‑captured films in an expanded aspect ratio. They also support 3D content and integration with Disney+ for immersive movie experiences that blend the user’s surroundings with virtual environments. Built on Qualcomm’s Snapdragon Reality Elite processor and a pocket‑sized battery puck, the glasses include Meta AI for voice and gesture control, enabling hands‑free operation of media and other tasks.",
-      "key_points": [
-        "Meta launches lightweight VR glasses priced at $1,299.99 with IMAX compatibility",
-        "Glasses feature 5K micro‑OLED displays, Dolby Vision/Atmos audio, and 3D support",
-        "Integrated Meta AI assistant allows voice and gesture commands for media playback",
-        "Device connects to a pocket‑sized battery puck powered by Snapdragon Reality Elite"
-      ],
-      "topics": [
-        "meta",
-        "vr",
-        "imax",
-        "entertainment",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 23:47:35 +0000",
-      "processed_at": "2026-09-25T00:42:36.414407+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296638825.jpg?w=1024",
-      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Vogue World’s Milan edition ended with a controversial act called \"The Age of Intelligence\" in which humanoid robots from Chinese firm Unitree walked the runway to Gigi D’Agostino’s \"L’Amour Toujours\" without clothing, prompting a viral reaction from Valentino’s creative director Alessandro Michele and widespread criticism that the show focused more on spectacle than on fashion. The event, marketed as a tribute to Italian craftsmanship and the \"human touch,\" was sponsored in part by Meta Glasses and supported by OpenAI, underscoring Vogue’s growing partnership with Silicon Valley tech giants. While the robots performed awkwardly and drew negative attention, the show highlighted the magazine’s attempt to blend technology and couture, a strategy that many observers say feels forced and out of touch with the real innovations happening at the intersection of fashion and tech. Vogue’s next edition will take place in San Francisco, a city known for its tech culture, raising questions about how the brand will balance its fashion legacy with its new tech alliances amid a broader debate over automation and labor displacement.",
-      "key_points": [
-        "Humanoid robots from Unitree performed on the Milan runway, sparking backlash and viral memes",
-        "Vogue World’s sponsorship by Meta Glasses and OpenAI signals a deepening alliance with Silicon Valley",
-        "The show’s focus on robotics eclipsed the fashion presentations, drawing criticism from industry insiders",
-        "The upcoming San Francisco edition may continue the trend of blending high fashion with cutting‑edge technology"
-      ],
-      "topics": [
-        "fashion",
-        "technology",
-        "robotics",
-        "vogue",
-        "techculture"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 23:33:22 +0000",
-      "processed_at": "2026-09-25T00:42:36.415978+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194",
-      "title": "Modal Motors is trying to cut China out of electric motors entirely | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Modal Motors, founded by veteran motor engineer Michael Van Steenburg, is positioning itself to eliminate China‑dependent rare‑earth magnets from U.S. electric motor production. The startup is developing two motors for its Disrupt 2024 showcase: a lightweight, high‑torque motor for drones, fans, and actuators, and a planar “Hybrid Enigma Drive” that fits low‑profile spaces. Van Steenburg argues that reshoring efforts that still rely on rare‑earths will remain vulnerable to China’s supply chain dominance, and he is drawing on a decade of automotive motor experience to build China‑free alternatives. The company’s goal is to make U.S. electric motor manufacturing independent of Chinese mineral control and to accelerate domestic supply chain development.",
-      "key_points": [
-        "Modal Motors seeks to cut China out of electric motor supply chains by eliminating rare‑earth magnets",
-        "Founder Michael Van Steenburg leverages a decade of motor expertise to develop China‑free products",
-        "The startup will showcase a drone‑grade motor and a planar Hybrid Enigma Drive at TechCrunch Disrupt 2024",
-        "Reshoring efforts that still depend on rare‑earths risk continued vulnerability to China’s supply chain control"
-      ],
-      "topics": [
-        "electric motors",
-        "reshoring",
-        "rare earths",
-        "startup",
-        "techcrunch disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 19:05:00 +0000",
-      "processed_at": "2026-09-25T00:42:36.244517+00:00"
     }
   ]
 }
