@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-30T18:19:03.864171+00:00",
+  "updated_at": "2026-09-30T22:29:49.080341+00:00",
   "items": [
-    {
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-      "feed_excerpt": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
-      "published": "Tue, 29 Sep 2026 09:00:00 +0000"
-    },
     {
       "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
       "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
@@ -47,18 +41,6 @@
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
       "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
       "feed_excerpt": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "feed_excerpt": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
-    },
-    {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "feed_excerpt": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
       "published": "Tue, 29 Sep 2026 17:15:00 +0000"
     },
     {
@@ -204,7 +186,55 @@
       "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
       "feed_excerpt": "Tinder has been pushing users toward more real-world experiences for some time.",
       "published": "Wed, 30 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "feed_excerpt": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "published": "Wed, 30 Sep 2026 21:07:40 +0000"
+    },
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "feed_excerpt": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "published": "Wed, 30 Sep 2026 20:39:09 +0000"
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "feed_excerpt": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch’s Equity podcast, […]",
+      "published": "Wed, 30 Sep 2026 20:20:02 +0000"
+    },
+    {
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "feed_excerpt": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "published": "Wed, 30 Sep 2026 19:29:08 +0000"
+    },
+    {
+      "title": "DoorDash’s drone strategy started on the ground",
+      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "feed_excerpt": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+      "published": "Wed, 30 Sep 2026 19:22:13 +0000"
+    },
+    {
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "feed_excerpt": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+      "published": "Wed, 30 Sep 2026 19:19:40 +0000"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "feed_excerpt": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "published": "Wed, 30 Sep 2026 19:00:57 +0000"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "feed_excerpt": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "published": "Wed, 30 Sep 2026 18:23:57 +0000"
     }
   ],
-  "last_processed_at": "2026-09-30T18:19:05.712536+00:00"
+  "last_processed_at": "2026-09-30T22:30:08.998232+00:00"
 }

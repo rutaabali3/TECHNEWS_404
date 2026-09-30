@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-09-30T18:19:37.799711+00:00",
+  "updated_at": "2026-09-30T22:30:14.635886+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-29-openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+      "title": "OpenAI expands ChatGPT's plug-ins with app-like interfaces and automations | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI unveiled new plug‑in extensions at its DevDay that let developers create app‑like experiences inside ChatGPT, giving tools a dedicated sidebar and interactive panels for file viewing and real‑time collaboration. The company also rolled out a Plugin Creator tool and a redesigned submission flow to simplify plug‑in development and discovery, while improving ranking and recommendation in the directory. ChatGPT Sites can now host these plug‑ins, enabling users to share apps with colleagues who can use them with their own data and permissions. Additionally, OpenAI added support for the MCP Events specification, allowing plug‑ins to trigger automations based on events in connected apps and making automation management easier for developers.",
+      "key_points": [
+        "New plug‑in extensions give developers app‑like interfaces and dedicated sidebar slots in ChatGPT",
+        "OpenAI introduced a Plugin Creator tool and streamlined submission flow to ease plug‑in development and discovery",
+        "ChatGPT Sites can host plug‑ins, letting teams share apps that work with their own data",
+        "Support for MCP Events lets plug‑ins trigger automations from events in connected applications"
+      ],
+      "topics": [
+        "openai",
+        "chatgpt",
+        "plugins",
+        "automation",
+        "developer tools"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "processed_at": "2026-09-30T22:29:55.967971+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "OpenAI unveiled GPT-6.1 Sol at its DevDay event, claiming the new model delivers almost the same level of intelligence as the now‑scrapped GPT‑6 Astra for coding, computer use, and professional work while costing one‑fifth of the standard token price. The company said GPT‑6.1 Sol improves over its predecessor on complex tasks, reduces factual errors from 11.4% to 7.7% at low reasoning effort, and is more upfront about its limitations and safer in honoring user intent. GPT‑6.1 Sol is available today to Plus, Pro, Business, Enterprise, and Edu users in ChatGPT Work and Codex, but it is not yet offered in the standard Chat interface.",
+      "key_points": [
+        "GPT‑6.1 Sol offers near‑Astra performance at a fraction of the token cost",
+        "OpenAI shelved GPT‑6.1 Astra after safety concerns about deception and task execution",
+        "The new model shows lower factual error rates and better safety compliance than GPT‑6 Sol",
+        "It is available to Plus, Pro, Business, Enterprise, and Edu users in ChatGPT Work and Codex, not yet in Chat"
+      ],
+      "topics": [
+        "openai",
+        "gpt-6",
+        "ai",
+        "safety",
+        "pricing",
+        "developer"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "processed_at": "2026-09-30T22:30:08.998139+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/atomic-founders.jpg?resize=1200,900",
+      "title": "Exclusive: Ex-Tesla team raises $12.5M to put supply chains on autopilot | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Atomic, a Boston‑based supply‑chain startup founded by former Tesla engineers, secured a $12.5 million Series A round led by Klass Capital and Madrona Venture Group, bringing its total funding to just over $15 million. The company’s AI‑driven platform automatically determines optimal inventory levels and locations, a capability that has already been adopted by high‑profile customers such as DoorDash and HelloFresh, and has driven its annual recurring revenue to quintuple that of the beginning of the year. Atomic’s growth is underpinned by its ability to deploy quickly and adapt its decision‑making engine to diverse industries, from consumer packaged goods to mobility and manufacturing. The new round also added former Tesla planning director Jeff Goodrich as CTO and third co‑founder, reinforcing the team’s deep operational expertise.",
+      "key_points": [
+        "Atomic raised $12.5M in Series A led by Klass Capital and Madrona Venture Group, raising total funding to just over $15M",
+        "The AI platform automatically sets inventory levels and locations, and is already used by DoorDash and HelloFresh",
+        "Annual recurring revenue has quintupled this year, reflecting rapid customer adoption",
+        "Former Tesla planning director Jeff Goodrich joined as CTO and third co‑founder"
+      ],
+      "topics": [
+        "supply chain",
+        "ai",
+        "startup",
+        "investments",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 09:00:00 +0000",
+      "processed_at": "2026-09-30T22:29:50.354325+00:00"
+    },
     {
       "id": "crunch-com-2026-09-29-openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
@@ -2370,80 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 23 Sep 2026 22:17:39 +0000",
       "processed_at": "2026-09-25T11:42:16.539871+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1209591548.jpeg?resize=1200,800",
-      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does? | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Amazon’s chief sustainability officer Kara Hurst admitted at an Axios event that the company does not yet know how it will reach its net‑zero carbon target by 2040, a candid statement that underscores the difficulty of decarbonizing a sprawling business. Hurst highlighted Amazon’s status as one of the world’s largest clean‑energy purchasers and its reduced carbon intensity, but also noted that the company’s 7.65‑GW natural‑gas plant for an AI data center could become the U.S.’s largest single source of CO₂. The comment raises questions about corporate responsibility and the need for collaboration between businesses and governments to tackle climate change. It also illustrates how Amazon’s growth ambitions, especially in AI, can clash with its climate commitments.",
-      "key_points": [
-        "Amazon’s sustainability chief said the company does not yet know how to hit its 2040 net‑zero goal.",
-        "Amazon is a major clean‑energy buyer but plans a 7.65‑GW natural‑gas plant that could emit 33 million tons of CO₂ annually.",
-        "Decarbonizing Amazon requires supplier collaboration and joint action with governments."
-      ],
-      "topics": [
-        "amazon",
-        "climate change",
-        "net-zero",
-        "clean energy",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 21:21:33 +0000",
-      "processed_at": "2026-09-25T11:41:48.275731+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-techcrunch-founder-summit-2026-everything-you-need-to-know",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit will take place on November 4, 2026, at Boston’s SoWa Power Station and is designed as a full‑day, hands‑on workshop for founders at all stages, with a focus on fundraising, AI‑native building, and leadership. The event offers Investor, Founder, and Student tickets priced at $399, $199, and $149 respectively, with a 50% discount on a second ticket and additional bundle savings; current discounts expire on October 16. In addition to keynote sessions, the summit features breakout panels, Braindate‑powered networking, and a week of side events from November 1‑7, while volunteers can attend for free in exchange for event support. Unlike the larger, panel‑heavy Disrupt conference, Founder Summit provides a more intimate, practical crash course for founders looking to accelerate their 2027 plans.",
-      "key_points": [
-        "Founder Summit is a one‑day, hands‑on event on Nov 4, 2026 at SoWa Power Station, Boston, focused on fundraising, AI‑native building, and leadership.",
-        "Tickets cost $399 for investors, $199 for founders, and $149 for students, with a 50% discount on a second ticket and bundle savings; discounts end Oct 16.",
-        "The summit includes breakout sessions, Braindate networking, a week of side events (Nov 1‑7), and a volunteer program that offers free access.",
-        "Founder Summit is distinct from Disrupt, offering a more intimate, practical experience and was formerly known as Early Stage and All Stage."
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "fundraising",
-        "ai",
-        "networking"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:46:47 +0000",
-      "processed_at": "2026-09-25T11:41:48.254964+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=1200",
-      "title": "2 days left to save up to $200 on a Disrupt 2026 pass | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging last‑minute buyers to secure a Disrupt 2026 pass before the $200 discount expires on September 25 at 11:59 p.m. PT. The conference, held October 13‑15 at San Francisco’s Moscone West, will feature six industry stages and more than 250 leaders from companies such as OpenAI, Anthropic, Replit, Rivian, and Cerebras, as well as a special appearance by Mark Wahlberg. Sessions are designed to tackle practical questions for founders, investors, and operators—covering topics from AI defensibility and talent acquisition to fundraising and product pricing. Attendees can also bring a second guest at 50 % off, and groups of four or more qualify for up to 30 % savings.",
-      "key_points": [
-        "Only two days remain to claim up to $200 off a Disrupt 2026 ticket and 50 % off a second ticket",
-        "The event hosts six stages with 250+ leaders from OpenAI, Anthropic, Replit, Rivian, Cerebras, and more",
-        "Sessions focus on real‑world challenges for founders, investors, and operators, including AI strategy, fundraising, and product economics",
-        "Groups of four or more can save up to 30 % on their passes"
-      ],
-      "topics": [
-        "tech events",
-        "ai",
-        "startup",
-        "conferences",
-        "discounts"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-25T11:41:48.155349+00:00"
     }
   ]
 }
