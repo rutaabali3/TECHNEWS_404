@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:20:46.637461+00:00",
+  "updated_at": "2026-09-30T00:41:35.083705+00:00",
   "items": [
     {
       "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
@@ -26,18 +26,6 @@
       "published": "Tue, 29 Sep 2026 15:00:00 +0000"
     },
     {
-      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
-      "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-      "feed_excerpt": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-      "published": "Tue, 29 Sep 2026 14:56:55 +0000"
-    },
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "feed_excerpt": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "published": "Tue, 29 Sep 2026 13:53:01 +0000"
-    },
-    {
       "title": "Meta is expanding its AI agent Muse to small businesses",
       "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
       "feed_excerpt": "The tech giant says the agent can help owners run their business and find new customers.",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
       "feed_excerpt": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
       "published": "Tue, 29 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "feed_excerpt": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "published": "Tue, 29 Sep 2026 12:45:05 +0000"
     },
     {
       "title": "Reco raises $55M as AI agent security startups crowd the market",
@@ -144,7 +126,37 @@
       "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "feed_excerpt": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
       "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "feed_excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "published": "Tue, 29 Sep 2026 23:30:55 +0000"
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "feed_excerpt": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "published": "Tue, 29 Sep 2026 22:20:59 +0000"
+    },
+    {
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "feed_excerpt": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "published": "Tue, 29 Sep 2026 22:18:35 +0000"
+    },
+    {
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "feed_excerpt": "EliseAI raises $350M, doubles valuation in a year.",
+      "published": "Tue, 29 Sep 2026 21:51:36 +0000"
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "feed_excerpt": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "published": "Tue, 29 Sep 2026 19:52:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-29T21:21:06.543463+00:00"
+  "last_processed_at": "2026-09-30T00:41:36.755347+00:00"
 }
