@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-09-30T00:42:04.811989+00:00",
+  "updated_at": "2026-09-30T06:25:46.852289+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-29-instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Instinct’s founder Noah Shinn revealed that more than half of the platform’s transactions are travel bookings and that the invite‑only service is approaching a billion dollars in annual transaction volume, growing roughly 10% day‑to‑day. The company just closed a $1 billion Series C round at a $10 billion valuation led by Sequoia, Benchmark and Coatue, positioning it as a major player in the personal‑assistant market. Shinn highlighted Instinct’s unified interface for hotels, airlines and restaurants, and its real‑time reservation checks that aim to improve user experience over traditional booking sites. Instinct now competes directly with Meta’s Muse and Khosla‑backed Wajo in the emerging AI‑powered agent space.",
+      "key_points": [
+        "Instinct’s agent handles over 50% of its transactions, primarily for travel.",
+        "The platform is nearing $1 billion in annual transaction volume and grows about 10% daily.",
+        "It secured $1 billion Series C funding at a $10 billion valuation from Sequoia, Benchmark and Coatue.",
+        "Instinct competes with Meta’s Muse and Khosla-backed Wajo in the personal‑assistant market."
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "fintech",
+        "traveltech",
+        "valuation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 15:12:07 +0000",
+      "processed_at": "2026-09-30T06:25:18.151958+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1362873121.jpg?resize=1200,800",
+      "title": "After losing his voice to cancer, this founder is building 'glasses for voice' | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Konrad Zieliński, who lost his voice to cancer, founded Uhura Bionics to create a non‑invasive, emotion‑rich voice prosthesis that he calls \"glasses for voice.\" The startup offers a basic model for $500 and a high‑end version called Whitney for $1,500, and is working to obtain Class I medical device status in Europe and the U.S. to enable insurance reimbursement. Zieliński estimates a $2 billion market for laryngectomee devices and plans to showcase Whitney at TechCrunch Disrupt 2026 and SF Tech Week, where he will even sing onstage using the device. Competitors include Atos Medical and Laronix, but Uhura aims to bring a more natural, personalized speaking experience to users worldwide.",
+      "key_points": [
+        "Founder Konrad Zieliński lost his voice to cancer and now builds a non‑invasive voice prosthesis called \"glasses for voice.\"",
+        "Uhura Bionics sells a basic model for $500 and a high‑end Whitney for $1,500, seeking medical device classification for insurance coverage.",
+        "The company targets a $2 billion market for laryngectomee devices and plans to demonstrate Whitney at TechCrunch Disrupt 2026 and SF Tech Week.",
+        "Competitors include Atos Medical and Laronix, but Uhura focuses on emotional, personalized speech output."
+      ],
+      "topics": [
+        "voice prosthesis",
+        "bionic devices",
+        "tech startups",
+        "healthtech",
+        "medical devices"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-30T06:25:18.612663+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GTM_Connectors_16x9-1.png?resize=1200,675",
+      "title": "Meta is expanding its AI agent Muse to small businesses | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Meta has expanded its AI agent Muse to serve small businesses, adding integrations with Shopify, Dropbox, Slack, Asana, QuickBooks, and more to embed AI into the tools owners already use. The free tier offers limited usage, while a subscription unlocks higher capacity, positioning Muse as a practical assistant for sales, operations, and marketing. This rollout follows the launch of Meta’s Enterprise Platform, a broader initiative to bring AI tools like Muse, Meta Business Agent, and Muse API to corporate customers, led by MongoDB CEO Chirantan Desai. Muse’s debut earlier this month topped U.S. and Canadian app charts, surpassing ChatGPT in downloads.",
+      "key_points": [
+        "Muse now supports small businesses with integrations such as Shopify, Dropbox, Slack, Asana, and QuickBooks",
+        "The free tier has usage limits; a subscription plan offers higher capacity",
+        "Meta’s Enterprise Platform, led by MongoDB CEO Chirantan Desai, aims to bring AI tools to enterprises",
+        "Muse topped U.S. and Canadian app charts ahead of ChatGPT after its launch"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "small business",
+        "muse",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 13:47:30 +0000",
+      "processed_at": "2026-09-30T06:25:44.401791+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-fireflies-adds-dictation-to-its-desktop-notetaking-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1009981950.jpg?resize=1200,801",
+      "title": "Fireflies adds dictation to its desktop notetaking apps | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Fireflies.ai has launched a new dictation feature called Fireflies Talk for its Mac and Windows desktop apps, allowing users to speak into any application and have their words transcribed in real time. The feature is bundled into existing subscription plans, with no separate fee, and the company states it does not keep recordings, storing transcripts only locally. CEO Krish Ramineni says the goal is to make Fireflies an AI teammate that works across email, Slack, documents, and other daily tools, not just meetings. This expansion follows similar moves by competitors such as Wispr and Speechify, positioning Fireflies as a broader productivity assistant.",
+      "key_points": [
+        "Fireflies introduces Fireflies Talk, a dictation tool that works across any desktop app via a keyboard shortcut",
+        "The feature is included in current subscription plans and does not store recordings, keeping transcripts locally",
+        "CEO envisions Fireflies as an AI teammate beyond meetings, integrating into email, Slack, docs, and other workflows",
+        "The move aligns with competitors like Wispr and Speechify, expanding the market for AI-powered dictation"
+      ],
+      "topics": [
+        "voice ai",
+        "dictation",
+        "productivity",
+        "ai assistants",
+        "software"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-09-30T06:25:18.316661+00:00"
+    },
+    {
+      "id": "wealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
+      "title": "CFS' Brandon Sorbom and Helion’s David Kirtley join Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Commonwealth Fusion Systems and Helion will headline a session at TechCrunch Disrupt 2026, where their leaders will discuss how their fusion projects—CFS’s SPARC and ARC and Helion’s Orion—are moving toward commercial power generation. CFS, which raised $1 billion in July to bring its total funding to $4 billion, has already applied to the PJM Interconnection and is targeting a 50‑megawatt ARC plant. Helion, which closed a $500 million Series G round in September, plans to supply 50 MW of electricity to Microsoft by 2028 after reaching 150 million‑degree plasma in its Polaris prototype. The session will explore the technical and regulatory hurdles that must be overcome to deliver fusion electricity to the grid at scale.",
+      "key_points": [
+        "CFS and Helion will present at Disrupt 2026 on bringing fusion power to the grid.",
+        "CFS’s SPARC is a demonstration machine aimed at a 50‑MW ARC plant, and the company has raised $4 billion total.",
+        "Helion’s Orion is a 50‑MW plant slated to supply Microsoft by 2028, after achieving 150 million‑degree plasma in its Polaris prototype.",
+        "Both companies face technical and regulatory challenges before fusion can be commercially deployed."
+      ],
+      "topics": [
+        "fusion",
+        "energy",
+        "techconference",
+        "startup",
+        "cleanenergy"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "processed_at": "2026-09-30T06:25:18.480563+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-29-oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5-2.jpg?resize=1200,841",
@@ -2328,131 +2453,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 23 Sep 2026 19:05:00 +0000",
       "processed_at": "2026-09-25T00:42:36.244517+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-chatgpt-mobile-app-gets-voice-based-agentic-features",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "ChatGPT mobile app gets voice-based agentic features | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "OpenAI has announced that its ChatGPT mobile app will now support voice‑based agentic features, allowing Plus and Pro subscribers to trigger workflows such as drafting documents, summarizing emails, and building websites directly from their phones. The new voice conversations will produce richer text output and users can easily switch between voice and text, even resuming a conversation on desktop after starting it on mobile. Free and Go users will still have access to plugins and connected apps, while the Work tab on mobile will mirror the desktop experience introduced with GPT‑Live in July. This rollout comes as more users turn to voice commands for complex AI tasks and follows Anthropic’s similar mobile‑desktop handoff improvements.",
-      "key_points": [
-        "OpenAI adds voice‑based agentic features to ChatGPT mobile for Plus/Pro users",
-        "Users can trigger workflows like drafting docs, summarizing emails, and building sites via voice",
-        "Voice conversations offer richer text output and can be switched with text, with cross‑device continuity",
-        "The feature mirrors GPT‑Live’s desktop capabilities and follows Anthropic’s mobile‑desktop integration"
-      ],
-      "topics": [
-        "openai",
-        "chatgpt",
-        "voice",
-        "mobile",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-25T00:42:43.670386+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Meta announced Muse Charm, a keychain‑sized wearable that lets users interact with its Muse AI agent via a tiny screen and a fingerprint sensor. The device displays the Jolly avatar and supports real‑time voice commands without unlocking a phone. Zuckerberg said the product is not yet ready to ship, with a December release target after finalizing component layout. The gadget offers a low‑stakes, Tamagotchi‑like way to keep users connected to Meta’s AI, expanding distribution beyond the phone app.",
-      "key_points": [
-        "Meta unveiled Muse Charm, a keychain‑sized AI wearable for its Muse agent.",
-        "The device houses a tiny screen showing the Jolly avatar and uses a fingerprint sensor for instant voice interaction.",
-        "Zuckerberg said it will ship by December, after finalizing component layout.",
-        "The gadget offers a low‑stakes way to keep users connected to Meta’s AI, echoing the Tamagotchi vibe."
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "wearable",
-        "muse",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 00:46:17 +0000",
-      "processed_at": "2026-09-25T00:42:36.386847+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-meta-introduces-camera-free-ai-glasses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
-      "title": "Meta introduces camera-free AI glasses | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta unveiled its first camera‑free AI glasses, the Ray‑Ban Meta Audio, at Connect 2026 to address privacy concerns that plagued earlier camera‑enabled models. The audio‑only glasses, priced at $349, weigh 43 grams, offer up to 12 hours of battery life on a single charge and support music, podcasts, calls, speech translation and the Muse AI assistant. They come in 23 color and lens combinations, including retro‑inspired Clubmaster and classic Burbank styles, and will be available for preorder on October 13. Meta also announced its next‑generation camera glasses, the Ray‑Ban Meta Gen 3, and teased additional software updates such as Dolby Atmos Capture and private data processing.\n",
-      "key_points": [
-        "Meta launches camera‑free AI glasses to mitigate privacy backlash",
-        "The Ray‑Ban Meta Audio starts at $349, weighs 43 g, and offers 12‑hour battery life",
-        "Preorders begin October 13 with 23 color/lens options and prescription compatibility",
-        "Meta also reveals next‑gen camera glasses and new software features"
-      ],
-      "topics": [
-        "meta",
-        "ai glasses",
-        "privacy",
-        "audio",
-        "eyewear"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 23:39:44 +0000",
-      "processed_at": "2026-09-24T22:07:31.748795+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Disney has raised the price of its ad‑free Disney+ and Hulu bundle to $21.99 a month, up from $19.99, and the stand‑alone ad‑free plans to $21.49, up from $18.99, while the ad‑supported plans now cost $12.49 a month. The move follows a broader industry trend of streaming inflation, with Peacock, Apple TV and Netflix also hiking prices earlier this year. Disney said its streaming revenue rose 11% to $5.5 billion in the third quarter of 2026, driven by subscriber growth and prior price increases, and the company is also exploring a free tier and new discovery features such as Playlists while hiring a chief technology officer.",
-      "key_points": [
-        "Disney+ and Hulu ad‑free bundle now $21.99, stand‑alone ad‑free plans $21.49, ad‑supported plans $12.49",
-        "The hikes are part of a wider streaming inflation trend after Peacock, Apple TV and Netflix raised prices",
-        "Disney’s streaming revenue grew 11% to $5.5 billion in Q3 2026, reflecting subscriber gains and price impacts",
-        "Disney is testing a free tier, adding Playlists for content discovery, and has hired a new CTO"
-      ],
-      "topics": [
-        "streaming",
-        "disney",
-        "pricehike",
-        "inflation",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 18:06:27 +0000",
-      "processed_at": "2026-09-24T22:07:31.869204+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Ask-YouTube-Title-Card.jpg?resize=1200,675",
-      "title": "YouTube doubles down on video shopping with AI-powered 'Ask YouTube' feature | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "YouTube has expanded its AI‑powered conversational search feature, Ask YouTube, to serve as a shopping companion, adding product recommendations, comparison tables, and the ability to ask follow‑up questions directly on a video’s watch page. The company says the changes are driven by user behavior and creator insights, and that a custom Gemini model maps complex questions to the exact second in a video that provides the answer. In June, 140 million people used Ask YouTube—a more than 500% increase since December—highlighting rapid adoption. The new shopping‑focused capabilities aim to turn passive search into an instant, meaningful connection between viewers, creators, and products.",
-      "key_points": [
-        "YouTube adds shopping features to Ask YouTube, including product recommendations and comparison tables.",
-        "Users can ask follow‑up questions directly on a video’s watch page.",
-        "140 million users used Ask YouTube in June, a 500% jump since December.",
-        "A custom Gemini model maps complex queries to exact video timestamps."
-      ],
-      "topics": [
-        "youtube",
-        "ai",
-        "shopping",
-        "video",
-        "conversational search"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-24T22:07:31.747348+00:00"
     }
   ]
 }

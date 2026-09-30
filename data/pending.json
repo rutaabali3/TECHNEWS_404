@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-09-30T00:41:35.083705+00:00",
+  "updated_at": "2026-09-30T06:25:16.890797+00:00",
   "items": [
-    {
-      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
-      "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-    },
     {
       "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
       "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
@@ -14,34 +8,10 @@
       "published": "Tue, 29 Sep 2026 09:00:00 +0000"
     },
     {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "feed_excerpt": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "published": "Tue, 29 Sep 2026 15:12:07 +0000"
-    },
-    {
-      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-      "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-      "feed_excerpt": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
-      "published": "Tue, 29 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "feed_excerpt": "The tech giant says the agent can help owners run their business and find new customers.",
-      "published": "Tue, 29 Sep 2026 13:47:30 +0000"
-    },
-    {
       "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
       "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
       "feed_excerpt": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
       "published": "Tue, 29 Sep 2026 13:25:21 +0000"
-    },
-    {
-      "title": "Fireflies adds dictation to its desktop notetaking apps",
-      "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
-      "feed_excerpt": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
-      "published": "Tue, 29 Sep 2026 13:00:00 +0000"
     },
     {
       "title": "Reco raises $55M as AI agent security startups crowd the market",
@@ -158,5 +128,5 @@
       "published": "Tue, 29 Sep 2026 19:52:37 +0000"
     }
   ],
-  "last_processed_at": "2026-09-30T00:41:36.755347+00:00"
+  "last_processed_at": "2026-09-30T06:25:44.401891+00:00"
 }
