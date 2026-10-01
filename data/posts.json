@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-01T01:30:29.472761+00:00",
+  "updated_at": "2026-10-01T07:43:55.639618+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-29-a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "EliseAI, an AI automation startup for housing and healthcare, raised $350 million in a Series F round that values it at $4 billion, doubling its valuation from last August. The round was co‑led by Andreessen Horowitz and Bessemer Ventures and follows the company’s recent $200 million ARR milestone and the launch of its AI teammate Apollo. EliseAI’s platform powers administrative workflows for one in six U.S. apartments and streamlines patient‑related paperwork for specialty physician groups, targeting the two largest expense categories for American households. The funding will help the firm expand its product suite and scale operations across the housing and healthcare markets.",
+      "key_points": [
+        "EliseAI secured $350 million, valuing the company at $4 billion, a 100% increase from its Series E.",
+        "The round was led by Andreessen Horowitz and Bessemer Ventures, supporting the launch of the Apollo AI teammate and a $200 million ARR milestone.",
+        "The company automates leasing, maintenance, and healthcare paperwork for housing and specialty physician groups, covering one in six U.S. apartments."
+      ],
+      "topics": [
+        "ai",
+        "realestate",
+        "healthcare",
+        "venturecapital",
+        "automation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 21:51:36 +0000",
+      "processed_at": "2026-10-01T07:43:47.476883+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI unveiled a suite of updates to its Codex software engineering agent at DevDay, most notably the introduction of reusable, persistent cloud development environments that can be accessed from any device, enabling developers to start tasks faster and share workspaces with consistent settings and permissions. The release also added a refreshed Codex CLI with voice‑controlled task initiation, a new /agents view for easier task delegation, and a code‑review feature integrated into the ChatGPT desktop app that can summarize changes and flag issues automatically. On the security front, Codex Security Cloud offers on‑demand and scheduled scans of GitHub repositories, auto‑removal of duplicate findings, and cloud‑based fix preparation, leveraging models from OpenAI’s Daybreak Blue initiative. Additional API enhancements include a Decisions API for real‑time decision making and an updated Agents API that supports Amazon Bedrock Managed Agents, allowing OpenAI agents to run entirely on AWS.",
+      "key_points": [
+        "Codex now provides persistent, reusable cloud development environments accessible from any device",
+        "The updated CLI supports voice control and a new /agents view streamlines task management",
+        "Codex Security Cloud scans repositories and auto‑generates fixes, integrating Daybreak Blue models",
+        "API updates introduce a Decisions API and Bedrock‑compatible Agents API for AWS deployments"
+      ],
+      "topics": [
+        "openai",
+        "codex",
+        "cloud development",
+        "developer tools",
+        "security"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "processed_at": "2026-10-01T07:43:28.806372+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
@@ -2403,49 +2452,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 24 Sep 2026 16:03:36 +0000",
       "processed_at": "2026-09-25T20:19:32.182270+00:00"
-    },
-    {
-      "id": "chcrunch-com-2026-09-24-techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Zach-Yadegari_1-Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Cal AI’s Zach Yadegari joins the Disrupt 2026 lineup | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Zach Yadegari, who co‑founded the AI‑powered nutrition app Cal AI at 17, grew the app to over 15 million downloads and $30 million in annual revenue before turning 20, leading to its acquisition by MyFitnessPal in December 2025. The deal kept Cal AI as a stand‑alone app with its seven‑person team and Yadegari at the helm. Yadegari will speak on the Builders Stage at TechCrunch Disrupt 2026, sharing how the company turned viral attention into durable retention and long‑term growth. Disrupt also offers ticket savings of up to $200 and a 50% discount on a second pass, with the promotion ending September 25 at 11:59 p.m. PT.",
-      "key_points": [
-        "Yadegari co‑founded Cal AI at 17, achieving 15 million downloads and $30 million revenue before age 20",
-        "MyFitnessPal acquired Cal AI in December 2025, keeping it independent and retaining its team",
-        "Yadegari will discuss viral growth tactics and retention at the Builders Stage of Disrupt 2026",
-        "Disrupt tickets offer up to $200 savings and a 50% discount on a second pass until September 25"
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-25T20:19:32.414589+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
-      "title": "ElevenLabs' CEO on margins, IPO timing, and telling customers they're talking to a bot | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "ElevenLabs CEO Mati Staniszewski discussed the company’s rapid growth, noting it now generates $600 million in annual recurring revenue and is valued at $22 billion, while also addressing the challenge of maintaining high gross margins as it expands market share. He confirmed the firm’s focus on delivering conversational AI that passes the Turing test, emphasizing the need for emotional intelligence and the use of both frontier and open‑weight models depending on the application. Staniszewski said the company will likely disclose when customers are speaking to an AI, and he hinted that an IPO could be targeted around 2028, though it remains contingent on timing and market conditions. The interview highlighted competition from companies like Decagon, the importance of data residency for government clients, and the company’s willingness to lower margins to prove value to customers.",
-      "key_points": [
-        "ElevenLabs is generating $600 million ARR and valued at $22 billion, yet it is willing to squeeze margins to grow market share.",
-        "The CEO plans to disclose AI interactions to customers and aims for an IPO around 2028, depending on conditions.",
-        "The firm competes with its own customers, such as Decagon, and uses a mix of frontier and open‑weight models tailored to enterprise needs."
-      ],
-      "topics": [
-        "ai",
-        "voice",
-        "enterprise",
-        "ipo",
-        "margins"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:35:13 +0000",
-      "processed_at": "2026-09-25T16:52:17.629872+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:30:01.755917+00:00",
+  "updated_at": "2026-10-01T07:43:27.352803+00:00",
   "items": [
     {
       "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
@@ -20,12 +20,6 @@
       "published": "Tue, 29 Sep 2026 17:17:15 +0000"
     },
     {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "feed_excerpt": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
-    },
-    {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "feed_excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
@@ -36,12 +30,6 @@
       "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
       "feed_excerpt": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
       "published": "Tue, 29 Sep 2026 22:18:35 +0000"
-    },
-    {
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "feed_excerpt": "EliseAI raises $350M, doubles valuation in a year.",
-      "published": "Tue, 29 Sep 2026 21:51:36 +0000"
     },
     {
       "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
@@ -224,5 +212,5 @@
       "published": "Wed, 30 Sep 2026 23:08:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-01T01:30:29.472049+00:00"
+  "last_processed_at": "2026-10-01T07:43:47.476999+00:00"
 }
