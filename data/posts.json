@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-30T22:30:14.635886+00:00",
+  "updated_at": "2026-10-01T01:30:29.472761+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+      "title": "The internet is convinced Elon Musk's xAI trolled OpenAI's 'Dots' launch | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "OpenAI unveiled Dots, an always‑on AI agent with a colorful avatar, on Tuesday. Shortly after, Elon Musk’s xAI acquired the domain dot.com, which now redirects to the download page for its Grok chatbot, sparking speculation that the move was a tongue‑in‑cheek jab at the new product. The domain transfer occurred in July, and while it could simply be a typo‑domain purchase, the timing and the fact that the name closely matches OpenAI’s launch have led many online to view it as a deliberate prank. The incident highlights the playful rivalry between the two AI firms and the growing public interest in AI agent branding.",
+      "key_points": [
+        "OpenAI launched Dots, an always‑on AI agent with a bubbly avatar",
+        "Elon Musk’s xAI bought the dot.com domain, redirecting to its Grok chatbot download page",
+        "The domain transfer in July coincides with OpenAI’s launch, fueling speculation of a prank",
+        "The event underscores the playful rivalry and branding focus in the AI community"
+      ],
+      "topics": [
+        "openai",
+        "xai",
+        "dot.com",
+        "prank",
+        "ai agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
+      "processed_at": "2026-10-01T01:30:11.626921+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-openais-latest-features-take-direct-aim-at-the-app-store-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "OpenAI's latest features take direct aim at the app store model | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI unveiled a suite of features at its Dev Day that aim to turn ChatGPT into a full‑fledged app discovery and execution platform, allowing users to discover, launch, and use third‑party apps directly within the chatbot. The company added a \"Sign in with ChatGPT\" identity layer that lets users carry their AI allowance into partner apps, and expanded its plug‑in architecture to support interactive panels that replace native desktop or mobile experiences. In addition, OpenAI introduced autonomous agents called Dots that can navigate the web, execute tasks, and connect to over 4,000 apps, effectively shifting the burden of app selection from users to AI. A new enterprise marketplace will feature more than 30 partners, including Adobe, Figma, and Salesforce, and offers a distribution channel that bypasses traditional Apple and Google app stores.",
+      "key_points": [
+        "ChatGPT will suggest and run third‑party apps within conversations, turning the chatbot into an app discovery surface.",
+        "\"Sign in with ChatGPT\" lets users bring their existing AI allowance into partner apps, creating a unified identity layer.",
+        "OpenAI’s autonomous agents, Dots, can perform tasks and access apps on behalf of users, reducing the need to download separate software.",
+        "A new enterprise marketplace with 30+ partners provides a distribution channel outside of traditional app stores."
+      ],
+      "topics": [
+        "app store",
+        "openai",
+        "chatgpt",
+        "ai agents",
+        "marketplace"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 20:15:47 +0000",
+      "processed_at": "2026-10-01T01:30:02.978047+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
+      "title": "Apple Pay finally launches in India after years on the sidelines | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Apple Pay has officially launched in India, beginning with Axis Bank as its first banking partner, after years of delays in a market dominated by the state-backed Unified Payments Interface (UPI). The rollout is limited to eligible Axis Bank Visa and Mastercard cards, excludes the domestic RuPay network, and is only accepted at merchants and terminals that have enabled the service. Apple is seeking a 0.2% transaction fee, a point of contention with other major banks that are still negotiating terms. Despite its niche start, the service could tap into India’s growing affluent iPhone user base and provide Apple with a new revenue stream in a rapidly expanding digital payments market.",
+      "key_points": [
+        "Apple Pay launched in India with Axis Bank as the first partner",
+        "Service limited to Visa/Mastercard cards and specific merchants, excluding RuPay",
+        "Apple seeks a 0.2% transaction fee, causing negotiation delays with other banks",
+        "Launch targets affluent iPhone users, offering Apple a new revenue source"
+      ],
+      "topics": [
+        "apple",
+        "apple pay",
+        "india",
+        "payments",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 18:45:00 +0000",
+      "processed_at": "2026-10-01T01:30:02.877015+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Dutch police arrested a 24‑year‑old member of the ShinyHunters hacking group, which the FBI says has compromised more than 140 organizations worldwide, including the FBI itself. The suspect, identified as Pepijn van der Stap, was also found to have documents outlining plans to carry out two murders abroad, a separate investigation from the cyber‑crime probe. ShinyHunters has claimed responsibility for breaches at companies such as Pornhub, Ticketmaster, AT&T and Dutch phone provider Odido, and the arrest was made at the Neo Security office where van der Stap works as CTO. Authorities say the Dutch High‑Tech Crime Unit acted swiftly to preserve evidence and will continue to pursue the rest of the gang.",
+      "key_points": [
+        "Dutch police arrested a 24‑year‑old ShinyHunters member linked to a planned murder plot",
+        "ShinyHunters has hacked over 140 organizations, including the FBI, Pornhub, Ticketmaster, AT&T and Odido",
+        "The suspect was found with documents detailing two murder plans, separate from the cyber‑crime investigation",
+        "The arrest occurred at Neo Security’s office, involving flash‑bang grenades and a swift police response"
+      ],
+      "topics": [
+        "cybercrime",
+        "hacking",
+        "law enforcement",
+        "fbi",
+        "shinyhunters"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:27:09 +0000",
+      "processed_at": "2026-10-01T01:30:29.471985+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-29-openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
@@ -2346,106 +2446,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 24 Sep 2026 16:35:13 +0000",
       "processed_at": "2026-09-25T16:52:17.629872+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?resize=1200,675",
-      "title": "Google tests letting Gemini call businesses for you | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google is testing a new Gemini feature called \"Call for Me\" that lets the AI agent place phone calls to businesses on users’ behalf. The rollout will begin with Pixel 11 owners in the U.S. who subscribe to Gemini and use the beta version of Google’s Phone app, and the calls will be made from the user’s own phone number with a live transcript so the user can monitor or take over the conversation. Gemini can navigate automated menus, wait on hold, and handle tasks such as checking product availability, making reservations, or rescheduling appointments. The experiment builds on earlier Google Assistant calling demos and aims to refine real‑world conversational nuance before a broader release.",
-      "key_points": [
-        "Google’s Gemini \"Call for Me\" lets the AI place business calls using the user’s phone number and live transcript.",
-        "The feature is limited to Pixel 11 owners with a Gemini subscription and the beta Phone app, starting in the U.S.",
-        "Gemini can handle complex tasks like reservations, inventory checks, and appointment changes while navigating IVR systems.",
-        "The rollout is a small‑scale experiment to improve real‑world conversational accuracy before wider availability."
-      ],
-      "topics": [
-        "google",
-        "gemini",
-        "ai agents",
-        "automated calling",
-        "pixel"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-25T16:52:17.703030+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?resize=1200,675",
-      "title": "Lovable's annualized revenue crosses $600M as vibe coding takes off | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Lovable, a vibe‑coding platform, announced at HumanX that its annualized revenue has surpassed $600 million, up from roughly $500 million in June. The company attributes the growth to a focus on enterprise customers, with two‑thirds of Fortune 500 firms now using the service, including Microsoft, Nvidia, and Deutsche Telekom. User‑created apps on the platform are drawing nearly a billion monthly views, far exceeding traffic to Lovable’s own site. After raising $700 million in two rounds—$300 million in December at a $6.6 billion valuation and $400 million in August at a $13.3 billion valuation—Lovable is positioned as a major player in the AI‑powered coding space.",
-      "key_points": [
-        "Annualized revenue exceeds $600 million",
-        "Two‑thirds of Fortune 500 companies use the platform",
-        "Apps on Lovable attract nearly 1 billion monthly views",
-        "Raised $700 million, valuation $13.3 billion"
-      ],
-      "topics": [
-        "ai",
-        "coding",
-        "startup",
-        "valuation",
-        "enterprise"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 14:43:25 +0000",
-      "processed_at": "2026-09-25T16:52:31.140574+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-09-24-ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594",
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Ando, a startup founded by Sara Du, has emerged from stealth with a team messaging platform that natively integrates AI agents alongside human users, positioning itself as a full replacement for Slack and Microsoft Teams. The app gives agents distinct identities and inboxes, allowing them to join channels, ask questions, and notify humans without needing a human intermediary, thereby addressing technical hurdles that have limited AI agent adoption in existing collaboration tools. Ando secured $20 million in pre‑seed and seed funding from Accel, Index Ventures and Emergence, and is already serving customers in software, real estate and finance across 15 countries, demonstrating that AI agents can coordinate work and scale small teams. The launch reflects a broader trend of AI agents becoming integral participants in workplace communication, promising to shift routine coordination tasks from people to intelligent agents while freeing humans for higher‑level decision making.",
-      "key_points": [
-        "Ando launches an AI‑native team messaging platform designed to replace Slack and Teams",
-        "The platform gives AI agents identities, inboxes, and the ability to join conversations and notify humans autonomously",
-        "Ando raised $20 million in pre‑seed and seed funding from Accel, Index Ventures and Emergence",
-        "Early customers report that agents can coordinate across channels and improve team efficiency"
-      ],
-      "topics": [
-        "ai agents",
-        "team messaging",
-        "startup",
-        "funding",
-        "productivity"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 14:31:00 +0000",
-      "processed_at": "2026-09-25T16:52:46.418055+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-anthropic-says-its-biology-lab-has-already-found-something-big",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
-      "title": "Anthropic says its biology lab has already found something big | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Anthropic’s newly opened wet biology lab in the Bay Area has announced the discovery of a previously unknown enzyme system in bacteriophages that behaves like CRISPR, capable of cutting, copying, and pasting DNA. The finding was largely driven by Anthropic’s language model Claude, which spent 21 hours of focused analysis using 950 agents and 210 million tokens to identify the system. While the lab operates at BSL‑1/2 levels and all experiments are performed by human scientists, Anthropic’s CEO Dario Amodei highlighted both the potential therapeutic benefits and the bioterrorism risks of such technology. The company is also exploring the possibility of fully automated, AI‑controlled biology labs in the future, while acknowledging the need for safety safeguards.",
-      "key_points": [
-        "Anthropic’s wet biology lab uncovered a CRISPR‑like enzyme system in bacteriophages, discovered largely by its AI model Claude in 21 hours.",
-        "The discovery involved 950 agents and 210 million tokens, showcasing the power of AI in guiding biological research.",
-        "All experiments are conducted by human scientists in a BSL‑1/2 lab, with plans to eventually automate lab work under strict safeguards.",
-        "CEO Dario Amodei emphasized both the medical potential and the bioterrorism risks of the new enzyme system."
-      ],
-      "topics": [
-        "ai",
-        "biology",
-        "gene editing",
-        "research",
-        "safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 22:17:39 +0000",
-      "processed_at": "2026-09-25T11:42:16.539871+00:00"
     }
   ]
 }
