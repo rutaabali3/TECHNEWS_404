@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-01T15:14:21.098040+00:00",
+  "updated_at": "2026-10-01T20:26:25.240098+00:00",
   "items": [
-    {
-      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
-      "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-      "feed_excerpt": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
-      "published": "Tue, 29 Sep 2026 13:25:21 +0000"
-    },
     {
       "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
       "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
@@ -20,28 +14,10 @@
       "published": "Tue, 29 Sep 2026 23:30:55 +0000"
     },
     {
-      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-      "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-      "feed_excerpt": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
-    },
-    {
       "title": "The ugly economics of consumer AI",
       "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
       "feed_excerpt": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
       "published": "Wed, 30 Sep 2026 17:24:45 +0000"
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "feed_excerpt": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-      "published": "Wed, 30 Sep 2026 16:24:23 +0000"
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "feed_excerpt": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "published": "Wed, 30 Sep 2026 16:00:24 +0000"
     },
     {
       "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
@@ -54,12 +30,6 @@
       "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
       "feed_excerpt": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
       "published": "Wed, 30 Sep 2026 15:56:28 +0000"
-    },
-    {
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-      "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-      "feed_excerpt": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-      "published": "Wed, 30 Sep 2026 15:26:02 +0000"
     },
     {
       "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
@@ -222,7 +192,67 @@
       "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "published": "Thu, 01 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "feed_excerpt": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "published": "Thu, 01 Oct 2026 19:21:53 +0000"
+    },
+    {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "feed_excerpt": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "published": "Thu, 01 Oct 2026 19:18:03 +0000"
+    },
+    {
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "feed_excerpt": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+      "published": "Thu, 01 Oct 2026 18:35:55 +0000"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "feed_excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "published": "Thu, 01 Oct 2026 18:14:42 +0000"
+    },
+    {
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "feed_excerpt": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "published": "Thu, 01 Oct 2026 17:50:19 +0000"
+    },
+    {
+      "title": "This startup wants to turn idle car inventory into rental revenue",
+      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+      "feed_excerpt": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
+      "published": "Thu, 01 Oct 2026 17:09:00 +0000"
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "feed_excerpt": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "published": "Thu, 01 Oct 2026 16:49:22 +0000"
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "feed_excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "published": "Thu, 01 Oct 2026 16:44:35 +0000"
+    },
+    {
+      "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+      "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+      "feed_excerpt": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+      "published": "Thu, 01 Oct 2026 16:35:25 +0000"
+    },
+    {
+      "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+      "feed_excerpt": "The CEO promised to get more specific about his vision. But the details are still absent.",
+      "published": "Thu, 01 Oct 2026 15:50:10 +0000"
     }
   ],
-  "last_processed_at": "2026-10-01T15:14:36.923433+00:00"
+  "last_processed_at": "2026-10-01T20:26:43.007784+00:00"
 }
