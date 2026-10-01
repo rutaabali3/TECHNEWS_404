@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:43:27.352803+00:00",
+  "updated_at": "2026-10-01T15:14:21.098040+00:00",
   "items": [
     {
       "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
@@ -14,46 +14,16 @@
       "published": "Tue, 29 Sep 2026 18:48:03 +0000"
     },
     {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "feed_excerpt": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "published": "Tue, 29 Sep 2026 17:17:15 +0000"
-    },
-    {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "feed_excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "published": "Tue, 29 Sep 2026 23:30:55 +0000"
     },
     {
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-      "feed_excerpt": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
-      "published": "Tue, 29 Sep 2026 22:18:35 +0000"
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "feed_excerpt": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "published": "Tue, 29 Sep 2026 19:52:37 +0000"
-    },
-    {
       "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
       "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
       "feed_excerpt": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
       "published": "Wed, 30 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Airbnb adds AI search, more social features",
-      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "feed_excerpt": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "feed_excerpt": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "published": "Wed, 30 Sep 2026 17:45:00 +0000"
     },
     {
       "title": "The ugly economics of consumer AI",
@@ -210,7 +180,49 @@
       "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
       "feed_excerpt": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
       "published": "Wed, 30 Sep 2026 23:08:00 +0000"
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "feed_excerpt": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "published": "Thu, 01 Oct 2026 15:12:00 +0000"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "feed_excerpt": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "published": "Thu, 01 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "feed_excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "feed_excerpt": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+      "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+      "feed_excerpt": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+      "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+      "feed_excerpt": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "published": "Thu, 01 Oct 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-01T07:43:47.476999+00:00"
+  "last_processed_at": "2026-10-01T15:14:36.923433+00:00"
 }

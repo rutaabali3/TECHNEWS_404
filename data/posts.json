@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-10-01T07:43:55.639618+00:00",
+  "updated_at": "2026-10-01T15:14:51.122695+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Reddit announced it will shut down its RSS feeds on November 13, citing widespread scraping and automated abuse as the main reason. The company also confirmed that public API access will be discontinued by March 2027, meaning developers and AI products will need commercial agreements to continue using Reddit data. Moderators are urged to migrate to the Discord Relay Devvit app or other tools before the RSS shutdown, while Reddit is tightening access to its classic Old Reddit site to curb abusive traffic. These moves reflect Reddit’s strategy to protect its data assets, which have become a significant revenue source through AI licensing deals.",
+      "key_points": [
+        "Reddit will terminate RSS feeds on November 13 to curb large‑scale scraping and automated abuse.",
+        "Public API access will end by March 2027, forcing developers to secure commercial agreements for data use.",
+        "Moderators and developers must migrate workflows before the shutdown, with Discord Relay Devvit offered as an alternative.",
+        "The changes align with Reddit’s focus on monetizing user data for AI licensing and protecting its platform from abuse."
+      ],
+      "topics": [
+        "reddit",
+        "rss",
+        "api",
+        "ai",
+        "moderation"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "processed_at": "2026-10-01T15:14:22.308322+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-airbnb-adds-ai-search-more-social-features",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-UnifiedSearch.jpeg?resize=1200,800",
+      "title": "Airbnb adds AI search, more social features | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Airbnb is expanding its app with new on‑ground services such as meal delivery, laundry, baby‑gear rental, ski and boat rentals, and expanded grocery delivery, while also launching an AI‑powered search feature that lets users query properties via text or voice and receive dynamic filters and AI‑generated summaries. The AI search, introduced cautiously by CEO Brian Chesky to avoid hurting conversion rates, automatically surfaces relevant filters like cribs or playgrounds when users type “baby.” In addition, Airbnb is enhancing social discovery by allowing travelers to view friends’ past or upcoming trips on a map, see the experiences they booked, and browse neighborhood pages built from guest reviews, all with privacy controls. These updates aim to make Airbnb more competitive with hotels and deepen engagement through personalized, AI‑driven travel discovery.",
+      "key_points": [
+        "AI search toggle with dynamic filters and AI‑generated summaries",
+        "Expanded on‑ground services: meal delivery, laundry, baby‑gear, ski/boat rentals, grocery delivery",
+        "Social discovery features: friends’ trip maps, neighborhood pages, privacy controls",
+        "CEO emphasizes careful rollout to preserve conversion rates"
+      ],
+      "topics": [
+        "airbnb",
+        "ai",
+        "travel",
+        "social features",
+        "ecommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "processed_at": "2026-10-01T15:14:22.460499+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-09-29-your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/rip-transportation-2024.jpg?resize=1200,800",
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Researchers at Northeastern University and Consumer Reports tested 21 late‑model vehicles and 30 companion apps and found that the vast majority of connected cars share data with third‑party tech firms. Nineteen of the 21 vehicles sent data to at least one external party, and seven of the apps transmitted sensitive information such as VINs, emails, phone numbers, and precise locations. The data was shared with companies like Adobe, Google, Meta, Snap, and Yahoo, enabling advertisers and data brokers to build detailed consumer profiles that are hard to escape. Automakers largely blamed consumers for the exposure, but Honda responded by ordering its vendor to delete geolocation data after the study was released.",
+      "key_points": [
+        "19 of 21 vehicles and 7 of 30 apps share sensitive data with third parties",
+        "Data shared with major tech firms enables detailed profiling",
+        "Automakers largely deflect blame; Honda took corrective action",
+        "Study highlights difficulty for consumers to avoid data sharing without disabling vehicle features"
+      ],
+      "topics": [
+        "connected cars",
+        "data privacy",
+        "automotive",
+        "third-party data",
+        "consumer protection"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 22:18:35 +0000",
+      "processed_at": "2026-10-01T15:14:36.923365+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "OpenAI is reportedly negotiating a pre‑IPO funding round of at least $30 billion that would value the company at roughly $1.4 trillion, according to Bloomberg. The move follows a $122 billion raise in March that capped the firm’s last private round at an $852 billion valuation, and comes after a 70 % jump in run‑rate revenue to $40 billion in August driven by a renewed focus on coding tools. CEO Sam Altman has ruled out a 2026 public debut to prioritize AI safety, citing existential risks, so the new capital would act as a bridge to a future IPO. Investors are eager to back the ChatGPT maker ahead of its anticipated market debut next year.",
+      "key_points": [
+        "OpenAI is seeking a $30 billion pre‑IPO round that would value it at about $1.4 trillion",
+        "Run‑rate revenue jumped 70 % to $40 billion in August after refocusing on coding tools",
+        "CEO Sam Altman has postponed a 2026 IPO to focus on AI safety concerns",
+        "The new funding would serve as a bridge round to a future public offering"
+      ],
+      "topics": [
+        "openai",
+        "funding",
+        "valuation",
+        "ai safety",
+        "ipo"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 19:52:37 +0000",
+      "processed_at": "2026-10-01T15:14:22.557080+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-openai-launches-dots-its-bubbly-agentic-avatar",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI unveiled Dots, a new personal agentic assistant powered by GPT-6 Astra, at its DevDay event. Dots are independent, always-on agents that run in the background to pursue user-defined goals and can be launched from ChatGPT, Codex, or organizational platforms like Slack and Teams. The service is available to Pro and Business Premium users in eligible markets and can be customized with names, identities, credentials, and tools, including future SMS support. OpenAI plans to expand Dots into specialist roles and integrate them with Microsoft’s Agent 365 security controls, positioning the product as a flexible, background AI companion.",
+      "key_points": [
+        "Dots are independent, always-on agents built on GPT-6 Astra that pursue user-defined goals in the background",
+        "They are available to Pro and Business Premium users in ChatGPT and can be launched from Codex or organizational platforms such as Slack and Teams",
+        "Users can name and customize Dots with identities, credentials, and tools, and SMS support is coming soon",
+        "OpenAI intends to create specialist Dots and integrate them with Microsoft’s Agent 365 security controls"
+      ],
+      "topics": [
+        "openai",
+        "ai",
+        "chatgpt",
+        "agentic",
+        "productlaunch"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 17:17:15 +0000",
+      "processed_at": "2026-10-01T15:14:22.755927+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-29-a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b",
       "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
@@ -2333,125 +2458,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 24 Sep 2026 12:54:19 +0000",
       "processed_at": "2026-09-25T23:26:15.050624+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta’s AI companion app Muse has surged past 3.4 million downloads since its September 8 launch, propelled by a high‑profile push at Meta Connect that unveiled new features such as video chat with the Muse avatar, Mac support, a dedicated email address, and future smart‑glasses integration. The app topped the U.S. App Store on September 18 and the Google Play Store on September 19, and Sensor Tower reports a 27% jump in daily active users immediately after the conference. While organic growth is strong—Muse averaged 55% day‑over‑day download growth in its first two weeks, outpacing ChatGPT’s 24%—Meta’s cross‑platform advertising, which accounted for 6% of total impressions, helped cement the app’s visibility and pushed it into the top 10 brands by ad spend by September 22. The rapid adoption underscores Meta’s strategy of leveraging its existing Facebook and Instagram user base to showcase AI tools tailored to individual needs rather than generic content promotion.",
-      "key_points": [
-        "Muse surpassed 3.4 million downloads after a Meta Connect launch that added video chat, Mac support, and future smart‑glasses plans.",
-        "The app reached the top of both the U.S. App Store and Google Play Store within a week of launch and saw a 27% rise in daily active users post‑conference.",
-        "Meta’s targeted advertising, though only 6% of total impressions, positioned Muse among the top 10 brands by ad spend by September 22.",
-        "Muse’s download growth (55% day‑over‑day) outpaced early launches of ChatGPT, Claude, and Grok, indicating strong organic traction."
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 16:16:52 +0000",
-      "processed_at": "2026-09-25T23:26:32.794343+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-23-strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
-      "title": "StrictlyVC at Disrupt 2026: Inside the changing rules of venture capital | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s StrictlyVC event at Disrupt 2026 in San Francisco’s Moscone West on October 13‑15 will bring together investors, LPs, family office managers and market experts for candid conversations about the shifting venture capital landscape, including the reopening of the IPO window and the growing influence of family offices. The sessions, available only to holders of a Disrupt Investor Pass, will cover topics such as what makes a company IPO‑ready today, how family offices are positioning long‑term bets, and how limited partners are rethinking manager selection and liquidity expectations. Attendees can save up to $200 on the Investor Pass by registering before September 25 at 11:59 p.m. PT, and the event will feature over 200 sessions across six industry stages, roundtables, and breakouts. The agenda includes networking, drinks, and deep‑dive conversations with speakers like Ryan Flanagan, Bruce K Lee, Dave Sachse, Amit Bhatti, and Beezer Clarkson, all aimed at helping founders and VCs navigate the new funding landscape.",
-      "key_points": [
-        "StrictlyVC at Disrupt 2026 focuses on the changing rules of venture capital, including the reopening of the IPO window and the rise of family office investment",
-        "The event is exclusive to holders of a Disrupt Investor Pass, offering deep‑dive sessions and networking with investors, LPs, and founders",
-        "Attendees can save up to $200 on the Investor Pass by registering before September 25 at 11:59 p.m. PT",
-        "Key speakers discuss IPO readiness, family office strategies, and limited partner expectations in today’s market"
-      ],
-      "topics": [
-        "venturecapital",
-        "investorpass",
-        "disrupt2026",
-        "familyoffices",
-        "ipo"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-25T20:19:32.124225+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?resize=900,1200",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Nexterity, a startup founded by former ExxonMobil engineer Lindsey Elliott, has unveiled a remote‑controlled robot that can automatically loosen and tighten the bolts that join pipe sections, a task that traditionally requires hard, repetitive manual labor. The robot, which fits around a pipe and can handle four bolts at a time, is small enough to be carried in a Pelican case and is designed for the most common NPS2‑8 pipe sizes, making it easy to deploy on job sites. By treating the robot as rental construction equipment, Nexterity aims to improve safety, reduce injuries, and boost productivity in a labor‑shortage‑hit industry that spans oil, gas, water treatment, food and beverage, mining, nuclear, and green manufacturing. The company believes the market for automated pipe‑bolting could be surprisingly large, given the ubiquity of piping infrastructure across many sectors.",
-      "key_points": [
-        "Nexterity’s robot automates bolt tightening and loosening for pipefitting, addressing a hard, dangerous part of the job",
-        "The device is portable, fits standard NPS2‑8 pipe sizes, and is intended for rental deployment",
-        "It targets labor shortages and safety concerns in oil, gas, and other industries that rely on extensive piping",
-        "The potential market includes water, wastewater, food & beverage, mining, nuclear, and green manufacturing sectors"
-      ],
-      "topics": [
-        "automation",
-        "pipefitting",
-        "robotics",
-        "construction equipment",
-        "labor shortage"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 20:45:00 +0000",
-      "processed_at": "2026-09-25T20:19:56.479823+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Oracle has issued a force majeure notice to the developer of Project Jupiter, a Stargate AI data center campus in New Mexico, allowing the company to delay payments if the site fails to be online by its 2028 target. The company insists the project remains on schedule and is fully committed to the New Mexico site. Setbacks have included a nearly six‑month delay of an Energy Transfer gas pipeline and a pending air‑quality permit, both critical to the campus’s 2.45‑gigawatt gas‑fuel‑cell design. The notice arrives amid growing scrutiny of AI data‑center construction costs and political opposition to the project.",
-      "key_points": [
-        "Oracle issued a force majeure notice to Blue Owl Capital for Project Jupiter, permitting payment delays if the 2028 online target is missed.",
-        "Oracle maintains the project remains on schedule and is committed to New Mexico.",
-        "Setbacks include a delayed Energy Transfer pipeline and a pending air‑quality permit essential to the campus’s gas‑fuel‑cell system.",
-        "Project Jupiter is a flagship Stargate AI campus facing political and environmental opposition."
-      ],
-      "topics": [
-        "oracle",
-        "ai",
-        "data center",
-        "new mexico",
-        "regulatory"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 18:11:44 +0000",
-      "processed_at": "2026-09-25T20:19:32.107477+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Startup-Battlefield-200-contestant_Disrupt-2024.jpg?resize=1200,1041",
-      "title": "The next wave of VCs judging Startup Battlefield at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will take place from October 13‑15 at San Francisco’s Moscone West and will feature Startup Battlefield 200, a high‑stakes pitch competition where founders have six minutes to impress a panel of investors. The event will host more than 10,000 tech leaders, VCs, and founders, and offers ticket savings of up to $200 before September 25. A new judging panel of five top‑tier investors—Dr.V Agrawal of ODDBIRD VC, Anu Bharadwaj of ICONIQ, Sho Sho Leigha Ho of General Catalyst, Miloni Madan Presler of IVP, and Aidan Madigan‑Curtis of Eclipse Ventures—will evaluate the startups for a $100,000 prize. The expanded panel underscores the conference’s focus on identifying tomorrow’s breakout companies and provides founders with invaluable feedback from seasoned venture capitalists.",
-      "key_points": [
-        "Five new top‑tier VCs join Startup Battlefield judging panel",
-        "Disrupt 2026 runs Oct 13‑15 at Moscone West with 10,000+ attendees",
-        "Tickets offer up to $200 savings before Sept 25",
-        "Judges include Dr.V Agrawal, Anu Bharadwaj, Sho Sho Leigha Ho, Miloni Madan Presler, and Aidan Madigan‑Curtis"
-      ],
-      "topics": [
-        "techconference",
-        "venturecapital",
-        "startuppitch",
-        "disrupt",
-        "investing"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:03:36 +0000",
-      "processed_at": "2026-09-25T20:19:32.182270+00:00"
     }
   ]
 }
