@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:37:04.982628+00:00",
+  "updated_at": "2026-10-02T22:50:58.254812+00:00",
   "items": [
     {
       "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "feed_excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "published": "Tue, 29 Sep 2026 23:30:55 +0000"
-    },
-    {
-      "title": "The ugly economics of consumer AI",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "feed_excerpt": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "published": "Wed, 30 Sep 2026 17:24:45 +0000"
     },
     {
       "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
@@ -38,28 +32,10 @@
       "published": "Wed, 30 Sep 2026 13:43:54 +0000"
     },
     {
-      "title": "Charter Space raises $5M to bring insurance to the stars",
-      "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-      "feed_excerpt": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
-    },
-    {
       "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
       "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
       "feed_excerpt": "Tinder has been pushing users toward more real-world experiences for some time.",
       "published": "Wed, 30 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "feed_excerpt": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
-      "published": "Wed, 30 Sep 2026 20:39:09 +0000"
-    },
-    {
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "feed_excerpt": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch’s Equity podcast, […]",
-      "published": "Wed, 30 Sep 2026 20:20:02 +0000"
     },
     {
       "title": "Hackers stole millions of US military personnel records during months-long data breach",
@@ -324,7 +300,19 @@
       "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
       "feed_excerpt": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
       "published": "Fri, 02 Oct 2026 13:17:05 +0000"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "feed_excerpt": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "published": "Fri, 02 Oct 2026 21:09:14 +0000"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "feed_excerpt": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "published": "Fri, 02 Oct 2026 19:15:51 +0000"
     }
   ],
-  "last_processed_at": "2026-10-02T18:37:09.565284+00:00"
+  "last_processed_at": "2026-10-02T22:51:28.311537+00:00"
 }

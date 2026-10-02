@@ -1,7 +1,104 @@
 {
-  "updated_at": "2026-10-02T18:37:26.872927+00:00",
+  "updated_at": "2026-10-02T22:51:31.067961+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg?resize=1200,675",
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Matan Grinberg, CEO of AI‑coding startup Factory, fired board adviser Chris Degnan after accusing him of leaking confidential information to Factory’s main rival, Cognition. Degnan, who had just been hired by Cognition as chief revenue officer, denied the claim and said he had resigned to take the new role, while Factory’s board members and investors—including Khosla Ventures—publicly weighed in on the dispute. The incident highlights a growing conflict‑of‑interest problem in the AI venture ecosystem, where VCs often invest in competing firms while serving on their boards. Factory, which recently raised $200 million at a $5 billion valuation, and Cognition, which raised $2 billion at a $48 billion valuation, are both major players in the AI coding agent space.\n",
+      "key_points": [
+        "Factory CEO fired VC adviser over alleged data leakage to rival Cognition",
+        "Degnan denies firing, claims resignation and new role at Cognition",
+        "The dispute underscores conflict‑of‑interest concerns in AI venture capital",
+        "Both companies have recently secured large funding rounds and compete in the AI coding agent market"
+      ],
+      "topics": [
+        "startup",
+        "ai",
+        "conflict-of-interest",
+        "venturecapital",
+        "board"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 20:39:09 +0000",
+      "processed_at": "2026-10-02T22:50:59.892007+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Spotify founder Daniel Ek’s body‑scanning startup Neko Health has secured $700 million in funding, positioning it to commercialize AI‑driven full‑body scans for preventative health. The company is part of a growing wave of consumer‑health firms, including Midjourney’s own scanner and Function Health, that investors are backing heavily. TechCrunch’s Equity podcast episode features a conversation with Preface Ventures partner Farooq Abbasi, who compares Neko’s approach to its peers and discusses what it will take for body scanning to integrate into mainstream healthcare. The discussion highlights the potential of AI‑powered diagnostics to shift health care from reactive to proactive, while noting regulatory, data‑privacy, and clinical‑validation hurdles.",
+      "key_points": [
+        "Neko Health raised $700M to develop AI‑driven full‑body scans for preventative health",
+        "The startup joins a cohort of companies like Midjourney and Function Health that are investing in body‑scanning technology",
+        "Investors and analysts see body scanning as a potential shift toward proactive healthcare, but regulatory and validation challenges remain"
+      ],
+      "topics": [
+        "healthtech",
+        "ai",
+        "preventative health",
+        "startup funding",
+        "spotify"
+      ],
+      "source_url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 20:20:02 +0000",
+      "processed_at": "2026-10-02T22:51:00.048532+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-the-ugly-economics-of-consumer-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "title": "The ugly economics of consumer AI | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "The article examines why consumer AI, despite recent successes like Meta’s Muse and OpenAI’s Dots, faces grim economics that limit growth. It highlights that only about 2–3% of U.S. consumers pay for AI services, spending roughly $30–$40 a month, far below the break‑even threshold for large‑scale operations. The piece notes that most labs have shifted to enterprise contracts, where higher margins are achievable, and that OpenAI’s pivot has already doubled bookings since July. The author argues that unless consumer AI can find new monetization models, its expansion will remain capped by these cost‑heavy realities.",
+      "key_points": [
+        "Only 2–3% of consumers pay for AI, spending roughly $30–$40/month.",
+        "Labs are moving to enterprise contracts to achieve higher margins.",
+        "OpenAI’s pivot to enterprise has doubled bookings since July."
+      ],
+      "topics": [
+        "consumer ai",
+        "economics",
+        "enterprise",
+        "ai assistants"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "processed_at": "2026-10-02T22:51:00.148375+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-charter-space-raises-5m-to-bring-insurance-to-the-stars",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/charter-space-founders.jpg?resize=1200,800",
+      "title": "Exclusive: Charter Space raises $5M to bring insurance to the stars | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Charter Space, a finalist in last year’s TechCrunch Startup Battlefield, has closed a $5 million seed round led by Crystal Venture Partners with participation from QED, Blank Ventures, Hustle Fund and Gaingels. The El Segundo, California‑based startup already insures more than 50 U.S. space and defense companies and aims to broaden coverage to satellites and novel mission concepts such as lunar and in‑space servicing. The new capital will be used to expand its sales organization and develop additional insurance products. By providing affordable underwriting for space assets, Charter Space seeks to make the commercial space economy safer and more attractive to diverse investors.",
+      "key_points": [
+        "$5 million seed round led by Crystal Venture Partners, with QED, Blank Ventures, Hustle Fund and Gaingels",
+        "Charter Space already insures 50+ U.S. space and defense firms and plans to expand coverage to satellites and novel missions",
+        "Funding will grow the sales organization and broaden insurance offerings",
+        "The company positions itself at the intersection of commercial space growth and modern risk management"
+      ],
+      "topics": [
+        "space insurance",
+        "startup funding",
+        "commercial space",
+        "risk management",
+        "venture capital"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-10-02T22:51:28.311438+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-whatsapp-adds-new-parental-controls-for-teen-accounts",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/whatsapp-meta-logo.jpg?resize=1200,800",
@@ -2362,105 +2459,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 25 Sep 2026 18:48:33 +0000",
       "processed_at": "2026-09-26T16:37:48.295714+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-will-metas-ai-tamagotchi-bet-isworking",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-      "title": "Meta’s AI Tamagotchi bet is…working? | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Meta’s personal AI agent Muse is outpacing ChatGPT’s early mobile launch and has just debuted a Tamagotchi‑style wearable called Muse Charm, signaling the company’s push into consumer AI hardware. The new device showcases the agent’s capabilities and hints at future integration with Meta’s smart glasses. In a TechCrunch Equity podcast episode, hosts discuss how Meta’s consumer AI strategy could reshape startup opportunities and the broader AI ecosystem. The conversation also touches on recent model releases from OpenAI and Anthropic and highlights a16z’s new founder school and other AI‑hardware deals.",
-      "key_points": [
-        "Meta’s Muse AI agent surpasses ChatGPT on mobile launch",
-        "Meta released a Tamagotchi‑style wearable called Muse Charm",
-        "The move signals Meta’s push into consumer AI hardware, including smart glasses",
-        "Startups can build on Meta’s platform amid a broader AI ecosystem shift"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "consumerai",
-        "wearable",
-        "smartglasses"
-      ],
-      "source_url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-09-26T16:37:32.878207+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/ransomware-crypto-gold-Samuil_Levich-getty.jpg?resize=1200,799",
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "North Korean hackers are suspected of stealing more than $351 million from Bitget's hot wallets in a cyberattack that took place on Thursday. The breach is the largest known crypto theft of 2026, surpassing a $340 million heist in September that left $47 million missing. Bitget has halted withdrawals and says its $464 million user protection fund should cover the loss. The incident underscores the growing threat of state‑backed actors targeting cryptocurrency exchanges to fund illicit programs.",
-      "key_points": [
-        "$351 million theft from Bitget hot wallets",
-        "Largest crypto heist of 2026, surpassing $340 million September hack",
-        "Bitget suspended withdrawals; $464 million protection fund to cover loss"
-      ],
-      "topics": [
-        "cryptocurrency",
-        "cybersecurity",
-        "north korea",
-        "hack",
-        "crypto exchange"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 13:24:34 +0000",
-      "processed_at": "2026-09-26T16:37:33.027149+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Nscale, a British neocloud company, has secured $3.36 billion in convertible financing ahead of its planned IPO later this year. The round, led by hedge fund Third Point, delivers $2.36 billion immediately and an additional $1 billion from Nvidia in mid‑November, with the notes converting to equity once the IPO closes. The company’s filing indicates a $35 billion valuation on the NYSE and a $3 billion offering, while its origins as a spin‑out of Arkon Energy have yielded over $103 billion in contracts. Nscale is building large AI data‑center campuses in Norway and West Virginia to support its expanding portfolio.",
-      "key_points": [
-        "Nscale raised $3.36 billion in convertible financing ahead of its IPO, led by Third Point and including $1 billion from Nvidia",
-        "The convertible notes will convert to equity after the IPO, which is expected to value the company at $35 billion and raise $3 billion",
-        "The company has secured more than $103 billion in contracts since spinning out of Arkon Energy",
-        "Nscale is developing AI data‑center campuses in Norway and West Virginia"
-      ],
-      "topics": [
-        "ai",
-        "neocloud",
-        "ipo",
-        "financing",
-        "datacenters"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "processed_at": "2026-09-26T12:22:10.624508+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Muju Earth has unveiled the Aeropod, a seed‑sized device that aerates soil without the need for traditional tilling, promising to improve soil health and cut farmers’ costs by more than half. The startup, founded by former Imperial College London researchers, plans paid field trials this fall in the U.K. with nine participating farmers, initially targeting onion growers who are especially sensitive to compaction. Early estimates suggest the Aeropod could reduce tilling costs from £250‑£400 per hectare to about £100 per hectare, while also creating channels that enhance water, air, and root movement. The product’s simplicity—drop it in the soil alongside seeds—has attracted inbound interest from both farmers and companies producing biologic soil amendments.\n",
-      "key_points": [
-        "The Aeropod aerates soil without machinery, potentially halving tilling costs for farmers.",
-        "Muju Earth is conducting paid field trials in the U.K. with nine farmers, focusing on onion growers.",
-        "The device was developed at Imperial College London and aims to simplify sowing by acting like a seed.",
-        "Early cost estimates show a reduction from £250‑£400 to about £100 per hectare for tilling.\n"
-      ],
-      "topics": [
-        "agtech",
-        "soil health",
-        "startups",
-        "techcrunch disrupt",
-        "sustainability"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 17:30:00 +0000",
-      "processed_at": "2026-09-26T12:22:04.303835+00:00"
     }
   ]
 }
