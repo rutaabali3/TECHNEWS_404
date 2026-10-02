@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:01:21.491206+00:00",
+  "updated_at": "2026-10-02T13:01:25.232490+00:00",
   "items": [
     {
       "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
@@ -54,12 +54,6 @@
       "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
       "feed_excerpt": "Tinder has been pushing users toward more real-world experiences for some time.",
       "published": "Wed, 30 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "feed_excerpt": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "published": "Wed, 30 Sep 2026 21:07:40 +0000"
     },
     {
       "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
@@ -246,7 +240,13 @@
       "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
       "feed_excerpt": "A new California law places new rules on autonomous vehicles operators",
       "published": "Fri, 02 Oct 2026 00:57:57 +0000"
+    },
+    {
+      "title": "Rivian issues R2 recall for poorly tightened battery packs",
+      "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+      "feed_excerpt": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
+      "published": "Fri, 02 Oct 2026 12:50:11 +0000"
     }
   ],
-  "last_processed_at": "2026-10-02T06:01:36.270582+00:00"
+  "last_processed_at": "2026-10-02T13:01:26.661653+00:00"
 }

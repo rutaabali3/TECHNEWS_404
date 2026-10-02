@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-02T06:01:56.772670+00:00",
+  "updated_at": "2026-10-02T13:01:50.079009+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Flow Engineering, a San Francisco‑based AI hardware design startup, closed a $50 million Series B round that values the company at $750 million. The round was co‑led by Valor Equity Partners and Atreides Management, with participation from Sequoia Capital and individual investor Roelof Botha, who also joined the board. Flow’s platform uses AI agents to automatically align CAD drawings with product requirements, simulation results, and other testing data, helping firms streamline hardware development. Its customer roster includes high‑profile names such as Anduril, Rivian, Joby Aviation, General Motors PPU, RV Tech, and Stoke Space.",
+      "key_points": [
+        "Raised $50M Series B at a $750M valuation",
+        "Co‑led by Valor Equity Partners and Atreides Management, with Sequoia and Roelof Botha participating",
+        "Offers AI agents that auto‑align CAD drawings with specifications and simulations",
+        "Serves major automotive and aerospace customers like Rivian, Anduril, and Joby Aviation"
+      ],
+      "topics": [
+        "ai",
+        "hardware design",
+        "startup funding",
+        "valuation",
+        "investors"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "processed_at": "2026-10-02T13:01:26.661546+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fitbit-air-india.jpg?resize=1200,675",
@@ -2436,31 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 25 Sep 2026 15:52:13 +0000",
       "processed_at": "2026-09-26T12:22:04.486860+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-semi-truck.jpg?resize=1200,600",
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Tesla has finally delivered its first all‑electric Semi truck after nearly a decade of delays and refinements, unveiling the vehicle at a Reno event that highlighted the new factory adjacent to its Gigafactory. The Semi can travel 500 miles or more on a single charge, costs just under $300,000 before incentives, and is slated for a production capacity of 50,000 trucks a year, creating 3,000 local jobs. Tesla addressed long‑standing design issues such as roll‑down windows and weight reduction, and plans to add partial automation features in the near future. The launch underscores Tesla’s push to reduce trucking emissions and lower fleet operating costs amid a broader shift toward sustainable transportation.\n",
-      "key_points": [
-        "Tesla has delivered its first all‑electric Semi truck after a decade of delays",
-        "The new Reno plant will produce up to 50,000 Semi trucks a year and create 3,000 jobs",
-        "The Semi offers a 500‑mile range, costs just under $300,000 before incentives, and features design fixes like roll‑down windows",
-        "Tesla plans to add partial automation to the Semi in the near future"
-      ],
-      "topics": [
-        "tesla",
-        "electric vehicles",
-        "trucking",
-        "manufacturing",
-        "charging infrastructure"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 15:24:50 +0000",
-      "processed_at": "2026-09-26T12:22:04.035472+00:00"
     }
   ]
 }
