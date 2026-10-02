@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-02T00:05:59.534377+00:00",
+  "updated_at": "2026-10-02T06:01:56.772670+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fitbit-air-india.jpg?resize=1200,675",
+      "title": "Google launches Fitbit Air in India, though its high price might deter the masses | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Google launched the screen‑less Fitbit Air fitness tracker in India on Oct 2, pricing it at ₹13,999 (~$146) to position it as a premium device, while the same model sells for $99 in the U.S. The band offers 24/7 heart rate monitoring, A‑fib alerts, blood oxygen, sleep stages, and other health metrics, aiming to capture the growing screen‑less wearable niche. Despite India representing only 5% of the screen‑less market, Google is betting on its brand to drive adoption, offering a free three‑month Google Health premium membership with purchase. The high price may limit mass appeal, but the device is available through the Google Store and major Indian retailers such as Flipkart, Croma, Reliance Digital, and Vijay Sales.",
+      "key_points": [
+        "Google priced the Fitbit Air at ₹13,999 (~$146) in India, higher than its $99 U.S. price, targeting a premium segment.",
+        "The screen‑less tracker includes 24/7 heart rate, A‑fib alerts, blood oxygen, and sleep monitoring, aligning with the rising demand for distraction‑free wearables.",
+        "Availability starts Oct 2 on the Google Store and major Indian retailers, with a free three‑month Google Health premium membership bundled."
+      ],
+      "topics": [
+        "fitbit",
+        "google",
+        "wearables",
+        "india",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 14:32:03 +0000",
+      "processed_at": "2026-10-02T06:01:23.375468+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-09-30-cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Andrew-Feldman_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "title": "Cerebras Systems’ Andrew Feldman joins Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Cerebras Systems CEO and co‑founder Andrew Feldman will take the Disrupt Stage at TechCrunch Disrupt 2026 to discuss whether AI can keep scaling as demand for compute, energy, and infrastructure grows. Feldman will highlight Cerebras’ wafer‑scale processors, the company’s $5.5 billion IPO, and a multi‑year OpenAI deal to deploy 750 MW of Cerebras systems from 2026 to 2028. The company is expanding its data‑center capacity to more than 600 MW and plans to increase manufacturing tenfold in 2026, with a European expansion underway. The session will explore how the limits of conventional hardware and physical infrastructure could shape the future of AI.",
+      "key_points": [
+        "Andrew Feldman will speak on AI scaling at Disrupt 2026",
+        "Cerebras uses wafer‑scale processors, raised $5.5B IPO, and signed a 750 MW OpenAI deal",
+        "The firm is expanding data‑center capacity to 600 MW and manufacturing tenfold in 2026",
+        "The talk will examine compute, energy, and infrastructure limits for future AI hardware"
+      ],
+      "topics": [
+        "ai",
+        "hardware",
+        "disrupt",
+        "cerebras",
+        "data center"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-10-02T06:01:23.394913+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-instagram-rolls-out-an-ai-video-assistant-for-creators",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+      "title": "Instagram rolls out an AI video assistant for creators | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Instagram has launched an AI video assistant for its Edits app, a CapCut competitor, to give creators personalized feedback based on their account metrics. The chatbot pulls data such as follows, views, retention, likes, shares, comments, trending topics, and audience interests to spot performance patterns and surface actionable insights. Creators still control the creative decisions, while the assistant handles the analysis, and usage is capped unless users subscribe to Meta One for additional access. Meta previewed the tool in June and is also developing a desktop app, while YouTube is working on a conversational editing tool expected next year, highlighting a broader industry push toward AI‑powered video creation.",
+      "key_points": [
+        "Instagram introduces an AI video assistant for Edits that focuses on analytics-driven insights rather than creative editing",
+        "The tool analyzes account metrics, trends, and audience data to surface actionable performance patterns",
+        "Creators retain creative control while the assistant handles analysis and usage is limited unless upgraded to Meta One",
+        "Meta previewed the assistant in June and is developing a desktop app, amid similar efforts from YouTube"
+      ],
+      "topics": [
+        "instagram",
+        "ai",
+        "video editing",
+        "creators",
+        "meta"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "processed_at": "2026-10-02T06:01:36.270485+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-instincts-new-product-recommendations-are-giving-some-users-the-ick",
       "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
@@ -2387,81 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 25 Sep 2026 15:24:50 +0000",
       "processed_at": "2026-09-26T12:22:04.035472+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-24-metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "title": "Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta has unveiled the Muse Charm, a Tamagotchi‑style wearable that hosts its new AI agent and lets users design a custom avatar, positioning the device as both a tech tool and a fashion accessory. The product taps into Gen Z’s growing bag‑charm craze and the broader retro‑tech revival, aiming to make AI more approachable through a physical, personalized form factor. Reactions have been mixed, with critics pointing to Meta’s history of privacy violations as a potential barrier to widespread adoption. The company plans to monetize the Charm by taking a small fee on transactions made through the AI, underscoring its push into consumer‑facing AI hardware.",
-      "key_points": [
-        "Muse Charm is a Tamagotchi‑inspired wearable that hosts Meta’s AI and lets users customize a personal avatar.",
-        "It targets Gen Z by leveraging the bag‑charm trend and the retro‑tech revival to make AI more tangible.",
-        "Meta’s past privacy violations raise concerns about consumer trust and could limit the Charm’s success.",
-        "The device will be monetized through transaction fees on AI services, aligning with Meta’s ad‑driven business model."
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "wearable",
-        "gen z",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 17:39:24 +0000",
-      "processed_at": "2026-09-26T07:16:57.131306+00:00"
-    },
-    {
-      "id": "unch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
-      "title": "Ricursive Intelligence’s co-founders join Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Ricursive Intelligence’s co‑founders Anna Goldie and Azalia Mirhoseini will speak at TechCrunch Disrupt 2026 about using AI to design and improve computer chips, potentially cutting the design cycle from two‑to‑three years to weeks. The startup, founded in late 2025, has already raised $335 million at a $4 billion valuation, with Nvidia among its investors. Goldie and Mirhoseini previously led Google’s AlphaChip project, which accelerated chip layout generation, and they plan to extend that work to create a self‑learning loop between AI and hardware. Their session will explore how faster chip development could unlock more powerful and efficient AI systems.",
-      "key_points": [
-        "Ricursive Intelligence aims to reduce chip design time from years to weeks using AI.",
-        "Co‑founders Goldie and Mirhoseini previously led Google’s AlphaChip project.",
-        "The startup raised $335 million in a Series A at a $4 billion valuation within four months.",
-        "They will present at Disrupt 2026 on AI‑driven hardware design and its impact on AI progress."
-      ],
-      "topics": [
-        "ai",
-        "chip design",
-        "startup",
-        "disrupt",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-26T07:16:57.150876+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
-      "title": "Disrupt 2026 Layoff Expo+ Passes Available for $75 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is offering a discounted $75 Layoff Expo+ Pass for Disrupt 2026, targeting people who have been laid off. The promotion is limited to the first 100 qualifying individuals or until the conference opens on Oct. 13, 8 a.m. PT, whichever comes first. The pass grants access to the Expo Hall where attendees can meet over 300 startups, founders, investors, and tech leaders, but does not include industry stages or roundtables. The offer ends on Sept. 25 at 11:59 p.m. PT, and the full conference tickets can be purchased for additional programming.",
-      "key_points": [
-        "$75 Layoff Expo+ Pass is limited to the first 100 qualifying people or until the conference opens on Oct. 13",
-        "The pass includes access to the Expo Hall but excludes industry stages and roundtables",
-        "The promotion ends on Sept. 25 at 11:59 p.m. PT",
-        "Full conference tickets offer additional programming beyond the Expo Hall"
-      ],
-      "topics": [
-        "tech",
-        "networking",
-        "jobsearch",
-        "startup",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 14:15:00 +0000",
-      "processed_at": "2026-09-26T07:16:57.129394+00:00"
     }
   ]
 }

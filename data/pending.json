@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:05:26.577758+00:00",
+  "updated_at": "2026-10-02T06:01:21.491206+00:00",
   "items": [
     {
       "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
@@ -24,24 +24,6 @@
       "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
       "feed_excerpt": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
       "published": "Wed, 30 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-      "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-      "feed_excerpt": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
-      "published": "Wed, 30 Sep 2026 14:32:03 +0000"
-    },
-    {
-      "title": "Instagram rolls out an AI video assistant for creators",
-      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-      "feed_excerpt": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-      "published": "Wed, 30 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "published": "Wed, 30 Sep 2026 14:30:00 +0000"
     },
     {
       "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
@@ -258,7 +240,13 @@
       "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "feed_excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
       "published": "Thu, 01 Oct 2026 21:08:11 +0000"
+    },
+    {
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "feed_excerpt": "A new California law places new rules on autonomous vehicles operators",
+      "published": "Fri, 02 Oct 2026 00:57:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-02T00:05:56.458836+00:00"
+  "last_processed_at": "2026-10-02T06:01:36.270582+00:00"
 }
