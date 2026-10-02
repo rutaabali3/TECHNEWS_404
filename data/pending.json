@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:26:25.240098+00:00",
+  "updated_at": "2026-10-02T00:05:26.577758+00:00",
   "items": [
     {
       "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
@@ -26,18 +26,6 @@
       "published": "Wed, 30 Sep 2026 16:00:00 +0000"
     },
     {
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "feed_excerpt": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "published": "Wed, 30 Sep 2026 15:56:28 +0000"
-    },
-    {
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "feed_excerpt": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
-      "published": "Wed, 30 Sep 2026 14:50:55 +0000"
-    },
-    {
       "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
       "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
       "feed_excerpt": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
       "published": "Wed, 30 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "feed_excerpt": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "published": "Wed, 30 Sep 2026 14:27:11 +0000"
     },
     {
       "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
@@ -252,7 +234,31 @@
       "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
       "feed_excerpt": "The CEO promised to get more specific about his vision. But the details are still absent.",
       "published": "Thu, 01 Oct 2026 15:50:10 +0000"
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "feed_excerpt": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "published": "Fri, 02 Oct 2026 00:03:23 +0000"
+    },
+    {
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "feed_excerpt": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+      "published": "Thu, 01 Oct 2026 21:57:08 +0000"
+    },
+    {
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "feed_excerpt": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "published": "Thu, 01 Oct 2026 21:55:22 +0000"
+    },
+    {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "feed_excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "published": "Thu, 01 Oct 2026 21:08:11 +0000"
     }
   ],
-  "last_processed_at": "2026-10-01T20:26:43.007784+00:00"
+  "last_processed_at": "2026-10-02T00:05:56.458836+00:00"
 }
