@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-02T13:01:50.079009+00:00",
+  "updated_at": "2026-10-02T18:37:26.872927+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-whatsapp-adds-new-parental-controls-for-teen-accounts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/whatsapp-meta-logo.jpg?resize=1200,800",
+      "title": "WhatsApp adds new parental controls for teen accounts | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "WhatsApp has rolled out PIN‑protected parental controls for teen accounts, letting guardians limit who teens can interact with, view or be seen by, and who can add them to groups. Parents can also set Meta AI content settings to a default 13+ or a stricter “Limited Content” mode that disables private processing features such as incognito chat and message summaries. The new controls are optional and can be turned off, and WhatsApp confirms that end‑to‑end encryption of messages and calls remains unchanged. The update comes amid Meta’s recent $18 billion fine and ongoing lawsuits alleging harm to children, prompting the company to expand safety features across its apps.",
+      "key_points": [
+        "WhatsApp introduces PIN‑protected parental controls that restrict teen interactions, status visibility, group additions, and profile picture access.",
+        "Parents can set Meta AI content settings to 13+ or limited content, disabling private processing features like incognito chat.",
+        "The controls are optional, can be disabled, and do not affect end‑to‑end encryption of messages and calls.",
+        "Meta’s new safety features follow an $18 billion fine and lawsuits accusing the company of harming children."
+      ],
+      "topics": [
+        "whatsapp",
+        "parental controls",
+        "meta",
+        "ai",
+        "child safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 13:50:16 +0000",
+      "processed_at": "2026-10-02T18:37:09.565186+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
       "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
@@ -2436,31 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 25 Sep 2026 17:30:00 +0000",
       "processed_at": "2026-09-26T12:22:04.303835+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675",
-      "title": "Kiteworks urges customers to shut down their servers amid 'imminent' threat of cyberattack | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Kiteworks, a file‑transfer vendor formerly known as Accellion, has warned its thousands of customers to shut down their systems ahead of a potential cyberattack that could occur as soon as this weekend. The company received credible threat intelligence from law enforcement indicating that a threat actor may target its customers using unknown zero‑day vulnerabilities, though no breach has yet been confirmed. Kiteworks has already patched all known flaws in its latest release (9.5.1) and is working with authorities to investigate the threat. The advisory has already caused disruptions, notably for a healthcare customer that took its server offline, highlighting the urgency of the situation.",
-      "key_points": [
-        "Kiteworks urges customers to shut down systems amid credible threat of imminent attack using zero‑day vulnerabilities.",
-        "No confirmed breach yet; the advisory is preventative and based on law‑enforcement intelligence.",
-        "The company has patched known flaws in release 9.5.1 and is collaborating with authorities to assess the threat.",
-        "The warning has already disrupted operations, especially in healthcare, underscoring the potential impact."
-      ],
-      "topics": [
-        "cybersecurity",
-        "kitesworks",
-        "zero-day",
-        "law enforcement",
-        "data breach"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 15:52:13 +0000",
-      "processed_at": "2026-09-26T12:22:04.486860+00:00"
     }
   ]
 }
