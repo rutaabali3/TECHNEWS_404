@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-02T22:51:31.067961+00:00",
+  "updated_at": "2026-10-03T01:47:58.087541+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-doordashs-drone-strategy-started-on-the-ground",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Doordash-Air-drone.jpg?resize=1200,800",
+      "title": "DoorDash's drone strategy started on the ground | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "DoorDash’s new drone delivery service, unveiled at its Dash Forward 2026 event, follows a systems-first approach that began with ground logistics such as loading, kitchen handoffs, and packaging. The company’s R&D team, DoorDash Labs, built the autonomous sidewalk bot Dot and the underlying Autonomous Delivery Platform (ADP) software that now routes orders to drones based on weather, flight range, and traffic. After receiving a Part 135 FAA certification, DoorDash plans to launch pilot deliveries in Northern California with partners like Chipotle, Popeyes, and Momo N Curry using a six‑propeller drone equipped with a winch for pickup and drop‑off. This strategy leverages DoorDash’s 13‑year data on order weight and distance to scale the new air service.",
+      "key_points": [
+        "DoorDash built its drone delivery after first solving ground‑side logistics and developing the ADP software to coordinate all delivery modes",
+        "The company’s six‑propeller drone, equipped with a winch, received FAA Part 135 certification, enabling commercial operations in the U.S.",
+        "Pilot deliveries are slated to begin in Northern California with major restaurant partners such as Chipotle, Popeyes, and Momo N Curry"
+      ],
+      "topics": [
+        "drone delivery",
+        "autonomous delivery",
+        "logistics",
+        "faa certification",
+        "food delivery"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 19:22:13 +0000",
+      "processed_at": "2026-10-03T01:47:31.414065+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
+      "title": "Destro AI's secret sauce is getting robots and humans on the same page | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Destro, a stealth startup that raised an $8 million seed round, is redefining robotics by building an AI‑driven operating system that coordinates robots, humans, and equipment in logistics workflows rather than creating new robot hardware.  The company’s Vision OS, based on open‑weight vision‑language‑action models, was piloted at a Yusen Logistics facility where it directed cart‑moving robots to load and unload goods, reducing labor and eliminating paper processes.  Destro’s approach has won Yusen’s trust, leading to a full deployment of 26 robots and a second pilot with 17 robots, and the firm plans to scale the cross‑dock solution to thousands of warehouses.  By positioning itself as a “non‑robot company,” Destro aims to capture value in the software layer that makes existing robot bodies work efficiently in real‑world supply‑chain environments.",
+      "key_points": [
+        "Destro raised $8 million in seed funding and focuses on AI software that orchestrates robots, humans, and equipment in logistics settings.",
+        "Its Vision OS, built on open‑weight vision‑language‑action models, successfully piloted at Yusen Logistics, improving cross‑dock operations and eliminating paper workflows.",
+        "The startup plans to scale its cross‑dock solution to thousands of warehouses, leveraging its Mothership OS to coordinate multiple robots and human workers.",
+        "Destro’s strategy of being a “non‑robot company” differentiates it from traditional robotics firms that focus on hardware or isolated AI models."
+      ],
+      "topics": [
+        "robotics",
+        "ai",
+        "logistics",
+        "automation",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "processed_at": "2026-10-03T01:47:31.315369+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Group-Hangouts-Press-Asset.png?w=1200",
+      "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Tinder has launched a new feature called Group Hangouts that lets friends form groups, choose an activity, and match with other groups to plan real‑world outings. The feature supports up to 15 people per group, appears in the main card stack once a group reaches three members, and includes safety controls such as leaving chats or blocking participants. Group Hangouts builds on Tinder’s earlier Double Date concept and is part of the company’s strategy to revive user engagement amid a decline in monthly active users and revenue. The rollout begins in the U.S. and select markets, with plans to expand further as the app pushes more social, IRL experiences.",
+      "key_points": [
+        "Tinder’s Group Hangouts lets friends form up to 15‑person groups to match and plan real‑world activities, appearing in the main card stack after three members join.",
+        "The feature adds safety controls, allowing members to leave chats or block participants without leaving the group.",
+        "It follows Tinder’s Double Date launch and is part of a broader effort to counter declining MAUs and revenue by encouraging social, in‑person interactions.",
+        "Bumble’s similar Plans feature signals a wider industry shift toward group‑oriented, IRL dating experiences."
+      ],
+      "topics": [
+        "dating apps",
+        "social features",
+        "irldating",
+        "tinder",
+        "groupdating"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
+      "processed_at": "2026-10-03T01:47:40.777694+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
       "image": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg?resize=1200,675",
@@ -2385,80 +2459,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 25 Sep 2026 17:29:46 +0000",
       "processed_at": "2026-09-26T19:40:53.814321+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-astra-and-opus-just-passed-turings-other-test",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791",
-      "title": "Astra and Opus just passed Turing's other test | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI’s GPT‑6 model Astra and Anthropic’s Claude Opus 5 have each cracked a long‑unsolved Enigma message, a feat that had stumped researchers for decades. Developer Carter Leffen asked Astra to search a database of wartime Enigma transmissions, and the model built a simulator, located context clues, and produced the plaintext of a 2005‑unsolved message. Retired engineer Frode Weierud confirmed Leffen’s solution and praised the model’s archival research, noting it could have accessed German public archives or other private collections. Similarly, Jack Willis guided Claude Opus 5 to break another message by leveraging a known officer’s signature, bringing the total number of unbroken Enigma messages to seven.",
-      "key_points": [
-        "Astra and Claude Opus 5 each solved a previously unsolved Enigma message.",
-        "The breakthroughs were achieved by AI models building simulators and mining archival data.",
-        "The work demonstrates AI’s potential to accelerate cryptanalysis and historical research."
-      ],
-      "topics": [
-        "enigma",
-        "cryptanalysis",
-        "ai",
-        "openai",
-        "anthropic"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 17:24:36 +0000",
-      "processed_at": "2026-09-26T19:40:53.732462+00:00"
-    },
-    {
-      "id": "echcrunch-com-2026-09-24-bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-      "title": "Buy one and get a second Disrupt pass at 50% off | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is offering a buy‑one‑get‑one‑50%‑off deal for its 2026 Disrupt conference, valid until the venue opens on October 13. The promotion applies to all ticket types—Investor, Founder, Attendee, Non‑profit, Student, and Expo+—and can save attendees up to $450 on a second pass. The first‑ticket discount of up to 25% (or $200) ends September 25, after which prices rise. The offer encourages attendees to bring a colleague or partner to maximize networking and learning opportunities.",
-      "key_points": [
-        "Buy one, get a second Disrupt 2026 ticket at 50% off until October 13",
-        "Savings can reach $450 depending on ticket type",
-        "First‑ticket discount of up to 25% expires September 25",
-        "The deal is designed to boost networking by encouraging attendees to bring a colleague"
-      ],
-      "topics": [
-        "tech conferences",
-        "ticket discounts",
-        "networking",
-        "startups",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 19:15:00 +0000",
-      "processed_at": "2026-09-26T16:37:33.141229+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Mark Wahlberg will headline the main stage at TechCrunch Disrupt 2026, sharing how he pivoted from a Hollywood career to building a diversified business portfolio and an institutional‑level investment practice focused on healthcare and wellness startups. The session, co‑hosted with Bruce K. Lee, CEO of Keebeck Wealth Management, will reveal the mindset and strategies that helped Wahlberg transition into sophisticated finance and venture circles. Disrupt 2026 also features major AI players such as OpenAI, Anthropic, and Replit across 200+ sessions and offers ticket savings of up to $200 and a 50% discount on a second ticket until September 25. With more than 10,000 tech leaders expected to attend, the event promises a rare blend of entertainment, entrepreneurship, and cutting‑edge technology insights.",
-      "key_points": [
-        "Wahlberg will discuss his shift from acting to investing and business ventures, emphasizing healthcare and wellness startups",
-        "The talk will provide a candid look at building an investment mindset and navigating high‑profile deal flow",
-        "Disrupt 2026 hosts major AI companies and offers significant ticket discounts until September 25",
-        "The conference attracts over 10,000 tech leaders across 200+ sessions"
-      ],
-      "topics": [
-        "tech",
-        "investing",
-        "entertainment",
-        "ai",
-        "healthtech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:48:33 +0000",
-      "processed_at": "2026-09-26T16:37:48.295714+00:00"
     }
   ]
 }
