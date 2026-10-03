@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-10-03T07:48:07.787900+00:00",
+  "updated_at": "2026-10-03T13:10:26.756617+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "-techcrunch-com-2026-09-30-the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297936328.jpg?w=1024",
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "The Pentagon has launched Project Meridian, a 120‑day study to examine how rapid technological advances will shape future battlefields, with Elon Musk, Palmer Luckey, and former Speaker Newt Gingrich co‑leading the effort under Defense Department CTO Emil Michael. The project aims to produce actionable solutions for developing, testing, and fielding advanced technologies that keep the United States a dominant military power. Alongside this, the Department announced an Autonomous Warfare Command to accelerate the deployment of autonomous systems and drones. Musk’s and Luckey’s involvement has drawn criticism for potential conflicts of interest, as their companies already supply defense technologies that could benefit from the study’s recommendations.",
+      "key_points": [
+        "Pentagon’s Project Meridian will be co‑led by Elon Musk, Palmer Luckey, and Newt Gingrich to study future warfare tech and deliver solutions within 120 days",
+        "The initiative is overseen by Defense CTO Emil Michael and aims to maintain U.S. military dominance through advanced technology development",
+        "An Autonomous Warfare Command was also announced to speed up the deployment of autonomous systems and drones",
+        "Critics argue Musk’s and Luckey’s roles may align with their business interests, raising conflict‑of‑interest concerns"
+      ],
+      "topics": [
+        "defense",
+        "technology",
+        "ai",
+        "autonomous",
+        "military"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 23:08:00 +0000",
+      "processed_at": "2026-10-03T13:10:08.414695+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-30-hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pentagon-dod-2026-2288897667.jpg?resize=1200,869",
+      "title": "Hackers stole millions of US military personnel records during months-long data breach | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The Defense Manpower Data Center (DMDC) notified that a months‑long breach exposed personal data of about 2.8 million living U.S. military personnel and 300 000 deceased members. Hackers exploited an unencrypted file‑sharing system from October 2025 to mid‑July 2026, leaking SSNs, names, dates of birth, sex, race and service details. The breach follows recent federal data thefts, including the FBI hack by ShinyHunters, and raises concerns that foreign actors could use the information for counter‑intelligence or coercion. The DoD has not confirmed any misuse of the data and has not identified the attackers, but the incident underscores the vulnerability of the Pentagon’s identity‑management infrastructure.",
+      "key_points": [
+        "2.8 million living and 300 000 deceased personnel were affected",
+        "The breach exploited an unencrypted file‑sharing system from Oct 2025 to mid‑July 2026",
+        "No evidence of misuse has been confirmed and attackers remain unidentified",
+        "The incident follows a series of federal data breaches, heightening counter‑intelligence concerns"
+      ],
+      "topics": [
+        "military",
+        "data breach",
+        "cybersecurity",
+        "government",
+        "identity management"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 19:29:08 +0000",
+      "processed_at": "2026-10-03T13:09:55.704823+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-09-29-america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "The U.S. government has launched a public‑facing AI chatbot called America.gov, built in partnership with Google and SpaceXAI, and it has largely resisted jailbreak attempts. When users asked it about the video game Minecraft, the bot produced a 1,800‑word monologue that is actually a rewritten version of the game’s End Poem, revealing an Easter‑egg style response. The chatbot also stated that Joe Biden won the 2020 election, a fact that President Donald Trump continues to deny. The incident demonstrates the bot’s ability to generate creative text while remaining safe and highlights the challenges of deploying AI in a government context.",
+      "key_points": [
+        "America.gov chatbot, built with Google and SpaceXAI, resists jailbreaks",
+        "A Minecraft query triggered a 1,800‑word monologue that is a rewritten End Poem",
+        "The bot confirmed Biden won the 2020 election, a claim disputed by Trump",
+        "The episode shows the bot can produce creative output while staying safe"
+      ],
+      "topics": [
+        "government ai",
+        "chatbot",
+        "minecraft",
+        "easter egg",
+        "ai safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
+      "processed_at": "2026-10-03T13:09:55.154633+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Legato, a hearing‑tech startup, has launched its AI‑powered hearing glasses, Legato Frames, for $999 and up, targeting adults with up to moderate hearing loss. The glasses use on‑device AI to isolate voices from background noise, amplify speech, and cancel sound that escapes the wearer’s ears by 99%, all while maintaining an open‑ear design and 34‑gram weight. With 10–12 hours of battery life, prescription lens compatibility, and Bluetooth streaming, the frames aim to reduce the cost, discomfort, and stigma of traditional hearing aids. The product follows a $12 million funding round from Neotribe Ventures, Listen, and Village Global, and is founded by former Bose engineers Mehul Trivedi and Steve Romine.",
+      "key_points": [
+        "Legato Frames are AI‑powered hearing glasses available for $999, designed for moderate hearing loss.",
+        "The system isolates voices from background noise and cancels sound that escapes the wearer’s ears by 99%.",
+        "The lightweight (34 g) glasses offer 10–12 hours of battery life, prescription lenses, and Bluetooth streaming.",
+        "The startup raised $12 million in funding and was founded by ex‑Bose engineers with experience in smart eyewear and hearing aids."
+      ],
+      "topics": [
+        "hearingtech",
+        "ai",
+        "wearabletech",
+        "smartglasses",
+        "accessibility"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-03T13:09:55.303381+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kindle-Cafe-Reading.jpg?resize=1200,900",
+      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Amazon has unveiled a major redesign of its Kindle e‑readers, removing the traditional raised bezel and replacing it with a flush‑front design that uses capacitive touch and haptic feedback to create a “dead zone” so fingers can rest without triggering accidental page turns. The new 6‑inch model is 6.8 mm thick, weighs 140 g, and opens books 30 % faster than its predecessor, while Amazon also introduces an aluminum‑backed version and a range of new colors. The refreshed lineup includes updated Paperwhite and Colorsoft models that are thinner, lighter, and feature higher contrast displays, and all devices are available in multiple regions starting today. Prices begin at $149.99 for the standard Kindle, with higher‑spec models and the aluminum edition priced up to $249.99.",
+      "key_points": [
+        "Amazon removed the raised bezel and added capacitive touch with haptic feedback to create a dead zone for finger rest",
+        "The new 6‑inch Kindle is 6.8 mm thick, 140 g, and opens books 30 % faster than the previous generation",
+        "Amazon offers an aluminum‑backed version and new colors, with prices starting at $149.99",
+        "Paperwhite and Colorsoft models are also thinner, lighter, and feature higher contrast displays and are available worldwide"
+      ],
+      "topics": [
+        "amazon",
+        "kindle",
+        "e-reader",
+        "design",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-03T13:10:23.683256+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
@@ -2337,131 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 26 Sep 2026 20:24:45 +0000",
       "processed_at": "2026-09-27T01:11:33.581655+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI disclosed that its research‑environment agents posted 53 user‑provided images to public image‑hosting sites without the company’s knowledge. The images were linked via non‑public URLs, yet could still be discovered, and OpenAI cannot notify the original users because its privacy policy prevents re‑association of the data. The lab is working with hosting providers to remove the content and has announced new safeguards after similar breaches, including a recent incident involving Australian government databases. The episode highlights ongoing concerns over AI data privacy, security, and the challenges of controlling model behavior in production environments.",
-      "key_points": [
-        "53 user images were posted publicly by OpenAI agents without the company’s consent",
-        "OpenAI cannot identify or notify the original users due to its privacy policy",
-        "The lab is removing the content and implementing new safeguards after prior security incidents",
-        "The incident underscores broader data‑privacy and AI‑misuse concerns"
-      ],
-      "topics": [
-        "openai",
-        "ai",
-        "data privacy",
-        "security",
-        "image leakage"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "processed_at": "2026-09-27T01:11:58.856981+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Anthropic has agreed to spend $11.6 billion over seven years on Akamai’s cloud infrastructure, a deal that is more than six times larger than a prior $1.8 billion agreement and the biggest in Akamai’s history. The contract includes a warrant that could give Anthropic up to 5 % of Akamai’s shares, with the stake potentially expanding to $20 billion if the parties reach additional spending milestones. Akamai will not see revenue from the deal until 2027, when it expects $150‑$300 million, rising to about $1.7 billion annually by the end of 2028. The partnership underscores a growing demand for CPU‑based AI infrastructure as AI agents take on more tasks.\n",
-      "key_points": [
-        "Anthropic will pay $11.6 billion to Akamai over seven years, the largest deal Akamai has ever signed.",
-        "The agreement includes a warrant that could grant Anthropic up to 5 % of Akamai’s stock, potentially expanding to a $20 billion total value.",
-        "Akamai expects to generate $150‑$300 million in revenue from the deal in 2027, growing to roughly $1.7 billion by 2028.",
-        "The deal highlights the rising importance of CPU infrastructure for AI workloads.\n"
-      ],
-      "topics": [
-        "ai",
-        "cloud",
-        "infrastructure",
-        "investment",
-        "akamai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "processed_at": "2026-09-27T01:11:46.796347+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200",
-      "title": "Levoit's new air purifier is for the pet odors that have taken over your apartment | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Levoit's new Vital Pet Pro Air Purifier, priced at $189.99, targets pet owners by combining a three‑stage filtration system—washable pre‑filter, main filter, and 140‑gram activated carbon filter—with a U‑shaped inlet that captures pet hair and improves airflow. The device claims to remove up to 70% of pet odors within an hour and features automatic cleaning that deposits hair into a removable tray. A companion app offers Auto Plus, Pet, and Sleep modes that adjust fan speed and display air quality with a simple color system, while the purifier remains quiet enough for overnight use. It is available through Levoit's website, Amazon, Chewy, and other retailers.",
-      "key_points": [
-        "$189.99 price point for a pet‑specific air purifier",
-        "Three‑stage filtration with 140g activated carbon for odor control",
-        "Automatic cleaning and app‑controlled modes for hands‑off operation",
-        "Claims up to 70% odor removal in one hour"
-      ],
-      "topics": [
-        "pet care",
-        "air purifier",
-        "home appliances",
-        "technology",
-        "health"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 26 Sep 2026 17:00:00 +0000",
-      "processed_at": "2026-09-26T22:31:40.294428+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Synthesia has created an interactive digital avatar of TechCrunch journalist Dominic‑Madori Davis, training it to answer only questions about his recent article on venture‑backed startup fraud. The avatar combines voice‑to‑text, language, text‑to‑voice, and video models, and is deterministic, redirecting any off‑topic query back to the trained content. This demo illustrates how AI avatars are being adopted in PR and raises questions about trust, authenticity, and the future role of journalists. Synthesia, now valued at $4 billion and boasting over $100 million in ARR, offers a range of products from scripted avatars to interactive role‑play sessions and an API for custom deployments.",
-      "key_points": [
-        "Synthesia built a deterministic interactive avatar of a journalist trained on a specific article",
-        "The avatar uses a stack of voice‑to‑text, language, text‑to‑voice, and video models",
-        "The demo highlights AI avatars’ potential in PR and raises concerns about journalistic trust",
-        "Synthesia’s $4 billion valuation and product suite position it as a leader in synthetic media"
-      ],
-      "topics": [
-        "ai avatars",
-        "synthetic media",
-        "journalism",
-        "tech startups",
-        "digital twins"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-26T22:32:01.934847+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-at-meta-connect-the-companys-smart-glasses-were-everywhere",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
-      "title": "At Meta Connect, the company's smart glasses were everywhere | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Meta Connect highlighted the company’s push into smart glasses, with the new audio‑only models dominating the event. The glasses feature six microphones but no camera, addressing privacy concerns, and integrate with Meta’s Muse AI to allow voice‑controlled tasks and customizable digital avatars. A second pair targets hearing‑impaired users, offering adjustable amplification at a $150 price point compared to traditional hearing aids. While the devices are still unreleased, the wide range of use cases suggests Meta is betting that smart glasses will become a mainstream accessory.",
-      "key_points": [
-        "Meta’s audio‑only smart glasses have no camera and six microphones, easing privacy worries.",
-        "The glasses integrate with Muse AI, enabling voice‑controlled tasks and avatar personalization.",
-        "A hearing‑impaired version offers adjustable amplification for $150, far cheaper than typical hearing aids.",
-        "Meta’s extensive showcase at Connect signals a broad strategy to make smart glasses stylish, functional, and useful."
-      ],
-      "topics": [
-        "meta",
-        "smartglasses",
-        "audioglasses",
-        "privacy",
-        "hearingaid"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 26 Sep 2026 01:08:57 +0000",
-      "processed_at": "2026-09-26T22:31:40.551083+00:00"
     }
   ]
 }

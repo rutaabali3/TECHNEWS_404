@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-03T07:47:36.537465+00:00",
+  "updated_at": "2026-10-03T13:09:54.054465+00:00",
   "items": [
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "feed_excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "published": "Tue, 29 Sep 2026 23:30:55 +0000"
-    },
     {
       "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote",
       "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
@@ -14,22 +8,10 @@
       "published": "Wed, 30 Sep 2026 13:43:54 +0000"
     },
     {
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "feed_excerpt": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
-      "published": "Wed, 30 Sep 2026 19:29:08 +0000"
-    },
-    {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "feed_excerpt": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
       "published": "Wed, 30 Sep 2026 19:00:57 +0000"
-    },
-    {
-      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "feed_excerpt": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
-      "published": "Wed, 30 Sep 2026 23:08:00 +0000"
     },
     {
       "title": "Brian Chesky interview: AI agents need their own operating system",
@@ -44,21 +26,9 @@
       "published": "Thu, 01 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "feed_excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-    },
-    {
       "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
       "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
       "feed_excerpt": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-      "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-      "feed_excerpt": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
       "published": "Thu, 01 Oct 2026 13:00:00 +0000"
     },
     {
@@ -278,5 +248,5 @@
       "published": "Sat, 03 Oct 2026 00:21:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-03T07:48:06.474681+00:00"
+  "last_processed_at": "2026-10-03T13:10:23.683326+00:00"
 }
