@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-10-03T17:31:27.440189+00:00",
+  "updated_at": "2026-10-03T20:46:56.254455+00:00",
   "items": [
-    {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "feed_excerpt": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "published": "Wed, 30 Sep 2026 19:00:57 +0000"
-    },
     {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "feed_excerpt": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
       "published": "Thu, 01 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-      "feed_excerpt": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-      "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
-      "feed_excerpt": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
     },
     {
       "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -36,12 +18,6 @@
       "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "feed_excerpt": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
       "published": "Thu, 01 Oct 2026 19:18:03 +0000"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "feed_excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "published": "Thu, 01 Oct 2026 18:14:42 +0000"
     },
     {
       "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
@@ -252,7 +228,19 @@
       "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
       "feed_excerpt": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
       "published": "Sat, 03 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "feed_excerpt": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "published": "Sat, 03 Oct 2026 19:33:15 +0000"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "feed_excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "published": "Sat, 03 Oct 2026 18:43:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-03T17:31:42.087900+00:00"
+  "last_processed_at": "2026-10-03T20:47:25.031396+00:00"
 }

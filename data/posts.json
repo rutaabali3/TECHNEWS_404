@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-03T17:31:58.427191+00:00",
+  "updated_at": "2026-10-03T20:47:28.367797+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
+      "title": "OpenAI's Jev clone could help the frontier lab stop its swarming agents | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI announced a new Decisions API at its Dev Day, positioning it as a fast, low‑cost decision‑making tool similar to TypeSafe AI’s Jev model. The API lets developers give the Luna model a predefined set of options, enabling rapid classification or behavior selection while retaining broad language and safety features. Early chatter on X suggests the tool could be used to monitor AI agents, cutting monitoring costs from hundreds of dollars to under three dollars per action. The move signals a growing trend toward lightweight decision models that complement large language models for software automation and agent safety.",
+      "key_points": [
+        "OpenAI’s Decisions API mirrors TypeSafe’s Jev, offering rapid, inexpensive decision outputs for LLMs.",
+        "The API could enable real‑time monitoring of AI agents, dramatically reducing cost compared to full‑scale LLM checks.",
+        "Developers and security experts see the tool as a way to improve agent reliability and safety.",
+        "The launch reflects a broader industry shift toward specialized, low‑latency decision models alongside traditional LLMs."
+      ],
+      "topics": [
+        "openai",
+        "llm",
+        "decision-api",
+        "jev",
+        "ai-agent-monitoring"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 19:00:57 +0000",
+      "processed_at": "2026-10-03T20:46:57.688725+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "OpenAI terminated three safety researchers after an internal investigation found they shared confidential data with a third‑party AI safety group. The dismissals come amid a broader pattern of security concerns, including recent AI agent containment breaches and the scrapping of GPT‑6.1 Astra. The company said the researchers violated policies on handling sensitive information, but did not disclose names or details. The move follows earlier firings of researchers in 2024 and follows criticism that OpenAI has deprioritized safety.",
+      "key_points": [
+        "Three safety researchers were fired for allegedly leaking confidential data to an external AI safety organization.",
+        "The departures occur amid a series of security incidents and criticism of OpenAI’s safety practices.",
+        "OpenAI has previously dismissed researchers over similar leaks and has halted the launch of GPT‑6.1 Astra due to safety concerns."
+      ],
+      "topics": [
+        "openai",
+        "ai safety",
+        "data security",
+        "researcher layoffs",
+        "ai policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "processed_at": "2026-10-03T20:47:11.592683+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_7733.jpg?resize=1200,900",
+      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Amazon unveiled the Kindle Click, a $34.99 Bluetooth remote that lets readers turn pages without touching their Kindle, addressing a common annoyance for e‑reader users. The compact device is compatible with all new Kindle models and those released in 2024 and later, and is marketed for situations such as reading under covers, on a treadmill, or on a tray table during a flight. While competitors like Kobo and BOOX offer similar page‑turners at lower prices, Amazon’s official accessory aims to leverage its redesigned, bezel‑free Kindle lineup that boasts a 30% faster page‑turning display. The launch also included other accessories such as a magnetic cover with physical buttons and a charging dock stand for the Paperwhite Signature Edition and Colorsoft Signature Edition.",
+      "key_points": [
+        "Amazon launches a $34.99 Kindle Click remote for hands‑free page turns",
+        "The remote works with all new Kindle models and 2024+ releases, targeting use cases like reading under covers or on a treadmill",
+        "It competes with Kobo Remote ($29.99) and BOOX Tappy ($29.99) but offers official Amazon integration",
+        "Part of a broader Kindle redesign featuring slimmer, bezel‑free displays and 30% faster page turns"
+      ],
+      "topics": [
+        "amazon",
+        "kindle",
+        "accessories",
+        "e-reader",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-03T20:46:57.951498+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1179901012.jpg?resize=1200,800",
+      "title": "Audible's new features let you explore book worlds — and use AI to talk to characters | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Amazon‑owned Audible has launched three AI‑driven features that let listeners explore characters, interact with stories, and view supplemental imagery. The first rollout includes a character guide for its Audible Original “Dracula,” a real‑time speaker display, and spoiler‑free character cards, while interactive stories let listeners converse with characters like Renfield in real time. A visual‑context feature will debut with “The Cultural Tutor,” offering maps and images of historical sites. Audible says the beta will expand to more titles as audiobook sales hit $2.43 billion in 2025, reflecting growing demand driven by smartphones and BookTok.",
+      "key_points": [
+        "Audible introduces AI‑powered character guides, interactive stories, and visual context features for select titles",
+        "The character guide for “Dracula” displays real‑time speaker info and spoiler‑free cards, with future Q&A capability",
+        "Interactive stories let listeners converse with characters like Renfield, powered by generative AI",
+        "The features are in beta and will expand as audiobook revenue reaches $2.43 billion in 2025"
+      ],
+      "topics": [
+        "audiobook",
+        "ai",
+        "interactive",
+        "audible",
+        "booktech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-03T20:47:25.031320+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/fire-tv-stick-4k-ftv-remote-hero-amazonnews-ck92916.jpg?resize=1200,675",
@@ -2362,105 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 27 Sep 2026 16:02:00 +0000",
       "processed_at": "2026-09-27T17:36:38.802318+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-27-sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675",
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "The Sennheiser Momentum 5, priced at $399.99, delivers balanced, Dolby Atmos‑enabled sound that outperforms many rivals in clarity and bass without distortion. Its 57‑hour battery life—twice that of the Sony WH‑1000XM6 and nearly three times that of the AirPods Max 2—includes a replaceable cell and a quick‑charge feature that yields seven hours from a ten‑minute charge. With eight microphones, the Momentum 5 offers ANC that is up to three times more effective than the previous generation, reducing chatter and ambient noise without the pressurizing feel of some competitors. The companion Smart Control Plus app provides an 8‑band EQ, adjustable ANC levels, wind‑noise reduction, and a personalized sound profile, giving users extensive control over their listening experience.",
-      "key_points": [
-        "Balanced sound with Dolby Atmos support and strong bass",
-        "57‑hour battery life and replaceable cell for long‑term use",
-        "Eight microphones deliver ANC up to three times more effective than prior model",
-        "Smart Control Plus app offers EQ, ANC adjustment, wind‑noise mode, and sound personalization"
-      ],
-      "topics": [
-        "headphones",
-        "audio",
-        "battery",
-        "noise cancellation",
-        "app"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-27T17:36:53.842401+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
-      "title": "PNOE's new face mask wants to make lab-grade breath testing a self-serve affair | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "PNOĒ is set to launch its new PNOĒ 2.0 mask on October 1, a self‑serve device that measures VO₂ max and 23 metabolic biomarkers from a person’s breath. The compact mask lets users perform an eight‑minute test in gyms, spas, or other wellness venues without trained staff, potentially expanding access to lab‑grade metabolic testing. The company, which has raised about $22 million and is already profitable, sells the hardware and software as a subscription to businesses such as Equinox, Four Seasons, and the NBA. While not FDA‑cleared and not offering medical diagnoses, PNOĒ envisions future use of its data for disease detection once regulatory hurdles are cleared.",
-      "key_points": [
-        "PNOĒ introduces a self‑serve breath‑analysis mask that captures VO₂ max and 23 metabolic biomarkers",
-        "The device enables gyms, spas, and wellness centers to offer lab‑grade metabolic testing without trained staff",
-        "PNOĒ has raised $22 million, is profitable, and plans a Series B round within the next year",
-        "The product is marketed as a wellness tool, not a medical device, though future disease‑detection applications are anticipated"
-      ],
-      "topics": [
-        "breathanalysis",
-        "wellnesstech",
-        "metabolictesting",
-        "fitnessindustry",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 01:40:30 +0000",
-      "processed_at": "2026-09-27T06:56:58.433025+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Google is testing a new buying feature in India that lets users purchase Walmart‑owned Flipkart products directly from Gemini and Google’s AI Mode. The test, limited to a handful of smartphones, electronics and accessories, shows a “Buy” button that redirects to Flipkart’s checkout without leaving the AI interface. Google plans to expand the feature in October ahead of India’s festive shopping season, as it competes with rivals like OpenAI to add commerce capabilities to its AI services. The move follows Google’s earlier Universal Commerce Protocol and reflects its $350 million investment and partnership with Flipkart.",
-      "key_points": [
-        "Google pilots a “Buy” button in Gemini and AI Mode that routes users to Flipkart checkout for select products in India.",
-        "The feature is currently limited to a small set of items and users, with a broader rollout planned for October before the festive season.",
-        "Google’s test follows its Universal Commerce Protocol and a $350 million investment in Flipkart, positioning it against competitors like OpenAI."
-      ],
-      "topics": [
-        "google",
-        "flipkart",
-        "commerce",
-        "ai",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "processed_at": "2026-09-27T06:56:58.530697+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-meta-says-it-will-run-ads-for-musk-documentary-after-all",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Meta and YouTube have reversed earlier decisions and will now run paid ads for Alex Gibney’s documentary \"Musk,\" after the platforms initially rejected the trailer as political content. X remains opposed to the ads, citing the film’s political themes, while Meta and YouTube clarified that the trailer was temporarily restricted and has since been cleared. The documentary, which premiered at the Venice International Film Festival and holds a 100% fresh rating on Rotten Tomatoes, is slated for a U.S. theatrical release on October 9. This episode underscores how social‑media ad policies can affect the promotion of high‑profile documentary films.",
-      "key_points": [
-        "Meta and YouTube have reinstated ads for the \"Musk\" trailer after an initial rejection for political content.",
-        "X continues to block the trailer, citing its political nature.",
-        "The documentary has a 100% fresh rating on Rotten Tomatoes and will open in U.S. theaters on October 9.",
-        "The incident highlights the impact of platform ad policies on documentary promotion."
-      ],
-      "topics": [
-        "social media",
-        "advertising",
-        "politics",
-        "documentary",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 26 Sep 2026 17:44:00 +0000",
-      "processed_at": "2026-09-27T06:56:58.417994+00:00"
     }
   ]
 }
