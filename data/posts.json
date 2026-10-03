@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-03T13:10:26.756617+00:00",
+  "updated_at": "2026-10-03T17:31:58.427191+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-09-30-amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fire-tv-stick-4k-ftv-remote-hero-amazonnews-ck92916.jpg?resize=1200,675",
+      "title": "Amazon's new Fire TV Stick 4K comes with an actually good remote | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Amazon unveiled a slimmer, faster Fire TV Stick 4K that can be charged directly from a TV’s USB port and now ships with a redesigned remote that feels better in the dark and includes a programmable Favorites button. The stick boasts 8 GB of storage, a quad‑core 1.7 GHz processor, Wi‑Fi 6, Bluetooth 5.3, and supports HDR10, HDR10+, HLG, H.265, H.264, VP9, and AV1 up to 60 fps. It launches at a discounted price of $29.99 in multiple countries, while the improved remote is available separately for $14.99. The update positions Amazon’s streaming hardware as 20‑40 % faster than rivals and addresses long‑standing user complaints about remote ergonomics.",
+      "key_points": [
+        "The new Fire TV Stick 4K features a slimmer design, USB‑port charging, and a 20‑40 % performance boost over competitors.",
+        "The remote is redesigned with tactile buttons, a hidden Alexa mic, a distinct home button, and a new Favorites button for quick app access.",
+        "The stick ships for $29.99 (down from $59.99) and is available in the U.S., Canada, Japan, Mexico, U.K., Ireland, Germany, France, Italy, Spain, Switzerland, Australia, and New Zealand.",
+        "The remote can also be purchased separately for $14.99, offering an upgrade path for existing users."
+      ],
+      "topics": [
+        "amazon",
+        "fire tv",
+        "remote",
+        "streaming",
+        "price"
+      ],
+      "source_url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 30 Sep 2026 13:43:54 +0000",
+      "processed_at": "2026-10-03T17:31:28.832997+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-chatgpt-can-now-virtually-try-on-clothes-for-you",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+      "title": "ChatGPT can now virtually try on clothes for you | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI has globally launched two new shopping features in ChatGPT, enabling users to virtually try on clothing and accessories and to save favorite products for later. The virtual try‑on lets users upload a selfie or a photo of an item and see how it would look on them, while the Favorites function stores products in a personal library alongside try‑on images. Both features are powered by the newly released ChatGPT Images 2.5 model, which offers more realistic lighting, richer textures, and lower generation latency. By entering the fashion discovery space, OpenAI aims to compete with established players like Pinterest and Google, though it remains to be seen whether users will adopt ChatGPT as their primary shopping assistant.",
+      "key_points": [
+        "OpenAI introduces virtual try‑on and favorites features in ChatGPT for online shopping",
+        "The new tools use ChatGPT Images 2.5 to generate realistic clothing previews and store selections in a personal library",
+        "The launch positions OpenAI against fashion discovery leaders such as Pinterest and Google"
+      ],
+      "topics": [
+        "openai",
+        "chatgpt",
+        "ai shopping",
+        "virtual try-on",
+        "fashion tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
+      "processed_at": "2026-10-03T17:31:42.087810+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Fervo Energy’s Cape Station in Utah has begun selling electricity to the grid, marking the first commercial milestone for an enhanced geothermal plant. The 100‑megawatt facility was built in just 23 months, a record speed that could appeal to data‑center operators looking for phased, low‑carbon power. Fervo’s technology drills deeper than traditional geothermal, tapping hotter rock to enable larger projects—potentially up to 4 GW. The company’s recent $1.9 billion IPO and commitments from Google and Southern California Edison underscore growing confidence in the technology.",
+      "key_points": [
+        "Cape Station began commercial sales on September 30, 23 months after groundbreaking.",
+        "The plant will eventually reach 100 MW, with potential up to 4 GW.",
+        "Fervo’s deep‑drill enhanced geothermal approach enables faster, phased development.",
+        "Major buyers include Google and Southern California Edison."
+      ],
+      "topics": [
+        "geothermal",
+        "renewable energy",
+        "data centers",
+        "clean tech",
+        "energy infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 18:35:55 +0000",
+      "processed_at": "2026-10-03T17:31:29.171685+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-brian-chesky-interview-ai-agents-need-their-own-operating-system",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
+      "title": "Brian Chesky interview: AI agents need their own operating system | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Airbnb has launched an AI‑powered search feature as part of its fall update, but CEO Brian Chesky maintains that chatbots are not the right interface for travel discovery. He argues that future interfaces will blend deterministic and generative elements, support multiplayer AI for group planning, and be built on a robust, agent‑friendly infrastructure. Chesky also points out the industry’s lack of an AI operating system, which he believes is essential for consumer AI to work effectively. Despite these innovations, he expects apps to remain central due to platform dominance by Apple and Google.",
+      "key_points": [
+        "Airbnb’s new AI search is a step forward, yet Chesky sees chatbots as inadequate for travel browsing.",
+        "Chesky advocates for multiplayer AI, generative interfaces, and a robust developer kit to make Airbnb more agent‑friendly.",
+        "He argues the absence of an AI operating system is a major barrier to consumer AI adoption.",
+        "Apps will likely stay central because of the dominance of iOS and Android platforms."
+      ],
+      "topics": [
+        "airbnb",
+        "ai",
+        "chatbot",
+        "interface",
+        "operatingsystem"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 15:12:00 +0000",
+      "processed_at": "2026-10-03T17:31:28.910939+00:00"
+    },
     {
       "id": "-techcrunch-com-2026-09-30-the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297936328.jpg?w=1024",
@@ -2362,106 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 26 Sep 2026 17:44:00 +0000",
       "processed_at": "2026-09-27T06:56:58.417994+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-25-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
-      "title": "Automattic has a new board after failed attempt to put CEO on leave | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Automattic CEO Matt Mullenweg has rebuilt the company’s board after a failed attempt by the previous directors to place him on leave, a move that lasted just 33 hours before he regained control. The new board features a best‑selling science‑fiction author, two co‑founders of the defunct social app IRL, and additional advisers such as former Whoop CTO Jaime Waydo, June co‑founder Matt Van Horn, and KISSmetrics co‑founder Hiten Shah. Mullenweg, who holds 84% of the voting shares, used his majority to remove several board members and replace the legal counsel amid ongoing litigation with WP Engine over trademark and open‑source contribution disputes. The reshuffle underscores a broader governance battle that could shape Automattic’s strategic direction for the next two decades.",
-      "key_points": [
-        "Mullenweg regained control after a 33‑hour board vote to place him on leave",
-        "The new board includes a sci‑fi author, IRL co‑founders, and new advisers such as Jaime Waydo, Matt Van Horn, and Hiten Shah",
-        "Mullenweg holds 84% of voting shares, enabling him to overhaul the board",
-        "Automattic is embroiled in legal disputes with WP Engine and has hired new litigation counsel"
-      ],
-      "topics": [
-        "automattic",
-        "board",
-        "governance",
-        "tech",
-        "legal"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 25 Sep 2026 23:04:34 +0000",
-      "processed_at": "2026-09-27T06:56:58.571446+00:00"
-    },
-    {
-      "id": "om-2026-09-24-shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
-      "title": "Shield AI, Waabi, and General Motors talk AI at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a Real World AI Stage session titled \"Building AI Systems When Failure Is Not an Option,\" where Shield AI CTO Nathan Michael, Waabi founder Raquel Urtasun, and General Motors robotics strategist Mikell Taylor will discuss how to deploy autonomous systems in high‑stakes environments such as defense, autonomous driving, and industrial robotics. Shield AI’s Hivemind platform, recently chosen by the U.S. Air Force and backed by a $1.5 billion Series G round, exemplifies the need for rigorous safety culture and regulatory compliance. Waabi, after raising $1 billion and partnering with Uber to field 25,000 robotaxis, emphasizes simulation‑driven testing and full validation before driverless deployment. GM’s focus on user experience and trust highlights the importance of designing robots that work safely alongside people in real workplaces.",
-      "key_points": [
-        "Shield AI’s Hivemind was selected for the U.S. Air Force’s Collaborative Combat Aircraft program and backed by a $1.5 billion Series G round at a $12.7 billion valuation.",
-        "Waabi raised $1 billion, partnered with Uber to deploy 25,000 robotaxis, and uses its Waabi World simulator for extensive testing and validation.",
-        "General Motors’ robotics strategy stresses human‑robot collaboration and user experience as critical for real‑world adoption.",
-        "The Disrupt 2026 session compares defense, autonomous driving, and industrial robotics approaches to readiness and safety."
-      ],
-      "topics": [
-        "ai",
-        "autonomous",
-        "robotics",
-        "safety",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 24 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-27T01:11:33.761511+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-insurers-claim-ai-is-already-increasing-healthcare-costs",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-      "title": "Insurers claim AI is already increasing healthcare costs | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Blue Cross Blue Shield Association’s analysis found that hospitals’ use of AI tools in insurance claims added $942 million to healthcare spending over a two‑year period. The study noted a sharp rise in patients documented with complex conditions, yet no corresponding change in care, indicating a disconnect between coding and treatment. The New York Times highlighted the finding as evidence that AI is driving higher costs, with AI‑driven interactions between hospitals and insurers exacerbating payment disputes. While some experts warn of a dystopian future of AI \"bots fighting bots,\" others argue the technology could ultimately reduce tensions and cut costs.",
-      "key_points": [
-        "AI‑driven claim coding has added $942M to U.S. healthcare spending over two years.",
-        "Hospitals are documenting more complex conditions without changes in care, revealing a coding‑treatment disconnect.",
-        "Experts debate whether AI will worsen or alleviate insurer‑hospital cost battles."
-      ],
-      "topics": [
-        "healthcare",
-        "ai",
-        "insurance",
-        "costs",
-        "coding"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "processed_at": "2026-09-27T01:11:33.574032+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-26-tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "TikTok has agreed to pay Alabama at least $100 million in a settlement over allegations that the platform misled users about safety and was designed to addict children. The settlement could rise to $300 million depending on certain conditions, and the company will implement a two‑hour daily time limit for underage users, new parental controls, overnight usage restrictions, and limits on cosmetic filters. The deal follows a $400 million settlement with the U.S. Department of Justice over child privacy violations and underscores growing regulatory pressure on social media companies to protect minors. Alabama Attorney General Steve Marshall said the new safeguards will give parents greater peace of mind about their children’s online safety.",
-      "key_points": [
-        "TikTok will pay a minimum of $100 million to Alabama in a settlement tied to child safety allegations.",
-        "The total payout could reach $300 million depending on conditions set in the agreement.",
-        "The company will impose a two‑hour daily time limit for underage users and add parental controls, overnight usage restrictions, and filter limits.",
-        "The settlement follows a $400 million DOJ deal over child privacy violations.",
-        ""
-      ],
-      "topics": [
-        "tiktok",
-        "settlement",
-        "child safety",
-        "alabama",
-        "social media regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 26 Sep 2026 20:24:45 +0000",
-      "processed_at": "2026-09-27T01:11:33.581655+00:00"
     }
   ]
 }

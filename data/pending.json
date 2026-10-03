@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-03T13:09:54.054465+00:00",
+  "updated_at": "2026-10-03T17:31:27.440189+00:00",
   "items": [
-    {
-      "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote",
-      "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-      "feed_excerpt": "Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especially in the dark.",
-      "published": "Wed, 30 Sep 2026 13:43:54 +0000"
-    },
     {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "feed_excerpt": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
       "published": "Wed, 30 Sep 2026 19:00:57 +0000"
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "feed_excerpt": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "published": "Thu, 01 Oct 2026 15:12:00 +0000"
     },
     {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
@@ -44,22 +32,10 @@
       "published": "Thu, 01 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "feed_excerpt": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "published": "Thu, 01 Oct 2026 19:21:53 +0000"
-    },
-    {
       "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "feed_excerpt": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
       "published": "Thu, 01 Oct 2026 19:18:03 +0000"
-    },
-    {
-      "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "feed_excerpt": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
-      "published": "Thu, 01 Oct 2026 18:35:55 +0000"
     },
     {
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
@@ -246,7 +222,37 @@
       "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
       "feed_excerpt": "The proposed legislation would extend to all automotica license plate readers.",
       "published": "Sat, 03 Oct 2026 00:21:57 +0000"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "feed_excerpt": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "published": "Sat, 03 Oct 2026 16:30:01 +0000"
+    },
+    {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "feed_excerpt": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "published": "Sat, 03 Oct 2026 15:02:01 +0000"
+    },
+    {
+      "title": "Vessev built an electric ferry that almost flies",
+      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "feed_excerpt": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "published": "Sat, 03 Oct 2026 14:42:00 +0000"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "Sat, 03 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "feed_excerpt": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "published": "Sat, 03 Oct 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-03T13:10:23.683326+00:00"
+  "last_processed_at": "2026-10-03T17:31:42.087900+00:00"
 }
