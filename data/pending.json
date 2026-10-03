@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-03T01:47:30.040573+00:00",
+  "updated_at": "2026-10-03T07:47:36.537465+00:00",
   "items": [
-    {
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-      "feed_excerpt": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
-      "published": "Tue, 29 Sep 2026 18:48:03 +0000"
-    },
     {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "feed_excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "published": "Tue, 29 Sep 2026 23:30:55 +0000"
-    },
-    {
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "feed_excerpt": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-      "published": "Wed, 30 Sep 2026 14:15:00 +0000"
     },
     {
       "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote",
@@ -32,28 +20,10 @@
       "published": "Wed, 30 Sep 2026 19:29:08 +0000"
     },
     {
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-      "feed_excerpt": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
-      "published": "Wed, 30 Sep 2026 19:19:40 +0000"
-    },
-    {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "feed_excerpt": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
       "published": "Wed, 30 Sep 2026 19:00:57 +0000"
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "feed_excerpt": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "published": "Wed, 30 Sep 2026 18:23:57 +0000"
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "feed_excerpt": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "published": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
@@ -308,5 +278,5 @@
       "published": "Sat, 03 Oct 2026 00:21:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-03T01:47:40.777781+00:00"
+  "last_processed_at": "2026-10-03T07:48:06.474681+00:00"
 }
