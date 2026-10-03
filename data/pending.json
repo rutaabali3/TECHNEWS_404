@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-03T20:46:56.254455+00:00",
+  "updated_at": "2026-10-03T23:36:26.433763+00:00",
   "items": [
     {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "feed_excerpt": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
       "published": "Thu, 01 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "published": "Thu, 01 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
@@ -44,22 +38,10 @@
       "published": "Thu, 01 Oct 2026 16:44:35 +0000"
     },
     {
-      "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
-      "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
-      "feed_excerpt": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
-      "published": "Thu, 01 Oct 2026 16:35:25 +0000"
-    },
-    {
       "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
       "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
       "feed_excerpt": "The CEO promised to get more specific about his vision. But the details are still absent.",
       "published": "Thu, 01 Oct 2026 15:50:10 +0000"
-    },
-    {
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "feed_excerpt": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "published": "Fri, 02 Oct 2026 00:03:23 +0000"
     },
     {
       "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
@@ -242,5 +224,5 @@
       "published": "Sat, 03 Oct 2026 18:43:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-03T20:47:25.031396+00:00"
+  "last_processed_at": "2026-10-03T23:36:41.200124+00:00"
 }

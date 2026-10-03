@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-03T20:47:28.367797+00:00",
+  "updated_at": "2026-10-03T23:36:57.780021+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-01-california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
+      "title": "California governor vetoes bill banning use of 'pervert glasses' to secretly record people | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "California Governor Gavin Newsom vetoed Senate Bill 1130, which would have made it illegal to secretly record people with wearable devices such as smart glasses. The bill aimed to prevent unconsented surveillance in public spaces amid the rapid rise of always‑listening wearables from companies like Meta and Snap, but Newsom argued the language was too broad and duplicated existing protections. If passed, California would have been the first state to regulate smart glasses, imposing fines or prison time on violators and penalties on non‑compliant manufacturers. The veto reflects concerns over unintended consequences and the need for clearer regulation as wearable tech becomes more pervasive.",
+      "key_points": [
+        "Governor Newsom vetoed Senate Bill 1130, halting the first U.S. attempt to regulate smart glasses.",
+        "The bill sought to stop covert recording in public but was criticized for overly broad language and duplication of existing laws.",
+        "If enacted, violators could face fines or prison, and non‑compliant manufacturers would also be penalized.",
+        "The decision underscores the challenge of balancing privacy protection with clear, precise legislation amid the rapid growth of always‑listening wearables."
+      ],
+      "topics": [
+        "technology",
+        "privacy",
+        "legislation",
+        "wearables",
+        "smartglasses"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 16:35:25 +0000",
+      "processed_at": "2026-10-03T23:36:41.200019+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-10-01-satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Satlyt, founded by former Google and SpaceX product manager Rama Afullo, has raised an $8 million seed round led by Non Sibi Ventures to build software that lets satellites run AI workloads without needing dedicated space‑based data centers. The company has already flown its platform on two demonstration missions and will launch its software on a TakeMe2Space satellite aboard a SpaceX rocket, alongside Google’s Project Suncatcher prototype. Satlyt’s goal is to create a shared compute cloud that spans multiple satellites, targeting 20 % of the satellite fleet by the end of the decade, and it plans to offer its software as an open, cross‑vendor solution rather than building its own spacecraft. The funding and early deployments position Satlyt as a key player in the emerging orbital computing ecosystem, where efficient on‑board AI can reduce downlink costs and enable real‑time anomaly resolution.\n",
+      "key_points": [
+        "Satlyt raised $8 million in seed funding led by Non Sibi Ventures to develop AI software for satellites.",
+        "The company has already flown its platform on two missions and will launch with a TakeMe2Space satellite on a SpaceX rocket.",
+        "Satlyt aims to build a shared compute cloud across satellites, targeting 20 % of the satellite fleet by 2030.",
+        "Unlike competitors, Satlyt focuses on software that runs on existing satellites rather than building new spacecraft."
+      ],
+      "topics": [
+        "satellite computing",
+        "ai",
+        "startup funding",
+        "space industry",
+        "orbital data centers"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
+      "processed_at": "2026-10-03T23:36:28.145452+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
+      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will take place at Moscone West in San Francisco from October 13‑15, focusing on how founders can build enduring companies in the AI era. The three‑day event features more than 200 expert sessions, the iconic Startup Battlefield pitch competition, and extensive networking tools such as investor matchmaking and side events tailored to different stages of a startup’s journey. Founders can save 50% on a second ticket or bring a colleague, and a special $75 Expo+ Pass is available for those impacted by layoffs. The guide emphasizes that every conversation in the expo hall or side event can spark opportunities, from early‑stage validation to scaling and partnership building.",
+      "key_points": [
+        "Disrupt 2026 centers on building companies in the AI era with over 200 sessions and a Startup Battlefield competition",
+        "Founders can get 50% off a second ticket or a $75 Expo+ Pass for laid‑off network members",
+        "Networking tools and investor matchmaking are highlighted to maximize opportunities for startups at all stages"
+      ],
+      "topics": [
+        "tech",
+        "startup",
+        "ai",
+        "investing",
+        "event"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 00:03:23 +0000",
+      "processed_at": "2026-10-03T23:36:27.803764+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-09-30-openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
@@ -2395,72 +2469,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 27 Sep 2026 20:34:28 +0000",
       "processed_at": "2026-09-27T21:05:54.850977+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-27-can-muse-overcome-metas-trust-issues",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-      "title": "Can Muse overcome Meta’s trust issues? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Meta unveiled its new consumer‑focused AI agent Muse at the Connect event, positioning it as a Tamagotchi‑style personal assistant that can perform tasks like finding unclaimed funds. The company’s CEO emphasized a push to embed AI across its platforms, but the agent’s usefulness appears limited to occasional “party‑trick” functions rather than sustained daily use. Podcast hosts noted that while Muse shows promise, users question whether Meta can be trusted with sensitive data, given the company’s advertising revenue model. The discussion highlighted Meta’s strategic shift toward consumer AI amid a broader industry trend toward enterprise solutions from OpenAI and Anthropic.",
-      "key_points": [
-        "Meta’s Muse is a consumer‑oriented AI agent that offers limited, one‑off utilities such as locating unclaimed funds.",
-        "The agent’s potential is tempered by trust concerns, as users worry about Meta’s data‑driven ad business.",
-        "Meta’s strategy contrasts with other AI firms that are focusing on enterprise tools to generate revenue.",
-        "The podcast suggests Muse may be more of a novelty than a long‑term productivity tool."
-      ],
-      "topics": [
-        "meta",
-        "muse",
-        "ai",
-        "consumer",
-        "trust"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 19:57:30 +0000",
-      "processed_at": "2026-09-27T21:05:54.311583+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-27-anthropics-dario-amodei-gets-the-snl-treatment",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
-      "title": "Anthropic's Dario Amodei gets the SNL treatment | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Saturday Night Live’s Weekend Update featured a sketch in which cast member Jane Wickline impersonated Anthropic CEO Dario Amodei, lampooning the company’s recent public warnings about AI risks. The parody portrayed Amodei as stumbling through a press tour, delivering awkward answers and even a Gollum‑style confession that “AI is the devil and I its maker.” Wickline’s version of the CEO assured audiences that AI executives “are all on the same page here: We do not condone what we are doing,” while joking that AI is a tool for building weapons and that there is only a 10% chance cancer will be cured in ten years. The sketch was part of a broader SNL commentary on the AI industry’s hype and caution, coinciding with TechCrunch’s coverage of the event.",
-      "key_points": [
-        "SNL spoofed Anthropic CEO Dario Amodei with Jane Wickline",
-        "The sketch mocked AI risk warnings and portrayed Amodei as uncertain and ominous",
-        "It highlighted the tension between AI hype and ethical concerns",
-        "The segment was covered by TechCrunch alongside other AI industry news"
-      ],
-      "topics": [
-        "saturday night live",
-        "anthropic",
-        "dario amodei",
-        "ai",
-        "tech satire"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "processed_at": "2026-09-27T17:36:38.928321+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-27-techcrunch-mobility-av-companies-pick-their-lanes",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
-      "title": "TechCrunch Mobility: AV companies pick their lanes | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Autonomous‑vehicle firms are accelerating commercial rollout through strategic partnerships and geographic focus, with Wayve partnering with Mercedes‑Benz, Nissan and Stellantis to embed Level‑2 tech and launch a robotaxi in Tokyo, while Waymo concentrates its 4,000‑vehicle fleet in California and Texas and is expanding into teenage riders. Aurora is targeting 30,000 driverless trucks by 2030, and the industry is also seeing a wave of IPO activity outside the U.S., from SoftBank‑backed Carro to Hong Kong’s EcoCeres and U.S.‑based May Mobility. A safety scare at Zoox, where test‑fleet drivers in Atlanta reported gas exposure, prompted the company to ground its vehicles and an OSHA inquiry. Meanwhile, other movers such as Ultraviolette, Comma, and Tesla’s Semi trucks illustrate the sector’s rapid evolution and regulatory scrutiny.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 16:02:00 +0000",
-      "processed_at": "2026-09-27T17:36:38.802318+00:00"
     }
   ]
 }
