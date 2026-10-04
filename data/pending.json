@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:36:26.433763+00:00",
+  "updated_at": "2026-10-04T05:02:14.049505+00:00",
   "items": [
     {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
@@ -8,28 +8,10 @@
       "published": "Thu, 01 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "feed_excerpt": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000"
-    },
-    {
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "feed_excerpt": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-      "published": "Thu, 01 Oct 2026 17:50:19 +0000"
-    },
-    {
       "title": "This startup wants to turn idle car inventory into rental revenue",
       "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
       "feed_excerpt": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
       "published": "Thu, 01 Oct 2026 17:09:00 +0000"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "feed_excerpt": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "published": "Thu, 01 Oct 2026 16:49:22 +0000"
     },
     {
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
@@ -42,12 +24,6 @@
       "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
       "feed_excerpt": "The CEO promised to get more specific about his vision. But the details are still absent.",
       "published": "Thu, 01 Oct 2026 15:50:10 +0000"
-    },
-    {
-      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-      "feed_excerpt": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
-      "published": "Thu, 01 Oct 2026 21:57:08 +0000"
     },
     {
       "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
@@ -224,5 +200,5 @@
       "published": "Sat, 03 Oct 2026 18:43:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-03T23:36:41.200124+00:00"
+  "last_processed_at": "2026-10-04T05:02:41.145693+00:00"
 }

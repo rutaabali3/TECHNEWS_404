@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-03T23:36:57.780021+00:00",
+  "updated_at": "2026-10-04T05:02:44.093576+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-01-lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-836662650.jpg?resize=1200,675",
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Lyft has agreed to pay $272.5 million to settle a lawsuit that accused the company of misclassifying its drivers as independent contractors instead of employees under California law. The lawsuit, filed by the California Labor Commissioner’s Office in August 2020, alleged that drivers were denied minimum wage, overtime, paid sick leave, and timely wage payments from April 6 2016 to December 15 2020. The settlement, which still requires judicial approval, will redirect the LCO’s share of the funds to drivers who filed wage claims and is seen as a way for Lyft to avoid protracted litigation and focus on business objectives. The case highlights the broader debate over gig‑economy worker classification, especially after California’s Proposition 22 carved out rideshare drivers from Assembly Bill 5’s employee requirements.",
+      "key_points": [
+        "Lyft will pay $272.5 million to settle claims of misclassifying drivers as contractors",
+        "The lawsuit covered violations from 2016‑2020 and alleged denial of minimum wage, overtime, and benefits",
+        "Funds will be directed to drivers who filed wage claims, with the LCO forgoing its share",
+        "The settlement reflects ongoing legal battles over gig‑economy worker classification in California"
+      ],
+      "topics": [
+        "rideshare",
+        "gig economy",
+        "labor law",
+        "california",
+        "settlement"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 21:57:08 +0000",
+      "processed_at": "2026-10-04T05:02:41.145584+00:00"
+    },
+    {
+      "id": "unch-com-2026-10-01-google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "title": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Google has successfully launched a prototype orbital compute satellite carrying its Tensor Processing Unit (TPU) on a SpaceX rocket, marking the first time the company’s advanced chips have flown into space. The satellite, built by Planet Labs, will run the TPU in short bursts to test power, cooling, and radiation resilience, and will serve as a proof‑of‑concept for Google’s long‑term plan to create a network of 81 satellites that act as an orbital data center. In a related study, Google released a peer‑reviewed white paper estimating that SpaceX’s Starship would need to launch 1,800 times over the next decade—about 180 per year—to bring launch costs down to roughly $200 per kilogram and make orbital data centers economically viable. The research also projects that Google’s chips can endure space radiation with an error rate of about one in a million for typical inference workloads, supporting the feasibility of large‑scale AI workloads in orbit.",
+      "key_points": [
+        "Google tested its TPU in space on a SpaceX rocket, proving orbital compute viability.",
+        "Google estimates Starship would need 1,800 launches over 10 years to make orbital data centers cost‑effective.",
+        "The company released a peer‑reviewed white paper projecting launch costs near $200/kg by 2035.",
+        "Google believes its chips can survive space radiation with low error rates for inference workloads."
+      ],
+      "topics": [
+        "google",
+        "spacex",
+        "orbital compute",
+        "ai",
+        "satellite"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
+      "processed_at": "2026-10-04T05:02:15.540944+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
+      "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells) | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Graphite released a study that catalogued 13,000 phrases that appear more than twice as often in AI-generated prose compared to human writing. The research found that Claude Opus 5.5 frequently uses the word \"dependable\" and the phrase \"this matters,\" with the latter appearing 116 times more often than in human text. OpenAI’s Astra, on the other hand, is prone to \"corrective framing\" and hedging with \"may provide\" or \"can provide,\" while Gemini 3.1 Pro has largely eliminated the em‑dash. Despite efforts to make models more human‑like, the study shows that new telltale patterns keep emerging and the overall number of tells remains steady.",
+      "key_points": [
+        "13,000 AI tell phrases identified",
+        "Opus 5.5’s \"this matters\" appears 116× more often",
+        "Astra uses \"corrective framing\" over 100× more often",
+        "Models still produce new tells even as old ones are removed"
+      ],
+      "topics": [
+        "ai",
+        "language models",
+        "research",
+        "technews",
+        "writing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 17:50:19 +0000",
+      "processed_at": "2026-10-04T05:02:15.821710+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
+      "title": "Amazon releases its own Jev clone as decision models flood the web | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Amazon Web Services has released an open‑source decision model called Strands Decider 2B, inspired by TypeSafe’s Jev, to meet the growing demand for low‑cost, low‑latency decision‑making in AI workflows. Built on the Qwen3.5‑2B LLM torso, the model outputs calibrated choices rather than text, providing confidence scores that help automate workflow steps efficiently. The project originated from engineer Marc Brooker’s homebrew prototype, which briefly topped the Jevbench ranking for its size before AWS formalized it under Strands Labs. While the model competes with similar offerings from OpenAI and other researchers, Amazon emphasizes its local‑run capability and cost‑effectiveness for agents that don’t require full‑featured LLMs.",
+      "key_points": [
+        "Amazon’s Strands Decider 2B is a fully open‑source, low‑latency decision model built on Qwen3.5‑2B.",
+        "It delivers calibrated choices with confidence scores, making it ideal for workflow steps in AI agents.",
+        "The model was derived from a successful homebrew prototype that topped Jevbench for its size.",
+        "Amazon positions it as a cost‑effective alternative to large LLMs for many customer use cases."
+      ],
+      "topics": [
+        "amazon",
+        "aws",
+        "decision-model",
+        "open-source",
+        "ai-agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 16:49:22 +0000",
+      "processed_at": "2026-10-04T05:02:15.762944+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-01-california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
@@ -2371,104 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 28 Sep 2026 16:52:38 +0000",
       "processed_at": "2026-09-28T19:25:58.879819+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/duo-man2.jpg?resize=1200,768",
-      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple’s upcoming iPhone Duo is already getting a quirky first app: Duo‑Man, which turns the foldable phone into a virtual Walkman by using its two screens to simulate opening a cassette and closing the device to play music. Indie developer Vidit Bhargava built the app for the Bitrig hackathon, where it earned second place and went viral on X with 1.8 million views and nearly 10,000 likes. The app will support Apple Music, local files, and even let users roll the cassette with an Apple Pencil, with plans to add Spotify later. The project highlights the creative potential of foldable iOS devices and taps into the growing retro‑tech trend among younger consumers.",
-      "key_points": [
-        "Duo‑Man uses the iPhone Duo’s two screens to mimic a Walkman’s opening and closing action",
-        "The app was created by indie developer Vidit Bhargava and won second place at the Bitrig hackathon",
-        "It went viral on X, reaching 1.8 million views and 10,000 likes, prompting a full app release",
-        "Future features include Apple Music, local file support, Apple Pencil cassette rolling, and potential Spotify integration"
-      ],
-      "topics": [
-        "iphone",
-        "foldable",
-        "app",
-        "walkman",
-        "retro"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 16:47:49 +0000",
-      "processed_at": "2026-09-28T19:26:12.923271+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-physical-ai-chip-developer-sima-ai-hits-1-45b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "SiMa.ai, a physical AI chip developer, raised $150 million in a Series C round that values the company at $1.45 billion, bringing total capital raised to over $500 million. The funding was co‑led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners, Dell Technologies Capital and StepStone Group. Founded in 2018 by former Groq COO Krishna Rangasayee, SiMa.ai builds energy‑efficient chips that enable robots, drones, cameras and other devices to run AI locally, cutting latency and cloud dependence. The company aims to capture the expanding market for on‑device AI, positioning its low‑cost, low‑latency solutions as an alternative to Nvidia GPUs.",
-      "key_points": [
-        "SiMa.ai secured $150 million Series C, valuing the company at $1.45 billion and raising total capital to over $500 million.",
-        "The round was co‑led by Fidelity Management & Research Company and Amplify, with Dell Technologies Capital and others joining.",
-        "The startup’s energy‑efficient chips let robots, drones and cameras run AI locally, reducing latency and cloud dependence."
-      ],
-      "topics": [
-        "ai hardware",
-        "physical ai",
-        "chip startup",
-        "venture capital",
-        "robotics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 15:29:21 +0000",
-      "processed_at": "2026-09-28T19:25:58.831249+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-27-truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/truecaller-scam-checker-image-feature.jpg?resize=1200,800",
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Truecaller has launched Scam Checker, a free web and Android service that lets users paste suspicious phone numbers, links, or messages to verify whether they are fraudulent, without requiring the app or a sign‑in. The tool pulls reports from Truecaller’s community feed, ScamFeed, but detailed information about a number’s owner remains behind a login. Initially available in India, the service will expand to Latin America, the Middle East, Africa, and Southeast Asia, reflecting the company’s shift from a caller‑ID focus to broader multi‑channel scam detection amid rising fraud across messaging apps and web links.",
-      "key_points": [
-        "Truecaller introduces Scam Checker, a free web/Android tool that checks phone numbers, links, and messages for fraud using community reports.",
-        "The service is initially launched in India and will roll out to Latin America, Middle East, Africa, and Southeast Asia.",
-        "Scam Checker relies on Truecaller’s ScamFeed community, which hosts about 20,000 live reports and adds roughly 1,300 new reports weekly.",
-        "The launch signals Truecaller’s pivot beyond caller ID as telecom operators and competitors add their own spam‑blocking features."
-      ],
-      "topics": [
-        "scam detection",
-        "caller id",
-        "fraud prevention",
-        "mobile security",
-        "tech innovation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 04:30:00 +0000",
-      "processed_at": "2026-09-28T04:30:52.525706+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-27-anthropics-ceo-is-about-to-have-dinner-with-president-trump",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Anthropic CEO Dario Amodei is scheduled to dine with President Donald Trump at the White House, marking their first one‑on‑one encounter. The meeting comes amid a heated AI safety debate, with Amodei advocating caution and Trump dismissing concerns as a Democratic hoax while promoting the term “super intelligence.” Axios first reported the dinner plans, which TechCrunch confirmed via a source. The event follows earlier tensions, including the Pentagon’s supply‑chain risk designation of Anthropic over its guard‑rail policies, a move the company is contesting in court.",
-      "key_points": [
-        "Dario Amodei will meet President Trump for dinner at the White House, their first one‑on‑one.",
-        "The meeting reflects opposing views on AI safety: Amodei calls for caution, Trump dismisses backlash as a hoax.",
-        "Anthropic has faced a Pentagon supply‑chain risk designation over guard‑rail policies, which the company is challenging legally."
-      ],
-      "topics": [
-        "ai safety",
-        "anthropic",
-        "president trump",
-        "white house",
-        "politics"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 27 Sep 2026 20:34:28 +0000",
-      "processed_at": "2026-09-27T21:05:54.850977+00:00"
     }
   ]
 }
