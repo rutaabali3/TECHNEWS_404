@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-04T19:21:21.528130+00:00",
+  "updated_at": "2026-10-04T22:26:45.074687+00:00",
   "items": [
-    {
-      "title": "This startup wants to turn idle car inventory into rental revenue",
-      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
-      "feed_excerpt": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
-      "published": "Thu, 01 Oct 2026 17:09:00 +0000"
-    },
     {
       "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
       "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
@@ -18,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "feed_excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
       "published": "Thu, 01 Oct 2026 21:08:11 +0000"
-    },
-    {
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "feed_excerpt": "A new California law places new rules on autonomous vehicles operators",
-      "published": "Fri, 02 Oct 2026 00:57:57 +0000"
     },
     {
       "title": "Rivian issues R2 recall for poorly tightened battery packs",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
       "feed_excerpt": "The roughly $110 billion deal is expected to close October 6.",
       "published": "Fri, 02 Oct 2026 15:53:50 +0000"
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "feed_excerpt": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "published": "Fri, 02 Oct 2026 15:39:41 +0000"
     },
     {
       "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
@@ -186,7 +168,19 @@
       "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 04 Oct 2026 16:05:00 +0000"
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "feed_excerpt": "AI slop seems to be overwhelming bug bounty programs.",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "feed_excerpt": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "published": "Sun, 04 Oct 2026 20:08:34 +0000"
     }
   ],
-  "last_processed_at": "2026-10-04T19:21:43.130387+00:00"
+  "last_processed_at": "2026-10-04T22:26:46.313890+00:00"
 }
