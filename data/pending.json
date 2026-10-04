@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-04T05:02:14.049505+00:00",
+  "updated_at": "2026-10-04T11:13:43.774051+00:00",
   "items": [
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "feed_excerpt": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "published": "Thu, 01 Oct 2026 14:00:00 +0000"
-    },
     {
       "title": "This startup wants to turn idle car inventory into rental revenue",
       "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
       "feed_excerpt": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
       "published": "Thu, 01 Oct 2026 17:09:00 +0000"
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "feed_excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "published": "Thu, 01 Oct 2026 16:44:35 +0000"
     },
     {
       "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "feed_excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
       "published": "Fri, 02 Oct 2026 18:11:27 +0000"
-    },
-    {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "feed_excerpt": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
-      "published": "Fri, 02 Oct 2026 17:48:16 +0000"
     },
     {
       "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
@@ -200,5 +182,5 @@
       "published": "Sat, 03 Oct 2026 18:43:57 +0000"
     }
   ],
-  "last_processed_at": "2026-10-04T05:02:41.145693+00:00"
+  "last_processed_at": "2026-10-04T11:13:45.365754+00:00"
 }

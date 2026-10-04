@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-04T05:02:44.093576+00:00",
+  "updated_at": "2026-10-04T11:14:10.685589+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-01-shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Shopify has launched Canvas, an AI‑powered site builder that lets merchants create and edit their online stores by chatting with the Sidekick AI agent. The tool updates the store’s real code in real time, offering live previews across devices and interactive testing of animations and functionality. While Canvas currently runs only on desktop and lacks support for third‑party themes, app blocks, translations, and other advanced features, Shopify plans to add these capabilities over time. The release positions Canvas as part of a broader shift toward no‑code, AI‑driven web development, aiming to make e‑commerce storefront creation more accessible to non‑technical users.",
+      "key_points": [
+        "Canvas lets merchants build Shopify stores through a chat interface with Sidekick, editing the actual code in real time.",
+        "The platform provides live, device‑responsive previews and interactive testing of store features.",
+        "Current limitations include desktop‑only access and no support for third‑party themes, app blocks, translations, or market extensions.",
+        "Shopify intends to expand Canvas’s functionality in future updates to broaden its appeal and usability."
+      ],
+      "topics": [
+        "shopify",
+        "ai",
+        "ecommerce",
+        "sitebuilder",
+        "canvas"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 16:44:35 +0000",
+      "processed_at": "2026-10-04T11:13:45.048142+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-01-photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents. | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Photon, an AI startup that builds agents for messaging platforms, announced a $4.5 million seed round after signing up more than 40,000 developers and reporting a ten‑fold revenue increase in four months. The company staged a symbolic funeral for mobile apps in San Francisco, underscoring its belief that users will move away from installing new apps toward agents that operate within familiar messaging services like iMessage and WhatsApp. Photon’s platform offers a unified API, CLI, observability tools, and SOC 2 Type II and HIPAA compliance, enabling developers to deploy agents across multiple channels. Early customers span fintech, insurance, and consumer AI, and the startup plans to expand into agent‑to‑agent interactions in the future.",
+      "key_points": [
+        "Photon raised $4.5M seed funding after 40,000 developer sign‑ups and 10x revenue growth in four months",
+        "The startup held a symbolic funeral for mobile apps to highlight its vision that messaging‑based agents will replace traditional apps",
+        "Photon offers a managed platform with a unified API, CLI, observability suite, and compliance certifications for secure deployments",
+        "Customers include fintech, insurance, and consumer AI firms, and the company aims to enable agent‑to‑agent communication next"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "messaging",
+        "agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-04T11:13:45.365680+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "title": "It's not AI anymore, it's ‘super intelligence’ (according to the White House) | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "The White House convened a room of major tech CEOs—Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei—to sign an AI safety pledge that President Donald Trump described as \"morally binding.\" Trump also signed an executive order that officially rebrands artificial intelligence as \"super intelligence,\" signaling a shift in how the administration frames the technology. Meta and OpenAI are simultaneously softening the public image of their AI products, while the bulk of investment in AI remains enterprise‑focused. These moves underscore a growing tension between rapid commercial deployment and the need for robust safety oversight.",
+      "key_points": [
+        "CEO signings of an AI safety pledge described as \"morally binding\" by President Trump",
+        "Trump’s executive order rebrands AI as \"super intelligence\"",
+        "Enterprise investment remains the primary source of AI funding",
+        "Meta and OpenAI are adopting friendlier public personas for their AI products"
+      ],
+      "topics": [
+        "white house",
+        "ai",
+        "safety",
+        "enterprise",
+        "policy"
+      ],
+      "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 17:48:16 +0000",
+      "processed_at": "2026-10-04T11:13:45.183409+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-01-lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-836662650.jpg?resize=1200,675",
@@ -2396,81 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 28 Sep 2026 15:30:00 +0000",
       "processed_at": "2026-09-28T23:53:28.962728+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
-      "title": "FBI reportedly declares 'cyber security incident' after hackers steal agents' personal data | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The FBI has internally declared a cyber security incident after hackers accessed its job application portal and stole personally identifiable information of agents, including Social Security numbers, addresses, job titles, and medical records. The breach was made possible by exploiting a vulnerability in an Oracle PeopleSoft server that hosts human resources data. While the bureau has not publicly confirmed the breach beyond an internal notice, it remains unclear whether Congress has been formally informed, raising questions about compliance with federal reporting requirements. The incident has been described as a counterintelligence disaster, exposing thousands of FBI personnel to potential profiling, phishing, and foreign intelligence threats.",
-      "key_points": [
-        "Hackers exploited an Oracle PeopleSoft vulnerability to steal FBI agents’ SSNs, addresses, job titles, and medical data.",
-        "The FBI has only issued an internal notification of a cyber security incident and has not publicly confirmed the breach; congressional notification status is uncertain.",
-        "The hacking group ShinyHunters is demanding a correction of an FBI report rather than a ransom.",
-        "The breach poses significant risks of profiling, phishing, and foreign intelligence targeting of FBI personnel."
-      ],
-      "topics": [
-        "fbi",
-        "cybersecurity",
-        "data breach",
-        "oracle peoplesoft",
-        "counterintelligence"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 14:50:30 +0000",
-      "processed_at": "2026-09-28T23:53:29.194645+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "title": "Nvidia launches new platform for reining in rogue AI agents | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Nvidia unveiled its Open Agent Safety Platform, a combination of the open‑source OpenShell software and the hardware‑based Sentry monitor, to keep AI agents confined to their test environments and prevent rogue behavior. The platform isolates agent activity on a separate BlueField‑4 processor, allowing real‑time detection and quarantine of agents that try to escape their boundaries. Major AI firms such as Anthropic, Arm, Microsoft, Oracle and SpaceX have signed up to use the open‑source solution, while OpenAI remains outside the partnership. Nvidia stresses that adding independent security layers is an engineering fix that lets AI development continue without compromising safety.",
-      "key_points": [
-        "Nvidia’s Open Agent Safety Platform merges OpenShell and Sentry to isolate and monitor AI agents in real time.",
-        "The system uses a separate BlueField‑4 processor to detect and quarantine agents that attempt to break out of their sandbox.",
-        "Several leading AI companies have adopted the platform, but OpenAI has not yet joined.",
-        "Nvidia argues that engineering solutions, not slowed development, are the path to AI safety."
-      ],
-      "topics": [
-        "ai safety",
-        "nvidia",
-        "open source",
-        "security",
-        "ai agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 18:31:23 +0000",
-      "processed_at": "2026-09-28T19:25:58.751509+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Meta has launched the Meta Enterprise Platform, a new AI initiative aimed at bringing its AI stack—including Muse, Meta Business Agent, Muse API, and Muse Code—to corporate customers and developers. The company has hired MongoDB CEO Chirantan “CJ” Desai to head the effort, a move that has caused MongoDB shares to fall more than 17% and prompted the appointment of interim CEO Dev Ittycheria. Meta says the platform will transform AI into products and services that businesses can deploy to innovate, grow, and serve customers, potentially turning its heavy AI investment into a revenue source. The launch follows the earlier release of Muse, Meta’s personal AI assistant that can send emails and book travel, and signals the company’s push to compete in the enterprise AI market.",
-      "key_points": [
-        "Meta launches Meta Enterprise Platform to offer its AI stack to businesses, led by MongoDB CEO CJ Desai.",
-        "MongoDB shares fell 17% after Desai’s departure, and the company named Dev Ittycheria interim CEO.",
-        "The platform builds on Muse, Meta’s personal AI assistant, and aims to turn AI into deployable products for corporate use.",
-        "The initiative could help Meta monetize its AI investments."
-      ],
-      "topics": [
-        "meta",
-        "enterprise ai",
-        "mongodb",
-        "ai platform",
-        "business technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "processed_at": "2026-09-28T19:25:58.879819+00:00"
     }
   ]
 }
