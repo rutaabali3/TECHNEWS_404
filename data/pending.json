@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T15:55:38.981510+00:00",
+  "updated_at": "2026-10-04T19:21:21.528130+00:00",
   "items": [
     {
       "title": "This startup wants to turn idle car inventory into rental revenue",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
       "feed_excerpt": "The CEO promised to get more specific about his vision. But the details are still absent.",
       "published": "Thu, 01 Oct 2026 15:50:10 +0000"
-    },
-    {
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "feed_excerpt": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-      "published": "Thu, 01 Oct 2026 21:55:22 +0000"
     },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -186,7 +180,13 @@
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
       "feed_excerpt": "This new task force is Trump's latest response to the debate over AI safety.",
       "published": "Sun, 04 Oct 2026 15:15:10 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 04 Oct 2026 16:05:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-04T11:13:45.365754+00:00"
+  "last_processed_at": "2026-10-04T19:21:43.130387+00:00"
 }

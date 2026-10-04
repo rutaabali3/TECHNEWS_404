@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-04T11:14:10.685589+00:00",
+  "updated_at": "2026-10-04T19:21:50.302122+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-01-kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "title": "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Kevin Mandia, the founder of Mandiant, has secured a $255.5 million Series B for his new security startup Armadin, pushing the company’s valuation above $2.5 billion. The round was led by Andreessen Horowitz and Accel, with participation from Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In‑Q‑Tel, Kleiner Perkins, and Menlo Ventures. Armadin’s technology replaces traditional penetration testing with continuously running agentic swarms that chain vulnerabilities to simulate real‑world attacks, aiming to expose and patch weaknesses before malicious actors or rogue AI labs can exploit them. With this funding, Armadin’s total capital raised exceeds $445 million, following a $190 million Series A earlier this year.\n",
+      "key_points": [
+        "Armadin raised $255.5 million in a Series B at a valuation over $2.5 billion",
+        "Investors include Andreessen Horowitz, Accel, Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In‑Q‑Tel, Kleiner Perkins, and Menlo Ventures",
+        "Armadin offers always‑on security through agentic swarms that chain vulnerabilities to preempt AI‑driven attacks",
+        "Total funding for Armadin now exceeds $445 million after its Series A"
+      ],
+      "topics": [
+        "cybersecurity",
+        "startup",
+        "funding",
+        "ai",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 21:55:22 +0000",
+      "processed_at": "2026-10-04T19:21:43.130290+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-01-shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
@@ -2446,31 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 28 Sep 2026 17:09:02 +0000",
       "processed_at": "2026-09-28T23:53:29.059071+00:00"
-    },
-    {
-      "id": "om-2026-09-28-anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-De-Jong-Amin-Lee_16x9-Dark.png?resize=1200,675",
-      "title": "Anthropic, Gamma, and Clay talk AI at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "At TechCrunch Disrupt 2026, Anthropic, Gamma, and Clay will convene on the AI Stage to discuss what happens when AI moves from demo to real‑world deployment. Anthropic’s Cat de Jong will outline patterns that separate successful enterprise integrations of Claude from stalled pilots, while Gamma’s Grant Lee will share the founder’s view on building AI products that users keep using. Clay’s Kareem Amin will explain how AI can be woven into existing workflows and customer‑facing processes. The session, held October 13‑15 in San Francisco, aims to bridge enterprise deployment insights with product adoption realities for the 10,000+ tech leaders in attendance.",
-      "key_points": [
-        "Anthropic’s Cat de Jong will reveal patterns that differentiate successful enterprise deployments of Claude from long‑running pilots.",
-        "Gamma’s Grant Lee will discuss the founder perspective on creating AI products that users consistently adopt.",
-        "Clay’s Kareem Amin will explain how AI can be integrated into existing workflows and customer outreach.",
-        "The session seeks to connect enterprise deployment insights with real‑world product adoption challenges."
-      ],
-      "topics": [
-        "ai",
-        "enterprise",
-        "deployment",
-        "product adoption",
-        "techconference"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 15:30:00 +0000",
-      "processed_at": "2026-09-28T23:53:28.962728+00:00"
     }
   ]
 }
