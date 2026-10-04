@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:13:43.774051+00:00",
+  "updated_at": "2026-10-04T15:55:38.981510+00:00",
   "items": [
     {
       "title": "This startup wants to turn idle car inventory into rental revenue",
@@ -180,6 +180,12 @@
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "feed_excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
       "published": "Sat, 03 Oct 2026 18:43:57 +0000"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "feed_excerpt": "This new task force is Trump's latest response to the debate over AI safety.",
+      "published": "Sun, 04 Oct 2026 15:15:10 +0000"
     }
   ],
   "last_processed_at": "2026-10-04T11:13:45.365754+00:00"
