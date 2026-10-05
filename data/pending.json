@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-05T07:31:47.349424+00:00",
+  "updated_at": "2026-10-05T16:56:49.818530+00:00",
   "items": [
-    {
-      "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
-      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-      "feed_excerpt": "The CEO promised to get more specific about his vision. But the details are still absent.",
-      "published": "Thu, 01 Oct 2026 15:50:10 +0000"
-    },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
       "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -24,24 +18,6 @@
       "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
       "feed_excerpt": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
       "published": "Fri, 02 Oct 2026 13:39:23 +0000"
-    },
-    {
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-      "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "feed_excerpt": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-      "published": "Fri, 02 Oct 2026 13:23:09 +0000"
-    },
-    {
-      "title": "Rivian’s R2 just helped it set a new sales record",
-      "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-      "feed_excerpt": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
-      "published": "Fri, 02 Oct 2026 13:17:05 +0000"
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "feed_excerpt": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "published": "Fri, 02 Oct 2026 21:09:14 +0000"
     },
     {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -126,7 +102,61 @@
       "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "feed_excerpt": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
       "published": "Sun, 04 Oct 2026 20:08:34 +0000"
+    },
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "feed_excerpt": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "published": "Mon, 05 Oct 2026 16:43:35 +0000"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "feed_excerpt": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "published": "Mon, 05 Oct 2026 15:14:24 +0000"
+    },
+    {
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "feed_excerpt": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+      "published": "Mon, 05 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "published": "Mon, 05 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "feed_excerpt": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "published": "Mon, 05 Oct 2026 14:58:42 +0000"
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "feed_excerpt": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "published": "Mon, 05 Oct 2026 14:35:09 +0000"
+    },
+    {
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+      "published": "Mon, 05 Oct 2026 14:30:00 +0000"
+    },
+    {
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "feed_excerpt": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "published": "Mon, 05 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "feed_excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "published": "Mon, 05 Oct 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-05T07:31:50.163266+00:00"
+  "last_processed_at": "2026-10-05T16:57:09.026185+00:00"
 }
