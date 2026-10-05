@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-04T22:27:13.847166+00:00",
+  "updated_at": "2026-10-05T01:10:19.999353+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "ttps-techcrunch-com-2026-10-02-apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple has announced new controls for macOS's Full Disk Access setting after reports that AI agents like Meta’s Muse could read private messages without explicit permission. The changes aim to require explicit user action before granting an app the ability to read files, mail, messages, and browsing history, addressing growing risks as desktop AI becomes more autonomous. The move follows Wired’s report of a ChatGPT Mac app flaw that could expose sensitive data and a journalist’s claim that Muse accessed private messages. Apple’s update emphasizes informed consent rather than limiting permissions, though the company did not comment on the changes.",
+      "key_points": [
+        "Apple introduces stricter controls on macOS Full Disk Access to curb AI agents reading private data",
+        "The new policy requires explicit user action before an app can access files, mail, messages, and browsing history",
+        "The change follows incidents involving Meta’s Muse and a ChatGPT Mac app flaw that raised privacy concerns"
+      ],
+      "topics": [
+        "apple",
+        "macos",
+        "ai",
+        "privacy",
+        "full disk access"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 18:11:27 +0000",
+      "processed_at": "2026-10-05T01:09:57.555404+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you) | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Circuit Breaker Labs, a 2026 Startup Battlefield finalist, is developing a testing platform that uses hyper‑realistic user simulations to evaluate AI models for psychologically harmful interactions across diverse ages, languages, and slang. The sibling founders, motivated by a 2024 lawsuit in which a teen’s suicide was linked to a Character.AI chatbot, built an \"army of crash‑test dummies\" that run tens of thousands of simulated conversations daily and score models with a proprietary, auditable method. The startup is already serving high‑risk mental‑health applications and plans to extend its framework to any AI that could foster parasocial relationships or other dangerous dynamics. By exposing safety vulnerabilities before deployment, Circuit Breaker Labs aims to build trust and make AI safer for children and adults alike.",
+      "key_points": [
+        "Circuit Breaker Labs uses hyper‑realistic simulations to test AI for psychological safety across diverse demographics",
+        "The founders were driven by a 2024 lawsuit where a teen’s suicide was linked to a Character.AI chatbot",
+        "The platform runs tens of thousands of daily simulated interactions and provides auditable safety scores",
+        "It currently serves high‑risk mental‑health applications and aims to broaden to other AI contexts"
+      ],
+      "topics": [
+        "ai safety",
+        "mental health",
+        "startups",
+        "testing",
+        "child protection"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-05T01:09:57.819601+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-paramount-and-warner-bros-discovery-to-become-skydance",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/skydance.jpg?resize=1200,504",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Paramount and Warner Bros. Discovery will merge into a new entity called Skydance once the $110 billion deal closes on October 6. The combined company will own Paramount+, HBO Max, CBS, CNN, MTV, TBS, Comedy Central, Food Network, and major franchises such as The Lord of the Rings, Game of Thrones, the DC Universe, and Yellowstone. CEO David Ellison said the Paramount and Warner Bros. brands will remain central while the new name gives the company its own identity. The merger follows a legal battle and a settlement with state attorneys general that cleared the way for the deal.",
+      "key_points": [
+        "$110 billion merger closes on October 6 forming Skydance",
+        "Combines Paramount+, HBO Max with CBS, CNN, MTV, TBS, Comedy Central, Food Network",
+        "Controls franchises like The Lord of the Rings, Game of Thrones, DC Universe, Yellowstone",
+        "Paramount and Warner Bros. brands remain central under new identity"
+      ],
+      "topics": [
+        "mergers",
+        "film",
+        "streaming",
+        "media",
+        "business"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 15:53:50 +0000",
+      "processed_at": "2026-10-05T01:09:57.754127+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+      "title": "Slovenia's .si domain sees a surge in registrations after Trump's 'super intelligence' order | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "The .si domain, tied to Slovenia, has seen a dramatic surge in registrations after President Trump signed an executive order that rebranded AI as “SI” or “super intelligence.” 2,199% more .si names were purchased in September, with 11,000 new addresses logged on September 30 and nearly 13,000 in the following 24 hours. Hostinger reports that .si is now its second‑most popular extension, with most buyers coming from the U.S. and India, yet only about 3% of the domains are explicitly AI‑related. The lower cost of .si—roughly $12 a year compared to $90 for .ai—has attracted speculators and brand protectors hoping the trend will continue, though experts say it is unlikely to replace .ai anytime soon.",
+      "key_points": [
+        ".si registrations spiked 2,199% after Trump’s executive order rebranding AI as SI",
+        "Hostinger shows .si as its second‑most popular domain, largely bought by U.S. and Indian customers",
+        "Only about 3% of new .si domains are AI‑related, with many buyers speculating on resale",
+        "The .si domain is far cheaper than .ai, making it an attractive but unlikely replacement for the AI‑centric extension"
+      ],
+      "topics": [
+        "domain registration",
+        "ai",
+        "slovenia",
+        "internet domains",
+        "speculation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 14:47:46 +0000",
+      "processed_at": "2026-10-05T01:10:18.637067+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-01-this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mymonthlycar-image.jpg?resize=1200,900",
@@ -2371,106 +2470,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 28 Sep 2026 19:21:59 +0000",
       "processed_at": "2026-09-29T04:59:42.054216+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mavi.jpg?resize=1200,800",
-      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "MAVI, an AI‑powered talent marketplace founded in 2023, has emerged from stealth to connect U.S. companies with global accounting professionals who are proficient in AI tools. The platform addresses a shrinking U.S. accounting workforce and the growing need for mid‑level talent that can integrate LLMs and AI‑native ERPs into finance workflows, while also handling cross‑border contracts, compliance, and payroll. Co‑CEO Molly Liu, a former Ramp, Lyft, and Dropbox executive, highlighted how AI will automate entry‑level roles, exacerbating the mid‑level shortage and increasing the demand for experienced, AI‑savvy accountants. MAVI recently closed a $4 million seed round led by Harlem Capital, now boasts over 3,000 professionals on its platform, and counts clients such as Athena Club among its enterprise users.",
-      "key_points": [
-        "MAVI launches as an AI‑powered marketplace to supply U.S. firms with global accounting talent that can manage AI tools and finance workflows",
-        "The company tackles the U.S. accounting shortage by filling mid‑level roles that AI will soon automate, while offering end‑to‑end cross‑border hiring support",
-        "Molly Liu’s background at Ramp, Lyft, and Dropbox informs MAVI’s focus on high‑skill, AI‑proficient accountants",
-        "MAVI secured a $4 million seed round from Harlem Capital, now hosts 3,000+ professionals and serves clients like Athena Club"
-      ],
-      "topics": [
-        "ai",
-        "accounting",
-        "talentmarketplace",
-        "startup",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 15:26:46 +0000",
-      "processed_at": "2026-09-29T04:59:42.326409+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Deshpande-Appleton-Nayak-Risch-Xu.png?resize=1200,675",
-      "title": "Next five VCs judging Startup Battlefield 200 at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will host Startup Battlefield 200 from October 13-15 at Moscone West, where 200 startups will compete for a $100,000 equity‑free prize and the coveted Disrupt Cup. The judging panel, now nearly complete, features 20 announced judges from top VC firms such as Bison Ventures, Maven Ventures, Kleiner Perkins, Greylock, and Index Ventures, with five final judges set to decide the finalists. The event attracts over 10,000 tech leaders, investors, and founders, offering discounted tickets—up to $200 off, 50% off a second pass, and up to 30% off for groups of four or more. Attendees can also showcase their startups, network with industry leaders, and experience the premier pitch competition of the year.",
-      "key_points": [
-        "20 judges announced, five final judges will decide the $100k prize",
-        "Disrupt 2026 runs Oct 13‑15 at Moscone West with 10,000+ tech leaders",
-        "Ticket discounts up to $200 off, 50% off a second pass, 30% off for groups",
-        "Judges include partners from Bison, Maven, Kleiner Perkins, Greylock, and Index Ventures"
-      ],
-      "topics": [
-        "startupbattlefield",
-        "techcrunchdisrupt",
-        "venturecapital",
-        "pitchcompetition",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-09-29T04:59:42.065253+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-modulate-raises-25m-for-its-voice-models-and-analysis-suite",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675",
-      "title": "Modulate raises $25M for its voice models and analysis suite | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Boston‑based voice‑intelligence startup Modulate has closed a $25 million funding round led by Future Ventures, bringing its total valuation to $170 million after a prior $41 million raise. The company’s platform deploys over 100 lightweight models that perform transcription, emotional analysis, deep‑fake detection, AI‑music detection, and policy enforcement for voice agents in regulated sectors. Modulate’s focus on nuanced intent analysis and low‑compute models positions it to help enterprises monitor call quality, detect scams, and ensure compliance without costly hardware. The round will support expansion of its on‑premises and on‑device deployment capabilities and a modest hiring push to grow its model‑building team.",
-      "key_points": [
-        "Modulate secured $25 million in new funding, raising its valuation to $170 million.",
-        "The platform uses more than 100 small models for transcription, emotion, intent, and deep‑fake detection.",
-        "Its low‑compute approach enables easier deployment and cost‑effective scaling for enterprises.",
-        "The company is expanding on‑premises and on‑device capabilities to enhance privacy and compliance."
-      ],
-      "topics": [
-        "voice ai",
-        "deepfake detection",
-        "transcription",
-        "emotional analysis",
-        "regulatory compliance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 14:05:00 +0000",
-      "processed_at": "2026-09-29T04:59:41.912424+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-disrupt-2026-exhibitor-program-extended-until-oct-2",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-exhibitor.jpg?resize=1200,800",
-      "title": "Disrupt 2026 exhibitor program extended until Oct 2 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch has extended the final window for startups to book exhibit tables at Disrupt 2026 until October 2, 11:59 p.m. PT, giving companies a last chance to secure a spot on the Expo Hall floor. The exhibit package includes a 6′ × 30″ branded table for all three days, ten team passes, lead‑generation tools, website and app branding, press‑list access, and Silver Tier sponsor branding, with on‑site branding available if booked by September 30. Disrupt 2026 will take place October 13‑15 at Moscone West in San Francisco and will bring together more than 10,000 founders, investors, operators, and tech leaders to showcase breakthroughs and forge partnerships. Ticket savings of up to $200 and a 50% discount on a second pass are available until September 25, 11:59 p.m. PT.",
-      "key_points": [
-        "Exhibit table bookings close on October 2, 11:59 p.m. PT, extending the final opportunity for startups to showcase at Disrupt 2026",
-        "The exhibit package offers a 6′ × 30″ table, 10 passes, lead‑generation tools, branding, and press‑list access, with on‑site branding if booked by September 30",
-        "Disrupt 2026 runs October 13‑15 at Moscone West, drawing over 10,000 founders, investors, and tech leaders",
-        "Ticket discounts of up to $200 and 50% off a second pass are available until September 25, 11:59 p.m. PT"
-      ],
-      "topics": [
-        "techcrunch",
-        "disrupt",
-        "startup",
-        "exhibitor",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 14:00:00 +0000",
-      "processed_at": "2026-09-29T04:59:53.687432+00:00"
     }
   ]
 }

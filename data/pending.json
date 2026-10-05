@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T22:26:45.074687+00:00",
+  "updated_at": "2026-10-05T01:09:55.867863+00:00",
   "items": [
     {
       "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
@@ -20,40 +20,16 @@
       "published": "Fri, 02 Oct 2026 12:50:11 +0000"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "feed_excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "published": "Fri, 02 Oct 2026 18:11:27 +0000"
-    },
-    {
       "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
       "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "feed_excerpt": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
       "published": "Fri, 02 Oct 2026 17:32:05 +0000"
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "feed_excerpt": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-      "published": "Fri, 02 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "feed_excerpt": "The roughly $110 billion deal is expected to close October 6.",
-      "published": "Fri, 02 Oct 2026 15:53:50 +0000"
-    },
-    {
       "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
       "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
       "feed_excerpt": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
       "published": "Fri, 02 Oct 2026 15:31:20 +0000"
-    },
-    {
-      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
-      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-      "feed_excerpt": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
-      "published": "Fri, 02 Oct 2026 14:47:46 +0000"
     },
     {
       "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
@@ -182,5 +158,5 @@
       "published": "Sun, 04 Oct 2026 20:08:34 +0000"
     }
   ],
-  "last_processed_at": "2026-10-04T22:26:46.313890+00:00"
+  "last_processed_at": "2026-10-05T01:10:18.637160+00:00"
 }
