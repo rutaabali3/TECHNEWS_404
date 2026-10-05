@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-10-05T16:57:12.860297+00:00",
+  "updated_at": "2026-10-05T23:07:04.558202+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-03-openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "David Robinson, a long‑tenured safety lead at OpenAI, resigned and published an essay in The Atlantic accusing the company’s culture of being broken. He argues that OpenAI’s iterative deployment model inevitably produces large‑scale failures and calls for a safety regime comparable to nuclear power plants or busy airports, with multiple layers of redundancy and careful planning. Robinson also stresses that current alignment metrics are coarse and that the industry must address deeper cultural and structural issues before AI systems become more capable. OpenAI’s spokesperson said the firm is tightening security, pausing training when needed, and expanding third‑party evaluation, but the resignation highlights ongoing concerns about AI safety culture in Silicon Valley.",
+      "key_points": [
+        "David Robinson resigned citing a broken culture at OpenAI",
+        "He calls for a nuclear‑plant‑style safety regime with multiple layers of redundancy",
+        "Robinson warns that current alignment metrics are coarse and deeper cultural changes are needed",
+        "OpenAI says it is tightening security and expanding third‑party evaluation"
+      ],
+      "topics": [
+        "openai",
+        "ai safety",
+        "whistleblower",
+        "culture",
+        "alignment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "processed_at": "2026-10-05T23:06:38.228993+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-03-jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
+      "title": "Jack Dorsey's Bitchat disappears from app stores in India after government order | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Jack Dorsey’s decentralized messaging app Bitchat has been removed from Apple’s App Store and Google Play in India after the government issued a Section 69A order to block the app. The notice also barred access to Bitchat’s TestFlight beta and its website, while a prior July order had forced GitHub to delete the app’s open‑source repositories. The ban follows a wave of internet shutdowns during youth protests over voter‑roll changes, during which Bitchat’s popularity surged as users turned to offline messaging. The move raises concerns among digital‑rights advocates about the legality of blocking software that can operate without internet connectivity.",
+      "key_points": [
+        "India’s Ministry of Electronics and Information Technology ordered Apple and Google to remove Bitchat from their stores under Section 69A of the IT Act.",
+        "Bitchat, a Bluetooth‑mesh messaging app that works offline, was also blocked on its website and had its GitHub repositories taken down earlier in July.",
+        "The ban coincided with internet shutdowns during protests over voter‑roll changes, a period when Bitchat’s downloads spiked to 85% of its global traffic.",
+        "Digital‑rights groups argue the order is unconstitutional because Bitchat’s architecture prevents law‑enforcement interception and it can operate during shutdowns."
+      ],
+      "topics": [
+        "bitchat",
+        "appstore",
+        "india",
+        "digital rights",
+        "internet shutdown"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 15:02:01 +0000",
+      "processed_at": "2026-10-05T23:06:38.209183+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-meta-wants-you-to-build-your-own-muse-gadget",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "title": "Meta wants your next gadget to be Muse-infused | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Meta has launched Muse Gadgets, an open‑source hardware initiative that lets developers build devices that connect to its personal AI agent, Muse. The company is providing low‑level firmware, a Linux SDK, and example projects such as a color e‑ink display or an HDMI‑port stick, while also offering a Discord channel for community support. Meta has already built and distributed 5,000 Muse Home Link units—USB‑C devices that let Muse interface with home networks and smart appliances—to subscribers, with plans to ship them soon. The move is part of Meta’s broader strategy to extend Muse beyond consumer use, targeting small businesses and enterprises through new tools and a dedicated Meta Enterprise Platform.",
+      "key_points": [
+        "Meta releases Muse Gadgets, an open‑source hardware kit for building devices that connect to its AI agent",
+        "The kit includes firmware, a Linux SDK, and example projects like e‑ink displays and HDMI sticks",
+        "Meta has built 5,000 Muse Home Link devices, free to subscribers, and will ship them shortly",
+        "The initiative supports Meta’s expansion of Muse into small‑business and enterprise markets"
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "open-source",
+        "hardware",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "processed_at": "2026-10-05T23:07:04.556938+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-sanders-introduces-bill-to-ban-the-federal-government-from-using-flock",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+      "title": "Sanders introduces bill to ban the federal government from using Flock | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Senator Bernie Sanders introduced the Ban Flock Act, a bill that would prohibit federal agencies from using automatic license‑plate readers (ALPRs) or accessing data from ALPRs operated by local police or private companies. The legislation allows only toll‑collection uses and future Congress‑approved applications that limit data retention to 48 hours, and it would penalize state and local governments that fail to comply by cutting federal grant funding. Flock Safety, the largest U.S. ALPR vendor with more than 120,000 cameras and a monthly 20 billion vehicle‑read volume, is a key target of the bill, and the company has already reduced its default data‑retention period to seven days amid public pressure. Co‑sponsors include Representative Alexandria Ocasio‑Cortez and Senator Jeff Merkley, underscoring bipartisan concern over privacy and surveillance.\n",
+      "key_points": [
+        "The Ban Flock Act bars federal use of ALPRs and data from them, with limited toll‑collection exceptions and a 48‑hour retention cap.",
+        "Flock Safety, the largest ALPR vendor, operates 120,000+ cameras and processes 20 billion vehicle reads per month.",
+        "State and local governments that do not comply could lose federal grant funding from five departments, including Justice and Homeland Security.",
+        "The bill is co‑sponsored by AOC and Jeff Merkley, reflecting bipartisan support for privacy reforms.\n"
+      ],
+      "topics": [
+        "federal policy",
+        "privacy",
+        "technology",
+        "law enforcement",
+        "surveillance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 00:21:57 +0000",
+      "processed_at": "2026-10-05T23:06:38.123576+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
+      "title": "Disrupt 2026 Layoff Expo+ Passes Available for $75 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is offering a $75 Layoff Expo+ Pass to the first 100 people who were laid off, valid until the conference opens on Oct. 13. The pass gives access to the Expo Hall and networking opportunities with 10,000+ founders, investors, and tech leaders in San Francisco’s Moscone West. It excludes industry stages and roundtable sessions, but attendees can still use the app’s AI matchmaking to set up meetings. The offer ends once all 100 passes are claimed or the doors open, encouraging displaced workers to reconnect with the startup ecosystem.",
+      "key_points": [
+        "First 100 laid‑off workers can buy a $75 pass before Oct. 13",
+        "Pass grants entry to the Expo Hall and networking tools but not stage sessions",
+        "The conference hosts over 10,000 attendees, including founders, investors, and tech leaders",
+        "Passes are limited; after 100 are sold or doors open, the offer ends"
+      ],
+      "topics": [
+        "tech events",
+        "job market",
+        "networking",
+        "startup ecosystem",
+        "conference discounts"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "processed_at": "2026-10-05T23:06:37.891359+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-01-one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/elon-tesla-getty.jpg?resize=1200,799",
@@ -2346,129 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 10:00:00 +0000",
       "processed_at": "2026-09-29T21:20:47.954954+00:00"
-    },
-    {
-      "id": "s-techcrunch-com-2026-09-28-anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
-      "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI could end humanity | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Anthropic’s IPO prospectus, released ahead of its anticipated $2 trillion listing, devotes a third of its pages to risk factors, including the possibility that its models could resist shutdown, conceal information, or even blackmail users.  The filing shows a 2025 operating loss of more than $8 billion against a 12‑fold revenue jump to nearly $4.6 billion, while the company plans to spend $518 billion on cloud and infrastructure in the coming years.  CEO Dario Amodei has publicly warned that AI could threaten humanity, a stance echoed by rivals such as Sam Altman and Elon Musk, and Anthropic’s second‑quarter 2026 revenue already hit $11.5 billion, putting it on track for a second straight adjusted‑profit quarter.  The disclosures, including a first‑time mention of “existential risks to humanity,” highlight the tension between rapid growth and safety concerns in the AI industry.",
-      "key_points": [
-        "Anthropic’s IPO prospectus highlights existential risks and a heavy focus on risk factors, including model behaviors that could threaten safety.",
-        "The company posted a >$8 billion operating loss in 2025 but saw revenue rise to $4.6 billion, and it plans to spend $518 billion on cloud and infrastructure.",
-        "CEO Dario Amodei has warned that AI could end humanity, a view supported by other industry leaders such as Sam Altman and Elon Musk.",
-        "Anthropic’s Q2 2026 revenue reached $11.5 billion, and the firm is on track for a second consecutive adjusted‑profit quarter."
-      ],
-      "topics": [
-        "ai",
-        "ipo",
-        "risk",
-        "technology",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 05:13:43 +0000",
-      "processed_at": "2026-09-29T21:21:06.543369+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Peak XV Partners has raised the seed‑stage investment ceiling for its Surge platform to $5 million per company, unveiling Surge 12, a cohort of 18 startups. The firm invested more than $50 million across the cohort, while the companies collectively have raised over $90 million in seed funding, reflecting a shift toward larger, capital‑intensive deep‑tech ventures. Surge 12 spans a wide range of sectors—including AI, robotics, space, fintech, and consumer products—and features founders from San Francisco to Sydney, with a strong representation of experienced operators and repeat entrepreneurs. The move signals Peak XV’s intent to support more ambitious early‑stage companies as they prepare for larger Series A rounds.\n",
-      "key_points": [
-        "Surge 12 cohort of 18 startups with a new $5 million investment ceiling per company",
-        "Peak XV invested $50 million in the cohort, while the startups have raised $90 million in seed funding",
-        "The cohort focuses on deep‑tech and includes founders with significant operating experience",
-        "Startups cover diverse sectors such as AI, robotics, space, fintech, and consumer products"
-      ],
-      "topics": [
-        "venture capital",
-        "seed funding",
-        "deep tech",
-        "global startups",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "processed_at": "2026-09-29T21:20:48.191741+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800",
-      "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2 billion | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "AMD announced it will acquire World Labs for $8.2 billion, bringing Fei‑Fei Li on board as executive vice president and chief scientist. The deal is intended to embed World Labs’ physics‑grounded deep‑learning models—known as world models—into AMD’s chip roadmap and help the company compete with Nvidia’s AI‑specific hardware ecosystem. World Labs’ first product, Marble, is a tool for creating entertainment experiences and synthetic training environments for robots. The acquisition is expected to close before year‑end, pending regulatory approval.",
-      "key_points": [
-        "AMD pays $8.2 billion to acquire World Labs, led by Fei‑Fei Li",
-        "The acquisition aims to integrate world‑model AI into AMD’s hardware roadmap",
-        "World Labs’ Marble tool targets entertainment and robot training environments",
-        "The deal positions AMD to compete with Nvidia’s world‑model ecosystem"
-      ],
-      "topics": [
-        "ai",
-        "chipmakers",
-        "acquisition",
-        "robotics",
-        "world-models"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 20:39:33 +0000",
-      "processed_at": "2026-09-29T16:58:00.870605+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-shopify-opens-checkout-to-browser-based-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
-      "title": "Shopify opens checkout to browser-based AI agents | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Shopify has expanded its WebMCP support to include checkout, allowing browser‑based AI agents to read, update, and submit purchases on merchants’ sites. The new tools—get_checkout, update_checkout, and complete_checkout—enable agents to inspect checkout details, modify address or delivery options, and place orders with buyer authorization. This feature is rolling out to all eligible Shopify merchants and is already partnered with top agents such as Muse and Instinct. The move positions Shopify as a leader in agentic commerce, contrasting with retailers like Amazon that block AI‑driven purchases.",
-      "key_points": [
-        "Shopify now lets browser‑based AI agents complete checkout on its platform using WebMCP tools.",
-        "The update introduces get_checkout, update_checkout, and complete_checkout APIs for structured checkout interactions.",
-        "The feature is available to all eligible merchants and is already integrated with agents like Muse and Instinct."
-      ],
-      "topics": [
-        "ai",
-        "ecommerce",
-        "shopify",
-        "webmcp",
-        "agentic commerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 19:33:57 +0000",
-      "processed_at": "2026-09-29T16:57:57.516181+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-28-tesla-delays-roadster-2-event-again-due-to-bad-weather",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
-      "title": "Tesla delays Roadster 2 event again due to bad weather | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Tesla has postponed the unveiling of its second‑generation Roadster to October 15, 2024, citing severe weather forecasts that would affect the outdoor event in Waco, Texas. The delay follows a history of rescheduling, with the company previously pushing the reveal to April Fools’ Day and then to October 1. The Roadster is notable for its planned integration of SpaceX cold‑gas thrusters that could enable limited flight, a feature that has kept the project in the spotlight. Musk has indicated that even after the reveal, production could still take a year or more, keeping the supercar’s launch timeline uncertain.",
-      "key_points": [
-        "Tesla rescheduled the Roadster 2 reveal to October 15 due to severe weather.",
-        "The event must be outdoors because of planned SpaceX thrusters that could allow the car to fly.",
-        "The Roadster has faced multiple delays and remains a high‑profile, speculative project."
-      ],
-      "topics": [
-        "tesla",
-        "roadster",
-        "spacex",
-        "electric vehicles",
-        "automotive"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 19:27:27 +0000",
-      "processed_at": "2026-09-29T16:58:14.380186+00:00"
     }
   ]
 }

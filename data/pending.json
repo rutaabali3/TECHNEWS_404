@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T16:56:49.818530+00:00",
+  "updated_at": "2026-10-05T23:06:36.594563+00:00",
   "items": [
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -18,36 +18,6 @@
       "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
       "feed_excerpt": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
       "published": "Fri, 02 Oct 2026 13:39:23 +0000"
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "feed_excerpt": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "published": "Fri, 02 Oct 2026 19:15:51 +0000"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "feed_excerpt": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "published": "Sat, 03 Oct 2026 00:45:39 +0000"
-    },
-    {
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "feed_excerpt": "The proposed legislation would extend to all automotica license plate readers.",
-      "published": "Sat, 03 Oct 2026 00:21:57 +0000"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "feed_excerpt": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000"
-    },
-    {
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "feed_excerpt": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-      "published": "Sat, 03 Oct 2026 15:02:01 +0000"
     },
     {
       "title": "Vessev built an electric ferry that almost flies",
@@ -156,7 +126,67 @@
       "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
       "feed_excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
       "published": "Mon, 05 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "feed_excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "published": "Mon, 05 Oct 2026 21:54:01 +0000"
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "feed_excerpt": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "published": "Mon, 05 Oct 2026 20:36:48 +0000"
+    },
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "feed_excerpt": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "published": "Mon, 05 Oct 2026 20:24:09 +0000"
+    },
+    {
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "feed_excerpt": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "published": "Mon, 05 Oct 2026 19:38:07 +0000"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "feed_excerpt": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "published": "Mon, 05 Oct 2026 19:33:53 +0000"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "feed_excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "published": "Mon, 05 Oct 2026 18:54:30 +0000"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "feed_excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "published": "Mon, 05 Oct 2026 18:29:00 +0000"
+    },
+    {
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "feed_excerpt": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "published": "Mon, 05 Oct 2026 18:07:07 +0000"
+    },
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "feed_excerpt": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "published": "Mon, 05 Oct 2026 17:29:22 +0000"
+    },
+    {
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "feed_excerpt": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+      "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     }
   ],
-  "last_processed_at": "2026-10-05T16:57:09.026185+00:00"
+  "last_processed_at": "2026-10-05T23:07:04.557019+00:00"
 }
