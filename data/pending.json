@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T03:13:57.969449+00:00",
+  "updated_at": "2026-10-06T10:40:19.068758+00:00",
   "items": [
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -36,24 +36,6 @@
       "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
       "feed_excerpt": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
       "published": "Sat, 03 Oct 2026 19:33:15 +0000"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "feed_excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000"
-    },
-    {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "Sun, 04 Oct 2026 16:05:00 +0000"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "feed_excerpt": "AI slop seems to be overwhelming bug bounty programs.",
-      "published": "Sun, 04 Oct 2026 20:31:07 +0000"
     },
     {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
@@ -176,5 +158,5 @@
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     }
   ],
-  "last_processed_at": "2026-10-06T03:13:59.523898+00:00"
+  "last_processed_at": "2026-10-06T10:40:22.472961+00:00"
 }
