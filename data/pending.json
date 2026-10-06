@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-06T17:04:42.141256+00:00",
+  "updated_at": "2026-10-06T21:49:04.503041+00:00",
   "items": [
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "feed_excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "published": "Thu, 01 Oct 2026 21:08:11 +0000"
-    },
     {
       "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
       "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
       "feed_excerpt": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
       "published": "Fri, 02 Oct 2026 15:31:20 +0000"
-    },
-    {
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "feed_excerpt": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-      "published": "Fri, 02 Oct 2026 13:39:23 +0000"
     },
     {
       "title": "Vessev built an electric ferry that almost flies",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "published": "Mon, 05 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Hackers steal 8 million citizens’ records from Danish government database",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "feed_excerpt": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
-      "published": "Mon, 05 Oct 2026 14:58:42 +0000"
     },
     {
       "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
@@ -240,7 +222,43 @@
       "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
       "feed_excerpt": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
       "published": "Tue, 06 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "feed_excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "published": "Tue, 06 Oct 2026 20:47:01 +0000"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "feed_excerpt": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "published": "Tue, 06 Oct 2026 20:35:20 +0000"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "feed_excerpt": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "published": "Tue, 06 Oct 2026 20:00:30 +0000"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "feed_excerpt": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "published": "Tue, 06 Oct 2026 19:56:50 +0000"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "feed_excerpt": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "published": "Tue, 06 Oct 2026 18:22:45 +0000"
+    },
+    {
+      "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "feed_excerpt": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+      "published": "Tue, 06 Oct 2026 17:14:07 +0000"
     }
   ],
-  "last_processed_at": "2026-10-06T17:05:02.825854+00:00"
+  "last_processed_at": "2026-10-06T21:49:08.307109+00:00"
 }

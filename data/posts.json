@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-06T17:05:07.103983+00:00",
+  "updated_at": "2026-10-06T21:49:26.588198+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-01-musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+      "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "In December 2025, former President Trump met with Elon Musk and spent hours conversing with Musk’s AI chatbot Grok, which told him that Venezuelan President Nicolás Maduro was a deeply unpopular dictator and that many citizens would celebrate his removal. The chatbot’s assessment came just months before the U.S. launched a military operation on January 3 2026 that captured Maduro, a move Trump reportedly praised as \"ingenious.\" The incident highlights Grok’s growing influence in U.S. policy circles, as the Pentagon has also begun using a Grok‑based system, Grok Gov, to plan and execute strikes during the Iran war. The story underscores the increasing role of private AI tools in shaping military and political decisions under the current administration.",
+      "key_points": [
+        "Trump used Grok to gauge Venezuelan reaction to a planned invasion that later succeeded",
+        "Grok’s prediction that Maduro was unpopular matched the U.S. military outcome, boosting Trump’s confidence in the AI",
+        "The Pentagon has adopted Grok Gov for targeting in the Iran war, indicating broader military use of Musk’s AI"
+      ],
+      "topics": [
+        "ai",
+        "military",
+        "politics",
+        "venezuela",
+        "trump"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
+      "processed_at": "2026-10-06T21:49:08.306998+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-hackers-steal-8-million-citizens-records-from-danish-government-database",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/denmark-2267724822.jpg?w=1000",
+      "title": "Hackers steal 8 million citizens' records from Danish government database | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The Danish government confirmed that its Central Person Register (CPR) was breached in September, with hackers stealing data on roughly 8 million citizens and residents, including those abroad and deceased. The stolen information includes names, addresses, Danish social‑security numbers and other personal details, making it the largest data breach in Denmark’s history. Authorities say the attackers abused a Danish company’s lawful access to the CPR system, though the perpetrators remain unidentified. The incident underscores the vulnerability of national identity databases and raises concerns about privacy and security for millions of people.",
+      "key_points": [
+        "8 million records, including names, addresses and social‑security numbers, were stolen from Denmark’s CPR database",
+        "Hackers exploited a Danish company’s lawful access to the CPR system to obtain the data",
+        "The breach is the largest in Denmark’s history and follows similar attacks on national identity databases worldwide",
+        "Perpetrators have not been identified and the incident highlights the need for stronger safeguards for government databases"
+      ],
+      "topics": [
+        "data breach",
+        "government database",
+        "cybersecurity",
+        "identity theft",
+        "denmark"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 14:58:42 +0000",
+      "processed_at": "2026-10-06T21:49:05.908020+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-02-tesla-sustains-its-ev-sales-momentum-despite-us-troubles",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1246103921.jpg?resize=1200,789",
+      "title": "Tesla sustains its EV sales momentum despite US troubles | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla delivered more than 480,000 electric vehicles in the third quarter, surpassing Wall Street forecasts and its own optimistic estimates, even as U.S. sales fell about 20% year‑over‑year. The company offset the domestic decline with a rebound in Europe and China, expanding production capacity at its German plant to meet growing demand. Meanwhile, CEO Elon Musk has shifted focus to new ventures such as the Cybercab, the Tesla Semi, a re‑revealed Roadster, and the Optimus humanoid robot, all backed by a newly secured $30 billion line of credit.",
+      "key_points": [
+        "Q3 sales exceeded 480,000 vehicles, beating consensus forecasts",
+        "U.S. sales dropped roughly 20% YoY, prompting a shift to international markets",
+        "Tesla is expanding its German factory to capture rising European demand",
+        "The company secured up to $30 billion in credit to fund future projects"
+      ],
+      "topics": [
+        "tesla",
+        "ev sales",
+        "global markets",
+        "new projects",
+        "financing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 02 Oct 2026 13:39:23 +0000",
+      "processed_at": "2026-10-06T21:49:06.040947+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-03-federal-judge-calls-flock-indiscriminate-mass-surveillance",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
@@ -2396,81 +2470,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 19:52:37 +0000",
       "processed_at": "2026-09-30T12:55:00.064051+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "title": "Here's why OpenAI is absent from Nvidia's industry-wide effort to end rogue AI agents | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Nvidia has announced a new consortium of more than 100 companies to tackle rogue AI agents, but OpenAI is notably absent from the sign‑ups, even though it has expressed support for the effort. The initiative, called the Open Agent Safety Platform, relies on Nvidia’s open‑source sandbox OpenShell and a proprietary hardware monitor called Sentry that runs on Nvidia processors. OpenAI is collaborating on OpenShell but has chosen not to commit to the full platform, citing the proprietary hardware requirement and its own independent safety programs such as the Defense Factory. The move underscores OpenAI’s desire to maintain autonomy in AI safety while still engaging with Nvidia’s technology.\n",
-      "key_points": [
-        "Nvidia’s Open Agent Safety Platform gathers 100+ firms but excludes OpenAI, Amazon, Google, and Apple.",
-        "OpenAI works on the OpenShell sandbox but avoids the platform’s proprietary hardware component.",
-        "OpenAI maintains its own safety initiatives, including the Defense Factory consortium.",
-        "Nvidia’s hardware‑centric approach limits the platform’s appeal to non‑Nvidia ecosystems."
-      ],
-      "topics": [
-        "ai safety",
-        "nvidia",
-        "openai",
-        "consortium",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 18:35:00 +0000",
-      "processed_at": "2026-09-30T12:54:50.359640+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Instinct’s founder Noah Shinn revealed that more than half of the platform’s transactions are travel bookings and that the invite‑only service is approaching a billion dollars in annual transaction volume, growing roughly 10% day‑to‑day. The company just closed a $1 billion Series C round at a $10 billion valuation led by Sequoia, Benchmark and Coatue, positioning it as a major player in the personal‑assistant market. Shinn highlighted Instinct’s unified interface for hotels, airlines and restaurants, and its real‑time reservation checks that aim to improve user experience over traditional booking sites. Instinct now competes directly with Meta’s Muse and Khosla‑backed Wajo in the emerging AI‑powered agent space.",
-      "key_points": [
-        "Instinct’s agent handles over 50% of its transactions, primarily for travel.",
-        "The platform is nearing $1 billion in annual transaction volume and grows about 10% daily.",
-        "It secured $1 billion Series C funding at a $10 billion valuation from Sequoia, Benchmark and Coatue.",
-        "Instinct competes with Meta’s Muse and Khosla-backed Wajo in the personal‑assistant market."
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "fintech",
-        "traveltech",
-        "valuation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 15:12:07 +0000",
-      "processed_at": "2026-09-30T06:25:18.151958+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1362873121.jpg?resize=1200,800",
-      "title": "After losing his voice to cancer, this founder is building 'glasses for voice' | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Konrad Zieliński, who lost his voice to cancer, founded Uhura Bionics to create a non‑invasive, emotion‑rich voice prosthesis that he calls \"glasses for voice.\" The startup offers a basic model for $500 and a high‑end version called Whitney for $1,500, and is working to obtain Class I medical device status in Europe and the U.S. to enable insurance reimbursement. Zieliński estimates a $2 billion market for laryngectomee devices and plans to showcase Whitney at TechCrunch Disrupt 2026 and SF Tech Week, where he will even sing onstage using the device. Competitors include Atos Medical and Laronix, but Uhura aims to bring a more natural, personalized speaking experience to users worldwide.",
-      "key_points": [
-        "Founder Konrad Zieliński lost his voice to cancer and now builds a non‑invasive voice prosthesis called \"glasses for voice.\"",
-        "Uhura Bionics sells a basic model for $500 and a high‑end Whitney for $1,500, seeking medical device classification for insurance coverage.",
-        "The company targets a $2 billion market for laryngectomee devices and plans to demonstrate Whitney at TechCrunch Disrupt 2026 and SF Tech Week.",
-        "Competitors include Atos Medical and Laronix, but Uhura focuses on emotional, personalized speech output."
-      ],
-      "topics": [
-        "voice prosthesis",
-        "bionic devices",
-        "tech startups",
-        "healthtech",
-        "medical devices"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-30T06:25:18.612663+00:00"
     }
   ]
 }
