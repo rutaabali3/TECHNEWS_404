@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:40:19.068758+00:00",
+  "updated_at": "2026-10-06T17:04:42.141256+00:00",
   "items": [
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -26,18 +26,6 @@
       "published": "Sat, 03 Oct 2026 14:42:00 +0000"
     },
     {
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "feed_excerpt": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "feed_excerpt": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-      "published": "Sat, 03 Oct 2026 19:33:15 +0000"
-    },
-    {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
       "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "feed_excerpt": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
       "feed_excerpt": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
       "published": "Mon, 05 Oct 2026 16:43:35 +0000"
-    },
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "feed_excerpt": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000"
     },
     {
       "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
@@ -156,7 +138,109 @@
       "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
       "feed_excerpt": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "feed_excerpt": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "published": "Tue, 06 Oct 2026 16:35:00 +0000"
+    },
+    {
+      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+      "feed_excerpt": "The storied Silicon Valley firm makes its first pure defense investment.",
+      "published": "Tue, 06 Oct 2026 16:29:12 +0000"
+    },
+    {
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+      "feed_excerpt": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they've navigated crucial decisions.",
+      "published": "Tue, 06 Oct 2026 16:18:45 +0000"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "feed_excerpt": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "feed_excerpt": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "published": "Tue, 06 Oct 2026 15:25:00 +0000"
+    },
+    {
+      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+      "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+      "feed_excerpt": "Wajo's Fo agent can hire humans to complete a task.",
+      "published": "Tue, 06 Oct 2026 15:15:00 +0000"
+    },
+    {
+      "title": "Bluesky wants to give you your own domain on the open web",
+      "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+      "feed_excerpt": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "published": "Tue, 06 Oct 2026 14:41:52 +0000"
+    },
+    {
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "feed_excerpt": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "published": "Tue, 06 Oct 2026 14:37:31 +0000"
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "feed_excerpt": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "published": "Tue, 06 Oct 2026 14:33:16 +0000"
+    },
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "feed_excerpt": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "published": "Tue, 06 Oct 2026 14:00:49 +0000"
+    },
+    {
+      "title": "Uber is spending $2.3B to get into catering",
+      "url": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+      "feed_excerpt": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
+      "published": "Tue, 06 Oct 2026 14:00:25 +0000"
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "feed_excerpt": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+      "feed_excerpt": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+      "published": "Tue, 06 Oct 2026 13:57:32 +0000"
+    },
+    {
+      "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
+      "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+      "feed_excerpt": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
+      "published": "Tue, 06 Oct 2026 13:15:00 +0000"
+    },
+    {
+      "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "feed_excerpt": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
+      "published": "Tue, 06 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Facebook tests going Reels-first in India",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "feed_excerpt": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "published": "Tue, 06 Oct 2026 12:38:53 +0000"
+    },
+    {
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "feed_excerpt": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+      "published": "Tue, 06 Oct 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-06T10:40:22.472961+00:00"
+  "last_processed_at": "2026-10-06T17:05:02.825854+00:00"
 }

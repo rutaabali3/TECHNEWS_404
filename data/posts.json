@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-06T10:40:38.829125+00:00",
+  "updated_at": "2026-10-06T17:05:07.103983+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-03-federal-judge-calls-flock-indiscriminate-mass-surveillance",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’ | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "A federal judge in Tulsa ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights by searching the Flock Safety database for her license plate without a warrant, deeming the search unconstitutional and ordering that all evidence obtained thereafter be suppressed as the fruit of a poisonous tree. Judge Sara Hill criticized Flock as a tool for indiscriminate mass surveillance, noting that it passively catalogs every vehicle’s location and can be accessed by law enforcement at any time. The decision joins a growing chorus of critics, with states like Florida and Texas announcing they will stop using the technology and Senator Bernie Sanders introducing the Block Flock Act to bar federal agencies from using automated license plate readers. Flock’s CEO, Garrett Langley, has apologized to victims and the company has reportedly offered voluntary buyouts amid cancellations of its services.",
+      "key_points": [
+        "Judge Sara Hill ruled that a warrant was required before searching the Flock database, and that evidence obtained after the search must be suppressed as the fruit of a poisonous tree.",
+        "The ruling labeled Flock a form of indiscriminate mass surveillance, arguing that passive, continuous location tracking for law‑enforcement use is constitutionally problematic.",
+        "State governments such as Florida and Texas have announced they will discontinue use of Flock, and Senator Bernie Sanders has introduced the Block Flock Act to prohibit federal use of automated license‑plate readers.",
+        "Flock CEO Garrett Langley apologized to victims and the company has offered voluntary employee buyouts as it faces growing cancellations."
+      ],
+      "topics": [
+        "law",
+        "privacy",
+        "law enforcement",
+        "technology",
+        "federal court"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 19:33:15 +0000",
+      "processed_at": "2026-10-06T17:04:43.549629+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-03-spotify-billionaires-body-scan-startup-has-come-to-america",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
+      "title": "Spotify billionaire’s body scan startup has come to America | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Neko Health, a body‑scan startup co‑founded by Spotify CEO Daniel Ek and Hjalmar Nilsonne, has just opened its first U.S. location in New York after raising nearly $1 billion and building a waitlist of over 300,000 people. The company offers a one‑hour, $500 scan that uses AI‑powered computer vision to measure 55 biomarkers in blood, skin and metabolism, positioning itself as a low‑cost, accessible preventative‑care solution. Investors like Farooq Abbasi see the technology as a way to address the U.S. healthcare system’s high costs and low preventive‑care uptake, while the firm plans rapid expansion across the country. Neko still faces significant scaling and regulatory challenges, but its founders remain optimistic about attracting further venture capital and transforming preventive medicine.",
+      "key_points": [
+        "Neko Health, co‑founded by Spotify CEO Daniel Ek, offers a $500 AI‑driven body scan measuring 55 biomarkers",
+        "The startup has raised nearly $1 billion, has a waitlist of 300,000+ and just opened a New York clinic",
+        "It aims to make preventative care affordable and accessible in the U.S., targeting rapid expansion",
+        "Scaling and regulatory approval remain major hurdles for the company"
+      ],
+      "topics": [
+        "healthtech",
+        "preventative medicine",
+        "ai",
+        "spotify",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-06T17:05:02.825751+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-openai-launches-visual-ads-that-appear-alongside-image-generation-results",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+      "title": "OpenAI launches visual ads that appear alongside image generation results | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI is rolling out visual display ads that will appear alongside images generated by ChatGPT, beginning this month in the United States with a limited test group of advertisers. The ads will be clearly labeled and will not influence the model’s responses, while OpenAI expands its measurement tools and partner ecosystem to include click attribution and brand‑suitability solutions. The company aims to monetize its free and low‑cost subscription tiers and eventually reach its 1.2 billion weekly users worldwide. The move could alter the user experience and may encourage casual users to upgrade to paid plans to avoid ads.",
+      "key_points": [
+        "Visual ads will appear next to image generation results in ChatGPT, starting in the U.S. this month.",
+        "The ads are labeled, do not affect ChatGPT answers, and are part of a test group of advertisers.",
+        "OpenAI is expanding measurement and brand‑suitability partnerships, including click attribution and geo‑based experiments.",
+        "The strategy is to monetize free and low‑cost plans and eventually target all 1.2 billion weekly users globally."
+      ],
+      "topics": [
+        "adtech",
+        "openai",
+        "chatgpt",
+        "ai",
+        "advertising"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
+      "processed_at": "2026-10-06T17:04:43.432783+00:00"
+    },
     {
       "id": "ps-techcrunch-com-2026-10-04-google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
@@ -2396,81 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 15:00:00 +0000",
       "processed_at": "2026-09-30T06:25:18.612663+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-meta-is-expanding-its-ai-agent-muse-to-small-businesses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GTM_Connectors_16x9-1.png?resize=1200,675",
-      "title": "Meta is expanding its AI agent Muse to small businesses | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Meta has expanded its AI agent Muse to serve small businesses, adding integrations with Shopify, Dropbox, Slack, Asana, QuickBooks, and more to embed AI into the tools owners already use. The free tier offers limited usage, while a subscription unlocks higher capacity, positioning Muse as a practical assistant for sales, operations, and marketing. This rollout follows the launch of Meta’s Enterprise Platform, a broader initiative to bring AI tools like Muse, Meta Business Agent, and Muse API to corporate customers, led by MongoDB CEO Chirantan Desai. Muse’s debut earlier this month topped U.S. and Canadian app charts, surpassing ChatGPT in downloads.",
-      "key_points": [
-        "Muse now supports small businesses with integrations such as Shopify, Dropbox, Slack, Asana, and QuickBooks",
-        "The free tier has usage limits; a subscription plan offers higher capacity",
-        "Meta’s Enterprise Platform, led by MongoDB CEO Chirantan Desai, aims to bring AI tools to enterprises",
-        "Muse topped U.S. and Canadian app charts ahead of ChatGPT after its launch"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "small business",
-        "muse",
-        "enterprise"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 13:47:30 +0000",
-      "processed_at": "2026-09-30T06:25:44.401791+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-fireflies-adds-dictation-to-its-desktop-notetaking-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1009981950.jpg?resize=1200,801",
-      "title": "Fireflies adds dictation to its desktop notetaking apps | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Fireflies.ai has launched a new dictation feature called Fireflies Talk for its Mac and Windows desktop apps, allowing users to speak into any application and have their words transcribed in real time. The feature is bundled into existing subscription plans, with no separate fee, and the company states it does not keep recordings, storing transcripts only locally. CEO Krish Ramineni says the goal is to make Fireflies an AI teammate that works across email, Slack, documents, and other daily tools, not just meetings. This expansion follows similar moves by competitors such as Wispr and Speechify, positioning Fireflies as a broader productivity assistant.",
-      "key_points": [
-        "Fireflies introduces Fireflies Talk, a dictation tool that works across any desktop app via a keyboard shortcut",
-        "The feature is included in current subscription plans and does not store recordings, keeping transcripts locally",
-        "CEO envisions Fireflies as an AI teammate beyond meetings, integrating into email, Slack, docs, and other workflows",
-        "The move aligns with competitors like Wispr and Speechify, expanding the market for AI-powered dictation"
-      ],
-      "topics": [
-        "voice ai",
-        "dictation",
-        "productivity",
-        "ai assistants",
-        "software"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-09-30T06:25:18.316661+00:00"
-    },
-    {
-      "id": "wealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
-      "title": "CFS' Brandon Sorbom and Helion’s David Kirtley join Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Commonwealth Fusion Systems and Helion will headline a session at TechCrunch Disrupt 2026, where their leaders will discuss how their fusion projects—CFS’s SPARC and ARC and Helion’s Orion—are moving toward commercial power generation. CFS, which raised $1 billion in July to bring its total funding to $4 billion, has already applied to the PJM Interconnection and is targeting a 50‑megawatt ARC plant. Helion, which closed a $500 million Series G round in September, plans to supply 50 MW of electricity to Microsoft by 2028 after reaching 150 million‑degree plasma in its Polaris prototype. The session will explore the technical and regulatory hurdles that must be overcome to deliver fusion electricity to the grid at scale.",
-      "key_points": [
-        "CFS and Helion will present at Disrupt 2026 on bringing fusion power to the grid.",
-        "CFS’s SPARC is a demonstration machine aimed at a 50‑MW ARC plant, and the company has raised $4 billion total.",
-        "Helion’s Orion is a 50‑MW plant slated to supply Microsoft by 2028, after achieving 150 million‑degree plasma in its Polaris prototype.",
-        "Both companies face technical and regulatory challenges before fusion can be commercially deployed."
-      ],
-      "topics": [
-        "fusion",
-        "energy",
-        "techconference",
-        "startup",
-        "cleanenergy"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "processed_at": "2026-09-30T06:25:18.480563+00:00"
     }
   ]
 }
