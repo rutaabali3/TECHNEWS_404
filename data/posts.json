@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-05T23:07:04.558202+00:00",
+  "updated_at": "2026-10-06T03:14:20.013110+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-04-trump-unveils-his-new-super-intelligence-force",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "title": "Trump unveils his new Super Intelligence Force | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "President Donald Trump announced the creation of a new Super Intelligence Force, a task force aimed at ensuring the United States remains a global leader in what he calls \"super intelligence,\" a term he uses to rebrand artificial intelligence. The force will be chaired by National Intelligence Director Jay Clayton, with Vice Chairs including FTC Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and OPM Director Scott Kupor. Within 120 days the task force is expected to deliver a report outlining the risks and opportunities of AI, while balancing the need to avoid overregulation and maintain competitive innovation. The initiative reflects Trump’s broader strategy to keep the U.S. ahead of rivals such as China in the emerging AI landscape.",
+      "key_points": [
+        "President Trump has formed a Super Intelligence Force chaired by Jay Clayton to coordinate federal AI strategy",
+        "The task force must produce a 120‑day report on AI risks and opportunities",
+        "The initiative rebrands AI as \"super intelligence\" to emphasize its strategic importance",
+        "Vice Chairs include FTC Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and OPM Director Scott Kupor"
+      ],
+      "topics": [
+        "technology",
+        "artificial intelligence",
+        "government",
+        "policy",
+        "superintelligence"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 04 Oct 2026 15:15:10 +0000",
+      "processed_at": "2026-10-06T03:13:59.149318+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-03-all-the-ai-agents-that-can-live-in-your-text-messages",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "title": "All the AI agents that can live in your text messages | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "TechCrunch reports on a wave of AI agents that operate directly through text messaging, eliminating the need for separate apps. The article highlights Instinct, which recently raised $1 billion to reach a $10 billion valuation, and other players such as Caddy, Fambot, and Folk that integrate with iMessage, RCS, and popular messaging platforms to schedule appointments, manage calendars, and perform real‑world tasks. These agents can remember context, connect to existing services, and even run code on private cloud infrastructure, offering users a seamless, hands‑free experience. While the convenience is clear, the growing autonomy of these assistants raises privacy and security concerns, especially as some provide dedicated email addresses and call‑making capabilities.",
+      "key_points": [
+        "Instinct raised $1 billion in September 2026, valuing it at $10 billion",
+        "Caddy has been in public beta since April 2026 and works within iMessage and RCS",
+        "Fambot offers family‑centric scheduling via SMS and connects to Gmail, Google Calendar, Outlook, and WhatsApp",
+        "Folk runs on a private cloud, can execute multi‑step tasks, and offers a $8.33/month Pro plan"
+      ],
+      "topics": [
+        "ai",
+        "messaging",
+        "assistant",
+        "startup",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-06T03:13:59.523807+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-03-openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
@@ -2421,56 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 12:45:05 +0000",
       "processed_at": "2026-09-30T00:41:36.225036+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
-      "title": "Can a chatbot fix the government maze? The White House is about to find out | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "President Donald Trump announced the launch of America.gov, an AI chatbot designed to streamline access to government services and information. The project partners with Google, which will power the chatbot with its Gemini model, though it is unclear whether other AI firms are involved. While the initiative aims to reduce the complexity of navigating thousands of government websites, experts warn that large language models can hallucinate, potentially leading to costly mistakes for users seeking benefits or filing taxes. The White House’s experiment will test whether an AI front door can effectively replace the current bureaucratic maze.",
-      "key_points": [
-        "White House launches America.gov chatbot powered by Google Gemini",
-        "Goal is to simplify navigation of government services for citizens",
-        "Large language models risk hallucinations that could cause serious errors",
-        "Other AI partners beyond Google remain unspecified"
-      ],
-      "topics": [
-        "government",
-        "ai",
-        "chatbot",
-        "policy",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 16:55:56 +0000",
-      "processed_at": "2026-09-29T21:20:54.209006+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
-      "title": "Protego Ventures closes debut $125M fund for Israeli defense tech | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Protego Ventures, a two‑year‑old Israeli firm led by Lital Leshem and Lee Moser, has closed its debut fund at $125 million, positioning itself as the country’s first and largest dedicated defense‑tech venture capital fund. The capital will allow the firm to invest $5‑15 million in startups that address Israel’s and the global community’s critical security needs, with its first portfolio company, drone maker XTEND, already going public on the NYSE. Backed by executives from Ares Management and other institutional investors, Protego’s strategy is shaped by the heightened demand for advanced defense technologies following the October 7, 2023 Hamas attacks. The firm plans a second fund in early 2027, expanding its focus to early‑growth U.S. defense tech companies while maintaining a strong presence in the Israeli market.\n",
-      "key_points": [
-        "Protego Ventures closed a $125 million debut fund, the largest dedicated defense‑tech VC in Israel",
-        "The fund will make $5‑15 million investments in startups addressing Israel’s and global security needs",
-        "Its first portfolio company, XTEND, has already gone public on the NYSE",
-        "Protego plans a second fund in early 2027 to include early‑growth U.S. defense tech firms"
-      ],
-      "topics": [
-        "defense tech",
-        "venture capital",
-        "israel",
-        "startups",
-        "women-led"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 10:00:00 +0000",
-      "processed_at": "2026-09-29T21:20:47.954954+00:00"
     }
   ]
 }
