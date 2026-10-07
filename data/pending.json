@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-06T21:49:04.503041+00:00",
+  "updated_at": "2026-10-07T01:16:03.604846+00:00",
   "items": [
-    {
-      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-      "feed_excerpt": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-      "published": "Fri, 02 Oct 2026 15:31:20 +0000"
-    },
     {
       "title": "Vessev built an electric ferry that almost flies",
       "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
       "feed_excerpt": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
       "published": "Sat, 03 Oct 2026 14:42:00 +0000"
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "feed_excerpt": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "published": "Sun, 04 Oct 2026 20:08:34 +0000"
     },
     {
       "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
@@ -26,22 +14,10 @@
       "published": "Mon, 05 Oct 2026 16:43:35 +0000"
     },
     {
-      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-      "feed_excerpt": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-      "published": "Mon, 05 Oct 2026 15:00:00 +0000"
-    },
-    {
       "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "published": "Mon, 05 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "feed_excerpt": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "published": "Mon, 05 Oct 2026 14:35:09 +0000"
     },
     {
       "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
@@ -54,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
       "feed_excerpt": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
       "published": "Mon, 05 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "feed_excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "published": "Mon, 05 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
@@ -258,7 +228,25 @@
       "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
       "feed_excerpt": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
       "published": "Tue, 06 Oct 2026 17:14:07 +0000"
+    },
+    {
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "feed_excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "published": "Tue, 06 Oct 2026 22:55:39 +0000"
+    },
+    {
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "feed_excerpt": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "published": "Tue, 06 Oct 2026 22:53:09 +0000"
+    },
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "feed_excerpt": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "published": "Tue, 06 Oct 2026 22:34:03 +0000"
     }
   ],
-  "last_processed_at": "2026-10-06T21:49:08.307109+00:00"
+  "last_processed_at": "2026-10-07T01:16:05.314099+00:00"
 }
