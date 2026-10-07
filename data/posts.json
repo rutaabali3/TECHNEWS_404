@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-07T15:19:51.196639+00:00",
+  "updated_at": "2026-10-07T20:43:43.257930+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "unch-com-2026-10-06-learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit on November 4 at Boston’s SoWa Power Station brings together investors, operators, and founders for a full day of sessions on capital, leadership, and product strategy, with a particular focus on AI and market fit. The agenda is structured into three tracks—fundraising, leadership evolution, and building for the future—each featuring talks from industry leaders such as Brian Halligan, Vineet Edupuganti, and Chase Garbarino, who share real‑world frameworks and lessons. Tickets are offered at their lowest price until October 16, with a 50% discount on a second ticket and bundle discounts for groups of four or more, making the event accessible to a wide range of founders. In addition to the talks, roundtable discussions and the Braindate networking app provide opportunities for deeper connections and potential investor outreach.\n",
+      "key_points": [
+        "The summit’s agenda is organized into three tracks—fundraising, leadership, and product strategy—with speakers like Brian Halligan, Vineet Edupuganti, and Chase Garbarino sharing actionable frameworks.",
+        "Tickets are discounted until October 16, with a 50% off second ticket and group bundle options to lower the cost for multiple attendees.",
+        "The event includes networking tools such as roundtables and the Braindate app to facilitate deeper connections between founders and investors.",
+        "The summit focuses heavily on AI integration, market fit validation, and the “King of the Hill” framework for category dominance.\n"
+      ],
+      "topics": [
+        "tech events",
+        "startup funding",
+        "founder summit",
+        "ai",
+        "leadership"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:18:45 +0000",
+      "processed_at": "2026-10-07T20:43:17.918043+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/lucid-gravity-main.jpg?resize=1200,675",
+      "title": "Lucid Motors' EV output falls to lowest level in almost 2 years | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Lucid Motors produced 2,954 EVs in Q3, a 54% drop from a year earlier, marking the lowest quarterly output since Q1 2025. Deliveries were 3,806 units, roughly flat from Q2 and about 200 fewer than Q3 2025, underscoring the company’s difficulty in finding buyers for its luxury models. CEO Silvio Napoli has been trimming the workforce by 1,500 employees, eliminating a second shift, and delaying the Cosmos SUV to cut costs and avoid past mistakes. The slump comes as Rivian shipped nearly 20,000 vehicles in the same quarter, highlighting Lucid’s struggle to compete in the growing EV market.",
+      "key_points": [
+        "Lucid’s Q3 production fell 54% to 2,954 vehicles, the lowest since Q1 2025.",
+        "Deliveries stayed flat at 3,806 units, still below Q3 2025 levels.",
+        "CEO Silvio Napoli is cutting 1,500 staff, removing a second shift, and delaying the Cosmos SUV to achieve $1.4B in cost savings."
+      ],
+      "topics": [
+        "electric vehicles",
+        "luxury cars",
+        "production cuts",
+        "cost savings",
+        "rivalry"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 21:54:01 +0000",
+      "processed_at": "2026-10-07T20:43:17.622603+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-03-vessev-built-an-electric-ferry-that-almost-flies",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
@@ -2421,56 +2470,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 22:18:35 +0000",
       "processed_at": "2026-10-01T15:14:36.923365+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "OpenAI is reportedly negotiating a pre‑IPO funding round of at least $30 billion that would value the company at roughly $1.4 trillion, according to Bloomberg. The move follows a $122 billion raise in March that capped the firm’s last private round at an $852 billion valuation, and comes after a 70 % jump in run‑rate revenue to $40 billion in August driven by a renewed focus on coding tools. CEO Sam Altman has ruled out a 2026 public debut to prioritize AI safety, citing existential risks, so the new capital would act as a bridge to a future IPO. Investors are eager to back the ChatGPT maker ahead of its anticipated market debut next year.",
-      "key_points": [
-        "OpenAI is seeking a $30 billion pre‑IPO round that would value it at about $1.4 trillion",
-        "Run‑rate revenue jumped 70 % to $40 billion in August after refocusing on coding tools",
-        "CEO Sam Altman has postponed a 2026 IPO to focus on AI safety concerns",
-        "The new funding would serve as a bridge round to a future public offering"
-      ],
-      "topics": [
-        "openai",
-        "funding",
-        "valuation",
-        "ai safety",
-        "ipo"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 19:52:37 +0000",
-      "processed_at": "2026-10-01T15:14:22.557080+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-openai-launches-dots-its-bubbly-agentic-avatar",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "OpenAI unveiled Dots, a new personal agentic assistant powered by GPT-6 Astra, at its DevDay event. Dots are independent, always-on agents that run in the background to pursue user-defined goals and can be launched from ChatGPT, Codex, or organizational platforms like Slack and Teams. The service is available to Pro and Business Premium users in eligible markets and can be customized with names, identities, credentials, and tools, including future SMS support. OpenAI plans to expand Dots into specialist roles and integrate them with Microsoft’s Agent 365 security controls, positioning the product as a flexible, background AI companion.",
-      "key_points": [
-        "Dots are independent, always-on agents built on GPT-6 Astra that pursue user-defined goals in the background",
-        "They are available to Pro and Business Premium users in ChatGPT and can be launched from Codex or organizational platforms such as Slack and Teams",
-        "Users can name and customize Dots with identities, credentials, and tools, and SMS support is coming soon",
-        "OpenAI intends to create specialist Dots and integrate them with Microsoft’s Agent 365 security controls"
-      ],
-      "topics": [
-        "openai",
-        "ai",
-        "chatgpt",
-        "agentic",
-        "productlaunch"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 17:17:15 +0000",
-      "processed_at": "2026-10-01T15:14:22.755927+00:00"
     }
   ]
 }

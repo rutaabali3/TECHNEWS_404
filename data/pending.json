@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-07T15:19:17.064743+00:00",
+  "updated_at": "2026-10-07T20:43:16.218943+00:00",
   "items": [
     {
       "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "published": "Mon, 05 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "feed_excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-      "published": "Mon, 05 Oct 2026 21:54:01 +0000"
     },
     {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -48,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
       "feed_excerpt": "The storied Silicon Valley firm makes its first pure defense investment.",
       "published": "Tue, 06 Oct 2026 16:29:12 +0000"
-    },
-    {
-      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-      "feed_excerpt": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they've navigated crucial decisions.",
-      "published": "Tue, 06 Oct 2026 16:18:45 +0000"
     },
     {
       "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
@@ -264,7 +252,55 @@
       "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
       "feed_excerpt": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
       "published": "Wed, 07 Oct 2026 13:45:00 +0000"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "feed_excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "feed_excerpt": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "feed_excerpt": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "published": "Wed, 07 Oct 2026 18:15:28 +0000"
+    },
+    {
+      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+      "feed_excerpt": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+      "published": "Wed, 07 Oct 2026 18:10:00 +0000"
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "feed_excerpt": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "published": "Wed, 07 Oct 2026 18:00:19 +0000"
+    },
+    {
+      "title": "Greenairy is building smart plant towers to clean the air in your office",
+      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+      "feed_excerpt": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+      "published": "Wed, 07 Oct 2026 17:30:00 +0000"
+    },
+    {
+      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
+      "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
+      "feed_excerpt": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+      "published": "Wed, 07 Oct 2026 17:04:46 +0000"
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "feed_excerpt": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "published": "Wed, 07 Oct 2026 16:53:46 +0000"
     }
   ],
-  "last_processed_at": "2026-10-07T15:19:51.195726+00:00"
+  "last_processed_at": "2026-10-07T20:43:17.918135+00:00"
 }
