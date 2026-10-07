@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-07T01:16:03.604846+00:00",
+  "updated_at": "2026-10-07T07:35:50.172692+00:00",
   "items": [
     {
       "title": "Vessev built an electric ferry that almost flies",
       "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
       "feed_excerpt": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
       "published": "Sat, 03 Oct 2026 14:42:00 +0000"
-    },
-    {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "feed_excerpt": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "published": "Mon, 05 Oct 2026 16:43:35 +0000"
     },
     {
       "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
@@ -38,28 +32,10 @@
       "published": "Mon, 05 Oct 2026 21:54:01 +0000"
     },
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "feed_excerpt": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "published": "Mon, 05 Oct 2026 20:36:48 +0000"
-    },
-    {
       "title": "Etched fields funding offers at $40B+ valuation, sources say",
       "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
       "feed_excerpt": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
       "published": "Mon, 05 Oct 2026 20:24:09 +0000"
-    },
-    {
-      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "feed_excerpt": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
-      "published": "Mon, 05 Oct 2026 19:38:07 +0000"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "feed_excerpt": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000"
     },
     {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -246,7 +222,13 @@
       "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "feed_excerpt": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "published": "Tue, 06 Oct 2026 22:34:03 +0000"
+    },
+    {
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "feed_excerpt": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "published": "Wed, 07 Oct 2026 07:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-07T01:16:05.314099+00:00"
+  "last_processed_at": "2026-10-07T07:36:19.135304+00:00"
 }
