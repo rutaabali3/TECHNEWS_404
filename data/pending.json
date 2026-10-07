@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-10-07T07:35:50.172692+00:00",
+  "updated_at": "2026-10-07T15:19:17.064743+00:00",
   "items": [
-    {
-      "title": "Vessev built an electric ferry that almost flies",
-      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-      "feed_excerpt": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
-      "published": "Sat, 03 Oct 2026 14:42:00 +0000"
-    },
     {
       "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "published": "Mon, 05 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-      "published": "Mon, 05 Oct 2026 14:30:00 +0000"
-    },
-    {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "feed_excerpt": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "published": "Mon, 05 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
@@ -32,22 +14,10 @@
       "published": "Mon, 05 Oct 2026 21:54:01 +0000"
     },
     {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "feed_excerpt": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "published": "Mon, 05 Oct 2026 20:24:09 +0000"
-    },
-    {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
       "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "feed_excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
       "published": "Mon, 05 Oct 2026 18:54:30 +0000"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "feed_excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "published": "Mon, 05 Oct 2026 18:29:00 +0000"
     },
     {
       "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
@@ -228,7 +198,73 @@
       "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
       "feed_excerpt": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
       "published": "Wed, 07 Oct 2026 07:00:00 +0000"
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "feed_excerpt": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "published": "Wed, 07 Oct 2026 15:07:08 +0000"
+    },
+    {
+      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "feed_excerpt": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S. based manufacturers, shippers, and more.",
+      "published": "Wed, 07 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+      "feed_excerpt": "Parallel Systems raised $100M to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+      "published": "Wed, 07 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "feed_excerpt": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "published": "Wed, 07 Oct 2026 14:41:38 +0000"
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "feed_excerpt": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "published": "Wed, 07 Oct 2026 14:36:23 +0000"
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "feed_excerpt": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "published": "Wed, 07 Oct 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "published": "Wed, 07 Oct 2026 14:15:00 +0000"
+    },
+    {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "feed_excerpt": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "feed_excerpt": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
+      "url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
+      "feed_excerpt": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+      "feed_excerpt": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+      "published": "Wed, 07 Oct 2026 13:45:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-07T07:36:19.135304+00:00"
+  "last_processed_at": "2026-10-07T15:19:51.195726+00:00"
 }

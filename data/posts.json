@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-10-07T07:36:19.135894+00:00",
+  "updated_at": "2026-10-07T15:19:51.196639+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-03-vessev-built-an-electric-ferry-that-almost-flies",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
+      "title": "Vessev built an electric ferry that almost flies | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Vessev’s 30‑foot VS‑9 electric ferry demonstrated a near‑flying hydrofoil ride in New York’s East River, lifting the hull above the water to cut drag and boost efficiency. The startup builds its own electric motor in-house while sourcing commoditized batteries, and it recently closed a $19 million Series A to scale the technology for urban transit and hospitality markets. Hydrofoils perform best in calm waters—rougher than about 2.5 ft waves—making them ideal for rivers, lakes, and bays rather than the open ocean. Vessev plans to expand production and eventually offer hydrofoil kits so other boatbuilders can adopt the system.",
+      "key_points": [
+        "Vessev’s VS‑9 hydrofoil lifts a 30‑ft ferry above the water, reducing drag and improving electric‑boat efficiency",
+        "The company builds its own electric motor, raised $19 million Series A, and targets urban transit and hotel markets",
+        "Hydrofoils work best in calm waters (≤2.5 ft waves) and are unsuitable for rough open‑ocean conditions",
+        "Future plans include producing hydrofoil kits for other boatbuilders"
+      ],
+      "topics": [
+        "electric boats",
+        "hydrofoil",
+        "urban transit",
+        "startup funding",
+        "sustainable transportation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 03 Oct 2026 14:42:00 +0000",
+      "processed_at": "2026-10-07T15:19:18.954532+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-etched-fields-funding-offers-at-40b-valuation-sources-say",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Etched, the AI‑chip startup that raised $700 million at a $21 billion valuation last month, is now fielding unsolicited offers that could value it at $40 billion to $50 billion. If any of those deals materialize, the company could secure enough capital to run for roughly 3.5 years, according to insiders. The interest stems from Etched’s proprietary chips that reportedly process tokens faster and cheaper than Nvidia’s, a capability that has already attracted high‑profile customers such as Jane Street. With a workforce that includes many former Nvidia engineers and a new 10‑megawatt data center in Silicon Valley, Etched is positioning itself to compete in the high‑cost segment of AI hardware.",
+      "key_points": [
+        "Offers of $40‑$50 billion after a $21 billion round",
+        "Potential 3.5‑year runway if a deal closes",
+        "Chips outperform Nvidia in speed and cost",
+        "Strong customer base including Jane Street and ex‑Nvidia engineers"
+      ],
+      "topics": [
+        "ai chips",
+        "valuation",
+        "venture capital",
+        "hardware",
+        "nvidia"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 20:24:09 +0000",
+      "processed_at": "2026-10-07T15:19:18.980679+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TikTok has introduced an AI‑powered shopping assistant and a one‑click checkout that lets users buy directly from brands within the app. The assistant remembers user preferences and offers real‑time product details, shipping, sizing, and purchase help, while the checkout feature lets users buy from the For You feed with a single tap. By embedding these tools in the main feed, TikTok aims to keep impulse shoppers inside its ecosystem and capture more transaction value, partnering with Salesforce, Shopify, Shoplazza, and Stripe. The move follows TikTok Shop’s recent $15.8 billion U.S. sales in 2025 and the platform’s $81 billion GDP contribution, underscoring its growing influence on social commerce.",
+      "key_points": [
+        "TikTok launches an AI shopping assistant and one‑click checkout within the app",
+        "The features are integrated into the For You feed to keep users shopping inside TikTok",
+        "TikTok partners with Salesforce, Shopify, Shoplazza, and Stripe for commerce and payments",
+        "The launch follows TikTok Shop’s $15.8 billion U.S. sales in 2025 and $81 billion GDP impact"
+      ],
+      "topics": [
+        "tiktok",
+        "ecommerce",
+        "ai",
+        "shopping",
+        "socialcommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+      "processed_at": "2026-10-07T15:19:33.389853+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-05-meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/SB200_Philpot-von-Tobel-Chien-Grayson-Reum.png?resize=1200,675",
+      "title": "The Startup Battlefield 200 judges who’ll decide the winner at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Disrupt 2026 will host the Startup Battlefield competition, where 200 selected startups will compete for a chance to pitch on the main stage, with only 20 finalists chosen to present between October 13 and 15. The five judges—Stacy Brown‑Philpot of Cherryrock Capital, Chi‑Hua Chien of Goodwater Capital, Dayna Grayson of Construct Capital, Carter Reum of M13, and Alexa Von Tobel of Inspired Capital—are all founders or co‑founders of the venture firms they now lead, bringing decades of experience in backing founders and scaling companies. Each judge will decide the champion after the final pitch and will later host a live AMA on the Builders Stage to discuss what they look for in founders, fundraising, and future investment interests. The event attracts over 10,000 tech leaders and offers discounted passes and expo opportunities for attendees.\n",
+      "key_points": [
+        "200 startups applied, 20 will pitch on the main stage",
+        "Five judges are founders of their own VC firms",
+        "Judges include Stacy Brown‑Philpot, Chi‑Hua Chien, Dayna Grayson, Carter Reum, and Alexa Von Tobel",
+        "After the final pitch, judges will host a live AMA on the Builders Stage"
+      ],
+      "topics": [
+        "tech conferences",
+        "startup competition",
+        "venture capital",
+        "disrupt",
+        "pitching"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 14:30:00 +0000",
+      "processed_at": "2026-10-07T15:19:51.195624+00:00"
+    },
+    {
+      "id": "-05-the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
+      "title": "The full Disrupt Stage lineup | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will run from October 13‑15 at Moscone West in San Francisco, drawing more than 10,000 founders, VCs, and tech leaders to a stage that will feature top CEOs and investors such as Rivian’s RJ Scaringe, Cerebras’ Andrew Feldman, and Benchmark’s five partners, who will speak together about the future of venture capital. The lineup also includes Amazon’s Panos Panay, Bluesky’s Toni Schneider, Replit’s Amjad Masad, and Hollywood star‑investor Mark Wahlberg, covering topics from AI scalability to the next generation of social media. In addition to the main stage, the event hosts a Startup Battlefield competition where finalists vie for a $100,000 equity‑free prize and the coveted Disrupt cup. Attendees can register for passes with a 50% discount on a second pass, and an Expo+ pass is available for $75 for those affected by layoffs.",
+      "key_points": [
+        "Disrupt Stage will feature a diverse lineup of founders, CEOs, and investors, including Benchmark’s five partners speaking together",
+        "Startup Battlefield finalists compete for a $100,000 equity‑free prize and the Disrupt cup",
+        "Passes offer a 50% discount on a second pass, and an Expo+ pass is available for $75 for those affected by layoffs"
+      ],
+      "topics": [
+        "tech events",
+        "startup battlefield",
+        "ai",
+        "venture capital",
+        "tech conferences"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-07T15:19:18.454418+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-05-openai-will-start-watermarking-chatgpts-text-in-the-eu",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
@@ -2347,130 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 17:17:15 +0000",
       "processed_at": "2026-10-01T15:14:22.755927+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "EliseAI, an AI automation startup for housing and healthcare, raised $350 million in a Series F round that values it at $4 billion, doubling its valuation from last August. The round was co‑led by Andreessen Horowitz and Bessemer Ventures and follows the company’s recent $200 million ARR milestone and the launch of its AI teammate Apollo. EliseAI’s platform powers administrative workflows for one in six U.S. apartments and streamlines patient‑related paperwork for specialty physician groups, targeting the two largest expense categories for American households. The funding will help the firm expand its product suite and scale operations across the housing and healthcare markets.",
-      "key_points": [
-        "EliseAI secured $350 million, valuing the company at $4 billion, a 100% increase from its Series E.",
-        "The round was led by Andreessen Horowitz and Bessemer Ventures, supporting the launch of the Apollo AI teammate and a $200 million ARR milestone.",
-        "The company automates leasing, maintenance, and healthcare paperwork for housing and specialty physician groups, covering one in six U.S. apartments."
-      ],
-      "topics": [
-        "ai",
-        "realestate",
-        "healthcare",
-        "venturecapital",
-        "automation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 21:51:36 +0000",
-      "processed_at": "2026-10-01T07:43:47.476883+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "OpenAI unveiled a suite of updates to its Codex software engineering agent at DevDay, most notably the introduction of reusable, persistent cloud development environments that can be accessed from any device, enabling developers to start tasks faster and share workspaces with consistent settings and permissions. The release also added a refreshed Codex CLI with voice‑controlled task initiation, a new /agents view for easier task delegation, and a code‑review feature integrated into the ChatGPT desktop app that can summarize changes and flag issues automatically. On the security front, Codex Security Cloud offers on‑demand and scheduled scans of GitHub repositories, auto‑removal of duplicate findings, and cloud‑based fix preparation, leveraging models from OpenAI’s Daybreak Blue initiative. Additional API enhancements include a Decisions API for real‑time decision making and an updated Agents API that supports Amazon Bedrock Managed Agents, allowing OpenAI agents to run entirely on AWS.",
-      "key_points": [
-        "Codex now provides persistent, reusable cloud development environments accessible from any device",
-        "The updated CLI supports voice control and a new /agents view streamlines task management",
-        "Codex Security Cloud scans repositories and auto‑generates fixes, integrating Daybreak Blue models",
-        "API updates introduce a Decisions API and Bedrock‑compatible Agents API for AWS deployments"
-      ],
-      "topics": [
-        "openai",
-        "codex",
-        "cloud development",
-        "developer tools",
-        "security"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "processed_at": "2026-10-01T07:43:28.806372+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
-      "title": "The internet is convinced Elon Musk's xAI trolled OpenAI's 'Dots' launch | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "OpenAI unveiled Dots, an always‑on AI agent with a colorful avatar, on Tuesday. Shortly after, Elon Musk’s xAI acquired the domain dot.com, which now redirects to the download page for its Grok chatbot, sparking speculation that the move was a tongue‑in‑cheek jab at the new product. The domain transfer occurred in July, and while it could simply be a typo‑domain purchase, the timing and the fact that the name closely matches OpenAI’s launch have led many online to view it as a deliberate prank. The incident highlights the playful rivalry between the two AI firms and the growing public interest in AI agent branding.",
-      "key_points": [
-        "OpenAI launched Dots, an always‑on AI agent with a bubbly avatar",
-        "Elon Musk’s xAI bought the dot.com domain, redirecting to its Grok chatbot download page",
-        "The domain transfer in July coincides with OpenAI’s launch, fueling speculation of a prank",
-        "The event underscores the playful rivalry and branding focus in the AI community"
-      ],
-      "topics": [
-        "openai",
-        "xai",
-        "dot.com",
-        "prank",
-        "ai agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
-      "processed_at": "2026-10-01T01:30:11.626921+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-openais-latest-features-take-direct-aim-at-the-app-store-model",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "OpenAI's latest features take direct aim at the app store model | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "OpenAI unveiled a suite of features at its Dev Day that aim to turn ChatGPT into a full‑fledged app discovery and execution platform, allowing users to discover, launch, and use third‑party apps directly within the chatbot. The company added a \"Sign in with ChatGPT\" identity layer that lets users carry their AI allowance into partner apps, and expanded its plug‑in architecture to support interactive panels that replace native desktop or mobile experiences. In addition, OpenAI introduced autonomous agents called Dots that can navigate the web, execute tasks, and connect to over 4,000 apps, effectively shifting the burden of app selection from users to AI. A new enterprise marketplace will feature more than 30 partners, including Adobe, Figma, and Salesforce, and offers a distribution channel that bypasses traditional Apple and Google app stores.",
-      "key_points": [
-        "ChatGPT will suggest and run third‑party apps within conversations, turning the chatbot into an app discovery surface.",
-        "\"Sign in with ChatGPT\" lets users bring their existing AI allowance into partner apps, creating a unified identity layer.",
-        "OpenAI’s autonomous agents, Dots, can perform tasks and access apps on behalf of users, reducing the need to download separate software.",
-        "A new enterprise marketplace with 30+ partners provides a distribution channel outside of traditional app stores."
-      ],
-      "topics": [
-        "app store",
-        "openai",
-        "chatgpt",
-        "ai agents",
-        "marketplace"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 20:15:47 +0000",
-      "processed_at": "2026-10-01T01:30:02.978047+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
-      "title": "Apple Pay finally launches in India after years on the sidelines | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Apple Pay has officially launched in India, beginning with Axis Bank as its first banking partner, after years of delays in a market dominated by the state-backed Unified Payments Interface (UPI). The rollout is limited to eligible Axis Bank Visa and Mastercard cards, excludes the domestic RuPay network, and is only accepted at merchants and terminals that have enabled the service. Apple is seeking a 0.2% transaction fee, a point of contention with other major banks that are still negotiating terms. Despite its niche start, the service could tap into India’s growing affluent iPhone user base and provide Apple with a new revenue stream in a rapidly expanding digital payments market.",
-      "key_points": [
-        "Apple Pay launched in India with Axis Bank as the first partner",
-        "Service limited to Visa/Mastercard cards and specific merchants, excluding RuPay",
-        "Apple seeks a 0.2% transaction fee, causing negotiation delays with other banks",
-        "Launch targets affluent iPhone users, offering Apple a new revenue source"
-      ],
-      "topics": [
-        "apple",
-        "apple pay",
-        "india",
-        "payments",
-        "fintech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 18:45:00 +0000",
-      "processed_at": "2026-10-01T01:30:02.877015+00:00"
     }
   ]
 }
