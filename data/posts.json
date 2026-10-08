@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-08T07:08:21.228145+00:00",
+  "updated_at": "2026-10-08T14:48:25.826035+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-libreoffice-says-no-ai-is-now-a-software-feature",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+      "title": "LibreOffice says 'no AI' is now a software feature | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "LibreOffice has announced that its default installation will not include any artificial‑intelligence features for the foreseeable future, a decision that follows the release of its latest version in late August. The nonprofit stresses that the software is designed to keep all documents on the user’s machine, avoiding any server‑side processing and ensuring data stays local. Users who still want AI capabilities can install extensions that connect LibreOffice to local AI models, but the core product will remain AI‑free. This move positions LibreOffice as a privacy‑focused alternative amid a trend of software vendors embedding AI features that often require cloud‑based data handling.",
+      "key_points": [
+        "LibreOffice will not add AI to its default installation for the foreseeable future.",
+        "The software is deliberately designed to keep all documents on the user’s machine, avoiding server‑side processing.",
+        "Users can still add AI via extensions that run locally, but the core product remains AI‑free.",
+        "The decision contrasts with many vendors that are aggressively integrating AI features into their products."
+      ],
+      "topics": [
+        "open source",
+        "privacy",
+        "ai",
+        "software",
+        "document editor"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 15:25:00 +0000",
+      "processed_at": "2026-10-08T14:48:05.212350+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-pinterests-ai-now-turns-beauty-pins-into-action-plans",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
+      "title": "Pinterest's AI now turns beauty Pins into action plans | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Pinterest has unveiled a new AI-powered feature called \"Beauty Guides\" that turns beauty-related Pins into actionable salon plans. The guides translate inspiration into salon terminology such as \"balayage\" or \"almond nails\" and provide details on time, cost, and maintenance. Powered by Pinterest Intelligence’s visual and generative AI, the feature helps users communicate their desired look more effectively. It will launch across hairstyle, color, nail shape, and finish Pins, offering a practical way to integrate AI into everyday beauty routines.",
+      "key_points": [
+        "Pinterest introduces \"Beauty Guides\", an AI feature that translates beauty Pins into salon-friendly terminology",
+        "The guides provide estimated time, cost, and maintenance requirements for each look",
+        "The feature is powered by Pinterest Intelligence’s visual and generative AI technology",
+        "It will be available for hairstyle, color, nail shape, and finish Pins at launch"
+      ],
+      "topics": [
+        "pinterest",
+        "ai",
+        "beauty",
+        "salon",
+        "visual intelligence"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:00:49 +0000",
+      "processed_at": "2026-10-08T14:48:21.307394+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-uber-is-spending-2-3b-to-get-into-catering",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
+      "title": "Uber is spending $2.3B to get into catering | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Uber has announced an all‑cash acquisition of catering platform ezCater for $2.3 billion, expanding the Uber Eats ecosystem into large‑scale business meals. ezCater, founded in 2007, has grown to generate over $2.5 billion in gross bookings in the past year after bootstrapping for seven years and raising a first $4 million round in 2014. Uber CEO Dara Khosrowshahi said the deal will give restaurants access to new, larger customers and help Uber reach millions more users. The purchase is part of Uber’s broader strategy to diversify its food‑delivery portfolio, which also includes a $15 billion bid for Delivery Hero and investments in drone‑delivery partners.",
+      "key_points": [
+        "Uber acquires ezCater for $2.3 billion in an all‑cash deal",
+        "ezCater has generated $2.5 billion in gross bookings last year",
+        "The move expands Uber Eats’ service offerings and opens new revenue streams for restaurants",
+        "Uber is also pursuing other food‑delivery expansions, including a $15 billion purchase of Delivery Hero and drone‑delivery partnerships"
+      ],
+      "topics": [
+        "uber",
+        "ezcater",
+        "acquisition",
+        "food delivery",
+        "catering"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:00:25 +0000",
+      "processed_at": "2026-10-08T14:48:05.609096+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
       "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800",
@@ -2403,72 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 14:50:55 +0000",
       "processed_at": "2026-10-02T00:05:41.208964+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/founders.jpg?resize=1200,800",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Restate, a Berlin‑based startup founded in 2022 by Stephan Ewen, has closed a $20 million Series A led by Singular with participation from Redpoint Ventures and Capital One Ventures to build durable workflow infrastructure for AI agents. The company’s execution engine, which bypasses external databases in favor of its own storage, replication, and redundancy layers, offers fast and lightweight durability that is especially critical for the long, unpredictable paths of agent workflows. With the new capital, Restate plans to hire a go‑to‑market team, expand engineering resources, and expand its San Francisco office to compete with heavyweight Temporal and serve Fortune 500 customers. Ewen’s background as a co‑creator of Apache Flink and former CTO of Ververica underpins Restate’s technical credibility and growth momentum.",
-      "key_points": [
-        "Restate raised $20 million Series A to support durable AI agent workflows",
-        "Its architecture eliminates external databases, delivering speed and cost efficiency",
-        "The company aims to compete with Temporal and serve Fortune 500 clients",
-        "Founder Stephan Ewen brings experience from Apache Flink and Ververica"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "infrastructure",
-        "workflow"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 14:27:11 +0000",
-      "processed_at": "2026-10-02T00:05:56.458766+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "title": "Meta disputes claim that Muse read a user's private messages without permission | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta denies claims that its AI agent Muse read private messages without permission, stating that the app requires explicit opt‑in permissions and cannot access messages unless Full Disk Access and the Messages connector are enabled. Journalist Jason Aten reported that Muse accessed his messages while Full Disk Access was off, but Meta’s VP of Communications Andy Stone and Superintelligence Labs executive David Singleton explained a three‑step permission process that should prevent such unauthorized access and that the AI’s explanation was mistaken. The dispute highlights ongoing trust issues for Meta’s consumer AI products amid past data‑privacy controversies and could impact the company’s reputation in the consumer AI market.",
-      "key_points": [
-        "Meta claims Muse cannot read messages without explicit opt‑in permissions",
-        "Journalist Jason Aten alleges Muse accessed messages with Full Disk Access disabled",
-        "Meta’s executives explain a three‑step permission process that should prevent unauthorized access",
-        "The controversy underscores Meta’s broader reputation challenges over data privacy"
-      ],
-      "topics": [
-        "meta",
-        "muse",
-        "ai",
-        "data privacy",
-        "consumer trust"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 16:24:23 +0000",
-      "processed_at": "2026-10-01T20:26:26.800263+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-doordash-launches-an-ai-agent-you-can-text-to-order-food",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
-      "title": "DoorDash launches an AI agent you can text to order food | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "DoorDash has unveiled a new AI agent that lets users place food orders through Apple Messages, allowing them to send simple prompts like \"order my usual\" to trigger a pre‑set Friday night order. The agent can also interpret requests for specific dishes, pull local restaurant recommendations, and even send photos of suggested food, while supporting group orders that accommodate multiple dietary preferences and quantities. By offering a hands‑free, conversational ordering experience, DoorDash aims to gain a competitive edge over rivals Uber Eats and Grubhub amid a broader industry shift toward personal AI assistants that eliminate the need to navigate apps. The feature is currently available to U.S. users via a waitlist, and DoorDash is simultaneously testing delivery drones with select restaurants in Northern California.",
-      "key_points": [],
-      "topics": [
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 16:00:24 +0000",
-      "processed_at": "2026-10-01T20:26:28.129433+00:00"
     }
   ]
 }
