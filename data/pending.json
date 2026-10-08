@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-08T00:49:37.890012+00:00",
+  "updated_at": "2026-10-08T07:07:52.327556+00:00",
   "items": [
-    {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "feed_excerpt": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-      "published": "Mon, 05 Oct 2026 18:07:07 +0000"
-    },
     {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
@@ -48,18 +42,6 @@
       "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
       "feed_excerpt": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
       "published": "Tue, 06 Oct 2026 14:41:52 +0000"
-    },
-    {
-      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-      "feed_excerpt": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
-      "published": "Tue, 06 Oct 2026 14:37:31 +0000"
-    },
-    {
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "feed_excerpt": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "published": "Tue, 06 Oct 2026 14:33:16 +0000"
     },
     {
       "title": "Pinterest’s AI now turns beauty Pins into action plans",
@@ -300,7 +282,13 @@
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "feed_excerpt": "The developer of Hermes Agent raised a $90 million Series B.",
       "published": "Wed, 07 Oct 2026 20:48:45 +0000"
+    },
+    {
+      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "feed_excerpt": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+      "published": "Thu, 08 Oct 2026 06:14:11 +0000"
     }
   ],
-  "last_processed_at": "2026-10-08T00:50:03.934105+00:00"
+  "last_processed_at": "2026-10-08T07:08:05.299331+00:00"
 }

@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-08T00:50:07.010253+00:00",
+  "updated_at": "2026-10-08T07:08:21.228145+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800",
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027 | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Amazon’s Prime Video will become the first dedicated home for the Emmy Awards, beginning in 2027, after the ceremony has rotated among ABC, CBS, Fox, and NBC for seven decades. The six‑year deal will stream the awards live in more than 240 countries for free, and non‑Prime subscribers will also be able to watch on the platform. The move comes amid a 10% drop in 78th‑year ratings, with 6.87 million viewers still above the all‑time low of 4.3 million, and reflects a broader shift of major awards shows to streaming services.",
+      "key_points": [
+        "Emmys will stream on Prime Video worldwide for free starting in 2027",
+        "The six‑year deal marks the first dedicated home after decades of rotating broadcasters",
+        "Non‑Prime subscribers can also watch the ceremony on Prime Video",
+        "Ratings for the 78th Emmy Awards were 6.87 million, up from the all‑time low but down 10% from the previous year"
+      ],
+      "topics": [
+        "emmys",
+        "primevideo",
+        "streaming",
+        "broadcast",
+        "awards"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:37:31 +0000",
+      "processed_at": "2026-10-08T07:08:05.299252+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "Mistral AI has unveiled its new multimodal model, Mistral Large 4 (ML4), nicknamed \"Le Chonk,\" which boasts 1 trillion parameters and is positioned to outpace both American and Chinese rivals. The model is currently only accessible through a guarded public endpoint, but the company plans to release its weights in three weeks after safety testing, aiming to provide an open‑source alternative that can be audited and used responsibly. Mistral trained ML4 on just 4,000 Nvidia GPUs—two to three times fewer than Chinese competitors and significantly less than closed‑source rivals—highlighting its efficient use of compute. The company targets high‑value use cases such as cybersecurity, finance, and chip design, with backing from ASML and Samsung, and frames the release as part of Europe’s “third way” in AI.",
+      "key_points": [
+        "ML4 is a 1 trillion‑parameter multimodal model that will become open‑source in three weeks after safety testing",
+        "Mistral trained the model on only 4,000 Nvidia GPUs, fewer than both Chinese and closed‑source competitors",
+        "The model targets cybersecurity, finance, and chip design, with support from ASML and Samsung",
+        "Mistral plans to provide open weights with guardrails to prevent malicious use"
+      ],
+      "topics": [
+        "ai",
+        "open-source",
+        "multimodal",
+        "europe",
+        "chipdesign"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
+      "processed_at": "2026-10-08T07:07:54.400800+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Zain Javaid, 19, has founded Ghost and secured an $11 million seed round led by Andreessen Horowitz, bringing a new personal‑AI computer to market. The company’s flagship product, Core, costs $3,499 and ships with an Nvidia RTX Pro 4000 GPU, preinstalled AI models, and a privacy‑first design that keeps data and model weights on the device. Core can run AI agents autonomously, receive over‑the‑air updates, and includes a firewall to limit credential use, all without relying on external cloud services. Preorders opened on October 2 with shipping slated for the last week of October, positioning Ghost as a turnkey alternative to general‑purpose PCs for personal AI assistants.",
+      "key_points": [
+        "19‑year‑old Zain Javaid founded Ghost and raised $11 million in a seed round led by Andreessen Horowitz",
+        "Ghost’s Core is a $3,499 AI‑centric PC with a built‑in RTX Pro GPU, local data processing, and privacy‑first architecture",
+        "Core offers over‑the‑air updates, a firewall to control agent actions, and runs AI agents without cloud dependency",
+        "Preorders opened Oct 2 with shipping scheduled for the last week of October, targeting users seeking a turnkey personal AI assistant"
+      ],
+      "topics": [
+        "startup",
+        "ai",
+        "hardware",
+        "funding",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 18:07:07 +0000",
+      "processed_at": "2026-10-08T07:07:53.969057+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -2394,81 +2469,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 16:00:24 +0000",
       "processed_at": "2026-10-01T20:26:28.129433+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?resize=1200,800",
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "FedEx has placed a $300 million bulk order for 2,000 electric medium‑duty trucks from Harbinger, a startup founded in 2022 by former employees of Anduril, Canoo, and QuantumScape. The company, which already has trucks in production and has delivered 53 units to FedEx, plans to ship all 2,000 vehicles by the end of next year. This order is Harbinger’s largest yet and follows a $160 million Series C funding round led by FedEx last year. In addition to its core chassis, Harbinger is expanding into hybrid emergency vehicles, autonomous driving, battery‑pack energy storage, and defense applications while weighing an IPO.",
-      "key_points": [
-        "FedEx’s $300 million order for 2,000 electric trucks is Harbinger’s largest bulk deal yet",
-        "Harbinger, founded in 2022, already has production trucks and has delivered 53 units to FedEx",
-        "All 2,000 trucks are scheduled for delivery by the end of next year",
-        "The company is diversifying into hybrid, autonomous, battery‑storage, and defense markets and is considering an IPO"
-      ],
-      "topics": [
-        "electric vehicles",
-        "logistics",
-        "startup",
-        "fleet",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 15:26:02 +0000",
-      "processed_at": "2026-10-01T20:26:26.479692+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-bag-ventures-sets-its-eyes-deeper-into-the-ai-stack",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/BAG-ventures.png?resize=1200,800",
-      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "BAG Ventures, founded by former Google executive Bonita Stewart and ex-CapitalG partner Jackson Georges Jr., has closed an $11.3 million fund aimed at early‑stage AI startups that deliver measurable value to enterprises. The firm has already backed 10 companies, including SXD, BizTrip, and Nomadic, and plans to invest $100,000–$500,000 in new deals over the next two years. BAG Ventures differentiates itself by offering founders not only capital but also warm introductions to potential customers and go‑to‑market guidance, leveraging a network that includes Google, Nvidia, Amazon, and Snowflake. The founders argue that the era of experimental AI sandboxes is ending, and enterprises will now pay for deterministic, workflow‑integrated solutions that capture proprietary data and deliver clear unit economics.",
-      "key_points": [
-        "BAG Ventures raised $11.3 million to back AI startups focused on enterprise value rather than experimentation",
-        "The firm invests $100,000–$500,000 per deal and plans to deploy the rest of the fund in the next two years",
-        "Founders receive capital plus direct customer introductions and go‑to‑market support from a network of operators",
-        "The investment thesis centers on deterministic, workflow‑deep AI solutions that capture proprietary data and offer clear monetization paths"
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "enterprise",
-        "startup funding",
-        "google"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "processed_at": "2026-10-01T20:26:26.340029+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-red-spyware-2255962085.jpg?resize=1200,800",
-      "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Apple has released an urgent security patch for a graphics‑engine vulnerability, CVE-2026-86950, that could have enabled sophisticated attacks on iOS 26, iPadOS 26, and macOS 26. The flaw, discovered by Meta’s security team, could allow a hacker to access broad personal data on affected devices. Roughly 80% of iPhone users still run iOS 26, making the update critical for most users. Apple also recently fixed a separate zero‑click bug, CVE-2026-86869, that could have silently stolen data via iMessage.",
-      "key_points": [
-        "Apple released a patch for CVE-2026-86950 affecting iOS 26, iPadOS 26, and macOS 26.",
-        "Meta’s security team discovered the graphics‑engine vulnerability.",
-        "About 80% of iPhone users are still on iOS 26, so the fix is urgent for many.",
-        "Apple also fixed a zero‑click bug, CVE-2026-86869, that could have silently stolen data via iMessage."
-      ],
-      "topics": [
-        "apple",
-        "security",
-        "ios",
-        "macos",
-        "graphicsengine"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 13:25:21 +0000",
-      "processed_at": "2026-10-01T20:26:43.007672+00:00"
     }
   ]
 }
