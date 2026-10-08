@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-07T20:43:43.257930+00:00",
+  "updated_at": "2026-10-08T00:50:07.010253+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Anthropic has expanded its Claude for Startups program, giving qualifying early‑stage companies a free year of its Claude Team plan and $1,000 in API credits. The offer also includes access to the Claude Marketplace for building plug‑ins and virtual office hours with Anthropic’s Applied AI team. Startups founded in the last five years or that have raised funding in the last two years are eligible, and applications can be submitted through the program’s website. The initiative, unveiled during Anthropic’s SF Tech Week event, aims to empower founders to build on top of AI models rather than rely on the models alone.",
+      "key_points": [
+        "Free year of Claude Team plan and $1,000 API credits for qualifying startups",
+        "Access to Claude Marketplace and virtual office hours with Applied AI team",
+        "Eligibility: founded in last 5 years or funded in last 2 years",
+        "Program launched at Anthropic’s SF Tech Week event"
+      ],
+      "topics": [
+        "ai",
+        "startups",
+        "anthropic",
+        "claude",
+        "api"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-08T00:49:49.697408+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Instinct, the $10 billion AI agent startup, has launched group‑chat support that lets users add the bot to conversations with friends even if those friends aren’t Instinct members. The feature, available to early‑access users today, lets the group’s Instinct handle scheduling, ticket booking, fantasy leagues and more while keeping each user’s personal agent siloed and requiring permission before sharing data. Instinct’s move strengthens its rivalry with Meta’s Muse, which still lacks native group‑chat functionality, and follows recent additions like phone‑call capability and OpenAI’s ChatGPT Dots. The company says users can trust or revoke group access at any time, ensuring privacy and control over shared information.",
+      "key_points": [
+        "Instinct now supports adding its AI agent to group chats, even for friends without an Instinct account.",
+        "The group’s Instinct operates separately from personal agents and requires permission before sharing data, preserving privacy.",
+        "Early‑access users can try the feature today, with a rollout planned for all users soon.",
+        "The update positions Instinct against competitors like Meta’s Muse, which lacks group‑chat support."
+      ],
+      "topics": [
+        "ai",
+        "group chat",
+        "instinct",
+        "privacy",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 18:54:30 +0000",
+      "processed_at": "2026-10-08T00:50:03.933992+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "title": "Open or closed AI? Learn what to build on at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026, slated for Oct. 13-15 at Moscone West in San Francisco, will host over 200 sessions focused on AI model strategy, including multi-model use, customization, ownership, and hardware design. Key talks feature industry leaders such as Mo Jomaa, Vipul Ved Prakash, Zuzanna Stamirowska, Manos Koukoumidis, Nader Khalil, Sydney Sykes, Anna Goldie, and Azalia Mirhoseini, who will explore how startups can balance cost, performance, and flexibility across open and proprietary models. The conference aims to help founders decide whether to rent, customize, or build AI, and how emerging AI-driven chip design could accelerate product development. With more than 10,000 attendees, 250+ speakers, and 300+ startups, Disrupt 2026 offers networking, dealmaking, and matchmaking opportunities for builders and investors navigating the evolving AI landscape.",
+      "key_points": [
+        "Disrupt 2026 will feature sessions on multi-model AI strategies and the trade-offs between open and proprietary models.",
+        "Founders will learn frameworks for deciding whether to rent, customize, or build AI to balance control, cost, and differentiation.",
+        "The event will also cover how AI is influencing hardware design, potentially speeding up new capability deployment."
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "techconference",
+        "disrupt",
+        "hardware"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-08T00:49:39.716211+00:00"
+    },
     {
       "id": "unch-com-2026-10-06-learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
@@ -2395,81 +2469,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 29 Sep 2026 13:25:21 +0000",
       "processed_at": "2026-10-01T20:26:43.007672+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Reddit announced it will shut down its RSS feeds on November 13, citing widespread scraping and automated abuse as the main reason. The company also confirmed that public API access will be discontinued by March 2027, meaning developers and AI products will need commercial agreements to continue using Reddit data. Moderators are urged to migrate to the Discord Relay Devvit app or other tools before the RSS shutdown, while Reddit is tightening access to its classic Old Reddit site to curb abusive traffic. These moves reflect Reddit’s strategy to protect its data assets, which have become a significant revenue source through AI licensing deals.",
-      "key_points": [
-        "Reddit will terminate RSS feeds on November 13 to curb large‑scale scraping and automated abuse.",
-        "Public API access will end by March 2027, forcing developers to secure commercial agreements for data use.",
-        "Moderators and developers must migrate workflows before the shutdown, with Discord Relay Devvit offered as an alternative.",
-        "The changes align with Reddit’s focus on monetizing user data for AI licensing and protecting its platform from abuse."
-      ],
-      "topics": [
-        "reddit",
-        "rss",
-        "api",
-        "ai",
-        "moderation"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 17:45:00 +0000",
-      "processed_at": "2026-10-01T15:14:22.308322+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-airbnb-adds-ai-search-more-social-features",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-UnifiedSearch.jpeg?resize=1200,800",
-      "title": "Airbnb adds AI search, more social features | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Airbnb is expanding its app with new on‑ground services such as meal delivery, laundry, baby‑gear rental, ski and boat rentals, and expanded grocery delivery, while also launching an AI‑powered search feature that lets users query properties via text or voice and receive dynamic filters and AI‑generated summaries. The AI search, introduced cautiously by CEO Brian Chesky to avoid hurting conversion rates, automatically surfaces relevant filters like cribs or playgrounds when users type “baby.” In addition, Airbnb is enhancing social discovery by allowing travelers to view friends’ past or upcoming trips on a map, see the experiences they booked, and browse neighborhood pages built from guest reviews, all with privacy controls. These updates aim to make Airbnb more competitive with hotels and deepen engagement through personalized, AI‑driven travel discovery.",
-      "key_points": [
-        "AI search toggle with dynamic filters and AI‑generated summaries",
-        "Expanded on‑ground services: meal delivery, laundry, baby‑gear, ski/boat rentals, grocery delivery",
-        "Social discovery features: friends’ trip maps, neighborhood pages, privacy controls",
-        "CEO emphasizes careful rollout to preserve conversion rates"
-      ],
-      "topics": [
-        "airbnb",
-        "ai",
-        "travel",
-        "social features",
-        "ecommerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "processed_at": "2026-10-01T15:14:22.460499+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-09-29-your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/rip-transportation-2024.jpg?resize=1200,800",
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Researchers at Northeastern University and Consumer Reports tested 21 late‑model vehicles and 30 companion apps and found that the vast majority of connected cars share data with third‑party tech firms. Nineteen of the 21 vehicles sent data to at least one external party, and seven of the apps transmitted sensitive information such as VINs, emails, phone numbers, and precise locations. The data was shared with companies like Adobe, Google, Meta, Snap, and Yahoo, enabling advertisers and data brokers to build detailed consumer profiles that are hard to escape. Automakers largely blamed consumers for the exposure, but Honda responded by ordering its vendor to delete geolocation data after the study was released.",
-      "key_points": [
-        "19 of 21 vehicles and 7 of 30 apps share sensitive data with third parties",
-        "Data shared with major tech firms enables detailed profiling",
-        "Automakers largely deflect blame; Honda took corrective action",
-        "Study highlights difficulty for consumers to avoid data sharing without disabling vehicle features"
-      ],
-      "topics": [
-        "connected cars",
-        "data privacy",
-        "automotive",
-        "third-party data",
-        "consumer protection"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 22:18:35 +0000",
-      "processed_at": "2026-10-01T15:14:36.923365+00:00"
     }
   ]
 }

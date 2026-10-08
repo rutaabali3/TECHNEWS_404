@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-07T20:43:16.218943+00:00",
+  "updated_at": "2026-10-08T00:49:37.890012+00:00",
   "items": [
-    {
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-      "published": "Mon, 05 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "feed_excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "published": "Mon, 05 Oct 2026 18:54:30 +0000"
-    },
     {
       "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
       "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
@@ -42,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
       "feed_excerpt": "The storied Silicon Valley firm makes its first pure defense investment.",
       "published": "Tue, 06 Oct 2026 16:29:12 +0000"
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "feed_excerpt": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "published": "Tue, 06 Oct 2026 16:00:00 +0000"
     },
     {
       "title": "LibreOffice says ‘no AI’ is now a software feature",
@@ -300,7 +282,25 @@
       "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
       "feed_excerpt": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
       "published": "Wed, 07 Oct 2026 16:53:46 +0000"
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "feed_excerpt": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "published": "Wed, 07 Oct 2026 23:36:57 +0000"
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "feed_excerpt": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "published": "Wed, 07 Oct 2026 22:59:16 +0000"
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "feed_excerpt": "The developer of Hermes Agent raised a $90 million Series B.",
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000"
     }
   ],
-  "last_processed_at": "2026-10-07T20:43:17.918135+00:00"
+  "last_processed_at": "2026-10-08T00:50:03.934105+00:00"
 }
