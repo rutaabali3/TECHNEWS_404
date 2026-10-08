@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-08T14:48:25.826035+00:00",
+  "updated_at": "2026-10-08T20:34:33.517872+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-bluesky-wants-to-give-you-your-own-domain-on-the-open-web",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+      "title": "Bluesky wants to give you your own domain on the open web | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Bluesky CEO Toni Schneider announced the company has applied to ICANN to create a new top‑level domain called \".bsky\", which would let users shorten handles such as @sarahp.bsky.social to sarahp.bsky. If approved, the new suffix could enable richer personal home pages and give users more control over their online identity. ICANN will publish the applications on Oct. 7 2026 and the process is expected to take 18‑24 months, but Bluesky has said it will not sell or monetize the domains. The move reflects Bluesky’s commitment to an open web and its belief that users should own rather than rent their digital presence.",
+      "key_points": [
+        "Bluesky applied for a new \".bsky\" top‑level domain",
+        "The domain could shorten handles and enable richer user profiles",
+        "ICANN will review the application on Oct. 7 2026 with an 18‑24 month timeline",
+        "Bluesky will not monetize the domains, supporting an open‑web philosophy"
+      ],
+      "topics": [
+        "bluesky",
+        "domain",
+        "openweb",
+        "icann",
+        "socialmedia"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:41:52 +0000",
+      "processed_at": "2026-10-08T20:34:28.239840+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-flais-ai-dealership-software-is-booking-50000-appointments-per-month",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/flai-cofounders.jpg?resize=1200,874",
+      "title": "Exclusive: Flai's AI dealership software is booking 50,000 appointments per month | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Flai’s AI‑powered dealership software is now booking 50,000 appointments per month across sales and service, driving a reported 20‑fold increase in revenue for its clients. The company, which has expanded to work with more than ten of the top 50 dealer groups in the U.S., just closed a $27 million Series A led by Base10 Partners and backed by Toyota’s venture arm, Y Combinator and First Round Capital. Flai’s rapid deployment—going live in a dealership 10 days after signing—and a 20‑minute response policy have spurred strong word‑of‑mouth referrals, helping the startup grow to about 40 employees. The firm’s deep integration and multilingual flexibility set it apart from other AI solutions targeting automotive customer engagement.",
+      "key_points": [
+        "Flai’s AI handles 50,000 appointments per month, boosting dealer revenue 20‑fold",
+        "$27 million Series A led by Base10 Partners with Toyota venture, Y Combinator, and First Round Capital",
+        "Rapid 10‑day deployment and 20‑minute response policy drive strong referrals",
+        "Integration with top dealer groups and multilingual support differentiate Flai from competitors"
+      ],
+      "topics": [
+        "ai",
+        "automotive",
+        "startup",
+        "funding",
+        "customer-relationship-management"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-08T20:34:04.292132+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-libreoffice-says-no-ai-is-now-a-software-feature",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
@@ -2427,57 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 14:30:00 +0000",
       "processed_at": "2026-10-02T06:01:36.270485+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-instincts-new-product-recommendations-are-giving-some-users-the-ick",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
-      "title": "Instinct's new product recommendations are giving some users the ick | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Instinct has rolled out a new feature called Instinct Selections that pushes product recommendations to users by partnering with local chefs, designers, and travel guides to provide curated suggestions. The unsolicited nature of the pushes has sparked backlash, with users describing the experience as spammy and intrusive. While Instinct has not disclosed how it plans to monetize the feature, it could involve affiliate or advertising revenue. The launch comes after a $1 billion Series C that values the company at $10 billion and a claim that the agent processes billions of dollars in annual transactions, most of which are travel related.",
-      "key_points": [
-        "Instinct’s new recommendation feature is being pushed unsolicited, leading to user complaints of spam.",
-        "The company partners with local experts for curated suggestions but has not revealed a clear monetization strategy.",
-        "Instinct recently raised $1 billion in Series C, valuing it at $10 billion, and claims billions of dollars in annual transactions.",
-        "Competitors such as Meta and OpenAI do not offer this type of push recommendation.",
-        ""
-      ],
-      "topics": [
-        "ai",
-        "product recommendations",
-        "user experience",
-        "startup funding",
-        "commerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 15:56:28 +0000",
-      "processed_at": "2026-10-02T00:05:27.876856+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "On Tuesday, President Donald Trump and leading AI figures such as Meta’s Mark Zuckerberg, Nvidia’s Jensen Huang, and Anthropic’s Dario Amodei signed a \"Joint Commitment on Frontier Responsibilities\" pledge at the White House. The agreement, which calls for voluntary safety controls and independent oversight for frontier AI models, was publicly released on Truth Social but contained a typo that spelled \"United States\" as \"Unites States\" beneath Trump’s signature. The misspelling drew quick attention from tech reporters and raised questions about the document’s drafting process, while the pledge itself was described by Zuckerberg as a historic starting point for industry collaboration. Trump also announced an executive order that will replace the phrase \"artificial intelligence\" with \"superintelligence\" in all federal agency communications.",
-      "key_points": [
-        "Trump and top AI leaders signed a voluntary pledge to add safety controls to frontier AI models.",
-        "The signed document mistakenly spelled \"United States\" as \"Unites States\" in a photo shared on Truth Social.",
-        "Zuckerberg called the agreement a historic conversation and a starting point for industry cooperation.",
-        "Trump’s executive order will rename \"artificial intelligence\" to \"superintelligence\" in federal communications."
-      ],
-      "topics": [
-        "ai",
-        "politics",
-        "tech",
-        "policy",
-        "executiveorder"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 14:50:55 +0000",
-      "processed_at": "2026-10-02T00:05:41.208964+00:00"
     }
   ]
 }
