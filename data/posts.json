@@ -1,7 +1,156 @@
 {
-  "updated_at": "2026-10-09T15:06:05.214329+00:00",
+  "updated_at": "2026-10-09T20:15:39.058995+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Apple is partnering with LG to launch a new line of smart home devices, including a smart lock, thermostat, and doorbell, that will integrate with its upcoming smart home hub slated for release on October 13. The hub will feature a 6‑inch square display that can be mounted on a wall or placed on a countertop. LG‑branded devices are expected to be announced next week, and Apple and LG are also developing indoor and outdoor security cameras and a floodlight. The collaboration positions Apple to compete more directly with Amazon’s Ring and other smart‑home ecosystems.",
+      "key_points": [
+        "Apple and LG are collaborating on a smart lock, thermostat, and doorbell that will integrate with Apple’s new smart home hub",
+        "The devices will carry the LG brand even though they are jointly developed",
+        "Apple’s smart home hub, featuring a 6‑inch display, is expected to launch on October 13",
+        "Security cameras and a floodlight are also in development as part of the partnership"
+      ],
+      "topics": [
+        "smart home",
+        "apple",
+        "lg",
+        "partnership",
+        "security"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 22:53:09 +0000",
+      "processed_at": "2026-10-09T20:15:24.685159+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Melius, an AI platform that creates ad campaigns, images, and videos, announced it has raised a total of $25 million, including a $20 million Series A led by CRV and a $5 million seed round led by General Catalyst. The company was founded by former Ramp engineers Joowon Kim, Young Kim, and Arnav Ramu, who abandoned their original ad‑spend tool after six months and rebuilt the product from scratch as an \"agents lab for creative work.\" Within two months of emerging from stealth in July, Melius reported more than $1 million in annualized revenue and is positioning itself in a large market that also includes competitors such as Higgsfield, Krea, and Flora AI. The founders view the crowded space as a sign of strong demand and believe multiple players can thrive.\n",
+      "key_points": [
+        "Melius secured $25 million in funding, led by CRV and General Catalyst.",
+        "The founders pivoted from an ad‑spend tool to an AI creative‑generation platform after scrapping the original code.",
+        "The startup achieved over $1 million ARR in just two months after launch.",
+        "Competition includes Higgsfield, Krea, and Flora AI, but the founders see room for many players in the market."
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "marketing",
+        "funding",
+        "advertising"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "processed_at": "2026-10-09T20:15:37.953744+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+      "title": "The next hurdle for AI agents: getting websites to let them in | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Personal AI agents such as Meta’s Muse, Instinct, and ChatGPT’s Dots are gaining traction for booking flights, ordering groceries, and making purchases, but many retailers are blocking them from completing transactions. Amazon recently prevented Muse from browsing or buying on its site, and Walmart’s anti‑bot verification steps have also caused agents to fail, even though Walmart claims the blocks are unintentional. In response, Meta, Walmart, Stripe, Sierra, Genesys, Rocket, NiCE, and Decagon are collaborating on an open standard to distinguish legitimate user‑driven bots from malicious ones and enable secure agent‑to‑agent commerce. Meanwhile, other companies such as Delta, United, eBay, Yelp, and Cloudflare have either restricted or are evaluating how to allow AI agents, highlighting the growing friction between consumer convenience and web‑security practices.",
+      "key_points": [
+        "Amazon has blocked Meta’s Muse from its retail site, preventing AI‑driven purchases",
+        "Walmart’s human‑verification bot can inadvertently block AI agents, though the company says the block is unintentional",
+        "Meta and partners are developing an open standard to allow safe, authenticated AI agent interactions with businesses",
+        "Cloudflare’s crawler policy change in September 2023 may be contributing to increased AI agent blocking on many sites"
+      ],
+      "topics": [
+        "ai agents",
+        "ecommerce",
+        "web security",
+        "open standards",
+        "cloudflare"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 19:56:50 +0000",
+      "processed_at": "2026-10-09T20:15:13.338111+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
+      "title": "Hark releases an AI personal assistant with a focus on privacy | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Hark, a startup founded by Brett Adcock, has launched Hark Pro, an AI personal assistant that operates as a full‑screen interface designed to act as an operating system for the computer. The assistant is trained specifically for computer use, allowing it to manage email, calendar, files, and even complete web tasks while displaying its navigation to build trust and emphasize privacy. Hark positions itself against larger players like Meta and OpenAI by promising no ads or data mining, and it plans to release an AI‑native device in 2027. The product’s focus on privacy, task‑specific intelligence, and a transparent user experience distinguishes it in the crowded AI assistant market.",
+      "key_points": [
+        "Hark Pro is a full‑screen AI assistant trained for computer use, handling email, calendar, files, and web tasks.",
+        "The interface shows the assistant’s web navigation to build trust and avoid data mining, positioning Hark against Meta and OpenAI.",
+        "Hark plans to launch an AI‑native device in 2027 to complement its software.",
+        "The startup emphasizes privacy and task‑specific help rather than broad LLM capabilities."
+      ],
+      "topics": [
+        "ai",
+        "assistant",
+        "privacy",
+        "startup",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 18:22:45 +0000",
+      "processed_at": "2026-10-09T20:15:13.657945+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-indias-jiohotstar-takes-partnership-route-for-middle-east-expansion",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jiohotstar.jpg?resize=1200,800",
+      "title": "India's JioHotstar takes partnership route for Middle East expansion | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "JioHotstar, the Reliance‑backed streaming service with over 500 million monthly users, is expanding into the Middle East and North Africa through a partnership with Starzplay, giving the platform a dedicated section for Indian films, shows, originals and reality franchises in multiple languages. The move follows JioHotstar’s earlier launches in the U.K., Canada and Singapore, but unlike those markets the MENA rollout will not include its own sports content; instead a bundled sports plan with Starzplay’s cricket offering is priced at AED 49.99 (about $13.60) per month. The partnership taps the region’s large South‑Asian diaspora, allowing new JioHotstar originals to premiere simultaneously with India and offering audio in up to ten languages, with a particular focus on Malayalam programming.",
+      "key_points": [
+        "JioHotstar partners with Starzplay to launch a dedicated Indian content section in MENA",
+        "The MENA rollout excludes JioHotstar’s sports library but offers a bundled sports plan at AED 49.99/month",
+        "New originals will premiere simultaneously with India and feature audio in up to ten languages",
+        "The strategy targets the region’s large South‑Asian diaspora, especially the Malayali community"
+      ],
+      "topics": [
+        "streaming",
+        "india",
+        "mena",
+        "partnership",
+        "diaspora"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 17:14:07 +0000",
+      "processed_at": "2026-10-09T20:15:13.519456+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-facebook-tests-going-reels-first-in-india",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
+      "title": "Facebook tests going Reels-first in India | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Meta is testing a Reels‑first user experience in India that launches users directly into full‑screen video when they open the app, with a similar test underway in Indonesia. Users who are part of the test can opt out and switch back to the traditional feed, which remains available as a second tab. The move follows Meta’s broader strategy to make video the centerpiece of Facebook, a shift that has already seen all new videos posted as Reels and the app’s Video tab renamed to Reels. India, Meta’s largest market with over 400 million users, is a key testing ground for this video‑centric approach.",
+      "key_points": [
+        "Meta is testing a Reels‑first UX in India and Indonesia that opens users directly into full‑screen video",
+        "Users can opt out and return to the classic feed, which remains a second tab",
+        "The test is part of Meta’s strategy to make video central to Facebook, with all new videos posted as Reels"
+      ],
+      "topics": [
+        "meta",
+        "facebook",
+        "reels",
+        "video",
+        "india"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 12:38:53 +0000",
+      "processed_at": "2026-10-09T20:15:13.398452+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-how-ai-decision-models-could-change-content-moderation",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
@@ -2330,155 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 23:43:07 +0000",
       "processed_at": "2026-10-03T07:47:52.169703+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/bmw-350-vs-i3-50.jpeg?resize=1200,800",
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper. | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "BMW has released a 2027 3 Series that comes in both gasoline and electric versions, allowing a direct price comparison. The electric i3 50 xDrive is priced at $61,500, $4,400 less than the gas-powered M350 xDrive at $65,900, making the EV 6.7% cheaper. While the two models share similar styling and performance, they are built on different platforms, with the EV using BMW’s newest chassis and the gas model an updated older platform. This price advantage signals that electric vehicles are now catching up to, and in some cases surpassing, gasoline cars in upfront cost, a milestone for the industry.",
-      "key_points": [
-        "EV is $4,400 cheaper and 6.7% less expensive than the comparable gas model",
-        "Both cars have similar styling and performance but use different platforms",
-        "The EV offers 468 miles of range and can add 208 miles in 10 minutes of fast charging",
-        "The lower upfront price of the EV challenges the long‑standing belief that electric cars are always more expensive"
-      ],
-      "topics": [
-        "electric vehicles",
-        "bmw",
-        "pricing",
-        "automotive",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 19:19:40 +0000",
-      "processed_at": "2026-10-03T07:48:06.474587+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Voice AI startup ElevenLabs has doubled its valuation to $22 billion after a $300 million tender offer that lets employees cash out a portion of their vested equity. The offer, co‑led by Wellington and T. Rowe Price, follows a previous $100 million tender at a $6.6 billion valuation and is part of a broader trend of AI firms using employee liquidity to retain talent. ElevenLabs, founded in 2022, is known for ultra‑realistic human voices and sound effects, and its new valuation places it among Europe’s most valuable startups. The move underscores the company’s rapid growth and the increasing importance of liquidity events for high‑growth AI firms.",
-      "key_points": [
-        "ElevenLabs doubled its valuation to $22 billion after a $300 million tender offer",
-        "The offer, led by Wellington and T. Rowe Price, allows employees to sell vested equity",
-        "This is the second secondary transaction for the company, following a $100 million tender at $6.6 billion",
-        "The move reflects a trend of AI startups using employee liquidity to retain talent"
-      ],
-      "topics": [
-        "voice ai",
-        "valuation",
-        "employee liquidity",
-        "startup",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 18:23:57 +0000",
-      "processed_at": "2026-10-03T07:47:38.340941+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49202518493_54cc9e39e1_k.jpg?resize=1200,800",
-      "title": "3 days left to exhibit at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging startups to book their exhibit tables for Disrupt 2026 before the deadline on October 2, 11:59 p.m. PT. The event will host more than 10,000 founders, investors, and tech leaders in San Francisco from October 13‑15, offering a high‑traffic Expo Hall where companies can showcase products and generate leads. A $12,500 package includes a 6′ × 30″ table, 10 team passes, lead‑generation tools, branding, and press‑list access. Missing the window means waiting until next year to present at the world’s premier startup conference.",
-      "key_points": [
-        "Exhibit bookings close Oct 2, 11:59 p.m. PT.",
-        "Disrupt 2026 will host 10,000+ tech leaders in San Francisco Oct 13‑15.",
-        "$12,500 exhibit package offers table, passes, branding, and lead tools.",
-        "Missing the deadline forces startups to wait until next year."
-      ],
-      "topics": [
-        "techcrunch",
-        "startup",
-        "disrupt",
-        "expo",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 14:15:00 +0000",
-      "processed_at": "2026-10-03T07:47:38.069202+00:00"
-    },
-    {
-      "id": "nch-com-2026-09-29-more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/nachonacho2-e1790701460628.jpg?w=768",
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope | TechCrunch",
-      "author": "Jean Bradley",
-      "summary": "TechCrunch Disrupt 2026 will feature an expanded Side Events program that brings together founders, investors, and industry leaders across San Francisco for a range of gatherings, from intimate founder nights to themed mixers and live demos. Organizers such as KOTRA, WayFounder, Enterprise Ireland, SafetyWing, and Descope are hosting events that highlight cross‑border startup ecosystems, AI and security innovation, and hardware entrepreneurship, with some offering complimentary passes to non‑ticket holders. The lineup includes Korean‑US networking nights, a Taiwan AI showcase, a robotics‑hardware happy hour, and a live automation dinner, among others, ensuring that conversations continue well beyond the main conference floor. These side events aim to deepen connections, spark collaborations, and keep the Disrupt community engaged throughout the week.",
-      "key_points": [
-        "Disrupt 2026’s Side Events program features international startup networking nights, industry‑specific mixers, and live tech demos",
-        "Organizers like KOTRA, Enterprise Ireland, and SafetyWing provide complimentary passes or host themed gatherings",
-        "Events span from AI and security showcases to hardware happy hours and live automation dinners",
-        "The program keeps conversations alive beyond the main conference floor, fostering deeper connections and collaborations"
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "networking",
-        "events",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 18:48:03 +0000",
-      "processed_at": "2026-10-03T07:47:37.949973+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-doordashs-drone-strategy-started-on-the-ground",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Doordash-Air-drone.jpg?resize=1200,800",
-      "title": "DoorDash's drone strategy started on the ground | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "DoorDash’s new drone delivery service, unveiled at its Dash Forward 2026 event, follows a systems-first approach that began with ground logistics such as loading, kitchen handoffs, and packaging. The company’s R&D team, DoorDash Labs, built the autonomous sidewalk bot Dot and the underlying Autonomous Delivery Platform (ADP) software that now routes orders to drones based on weather, flight range, and traffic. After receiving a Part 135 FAA certification, DoorDash plans to launch pilot deliveries in Northern California with partners like Chipotle, Popeyes, and Momo N Curry using a six‑propeller drone equipped with a winch for pickup and drop‑off. This strategy leverages DoorDash’s 13‑year data on order weight and distance to scale the new air service.",
-      "key_points": [
-        "DoorDash built its drone delivery after first solving ground‑side logistics and developing the ADP software to coordinate all delivery modes",
-        "The company’s six‑propeller drone, equipped with a winch, received FAA Part 135 certification, enabling commercial operations in the U.S.",
-        "Pilot deliveries are slated to begin in Northern California with major restaurant partners such as Chipotle, Popeyes, and Momo N Curry"
-      ],
-      "topics": [
-        "drone delivery",
-        "autonomous delivery",
-        "logistics",
-        "faa certification",
-        "food delivery"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 19:22:13 +0000",
-      "processed_at": "2026-10-03T01:47:31.414065+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
-      "title": "Destro AI's secret sauce is getting robots and humans on the same page | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Destro, a stealth startup that raised an $8 million seed round, is redefining robotics by building an AI‑driven operating system that coordinates robots, humans, and equipment in logistics workflows rather than creating new robot hardware.  The company’s Vision OS, based on open‑weight vision‑language‑action models, was piloted at a Yusen Logistics facility where it directed cart‑moving robots to load and unload goods, reducing labor and eliminating paper processes.  Destro’s approach has won Yusen’s trust, leading to a full deployment of 26 robots and a second pilot with 17 robots, and the firm plans to scale the cross‑dock solution to thousands of warehouses.  By positioning itself as a “non‑robot company,” Destro aims to capture value in the software layer that makes existing robot bodies work efficiently in real‑world supply‑chain environments.",
-      "key_points": [
-        "Destro raised $8 million in seed funding and focuses on AI software that orchestrates robots, humans, and equipment in logistics settings.",
-        "Its Vision OS, built on open‑weight vision‑language‑action models, successfully piloted at Yusen Logistics, improving cross‑dock operations and eliminating paper workflows.",
-        "The startup plans to scale its cross‑dock solution to thousands of warehouses, leveraging its Mothership OS to coordinate multiple robots and human workers.",
-        "Destro’s strategy of being a “non‑robot company” differentiates it from traditional robotics firms that focus on hardware or isolated AI models."
-      ],
-      "topics": [
-        "robotics",
-        "ai",
-        "logistics",
-        "automation",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 16:00:00 +0000",
-      "processed_at": "2026-10-03T01:47:31.315369+00:00"
     }
   ]
 }

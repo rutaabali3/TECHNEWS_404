@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:05:35.092552+00:00",
+  "updated_at": "2026-10-09T20:15:12.177302+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -14,46 +14,10 @@
       "published": "Tue, 06 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "Facebook tests going Reels-first in India",
-      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
-      "feed_excerpt": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
-      "published": "Tue, 06 Oct 2026 12:38:53 +0000"
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "feed_excerpt": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "published": "Tue, 06 Oct 2026 19:56:50 +0000"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "feed_excerpt": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "published": "Tue, 06 Oct 2026 18:22:45 +0000"
-    },
-    {
-      "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-      "feed_excerpt": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
-      "published": "Tue, 06 Oct 2026 17:14:07 +0000"
-    },
-    {
       "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
       "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
       "feed_excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
       "published": "Tue, 06 Oct 2026 22:55:39 +0000"
-    },
-    {
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "feed_excerpt": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-      "published": "Tue, 06 Oct 2026 22:53:09 +0000"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "feed_excerpt": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "published": "Tue, 06 Oct 2026 22:34:03 +0000"
     },
     {
       "title": "Spotify expands audiobooks to over 180 markets",
@@ -414,7 +378,61 @@
       "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
       "feed_excerpt": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
       "published": "Fri, 09 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "feed_excerpt": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000"
+    },
+    {
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "feed_excerpt": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+      "published": "Fri, 09 Oct 2026 18:57:58 +0000"
+    },
+    {
+      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "feed_excerpt": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
+      "published": "Fri, 09 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "feed_excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "published": "Fri, 09 Oct 2026 16:56:42 +0000"
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "feed_excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "published": "Fri, 09 Oct 2026 16:45:00 +0000"
+    },
+    {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "feed_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "published": "Fri, 09 Oct 2026 16:40:14 +0000"
+    },
+    {
+      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+      "feed_excerpt": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+      "published": "Fri, 09 Oct 2026 16:07:26 +0000"
+    },
+    {
+      "title": "Remember Orkut? Its founder wants to bring it back",
+      "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+      "feed_excerpt": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
+      "published": "Fri, 09 Oct 2026 15:56:15 +0000"
+    },
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "feed_excerpt": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "published": "Fri, 09 Oct 2026 15:43:33 +0000"
     }
   ],
-  "last_processed_at": "2026-10-09T15:06:03.154234+00:00"
+  "last_processed_at": "2026-10-09T20:15:37.953813+00:00"
 }
