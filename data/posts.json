@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-09T07:51:15.878730+00:00",
+  "updated_at": "2026-10-09T15:06:05.214329+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-how-ai-decision-models-could-change-content-moderation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+      "title": "How AI decision models could change content moderation | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Musubi has unveiled PolicyLM-1.7B, a lightweight decision model designed for real‑time content moderation that can apply plain‑English policies to messages in under 50 milliseconds. The model, released with open weights, offers the speed and cost of traditional AI classifiers while retaining the flexibility of a large language model, and it does not require retraining when policies change. This launch follows the recent surge in decision‑model research, highlighted by TypeSafe AI’s Jev and similar offerings from OpenAI and Amazon, which aim to deliver faster, cheaper outcomes by limiting outputs to predetermined choices. By enabling platform managers to label content proactively and iteratively, PolicyLM-1.7B could significantly streamline moderation workflows and adapt quickly to evolving policy needs.",
+      "key_points": [
+        "PolicyLM-1.7B is a real‑time, open‑weight decision model that applies plain‑English content policies in under 50 ms.",
+        "It matches the cost and speed of existing classifiers but adds LLM flexibility, eliminating the need for retraining when policies change.",
+        "The release follows a broader industry shift toward decision models like Jev, OpenAI’s and Amazon’s offerings, which prioritize speed and cost over full text generation.",
+        "Musubi’s approach could transform content moderation by providing scalable, customizable labeling that adapts quickly to policy updates."
+      ],
+      "topics": [
+        "content moderation",
+        "ai decision models",
+        "musubi",
+        "policylm",
+        "openai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "processed_at": "2026-10-09T15:05:36.709113+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Lambda, a cloud provider focused on GPU capacity for AI workloads, is raising up to $4 billion at a $14.5 billion pre‑money valuation, likely its last private round before a planned 2027 IPO. The round is led by Coatue Management and Blackstone, and the company’s backlog surged from $15 billion in June to $50 billion in September, largely because of a $35 billion commitment from Anthropic. While the deal fuels Lambda’s valuation, it also highlights the company’s reliance on a single large client amid a market where lenders are tightening credit for data‑center buildouts. The fresh capital will position Lambda for a future public listing and give it a stronger footing as it competes with other Nvidia‑backed neoclouds such as CoreWeave and Nebius.",
+      "key_points": [
+        "Lambda is raising up to $4 billion at a $14.5 billion pre‑money valuation ahead of a 2027 IPO",
+        "Its backlog jumped from $15 billion to $50 billion, driven largely by a $35 billion deal with Anthropic",
+        "The funding round, led by Coatue and Blackstone, provides capital to navigate debt‑lender scrutiny for data‑center expansion",
+        "Lambda joins other Nvidia‑backed neoclouds that rely on large AI contracts to fund growth"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "financing",
+        "ipo",
+        "data center"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 20:00:30 +0000",
+      "processed_at": "2026-10-09T15:05:50.214008+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-paramount-closes-historic-warner-bros-merger-to-form-skydance",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?resize=1200,800",
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Paramount has finalized its $110 billion acquisition of Warner Bros. Discovery, creating a new company called Skydance that will combine Paramount+ and HBO Max with networks such as CBS, CNN, MTV, TBS, Comedy Central and Food Network. The merger brings major franchises—including The Lord of the Rings, Game of Thrones, the DC Universe and Yellowstone—under Skydance’s control and will generate annual revenue of nearly $70 billion. David Ellison, who recently merged Skydance Media with Paramount, will lead the new entity, which will trade on the NYSE under the ticker SKYD. The deal was cleared after settlements with U.S. states and the Writers Guild, marking one of the largest entertainment mergers ever.",
+      "key_points": [
+        "Paramount’s $110 billion purchase of Warner Bros. Discovery creates Skydance, merging Paramount+ and HBO Max with major cable networks and franchises",
+        "The new company will generate about $70 billion in annual revenue and trade on the NYSE as SKYD",
+        "David Ellison, backed by the Ellison family’s Oracle wealth, will head Skydance after previously merging Skydance Media with Paramount"
+      ],
+      "topics": [
+        "merger",
+        "skydance",
+        "paramount",
+        "warnerbros",
+        "entertainment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 13:57:32 +0000",
+      "processed_at": "2026-10-09T15:06:03.154140+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-hot-girl-hotline-is-like-dear-abby-for-the-ai-era",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920",
+      "title": "Hot Girl Hotline is like 'Dear Abby' for the AI era | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Hot Girl Hotline, founded by sisters Baila Mudgil and Sumrin, offers a privacy‑focused AI chat that gives young women behavioral‑science‑based dating and relationship advice. The service prioritizes safety by flagging harmful conversations, providing crisis‑hotline referrals, and using zero‑data‑retention policies. It charges $9.99 a month and plans to expand beyond relationship advice into beauty and lifestyle. The startup will showcase its product at TechCrunch Disrupt 2026 and is already bootstrapped with paying users.",
+      "key_points": [
+        "Hot Girl Hotline delivers AI‑powered dating advice grounded in behavioral science while emphasizing user safety and privacy",
+        "The founders, sisters Baila Mudgil and Sumrin, use zero‑data‑retention and crisis‑hotline referrals to mitigate mental‑health risks",
+        "The service monetizes with a $9.99/month subscription and aims to broaden into beauty and lifestyle categories",
+        "It will debut at TechCrunch Disrupt 2026 and already has a paying user base"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "women",
+        "relationship advice",
+        "safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
+      "processed_at": "2026-10-09T15:05:36.366075+00:00"
+    },
     {
       "id": "-techcrunch-com-2026-10-06-silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
@@ -2380,103 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 16:00:00 +0000",
       "processed_at": "2026-10-03T01:47:31.315369+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Group-Hangouts-Press-Asset.png?w=1200",
-      "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Tinder has launched a new feature called Group Hangouts that lets friends form groups, choose an activity, and match with other groups to plan real‑world outings. The feature supports up to 15 people per group, appears in the main card stack once a group reaches three members, and includes safety controls such as leaving chats or blocking participants. Group Hangouts builds on Tinder’s earlier Double Date concept and is part of the company’s strategy to revive user engagement amid a decline in monthly active users and revenue. The rollout begins in the U.S. and select markets, with plans to expand further as the app pushes more social, IRL experiences.",
-      "key_points": [
-        "Tinder’s Group Hangouts lets friends form up to 15‑person groups to match and plan real‑world activities, appearing in the main card stack after three members join.",
-        "The feature adds safety controls, allowing members to leave chats or block participants without leaving the group.",
-        "It follows Tinder’s Double Date launch and is part of a broader effort to counter declining MAUs and revenue by encouraging social, in‑person interactions.",
-        "Bumble’s similar Plans feature signals a wider industry shift toward group‑oriented, IRL dating experiences."
-      ],
-      "topics": [
-        "dating apps",
-        "social features",
-        "irldating",
-        "tinder",
-        "groupdating"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-10-03T01:47:40.777694+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg?resize=1200,675",
-      "title": "Factory CEO just accused his VC board adviser of spying for Cognition | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Matan Grinberg, CEO of AI‑coding startup Factory, fired board adviser Chris Degnan after accusing him of leaking confidential information to Factory’s main rival, Cognition. Degnan, who had just been hired by Cognition as chief revenue officer, denied the claim and said he had resigned to take the new role, while Factory’s board members and investors—including Khosla Ventures—publicly weighed in on the dispute. The incident highlights a growing conflict‑of‑interest problem in the AI venture ecosystem, where VCs often invest in competing firms while serving on their boards. Factory, which recently raised $200 million at a $5 billion valuation, and Cognition, which raised $2 billion at a $48 billion valuation, are both major players in the AI coding agent space.\n",
-      "key_points": [
-        "Factory CEO fired VC adviser over alleged data leakage to rival Cognition",
-        "Degnan denies firing, claims resignation and new role at Cognition",
-        "The dispute underscores conflict‑of‑interest concerns in AI venture capital",
-        "Both companies have recently secured large funding rounds and compete in the AI coding agent market"
-      ],
-      "topics": [
-        "startup",
-        "ai",
-        "conflict-of-interest",
-        "venturecapital",
-        "board"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 20:39:09 +0000",
-      "processed_at": "2026-10-02T22:50:59.892007+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Spotify founder Daniel Ek’s body‑scanning startup Neko Health has secured $700 million in funding, positioning it to commercialize AI‑driven full‑body scans for preventative health. The company is part of a growing wave of consumer‑health firms, including Midjourney’s own scanner and Function Health, that investors are backing heavily. TechCrunch’s Equity podcast episode features a conversation with Preface Ventures partner Farooq Abbasi, who compares Neko’s approach to its peers and discusses what it will take for body scanning to integrate into mainstream healthcare. The discussion highlights the potential of AI‑powered diagnostics to shift health care from reactive to proactive, while noting regulatory, data‑privacy, and clinical‑validation hurdles.",
-      "key_points": [
-        "Neko Health raised $700M to develop AI‑driven full‑body scans for preventative health",
-        "The startup joins a cohort of companies like Midjourney and Function Health that are investing in body‑scanning technology",
-        "Investors and analysts see body scanning as a potential shift toward proactive healthcare, but regulatory and validation challenges remain"
-      ],
-      "topics": [
-        "healthtech",
-        "ai",
-        "preventative health",
-        "startup funding",
-        "spotify"
-      ],
-      "source_url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 20:20:02 +0000",
-      "processed_at": "2026-10-02T22:51:00.048532+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-the-ugly-economics-of-consumer-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "title": "The ugly economics of consumer AI | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "The article examines why consumer AI, despite recent successes like Meta’s Muse and OpenAI’s Dots, faces grim economics that limit growth. It highlights that only about 2–3% of U.S. consumers pay for AI services, spending roughly $30–$40 a month, far below the break‑even threshold for large‑scale operations. The piece notes that most labs have shifted to enterprise contracts, where higher margins are achievable, and that OpenAI’s pivot has already doubled bookings since July. The author argues that unless consumer AI can find new monetization models, its expansion will remain capped by these cost‑heavy realities.",
-      "key_points": [
-        "Only 2–3% of consumers pay for AI, spending roughly $30–$40/month.",
-        "Labs are moving to enterprise contracts to achieve higher margins.",
-        "OpenAI’s pivot to enterprise has doubled bookings since July."
-      ],
-      "topics": [
-        "consumer ai",
-        "economics",
-        "enterprise",
-        "ai assistants"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 17:24:45 +0000",
-      "processed_at": "2026-10-02T22:51:00.148375+00:00"
     }
   ]
 }

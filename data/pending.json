@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-09T07:50:46.031584+00:00",
+  "updated_at": "2026-10-09T15:05:35.092552+00:00",
   "items": [
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "feed_excerpt": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "published": "Mon, 05 Oct 2026 17:29:22 +0000"
-    },
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
       "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
@@ -20,28 +14,10 @@
       "published": "Tue, 06 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
-      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
-      "feed_excerpt": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
-      "published": "Tue, 06 Oct 2026 13:57:32 +0000"
-    },
-    {
       "title": "Facebook tests going Reels-first in India",
       "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
       "feed_excerpt": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
       "published": "Tue, 06 Oct 2026 12:38:53 +0000"
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "feed_excerpt": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "published": "Tue, 06 Oct 2026 20:35:20 +0000"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "feed_excerpt": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "published": "Tue, 06 Oct 2026 20:00:30 +0000"
     },
     {
       "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -402,7 +378,43 @@
       "url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
       "feed_excerpt": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
       "published": "Thu, 08 Oct 2026 15:12:59 +0000"
+    },
+    {
+      "title": "Automattic loses its interim CFO just weeks after boardroom shakeup",
+      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+      "feed_excerpt": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.",
+      "published": "Fri, 09 Oct 2026 15:02:30 +0000"
+    },
+    {
+      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
+      "published": "Fri, 09 Oct 2026 14:42:34 +0000"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "feed_excerpt": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+      "published": "Fri, 09 Oct 2026 14:30:00 +0000"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "feed_excerpt": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "published": "Fri, 09 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+      "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "feed_excerpt": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
+      "published": "Fri, 09 Oct 2026 13:40:36 +0000"
+    },
+    {
+      "title": "Xona’s commercial GPS alternative is about to go live",
+      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "feed_excerpt": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-09T07:51:15.609445+00:00"
+  "last_processed_at": "2026-10-09T15:06:03.154234+00:00"
 }
