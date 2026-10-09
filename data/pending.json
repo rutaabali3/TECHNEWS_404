@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:34:02.299421+00:00",
+  "updated_at": "2026-10-09T01:02:59.146863+00:00",
   "items": [
     {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
       "feed_excerpt": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "feed_excerpt": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "published": "Tue, 06 Oct 2026 16:35:00 +0000"
     },
     {
       "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
@@ -54,12 +48,6 @@
       "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
       "feed_excerpt": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
       "published": "Tue, 06 Oct 2026 12:38:53 +0000"
-    },
-    {
-      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
-      "feed_excerpt": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
-      "published": "Tue, 06 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
@@ -420,7 +408,25 @@
       "url": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
       "feed_excerpt": "Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode with energy — and the real magic kicks off with an epic lineup of Side Events lighting up the city from November 3–6!",
       "published": "Thu, 08 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "feed_excerpt": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "published": "Thu, 08 Oct 2026 22:33:59 +0000"
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "feed_excerpt": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "published": "Thu, 08 Oct 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+      "url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
+      "feed_excerpt": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+      "published": "Thu, 08 Oct 2026 15:12:59 +0000"
     }
   ],
-  "last_processed_at": "2026-10-08T20:34:28.239934+00:00"
+  "last_processed_at": "2026-10-09T01:03:00.534322+00:00"
 }

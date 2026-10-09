@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-08T20:34:33.517872+00:00",
+  "updated_at": "2026-10-09T01:03:27.214558+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-06-mirror-particle-is-building-a-world-model-of-human-behavior",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Mirror Particle is developing a world model that simulates how humans change over time, arguing that large language models are too static to predict real behavior. The San Francisco startup uses longitudinal data and revealed actions, combining client data, social media, and current events to give brands not just predictions but the motivations behind them. In an early pilot, the company discovered that a pet‑food brand’s sales plateau was due to perception, not packaging imagery. Mirror Particle has raised an angel round, is close to closing its first venture round, and will compete in TechCrunch’s Startup Battlefield 2026.",
+      "key_points": [
+        "Mirror Particle rejects LLMs in favor of a dynamic world model that tracks how people change over time",
+        "The engine relies on longitudinal data and revealed behavior to provide brands actionable insights and the underlying motivations",
+        "An early pilot with a pet‑food brand revealed that perception, not imagery, was the sales bottleneck",
+        "The startup is near closing its first venture round and will showcase its technology at TechCrunch Disrupt 2026"
+      ],
+      "topics": [
+        "ai",
+        "behavior prediction",
+        "startup",
+        "techcrunch",
+        "disrupt"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "processed_at": "2026-10-09T01:03:00.283137+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Infinity-One-render.jpg?resize=1200,675",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034 | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Type One Energy, a Knoxville‑based fusion startup, closed a $200 million Series B round to accelerate the construction of its first 400‑megawatt commercial fusion plant, which the company aims to bring online by 2034. The funding will help the firm move closer to a breakthrough while keeping capital requirements lower than many competitors by adopting an integrator model that outsources most component manufacturing to a curated network of suppliers. Key partners include AECOM for engineering, the Tennessee Valley Authority’s Bull Run site for initial devices, and Commonwealth Fusion Systems for high‑temperature superconducting magnet technology. The round was led by Breakthrough Energy Ventures and Clutterbuck Capital, with participation from Lowercarbon Capital, Siemens Energy Ventures, and SiteGround Capital, following an earlier $82.5 million Series A.\n",
+      "key_points": [
+        "Type One Energy raised $200 million in Series B to fund a 400‑MW fusion plant slated for 2034",
+        "The company uses an integrator model, outsourcing most parts to reduce capital and manufacturing risk",
+        "Partnerships include AECOM, TVA’s Bull Run site, and Commonwealth Fusion Systems for magnet tech",
+        "Investors include Breakthrough Energy Ventures, Clutterbuck Capital, Lowercarbon Capital, Siemens Energy Ventures, and SiteGround Capital"
+      ],
+      "topics": [
+        "fusion",
+        "energy",
+        "startup",
+        "investment",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 12:00:00 +0000",
+      "processed_at": "2026-10-09T01:03:00.534218+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-bluesky-wants-to-give-you-your-own-domain-on-the-open-web",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
@@ -2427,56 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 14:32:03 +0000",
       "processed_at": "2026-10-02T06:01:23.375468+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-09-30-cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Andrew-Feldman_1-Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Cerebras Systems’ Andrew Feldman joins Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Cerebras Systems CEO and co‑founder Andrew Feldman will take the Disrupt Stage at TechCrunch Disrupt 2026 to discuss whether AI can keep scaling as demand for compute, energy, and infrastructure grows. Feldman will highlight Cerebras’ wafer‑scale processors, the company’s $5.5 billion IPO, and a multi‑year OpenAI deal to deploy 750 MW of Cerebras systems from 2026 to 2028. The company is expanding its data‑center capacity to more than 600 MW and plans to increase manufacturing tenfold in 2026, with a European expansion underway. The session will explore how the limits of conventional hardware and physical infrastructure could shape the future of AI.",
-      "key_points": [
-        "Andrew Feldman will speak on AI scaling at Disrupt 2026",
-        "Cerebras uses wafer‑scale processors, raised $5.5B IPO, and signed a 750 MW OpenAI deal",
-        "The firm is expanding data‑center capacity to 600 MW and manufacturing tenfold in 2026",
-        "The talk will examine compute, energy, and infrastructure limits for future AI hardware"
-      ],
-      "topics": [
-        "ai",
-        "hardware",
-        "disrupt",
-        "cerebras",
-        "data center"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-10-02T06:01:23.394913+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-instagram-rolls-out-an-ai-video-assistant-for-creators",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-      "title": "Instagram rolls out an AI video assistant for creators | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Instagram has launched an AI video assistant for its Edits app, a CapCut competitor, to give creators personalized feedback based on their account metrics. The chatbot pulls data such as follows, views, retention, likes, shares, comments, trending topics, and audience interests to spot performance patterns and surface actionable insights. Creators still control the creative decisions, while the assistant handles the analysis, and usage is capped unless users subscribe to Meta One for additional access. Meta previewed the tool in June and is also developing a desktop app, while YouTube is working on a conversational editing tool expected next year, highlighting a broader industry push toward AI‑powered video creation.",
-      "key_points": [
-        "Instagram introduces an AI video assistant for Edits that focuses on analytics-driven insights rather than creative editing",
-        "The tool analyzes account metrics, trends, and audience data to surface actionable performance patterns",
-        "Creators retain creative control while the assistant handles analysis and usage is limited unless upgraded to Meta One",
-        "Meta previewed the assistant in June and is developing a desktop app, amid similar efforts from YouTube"
-      ],
-      "topics": [
-        "instagram",
-        "ai",
-        "video editing",
-        "creators",
-        "meta"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 14:30:00 +0000",
-      "processed_at": "2026-10-02T06:01:36.270485+00:00"
     }
   ]
 }
