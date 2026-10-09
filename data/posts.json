@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-09T01:03:27.214558+00:00",
+  "updated_at": "2026-10-09T07:51:15.878730+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "-techcrunch-com-2026-10-06-silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+      "title": "Silicon Valley's AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Sigil Wen, a self‑taught coder who grew up hacking alongside future AI leaders, has launched Underdog, an invite‑only beta of a private on‑device AI assistant that keeps all user data on Macs, Windows PCs, and soon Linux, iPhone, and Android. Powered by Wen’s Husky inference engine and a 27‑billion‑parameter model fine‑tuned from Qwen3.8‑27B, Underdog offers privacy‑centric features such as encrypted account keys while matching the performance of larger cloud‑hosted models like Claude Opus 4.6. The startup plans to remain free and ad‑free, instead taking a tiny fee on Stripe‑powered payment transactions, a model that aligns the AI’s revenue with user spending rather than data collection. Backed by investors including Andreessen Horowitz, Khosla Ventures, and Stripe co‑founder Patrick Collison, Underdog aims to prove that privacy and capability can coexist in consumer AI.",
+      "key_points": [
+        "Underdog is a private on‑device AI assistant that runs a 27‑billion‑parameter model entirely on user hardware via the Husky engine.",
+        "It preserves privacy by keeping data on the device and encrypting account keys, while matching the performance of larger cloud models.",
+        "The business model is free and ad‑free, taking only a small fee on Stripe transactions instead of charging subscriptions or selling data.",
+        "The startup is backed by prominent investors such as Andreessen Horowitz, Khosla Ventures, and Stripe co‑founder Patrick Collison."
+      ],
+      "topics": [
+        "ai",
+        "privacy",
+        "startup",
+        "investment",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 20:47:01 +0000",
+      "processed_at": "2026-10-09T07:50:47.408205+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Furientis.png?resize=1200,675",
+      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Benchmark has led a $25 million seed round for Furientis, a one‑year‑old defense startup that aims to mass‑produce low‑cost interceptor missiles. The company, valued at $125 million, already secured a Pentagon contract and has launched dozens of prototypes after a $5 million pre‑seed round. Benchmark’s investment marks the firm’s first bet on a pure defense startup, reflecting a shift in VC interest after Ukraine and Iran conflicts strained U.S. missile supplies. Furientis plans to build 1,000 systems a year by using readily available components, offering the Pentagon a cheaper alternative to traditional high‑cost interceptors.",
+      "key_points": [
+        "Benchmark invests $25M seed in Furientis, its first pure defense startup bet.",
+        "Furientis, valued at $125M, has a Pentagon contract and has launched dozens of prototypes with only $5M pre‑seed.",
+        "The startup aims to produce 1,000 low‑cost interceptor missiles annually using readily available parts, addressing U.S. missile shortages."
+      ],
+      "topics": [
+        "defense",
+        "venture capital",
+        "missile",
+        "startup",
+        "procurement"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:29:12 +0000",
+      "processed_at": "2026-10-09T07:50:47.685567+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/3-1.jpeg?resize=1200,675",
+      "title": "Vinod Khosla believes ex-DeepMind engineer's Wajo will win agent market on trust | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Vinod Khosla has publicly backed former DeepMind engineer Shivani Poddar’s startup Wajo, citing the company’s focus on trust as the key differentiator in a crowded personal‑agent market dominated by Meta’s Muse, OpenAI’s Dot, and Instinct. Wajo’s Fo agent can schedule tasks, make calls, book services, and even create virtual credit cards while keeping user data hidden from third parties, and it has already grown 10× since its late‑September launch and operates in 107 countries. The startup has secured backing from Jeff Dean and Gokul Rajaram, and it is actively addressing privacy and safety through features like a trusted‑contact list and a patent‑pending virtual card system. Khosla’s endorsement signals that trust‑centric design may become a decisive factor for consumers choosing AI assistants.",
+      "key_points": [
+        "Vinod Khosla backs Wajo for its trust‑first architecture",
+        "Wajo’s Fo agent handles calls, bookings, and virtual card payments while protecting user data",
+        "The startup has grown 10× since launch and operates in 107 countries",
+        "Backing from Jeff Dean and Gokul Rajaram underscores industry confidence"
+      ],
+      "topics": [
+        "ai agents",
+        "trust",
+        "privacy",
+        "startup",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 15:15:00 +0000",
+      "processed_at": "2026-10-09T07:50:47.518243+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/iPhone-2D-and-3D-on-the-Glimpse-Portal.jpg?resize=1200,631",
+      "title": "Exclusive: Glimpse wants to give hardware companies an X-ray view of every critical part | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Glimpse has unveiled a software platform that can accelerate CT scanning of battery cells by 10 to 30 times, allowing manufacturers to inspect tens of thousands of cells per day instead of just a handful. The company’s new Explore product extends this high‑speed, deep‑learning‑powered image analysis to other sectors such as aerospace, automotive, electronics, and medical devices, helping them spot defects faster. Glimpse already serves over 100 customers—including Anker, Lucid, and the U.S. Navy—and reports mid‑seven‑figure revenue, while its Scan‑On‑Demand service lets firms ship parts to Boston or San Francisco for rapid inspection without buying expensive scanners.",
+      "key_points": [
+        "Glimpse’s software boosts CT scan throughput 10–30×, enabling tens of thousands of battery cells to be inspected daily.",
+        "The Explore platform applies the same deep‑learning image processing to aerospace, automotive, electronics, and medical device quality control.",
+        "Customers can ship parts to Glimpse’s Scan‑On‑Demand centers, expanding access to high‑speed scanning without purchasing equipment.",
+        "The startup has more than 100 customers and generates mid‑seven‑figure revenue, indicating strong market traction."
+      ],
+      "topics": [
+        "technology",
+        "manufacturing",
+        "quality control",
+        "battery",
+        "deep learning"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 13:15:00 +0000",
+      "processed_at": "2026-10-09T07:51:15.609380+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-mirror-particle-is-building-a-world-model-of-human-behavior",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
@@ -2378,105 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 17:24:45 +0000",
       "processed_at": "2026-10-02T22:51:00.148375+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-charter-space-raises-5m-to-bring-insurance-to-the-stars",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/charter-space-founders.jpg?resize=1200,800",
-      "title": "Exclusive: Charter Space raises $5M to bring insurance to the stars | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Charter Space, a finalist in last year’s TechCrunch Startup Battlefield, has closed a $5 million seed round led by Crystal Venture Partners with participation from QED, Blank Ventures, Hustle Fund and Gaingels. The El Segundo, California‑based startup already insures more than 50 U.S. space and defense companies and aims to broaden coverage to satellites and novel mission concepts such as lunar and in‑space servicing. The new capital will be used to expand its sales organization and develop additional insurance products. By providing affordable underwriting for space assets, Charter Space seeks to make the commercial space economy safer and more attractive to diverse investors.",
-      "key_points": [
-        "$5 million seed round led by Crystal Venture Partners, with QED, Blank Ventures, Hustle Fund and Gaingels",
-        "Charter Space already insures 50+ U.S. space and defense firms and plans to expand coverage to satellites and novel missions",
-        "Funding will grow the sales organization and broaden insurance offerings",
-        "The company positions itself at the intersection of commercial space growth and modern risk management"
-      ],
-      "topics": [
-        "space insurance",
-        "startup funding",
-        "commercial space",
-        "risk management",
-        "venture capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "processed_at": "2026-10-02T22:51:28.311438+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-whatsapp-adds-new-parental-controls-for-teen-accounts",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/whatsapp-meta-logo.jpg?resize=1200,800",
-      "title": "WhatsApp adds new parental controls for teen accounts | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "WhatsApp has rolled out PIN‑protected parental controls for teen accounts, letting guardians limit who teens can interact with, view or be seen by, and who can add them to groups. Parents can also set Meta AI content settings to a default 13+ or a stricter “Limited Content” mode that disables private processing features such as incognito chat and message summaries. The new controls are optional and can be turned off, and WhatsApp confirms that end‑to‑end encryption of messages and calls remains unchanged. The update comes amid Meta’s recent $18 billion fine and ongoing lawsuits alleging harm to children, prompting the company to expand safety features across its apps.",
-      "key_points": [
-        "WhatsApp introduces PIN‑protected parental controls that restrict teen interactions, status visibility, group additions, and profile picture access.",
-        "Parents can set Meta AI content settings to 13+ or limited content, disabling private processing features like incognito chat.",
-        "The controls are optional, can be disabled, and do not affect end‑to‑end encryption of messages and calls.",
-        "Meta’s new safety features follow an $18 billion fine and lawsuits accusing the company of harming children."
-      ],
-      "topics": [
-        "whatsapp",
-        "parental controls",
-        "meta",
-        "ai",
-        "child safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 13:50:16 +0000",
-      "processed_at": "2026-10-02T18:37:09.565186+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Flow Engineering, a San Francisco‑based AI hardware design startup, closed a $50 million Series B round that values the company at $750 million. The round was co‑led by Valor Equity Partners and Atreides Management, with participation from Sequoia Capital and individual investor Roelof Botha, who also joined the board. Flow’s platform uses AI agents to automatically align CAD drawings with product requirements, simulation results, and other testing data, helping firms streamline hardware development. Its customer roster includes high‑profile names such as Anduril, Rivian, Joby Aviation, General Motors PPU, RV Tech, and Stoke Space.",
-      "key_points": [
-        "Raised $50M Series B at a $750M valuation",
-        "Co‑led by Valor Equity Partners and Atreides Management, with Sequoia and Roelof Botha participating",
-        "Offers AI agents that auto‑align CAD drawings with specifications and simulations",
-        "Serves major automotive and aerospace customers like Rivian, Anduril, and Joby Aviation"
-      ],
-      "topics": [
-        "ai",
-        "hardware design",
-        "startup funding",
-        "valuation",
-        "investors"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 21:07:40 +0000",
-      "processed_at": "2026-10-02T13:01:26.661546+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fitbit-air-india.jpg?resize=1200,675",
-      "title": "Google launches Fitbit Air in India, though its high price might deter the masses | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Google launched the screen‑less Fitbit Air fitness tracker in India on Oct 2, pricing it at ₹13,999 (~$146) to position it as a premium device, while the same model sells for $99 in the U.S. The band offers 24/7 heart rate monitoring, A‑fib alerts, blood oxygen, sleep stages, and other health metrics, aiming to capture the growing screen‑less wearable niche. Despite India representing only 5% of the screen‑less market, Google is betting on its brand to drive adoption, offering a free three‑month Google Health premium membership with purchase. The high price may limit mass appeal, but the device is available through the Google Store and major Indian retailers such as Flipkart, Croma, Reliance Digital, and Vijay Sales.",
-      "key_points": [
-        "Google priced the Fitbit Air at ₹13,999 (~$146) in India, higher than its $99 U.S. price, targeting a premium segment.",
-        "The screen‑less tracker includes 24/7 heart rate, A‑fib alerts, blood oxygen, and sleep monitoring, aligning with the rising demand for distraction‑free wearables.",
-        "Availability starts Oct 2 on the Google Store and major Indian retailers, with a free three‑month Google Health premium membership bundled."
-      ],
-      "topics": [
-        "fitbit",
-        "google",
-        "wearables",
-        "india",
-        "healthtech"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 14:32:03 +0000",
-      "processed_at": "2026-10-02T06:01:23.375468+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:02:59.146863+00:00",
+  "updated_at": "2026-10-09T07:50:46.031584+00:00",
   "items": [
     {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -14,18 +14,6 @@
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     },
     {
-      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
-      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
-      "feed_excerpt": "The storied Silicon Valley firm makes its first pure defense investment.",
-      "published": "Tue, 06 Oct 2026 16:29:12 +0000"
-    },
-    {
-      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-      "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-      "feed_excerpt": "Wajo's Fo agent can hire humans to complete a task.",
-      "published": "Tue, 06 Oct 2026 15:15:00 +0000"
-    },
-    {
       "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
       "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
       "feed_excerpt": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
@@ -38,22 +26,10 @@
       "published": "Tue, 06 Oct 2026 13:57:32 +0000"
     },
     {
-      "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
-      "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
-      "feed_excerpt": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
-      "published": "Tue, 06 Oct 2026 13:15:00 +0000"
-    },
-    {
       "title": "Facebook tests going Reels-first in India",
       "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
       "feed_excerpt": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
       "published": "Tue, 06 Oct 2026 12:38:53 +0000"
-    },
-    {
-      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-      "feed_excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-      "published": "Tue, 06 Oct 2026 20:47:01 +0000"
     },
     {
       "title": "How AI decision models could change content moderation",
@@ -428,5 +404,5 @@
       "published": "Thu, 08 Oct 2026 15:12:59 +0000"
     }
   ],
-  "last_processed_at": "2026-10-09T01:03:00.534322+00:00"
+  "last_processed_at": "2026-10-09T07:51:15.609445+00:00"
 }
