@@ -1,7 +1,108 @@
 {
-  "updated_at": "2026-10-10T17:42:25.884382+00:00",
+  "updated_at": "2026-10-10T21:21:23.157935+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1127662758.jpg?resize=1200,675",
+      "title": "X expands its 'Gametime' sports hub beyond the NFL, starting with MLB | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "X has announced that its Gametime feature will expand beyond the NFL to include Major League Baseball, marking the platform’s first step toward becoming a year‑round hub for all professional sports. The MLB integration, launching this month, will let fans track scores, stats, and real‑time discussions while also providing creators and news content. This move is part of X’s broader effort to win back advertisers after a July settlement with the World Federation of Advertisers, leveraging the high engagement of live sports to attract brands. Future plans include adding the NBA and other leagues, positioning Gametime as a scalable destination for sports fans and advertisers alike.",
+      "key_points": [
+        "X adds MLB to its Gametime feature, expanding beyond the NFL",
+        "Gametime is positioned as a year‑round hub for all professional sports",
+        "The expansion is part of X’s strategy to regain advertisers after a settlement with the WFA",
+        "Future plans include adding the NBA and other leagues"
+      ],
+      "topics": [
+        "x",
+        "gametime",
+        "sports",
+        "advertising",
+        "mlb"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 18:10:00 +0000",
+      "processed_at": "2026-10-10T21:20:56.047561+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI is launching a new \"Intelligent UI\" feature that adds interactive visuals—such as tappable buttons, custom calculators, charts, and editable graphs—to ChatGPT conversations, aiming to make complex topics easier to understand and broaden the model’s appeal. The feature debuts with GPT‑6 on Wednesday and will be available to Pro, Plus, Business, and Enterprise users worldwide, with free and Go tier users gaining access the following day. Users can customize the amount of visual content, and the rollout includes examples like diagrams of airplane wing lift, recipe steps, bicycle mechanics, and hiking maps. The update underscores OpenAI’s shift from a purely text‑based interface toward a more engaging, multimodal user experience.",
+      "key_points": [
+        "Intelligent UI introduces interactive visuals such as tappable buttons, calculators, charts, and editable graphs to ChatGPT.",
+        "The feature launches with GPT‑6 on Wednesday and is available to all paid tiers globally, with free tier users following the next day.",
+        "OpenAI emphasizes the goal of simplifying complex learning and expanding accessibility through visual aids.",
+        "Users can adjust the visual density of responses to suit their preferences.",
+        ""
+      ],
+      "topics": [
+        "chatgpt",
+        "openai",
+        "artificialintelligence",
+        "userinterface",
+        "visualai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 18:00:19 +0000",
+      "processed_at": "2026-10-10T21:20:55.584729+00:00"
+    },
+    {
+      "id": "26-10-07-cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gold-bars-doj.jpg?resize=1200,908",
+      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Former CIA officer David J. Rush pleaded guilty to wire fraud after fabricating a top‑secret special access program that siphoned nearly $200 million from the U.S. government, including hundreds of gold bars. Rush, who had lied about his education and military background to secure a senior CIA role, used the program to trick a defense contractor into purchasing gold that he then pocketed. Law enforcement seized more than $46 million worth of gold, cars, watches and over $2 million in cash from Rush’s home. The plea deal spares the government a trial and a public examination of how Rush evaded vetting, with sentencing set for January 2027 and a potential 20‑year prison term.",
+      "key_points": [
+        "Former CIA officer David J. Rush pleaded guilty to wire fraud, stealing almost $200 million via a fabricated special access program.",
+        "He used the fake program to funnel gold and cash, deceiving a defense contractor into buying gold he kept.",
+        "Law enforcement seized $46 million in gold, cars, watches and $2 million in cash from Rush’s residence.",
+        "The plea avoids trial; Rush faces up to 20 years in prison and will be sentenced in January 2027."
+      ],
+      "topics": [
+        "cia",
+        "wire fraud",
+        "gold theft",
+        "special access program",
+        "government fraud"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 17:04:46 +0000",
+      "processed_at": "2026-10-10T21:21:03.488828+00:00"
+    },
+    {
+      "id": "unch-com-2026-10-07-another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
+      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Tab, a new personal AI assistant, has emerged from stealth with a $300 million valuation, backed by investors such as SV Angel, Valar Ventures, and American Spirit. The service lets users text the assistant on iMessage or WhatsApp to handle everyday tasks like ordering groceries, booking travel, and making reservations, with the assistant performing the actions directly. Tab differentiates itself by prioritizing privacy, keeping user data out of training sets and storing payment information in a vault that the assistant never accesses. The founders emphasize that trust, not just capability, is the key to winning the consumer AI race.",
+      "key_points": [
+        "Tab launched from stealth with a $300M valuation",
+        "It operates via iMessage/WhatsApp to handle tasks and make bookings",
+        "The platform prioritizes privacy, never using data to train AI and keeping cards in a vault",
+        "Investors include SV Angel, Valar Ventures, and American Spirit"
+      ],
+      "topics": [
+        "ai",
+        "personal assistant",
+        "startup",
+        "valuation",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 13:45:00 +0000",
+      "processed_at": "2026-10-10T21:20:55.931191+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-07-chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
@@ -2379,104 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 01 Oct 2026 16:35:25 +0000",
       "processed_at": "2026-10-03T23:36:41.200019+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-10-01-satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Satlyt, founded by former Google and SpaceX product manager Rama Afullo, has raised an $8 million seed round led by Non Sibi Ventures to build software that lets satellites run AI workloads without needing dedicated space‑based data centers. The company has already flown its platform on two demonstration missions and will launch its software on a TakeMe2Space satellite aboard a SpaceX rocket, alongside Google’s Project Suncatcher prototype. Satlyt’s goal is to create a shared compute cloud that spans multiple satellites, targeting 20 % of the satellite fleet by the end of the decade, and it plans to offer its software as an open, cross‑vendor solution rather than building its own spacecraft. The funding and early deployments position Satlyt as a key player in the emerging orbital computing ecosystem, where efficient on‑board AI can reduce downlink costs and enable real‑time anomaly resolution.\n",
-      "key_points": [
-        "Satlyt raised $8 million in seed funding led by Non Sibi Ventures to develop AI software for satellites.",
-        "The company has already flown its platform on two missions and will launch with a TakeMe2Space satellite on a SpaceX rocket.",
-        "Satlyt aims to build a shared compute cloud across satellites, targeting 20 % of the satellite fleet by 2030.",
-        "Unlike competitors, Satlyt focuses on software that runs on existing satellites rather than building new spacecraft."
-      ],
-      "topics": [
-        "satellite computing",
-        "ai",
-        "startup funding",
-        "space industry",
-        "orbital data centers"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
-      "processed_at": "2026-10-03T23:36:28.145452+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
-      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will take place at Moscone West in San Francisco from October 13‑15, focusing on how founders can build enduring companies in the AI era. The three‑day event features more than 200 expert sessions, the iconic Startup Battlefield pitch competition, and extensive networking tools such as investor matchmaking and side events tailored to different stages of a startup’s journey. Founders can save 50% on a second ticket or bring a colleague, and a special $75 Expo+ Pass is available for those impacted by layoffs. The guide emphasizes that every conversation in the expo hall or side event can spark opportunities, from early‑stage validation to scaling and partnership building.",
-      "key_points": [
-        "Disrupt 2026 centers on building companies in the AI era with over 200 sessions and a Startup Battlefield competition",
-        "Founders can get 50% off a second ticket or a $75 Expo+ Pass for laid‑off network members",
-        "Networking tools and investor matchmaking are highlighted to maximize opportunities for startups at all stages"
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "ai",
-        "investing",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 00:03:23 +0000",
-      "processed_at": "2026-10-03T23:36:27.803764+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
-      "title": "OpenAI's Jev clone could help the frontier lab stop its swarming agents | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI announced a new Decisions API at its Dev Day, positioning it as a fast, low‑cost decision‑making tool similar to TypeSafe AI’s Jev model. The API lets developers give the Luna model a predefined set of options, enabling rapid classification or behavior selection while retaining broad language and safety features. Early chatter on X suggests the tool could be used to monitor AI agents, cutting monitoring costs from hundreds of dollars to under three dollars per action. The move signals a growing trend toward lightweight decision models that complement large language models for software automation and agent safety.",
-      "key_points": [
-        "OpenAI’s Decisions API mirrors TypeSafe’s Jev, offering rapid, inexpensive decision outputs for LLMs.",
-        "The API could enable real‑time monitoring of AI agents, dramatically reducing cost compared to full‑scale LLM checks.",
-        "Developers and security experts see the tool as a way to improve agent reliability and safety.",
-        "The launch reflects a broader industry shift toward specialized, low‑latency decision models alongside traditional LLMs."
-      ],
-      "topics": [
-        "openai",
-        "llm",
-        "decision-api",
-        "jev",
-        "ai-agent-monitoring"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 19:00:57 +0000",
-      "processed_at": "2026-10-03T20:46:57.688725+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-openai-cuts-ties-with-three-safety-researchers-wsj-reports",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "OpenAI terminated three safety researchers after an internal investigation found they shared confidential data with a third‑party AI safety group. The dismissals come amid a broader pattern of security concerns, including recent AI agent containment breaches and the scrapping of GPT‑6.1 Astra. The company said the researchers violated policies on handling sensitive information, but did not disclose names or details. The move follows earlier firings of researchers in 2024 and follows criticism that OpenAI has deprioritized safety.",
-      "key_points": [
-        "Three safety researchers were fired for allegedly leaking confidential data to an external AI safety organization.",
-        "The departures occur amid a series of security incidents and criticism of OpenAI’s safety practices.",
-        "OpenAI has previously dismissed researchers over similar leaks and has halted the launch of GPT‑6.1 Astra due to safety concerns."
-      ],
-      "topics": [
-        "openai",
-        "ai safety",
-        "data security",
-        "researcher layoffs",
-        "ai policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 18:14:42 +0000",
-      "processed_at": "2026-10-03T20:47:11.592683+00:00"
     }
   ]
 }
