@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-10-09T20:15:39.058995+00:00",
+  "updated_at": "2026-10-10T00:14:29.010783+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675",
+      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Parallel Systems, a startup founded by former SpaceX engineers, has raised $100 million in a Series C round to scale its autonomous freight train, the Panther, which can haul several tons of cargo up to 500 miles without an operator. The vehicle’s battery‑powered, coupler‑free design lets it travel in short, uncoupled platoons, reducing congestion and emissions while enabling railroads to regain competitiveness on short‑haul routes that now largely belong to trucking. Parallel has already earned Federal Railroad Administration approval to run near the Port of Savannah, where it has tested safety controls on 160 miles of track, and it aims to bring its first commercial payload to market soon. By offering predictable, congestion‑free deliveries, the company hopes to attract trucking firms and help railroads recapture a sizable share of the $1 trillion surface freight market.\n",
+      "key_points": [
+        "Parallel Systems raised $100 million to scale its autonomous Panther freight train, targeting short‑haul routes under 500 miles.",
+        "The Panther’s battery‑powered, coupler‑free platoon design reduces congestion and emissions, offering railroads a competitive alternative to trucking.",
+        "The startup has already received Federal Railroad Administration approval and is testing its system near the Port of Savannah, aiming for commercial rollout soon."
+      ],
+      "topics": [
+        "rail",
+        "autonomous",
+        "freight",
+        "startup",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-10T00:14:02.174039+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Tony Fadell, the \"father of the iPod\" and former Nest founder, warned at MIT Future Fest that the first wave of AI gadgets failed because they offered cool tech without solving real consumer problems. He argued that trust and privacy are the biggest hurdles for personal AI assistants, insisting that on‑device processing is essential to protect sensitive data. Fadell highlighted Apple’s hardware advantage and its reputation for privacy as a potential path forward, while noting that companies like Meta and OpenAI must build dedicated devices to access the sensors they need. He cautioned that startups have only one shot at product‑market fit, making the stakes higher than for established firms.",
+      "key_points": [
+        "Early AI devices failed because they did not address real consumer pain points.",
+        "Trust and privacy, especially on‑device data handling, are critical for personal AI assistants.",
+        "Apple’s hardware and privacy reputation give it an edge, but it lacks proprietary AI models.",
+        "Startups face a single‑shot risk; a misstep can end the company."
+      ],
+      "topics": [
+        "ai",
+        "trust",
+        "privacy",
+        "startups",
+        "apple"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 14:41:38 +0000",
+      "processed_at": "2026-10-10T00:14:02.976776+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-google-experiments-with-an-ai-powered-gaming-platform",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
+      "title": "Google experiments with an AI-powered gaming platform | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Google Labs has unveiled Playground, an AI‑powered platform that lets users build browser‑based games from simple text prompts without coding. Creators choose genre, 2D or 3D, single‑ or multiplayer, and can upload visuals that the AI turns into game assets, then publish or share games on a free Explore gallery. The service uses a weekly token system, with a free tier and higher limits for Google One AI subscribers, and Google plans to add Unity Spark integration for advanced 3D and professional mechanics. Playground joins a growing field of AI‑assisted game‑development tools, following moves by Roblox and building on Google’s earlier gaming initiatives such as Stadia and YouTube Playables.",
+      "key_points": [
+        "Google Labs launched Playground, an AI‑driven game‑creation tool that requires no coding.",
+        "Users can design 2D/3D, single/multi‑player games via text prompts and upload visuals for AI‑generated assets.",
+        "The platform uses a token‑based model, offers free and Google One AI tiers, and will soon integrate Unity Spark for enhanced 3D capabilities."
+      ],
+      "topics": [
+        "ai",
+        "gaming",
+        "google",
+        "game development",
+        "platform"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 14:36:23 +0000",
+      "processed_at": "2026-10-10T00:14:10.993292+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-spotify-expands-audiobooks-to-over-180-markets",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "title": "Spotify expands audiobooks to over 180 markets | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Spotify has rolled out its audiobook service to more than 180 markets worldwide, bringing the catalog to over 350,000 titles in 120 languages and making it available to an estimated 750 million users. The expansion, which began today, adds a Premium‑tier 12‑hour listening allowance in several countries and a stand‑alone Audiobook+ subscription that already has over 1 million subscribers and $100 million in annual recurring revenue. Spotify also continues to grow its audiobook ecosystem with features like Page Match, an AI‑powered author tool, and experiments with physical book sales in select markets. The move positions the music‑streaming giant to compete more directly with dedicated audiobook platforms such as Audible.",
+      "key_points": [
+        "Spotify expands audiobooks to 180+ markets with 350,000 titles in 120 languages",
+        "Premium 12‑hour allowance and Audiobook+ subscription bring 1 million users and $100 million ARR",
+        "Page Match, AI author tool, and physical book sales experiments broaden the platform",
+        "Monthly audiobook listeners grew 40% and listening hours 30% in the past year"
+      ],
+      "topics": [
+        "spotify",
+        "audiobooks",
+        "subscription",
+        "ai",
+        "music streaming"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 07:00:00 +0000",
+      "processed_at": "2026-10-10T00:14:02.712620+00:00"
+    },
+    {
+      "id": "unch-com-2026-10-06-get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200",
+      "title": "The full Disrupt 2026 breakout session agenda revealed | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will take place at Moscone West in San Francisco from October 13‑15, drawing more than 10,000 founders, investors, and tech leaders to discuss the future of AI, fundraising, and startup growth. The event features a full breakout session agenda that dives deeper than the main stages, offering 50‑minute workshops led by industry experts on topics such as physical AI, AI‑agent workflows, trustworthy AI, the inference economy, and space‑AI opportunities. Sessions are limited in capacity and first‑come, first‑served, encouraging attendees to bring questions and network with leaders like Susan Schofer, Steve Androulakis, Robbie Goldfarb, and others. Early‑bird registration offers discounts up to $100 off a pass and 50% off a second, while special Expo+ passes are available for those recently laid off.",
+      "key_points": [
+        "Disrupt 2026’s breakout sessions provide in‑depth, Q&A‑rich discussions on AI, fundraising, and startup strategy",
+        "The agenda covers emerging AI themes such as physical AI, inference economics, and AI in space, featuring speakers from SOSV, Anthropic, and The Aerospace Corporation",
+        "Attendance is limited and first‑come, first‑served, making early registration essential",
+        "Discounted passes and Expo+ options are available to encourage broader participation",
+        ""
+      ],
+      "topics": [
+        "tech conferences",
+        "ai",
+        "fundraising",
+        "startup ecosystem",
+        "space technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-10T00:14:28.721669+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-06-apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
@@ -2354,131 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 30 Sep 2026 23:08:00 +0000",
       "processed_at": "2026-10-03T13:10:08.414695+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pentagon-dod-2026-2288897667.jpg?resize=1200,869",
-      "title": "Hackers stole millions of US military personnel records during months-long data breach | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The Defense Manpower Data Center (DMDC) notified that a months‑long breach exposed personal data of about 2.8 million living U.S. military personnel and 300 000 deceased members. Hackers exploited an unencrypted file‑sharing system from October 2025 to mid‑July 2026, leaking SSNs, names, dates of birth, sex, race and service details. The breach follows recent federal data thefts, including the FBI hack by ShinyHunters, and raises concerns that foreign actors could use the information for counter‑intelligence or coercion. The DoD has not confirmed any misuse of the data and has not identified the attackers, but the incident underscores the vulnerability of the Pentagon’s identity‑management infrastructure.",
-      "key_points": [
-        "2.8 million living and 300 000 deceased personnel were affected",
-        "The breach exploited an unencrypted file‑sharing system from Oct 2025 to mid‑July 2026",
-        "No evidence of misuse has been confirmed and attackers remain unidentified",
-        "The incident follows a series of federal data breaches, heightening counter‑intelligence concerns"
-      ],
-      "topics": [
-        "military",
-        "data breach",
-        "cybersecurity",
-        "government",
-        "identity management"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 19:29:08 +0000",
-      "processed_at": "2026-10-03T13:09:55.704823+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-29-america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "The U.S. government has launched a public‑facing AI chatbot called America.gov, built in partnership with Google and SpaceXAI, and it has largely resisted jailbreak attempts. When users asked it about the video game Minecraft, the bot produced a 1,800‑word monologue that is actually a rewritten version of the game’s End Poem, revealing an Easter‑egg style response. The chatbot also stated that Joe Biden won the 2020 election, a fact that President Donald Trump continues to deny. The incident demonstrates the bot’s ability to generate creative text while remaining safe and highlights the challenges of deploying AI in a government context.",
-      "key_points": [
-        "America.gov chatbot, built with Google and SpaceXAI, resists jailbreaks",
-        "A Minecraft query triggered a 1,800‑word monologue that is a rewritten End Poem",
-        "The bot confirmed Biden won the 2020 election, a claim disputed by Trump",
-        "The episode shows the bot can produce creative output while staying safe"
-      ],
-      "topics": [
-        "government ai",
-        "chatbot",
-        "minecraft",
-        "easter egg",
-        "ai safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
-      "processed_at": "2026-10-03T13:09:55.154633+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Legato, a hearing‑tech startup, has launched its AI‑powered hearing glasses, Legato Frames, for $999 and up, targeting adults with up to moderate hearing loss. The glasses use on‑device AI to isolate voices from background noise, amplify speech, and cancel sound that escapes the wearer’s ears by 99%, all while maintaining an open‑ear design and 34‑gram weight. With 10–12 hours of battery life, prescription lens compatibility, and Bluetooth streaming, the frames aim to reduce the cost, discomfort, and stigma of traditional hearing aids. The product follows a $12 million funding round from Neotribe Ventures, Listen, and Village Global, and is founded by former Bose engineers Mehul Trivedi and Steve Romine.",
-      "key_points": [
-        "Legato Frames are AI‑powered hearing glasses available for $999, designed for moderate hearing loss.",
-        "The system isolates voices from background noise and cancels sound that escapes the wearer’s ears by 99%.",
-        "The lightweight (34 g) glasses offer 10–12 hours of battery life, prescription lenses, and Bluetooth streaming.",
-        "The startup raised $12 million in funding and was founded by ex‑Bose engineers with experience in smart eyewear and hearing aids."
-      ],
-      "topics": [
-        "hearingtech",
-        "ai",
-        "wearabletech",
-        "smartglasses",
-        "accessibility"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-03T13:09:55.303381+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kindle-Cafe-Reading.jpg?resize=1200,900",
-      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Amazon has unveiled a major redesign of its Kindle e‑readers, removing the traditional raised bezel and replacing it with a flush‑front design that uses capacitive touch and haptic feedback to create a “dead zone” so fingers can rest without triggering accidental page turns. The new 6‑inch model is 6.8 mm thick, weighs 140 g, and opens books 30 % faster than its predecessor, while Amazon also introduces an aluminum‑backed version and a range of new colors. The refreshed lineup includes updated Paperwhite and Colorsoft models that are thinner, lighter, and feature higher contrast displays, and all devices are available in multiple regions starting today. Prices begin at $149.99 for the standard Kindle, with higher‑spec models and the aluminum edition priced up to $249.99.",
-      "key_points": [
-        "Amazon removed the raised bezel and added capacitive touch with haptic feedback to create a dead zone for finger rest",
-        "The new 6‑inch Kindle is 6.8 mm thick, 140 g, and opens books 30 % faster than the previous generation",
-        "Amazon offers an aluminum‑backed version and new colors, with prices starting at $149.99",
-        "Paperwhite and Colorsoft models are also thinner, lighter, and feature higher contrast displays and are available worldwide"
-      ],
-      "topics": [
-        "amazon",
-        "kindle",
-        "e-reader",
-        "design",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-03T13:10:23.683256+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Alphabet has unveiled Gemini 4 Argon, a new AI model that Google says is its most powerful yet and is specifically engineered for cybersecurity tasks such as autonomously finding, validating, and patching critical software vulnerabilities. The model is also being used internally for coding, debugging, and codebase migrations, and it can parse visual content like long videos and charts. Google claims Argon outperforms competitors—including OpenAI’s GPT‑6 Astra and Anthropic’s Fable—on the Vals benchmark and notes that its Gemini app now serves over a billion monthly users, matching OpenAI’s ChatGPT. The rollout is currently limited to a select group of cyber partners through the Fairwind Program.",
-      "key_points": [
-        "Gemini 4 Argon is a cybersecurity‑focused AI that can autonomously find, validate, and patch software vulnerabilities.",
-        "The model also excels at coding, engineering tasks, and visual content analysis.",
-        "Google asserts that Argon outperforms rivals such as GPT‑6 Astra and Anthropic Fable on Vals benchmarks.",
-        "Its deployment is currently restricted to a select group of partners via the Fairwind Program."
-      ],
-      "topics": [
-        "ai",
-        "cybersecurity",
-        "google",
-        "gemini",
-        "model"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "processed_at": "2026-10-03T07:47:52.169703+00:00"
     }
   ]
 }

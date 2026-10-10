@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T20:15:12.177302+00:00",
+  "updated_at": "2026-10-10T00:14:00.997067+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -8,22 +8,10 @@
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     },
     {
-      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "feed_excerpt": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000"
-    },
-    {
       "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
       "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
       "feed_excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
       "published": "Tue, 06 Oct 2026 22:55:39 +0000"
-    },
-    {
-      "title": "Spotify expands audiobooks to over 180 markets",
-      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-      "feed_excerpt": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
-      "published": "Wed, 07 Oct 2026 07:00:00 +0000"
     },
     {
       "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
@@ -36,24 +24,6 @@
       "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
       "feed_excerpt": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S. based manufacturers, shippers, and more.",
       "published": "Wed, 07 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-      "feed_excerpt": "Parallel Systems raised $100M to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-      "published": "Wed, 07 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "feed_excerpt": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "published": "Wed, 07 Oct 2026 14:41:38 +0000"
-    },
-    {
-      "title": "Google experiments with an AI-powered gaming platform",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "feed_excerpt": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "published": "Wed, 07 Oct 2026 14:36:23 +0000"
     },
     {
       "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
@@ -432,7 +402,19 @@
       "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
       "feed_excerpt": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
       "published": "Fri, 09 Oct 2026 15:43:33 +0000"
+    },
+    {
+      "title": "Long live the mechanical keyboard",
+      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "feed_excerpt": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "published": "Fri, 09 Oct 2026 22:08:24 +0000"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "feed_excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000"
     }
   ],
-  "last_processed_at": "2026-10-09T20:15:37.953813+00:00"
+  "last_processed_at": "2026-10-10T00:14:28.721759+00:00"
 }
