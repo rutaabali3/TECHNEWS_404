@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T00:14:00.997067+00:00",
+  "updated_at": "2026-10-10T06:14:32.496352+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
       "feed_excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
       "published": "Tue, 06 Oct 2026 22:55:39 +0000"
-    },
-    {
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "feed_excerpt": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "published": "Wed, 07 Oct 2026 15:07:08 +0000"
     },
     {
       "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
@@ -36,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
       "feed_excerpt": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
       "published": "Wed, 07 Oct 2026 14:15:00 +0000"
-    },
-    {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "feed_excerpt": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Google’s new SynthID website can identify AI-generated media",
@@ -414,7 +402,19 @@
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "feed_excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "published": "Fri, 09 Oct 2026 21:41:29 +0000"
+    },
+    {
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "feed_excerpt": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "published": "Sat, 10 Oct 2026 03:10:06 +0000"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "feed_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000"
     }
   ],
-  "last_processed_at": "2026-10-10T00:14:28.721759+00:00"
+  "last_processed_at": "2026-10-10T06:14:54.590814+00:00"
 }

@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-10T00:14:29.010783+00:00",
+  "updated_at": "2026-10-10T06:14:55.769266+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Healthleap, a South African startup founded by siblings Jemima and Josiah Meyer, has secured $38 million in seed and Series A funding to advance its AI platform that scans hospital electronic health records for patients at risk of undiagnosed conditions such as malnutrition and delirium. The platform, which pulls structured data and unstructured clinician notes through language models, is already deployed in more than 50 hospitals including Penn Medicine and Cedars‑Sinai, and has helped hospitals achieve a 5‑to‑20‑fold return on investment. The company’s revenue has grown over tenfold in the past year, and its contracts are priced by licensed bed count with an outcome‑based model that guarantees measurable ROI. Healthleap plans to use the new capital to engineer additional condition‑identification modules, expand to outpatient and home‑care settings, and ultimately cover more than 40 major health conditions.",
+      "key_points": [
+        "$38 million raised: $8 million seed led by Sequoia Capital and First Round Capital, $30 million Series A led by Hummingbird Ventures",
+        "AI platform extracts clinical notes and structured data to flag patients with malnutrition, delirium, aspiration pneumonia, pressure ulcers and readmission risk, deployed in 50+ hospitals",
+        "Customers report 5‑to‑20‑fold ROI; at the University of Pennsylvania the malnutrition program generated $23.8 million in annualized financial impact",
+        "Healthleap will invest in engineering, sales and customer success to add more conditions and expand into outpatient and home‑care markets"
+      ],
+      "topics": [
+        "healthtech",
+        "ai",
+        "hospitalcare",
+        "funding",
+        "patientcare"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 15:07:08 +0000",
+      "processed_at": "2026-10-10T06:14:54.590713+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49202518493_54cc9e39e1_k.jpg?resize=1200,800",
+      "title": "6 days to Disrupt 2026: Save on your pass before doors open | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will open on Oct. 13 in San Francisco’s Moscone West, and the final day to register for discounted passes is Oct. 2. Attendees can save up to $100 on tickets, bring a colleague for 50% off a second pass, or grab a $75 Expo+ Pass if they’ve been laid off. The three‑day expo will feature more than 200 sessions across six stages, 250 tech leaders, and a Startup Battlefield 200 pitch competition offering a $100,000 prize. Highlights include speakers from OpenAI, Rivian, NVIDIA, and Anthropic, and a focus on AI, fintech, robotics, infrastructure, product, hiring, and scaling.",
+      "key_points": [
+        "Last day to register is Oct. 2 with discounts up to $100",
+        "Bring a colleague for 50% off a second pass",
+        "$75 Expo+ Pass available for laid‑off attendees",
+        "Over 200 sessions, 250 leaders, and a $100,000 Startup Battlefield 200 prize"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "discount",
+        "expo",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-10T06:14:34.182924+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-07-spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675",
@@ -2428,56 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 01 Oct 2026 18:35:55 +0000",
       "processed_at": "2026-10-03T17:31:29.171685+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-brian-chesky-interview-ai-agents-need-their-own-operating-system",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
-      "title": "Brian Chesky interview: AI agents need their own operating system | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Airbnb has launched an AI‑powered search feature as part of its fall update, but CEO Brian Chesky maintains that chatbots are not the right interface for travel discovery. He argues that future interfaces will blend deterministic and generative elements, support multiplayer AI for group planning, and be built on a robust, agent‑friendly infrastructure. Chesky also points out the industry’s lack of an AI operating system, which he believes is essential for consumer AI to work effectively. Despite these innovations, he expects apps to remain central due to platform dominance by Apple and Google.",
-      "key_points": [
-        "Airbnb’s new AI search is a step forward, yet Chesky sees chatbots as inadequate for travel browsing.",
-        "Chesky advocates for multiplayer AI, generative interfaces, and a robust developer kit to make Airbnb more agent‑friendly.",
-        "He argues the absence of an AI operating system is a major barrier to consumer AI adoption.",
-        "Apps will likely stay central because of the dominance of iOS and Android platforms."
-      ],
-      "topics": [
-        "airbnb",
-        "ai",
-        "chatbot",
-        "interface",
-        "operatingsystem"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "processed_at": "2026-10-03T17:31:28.910939+00:00"
-    },
-    {
-      "id": "-techcrunch-com-2026-09-30-the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297936328.jpg?w=1024",
-      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "The Pentagon has launched Project Meridian, a 120‑day study to examine how rapid technological advances will shape future battlefields, with Elon Musk, Palmer Luckey, and former Speaker Newt Gingrich co‑leading the effort under Defense Department CTO Emil Michael. The project aims to produce actionable solutions for developing, testing, and fielding advanced technologies that keep the United States a dominant military power. Alongside this, the Department announced an Autonomous Warfare Command to accelerate the deployment of autonomous systems and drones. Musk’s and Luckey’s involvement has drawn criticism for potential conflicts of interest, as their companies already supply defense technologies that could benefit from the study’s recommendations.",
-      "key_points": [
-        "Pentagon’s Project Meridian will be co‑led by Elon Musk, Palmer Luckey, and Newt Gingrich to study future warfare tech and deliver solutions within 120 days",
-        "The initiative is overseen by Defense CTO Emil Michael and aims to maintain U.S. military dominance through advanced technology development",
-        "An Autonomous Warfare Command was also announced to speed up the deployment of autonomous systems and drones",
-        "Critics argue Musk’s and Luckey’s roles may align with their business interests, raising conflict‑of‑interest concerns"
-      ],
-      "topics": [
-        "defense",
-        "technology",
-        "ai",
-        "autonomous",
-        "military"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 23:08:00 +0000",
-      "processed_at": "2026-10-03T13:10:08.414695+00:00"
     }
   ]
 }
