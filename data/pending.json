@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T06:14:32.496352+00:00",
+  "updated_at": "2026-10-10T12:54:55.662432+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -8,22 +8,10 @@
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     },
     {
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-      "feed_excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
-      "published": "Tue, 06 Oct 2026 22:55:39 +0000"
-    },
-    {
       "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
       "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
       "feed_excerpt": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S. based manufacturers, shippers, and more.",
       "published": "Wed, 07 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "feed_excerpt": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "published": "Wed, 07 Oct 2026 14:30:00 +0000"
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
       "feed_excerpt": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
       "published": "Wed, 07 Oct 2026 13:45:00 +0000"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "feed_excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "published": "Wed, 07 Oct 2026 20:22:37 +0000"
     },
     {
       "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
@@ -416,5 +398,5 @@
       "published": "Sat, 10 Oct 2026 00:18:32 +0000"
     }
   ],
-  "last_processed_at": "2026-10-10T06:14:54.590814+00:00"
+  "last_processed_at": "2026-10-10T12:55:09.937037+00:00"
 }

@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-10T06:14:55.769266+00:00",
+  "updated_at": "2026-10-10T12:55:26.539284+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Microsoft unveiled two new AI‑ready PCs powered by Nvidia’s RTX Spark chip at its San Francisco Tech Week event. The Surface Laptop Ultra starts at $2,600 and can reach $5,900, while the Surface RTX Spark Dev Box begins at $6,000 and ships with developer tools such as VS Code and GitHub Copilot. Both devices run a revamped Windows 11 that includes “Execution Containers” to sandbox AI agents, a feature Microsoft says will be available to all users. The announcement also highlighted a $1,000 trade‑in incentive for MacBook Pro owners and noted Dell’s concurrent release of the XPS 16 Creator Edition.",
+      "key_points": [
+        "Microsoft’s Surface Laptop Ultra and RTX Spark Dev Box use Nvidia’s RTX Spark chip to run AI models locally",
+        "The devices ship with a new Windows 11 version featuring Execution Containers for sandboxing AI agents",
+        "Microsoft offers a $1,000 trade‑in for MacBook Pro owners to encourage developers to switch",
+        "Dell also announced its XPS 16 Creator Edition with similar specs"
+      ],
+      "topics": [
+        "ai",
+        "windows",
+        "nvidia",
+        "surface",
+        "developer"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "processed_at": "2026-10-10T12:54:57.142446+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-10-07-openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "title": "OpenAI’s Alexander Embiricos is coming to Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "OpenAI’s product lead Alexander Embiricos will speak at TechCrunch Disrupt 2026, where he will discuss the company’s new personal AI agents called Dots, unveiled after the chatbot launch. Dots are designed to run continuously, connect to everyday apps, and pursue goals in the background, giving AI deeper access to users’ work and digital lives. Embiricos will address the autonomy, privacy, and trust challenges that arise when AI can act on behalf of users. The session, titled “What Comes After the Chatbot?”, will take place on the AI Stage at Moscone West in San Francisco from October 13‑15.",
+      "key_points": [
+        "OpenAI is positioning Dots as the next evolution beyond chatbots, offering continuous, background AI agents that integrate with users’ apps.",
+        "The company is grappling with questions of autonomy, privacy, and trust as these agents gain deeper access to personal data.",
+        "Alexander Embiricos will discuss these issues and the future of personal AI at TechCrunch Disrupt 2026."
+      ],
+      "topics": [
+        "openai",
+        "disrupt",
+        "personal ai",
+        "dots",
+        "ai agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 14:30:00 +0000",
+      "processed_at": "2026-10-10T12:55:09.936972+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-06-how-to-find-out-if-amazon-thinks-you-have-flat-buttocks",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Amazon-fast-delivery.jpeg?resize=1200,675",
+      "title": "How to find out if Amazon thinks you have 'flat buttocks' | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Amazon’s user profile page reveals inferred traits about shoppers, including a surprising claim that a user has \"flat buttocks\" based on purchases such as butt scrunch leggings. The article explains how to access and edit these preferences on both desktop and mobile, and notes that other users have found Amazon’s assumptions accurate or amusing. A viral Threads post about the profile sparked widespread curiosity and highlighted how much personal data e‑commerce giants collect. The piece underscores growing concerns about data privacy and the intimate surveillance that tech companies can perform on consumers.",
+      "key_points": [
+        "Amazon displays inferred traits like \"flat buttocks\" in user profiles",
+        "Users can view and edit preferences via account settings on desktop and mobile",
+        "A viral Threads post sparked discussion on data privacy and Amazon’s profiling",
+        "Tech companies’ detailed profiling raises surveillance concerns"
+      ],
+      "topics": [
+        "amazon",
+        "data privacy",
+        "tech surveillance",
+        "social media",
+        "ecommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 06 Oct 2026 22:55:39 +0000",
+      "processed_at": "2026-10-10T12:54:57.034272+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-07-healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
@@ -2404,80 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 01 Oct 2026 13:00:00 +0000",
       "processed_at": "2026-10-03T20:47:25.031320+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-09-30-amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fire-tv-stick-4k-ftv-remote-hero-amazonnews-ck92916.jpg?resize=1200,675",
-      "title": "Amazon's new Fire TV Stick 4K comes with an actually good remote | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon unveiled a slimmer, faster Fire TV Stick 4K that can be charged directly from a TV’s USB port and now ships with a redesigned remote that feels better in the dark and includes a programmable Favorites button. The stick boasts 8 GB of storage, a quad‑core 1.7 GHz processor, Wi‑Fi 6, Bluetooth 5.3, and supports HDR10, HDR10+, HLG, H.265, H.264, VP9, and AV1 up to 60 fps. It launches at a discounted price of $29.99 in multiple countries, while the improved remote is available separately for $14.99. The update positions Amazon’s streaming hardware as 20‑40 % faster than rivals and addresses long‑standing user complaints about remote ergonomics.",
-      "key_points": [
-        "The new Fire TV Stick 4K features a slimmer design, USB‑port charging, and a 20‑40 % performance boost over competitors.",
-        "The remote is redesigned with tactile buttons, a hidden Alexa mic, a distinct home button, and a new Favorites button for quick app access.",
-        "The stick ships for $29.99 (down from $59.99) and is available in the U.S., Canada, Japan, Mexico, U.K., Ireland, Germany, France, Italy, Spain, Switzerland, Australia, and New Zealand.",
-        "The remote can also be purchased separately for $14.99, offering an upgrade path for existing users."
-      ],
-      "topics": [
-        "amazon",
-        "fire tv",
-        "remote",
-        "streaming",
-        "price"
-      ],
-      "source_url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 30 Sep 2026 13:43:54 +0000",
-      "processed_at": "2026-10-03T17:31:28.832997+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-chatgpt-can-now-virtually-try-on-clothes-for-you",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
-      "title": "ChatGPT can now virtually try on clothes for you | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "OpenAI has globally launched two new shopping features in ChatGPT, enabling users to virtually try on clothing and accessories and to save favorite products for later. The virtual try‑on lets users upload a selfie or a photo of an item and see how it would look on them, while the Favorites function stores products in a personal library alongside try‑on images. Both features are powered by the newly released ChatGPT Images 2.5 model, which offers more realistic lighting, richer textures, and lower generation latency. By entering the fashion discovery space, OpenAI aims to compete with established players like Pinterest and Google, though it remains to be seen whether users will adopt ChatGPT as their primary shopping assistant.",
-      "key_points": [
-        "OpenAI introduces virtual try‑on and favorites features in ChatGPT for online shopping",
-        "The new tools use ChatGPT Images 2.5 to generate realistic clothing previews and store selections in a personal library",
-        "The launch positions OpenAI against fashion discovery leaders such as Pinterest and Google"
-      ],
-      "topics": [
-        "openai",
-        "chatgpt",
-        "ai shopping",
-        "virtual try-on",
-        "fashion tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "processed_at": "2026-10-03T17:31:42.087810+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
-      "title": "World’s first enhanced geothermal power plant completed in just 23 months | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Fervo Energy’s Cape Station in Utah has begun selling electricity to the grid, marking the first commercial milestone for an enhanced geothermal plant. The 100‑megawatt facility was built in just 23 months, a record speed that could appeal to data‑center operators looking for phased, low‑carbon power. Fervo’s technology drills deeper than traditional geothermal, tapping hotter rock to enable larger projects—potentially up to 4 GW. The company’s recent $1.9 billion IPO and commitments from Google and Southern California Edison underscore growing confidence in the technology.",
-      "key_points": [
-        "Cape Station began commercial sales on September 30, 23 months after groundbreaking.",
-        "The plant will eventually reach 100 MW, with potential up to 4 GW.",
-        "Fervo’s deep‑drill enhanced geothermal approach enables faster, phased development.",
-        "Major buyers include Google and Southern California Edison."
-      ],
-      "topics": [
-        "geothermal",
-        "renewable energy",
-        "data centers",
-        "clean tech",
-        "energy infrastructure"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 18:35:55 +0000",
-      "processed_at": "2026-10-03T17:31:29.171685+00:00"
     }
   ]
 }
