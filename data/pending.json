@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-11T13:18:44.407136+00:00",
+  "updated_at": "2026-10-11T18:20:21.339808+00:00",
   "items": [
-    {
-      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-      "feed_excerpt": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-      "published": "Mon, 05 Oct 2026 17:26:44 +0000"
-    },
-    {
-      "title": "Greenairy is building smart plant towers to clean the air in your office",
-      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-      "feed_excerpt": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
-      "published": "Wed, 07 Oct 2026 17:30:00 +0000"
-    },
     {
       "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
       "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
@@ -23,12 +11,6 @@
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
       "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
       "feed_excerpt": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
-      "published": "Thu, 08 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-      "feed_excerpt": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
       "published": "Thu, 08 Oct 2026 14:00:00 +0000"
     },
     {
@@ -318,7 +300,49 @@
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "feed_excerpt": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000"
+    },
+    {
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "feed_excerpt": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "published": "Sun, 11 Oct 2026 17:53:37 +0000"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "feed_excerpt": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "published": "Sun, 11 Oct 2026 16:52:33 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 11 Oct 2026 16:02:00 +0000"
+    },
+    {
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "feed_excerpt": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "published": "Sun, 11 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "feed_excerpt": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "published": "Sun, 11 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "feed_excerpt": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "published": "Sun, 11 Oct 2026 14:15:00 +0000"
+    },
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "feed_excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "published": "Sun, 11 Oct 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-11T13:18:58.122389+00:00"
+  "last_processed_at": "2026-10-11T18:20:46.155506+00:00"
 }

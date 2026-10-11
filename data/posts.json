@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-11T13:19:04.349682+00:00",
+  "updated_at": "2026-10-11T18:20:46.156586+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/greenairy-1.jpeg?resize=1200,670",
+      "title": "Greenairy is building smart plant towers to clean the air in your office | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Greenairy, founded by Tanvi Thombre and Lakshya Saraf, is developing plant‑based towers that actively break down toxic gases such as VOCs in office environments, offering a natural alternative to conventional air purifiers. In Singapore pilots, the towers cut daily VOC levels by 50% and outperformed a medical‑grade ionizer and a HEPA purifier, earning validation from TÜV SÜD. The founders, split between Singapore and Berkeley, plan to begin large‑scale manufacturing in the first half of 2027 and roll out the first mass‑produced towers in Singapore.",
+      "key_points": [
+        "Greenairy’s plant towers reduced VOCs by 50% in pilot tests and outperformed ionizers and HEPA filters",
+        "The startup’s results were validated by TÜV SÜD and will be published soon",
+        "Founders operate from Singapore and Berkeley, aiming to launch mass production in 2027",
+        "The towers provide a natural, maintenance‑free solution that improves indoor air quality and occupant well‑being"
+      ],
+      "topics": [
+        "air quality",
+        "startup",
+        "technology",
+        "health",
+        "environment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 17:30:00 +0000",
+      "processed_at": "2026-10-11T18:20:22.722809+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1200,675",
+      "title": "5 days to Disrupt 2026: Don’t pay more at the door for your pass | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 in San Francisco’s Moscone West opens on October 13, and the final discounted pass rates—down to $299 and up to $100 off—are available until the doors open. Attendees can bring a colleague for 50 % off a second ticket, or save more with groups of four or more, and the Expo Hall will host over 300 companies and live startup pitches. The conference features six stages with 200+ sessions covering topics from AI and fintech to data centers and robotics, plus interactive roundtables and networking opportunities. This last‑minute promotion is aimed at tech leaders and builders who want to secure a spot before prices rise.",
+      "key_points": [
+        "Final discounted passes for Disrupt 2026 are available until Oct 13, with savings up to $100.",
+        "Group discounts: 50 % off a second pass, larger savings for groups of four or more.",
+        "The event offers 200+ sessions across six stages, plus an Expo Hall with 300+ companies and live pitches.",
+        "Pass price starts at $299, with a special $75 Expo+ Layoff ticket for laid‑off workers."
+      ],
+      "topics": [
+        "tech",
+        "event",
+        "discount",
+        "ai",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-11T18:20:22.822110+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-05-5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pear-S26-Demo-Day-2055181.jpg?resize=1200,800",
+      "title": "5 startups that caught VCs' attention at the latest PearX demo day | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "PearX’s biannual demo day in San Francisco highlighted 16 startups, with five companies—Speridlabs, Saia, Ren, Veros, and Datum—drawing particular attention from investors. Speridlabs offers a persistent 3D world model platform called Mundus that lets users modify geometry without losing context, positioning it against competitors like Runway and Google’s Genie. Saia is developing a flash‑based AI inference chip that promises eight times the capacity and four times less power than Nvidia’s Jetson, while Ren delivers a fully automated, on‑device AI personal assistant focused on privacy and security. Veros applies AI to simplify trust and estate planning, and Datum uses geometric fingerprinting to accelerate industrial design by indexing existing 3D parts.",
+      "key_points": [
+        "PearX’s demo day showcased 16 startups, with five—Speridlabs, Saia, Ren, Veros, and Datum—standing out to investors",
+        "Speridlabs’ Mundus platform provides persistent 3D world models that can be queried and modified, unlike competitors such as Runway and Google’s Genie",
+        "Saia’s flash‑based AI chip offers eight times the capacity and four times less power than Nvidia’s Jetson, aiming for mass production by 2028",
+        "Ren offers a fully automated, on‑device AI personal assistant that prioritizes privacy by keeping data local or on a secure private cloud"
+      ],
+      "topics": [
+        "startup accelerator",
+        "ai",
+        "hardware",
+        "trust",
+        "design"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 05 Oct 2026 17:26:44 +0000",
+      "processed_at": "2026-10-11T18:20:46.155403+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-07-robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
@@ -2405,80 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 02 Oct 2026 12:50:11 +0000",
       "processed_at": "2026-10-05T07:31:48.421342+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-10-02-apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple has announced new controls for macOS's Full Disk Access setting after reports that AI agents like Meta’s Muse could read private messages without explicit permission. The changes aim to require explicit user action before granting an app the ability to read files, mail, messages, and browsing history, addressing growing risks as desktop AI becomes more autonomous. The move follows Wired’s report of a ChatGPT Mac app flaw that could expose sensitive data and a journalist’s claim that Muse accessed private messages. Apple’s update emphasizes informed consent rather than limiting permissions, though the company did not comment on the changes.",
-      "key_points": [
-        "Apple introduces stricter controls on macOS Full Disk Access to curb AI agents reading private data",
-        "The new policy requires explicit user action before an app can access files, mail, messages, and browsing history",
-        "The change follows incidents involving Meta’s Muse and a ChatGPT Mac app flaw that raised privacy concerns"
-      ],
-      "topics": [
-        "apple",
-        "macos",
-        "ai",
-        "privacy",
-        "full disk access"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 18:11:27 +0000",
-      "processed_at": "2026-10-05T01:09:57.555404+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you) | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Circuit Breaker Labs, a 2026 Startup Battlefield finalist, is developing a testing platform that uses hyper‑realistic user simulations to evaluate AI models for psychologically harmful interactions across diverse ages, languages, and slang. The sibling founders, motivated by a 2024 lawsuit in which a teen’s suicide was linked to a Character.AI chatbot, built an \"army of crash‑test dummies\" that run tens of thousands of simulated conversations daily and score models with a proprietary, auditable method. The startup is already serving high‑risk mental‑health applications and plans to extend its framework to any AI that could foster parasocial relationships or other dangerous dynamics. By exposing safety vulnerabilities before deployment, Circuit Breaker Labs aims to build trust and make AI safer for children and adults alike.",
-      "key_points": [
-        "Circuit Breaker Labs uses hyper‑realistic simulations to test AI for psychological safety across diverse demographics",
-        "The founders were driven by a 2024 lawsuit where a teen’s suicide was linked to a Character.AI chatbot",
-        "The platform runs tens of thousands of daily simulated interactions and provides auditable safety scores",
-        "It currently serves high‑risk mental‑health applications and aims to broaden to other AI contexts"
-      ],
-      "topics": [
-        "ai safety",
-        "mental health",
-        "startups",
-        "testing",
-        "child protection"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-05T01:09:57.819601+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-paramount-and-warner-bros-discovery-to-become-skydance",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/skydance.jpg?resize=1200,504",
-      "title": "Paramount and Warner Bros. Discovery to become Skydance | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Paramount and Warner Bros. Discovery will merge into a new entity called Skydance once the $110 billion deal closes on October 6. The combined company will own Paramount+, HBO Max, CBS, CNN, MTV, TBS, Comedy Central, Food Network, and major franchises such as The Lord of the Rings, Game of Thrones, the DC Universe, and Yellowstone. CEO David Ellison said the Paramount and Warner Bros. brands will remain central while the new name gives the company its own identity. The merger follows a legal battle and a settlement with state attorneys general that cleared the way for the deal.",
-      "key_points": [
-        "$110 billion merger closes on October 6 forming Skydance",
-        "Combines Paramount+, HBO Max with CBS, CNN, MTV, TBS, Comedy Central, Food Network",
-        "Controls franchises like The Lord of the Rings, Game of Thrones, DC Universe, Yellowstone",
-        "Paramount and Warner Bros. brands remain central under new identity"
-      ],
-      "topics": [
-        "mergers",
-        "film",
-        "streaming",
-        "media",
-        "business"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 15:53:50 +0000",
-      "processed_at": "2026-10-05T01:09:57.754127+00:00"
     }
   ]
 }
