@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T06:13:56.975141+00:00",
+  "updated_at": "2026-10-11T13:18:44.407136+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -12,18 +12,6 @@
       "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
       "feed_excerpt": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
       "published": "Wed, 07 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "feed_excerpt": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-      "published": "Wed, 07 Oct 2026 23:36:57 +0000"
-    },
-    {
-      "title": "Spotify is getting more serious about selling enterprise software",
-      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-      "feed_excerpt": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
-      "published": "Thu, 08 Oct 2026 14:34:33 +0000"
     },
     {
       "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
@@ -42,24 +30,6 @@
       "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
       "feed_excerpt": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
       "published": "Thu, 08 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Google releases a new local-first Granola competitor",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "feed_excerpt": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-      "published": "Thu, 08 Oct 2026 13:28:39 +0000"
-    },
-    {
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "feed_excerpt": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-      "published": "Thu, 08 Oct 2026 13:20:32 +0000"
-    },
-    {
-      "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
-      "feed_excerpt": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner workings of tech events, now’s your chance to get involved. Volunteer spots are limited, so don’t miss out! […]",
-      "published": "Thu, 08 Oct 2026 13:00:00 +0000"
     },
     {
       "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
@@ -350,5 +320,5 @@
       "published": "Sat, 10 Oct 2026 21:47:51 +0000"
     }
   ],
-  "last_processed_at": "2026-10-11T06:14:23.909169+00:00"
+  "last_processed_at": "2026-10-11T13:18:58.122389+00:00"
 }

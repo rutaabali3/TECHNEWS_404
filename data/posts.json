@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-10-11T06:14:23.909994+00:00",
+  "updated_at": "2026-10-11T13:19:04.349682+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Mecka AI, a 2024‑founded startup that gathers human motion data to train humanoid and other robots, has closed a $60 million Series B round led by Sequoia and backed by Nvidia, Microsoft’s M12, and other investors. The company pays participants to record everyday tasks while wearing body sensors and using smartphones, creating a dataset that can be used to teach robots to perform real‑world actions. Mecka’s model mirrors the data‑labeling approach of firms like Scale AI, aiming to supply the human‑generated data that robotic systems need to learn. The funding brings the startup’s valuation close to the $500 million figure reported earlier this year.",
+      "key_points": [
+        "Mecka AI raised $60 million in Series B led by Sequoia with participation from Nvidia and Microsoft’s M12",
+        "The startup collects human motion data via body sensors and smartphones to train robots for everyday tasks",
+        "Founded in 2024, Mecka aims to replicate Scale AI’s data‑labeling model for robotics",
+        "The round brings the company’s valuation near the previously reported $500 million mark"
+      ],
+      "topics": [
+        "robotics",
+        "data",
+        "startup",
+        "funding",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 23:36:57 +0000",
+      "processed_at": "2026-10-11T13:18:58.122315+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-spotify-is-getting-more-serious-about-selling-enterprise-software",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "title": "Spotify is getting more serious about selling enterprise software | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Spotify has launched technology.spotify.com, a new portal that will allow external companies to access and purchase the internal tools it has built for its own 777‑million‑user platform. The site builds on products first released in 2020, such as the open‑source Backstage framework, and newer offerings like Confidence, Portal, and Xirp that help manage AI coding agents. While Spotify has not disclosed how much revenue its enterprise sales generate, the move signals a shift toward treating these tools as a formal business line. The portal currently lists the services but does not publish pricing, directing interested parties to a contact‑sales form.",
+      "key_points": [
+        "Spotify is commercializing its internal developer and enterprise tools through a new public website",
+        "The tool suite includes Backstage, Confidence, Portal, and Xirp, all aimed at improving software development efficiency",
+        "Revenue from these enterprise sales has not yet been disclosed, but Spotify plans to expand the business",
+        "Pricing is not listed on the site; companies must contact sales for details"
+      ],
+      "topics": [
+        "spotify",
+        "enterprise software",
+        "developer tools",
+        "ai",
+        "open source"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 14:34:33 +0000",
+      "processed_at": "2026-10-11T13:18:45.646472+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-google-releases-a-new-local-first-granola-competitor",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "title": "Google releases a new local-first Granola competitor | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Google has launched a new local‑first AI note‑taker called Google AI Edge Foresight, designed to compete with Granola. The Mac app runs entirely offline on Apple Silicon, using the on‑device EmbeddingGemma 2 model with 740 million parameters to capture meeting notes across apps and even in‑person meetings. It offers a split‑screen interface for manual shorthand and AI‑generated notes, a transcript view, and a Gemma 4‑powered assistant for real‑time Q&A. The tool also lets users upload PDFs, Docs, Office files, Markdown, and bookmarks to build a knowledge base that the assistant can query during meetings.",
+      "key_points": [
+        "Google launches Google AI Edge Foresight, a local‑first AI note‑taker competing with Granola.",
+        "The Mac app runs offline on Apple Silicon using EmbeddingGemma 2 (740 million parameters) to capture meeting notes across apps and in‑person meetings.",
+        "It features split‑screen manual and AI notes, transcript view, Gemma 4 assistant, and a knowledge‑base upload capability.",
+        "The product showcases Google’s Gemma series of offline models and may precede a broader consumer release."
+      ],
+      "topics": [
+        "google",
+        "ai",
+        "productivity",
+        "offline",
+        "note‑taking"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 13:28:39 +0000",
+      "processed_at": "2026-10-11T13:18:48.991344+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+      "title": "China's Manus raises over $500M in first funding round since split with Meta | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Manus, the Chinese AI lab that was forced to cancel a $2 billion acquisition by Meta, has raised more than $500 million in its first funding round since the split, according to a WeChat post by its parent company Butterfly Effect. The round was led by Boyu Capital and IDG Capital, with existing investors Tencent, HSG (formerly Sequoia China), ZhenFund and others also participating, and the company is reportedly still in talks to value itself at around $4 billion. Manus had been generating over $100 million in annual recurring revenue before the Meta deal fell through, and it has since resumed independent operations, relocated staff to Singapore, and is developing new AI products such as Manus 2.0 and the Cue app while considering a Hong Kong IPO. The funding underscores the resilience of Chinese AI startups amid regulatory scrutiny and talent concerns, and highlights Manus’s continued ambition to compete with global AI agents and productivity tools.",
+      "key_points": [
+        "Manus secured over $500 million in a new funding round after Meta’s acquisition deal collapsed",
+        "The round was led by Boyu Capital and IDG Capital, with Tencent, HSG, ZhenFund and other existing shareholders participating",
+        "Manus had $4 billion valuation talks and $100 million annual recurring revenue before the split",
+        "The company is developing new AI products and is exploring a Hong Kong IPO"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "china",
+        "meta"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 13:20:32 +0000",
+      "processed_at": "2026-10-11T13:18:45.773006+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-last-call-to-volunteer-at-techcrunch-founder-summit-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54570806706_f142202c7b_o.jpg?resize=1200,800",
+      "title": "Last call to volunteer at TechCrunch Founder Summit 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is calling for volunteers to help run its Founder Summit 2026 in Boston, with a deadline of October 19. Volunteers will receive a complimentary ticket to the summit and a free pass to the 2027 Disrupt event in San Francisco, while gaining behind‑the‑scenes experience in event operations. The summit expects about 1,100 attendees and will feature workshops on user growth, fundraising, and brand development. Tasks for volunteers include registration, speaker coordination, guest guidance, ticket scanning, and event setup.",
+      "key_points": [
+        "Volunteer deadline is October 19 for the Founder Summit 2026 in Boston",
+        "Volunteers receive a free summit ticket and a free pass to Disrupt 2027",
+        "The summit will host roughly 1,100 attendees and offer expert workshops",
+        "Volunteer duties cover registration, speaker coordination, guest guidance, ticket scanning, and event setup"
+      ],
+      "topics": [
+        "tech events",
+        "volunteer",
+        "founder summit",
+        "disrupt",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-11T13:18:45.573642+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-07-while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024",
@@ -2354,131 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 02 Oct 2026 15:53:50 +0000",
       "processed_at": "2026-10-05T01:09:57.754127+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-      "title": "Slovenia's .si domain sees a surge in registrations after Trump's 'super intelligence' order | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "The .si domain, tied to Slovenia, has seen a dramatic surge in registrations after President Trump signed an executive order that rebranded AI as “SI” or “super intelligence.” 2,199% more .si names were purchased in September, with 11,000 new addresses logged on September 30 and nearly 13,000 in the following 24 hours. Hostinger reports that .si is now its second‑most popular extension, with most buyers coming from the U.S. and India, yet only about 3% of the domains are explicitly AI‑related. The lower cost of .si—roughly $12 a year compared to $90 for .ai—has attracted speculators and brand protectors hoping the trend will continue, though experts say it is unlikely to replace .ai anytime soon.",
-      "key_points": [
-        ".si registrations spiked 2,199% after Trump’s executive order rebranding AI as SI",
-        "Hostinger shows .si as its second‑most popular domain, largely bought by U.S. and Indian customers",
-        "Only about 3% of new .si domains are AI‑related, with many buyers speculating on resale",
-        "The .si domain is far cheaper than .ai, making it an attractive but unlikely replacement for the AI‑centric extension"
-      ],
-      "topics": [
-        "domain registration",
-        "ai",
-        "slovenia",
-        "internet domains",
-        "speculation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 14:47:46 +0000",
-      "processed_at": "2026-10-05T01:10:18.637067+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mymonthlycar-image.jpg?resize=1200,900",
-      "title": "This startup wants to turn idle car inventory into rental revenue | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "MyMonthlyCar is a Delaware‑registered, Florida‑based startup that turns idle used‑car inventory into revenue by offering month‑to‑month rentals directly from local dealerships. The platform charges a 10% fee to both dealers and customers, while dealers pay no listing fee, and it also provides a rent‑to‑buy option for customers. With seven dealerships already on board, the founders project 100 dealers, 2,000 monthly rentals, and $300,000 in revenue in its first year, targeting $42 million over five years. The bootstrapped company plans to raise a seed round to expand its platform, add AI tools for dealer inventory optimization, and finalize an insurance program to address dealer concerns.",
-      "key_points": [
-        "MyMonthlyCar monetizes idle used cars through month‑to‑month rentals and rent‑to‑buy options",
-        "The platform takes a 10% fee from both dealers and customers, with no listing fee for dealers",
-        "Founders aim for 100 dealerships, 2,000 rentals, and $300k revenue in year one, targeting $42m in five years",
-        "The startup is bootstrapped and plans a seed round to build AI tools and an insurance program"
-      ],
-      "topics": [
-        "startup",
-        "car rental",
-        "used cars",
-        "insurance",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 17:09:00 +0000",
-      "processed_at": "2026-10-04T22:26:46.313842+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-      "title": "Pope Leo XIV is not a fan of AI-generated art | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Pope Leo XIV has publicly criticized AI-generated art, arguing that machine‑produced images lack the human spark and ontological depth that define true art. In a recent X post and a May encyclical letter, he urged the tech community to distinguish human creativity from algorithmic output and to safeguard human dignity amid growing automation. Despite the Pope’s stance, AI companies such as Anthropic have lobbied the Vatican to reconsider its position on non‑human consciousness, though the effort has seen little success. The Pope’s remarks underscore a broader debate about the cultural and ethical implications of AI in creative industries.",
-      "key_points": [
-        "Pope Leo XIV condemns AI‑generated art as lacking human essence and calls for clear distinction between human and machine creativity.",
-        "He issued a May encyclical emphasizing human dignity in an era of increasing automation.",
-        "AI firms, notably Anthropic, have attempted to lobby the Vatican on non‑human consciousness but have not swayed its position.",
-        "The Pope’s statements highlight the Vatican’s potential influence on AI policy and cultural norms."
-      ],
-      "topics": [
-        "ai",
-        "art",
-        "religion",
-        "vatican",
-        "policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 15:39:41 +0000",
-      "processed_at": "2026-10-04T22:26:46.258004+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-robotaxi-operators-will-face-fines-for-blocking-first-responders",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
-      "title": "Robotaxi operators will face fines for blocking first responders | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "California’s Senate Bill 1246, signed by Gov. Gavin Newsom, mandates that autonomous vehicle operators provide local support to first responders when robotaxis malfunction or obstruct emergency services, and imposes fines if a vehicle blocks police or firefighters for more than 30 minutes. The law requires AV companies to employ U.S.-based remote drivers with valid licenses, to notify local jurisdictions of vehicle status during system-wide failures, and to supply local incident technicians. Major operators such as Waymo and Zoox have stated they will comply, noting that Waymo’s remote assistance staff are globally distributed while Zoox’s remote teams are U.S.-based. The legislation will take effect in July 2028, with the California DMV expected to issue detailed guidelines on response times and other operational requirements.",
-      "key_points": [
-        "SB1246 fines robotaxi operators for blocking first responders over 30 minutes",
-        "AV companies must use U.S.-based remote drivers holding valid licenses",
-        "Operators must notify local authorities and provide incident technicians during failures",
-        "Waymo and Zoox plan to comply; law effective July 2028"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "california law",
-        "first responders",
-        "remote operations",
-        "safety regulations"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 00:57:57 +0000",
-      "processed_at": "2026-10-04T22:26:46.125157+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-      "title": "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Kevin Mandia, the founder of Mandiant, has secured a $255.5 million Series B for his new security startup Armadin, pushing the company’s valuation above $2.5 billion. The round was led by Andreessen Horowitz and Accel, with participation from Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In‑Q‑Tel, Kleiner Perkins, and Menlo Ventures. Armadin’s technology replaces traditional penetration testing with continuously running agentic swarms that chain vulnerabilities to simulate real‑world attacks, aiming to expose and patch weaknesses before malicious actors or rogue AI labs can exploit them. With this funding, Armadin’s total capital raised exceeds $445 million, following a $190 million Series A earlier this year.\n",
-      "key_points": [
-        "Armadin raised $255.5 million in a Series B at a valuation over $2.5 billion",
-        "Investors include Andreessen Horowitz, Accel, Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In‑Q‑Tel, Kleiner Perkins, and Menlo Ventures",
-        "Armadin offers always‑on security through agentic swarms that chain vulnerabilities to preempt AI‑driven attacks",
-        "Total funding for Armadin now exceeds $445 million after its Series A"
-      ],
-      "topics": [
-        "cybersecurity",
-        "startup",
-        "funding",
-        "ai",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 21:55:22 +0000",
-      "processed_at": "2026-10-04T19:21:43.130290+00:00"
     }
   ]
 }
