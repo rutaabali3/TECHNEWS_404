@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-10T21:21:23.157935+00:00",
+  "updated_at": "2026-10-11T00:22:24.272767+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-07-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Nous Research, the startup behind the open‑source Hermes Agent, closed a $90 million Series B that values the company at $1.5 billion, confirming earlier TechCrunch reports. The round was led by Robot Ventures and included Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, bringing total funding to $158 million. The capital will support the launch of Hermes for Businesses, a product that lets enterprises deploy custom AI agents for multi‑step workflows while keeping data private and secure. By mid‑September 2026 the company was generating roughly $36 million in annual revenue and expects to exceed $100 million by year‑end 2026.\n",
+      "key_points": [
+        "$90 million Series B led by Robot Ventures values Nous Research at $1.5 billion",
+        "Hermes Agent has been cloned over 24 million times and powers about 2.5% of global AI token usage",
+        "Funding will launch Hermes for Businesses, targeting enterprise workflow automation",
+        "Revenue was $36 million in mid‑2026 and the company projects over $100 million by year‑end 2026"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "enterprise",
+        "open source"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+      "processed_at": "2026-10-11T00:21:58.475741+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "title": "Meta's Muse launches on iPad just a month after its mobile debut | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has released a dedicated iPad app for its Muse AI assistant, a milestone that followed the iPhone launch just a month earlier. Since debuting on iOS and Android on September 8, Muse has amassed more than 6.6 million installs and lets users link accounts to manage email, meetings, bills, and everyday tasks. The iPad version expands the list of available connectors to include small‑business tools such as Asana, Canva, Dropbox, Figma, QuickBooks, GitHub, Klaviyo, Zoom, Notion, and Granola, as well as retail partners like Best Buy, Gap, Sephora, Walmart, and Wayfair. Meta is also collaborating with industry partners to develop an open standard that will allow AI agents to identify themselves to businesses, helping to distinguish legitimate bots from malicious ones.",
+      "key_points": [
+        "Muse is now available on iPad a month after its iPhone launch",
+        "The app has surpassed 6.6 million installs since September 8",
+        "New connectors include small‑business tools and major retail partners",
+        "Meta is working on an open standard to help businesses recognize AI agents"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "ipad",
+        "connectors",
+        "retail"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+      "processed_at": "2026-10-11T00:22:11.015542+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Justin-Hitesh-Chris-1.jpg?resize=1200,900",
+      "title": "Bloom raises $3.6M to become the 'Alibaba' of American manufacturing | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Bloom, a Detroit‑based startup founded by Justin Kosmides in 2023, pivoted from logistics to an AI‑driven marketplace that connects hardware makers with contract manufacturers, designers, and logistics providers. The company has already facilitated over 2,000 matches for more than 140 customers and raised a $3.6 million seed round led by SNAK Venture Partners, with participation from Flyover Capital, Mana Ventures, and local Michigan investors. Bloom’s platform handles quoting, booking, and payment, and it aggregates data from suppliers to improve matchmaking accuracy. The funding and traction signal a growing appetite for a U.S. manufacturing ecosystem that mirrors Alibaba’s model but is tailored to the hardware sector.",
+      "key_points": [
+        "Bloom shifted from logistics to an AI‑powered marketplace that links hardware makers with suppliers and services",
+        "The startup secured a $3.6 million seed round led by SNAK Venture Partners, with additional backing from Flyover Capital, Mana Ventures, and local Michigan investors",
+        "Bloom has already matched more than 2,000 suppliers to over 140 companies, demonstrating rapid traction",
+        "The platform’s data‑driven matchmaking aims to streamline U.S. hardware supply chains, positioning Bloom as a potential category‑defining player"
+      ],
+      "topics": [
+        "manufacturing",
+        "supplychain",
+        "ai",
+        "marketplace",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-11T00:21:58.686118+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-07-get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+      "title": "The full lineup of interactive roundtables at Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will host over 10,000 founders, investors, and tech leaders in San Francisco from Oct. 13‑15, featuring a series of interactive roundtables that dive into AI, physical AI, enterprise software, fundraising, and scaling. The event offers discounted passes—$100 off a single pass and 50% off a second—and encourages attendees to bring questions and share experiences. Roundtables cover topics ranging from the data challenges of robotics to AI‑enabled IPO readiness, and from the future of enterprise SaaS to quantum computing fundamentals. Participants can network, learn practical insights, and explore emerging AI applications across industries.",
+      "key_points": [
+        "Disrupt 2026 will host 10,000+ tech leaders in San Francisco from Oct. 13‑15 with discounted passes.",
+        "The event features interactive roundtables on AI, physical AI, enterprise software, fundraising, and more.",
+        "Topics include data challenges for robotics, AI‑enabled IPO readiness, and the future of SaaS.",
+        "Attendees can network, share experiences, and gain practical insights into emerging AI applications."
+      ],
+      "topics": [
+        "techconference",
+        "ai",
+        "physicalai",
+        "fundraising",
+        "enterprise software"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 07 Oct 2026 14:15:00 +0000",
+      "processed_at": "2026-10-11T00:21:58.869745+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-07-x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb",
       "image": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1127662758.jpg?resize=1200,675",
@@ -2380,106 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 01 Oct 2026 21:57:08 +0000",
       "processed_at": "2026-10-04T05:02:41.145584+00:00"
-    },
-    {
-      "id": "unch-com-2026-10-01-google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-      "title": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Google has successfully launched a prototype orbital compute satellite carrying its Tensor Processing Unit (TPU) on a SpaceX rocket, marking the first time the company’s advanced chips have flown into space. The satellite, built by Planet Labs, will run the TPU in short bursts to test power, cooling, and radiation resilience, and will serve as a proof‑of‑concept for Google’s long‑term plan to create a network of 81 satellites that act as an orbital data center. In a related study, Google released a peer‑reviewed white paper estimating that SpaceX’s Starship would need to launch 1,800 times over the next decade—about 180 per year—to bring launch costs down to roughly $200 per kilogram and make orbital data centers economically viable. The research also projects that Google’s chips can endure space radiation with an error rate of about one in a million for typical inference workloads, supporting the feasibility of large‑scale AI workloads in orbit.",
-      "key_points": [
-        "Google tested its TPU in space on a SpaceX rocket, proving orbital compute viability.",
-        "Google estimates Starship would need 1,800 launches over 10 years to make orbital data centers cost‑effective.",
-        "The company released a peer‑reviewed white paper projecting launch costs near $200/kg by 2035.",
-        "Google believes its chips can survive space radiation with low error rates for inference workloads."
-      ],
-      "topics": [
-        "google",
-        "spacex",
-        "orbital compute",
-        "ai",
-        "satellite"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "processed_at": "2026-10-04T05:02:15.540944+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
-      "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells) | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Graphite released a study that catalogued 13,000 phrases that appear more than twice as often in AI-generated prose compared to human writing. The research found that Claude Opus 5.5 frequently uses the word \"dependable\" and the phrase \"this matters,\" with the latter appearing 116 times more often than in human text. OpenAI’s Astra, on the other hand, is prone to \"corrective framing\" and hedging with \"may provide\" or \"can provide,\" while Gemini 3.1 Pro has largely eliminated the em‑dash. Despite efforts to make models more human‑like, the study shows that new telltale patterns keep emerging and the overall number of tells remains steady.",
-      "key_points": [
-        "13,000 AI tell phrases identified",
-        "Opus 5.5’s \"this matters\" appears 116× more often",
-        "Astra uses \"corrective framing\" over 100× more often",
-        "Models still produce new tells even as old ones are removed"
-      ],
-      "topics": [
-        "ai",
-        "language models",
-        "research",
-        "technews",
-        "writing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 17:50:19 +0000",
-      "processed_at": "2026-10-04T05:02:15.821710+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
-      "title": "Amazon releases its own Jev clone as decision models flood the web | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Amazon Web Services has released an open‑source decision model called Strands Decider 2B, inspired by TypeSafe’s Jev, to meet the growing demand for low‑cost, low‑latency decision‑making in AI workflows. Built on the Qwen3.5‑2B LLM torso, the model outputs calibrated choices rather than text, providing confidence scores that help automate workflow steps efficiently. The project originated from engineer Marc Brooker’s homebrew prototype, which briefly topped the Jevbench ranking for its size before AWS formalized it under Strands Labs. While the model competes with similar offerings from OpenAI and other researchers, Amazon emphasizes its local‑run capability and cost‑effectiveness for agents that don’t require full‑featured LLMs.",
-      "key_points": [
-        "Amazon’s Strands Decider 2B is a fully open‑source, low‑latency decision model built on Qwen3.5‑2B.",
-        "It delivers calibrated choices with confidence scores, making it ideal for workflow steps in AI agents.",
-        "The model was derived from a successful homebrew prototype that topped Jevbench for its size.",
-        "Amazon positions it as a cost‑effective alternative to large LLMs for many customer use cases."
-      ],
-      "topics": [
-        "amazon",
-        "aws",
-        "decision-model",
-        "open-source",
-        "ai-agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "processed_at": "2026-10-04T05:02:15.762944+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-      "title": "California governor vetoes bill banning use of 'pervert glasses' to secretly record people | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "California Governor Gavin Newsom vetoed Senate Bill 1130, which would have made it illegal to secretly record people with wearable devices such as smart glasses. The bill aimed to prevent unconsented surveillance in public spaces amid the rapid rise of always‑listening wearables from companies like Meta and Snap, but Newsom argued the language was too broad and duplicated existing protections. If passed, California would have been the first state to regulate smart glasses, imposing fines or prison time on violators and penalties on non‑compliant manufacturers. The veto reflects concerns over unintended consequences and the need for clearer regulation as wearable tech becomes more pervasive.",
-      "key_points": [
-        "Governor Newsom vetoed Senate Bill 1130, halting the first U.S. attempt to regulate smart glasses.",
-        "The bill sought to stop covert recording in public but was criticized for overly broad language and duplication of existing laws.",
-        "If enacted, violators could face fines or prison, and non‑compliant manufacturers would also be penalized.",
-        "The decision underscores the challenge of balancing privacy protection with clear, precise legislation amid the rapid growth of always‑listening wearables."
-      ],
-      "topics": [
-        "technology",
-        "privacy",
-        "legislation",
-        "wearables",
-        "smartglasses"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 16:35:25 +0000",
-      "processed_at": "2026-10-03T23:36:41.200019+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:20:54.086825+00:00",
+  "updated_at": "2026-10-11T00:21:57.478898+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -8,28 +8,10 @@
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     },
     {
-      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-      "feed_excerpt": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S. based manufacturers, shippers, and more.",
-      "published": "Wed, 07 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "published": "Wed, 07 Oct 2026 14:15:00 +0000"
-    },
-    {
       "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
       "url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
       "feed_excerpt": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
       "published": "Wed, 07 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "feed_excerpt": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "published": "Wed, 07 Oct 2026 18:30:57 +0000"
     },
     {
       "title": "Greenairy is building smart plant towers to clean the air in your office",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
       "feed_excerpt": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
       "published": "Wed, 07 Oct 2026 22:59:16 +0000"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "feed_excerpt": "The developer of Hermes Agent raised a $90 million Series B.",
-      "published": "Wed, 07 Oct 2026 20:48:45 +0000"
     },
     {
       "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
@@ -390,7 +366,13 @@
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "feed_excerpt": "Is Apple hoping to get into the AI-generated podcast business?",
       "published": "Sat, 10 Oct 2026 19:50:00 +0000"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "feed_excerpt": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000"
     }
   ],
-  "last_processed_at": "2026-10-10T21:21:03.488909+00:00"
+  "last_processed_at": "2026-10-11T00:22:11.015618+00:00"
 }
