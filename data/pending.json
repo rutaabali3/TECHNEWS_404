@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T00:21:57.478898+00:00",
+  "updated_at": "2026-10-11T06:13:56.975141+00:00",
   "items": [
     {
       "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
@@ -8,40 +8,16 @@
       "published": "Mon, 05 Oct 2026 17:26:44 +0000"
     },
     {
-      "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
-      "url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
-      "feed_excerpt": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000"
-    },
-    {
       "title": "Greenairy is building smart plant towers to clean the air in your office",
       "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
       "feed_excerpt": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
       "published": "Wed, 07 Oct 2026 17:30:00 +0000"
     },
     {
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "feed_excerpt": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "published": "Wed, 07 Oct 2026 16:53:46 +0000"
-    },
-    {
       "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
       "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
       "feed_excerpt": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
       "published": "Wed, 07 Oct 2026 23:36:57 +0000"
-    },
-    {
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "feed_excerpt": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "published": "Wed, 07 Oct 2026 22:59:16 +0000"
-    },
-    {
-      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "feed_excerpt": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-      "published": "Thu, 08 Oct 2026 06:14:11 +0000"
     },
     {
       "title": "Spotify is getting more serious about selling enterprise software",
@@ -374,5 +350,5 @@
       "published": "Sat, 10 Oct 2026 21:47:51 +0000"
     }
   ],
-  "last_processed_at": "2026-10-11T00:22:11.015618+00:00"
+  "last_processed_at": "2026-10-11T06:14:23.909169+00:00"
 }
