@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-11T18:20:21.339808+00:00",
+  "updated_at": "2026-10-11T22:19:09.036578+00:00",
   "items": [
-    {
-      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
-      "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
-      "feed_excerpt": "This is the first time the Alphabet-owned company has turned to debt financing.",
-      "published": "Thu, 08 Oct 2026 14:16:56 +0000"
-    },
     {
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
       "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
@@ -26,22 +20,10 @@
       "published": "Thu, 08 Oct 2026 12:53:39 +0000"
     },
     {
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "feed_excerpt": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "feed_excerpt": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
       "published": "Thu, 08 Oct 2026 20:04:26 +0000"
-    },
-    {
-      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "feed_excerpt": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-      "published": "Thu, 08 Oct 2026 18:30:00 +0000"
     },
     {
       "title": "Ben Affleck is an AI nerd, and the internet is impressed",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
       "feed_excerpt": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
       "published": "Thu, 08 Oct 2026 18:19:45 +0000"
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "feed_excerpt": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "published": "Thu, 08 Oct 2026 18:19:42 +0000"
     },
     {
       "title": "Google brings agentic AI to Gemini, starting with businesses",
@@ -342,7 +318,25 @@
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "feed_excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
       "published": "Sun, 11 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "feed_excerpt": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]",
+      "published": "Sun, 11 Oct 2026 21:14:40 +0000"
+    },
+    {
+      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "feed_excerpt": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "published": "Sun, 11 Oct 2026 20:51:47 +0000"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "feed_excerpt": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "published": "Sun, 11 Oct 2026 19:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-11T18:20:46.155506+00:00"
+  "last_processed_at": "2026-10-11T22:19:23.469172+00:00"
 }
