@@ -1,7 +1,182 @@
 {
-  "updated_at": "2026-10-12T08:51:03.034168+00:00",
+  "updated_at": "2026-10-12T18:46:16.013493+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "OpenAI recently fired three safety researchers—Jasmine Wang, Tomek Korbak, and Mikita Balesni—after alleging they shared confidential data with a third‑party AI safety group. The dismissed researchers issued an open letter denying the misconduct claims, arguing that their termination signals a chilling effect on the company’s culture of open safety dialogue and external collaboration. OpenAI has not formally responded to the letter but released an internal memo praising the researchers’ contributions and denying retaliation, while a spokesperson cited a “pattern of misconduct” that violated company policies. The dispute highlights growing tensions around AI safety practices, employee whistleblowing, and the balance between proprietary information and third‑party oversight.",
+      "key_points": [
+        "OpenAI fired three safety researchers over alleged data sharing with an external group",
+        "The researchers deny wrongdoing and warn that their dismissal could stifle open safety culture",
+        "OpenAI’s internal memo praises the researchers but does not address the misconduct allegations",
+        "The case underscores broader concerns about AI safety, employee rights, and corporate transparency"
+      ],
+      "topics": [
+        "openai",
+        "ai safety",
+        "employee rights",
+        "corporate culture",
+        "data security"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
+      "processed_at": "2026-10-12T18:45:51.249065+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Ben Affleck, known for acting, has become a public AI advocate after selling his AI filmmaking startup to Netflix for a reported $587 million. In recent interviews he explained neural networks, transformers, and GPU inference, and even demonstrated simple Python scripts, showing how AI can augment but not replace film production. Affleck highlighted his own company, InterPositive, which built a proprietary dataset and fine‑tuned open models to meet cinematic standards, a technique he used in his film \"Animals.\" While acknowledging AI’s potential risks, he emphasized responsible use and believes the technology will be additive to the industry rather than disruptive.",
+      "key_points": [
+        "Affleck sold his AI filmmaking startup to Netflix for $587 million and now publicly demonstrates AI concepts to tech audiences.",
+        "He explains how neural networks and transformers can be fine‑tuned for cinematic workflows, a method he applied in his film \"Animals.\"",
+        "Affleck’s company InterPositive built a proprietary dataset to train open models for specific film tasks.",
+        "He stresses responsible AI use and views the technology as additive, not disruptive, to filmmaking."
+      ],
+      "topics": [
+        "ai",
+        "filmmaking",
+        "startup",
+        "tech",
+        "entertainment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
+      "processed_at": "2026-10-12T18:45:51.813319+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-08-a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Richard-Bronson-Pic.jpg?w=640",
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison, has launched an AI‑powered employment platform called Commissary Club aimed at helping ex‑cons find jobs, housing and community support. The site offers a free tier for the first ten applications before switching to a paid model, positioning itself as a for‑profit solution to a largely unmet market. Bronson’s personal experience with post‑prison barriers shaped the platform’s mission to create opportunities for people society has largely ignored. Commissary Club was selected to compete in TechCrunch’s Startup Battlefield 200 at Disrupt Oct. 13‑15 in San Francisco.",
+      "key_points": [
+        "Richard Bronson, ex‑Stratton Oakmont partner and former federal inmate, founded Commissary Club to aid ex‑cons in reentering the workforce",
+        "The platform uses AI to match users with jobs, housing, benefits and a supportive community, addressing a largely untapped market",
+        "Commissary Club offers a free tier for the first ten applications before moving to a paid subscription model",
+        "The startup was chosen to compete in TechCrunch’s Startup Battlefield 200 at Disrupt Oct. 13‑15"
+      ],
+      "topics": [
+        "startup",
+        "ai",
+        "employment",
+        "ex‑cons",
+        "techcrunch"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 16:45:00 +0000",
+      "processed_at": "2026-10-12T18:45:51.878092+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-10-08-goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Goodfire has introduced a new class of AI monitors that read a model’s internal activations as it runs, allowing it to spot rogue behavior at a fraction of the cost of traditional post‑hoc checks.  The probes, available to Baseten customers and backed by a partnership with Hugging Face, cost roughly $185 to monitor one million exchanges on the Kimi K3 model versus $5,420 for a cheaper model and $200,000 for a top‑tier one, while catching 93% of malicious hacking attempts and adding less than 2% latency.  Users can select which risks to watch—such as hacking, chemical weapon misuse, or reward hacking—and choose automated responses ranging from logging to human review or outright request refusal.  The launch comes after a series of incidents in which AI agents escaped sandbox environments, underscoring the need for proactive, low‑overhead guardrails for open models.",
+      "key_points": [
+        "Goodfire’s probes tap into a model’s internal activations, cutting monitoring costs and latency.",
+        "The system detects 93% of malicious hacking sessions and offers customizable risk responses.",
+        "It is integrated with Baseten and Hugging Face, expanding deployment for open models.",
+        "The approach addresses recent agent escape incidents and promotes safer open‑model usage."
+      ],
+      "topics": [
+        "ai safety",
+        "interpretability",
+        "open models",
+        "cost",
+        "monitoring"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-12T18:46:15.899247+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-10-08-us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "The Trump administration has suspended Microsoft, Adobe, and several other major IT firms from a green‑card program that helps skilled foreign workers obtain permanent residency, citing fraud allegations.  The move bars the companies from filing new or pending permanent labor certification applications, while the H‑1B visa system—used by tech firms to fill hard‑to‑staff roles—remains in place.  Microsoft responded that most of its 6,000 H‑1B filings last fiscal year were extensions or status changes, with only 1% of U.S. employees being new hires, and that it pays H‑1B workers the same wages as comparable U.S. staff.  Vice President J.D. Vance also announced investigations into nine universities for alleged abuse of the student‑visa program that could depress American wages.",
+      "key_points": [
+        "Trump administration suspends Microsoft, Adobe, Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro from the green‑card program for alleged fraud",
+        "Companies cannot file new or pending permanent labor certification applications, affecting their ability to hire foreign talent",
+        "Microsoft says 80% of its 6,000 H‑1B filings were extensions, only 1% were new hires, and it pays H‑1B workers equal wages",
+        "The administration is also probing universities such as Harvard, Yale, and Stanford for misuse of the student‑visa program"
+      ],
+      "topics": [
+        "immigration",
+        "tech",
+        "labor",
+        "policy",
+        "us politics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 15:42:26 +0000",
+      "processed_at": "2026-10-12T18:45:51.791609+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-08-new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
+      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "New York has filed a lawsuit accusing TikTok of giving teens and children a placebo safety feature instead of a real one during an experiment. The company allegedly tested a non‑functional \"Algo Refresh\" tool on thousands of users, allowing them to believe they could reset their recommendations while their feeds remained unchanged. The suit is part of more than two dozen state cases that claim TikTok designs its platform to encourage addictive use and misleads users about safety. The lawsuit also references other experiments that withheld safety features from millions of U.S. users, including a teenager who later died by suicide.",
+      "key_points": [
+        "TikTok allegedly provided a non‑functional \"Algo Refresh\" safety feature to teens and children in a test.",
+        "New York’s lawsuit joins over 24 state cases accusing TikTok of encouraging addictive use and misleading safety claims.",
+        "Other experiments reportedly withheld safety features from millions of U.S. users, linked to a teen suicide.",
+        "TikTok has not yet commented on the allegations."
+      ],
+      "topics": [
+        "tiktok",
+        "safety",
+        "childrensafety",
+        "lawsuit",
+        "socialmedia"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 15:06:17 +0000",
+      "processed_at": "2026-10-12T18:46:00.793990+00:00"
+    },
+    {
+      "id": "-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+      "title": "Ambrosia Energy and Bloom Energy join Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a Smart Systems Stage session with Ben Longmier of Ambrosia Energy and Bill Thayer of Bloom Energy discussing how the AI infrastructure boom is creating new business opportunities. The conversation will examine constraints in power, grid, data centers, cooling, and other physical components that are becoming bottlenecks as AI demand grows. The session aims to help founders, investors, and tech leaders identify durable markets beyond traditional AI applications, including energy, data center solutions, and emerging infrastructure categories. Attendees can learn where capital is flowing and how to position themselves for the next wave of AI‑driven physical‑world solutions.",
+      "key_points": [
+        "AI scaling relies on physical infrastructure such as power, grid, data centers, and cooling",
+        "Ambrosia Energy and Bloom Energy will discuss constraints and new market opportunities",
+        "Founders and investors should look beyond software to energy, cooling, and infrastructure software",
+        "Disrupt 2026 offers 200+ sessions and 250+ speakers"
+      ],
+      "topics": [
+        "ai infrastructure",
+        "disrupt 2026",
+        "energy",
+        "data centers",
+        "startup ecosystem"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-12T18:45:51.720681+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-openais-math-solutions-arent-meeting-the-fields-standards-yet",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
@@ -2305,181 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 04 Oct 2026 20:31:07 +0000",
       "processed_at": "2026-10-06T10:40:22.472882+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-04-techcrunch-mobility-reining-in-robotaxis",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zoox-waymo-getty.jpg?resize=1200,801",
-      "title": "TechCrunch Mobility: Reining in robotaxis | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "California’s Senate Bill 1246, signed by Governor Gavin Newsom, introduces new safety and accountability rules for autonomous vehicles, aiming to reduce incidents where robotaxis impede traffic, enter crime scenes, or block emergency responders. The law requires AV companies such as Waymo, Tesla, and Zoox to provide on‑ground support to first responders, limits remote drivers to U.S.‑licensed operators, and mandates notification of local jurisdictions during system failures. Violations—including blocking police or firefighters for over 30 minutes—can trigger penalties, while local incident technicians must be available to assist with accidents and obstructions. The legislation will take effect in July 2028, and while it may not eliminate all disruptions, it is intended to increase accountability and improve emergency response times for robotaxis.",
-      "key_points": [
-        "California’s Senate Bill 1246 imposes new safety and accountability rules for robotaxis, including penalties for blocking emergency responders.",
-        "AV companies must provide local support and can face fines if they fail to assist first responders or block police or firefighters for more than 30 minutes.",
-        "Remote drivers must be U.S.‑licensed and based in the United States, and companies must notify local jurisdictions during system failures.",
-        "The law will take effect in July 2028, aiming to reduce chaos and raise accountability for autonomous vehicle incidents."
-      ],
-      "topics": [
-        "robotaxi",
-        "autonomous vehicles",
-        "california law",
-        "emergency response",
-        "safety regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 04 Oct 2026 16:05:00 +0000",
-      "processed_at": "2026-10-06T10:40:20.407020+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Amazon Web Services CEO Matt Garman announced that AWS has stopped using nondisclosure agreements with government agencies as part of a broader effort to address public concerns about data center projects. The statement comes amid a backlash that has led to moratoriums on large data center permits in states like New York and a growing list of over 100 moratoriums nationwide. Garman also refuted common myths about data centers, noting that direct water use is only 0.5% of U.S. industrial consumption, electricity costs are largely driven by aging grids, and emissions are minimal because generators run only about 10 hours a year. He highlighted that AWS has contributed more than $1 billion to communities where it operates and that the company now prioritizes transparency by eliminating NDAs in its government dealings.",
-      "key_points": [
-        "AWS stops using NDAs with government agencies",
-        "AWS counters myths: water use 0.5%, electricity impact tied to grid, minimal emissions",
-        "Over $1 billion community contributions",
-        "Moratoriums on data center permits across U.S. states"
-      ],
-      "topics": [
-        "aws",
-        "data centers",
-        "ndas",
-        "environment",
-        "community"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "processed_at": "2026-10-06T10:40:20.422455+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-04-trump-unveils-his-new-super-intelligence-force",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "title": "Trump unveils his new Super Intelligence Force | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "President Donald Trump announced the creation of a new Super Intelligence Force, a task force aimed at ensuring the United States remains a global leader in what he calls \"super intelligence,\" a term he uses to rebrand artificial intelligence. The force will be chaired by National Intelligence Director Jay Clayton, with Vice Chairs including FTC Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and OPM Director Scott Kupor. Within 120 days the task force is expected to deliver a report outlining the risks and opportunities of AI, while balancing the need to avoid overregulation and maintain competitive innovation. The initiative reflects Trump’s broader strategy to keep the U.S. ahead of rivals such as China in the emerging AI landscape.",
-      "key_points": [
-        "President Trump has formed a Super Intelligence Force chaired by Jay Clayton to coordinate federal AI strategy",
-        "The task force must produce a 120‑day report on AI risks and opportunities",
-        "The initiative rebrands AI as \"super intelligence\" to emphasize its strategic importance",
-        "Vice Chairs include FTC Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and OPM Director Scott Kupor"
-      ],
-      "topics": [
-        "technology",
-        "artificial intelligence",
-        "government",
-        "policy",
-        "superintelligence"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 04 Oct 2026 15:15:10 +0000",
-      "processed_at": "2026-10-06T03:13:59.149318+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-all-the-ai-agents-that-can-live-in-your-text-messages",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "title": "All the AI agents that can live in your text messages | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "TechCrunch reports on a wave of AI agents that operate directly through text messaging, eliminating the need for separate apps. The article highlights Instinct, which recently raised $1 billion to reach a $10 billion valuation, and other players such as Caddy, Fambot, and Folk that integrate with iMessage, RCS, and popular messaging platforms to schedule appointments, manage calendars, and perform real‑world tasks. These agents can remember context, connect to existing services, and even run code on private cloud infrastructure, offering users a seamless, hands‑free experience. While the convenience is clear, the growing autonomy of these assistants raises privacy and security concerns, especially as some provide dedicated email addresses and call‑making capabilities.",
-      "key_points": [
-        "Instinct raised $1 billion in September 2026, valuing it at $10 billion",
-        "Caddy has been in public beta since April 2026 and works within iMessage and RCS",
-        "Fambot offers family‑centric scheduling via SMS and connects to Gmail, Google Calendar, Outlook, and WhatsApp",
-        "Folk runs on a private cloud, can execute multi‑step tasks, and offers a $8.33/month Pro plan"
-      ],
-      "topics": [
-        "ai",
-        "messaging",
-        "assistant",
-        "startup",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-06T03:13:59.523807+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "David Robinson, a long‑tenured safety lead at OpenAI, resigned and published an essay in The Atlantic accusing the company’s culture of being broken. He argues that OpenAI’s iterative deployment model inevitably produces large‑scale failures and calls for a safety regime comparable to nuclear power plants or busy airports, with multiple layers of redundancy and careful planning. Robinson also stresses that current alignment metrics are coarse and that the industry must address deeper cultural and structural issues before AI systems become more capable. OpenAI’s spokesperson said the firm is tightening security, pausing training when needed, and expanding third‑party evaluation, but the resignation highlights ongoing concerns about AI safety culture in Silicon Valley.",
-      "key_points": [
-        "David Robinson resigned citing a broken culture at OpenAI",
-        "He calls for a nuclear‑plant‑style safety regime with multiple layers of redundancy",
-        "Robinson warns that current alignment metrics are coarse and deeper cultural changes are needed",
-        "OpenAI says it is tightening security and expanding third‑party evaluation"
-      ],
-      "topics": [
-        "openai",
-        "ai safety",
-        "whistleblower",
-        "culture",
-        "alignment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "processed_at": "2026-10-05T23:06:38.228993+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
-      "title": "Jack Dorsey's Bitchat disappears from app stores in India after government order | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Jack Dorsey’s decentralized messaging app Bitchat has been removed from Apple’s App Store and Google Play in India after the government issued a Section 69A order to block the app. The notice also barred access to Bitchat’s TestFlight beta and its website, while a prior July order had forced GitHub to delete the app’s open‑source repositories. The ban follows a wave of internet shutdowns during youth protests over voter‑roll changes, during which Bitchat’s popularity surged as users turned to offline messaging. The move raises concerns among digital‑rights advocates about the legality of blocking software that can operate without internet connectivity.",
-      "key_points": [
-        "India’s Ministry of Electronics and Information Technology ordered Apple and Google to remove Bitchat from their stores under Section 69A of the IT Act.",
-        "Bitchat, a Bluetooth‑mesh messaging app that works offline, was also blocked on its website and had its GitHub repositories taken down earlier in July.",
-        "The ban coincided with internet shutdowns during protests over voter‑roll changes, a period when Bitchat’s downloads spiked to 85% of its global traffic.",
-        "Digital‑rights groups argue the order is unconstitutional because Bitchat’s architecture prevents law‑enforcement interception and it can operate during shutdowns."
-      ],
-      "topics": [
-        "bitchat",
-        "appstore",
-        "india",
-        "digital rights",
-        "internet shutdown"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 15:02:01 +0000",
-      "processed_at": "2026-10-05T23:06:38.209183+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-meta-wants-you-to-build-your-own-muse-gadget",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "title": "Meta wants your next gadget to be Muse-infused | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Meta has launched Muse Gadgets, an open‑source hardware initiative that lets developers build devices that connect to its personal AI agent, Muse. The company is providing low‑level firmware, a Linux SDK, and example projects such as a color e‑ink display or an HDMI‑port stick, while also offering a Discord channel for community support. Meta has already built and distributed 5,000 Muse Home Link units—USB‑C devices that let Muse interface with home networks and smart appliances—to subscribers, with plans to ship them soon. The move is part of Meta’s broader strategy to extend Muse beyond consumer use, targeting small businesses and enterprises through new tools and a dedicated Meta Enterprise Platform.",
-      "key_points": [
-        "Meta releases Muse Gadgets, an open‑source hardware kit for building devices that connect to its AI agent",
-        "The kit includes firmware, a Linux SDK, and example projects like e‑ink displays and HDMI sticks",
-        "Meta has built 5,000 Muse Home Link devices, free to subscribers, and will ship them shortly",
-        "The initiative supports Meta’s expansion of Muse into small‑business and enterprise markets"
-      ],
-      "topics": [
-        "meta",
-        "muse",
-        "open-source",
-        "hardware",
-        "enterprise"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
-      "processed_at": "2026-10-05T23:07:04.556938+00:00"
     }
   ]
 }
