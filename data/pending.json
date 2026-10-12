@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T22:19:09.036578+00:00",
+  "updated_at": "2026-10-12T01:35:54.342867+00:00",
   "items": [
     {
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
@@ -30,24 +30,6 @@
       "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
       "feed_excerpt": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
       "published": "Thu, 08 Oct 2026 18:20:32 +0000"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "feed_excerpt": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000"
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "feed_excerpt": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "published": "Thu, 08 Oct 2026 18:18:00 +0000"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "feed_excerpt": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "published": "Thu, 08 Oct 2026 18:16:24 +0000"
     },
     {
       "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
@@ -336,7 +318,13 @@
       "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
       "feed_excerpt": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
       "published": "Sun, 11 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "feed_excerpt": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "published": "Mon, 12 Oct 2026 00:59:01 +0000"
     }
   ],
-  "last_processed_at": "2026-10-11T22:19:23.469172+00:00"
+  "last_processed_at": "2026-10-12T01:36:12.688590+00:00"
 }

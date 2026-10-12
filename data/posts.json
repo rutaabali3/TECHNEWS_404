@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-11T22:19:28.961176+00:00",
+  "updated_at": "2026-10-12T01:36:16.066853+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Arena, a crowdsourced AI model ranking platform that began as a UC Berkeley research project in 2023, closed a $200 million Series B round that values the company at $3.1 billion, nearly doubling its valuation in just ten months. The funding, led by Lightspeed Venture Partners and Khosla Ventures with participation from Salesforce Ventures, a16z, Dell Technologies Capital and others, follows the firm’s announcement of $100 million in annualized run‑rate revenue and the launch of its commercial AI Evaluations service. Arena’s platform remains free for consumers while offering enterprises detailed performance analytics, and it has recently added an alignment leaderboard to assess safety and ethical behavior of models. The rapid valuation growth underscores the market’s demand for neutral, real‑world AI evaluation tools as models increasingly game static benchmarks.",
+      "key_points": [
+        "Arena raised $200 million in Series B, valuing it at $3.1 billion and nearly doubling its valuation in ten months",
+        "The company offers a free crowdsourced ranking platform and a commercial AI Evaluations service that provides detailed performance analytics for enterprises",
+        "Arena added an alignment leaderboard to measure safety and ethical issues such as unauthorized action, false attribution, and deceptive completion",
+        "Investors include Lightspeed, Khosla, Salesforce, a16z, Dell Technologies Capital and others, reflecting strong confidence in the platform’s growth"
+      ],
+      "topics": [
+        "ai",
+        "valuation",
+        "startup",
+        "funding",
+        "benchmarks"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:19:45 +0000",
+      "processed_at": "2026-10-12T01:36:12.688524+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
+      "title": "Google brings agentic AI to Gemini, starting with businesses | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google announced that its Gemini AI will now include a unified agent capable of not only answering questions but also executing tasks on behalf of users, marking a shift toward agentic AI. The new agent can plan work, use custom skills, and connect to business systems such as Google Workspace, Microsoft 365, Slack, Jira, and various data platforms, all from a single interface. Initially the focus will be on enterprise customers—over 90% of Fortune 100 firms already use Gemini Enterprise—before a consumer rollout. The agent will feature a tasks inbox, audit trail, and flexible model selection, including third‑party options like Anthropic’s Claude, to help businesses manage security, scale, and cost.",
+      "key_points": [
+        "Gemini’s new agent can plan and execute tasks across multiple business tools from one interface",
+        "Enterprise adoption is high, with 90% of Fortune 100 firms using Gemini Enterprise, so the launch targets businesses first",
+        "The agent supports model selection, including third‑party and future open‑source models, and offers cost controls for enterprises"
+      ],
+      "topics": [
+        "google",
+        "gemini",
+        "agentic ai",
+        "enterprise ai",
+        "cloud"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:18:00 +0000",
+      "processed_at": "2026-10-12T01:35:55.289532+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Anthropic has updated its usage policy to explicitly ban prolonged verbal abuse of its Claude model, along with new prohibitions on election interference, weapons software, and deceptive campaigns. The policy clarifies that only extreme, purposeless cruelty toward the model is disallowed, while normal frustration or research use remains permitted. The changes come after the company engaged religious scholars in discussions about Claude’s potential consciousness, raising concerns about misuse. The update underscores Anthropic’s effort to curb harmful applications and protect democratic processes.",
+      "key_points": [
+        "Prohibition of prolonged verbal abuse toward Claude, limiting only extreme, purposeless cruelty.",
+        "New bans on election interference, weapons software, and deceptive fake accounts.",
+        "Policy clarifies that normal frustration or research use is still allowed.",
+        "Anthropic’s policy update follows controversial outreach to religious scholars about Claude’s consciousness."
+      ],
+      "topics": [
+        "ai policy",
+        "anthropic",
+        "election interference",
+        "model abuse",
+        "religious scholars"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:16:24 +0000",
+      "processed_at": "2026-10-12T01:36:00.573932+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal",
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1592854555-1.jpg?resize=1200,855",
@@ -2407,80 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 02 Oct 2026 21:09:14 +0000",
       "processed_at": "2026-10-05T16:57:09.026086+00:00"
-    },
-    {
-      "id": "crunch-com-2026-10-02-medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/faulkner-1825451690.jpg?resize=1200,800",
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients' data | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Epic, the software giant behind the MyChart patient portal, has halted most product development for about six weeks to address security bugs uncovered by Anthropic’s AI model Mythos. The flaws could let unauthorized users view patient records without leaving logs, raising concerns about data privacy and potential undetected tampering. Epic’s MyChart platform manages over 320 million patient records nationwide, and the company does not store the data itself, but a vulnerability could expose it across multiple U.S. healthcare systems. The pause reflects growing fears that AI‑driven vulnerability discovery may accelerate cyberattacks on sensitive medical data.",
-      "key_points": [
-        "Epic has paused product development for roughly six weeks to fix security bugs revealed by an AI model.",
-        "The bugs could allow outsiders to access patient records in MyChart without logging the intrusion.",
-        "Epic’s MyChart platform holds more than 320 million patient records across U.S. hospitals and clinics.",
-        "The move underscores the heightened risk of AI‑accelerated vulnerability discovery in healthcare software."
-      ],
-      "topics": [
-        "epic",
-        "mychart",
-        "cybersecurity",
-        "healthcare data"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 13:23:09 +0000",
-      "processed_at": "2026-10-05T16:56:52.331172+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-rivians-r2-just-helped-it-set-a-new-sales-record",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/R2_CatalinaBlueExterior8.jpg?resize=1200,800",
-      "title": "Rivian's R2 just helped it set a new sales record | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Rivian reported its highest ever third‑quarter vehicle deliveries, shipping 19,248 units—about 45% more than the same period last year—thanks largely to the launch of its new, more affordable R2 SUV. The R2, priced just under $60,000, is expected to sell 20,000 to 25,000 units by year‑end, potentially making it the fastest‑selling U.S. EV after Tesla’s Model Y. Rivian plans to hit 65,000 to 70,000 total sales this year, a record, and is expanding production with a new Atlanta plant that could reach 300,000 vehicles annually. The company also partnered with Uber for robotaxi versions of the R2, pushing its profitability target to 2027 to invest more in autonomy.",
-      "key_points": [
-        "Q3 deliveries hit 19,248, a 45% year‑over‑year increase driven by the R2 SUV launch",
-        "R2 is priced under $60k with a target of 20,000‑25,000 units by year‑end, aiming to become one of the fastest‑selling U.S. EVs",
-        "Rivian expects 65,000‑70,000 total sales this year, its best record, supported by a new Atlanta factory with 300,000‑vehicle capacity",
-        "Uber partnership for robotaxi R2 models delays profitability to 2027 to fund autonomous tech"
-      ],
-      "topics": [
-        "electric vehicles",
-        "rivian",
-        "sales",
-        "robotaxi",
-        "production"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 13:17:05 +0000",
-      "processed_at": "2026-10-05T16:56:51.357316+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-02-techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675",
-      "title": "Blackstone’s Jas Khaira joins Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Blackstone’s global head of N1, Jas Khaira, will speak on the Builders Stage at TechCrunch Disrupt 2026 about how the firm evaluates and funds AI companies that can sustain long‑term growth. He will discuss Blackstone’s recent $600 million equity investment in Indian AI infrastructure firm Neysa and the $1.5 billion joint venture backing Anthropic’s Ode, illustrating the scale of capital required for AI infrastructure and talent. Khaira will outline the investor criteria that separate fast‑growing startups from those that can endure, emphasizing the importance of strategic capital use over simply raising more money. The session is part of a larger event that will host over 10,000 founders, investors and tech leaders, offering networking, deal‑making and insights into building AI companies for the long haul.",
-      "key_points": [
-        "Blackstone’s investment focus on AI infrastructure and scaling capital is exemplified by deals like Neysa and Anthropic’s Ode",
-        "Khaira will explain the investor criteria that distinguish sustainable AI companies from those that only grow quickly",
-        "Disrupt 2026 provides a platform for founders to network with investors, customers and partners in a large, multi‑stage event",
-        "Capital for AI goes beyond product development to include compute, data centers and talent acquisition"
-      ],
-      "topics": [
-        "ai",
-        "venturecapital",
-        "startup",
-        "investment",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 17:32:05 +0000",
-      "processed_at": "2026-10-05T07:31:49.084852+00:00"
     }
   ]
 }
