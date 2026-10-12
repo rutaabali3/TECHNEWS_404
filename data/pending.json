@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-12T01:35:54.342867+00:00",
+  "updated_at": "2026-10-12T08:50:40.963064+00:00",
   "items": [
-    {
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "feed_excerpt": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
-      "published": "Thu, 08 Oct 2026 14:00:00 +0000"
-    },
     {
       "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
       "url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
       "feed_excerpt": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.",
       "published": "Thu, 08 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
-      "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-      "feed_excerpt": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
-      "published": "Thu, 08 Oct 2026 12:53:39 +0000"
     },
     {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -32,22 +20,10 @@
       "published": "Thu, 08 Oct 2026 18:20:32 +0000"
     },
     {
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "feed_excerpt": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "published": "Thu, 08 Oct 2026 18:10:55 +0000"
-    },
-    {
       "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
       "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
       "feed_excerpt": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
       "published": "Thu, 08 Oct 2026 16:45:00 +0000"
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "feed_excerpt": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0000"
     },
     {
       "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
@@ -326,5 +302,5 @@
       "published": "Mon, 12 Oct 2026 00:59:01 +0000"
     }
   ],
-  "last_processed_at": "2026-10-12T01:36:12.688590+00:00"
+  "last_processed_at": "2026-10-12T08:50:46.753325+00:00"
 }

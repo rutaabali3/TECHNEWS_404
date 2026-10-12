@@ -1,7 +1,104 @@
 {
-  "updated_at": "2026-10-12T01:36:16.066853+00:00",
+  "updated_at": "2026-10-12T08:51:03.034168+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-openais-math-solutions-arent-meeting-the-fields-standards-yet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
+      "title": "OpenAI's math solutions aren't meeting the field's standards yet | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI recently released hundreds of claimed solutions to hard math problems, but the Advisory Group on Mathematics and Artificial Intelligence (AGMAI) says the proofs fall short of its guidelines, especially in human understanding and formal verification. Only 10 of 719 manuscripts included the model’s chain of thought, and just 42% of proofs were formally verified in Lean, leaving gaps between natural‑language explanations and machine‑readable code. The group urged OpenAI to stop testing proprietary models on open research problems and to provide metadata linking natural language and formal artifacts, but the lab has not complied. The criticism highlights the need for human mathematicians to review AI‑generated proofs to ensure they are trustworthy and meaningful to the broader community.",
+      "key_points": [
+        "OpenAI's math proofs lack full chain-of-thought and formal verification, meeting only 42% of AGMAI's formalization guidelines.",
+        "AGMAI urged OpenAI to halt proprietary testing on open problems and provide metadata linking natural language and Lean code, but the lab has not followed these requests.",
+        "The gaps between natural‑language explanations and Lean formalizations raise doubts about trusting AI‑generated proofs without human peer review."
+      ],
+      "topics": [
+        "openai",
+        "mathematics",
+        "ai",
+        "research",
+        "ethics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:10:55 +0000",
+      "processed_at": "2026-10-12T08:50:42.609244+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-naturas-smart-ring-puts-ai-agents-on-your-finger",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Natura has unveiled Interface, a $99 smart ring that lets users command AI agents with a finger press and also tracks health metrics like heart rate and sleep. The ring, designed by founder Carlo Edoardo Ferraris, aims to replace phone interactions by offering 24/7 access to agents such as ChatGPT, Claude, and Meta’s Muse, while also functioning as a wearable health monitor. Preorders will open next month with shipping slated for December or January, and the device will initially be free for three to six months before a $9 monthly subscription is introduced. Natura positions Interface as a low‑cost, long‑battery alternative to existing health‑focused rings, hoping to drive adoption among tech users who already own personal AI agents.",
+      "key_points": [
+        "Interface is a $99 smart ring that combines AI agent control with health tracking",
+        "The ring will ship in December/January and later require a $9/month subscription after a free trial",
+        "It targets users with personal AI agents, aiming to replace phone interactions with a wearable interface"
+      ],
+      "topics": [
+        "smart ring",
+        "ai agents",
+        "health tracking",
+        "consumer electronics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-12T08:50:42.606515+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Zach-Yaegari.jpg?resize=1200,800",
+      "title": "Cal AI's 19-year-old founder just raised $10M for his new AI startup | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Zach Yadegari, 19, founder of Cal AI, has secured $10 million from Vine Ventures and others to launch Persona, a personal AI assistant that combines cloud‑based intelligence with a $179 wearable band. Persona differentiates itself by not running AI locally, encrypting data, and avoiding ambient listening, while still offering shopping, travel, and other utility functions through an iMessage beta and upcoming app. The company plans to monetize through ads shown during shopping research, but the assistant will remain unbiased because it cannot see which items are sponsored. Early traction includes a few thousand beta users and five‑figure pre‑orders for the band, with the device slated for December release.",
+      "key_points": [
+        "Yadegari raised $10 million for Persona, a privacy‑focused AI assistant with a wearable band",
+        "Persona runs its model in the cloud, encrypts data, and avoids ambient listening",
+        "The business model includes ads during shopping research while keeping recommendations unbiased",
+        "Beta users and pre‑orders have already generated early traction and revenue"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "wearable",
+        "privacy",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-12T08:50:42.387250+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800",
+      "title": "Uber and China's Pony.ai plan to launch robotaxis in London | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Uber and Chinese autonomous‑vehicle maker Pony.ai announced that they will begin testing Pony.ai’s Gen‑7 robotaxis in London in the coming weeks as part of a broader partnership to bring driverless cars to Europe. The move follows their earlier collaboration in the Middle East and the launch of a robotaxi service in Zagreb, where Uber, Pony.ai and Verne operate 2,000 autonomous vehicles. Uber plans to offer autonomous‑vehicle trips in up to 15 cities worldwide by the end of 2026, roughly split between the U.S. and international markets. While the London service will follow a similar model, the companies have not yet disclosed who will own and operate the fleet, and Uber also has a separate partnership with Wayve for a London robotaxi launch.",
+      "key_points": [
+        "Uber and Pony.ai will test Gen‑7 robotaxis in London in the coming weeks",
+        "The partnership is part of Uber’s goal to offer autonomous rides in 15 cities by 2026, with 2,000 robotaxis in Europe",
+        "Uber also partners with Wayve for a London robotaxi service and has similar deals in Dubai",
+        "The London rollout will mirror the Zagreb model, but fleet ownership remains undecided"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "robotaxi",
+        "uber",
+        "ponyai",
+        "london"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 12:53:39 +0000",
+      "processed_at": "2026-10-12T08:50:46.753204+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
@@ -2383,104 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 03 Oct 2026 00:45:39 +0000",
       "processed_at": "2026-10-05T23:07:04.556938+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-sanders-introduces-bill-to-ban-the-federal-government-from-using-flock",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-      "title": "Sanders introduces bill to ban the federal government from using Flock | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Senator Bernie Sanders introduced the Ban Flock Act, a bill that would prohibit federal agencies from using automatic license‑plate readers (ALPRs) or accessing data from ALPRs operated by local police or private companies. The legislation allows only toll‑collection uses and future Congress‑approved applications that limit data retention to 48 hours, and it would penalize state and local governments that fail to comply by cutting federal grant funding. Flock Safety, the largest U.S. ALPR vendor with more than 120,000 cameras and a monthly 20 billion vehicle‑read volume, is a key target of the bill, and the company has already reduced its default data‑retention period to seven days amid public pressure. Co‑sponsors include Representative Alexandria Ocasio‑Cortez and Senator Jeff Merkley, underscoring bipartisan concern over privacy and surveillance.\n",
-      "key_points": [
-        "The Ban Flock Act bars federal use of ALPRs and data from them, with limited toll‑collection exceptions and a 48‑hour retention cap.",
-        "Flock Safety, the largest ALPR vendor, operates 120,000+ cameras and processes 20 billion vehicle reads per month.",
-        "State and local governments that do not comply could lose federal grant funding from five departments, including Justice and Homeland Security.",
-        "The bill is co‑sponsored by AOC and Jeff Merkley, reflecting bipartisan support for privacy reforms.\n"
-      ],
-      "topics": [
-        "federal policy",
-        "privacy",
-        "technology",
-        "law enforcement",
-        "surveillance"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 00:21:57 +0000",
-      "processed_at": "2026-10-05T23:06:38.123576+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
-      "title": "Disrupt 2026 Layoff Expo+ Passes Available for $75 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is offering a $75 Layoff Expo+ Pass to the first 100 people who were laid off, valid until the conference opens on Oct. 13. The pass gives access to the Expo Hall and networking opportunities with 10,000+ founders, investors, and tech leaders in San Francisco’s Moscone West. It excludes industry stages and roundtable sessions, but attendees can still use the app’s AI matchmaking to set up meetings. The offer ends once all 100 passes are claimed or the doors open, encouraging displaced workers to reconnect with the startup ecosystem.",
-      "key_points": [
-        "First 100 laid‑off workers can buy a $75 pass before Oct. 13",
-        "Pass grants entry to the Expo Hall and networking tools but not stage sessions",
-        "The conference hosts over 10,000 attendees, including founders, investors, and tech leaders",
-        "Passes are limited; after 100 are sold or doors open, the offer ends"
-      ],
-      "topics": [
-        "tech events",
-        "job market",
-        "networking",
-        "startup ecosystem",
-        "conference discounts"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "processed_at": "2026-10-05T23:06:37.891359+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/elon-tesla-getty.jpg?resize=1200,799",
-      "title": "One year later, Tesla and Musk still don't have a good definition of 'abundance' | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Elon Musk’s fourth Tesla Master Plan, unveiled on September 1, 2025, promises a future of \"amazing abundance\" that includes robotaxis, humanoid robots, and AI‑driven medical care, yet offers no concrete roadmap or metrics. The vision was used to justify a $1 trillion pay package for Musk in 2025, with Tesla’s regulatory filings tying the payout to ambitious product targets such as 20 million vehicles and 10 million Full Self‑Driving subscriptions. Shareholders were encouraged to support the slogan in a letter that framed it as a pathway to global prosperity, while Tesla applied to trademark \"amazing abundance\" for a wide range of merchandise. Despite the grand rhetoric, practical details remain scarce and the term continues to function largely as a marketing catch‑phrase rather than a measurable strategy.",
-      "key_points": [
-        "Musk’s Master Plan IV promises \"amazing abundance\" without concrete details",
-        "Tesla’s $1 trillion pay package is tied to vague vision and product targets",
-        "Shareholders were urged to endorse the slogan as a path to prosperity",
-        "Tesla trademarked \"amazing abundance\" for various products"
-      ],
-      "topics": [
-        "tesla",
-        "elonmusk",
-        "masterplaniv",
-        "abundance",
-        "paypackage"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 15:50:10 +0000",
-      "processed_at": "2026-10-05T16:56:51.531905+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-sean-parker-is-rebuilding-stability-ai-around-music",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "title": "Sean Parker is rebuilding Stability AI around music | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Sean Parker, the Napster co‑founder, has re‑entered the music industry by steering Stability AI—an image‑generation startup that survived an $80 million rescue—toward becoming a premier AI toolmaker for music professionals. In late August, Stability secured $76 million in new funding from Sony, Warner, Universal and others, who also licensed their catalogs to train the models. The company has released three audio models and AI music‑editing software that can generate full instrumental tracks or snippets from text prompts, with an upcoming update planned to let users hum or beatbox to guide the output. Parker’s approach signals a shift from his earlier “forgiveness” strategy to a more collaborative, rule‑compliant model in the creative tech space.",
-      "key_points": [
-        "Parker and CEO Prem Akkaraju are transforming Stability AI into an AI music‑tool platform after a $80 million rescue and a $76 million new funding round from major record labels.",
-        "The new audio models can generate full tracks or snippets from text prompts, and an upcoming update will allow users to steer music by humming or beatboxing."
-      ],
-      "topics": [
-        "ai",
-        "music",
-        "startup",
-        "investment",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
-      "processed_at": "2026-10-05T16:57:09.026086+00:00"
     }
   ]
 }
