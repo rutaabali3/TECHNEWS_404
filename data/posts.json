@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-10-13T16:17:52.385167+00:00",
+  "updated_at": "2026-10-13T21:26:39.759002+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Elon Musk has publicly accused powerful Indian business interests, including Reliance Industries chairperson Mukesh Ambani, of blocking SpaceX’s Starlink satellite‑internet launch, calling the obstruction a \"crime against the people of India.\" The Indian Ministry of Communications rebuffed Musk’s claims, stating that Starlink and other licensed operators are at the same regulatory stage and must complete security assessments before spectrum can be granted. Starlink has spent more than five years seeking entry, secured key approvals, partnered with telecom giants Reliance Jio and Bharti Airtel, and set up a local team, yet commercial services remain stalled. The dispute highlights regulatory hurdles and the complex interplay between foreign tech entrants and domestic telecom operators in India’s rapidly growing internet market.",
+      "key_points": [
+        "Musk alleges Indian oligarchs, including Mukesh Ambani, are blocking Starlink’s launch, labeling it a crime against Indians.",
+        "India’s Ministry of Communications insists the regulatory process is fair and that Starlink is on the same footing as other licensed satellite operators.",
+        "Starlink has secured approvals, partnered with Jio and Airtel, and established a local team, but still lacks a commercial launch license.",
+        "The conflict underscores regulatory challenges for foreign satellite services in India’s telecom sector."
+      ],
+      "topics": [
+        "starlink",
+        "spacex",
+        "india",
+        "regulation",
+        "telecom"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 15:12:59 +0000",
+      "processed_at": "2026-10-13T21:26:21.028103+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-danu-robotics-fight-to-build-a-better-recycling-robot",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
+      "title": "Danu Robotics' fight to build a better recycling robot | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Danu Robotics, founded by Amy Ma, is launching its H.E.R.O. robot that uses a pincer claw and AI to sort recyclables more cheaply and quickly than suction‑based competitors. The company has already secured $500,000 in signed contracts, has over 200 prospects in its pipeline, and is targeting the $20 billion recycling‑sorting market across Europe and North America. Danu is raising a $5 million late‑seed round to accelerate commercialization, and it estimates that a single working site can generate $485,000 in additional revenue—more than double the robot’s cost. Future plans include making the robot smaller and portable so it can be deployed at events, shopping centers, hospitals, and airports to recycle waste at the source.",
+      "key_points": [
+        "H.E.R.O. uses a pincer claw and AI to improve recycling sorting efficiency over suction‑based competitors",
+        "Danu Robotics has $500k in signed contracts, 200 prospects in its pipeline, and targets a $20B market",
+        "The company is raising a $5M late‑seed round and projects $485k ROI per site, more than twice the robot cost",
+        "Future development aims to make the robot smaller and portable for use outside dedicated waste facilities"
+      ],
+      "topics": [
+        "robotics",
+        "recycling",
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:45:00 +0000",
+      "processed_at": "2026-10-13T21:26:20.969157+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-we-cant-help-treating-ai-like-its-human-but-should-we",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+      "title": "We can't help treating AI like it's human. But should we? | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "MIT CSAIL showcased humanoid Unitree robots, prompting instinctive human-like politeness from visitors. Researchers such as Sherry Turkle and Pataranutaporn warn that this anthropomorphism can erode skepticism and lead to emotional dependence on AI, citing cases from chatbots to wrongful death lawsuits. While AI can serve useful roles—e.g., interview coaching—Turkle stresses keeping interactions within appropriate \"lanes\" to avoid harm. The article underscores the need for ethical boundaries as AI becomes ubiquitous in everyday services.",
+      "key_points": [
+        "People instinctively treat robots and chatbots as sentient, often using polite language.",
+        "Experts warn that anthropomorphism can erode human agency and lead to harmful reliance, as seen in a wrongful death lawsuit involving a chatbot.",
+        "AI can be beneficial when confined to clear roles, such as interview coaching, but must stay within its \"lane\" to avoid ethical pitfalls."
+      ],
+      "topics": [
+        "ai",
+        "anthropomorphism",
+        "ethics",
+        "robotics",
+        "human-computer interaction"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:40:14 +0000",
+      "processed_at": "2026-10-13T21:26:21.248889+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-remember-orkut-its-founder-wants-to-bring-it-back",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/orkut.jpg?resize=1200,800",
+      "title": "Remember Orkut? Its founder wants to bring it back | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Orkut founder Orkut Büyükkökten has urged users to visit Orkut.com and add their names in support of a potential revival of the once‑popular social network, emphasizing a return to authentic human connection over algorithmic influence. The 51‑year‑old, who launched Orkut in 2004 while at Google, criticized the rise of AI‑generated content and expressed a desire to rebuild a platform centered on real people and genuine belonging. Despite his calls for support, Büyükkökten has not confirmed whether a new version of Orkut is already in development or will ever launch. The original Orkut attracted roughly 300 million active users before Google shut it down in September 2014, and Büyükkökten has previously attempted other social ventures that ultimately closed.",
+      "key_points": [
+        "Founder Orkut Büyükkökten is calling for user support to revive Orkut, highlighting a focus on real human connection over AI algorithms",
+        "He has not confirmed whether a new version of Orkut is in development or will launch",
+        "The original Orkut had about 300 million users before its 2014 shutdown",
+        "Büyükkökten has previously launched other social networks that have since closed"
+      ],
+      "topics": [
+        "social media",
+        "or",
+        "startup",
+        "ai",
+        "relaunch"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 15:56:15 +0000",
+      "processed_at": "2026-10-13T21:26:21.087676+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-xonas-commercial-gps-alternative-is-about-to-go-live",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Copy-of-0I7A3288.jpg?resize=1200,800",
+      "title": "Xona's commercial GPS alternative is about to go live | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Xona Space Systems is set to launch six satellites this month to begin its Pulsar constellation, a commercial GPS alternative that promises centimeter‑level precision and stronger signals that can penetrate buildings. The service will compete with government‑run GPS, offering more accurate location and timing for applications such as autonomous vehicles, farming robots, and aviation safety. Xona’s architecture eliminates the need for expensive onboard atomic clocks by synchronizing with ground‑based references, and its signals can be received by existing GPS receivers with a simple software update. With over $300 million in funding—including $20 million from the U.S. Space Force—Xona aims for full coverage in the U.S., Europe, Japan, and South Korea by 2028.",
+      "key_points": [
+        "Xona is launching six satellites this month to start its Pulsar constellation",
+        "Pulsar offers centimeter‑level precision and stronger signals that can penetrate buildings",
+        "The service targets high‑precision applications like autonomous vehicles and farming robots",
+        "Xona has raised $300 million, including $20 million from the U.S. Space Force"
+      ],
+      "topics": [
+        "satellite navigation",
+        "gps alternatives",
+        "autonomous vehicles",
+        "space startups",
+        "precision timing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "processed_at": "2026-10-13T21:26:21.161019+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-09-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
@@ -2361,124 +2485,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 05 Oct 2026 14:00:00 +0000",
       "processed_at": "2026-10-07T15:19:18.454418+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-openai-will-start-watermarking-chatgpts-text-in-the-eu",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "OpenAI will start watermarking ChatGPT's text in the EU | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "OpenAI will begin embedding an invisible watermark in text generated by ChatGPT and Codex within the European Union to satisfy the EU AI Act’s transparency requirements. The watermark, called textGrain, subtly alters word choices so that a detector can identify AI‑generated content without affecting model performance or revealing user identity. The feature will roll out over the next weeks to all EU users on all plans, while developers worldwide can opt it on for selected models, but it will not be a global default. OpenAI also released a technical report and limited detector access to vetted researchers, noting that heavy editing or short passages can reduce detection accuracy.",
-      "key_points": [
-        "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU to comply with the EU AI Act.",
-        "The watermark, named textGrain, works by subtly shaping word choices and can be detected by a specialized detector without affecting model performance.",
-        "The rollout will cover all EU users on all plans, with optional activation for developers worldwide, but it will not be a global default.",
-        "OpenAI released a technical report and limited detector access to vetted researchers, noting that editing can reduce detection accuracy."
-      ],
-      "topics": [
-        "openai",
-        "euaiact",
-        "watermark",
-        "aiethics",
-        "textgeneration"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
-      "processed_at": "2026-10-07T07:36:00.809732+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-after-factorys-public-spat-with-khosla-menlo-proudly-invests",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Matt-Murphy-Menlo-Ventures.jpeg?resize=1200,1200",
-      "title": "After Factory's public spat with Khosla, Menlo proudly invests | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Menlo Ventures announced a substantial investment in AI coding startup Factory during its $5 billion valuation round, a move that signals strong confidence in the company’s technology and leadership. The investment came amid a public dispute between Factory CEO Matan Grinberg and former board advisor Chris Degnan, as well as harsh criticism from Vinod Khosla, who called Factory a struggling competitor. Menlo’s endorsement counters Khosla’s negative remarks and positions Factory as a serious contender in the AI space, drawing parallels to the early success of Anthropic. Other venture firms, including Sequoia, have also publicly backed Factory, suggesting a broader industry belief in its potential.\n",
-      "key_points": [
-        "Menlo Ventures invested a significant stake in Factory during its $5 billion valuation round.",
-        "The investment followed a public feud between Factory’s CEO and former board advisor, and criticism from Vinod Khosla.",
-        "Menlo’s endorsement counters Khosla’s negative remarks and signals confidence in Factory’s technology and leadership.",
-        "Other VCs, such as Sequoia, have publicly supported Factory, positioning it as a potential \"next Anthropic\"."
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 19:38:07 +0000",
-      "processed_at": "2026-10-07T07:35:51.506652+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-05-reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Reflection AI has unveiled Beam, a 501‑billion‑parameter open‑weight model that claims to match the performance of leading Chinese open models such as Z.ai’s GLM‑5.2 on advanced reasoning benchmarks while using 3‑4× less inference compute. Beam is text‑only, trained on 23.8 trillion tokens, has a 1‑million‑token context window, and is positioned as a workhorse for enterprises, governments, and developers. The Brooklyn‑based startup, founded by former DeepMind researchers, has raised $4.7 billion at a $25 billion pre‑money valuation and secured more than $7 billion in compute deals with SpaceX and Nebius for Nvidia’s GB300 chips. Reflection plans to release Beam’s weights and full technical details this month and promote “AI factory” solutions that let institutions build customized, local AI systems on their own data.",
-      "key_points": [
-        "Beam is a 501‑billion‑parameter open‑weight model that matches Chinese models on reasoning benchmarks while using 3‑4× less compute",
-        "Reflection AI has raised $4.7 billion at a $25 billion valuation and secured $7 billion in compute deals with SpaceX and Nebius for Nvidia GPUs",
-        "The startup will release Beam’s weights this month and promote AI‑factory solutions for enterprises and sovereign nations"
-      ],
-      "topics": [
-        "ai",
-        "open-source",
-        "large language models",
-        "enterprise ai",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "processed_at": "2026-10-07T07:35:51.404202+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
-      "title": "HackerRank's AI interviewer offers a glimpse into what job interviews could become | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "HackerRank has made its AI interview agent Chakra generally available to customers, following six months of beta testing that saw the system conduct over 500,000 interviews with firms such as Snowflake, Snorkel, and Capgemini. Chakra blends a real‑world coding task with an AI assistant that observes candidates’ work, asks follow‑up questions, and scores not only the final answer but also critical thinking, judgment and what the company calls \"AI fluency.\" The platform claims the new format reduces cheating by 70‑80% compared to traditional assessments and consolidates the recruiter screen, take‑home test and engineer interview into a single session. While the AI scores candidates, hiring decisions remain human, and HackerRank has built in bias‑audit compliance to meet regulatory requirements such as New York City’s independent audit rule.",
-      "key_points": [
-        "Chakra is now available to all HackerRank customers after beta testing 500,000+ interviews",
-        "The AI evaluates critical thinking, judgment and AI fluency, not just coding output",
-        "Cheating incidents dropped 70‑80% in Chakra interviews versus traditional tests",
-        "The tool merges recruiter, take‑home, and engineer interview rounds into one session"
-      ],
-      "topics": [
-        "hiring",
-        "ai",
-        "interviews",
-        "hackerank",
-        "techpolicy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 16:43:35 +0000",
-      "processed_at": "2026-10-07T07:36:19.135240+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-04-can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "President Donald Trump announced that the U.S. government would no longer refer to artificial intelligence as \"AI\" but as \"super intelligence,\" a move that coincided with a non‑binding \"Joint Commitment on Frontier Responsibilities\" signed by leading AI CEOs at a dinner and luncheon. The pact, described by Trump as \"morally binding,\" was intended as a safety and rebranding exercise, though critics note its lack of legal enforceability and the rushed nature of its drafting. Key industry figures—including Mark Zuckerberg, Jeff Bezos, Elon Musk, and Anthropic CEO Dario Amodei—participated, signaling a temporary thaw between the administration and the AI sector amid ongoing tensions with the Defense Department. The gesture underscores the administration’s desire to position the U.S. as a leader in AI while attempting to address public concerns about the technology’s risks.\n",
-      "key_points": [
-        "Trump renamed AI to \"super intelligence\" and signed a non‑binding safety pact with top AI CEOs.",
-        "The agreement is legally unenforced and described as \"morally binding,\" reflecting a rebranding effort rather than concrete regulation.",
-        "Anthropic’s CEO was invited to a dinner with Trump, signaling a brief reconciliation with the administration amid defense‑sector criticism.",
-        "The pact’s rushed drafting and lack of enforceability suggest limited immediate impact on AI policy.\n"
-      ],
-      "topics": [
-        "ai",
-        "government",
-        "safety",
-        "rebranding",
-        "superintelligence"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 04 Oct 2026 20:08:34 +0000",
-      "processed_at": "2026-10-07T01:16:05.076219+00:00"
     }
   ]
 }

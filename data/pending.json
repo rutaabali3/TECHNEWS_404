@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T16:17:21.339620+00:00",
+  "updated_at": "2026-10-13T21:26:19.588448+00:00",
   "items": [
     {
       "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
@@ -14,22 +14,10 @@
       "published": "Thu, 08 Oct 2026 15:12:59 +0000"
     },
     {
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-      "url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
-      "feed_excerpt": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
-      "published": "Thu, 08 Oct 2026 15:12:59 +0000"
-    },
-    {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
       "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
       "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
-    {
-      "title": "Xona’s commercial GPS alternative is about to go live",
-      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-      "feed_excerpt": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-      "published": "Fri, 09 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "LumenUs helps automate tedious paperwork in times of grief",
@@ -38,28 +26,10 @@
       "published": "Fri, 09 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "feed_excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "published": "Fri, 09 Oct 2026 16:45:00 +0000"
-    },
-    {
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "feed_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "published": "Fri, 09 Oct 2026 16:40:14 +0000"
-    },
-    {
       "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
       "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
       "feed_excerpt": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
       "published": "Fri, 09 Oct 2026 16:07:26 +0000"
-    },
-    {
-      "title": "Remember Orkut? Its founder wants to bring it back",
-      "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-      "feed_excerpt": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
-      "published": "Fri, 09 Oct 2026 15:56:15 +0000"
     },
     {
       "title": "a16z’s Olivia Moore on the state of consumer AI",
@@ -330,7 +300,97 @@
       "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
       "feed_excerpt": "The startup will sell some of its assets to Disney for $20 million.",
       "published": "Tue, 13 Oct 2026 12:23:42 +0000"
+    },
+    {
+      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "feed_excerpt": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+      "published": "Tue, 13 Oct 2026 21:15:00 +0000"
+    },
+    {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "feed_excerpt": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "published": "Tue, 13 Oct 2026 20:59:11 +0000"
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "feed_excerpt": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "published": "Tue, 13 Oct 2026 20:36:44 +0000"
+    },
+    {
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "feed_excerpt": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+      "published": "Tue, 13 Oct 2026 20:13:53 +0000"
+    },
+    {
+      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+      "feed_excerpt": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
+      "published": "Tue, 13 Oct 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "feed_excerpt": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+      "published": "Tue, 13 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "feed_excerpt": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+      "published": "Tue, 13 Oct 2026 18:30:03 +0000"
+    },
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "feed_excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "published": "Tue, 13 Oct 2026 18:30:00 +0000"
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "feed_excerpt": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "published": "Tue, 13 Oct 2026 18:05:24 +0000"
+    },
+    {
+      "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+      "feed_excerpt": "Longshot is trying to build a gun big enough to make space data centers a reality.",
+      "published": "Tue, 13 Oct 2026 18:05:00 +0000"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "published": "Tue, 13 Oct 2026 17:30:00 +0000"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "feed_excerpt": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "published": "Tue, 13 Oct 2026 17:18:25 +0000"
+    },
+    {
+      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+      "feed_excerpt": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+      "published": "Tue, 13 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "feed_excerpt": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "published": "Tue, 13 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "published": "Tue, 13 Oct 2026 16:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-13T16:17:51.000297+00:00"
+  "last_processed_at": "2026-10-13T21:26:21.248973+00:00"
 }
