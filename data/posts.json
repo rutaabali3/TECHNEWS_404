@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-12T18:46:16.013493+00:00",
+  "updated_at": "2026-10-13T01:10:06.493150+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/asos-breach-notif.jpg?resize=1200,542",
+      "title": "Asos confirms breach of customer data after hackers send rogue app notification | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "U.K. fashion retailer Asos confirmed a data breach after hackers used the company’s own app to send an unauthorized notification to customers. The attackers gained access to a Snowflake instance by impersonating a trusted contact, extracting names, addresses, phone numbers, email addresses and even search query data. Asos filed the breach with the London Stock Exchange and warned that the stolen data could be leaked if the hackers’ demands are not met. The incident highlights the risks of third‑party data platforms and the growing threat of in‑app phishing tactics.",
+      "key_points": [
+        "Hackers accessed Asos data via a Snowflake instance by impersonating a trusted contact and sent a rogue in‑app notification.",
+        "Stolen information includes personal details such as addresses, phone numbers, emails and customer search queries.",
+        "Asos filed the breach with regulators and warned that the data could be publicly released if demands are not met.",
+        "The breach underscores vulnerabilities in third‑party data hosting and in‑app communication systems."
+      ],
+      "topics": [
+        "data breach",
+        "fashion retail",
+        "cybersecurity",
+        "snowflake",
+        "customer data"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 15:01:15 +0000",
+      "processed_at": "2026-10-13T01:09:42.794958+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-the-complete-side-events-lineup-at-founder-summit-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/53199332068_d5900644ba_o.jpg?resize=1200,800",
+      "title": "The complete Side Events lineup at Founder Summit 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit 2026 will feature a packed Side Events lineup in Boston from November 3 to 6, offering founders, investors, and industry leaders a series of workshops, mixers, and panels designed to spark collaboration and funding opportunities. The schedule includes first‑principles product workshops hosted by PrincipiumX, investor‑founder mixers by TBD Angels, and readiness sessions by Prepare 4 VC and Startup Grind Boston, among others. Industry groups such as Harmonic Finance, Fidelity Investments, and the Massachusetts AI Coalition will host networking dinners and fireside panels that highlight Boston’s strengths in AI and hardware. Attendees are encouraged to book spots early, as many events have limited capacity and aim to create high‑impact connections across the startup ecosystem.",
+      "key_points": [
+        "Founder Summit 2026 side events run Nov 3-6 in Boston",
+        "Events include workshops, mixers, investor readiness sessions, and industry panels",
+        "Hosted by a mix of VC firms, universities, and industry groups",
+        "Attendees can network, learn, and secure funding opportunities"
+      ],
+      "topics": [
+        "techsummit",
+        "sideevents",
+        "networking",
+        "venturecapital",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-13T01:09:42.843407+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
@@ -2430,56 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 03 Oct 2026 14:00:00 +0000",
       "processed_at": "2026-10-06T17:05:02.825751+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-openai-launches-visual-ads-that-appear-alongside-image-generation-results",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-      "title": "OpenAI launches visual ads that appear alongside image generation results | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "OpenAI is rolling out visual display ads that will appear alongside images generated by ChatGPT, beginning this month in the United States with a limited test group of advertisers. The ads will be clearly labeled and will not influence the model’s responses, while OpenAI expands its measurement tools and partner ecosystem to include click attribution and brand‑suitability solutions. The company aims to monetize its free and low‑cost subscription tiers and eventually reach its 1.2 billion weekly users worldwide. The move could alter the user experience and may encourage casual users to upgrade to paid plans to avoid ads.",
-      "key_points": [
-        "Visual ads will appear next to image generation results in ChatGPT, starting in the U.S. this month.",
-        "The ads are labeled, do not affect ChatGPT answers, and are part of a test group of advertisers.",
-        "OpenAI is expanding measurement and brand‑suitability partnerships, including click attribution and geo‑based experiments.",
-        "The strategy is to monetize free and low‑cost plans and eventually target all 1.2 billion weekly users globally."
-      ],
-      "topics": [
-        "adtech",
-        "openai",
-        "chatgpt",
-        "ai",
-        "advertising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "processed_at": "2026-10-06T17:04:43.432783+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-04-google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
-      "title": "Google froze its open source bug bounty program due to a 'significant rise' in AI submissions | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Google has paused its Open Source Software Vulnerability Rewards Program as of October 1, citing a significant rise in automated, largely invalid AI-generated submissions that overwhelmed engineers and maintainers. The company will provide an update in the first quarter of 2027, effectively suspending the program until then. While the pause is in effect, researchers are encouraged to participate in Google’s other bug bounty programs. This decision underscores growing concerns about AI‑generated “slop” undermining the quality and reliability of bug bounty ecosystems.",
-      "key_points": [
-        "Google paused its Open Source Software Vulnerability Rewards Program on Oct. 1 due to a surge in invalid AI‑generated submissions.",
-        "The pause will last until at least Q1 2027, with an update planned for that period.",
-        "Researchers are urged to use other Google bug bounty programs while the open‑source program remains suspended.",
-        "The move highlights increasing worries that AI‑generated “slop” can erode the effectiveness of bug bounty initiatives."
-      ],
-      "topics": [
-        "google",
-        "bug bounty",
-        "open source",
-        "ai",
-        "cybersecurity"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
-      "processed_at": "2026-10-06T10:40:22.472882+00:00"
     }
   ]
 }
