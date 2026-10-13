@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-10-13T01:10:06.493150+00:00",
+  "updated_at": "2026-10-13T08:14:38.448150+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-president-trump-awards-big-tech-donors-with-nations-highest-science-prizes",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
+      "title": "President Trump awards Big Tech donors with nation's highest science prizes | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "President Trump presented the National Medal of Science to Elon Musk, Jensen Huang, Sergey Brin, and Lisa Su at the Golden Age of American Innovation Summit, while Michael Dell and Satya Nadella received the National Medal of Technology and Innovation. The honorees collectively donated nearly $6 billion to Trump‑aligned causes, including inauguration funds and a pro‑Trump Super PAC. Trump praised the recipients for pioneering America’s future and claimed their contributions keep the country ahead of competitors. Nadella’s medal was awarded shortly after Microsoft’s indefinite suspension from the H‑1B program, a move that drew criticism from the tech community.",
+      "key_points": [
+        "Trump awarded top science and technology medals to Musk, Huang, Brin, Su, Dell, and Nadella",
+        "The awardees have donated almost $6 billion to Trump‑aligned initiatives",
+        "Nadella received his medal after Microsoft was suspended from the H‑1B program",
+        "Trump highlighted the honorees’ role in keeping America competitive"
+      ],
+      "topics": [
+        "technology",
+        "politics",
+        "science",
+        "awards",
+        "bigtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 22:33:59 +0000",
+      "processed_at": "2026-10-13T08:14:12.881821+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-08-pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
+      "title": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Extend engineer Bo Lau built a detailed website that lets users sit at Elizabeth Holmes’ desk, opening her MacBook, iPhone, and Theranos Edison machine using real documents from the United States v. Holmes trial. The interactive environment, set in 2016 with OS X El Capitan and a home‑button iPhone, lets visitors click through court‑exposed emails, slides, and machine records, making the case’s paperwork easier to navigate than thousands of PDFs. Lau uses the site to promote a watch party for Nathan Fielder’s upcoming documentary, “You Can See Everything,” while also showcasing Extend’s document‑parsing SaaS platform. The project blends humor with a practical tool for researchers and B2B users interested in high‑accuracy document extraction.",
+      "key_points": [
+        "Bo Lau’s site recreates Holmes’ 2016 workspace using real trial documents",
+        "The interactive interface simplifies access to thousands of court PDFs",
+        "Lau promotes a documentary watch party and Extend’s SaaS document‑parsing service"
+      ],
+      "topics": [
+        "tech",
+        "legal",
+        "saaS",
+        "document",
+        "theranos"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "processed_at": "2026-10-13T08:14:35.086970+00:00"
+    },
+    {
+      "id": "-techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_3-Huang-Wallen-Lee_16x9-Dark.png?resize=1200,675",
+      "title": "Execs from Gamma, Engine’s, and GV join Disrupt 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a Builders Stage session titled \"The Zero-to-1K Playbook: How to Get Your First 1,000 Customers Without a Marketing Budget,\" hosted by Gamma CEO Grant Lee, Engine founder Elia Wallen, and GV partner Crystal Huang. The session will dissect how early‑stage founders are using community building, product‑led growth, founder‑led sales, strategic outbound, and word of mouth to win their first customers when they lack a marketing budget, brand, or sales team. Lee will draw on Gamma’s rapid rise to nearly 100 million users and $100 million ARR, while Wallen will share Engine’s bootstrapped growth to 30 000 businesses and 2 million travelers. Huang will add an investor lens, explaining what early traction signals a strong product‑led adoption strategy for SaaS, infrastructure, and AI companies.\n",
+      "key_points": [
+        "Gamma CEO Grant Lee explains how Gamma grew from zero to 100 million users and $100 million ARR, offering tactics for the first 1,000 customers.",
+        "Engine founder Elia Wallen shares his bootstrapped journey and strategies for acquiring customers without an established brand.",
+        "GV partner Crystal Huang provides an investor perspective on evaluating early‑stage companies that rely on product‑led adoption.",
+        "Disrupt 2026 offers 200+ sessions, matchmaking, and networking opportunities for founders, investors, and operators.\n"
+      ],
+      "topics": [
+        "tech events",
+        "startup funding",
+        "customer acquisition",
+        "product-led growth",
+        "investor perspective"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 14:30:00 +0000",
+      "processed_at": "2026-10-13T08:14:13.018001+00:00"
+    },
+    {
+      "id": "crunch-com-2026-10-09-techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_4Days-16X9-Dark.png?resize=1200,675",
+      "title": "Disrupt 2026 starts in 4 days and prices increase | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will open on October 13 at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech leaders for three days of sessions, networking, and Startup Battlefield pitches.  Attendees can still secure discounted online pricing, with savings of up to $100 on tickets that expire at 8 a.m. PT on the opening day, and a second pass of the same type available at 50% off.  Those who have recently been laid off can purchase a special Expo+ Pass for just $75.  The event offers a mix of deal‑flow cafés, breakout sessions, and roundtables designed to help participants find investors, partners, or industry insights.",
+      "key_points": [
+        "Ticket discounts end at 8 a.m. PT on Oct. 13, offering up to $100 savings",
+        "A second pass of the same ticket type is available at 50% off",
+        "A special $75 Expo+ Pass is available for recently laid‑off attendees",
+        "Disrupt 2026 hosts 10,000+ attendees and over 200 sessions"
+      ],
+      "topics": [
+        "tech events",
+        "startup ecosystem",
+        "ticket pricing",
+        "disrupt 2026",
+        "moscone west"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-13T08:14:12.879417+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-surveillance-company-flock-cuts-staff-as-privacy-backlash-grows",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/langley-2270933352.jpg?resize=1200,789",
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Surveillance camera maker Flock announced a voluntary separation program that will cut its workforce by about 18%—roughly 270 employees—effective end‑October. The move comes amid mounting criticism from U.S. communities and lawmakers over the company’s license‑plate‑reading and people‑tracking technology, which has been linked to privacy violations and misuse by police. Flock’s spokesperson said the program is not a layoff and is intended to position the firm for future growth, but details about executive compensation cuts were not disclosed. The company has faced calls to remove its cameras, cybersecurity complaints, and contract terminations by departments such as Los Angeles, underscoring the growing pressure on its mass‑surveillance business.",
+      "key_points": [
+        "Flock is reducing its workforce by 18%—about 270 employees—through a voluntary separation program",
+        "The company faces backlash over its license‑plate readers and people‑tracking tech, with reports of police misuse and privacy violations",
+        "Flock claims the program is voluntary and aimed at future growth, but executive pay cuts were not confirmed",
+        "Multiple law‑enforcement departments have ended contracts and raised cybersecurity concerns about the system"
+      ],
+      "topics": [
+        "surveillance",
+        "privacy",
+        "law enforcement",
+        "corporate layoffs",
+        "technology regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 13:40:36 +0000",
+      "processed_at": "2026-10-13T08:14:23.259196+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/asos-breach-notif.jpg?resize=1200,542",
@@ -2356,130 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 02 Oct 2026 15:31:20 +0000",
       "processed_at": "2026-10-07T01:16:05.313999+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-01-musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
-      "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "In December 2025, former President Trump met with Elon Musk and spent hours conversing with Musk’s AI chatbot Grok, which told him that Venezuelan President Nicolás Maduro was a deeply unpopular dictator and that many citizens would celebrate his removal. The chatbot’s assessment came just months before the U.S. launched a military operation on January 3 2026 that captured Maduro, a move Trump reportedly praised as \"ingenious.\" The incident highlights Grok’s growing influence in U.S. policy circles, as the Pentagon has also begun using a Grok‑based system, Grok Gov, to plan and execute strikes during the Iran war. The story underscores the increasing role of private AI tools in shaping military and political decisions under the current administration.",
-      "key_points": [
-        "Trump used Grok to gauge Venezuelan reaction to a planned invasion that later succeeded",
-        "Grok’s prediction that Maduro was unpopular matched the U.S. military outcome, boosting Trump’s confidence in the AI",
-        "The Pentagon has adopted Grok Gov for targeting in the Iran war, indicating broader military use of Musk’s AI"
-      ],
-      "topics": [
-        "ai",
-        "military",
-        "politics",
-        "venezuela",
-        "trump"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
-      "processed_at": "2026-10-06T21:49:08.306998+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-hackers-steal-8-million-citizens-records-from-danish-government-database",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/denmark-2267724822.jpg?w=1000",
-      "title": "Hackers steal 8 million citizens' records from Danish government database | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The Danish government confirmed that its Central Person Register (CPR) was breached in September, with hackers stealing data on roughly 8 million citizens and residents, including those abroad and deceased. The stolen information includes names, addresses, Danish social‑security numbers and other personal details, making it the largest data breach in Denmark’s history. Authorities say the attackers abused a Danish company’s lawful access to the CPR system, though the perpetrators remain unidentified. The incident underscores the vulnerability of national identity databases and raises concerns about privacy and security for millions of people.",
-      "key_points": [
-        "8 million records, including names, addresses and social‑security numbers, were stolen from Denmark’s CPR database",
-        "Hackers exploited a Danish company’s lawful access to the CPR system to obtain the data",
-        "The breach is the largest in Denmark’s history and follows similar attacks on national identity databases worldwide",
-        "Perpetrators have not been identified and the incident highlights the need for stronger safeguards for government databases"
-      ],
-      "topics": [
-        "data breach",
-        "government database",
-        "cybersecurity",
-        "identity theft",
-        "denmark"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 14:58:42 +0000",
-      "processed_at": "2026-10-06T21:49:05.908020+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-02-tesla-sustains-its-ev-sales-momentum-despite-us-troubles",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1246103921.jpg?resize=1200,789",
-      "title": "Tesla sustains its EV sales momentum despite US troubles | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Tesla delivered more than 480,000 electric vehicles in the third quarter, surpassing Wall Street forecasts and its own optimistic estimates, even as U.S. sales fell about 20% year‑over‑year. The company offset the domestic decline with a rebound in Europe and China, expanding production capacity at its German plant to meet growing demand. Meanwhile, CEO Elon Musk has shifted focus to new ventures such as the Cybercab, the Tesla Semi, a re‑revealed Roadster, and the Optimus humanoid robot, all backed by a newly secured $30 billion line of credit.",
-      "key_points": [
-        "Q3 sales exceeded 480,000 vehicles, beating consensus forecasts",
-        "U.S. sales dropped roughly 20% YoY, prompting a shift to international markets",
-        "Tesla is expanding its German factory to capture rising European demand",
-        "The company secured up to $30 billion in credit to fund future projects"
-      ],
-      "topics": [
-        "tesla",
-        "ev sales",
-        "global markets",
-        "new projects",
-        "financing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 02 Oct 2026 13:39:23 +0000",
-      "processed_at": "2026-10-06T21:49:06.040947+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-federal-judge-calls-flock-indiscriminate-mass-surveillance",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "A federal judge in Tulsa ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights by searching the Flock Safety database for her license plate without a warrant, deeming the search unconstitutional and ordering that all evidence obtained thereafter be suppressed as the fruit of a poisonous tree. Judge Sara Hill criticized Flock as a tool for indiscriminate mass surveillance, noting that it passively catalogs every vehicle’s location and can be accessed by law enforcement at any time. The decision joins a growing chorus of critics, with states like Florida and Texas announcing they will stop using the technology and Senator Bernie Sanders introducing the Block Flock Act to bar federal agencies from using automated license plate readers. Flock’s CEO, Garrett Langley, has apologized to victims and the company has reportedly offered voluntary buyouts amid cancellations of its services.",
-      "key_points": [
-        "Judge Sara Hill ruled that a warrant was required before searching the Flock database, and that evidence obtained after the search must be suppressed as the fruit of a poisonous tree.",
-        "The ruling labeled Flock a form of indiscriminate mass surveillance, arguing that passive, continuous location tracking for law‑enforcement use is constitutionally problematic.",
-        "State governments such as Florida and Texas have announced they will discontinue use of Flock, and Senator Bernie Sanders has introduced the Block Flock Act to prohibit federal use of automated license‑plate readers.",
-        "Flock CEO Garrett Langley apologized to victims and the company has offered voluntary employee buyouts as it faces growing cancellations."
-      ],
-      "topics": [
-        "law",
-        "privacy",
-        "law enforcement",
-        "technology",
-        "federal court"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 19:33:15 +0000",
-      "processed_at": "2026-10-06T17:04:43.549629+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-spotify-billionaires-body-scan-startup-has-come-to-america",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-      "title": "Spotify billionaire’s body scan startup has come to America | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Neko Health, a body‑scan startup co‑founded by Spotify CEO Daniel Ek and Hjalmar Nilsonne, has just opened its first U.S. location in New York after raising nearly $1 billion and building a waitlist of over 300,000 people. The company offers a one‑hour, $500 scan that uses AI‑powered computer vision to measure 55 biomarkers in blood, skin and metabolism, positioning itself as a low‑cost, accessible preventative‑care solution. Investors like Farooq Abbasi see the technology as a way to address the U.S. healthcare system’s high costs and low preventive‑care uptake, while the firm plans rapid expansion across the country. Neko still faces significant scaling and regulatory challenges, but its founders remain optimistic about attracting further venture capital and transforming preventive medicine.",
-      "key_points": [
-        "Neko Health, co‑founded by Spotify CEO Daniel Ek, offers a $500 AI‑driven body scan measuring 55 biomarkers",
-        "The startup has raised nearly $1 billion, has a waitlist of 300,000+ and just opened a New York clinic",
-        "It aims to make preventative care affordable and accessible in the U.S., targeting rapid expansion",
-        "Scaling and regulatory approval remain major hurdles for the company"
-      ],
-      "topics": [
-        "healthtech",
-        "preventative medicine",
-        "ai",
-        "spotify",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-06T17:05:02.825751+00:00"
     }
   ]
 }
