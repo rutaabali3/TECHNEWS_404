@@ -1,7 +1,155 @@
 {
-  "updated_at": "2026-10-14T11:32:39.098806+00:00",
+  "updated_at": "2026-10-14T16:50:21.543888+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-11-techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/aurora-truck-and-beacons.jpg?resize=1200,673",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "The Federal Motor Carrier Safety Administration has granted Aurora Innovation and other self‑driving truck developers a five‑year exemption that allows them to replace roadside warning triangles with cab‑mounted warning beacons, removing a major regulatory hurdle that had stalled commercial deployment. The exemption, approved after Aurora sued over the requirement to deploy human‑controlled warning devices, is expected to accelerate the rollout of autonomous freight and improve roadside safety. Industry leaders say the decision signals government recognition of the economic and community benefits of autonomous trucking and could set a new standard for safety equipment across the sector.",
+      "key_points": [
+        "FMCSA granted a five‑year exemption to Aurora and other self‑driving truck firms to use cab‑mounted warning beacons instead of roadside triangles",
+        "The exemption removes a regulatory barrier that had delayed commercial deployment of autonomous trucks",
+        "Industry leaders say the decision will accelerate freight safety and efficiency",
+        "The ruling could establish cab‑mounted beacons as standard safety equipment for all trucks"
+      ],
+      "topics": [
+        "autonomous trucking",
+        "regulation",
+        "safety",
+        "federal",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 11 Oct 2026 16:02:00 +0000",
+      "processed_at": "2026-10-14T16:50:21.418220+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-11-efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ambulances-2191226563.jpg?resize=1200,900",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Efferon, a TechCrunch Disrupt 2026 Startup Battlefield 200 entrant, has created a pediatric blood‑purification device called Efferon NEO that simultaneously removes cytokines and endotoxins, aiming to cut organ failure and speed recovery in children with sepsis. The device received a CE mark in April, making it the first multimodal blood‑purification system specifically engineered for pediatric sepsis, and it is already deployed in intensive care units across 30 countries. Efferon plans to file for FDA approval and expects to reach $2 million in annualized revenue by the end of 2026, while its technology was originally developed by Moscow State University scientists and commercialized by CEO Dima Romashin. The startup’s mission is to reduce the roughly 3 million annual deaths of children under five from sepsis worldwide.\n",
+      "key_points": [
+        "Efferon NEO is the first multimodal blood‑purification device specifically designed for pediatric sepsis and has received a CE mark.",
+        "The device removes both cytokines and endotoxins, reducing organ failure rates and accelerating recovery in children.",
+        "It is already used in ICUs in 30 countries and the company is preparing FDA approval, targeting $2 million in revenue by 2026.",
+        "The technology originated from Moscow State University researchers and was commercialized by CEO Dima Romashin.\n"
+      ],
+      "topics": [
+        "pediatric sepsis",
+        "medical device",
+        "blood purification",
+        "ce mark",
+        "fda approval"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 11 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-14T16:49:47.746246+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-10-10-apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Apple disclosed in a regulatory filing that it has agreed to hire certain employees from the personalized audio startup Huxe and to obtain a non‑exclusive license to Huxe’s intellectual property. The deal, a reverse acqui‑hire, was filed with the European Commission on June 9, shortly after Huxe announced it would shut down and remove its app from app stores. Apple’s move comes amid growing interest in AI‑generated podcast content, following Spotify’s recent launch of similar features. The filing does not reveal which Huxe staff will join Apple or how the company plans to use the licensed technology.",
+      "key_points": [
+        "Apple is hiring key Huxe employees and licensing its IP through a reverse acqui‑hire announced to the European Commission.",
+        "Huxe shut down in May, removing its app and deleting user data, making the acquisition of its talent and tech timely for Apple.",
+        "The deal aligns with Apple’s interest in AI‑powered personalized audio, a trend accelerated by competitors like Spotify."
+      ],
+      "topics": [
+        "apple",
+        "reverse acqui-hire",
+        "huxe",
+        "ai",
+        "podcast"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "processed_at": "2026-10-14T16:49:47.872541+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-10-petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Petra Power, a 2017‑founded startup, is developing solid oxide fuel cells that convert natural gas directly into electricity with higher efficiency and lower emissions than traditional combustion generators. The company is targeting data centers and defense vehicles, with first deployments slated for 2028 and full production by 2029, while it remains in the testing phase for military applications. Petra has a 15‑person team and has already secured nearly $9 million in Defense Department contracts, positioning it as a promising player in the emerging clean‑energy market for high‑power consumers.",
+      "key_points": [
+        "Petra Power’s solid oxide fuel cells convert natural gas to electricity with higher efficiency and lower emissions than combustion generators.",
+        "The company is targeting data centers and defense vehicles, aiming for first deployments by 2028 and full production by 2029.",
+        "Petra has a 15‑person team and has secured nearly $9 million in Defense Department contracts.",
+        "The technology offers significant fuel cost savings and a smaller physical footprint compared to traditional power sources."
+      ],
+      "topics": [
+        "energy",
+        "fuel cells",
+        "data centers",
+        "defense",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-14T16:50:03.359316+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-10-3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
+      "title": "3 days to Disrupt 2026: Meet the startups before they hit mainstream | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will open on Oct. 13 in San Francisco’s Moscone West, with a three‑day countdown and up to $100 in pass savings. Attendees can buy a ticket and bring a second at 50% off, or register four or more for additional discounts, including a $75 Expo+ pass for those affected by layoffs. The event will feature over 300 early‑stage startups, 200+ sessions led by 250+ tech leaders, and the Startup Battlefield 200 competition offering a $100,000 prize and the Disrupt Cup. Participants will have the chance to discover breakout companies, network with investors, and hear industry announcements before they hit mainstream.",
+      "key_points": [
+        "Disrupt 2026 opens Oct. 13 at Moscone West with up to $100 off passes and 50% off a second ticket",
+        "Over 300 startups and 200+ sessions led by 250+ tech leaders showcase innovations across AI, product, GTM, fundraising, finance, infrastructure, and scaling",
+        "Startup Battlefield 200 offers a $100,000 prize and the Disrupt Cup to 20 finalists",
+        "Expo+ pass available for $75 for those impacted by layoffs"
+      ],
+      "topics": [
+        "tech events",
+        "startup discovery",
+        "discounts",
+        "investor networking",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-14T16:49:48.211494+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Elon Musk has intensified criticism of Mukesh Ambani over the delay of Starlink’s launch in India, calling Ambani the country’s \"prime minister\" and accusing him of blocking competition. Musk’s tweets highlight the broader regulatory battle, with India’s Ministry of Communications insisting the spectrum allocation process is fair and non‑discriminatory. Starlink, which has secured key regulatory clearances but not commercial approval, had previously struck distribution deals with Reliance Jio and Airtel, yet remains stalled amid concerns over monopolistic influence. The dispute underscores the challenges SpaceX faces in entering India’s massive internet market and the broader tension between foreign tech firms and powerful domestic conglomerates.",
+      "key_points": [
+        "Musk accuses Mukesh Ambani of blocking Starlink’s launch, labeling him the \"prime minister\" of India.",
+        "India’s Ministry of Communications says the spectrum allocation process is fair and that Starlink is not singled out.",
+        "Starlink has regulatory clearances but no commercial approval, and its launch is stalled amid concerns over monopolistic influence."
+      ],
+      "topics": [
+        "elon musk",
+        "starlink",
+        "india",
+        "ambani",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 03:10:06 +0000",
+      "processed_at": "2026-10-14T16:49:48.017245+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-10-microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
       "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
@@ -2334,156 +2482,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 06 Oct 2026 14:41:52 +0000",
       "processed_at": "2026-10-08T20:34:28.239840+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-flais-ai-dealership-software-is-booking-50000-appointments-per-month",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/flai-cofounders.jpg?resize=1200,874",
-      "title": "Exclusive: Flai's AI dealership software is booking 50,000 appointments per month | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Flai’s AI‑powered dealership software is now booking 50,000 appointments per month across sales and service, driving a reported 20‑fold increase in revenue for its clients. The company, which has expanded to work with more than ten of the top 50 dealer groups in the U.S., just closed a $27 million Series A led by Base10 Partners and backed by Toyota’s venture arm, Y Combinator and First Round Capital. Flai’s rapid deployment—going live in a dealership 10 days after signing—and a 20‑minute response policy have spurred strong word‑of‑mouth referrals, helping the startup grow to about 40 employees. The firm’s deep integration and multilingual flexibility set it apart from other AI solutions targeting automotive customer engagement.",
-      "key_points": [
-        "Flai’s AI handles 50,000 appointments per month, boosting dealer revenue 20‑fold",
-        "$27 million Series A led by Base10 Partners with Toyota venture, Y Combinator, and First Round Capital",
-        "Rapid 10‑day deployment and 20‑minute response policy drive strong referrals",
-        "Integration with top dealer groups and multilingual support differentiate Flai from competitors"
-      ],
-      "topics": [
-        "ai",
-        "automotive",
-        "startup",
-        "funding",
-        "customer-relationship-management"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-08T20:34:04.292132+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-libreoffice-says-no-ai-is-now-a-software-feature",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-      "title": "LibreOffice says 'no AI' is now a software feature | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "LibreOffice has announced that its default installation will not include any artificial‑intelligence features for the foreseeable future, a decision that follows the release of its latest version in late August. The nonprofit stresses that the software is designed to keep all documents on the user’s machine, avoiding any server‑side processing and ensuring data stays local. Users who still want AI capabilities can install extensions that connect LibreOffice to local AI models, but the core product will remain AI‑free. This move positions LibreOffice as a privacy‑focused alternative amid a trend of software vendors embedding AI features that often require cloud‑based data handling.",
-      "key_points": [
-        "LibreOffice will not add AI to its default installation for the foreseeable future.",
-        "The software is deliberately designed to keep all documents on the user’s machine, avoiding server‑side processing.",
-        "Users can still add AI via extensions that run locally, but the core product remains AI‑free.",
-        "The decision contrasts with many vendors that are aggressively integrating AI features into their products."
-      ],
-      "topics": [
-        "open source",
-        "privacy",
-        "ai",
-        "software",
-        "document editor"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 15:25:00 +0000",
-      "processed_at": "2026-10-08T14:48:05.212350+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-pinterests-ai-now-turns-beauty-pins-into-action-plans",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-      "title": "Pinterest's AI now turns beauty Pins into action plans | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Pinterest has unveiled a new AI-powered feature called \"Beauty Guides\" that turns beauty-related Pins into actionable salon plans. The guides translate inspiration into salon terminology such as \"balayage\" or \"almond nails\" and provide details on time, cost, and maintenance. Powered by Pinterest Intelligence’s visual and generative AI, the feature helps users communicate their desired look more effectively. It will launch across hairstyle, color, nail shape, and finish Pins, offering a practical way to integrate AI into everyday beauty routines.",
-      "key_points": [
-        "Pinterest introduces \"Beauty Guides\", an AI feature that translates beauty Pins into salon-friendly terminology",
-        "The guides provide estimated time, cost, and maintenance requirements for each look",
-        "The feature is powered by Pinterest Intelligence’s visual and generative AI technology",
-        "It will be available for hairstyle, color, nail shape, and finish Pins at launch"
-      ],
-      "topics": [
-        "pinterest",
-        "ai",
-        "beauty",
-        "salon",
-        "visual intelligence"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 14:00:49 +0000",
-      "processed_at": "2026-10-08T14:48:21.307394+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-uber-is-spending-2-3b-to-get-into-catering",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
-      "title": "Uber is spending $2.3B to get into catering | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Uber has announced an all‑cash acquisition of catering platform ezCater for $2.3 billion, expanding the Uber Eats ecosystem into large‑scale business meals. ezCater, founded in 2007, has grown to generate over $2.5 billion in gross bookings in the past year after bootstrapping for seven years and raising a first $4 million round in 2014. Uber CEO Dara Khosrowshahi said the deal will give restaurants access to new, larger customers and help Uber reach millions more users. The purchase is part of Uber’s broader strategy to diversify its food‑delivery portfolio, which also includes a $15 billion bid for Delivery Hero and investments in drone‑delivery partners.",
-      "key_points": [
-        "Uber acquires ezCater for $2.3 billion in an all‑cash deal",
-        "ezCater has generated $2.5 billion in gross bookings last year",
-        "The move expands Uber Eats’ service offerings and opens new revenue streams for restaurants",
-        "Uber is also pursuing other food‑delivery expansions, including a $15 billion purchase of Delivery Hero and drone‑delivery partnerships"
-      ],
-      "topics": [
-        "uber",
-        "ezcater",
-        "acquisition",
-        "food delivery",
-        "catering"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 14:00:25 +0000",
-      "processed_at": "2026-10-08T14:48:05.609096+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800",
-      "title": "Emmys will move from broadcast TV to Prime Video in 2027 | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Amazon’s Prime Video will become the first dedicated home for the Emmy Awards, beginning in 2027, after the ceremony has rotated among ABC, CBS, Fox, and NBC for seven decades. The six‑year deal will stream the awards live in more than 240 countries for free, and non‑Prime subscribers will also be able to watch on the platform. The move comes amid a 10% drop in 78th‑year ratings, with 6.87 million viewers still above the all‑time low of 4.3 million, and reflects a broader shift of major awards shows to streaming services.",
-      "key_points": [
-        "Emmys will stream on Prime Video worldwide for free starting in 2027",
-        "The six‑year deal marks the first dedicated home after decades of rotating broadcasters",
-        "Non‑Prime subscribers can also watch the ceremony on Prime Video",
-        "Ratings for the 78th Emmy Awards were 6.87 million, up from the all‑time low but down 10% from the previous year"
-      ],
-      "topics": [
-        "emmys",
-        "primevideo",
-        "streaming",
-        "broadcast",
-        "awards"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 14:37:31 +0000",
-      "processed_at": "2026-10-08T07:08:05.299252+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "Mistral AI has unveiled its new multimodal model, Mistral Large 4 (ML4), nicknamed \"Le Chonk,\" which boasts 1 trillion parameters and is positioned to outpace both American and Chinese rivals. The model is currently only accessible through a guarded public endpoint, but the company plans to release its weights in three weeks after safety testing, aiming to provide an open‑source alternative that can be audited and used responsibly. Mistral trained ML4 on just 4,000 Nvidia GPUs—two to three times fewer than Chinese competitors and significantly less than closed‑source rivals—highlighting its efficient use of compute. The company targets high‑value use cases such as cybersecurity, finance, and chip design, with backing from ASML and Samsung, and frames the release as part of Europe’s “third way” in AI.",
-      "key_points": [
-        "ML4 is a 1 trillion‑parameter multimodal model that will become open‑source in three weeks after safety testing",
-        "Mistral trained the model on only 4,000 Nvidia GPUs, fewer than both Chinese and closed‑source competitors",
-        "The model targets cybersecurity, finance, and chip design, with support from ASML and Samsung",
-        "Mistral plans to provide open weights with guardrails to prevent malicious use"
-      ],
-      "topics": [
-        "ai",
-        "open-source",
-        "multimodal",
-        "europe",
-        "chipdesign"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
-      "processed_at": "2026-10-08T07:07:54.400800+00:00"
     }
   ]
 }
