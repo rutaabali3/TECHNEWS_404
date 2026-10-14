@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T21:26:19.588448+00:00",
+  "updated_at": "2026-10-14T00:31:27.052602+00:00",
   "items": [
     {
       "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
@@ -8,28 +8,10 @@
       "published": "Thu, 08 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-      "url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "feed_excerpt": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
-      "published": "Thu, 08 Oct 2026 15:12:59 +0000"
-    },
-    {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
       "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
       "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
-    {
-      "title": "LumenUs helps automate tedious paperwork in times of grief",
-      "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-      "feed_excerpt": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-      "published": "Fri, 09 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-      "feed_excerpt": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-      "published": "Fri, 09 Oct 2026 16:07:26 +0000"
     },
     {
       "title": "a16z’s Olivia Moore on the state of consumer AI",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
       "feed_excerpt": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
       "published": "Sat, 10 Oct 2026 03:10:06 +0000"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "feed_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "published": "Sat, 10 Oct 2026 00:18:32 +0000"
     },
     {
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -390,7 +366,31 @@
       "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "published": "Tue, 13 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "feed_excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "feed_excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "published": "Tue, 13 Oct 2026 23:05:34 +0000"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "feed_excerpt": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "published": "Tue, 13 Oct 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "feed_excerpt": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "published": "Tue, 13 Oct 2026 22:36:59 +0000"
     }
   ],
-  "last_processed_at": "2026-10-13T21:26:21.248973+00:00"
+  "last_processed_at": "2026-10-14T00:31:54.213107+00:00"
 }
