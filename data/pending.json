@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-14T05:55:44.368584+00:00",
+  "updated_at": "2026-10-14T11:32:11.988542+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
       "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
       "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "feed_excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "published": "Fri, 09 Oct 2026 21:41:29 +0000"
     },
     {
       "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
@@ -26,34 +20,16 @@
       "published": "Sat, 10 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "feed_excerpt": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "published": "Sat, 10 Oct 2026 16:25:42 +0000"
-    },
-    {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "feed_excerpt": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
       "published": "Sat, 10 Oct 2026 15:00:00 +0000"
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "published": "Sat, 10 Oct 2026 14:00:00 +0000"
-    },
-    {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "feed_excerpt": "Is Apple hoping to get into the AI-generated podcast business?",
       "published": "Sat, 10 Oct 2026 19:50:00 +0000"
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "feed_excerpt": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "published": "Sat, 10 Oct 2026 21:47:51 +0000"
     },
     {
       "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -378,7 +354,13 @@
       "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
       "feed_excerpt": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
       "published": "Wed, 14 Oct 2026 01:30:42 +0000"
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "feed_excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "published": "Wed, 14 Oct 2026 11:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-14T05:55:46.282654+00:00"
+  "last_processed_at": "2026-10-14T11:32:31.760725+00:00"
 }

@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-14T05:56:15.464345+00:00",
+  "updated_at": "2026-10-14T11:32:39.098806+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-10-microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Microsoft CEO Satya Nadella has urged that AI models require an “emergency brake” to improve safety. He argues that the model should be separated from the harness that orchestrates its work, with external controls and safeguards that can be paused or shut down at any time. Nadella also insists that every meaningful model action be documented with tamper‑proof, human‑readable evidence so that an authorized person can intervene if the model is compromised. His remarks come amid growing concerns over AI incidents and follow Anthropic’s call for more cautious development.",
+      "key_points": [
+        "Nadella calls for separating AI models from their orchestration harness and adding external controls that can be paused or shut down.",
+        "He demands tamper‑proof, human‑readable documentation for every meaningful model action.",
+        "The push for an emergency brake follows rising incidents of AI loss of control and Anthropic’s cautious development plan."
+      ],
+      "topics": [
+        "ai safety",
+        "ai regulation",
+        "trust architecture",
+        "emergency brake",
+        "technology leadership"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "processed_at": "2026-10-14T11:32:13.570687+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-10-cloudflare-acquires-deno-to-improve-its-workers-programming-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Cloudflare announced it had acquired Deno, the startup that built the Deno runtime, to strengthen its Workers serverless platform. The deal follows Deno’s recent release of celld, an open‑source implementation of Workers that impressed Cloudflare’s principal engineer for Workers, Kenton Varda. Deno co‑founders Bert Belder and Ryan Dahl said the partnership will help make the Workers programming model a mainstream way to build servers, while Varda emphasized that keeping Workers open source is good business. The financial terms were not disclosed, but Deno has raised $26 million to date, including a Series A led by Sequoia.",
+      "key_points": [
+        "Cloudflare is acquiring Deno to enhance its Workers serverless platform",
+        "Deno’s open‑source celld implementation impressed Cloudflare’s engineering team",
+        "The partnership aims to make Workers a mainstream server‑building model",
+        "Deno has raised $26 million, but acquisition terms remain undisclosed"
+      ],
+      "topics": [
+        "cloudflare",
+        "deno",
+        "workers",
+        "acquisition",
+        "serverless"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
+      "processed_at": "2026-10-14T11:32:22.386854+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-10-all-the-ai-agents-that-can-live-in-your-text-messages",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "title": "Here are the top AI agents that can live in your text messages | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "TechCrunch highlights the growing trend of AI agents that operate directly through text messaging, eliminating the need for separate apps. The article profiles a range of agents—from Instinct, which boasts a $10 billion valuation and can act on users’ behalf via dedicated email addresses, to Caddy and Comma that manage tasks and calendars within iMessage and RCS. Family‑centric assistants such as Fambot and Ohai organize household schedules and communications, while Miso offers AI‑powered travel planning with human support. Together, these tools illustrate a shift toward seamless, context‑aware productivity integrated into everyday messaging platforms.",
+      "key_points": [
+        "Instinct leads the market with a $10 billion valuation and autonomous email‑based task execution",
+        "Caddy and Comma provide cross‑device task management and proactive reminders via iMessage and RCS",
+        "Family‑focused agents like Fambot and Ohai streamline household coordination and communication",
+        "Miso combines AI trip planning with a dedicated travel team for personalized itineraries"
+      ],
+      "topics": [
+        "ai agents",
+        "messaging",
+        "productivity",
+        "family tech",
+        "travel tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-14T11:32:13.548901+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "TypeSafe AI, the maker of the Jev AI model, closed a $870 million round that values the company at $7.5 billion. Jev, launched on September 15, quickly went viral and is already being used by roughly one‑third of Fortune 500 firms, according to the startup. Unlike large language models, Jev produces calibrated probability decisions rather than text, and claims to run faster and use far fewer tokens, making it attractive for automation tasks. The funding, led by Andreessen Horowitz with Sequoia and DCVC, underscores the market’s appetite for new AI modalities that can replace text‑centric approaches in enterprise workflows.",
+      "key_points": [
+        "TypeSafe AI raised $870 million, valuing the company at $7.5 billion",
+        "Jev was launched on September 15 and is already used by about one‑third of Fortune 500 companies",
+        "Jev outputs calibrated decisions instead of text, offering faster, token‑efficient automation",
+        "Funding was led by Andreessen Horowitz with participation from Sequoia and DCVC"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "technology",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "processed_at": "2026-10-14T11:32:31.760607+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tablets_Hero_1920x1080.png?resize=1200,675",
@@ -2385,105 +2484,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 06 Oct 2026 14:33:16 +0000",
       "processed_at": "2026-10-08T07:07:54.400800+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803",
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Zain Javaid, 19, has founded Ghost and secured an $11 million seed round led by Andreessen Horowitz, bringing a new personal‑AI computer to market. The company’s flagship product, Core, costs $3,499 and ships with an Nvidia RTX Pro 4000 GPU, preinstalled AI models, and a privacy‑first design that keeps data and model weights on the device. Core can run AI agents autonomously, receive over‑the‑air updates, and includes a firewall to limit credential use, all without relying on external cloud services. Preorders opened on October 2 with shipping slated for the last week of October, positioning Ghost as a turnkey alternative to general‑purpose PCs for personal AI assistants.",
-      "key_points": [
-        "19‑year‑old Zain Javaid founded Ghost and raised $11 million in a seed round led by Andreessen Horowitz",
-        "Ghost’s Core is a $3,499 AI‑centric PC with a built‑in RTX Pro GPU, local data processing, and privacy‑first architecture",
-        "Core offers over‑the‑air updates, a firewall to control agent actions, and runs AI agents without cloud dependency",
-        "Preorders opened Oct 2 with shipping scheduled for the last week of October, targeting users seeking a turnkey personal AI assistant"
-      ],
-      "topics": [
-        "startup",
-        "ai",
-        "hardware",
-        "funding",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 18:07:07 +0000",
-      "processed_at": "2026-10-08T07:07:53.969057+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Anthropic has expanded its Claude for Startups program, giving qualifying early‑stage companies a free year of its Claude Team plan and $1,000 in API credits. The offer also includes access to the Claude Marketplace for building plug‑ins and virtual office hours with Anthropic’s Applied AI team. Startups founded in the last five years or that have raised funding in the last two years are eligible, and applications can be submitted through the program’s website. The initiative, unveiled during Anthropic’s SF Tech Week event, aims to empower founders to build on top of AI models rather than rely on the models alone.",
-      "key_points": [
-        "Free year of Claude Team plan and $1,000 API credits for qualifying startups",
-        "Access to Claude Marketplace and virtual office hours with Applied AI team",
-        "Eligibility: founded in last 5 years or funded in last 2 years",
-        "Program launched at Anthropic’s SF Tech Week event"
-      ],
-      "topics": [
-        "ai",
-        "startups",
-        "anthropic",
-        "claude",
-        "api"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-08T00:49:49.697408+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Instinct, the $10 billion AI agent startup, has launched group‑chat support that lets users add the bot to conversations with friends even if those friends aren’t Instinct members. The feature, available to early‑access users today, lets the group’s Instinct handle scheduling, ticket booking, fantasy leagues and more while keeping each user’s personal agent siloed and requiring permission before sharing data. Instinct’s move strengthens its rivalry with Meta’s Muse, which still lacks native group‑chat functionality, and follows recent additions like phone‑call capability and OpenAI’s ChatGPT Dots. The company says users can trust or revoke group access at any time, ensuring privacy and control over shared information.",
-      "key_points": [
-        "Instinct now supports adding its AI agent to group chats, even for friends without an Instinct account.",
-        "The group’s Instinct operates separately from personal agents and requires permission before sharing data, preserving privacy.",
-        "Early‑access users can try the feature today, with a rollout planned for all users soon.",
-        "The update positions Instinct against competitors like Meta’s Muse, which lacks group‑chat support."
-      ],
-      "topics": [
-        "ai",
-        "group chat",
-        "instinct",
-        "privacy",
-        "competition"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 18:54:30 +0000",
-      "processed_at": "2026-10-08T00:50:03.933992+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-      "title": "Open or closed AI? Learn what to build on at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026, slated for Oct. 13-15 at Moscone West in San Francisco, will host over 200 sessions focused on AI model strategy, including multi-model use, customization, ownership, and hardware design. Key talks feature industry leaders such as Mo Jomaa, Vipul Ved Prakash, Zuzanna Stamirowska, Manos Koukoumidis, Nader Khalil, Sydney Sykes, Anna Goldie, and Azalia Mirhoseini, who will explore how startups can balance cost, performance, and flexibility across open and proprietary models. The conference aims to help founders decide whether to rent, customize, or build AI, and how emerging AI-driven chip design could accelerate product development. With more than 10,000 attendees, 250+ speakers, and 300+ startups, Disrupt 2026 offers networking, dealmaking, and matchmaking opportunities for builders and investors navigating the evolving AI landscape.",
-      "key_points": [
-        "Disrupt 2026 will feature sessions on multi-model AI strategies and the trade-offs between open and proprietary models.",
-        "Founders will learn frameworks for deciding whether to rent, customize, or build AI to balance control, cost, and differentiation.",
-        "The event will also cover how AI is influencing hardware design, potentially speeding up new capability deployment."
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "techconference",
-        "disrupt",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-08T00:49:39.716211+00:00"
     }
   ]
 }
