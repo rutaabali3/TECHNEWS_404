@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-14T20:31:11.411082+00:00",
+  "updated_at": "2026-10-14T23:47:11.455151+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-12-meta-releases-its-first-frontier-model-muse-wonder",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+      "title": "Meta releases its first frontier model, Muse Wonder | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Meta’s Superintelligence Lab unveiled its first frontier models, Muse Wonder and Muse Wonder Full, at the Disrupt conference, marking a significant step beyond the lightweight Muse Spark. The larger models achieve benchmark scores comparable to GPT‑6 Astra and outperform rivals on the MemoryBench test, underscoring Meta’s focus on active memory for long‑term personal assistants. Pricing through the Meta Model API is $4 per million input tokens and $20 per million output tokens, roughly matching GPT‑6 Sol or Opus 5.5, while Wonder Full is restricted to Muse Code subscribers and not available via the API. This release follows Meta’s 2023 restructuring and signals the company’s renewed commitment to building personal superintelligence.",
+      "key_points": [
+        "Meta introduces Muse Wonder and Muse Wonder Full, its first frontier models, surpassing the lightweight Muse Spark",
+        "The models match GPT‑6 Astra benchmark scores and excel on MemoryBench, demonstrating strong active memory",
+        "Pricing aligns with GPT‑6 Sol/Opus 5.5, with Wonder Full limited to Muse Code subscribers",
+        "The release marks Meta’s shift toward personal superintelligence after a 2023 restructure"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "frontier model",
+        "muse wonder",
+        "superintelligence"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 17:56:56 +0000",
+      "processed_at": "2026-10-14T23:47:07.109432+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-12-honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Honeyjar, founded by veteran PR professionals Michelle Masek and Nadia Jamshidi, is launching AI tools that automate key communications tasks such as drafting announcements, building media lists, and spotting speaking opportunities while embedding human judgment from seasoned PR experts. The startup debuted at TechCrunch Disrupt’s Startup Battlefield 200, where it drew 10,000 waitlist signups in 24 hours and secured beta partners including Nextdoor and Bloomberg Beta. Honeyjar targets founders and a broad spectrum of communicators, not just PR firms, and emphasizes that its platform augments rather than replaces human involvement, aiming to improve pitch quality and reduce the overload of AI‑generated pitches for journalists.",
+      "key_points": [
+        "Honeyjar uses AI to automate PR tasks while preserving human judgment",
+        "The startup attracted 10,000 waitlist signups in 24 hours and has beta partners like Nextdoor and Bloomberg Beta",
+        "It targets founders and a wide range of communicators, not just PR firms",
+        "The founders stress that the tool does not remove humans from the loop and aims to improve pitch quality for journalists"
+      ],
+      "topics": [
+        "ai",
+        "public relations",
+        "startup",
+        "techcrunch",
+        "communications"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 15:45:00 +0000",
+      "processed_at": "2026-10-14T23:46:42.088977+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+      "title": "Microsoft president says UK is best placed to drive AI regulation | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Microsoft president Brad Smith has called for urgent global regulation of artificial intelligence, arguing that consumer products such as milk and washing machines already have more oversight than AI companies. Smith highlighted the UK’s AI Security Institute (AISI) as a leading example, noting that it receives early access to U.S. frontier models and conducts safety testing before deployment. He criticized voluntary self‑regulation, insisting that only “good companies” will comply and that legal obligations, kill switches, and external approvals are needed to protect against rogue AI. The call comes amid U.S. President Donald Trump’s recent threats to restrict British access to new models, a move AISI has resisted and continues to test the latest releases.",
+      "key_points": [
+        "Microsoft president Brad Smith urges global AI regulation, citing the UK’s AI Security Institute as a model for safety testing.",
+        "Smith criticizes voluntary self‑regulation and calls for legal obligations, kill switches, and external approvals to ensure AI safety.",
+        "U.S. President Donald Trump has threatened to limit UK access to new AI models, but AISI remains operational and continues testing."
+      ],
+      "topics": [
+        "ai regulation",
+        "uk",
+        "microsoft",
+        "trump",
+        "ai safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 15:31:19 +0000",
+      "processed_at": "2026-10-14T23:46:42.038372+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-11-will-the-homeview-be-apples-first-smart-home-success",
       "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
@@ -2409,80 +2483,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 06 Oct 2026 20:00:30 +0000",
       "processed_at": "2026-10-09T15:05:50.214008+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-paramount-closes-historic-warner-bros-merger-to-form-skydance",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?resize=1200,800",
-      "title": "Paramount closes historic Warner Bros. merger to form Skydance | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Paramount has finalized its $110 billion acquisition of Warner Bros. Discovery, creating a new company called Skydance that will combine Paramount+ and HBO Max with networks such as CBS, CNN, MTV, TBS, Comedy Central and Food Network. The merger brings major franchises—including The Lord of the Rings, Game of Thrones, the DC Universe and Yellowstone—under Skydance’s control and will generate annual revenue of nearly $70 billion. David Ellison, who recently merged Skydance Media with Paramount, will lead the new entity, which will trade on the NYSE under the ticker SKYD. The deal was cleared after settlements with U.S. states and the Writers Guild, marking one of the largest entertainment mergers ever.",
-      "key_points": [
-        "Paramount’s $110 billion purchase of Warner Bros. Discovery creates Skydance, merging Paramount+ and HBO Max with major cable networks and franchises",
-        "The new company will generate about $70 billion in annual revenue and trade on the NYSE as SKYD",
-        "David Ellison, backed by the Ellison family’s Oracle wealth, will head Skydance after previously merging Skydance Media with Paramount"
-      ],
-      "topics": [
-        "merger",
-        "skydance",
-        "paramount",
-        "warnerbros",
-        "entertainment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 13:57:32 +0000",
-      "processed_at": "2026-10-09T15:06:03.154140+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-hot-girl-hotline-is-like-dear-abby-for-the-ai-era",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920",
-      "title": "Hot Girl Hotline is like 'Dear Abby' for the AI era | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Hot Girl Hotline, founded by sisters Baila Mudgil and Sumrin, offers a privacy‑focused AI chat that gives young women behavioral‑science‑based dating and relationship advice. The service prioritizes safety by flagging harmful conversations, providing crisis‑hotline referrals, and using zero‑data‑retention policies. It charges $9.99 a month and plans to expand beyond relationship advice into beauty and lifestyle. The startup will showcase its product at TechCrunch Disrupt 2026 and is already bootstrapped with paying users.",
-      "key_points": [
-        "Hot Girl Hotline delivers AI‑powered dating advice grounded in behavioral science while emphasizing user safety and privacy",
-        "The founders, sisters Baila Mudgil and Sumrin, use zero‑data‑retention and crisis‑hotline referrals to mitigate mental‑health risks",
-        "The service monetizes with a $9.99/month subscription and aims to broaden into beauty and lifestyle categories",
-        "It will debut at TechCrunch Disrupt 2026 and already has a paying user base"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "women",
-        "relationship advice",
-        "safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
-      "processed_at": "2026-10-09T15:05:36.366075+00:00"
-    },
-    {
-      "id": "-techcrunch-com-2026-10-06-silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
-      "title": "Silicon Valley's AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Sigil Wen, a self‑taught coder who grew up hacking alongside future AI leaders, has launched Underdog, an invite‑only beta of a private on‑device AI assistant that keeps all user data on Macs, Windows PCs, and soon Linux, iPhone, and Android. Powered by Wen’s Husky inference engine and a 27‑billion‑parameter model fine‑tuned from Qwen3.8‑27B, Underdog offers privacy‑centric features such as encrypted account keys while matching the performance of larger cloud‑hosted models like Claude Opus 4.6. The startup plans to remain free and ad‑free, instead taking a tiny fee on Stripe‑powered payment transactions, a model that aligns the AI’s revenue with user spending rather than data collection. Backed by investors including Andreessen Horowitz, Khosla Ventures, and Stripe co‑founder Patrick Collison, Underdog aims to prove that privacy and capability can coexist in consumer AI.",
-      "key_points": [
-        "Underdog is a private on‑device AI assistant that runs a 27‑billion‑parameter model entirely on user hardware via the Husky engine.",
-        "It preserves privacy by keeping data on the device and encrypting account keys, while matching the performance of larger cloud models.",
-        "The business model is free and ad‑free, taking only a small fee on Stripe transactions instead of charging subscriptions or selling data.",
-        "The startup is backed by prominent investors such as Andreessen Horowitz, Khosla Ventures, and Stripe co‑founder Patrick Collison."
-      ],
-      "topics": [
-        "ai",
-        "privacy",
-        "startup",
-        "investment",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 20:47:01 +0000",
-      "processed_at": "2026-10-09T07:50:47.408205+00:00"
     }
   ]
 }

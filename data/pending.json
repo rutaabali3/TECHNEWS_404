@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T20:30:40.030292+00:00",
+  "updated_at": "2026-10-14T23:46:40.709482+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -26,28 +26,10 @@
       "published": "Sun, 11 Oct 2026 20:51:47 +0000"
     },
     {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "feed_excerpt": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "published": "Mon, 12 Oct 2026 17:56:56 +0000"
-    },
-    {
       "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
       "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
       "feed_excerpt": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
       "published": "Mon, 12 Oct 2026 17:19:14 +0000"
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "feed_excerpt": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "published": "Mon, 12 Oct 2026 15:45:00 +0000"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "feed_excerpt": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "published": "Mon, 12 Oct 2026 15:31:19 +0000"
     },
     {
       "title": "This AI startup says it can generate permit-ready blueprints in minutes",
@@ -384,7 +366,37 @@
       "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
       "feed_excerpt": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
       "published": "Wed, 14 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "feed_excerpt": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "published": "Wed, 14 Oct 2026 23:00:00 +0000"
+    },
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "feed_excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "published": "Wed, 14 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "feed_excerpt": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "published": "Wed, 14 Oct 2026 21:48:20 +0000"
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "feed_excerpt": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "published": "Wed, 14 Oct 2026 21:30:33 +0000"
+    },
+    {
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "feed_excerpt": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "published": "Wed, 14 Oct 2026 21:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-14T20:30:41.923898+00:00"
+  "last_processed_at": "2026-10-14T23:47:07.109515+00:00"
 }
