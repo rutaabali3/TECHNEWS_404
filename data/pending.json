@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-10-14T00:31:27.052602+00:00",
+  "updated_at": "2026-10-14T05:55:44.368584+00:00",
   "items": [
-    {
-      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
-      "url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
-      "feed_excerpt": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.",
-      "published": "Thu, 08 Oct 2026 13:00:00 +0000"
-    },
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
       "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
       "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "feed_excerpt": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "published": "Fri, 09 Oct 2026 15:43:33 +0000"
-    },
-    {
-      "title": "Long live the mechanical keyboard",
-      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "feed_excerpt": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-      "published": "Fri, 09 Oct 2026 22:08:24 +0000"
     },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -390,7 +372,13 @@
       "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
       "feed_excerpt": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
       "published": "Tue, 13 Oct 2026 22:36:59 +0000"
+    },
+    {
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "feed_excerpt": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "published": "Wed, 14 Oct 2026 01:30:42 +0000"
     }
   ],
-  "last_processed_at": "2026-10-14T00:31:54.213107+00:00"
+  "last_processed_at": "2026-10-14T05:55:46.282654+00:00"
 }

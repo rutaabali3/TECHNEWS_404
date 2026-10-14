@@ -1,7 +1,80 @@
 {
-  "updated_at": "2026-10-14T00:31:54.321236+00:00",
+  "updated_at": "2026-10-14T05:56:15.464345+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-08-amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tablets_Hero_1920x1080.png?resize=1200,675",
+      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Amazon announced a new line of Alexa tablets that run Android and include Alexa+ AI, with access to the Google Play Store at launch. The lineup features 12‑inch Pro, 11‑inch, and 8‑inch models, each with aluminum unibody designs, high‑resolution displays, and improved performance, with the 12‑inch Pro starting at $499.99. The devices also support Alexa’s On‑Screen Intelligence, Dolby Atmos speakers, Wi‑Fi 6E, and a new Kindle reading experience, positioning Amazon to compete with other Android tablets and expand its ecosystem. The tablets will go on sale on October 14, 2026, in North America and on October 19 in Europe, with Amazon Kids tablets launching simultaneously in Japan.",
+      "key_points": [
+        "Amazon launches Android‑based Alexa tablets with Google Play Store access and Alexa+ AI.",
+        "The 12‑inch Pro offers 3× processing and 9× graphics performance, starting at $499.99.",
+        "Devices include On‑Screen Intelligence, Dolby Atmos, Wi‑Fi 6E, and a new Kindle experience, expanding Amazon’s hardware ecosystem."
+      ],
+      "topics": [
+        "amazon",
+        "alexa",
+        "tablets",
+        "android",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 08 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-14T05:55:46.282577+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-long-live-the-mechanical-keyboard",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
+      "title": "Long live the mechanical keyboard | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "The article celebrates mechanical keyboards, focusing on Keychron's lineup and its appeal to writers and gamers. It highlights the K2 as a popular entry‑level model, the higher‑end K8 HE Wireless Magnetic Switch with an all‑wood body, and the C0 HE One‑Handed 8K keypad. The author praises the tactile feel, customizable keycaps, and nostalgic retro design that make mechanical keyboards a worthwhile home‑office upgrade. Keychron’s range spans $60 to $200, offering both wired and Bluetooth options for a clean workspace.",
+      "key_points": [
+        "Keychron’s K2 is a budget-friendly, versatile mechanical keyboard that supports wired and Bluetooth connections.",
+        "The company’s premium models, such as the K8 HE Wireless Magnetic Switch, feature unique wood bodies and LED backlighting at around $200.",
+        "Mechanical keyboards offer customizable keycaps, distinct typing sound, and a nostalgic aesthetic that appeals to both writers and gamers."
+      ],
+      "topics": [
+        "mechanical keyboard",
+        "keychron",
+        "tech accessories",
+        "home office",
+        "gaming peripherals"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 22:08:24 +0000",
+      "processed_at": "2026-10-14T05:55:46.016326+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-a16zs-olivia-moore-on-the-state-of-consumer-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896",
+      "title": "a16z’s Olivia Moore on the state of consumer AI | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Olivia Moore, a partner at Andreessen Horowitz, released a report on the top 100 consumer AI apps that shows ChatGPT still dominates while smaller players such as Suno and ElevenLabs are gaining traction. The report notes that only 2.2% of U.S. households currently pay for AI and identifies six consumer categories that remain untouched by AI, highlighting a significant market gap. Moore argues that the industry must diversify revenue beyond subscriptions and API usage, favoring ad‑supported or freemium models to reach broader audiences. She also observes a rapid shift from consumer‑first to enterprise‑focused products, with companies like Gamma, ElevenLabs, and Cursor moving to majority enterprise within 18 months, blurring the line between consumer and prosumer AI.",
+      "key_points": [
+        "ChatGPT remains the largest consumer AI app, but emerging players like Suno and ElevenLabs are gaining traction.",
+        "Only 2.2% of U.S. households currently pay for AI, and six key consumer categories lack AI entrants.",
+        "Revenue models need to move beyond subscriptions and API charges toward ad‑supported or freemium approaches.",
+        "Many consumer‑first AI companies are quickly pivoting to enterprise, blurring the consumer‑enterprise divide."
+      ],
+      "topics": [
+        "consumer ai",
+        "startup",
+        "revenue models",
+        "enterprise",
+        "ai economics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 15:43:33 +0000",
+      "processed_at": "2026-10-14T05:55:45.852800+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-08-india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
@@ -2411,80 +2484,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 05 Oct 2026 15:00:00 +0000",
       "processed_at": "2026-10-08T00:49:39.716211+00:00"
-    },
-    {
-      "id": "unch-com-2026-10-06-learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit on November 4 at Boston’s SoWa Power Station brings together investors, operators, and founders for a full day of sessions on capital, leadership, and product strategy, with a particular focus on AI and market fit. The agenda is structured into three tracks—fundraising, leadership evolution, and building for the future—each featuring talks from industry leaders such as Brian Halligan, Vineet Edupuganti, and Chase Garbarino, who share real‑world frameworks and lessons. Tickets are offered at their lowest price until October 16, with a 50% discount on a second ticket and bundle discounts for groups of four or more, making the event accessible to a wide range of founders. In addition to the talks, roundtable discussions and the Braindate networking app provide opportunities for deeper connections and potential investor outreach.\n",
-      "key_points": [
-        "The summit’s agenda is organized into three tracks—fundraising, leadership, and product strategy—with speakers like Brian Halligan, Vineet Edupuganti, and Chase Garbarino sharing actionable frameworks.",
-        "Tickets are discounted until October 16, with a 50% off second ticket and group bundle options to lower the cost for multiple attendees.",
-        "The event includes networking tools such as roundtables and the Braindate app to facilitate deeper connections between founders and investors.",
-        "The summit focuses heavily on AI integration, market fit validation, and the “King of the Hill” framework for category dominance.\n"
-      ],
-      "topics": [
-        "tech events",
-        "startup funding",
-        "founder summit",
-        "ai",
-        "leadership"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 16:18:45 +0000",
-      "processed_at": "2026-10-07T20:43:17.918043+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-05-lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/lucid-gravity-main.jpg?resize=1200,675",
-      "title": "Lucid Motors' EV output falls to lowest level in almost 2 years | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Lucid Motors produced 2,954 EVs in Q3, a 54% drop from a year earlier, marking the lowest quarterly output since Q1 2025. Deliveries were 3,806 units, roughly flat from Q2 and about 200 fewer than Q3 2025, underscoring the company’s difficulty in finding buyers for its luxury models. CEO Silvio Napoli has been trimming the workforce by 1,500 employees, eliminating a second shift, and delaying the Cosmos SUV to cut costs and avoid past mistakes. The slump comes as Rivian shipped nearly 20,000 vehicles in the same quarter, highlighting Lucid’s struggle to compete in the growing EV market.",
-      "key_points": [
-        "Lucid’s Q3 production fell 54% to 2,954 vehicles, the lowest since Q1 2025.",
-        "Deliveries stayed flat at 3,806 units, still below Q3 2025 levels.",
-        "CEO Silvio Napoli is cutting 1,500 staff, removing a second shift, and delaying the Cosmos SUV to achieve $1.4B in cost savings."
-      ],
-      "topics": [
-        "electric vehicles",
-        "luxury cars",
-        "production cuts",
-        "cost savings",
-        "rivalry"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 05 Oct 2026 21:54:01 +0000",
-      "processed_at": "2026-10-07T20:43:17.622603+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-03-vessev-built-an-electric-ferry-that-almost-flies",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
-      "title": "Vessev built an electric ferry that almost flies | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Vessev’s 30‑foot VS‑9 electric ferry demonstrated a near‑flying hydrofoil ride in New York’s East River, lifting the hull above the water to cut drag and boost efficiency. The startup builds its own electric motor in-house while sourcing commoditized batteries, and it recently closed a $19 million Series A to scale the technology for urban transit and hospitality markets. Hydrofoils perform best in calm waters—rougher than about 2.5 ft waves—making them ideal for rivers, lakes, and bays rather than the open ocean. Vessev plans to expand production and eventually offer hydrofoil kits so other boatbuilders can adopt the system.",
-      "key_points": [
-        "Vessev’s VS‑9 hydrofoil lifts a 30‑ft ferry above the water, reducing drag and improving electric‑boat efficiency",
-        "The company builds its own electric motor, raised $19 million Series A, and targets urban transit and hotel markets",
-        "Hydrofoils work best in calm waters (≤2.5 ft waves) and are unsuitable for rough open‑ocean conditions",
-        "Future plans include producing hydrofoil kits for other boatbuilders"
-      ],
-      "topics": [
-        "electric boats",
-        "hydrofoil",
-        "urban transit",
-        "startup funding",
-        "sustainable transportation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 03 Oct 2026 14:42:00 +0000",
-      "processed_at": "2026-10-07T15:19:18.954532+00:00"
     }
   ]
 }
