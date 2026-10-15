@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-15T09:00:36.204938+00:00",
+  "updated_at": "2026-10-15T14:19:33.123218+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-13-apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-HomePod-mini-2-color-lineup-261013_big.jpg.large_2x.jpg?resize=1200,675",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple has refreshed its HomePod mini smart speaker, launching a new version priced at $149 that includes an S10 chip for improved dynamic range, loudness, and acoustic performance. The updated model adds Siri AI integration, enabling multi‑turn conversations, and introduces safety features such as smoke‑alarm detection that sends notifications to users’ phones. Additional enhancements include a visual canvas called \"Sound Glow\" that syncs with music, better compatibility with Apple TV 4K and Mac, and support for a four‑speaker home entertainment setup. The HomePod mini 2 will be available for preorder today and ships on October 30 in several color options.",
+      "key_points": [
+        "New HomePod mini 2 launched with S10 chip and $149 price, $50 higher than the 2020 model",
+        "Siri AI integration adds multi‑turn conversations and smoke‑alarm detection for safety",
+        "Sound Glow visual canvas syncs with music and offers soundscape animations",
+        "Improved integration with Apple TV 4K and Mac, and supports a four‑speaker home entertainment system"
+      ],
+      "topics": [
+        "apple",
+        "homepod",
+        "smart speaker",
+        "ai",
+        "product launch"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:38:03 +0000",
+      "processed_at": "2026-10-15T14:19:15.778671+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg?w=1200",
+      "title": "Apple's new smart home lineup includes a smart lock, thermostat, and video doorbells | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Apple unveiled its Apple Home Collection at Disrupt, featuring a UWB‑enabled smart lock, a wired video doorbell, a thermostat, a temperature sensor, and a range of indoor and outdoor cameras, all designed to work with the new HomeView hub. The devices were built in partnership with LG Electronics and Schneider Electric and will ship in December, priced from $249.95 to $399.95. Apple aims to compete with Amazon Ring and Google Nest by offering tighter integration with its ecosystem and advanced proximity‑detection technology. The launch marks a significant step toward Apple’s ambition to become a major player in the connected‑home market.",
+      "key_points": [
+        "Apple launches Home Collection with UWB‑enabled lock and HomeView hub",
+        "Devices partner with LG and Schneider Electric, priced $249.95–$399.95",
+        "Release in December to challenge Amazon Ring and Google Nest"
+      ],
+      "topics": [
+        "apple",
+        "smart home",
+        "homekit",
+        "ultra-wideband",
+        "homeview"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:37:19 +0000",
+      "processed_at": "2026-10-15T14:19:15.996990+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-13-spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify",
       "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
@@ -2434,57 +2483,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 07 Oct 2026 07:00:00 +0000",
       "processed_at": "2026-10-10T00:14:02.712620+00:00"
-    },
-    {
-      "id": "unch-com-2026-10-06-get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200",
-      "title": "The full Disrupt 2026 breakout session agenda revealed | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will take place at Moscone West in San Francisco from October 13‑15, drawing more than 10,000 founders, investors, and tech leaders to discuss the future of AI, fundraising, and startup growth. The event features a full breakout session agenda that dives deeper than the main stages, offering 50‑minute workshops led by industry experts on topics such as physical AI, AI‑agent workflows, trustworthy AI, the inference economy, and space‑AI opportunities. Sessions are limited in capacity and first‑come, first‑served, encouraging attendees to bring questions and network with leaders like Susan Schofer, Steve Androulakis, Robbie Goldfarb, and others. Early‑bird registration offers discounts up to $100 off a pass and 50% off a second, while special Expo+ passes are available for those recently laid off.",
-      "key_points": [
-        "Disrupt 2026’s breakout sessions provide in‑depth, Q&A‑rich discussions on AI, fundraising, and startup strategy",
-        "The agenda covers emerging AI themes such as physical AI, inference economics, and AI in space, featuring speakers from SOSV, Anthropic, and The Aerospace Corporation",
-        "Attendance is limited and first‑come, first‑served, making early registration essential",
-        "Discounted passes and Expo+ options are available to encourage broader participation",
-        ""
-      ],
-      "topics": [
-        "tech conferences",
-        "ai",
-        "fundraising",
-        "startup ecosystem",
-        "space technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-10T00:14:28.721669+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Apple is partnering with LG to launch a new line of smart home devices, including a smart lock, thermostat, and doorbell, that will integrate with its upcoming smart home hub slated for release on October 13. The hub will feature a 6‑inch square display that can be mounted on a wall or placed on a countertop. LG‑branded devices are expected to be announced next week, and Apple and LG are also developing indoor and outdoor security cameras and a floodlight. The collaboration positions Apple to compete more directly with Amazon’s Ring and other smart‑home ecosystems.",
-      "key_points": [
-        "Apple and LG are collaborating on a smart lock, thermostat, and doorbell that will integrate with Apple’s new smart home hub",
-        "The devices will carry the LG brand even though they are jointly developed",
-        "Apple’s smart home hub, featuring a 6‑inch display, is expected to launch on October 13",
-        "Security cameras and a floodlight are also in development as part of the partnership"
-      ],
-      "topics": [
-        "smart home",
-        "apple",
-        "lg",
-        "partnership",
-        "security"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 22:53:09 +0000",
-      "processed_at": "2026-10-09T20:15:24.685159+00:00"
     }
   ]
 }
