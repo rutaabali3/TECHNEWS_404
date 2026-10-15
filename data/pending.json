@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T14:19:01.911010+00:00",
+  "updated_at": "2026-10-15T18:31:03.327907+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -18,30 +18,6 @@
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "feed_excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
       "published": "Sun, 11 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-      "feed_excerpt": "What does this mean for a fall full of movies starring villainous tech CEOs?",
-      "published": "Sun, 11 Oct 2026 20:51:47 +0000"
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "feed_excerpt": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
-      "published": "Mon, 12 Oct 2026 12:47:59 +0000"
-    },
-    {
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "feed_excerpt": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-      "published": "Tue, 13 Oct 2026 15:02:00 +0000"
-    },
-    {
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "feed_excerpt": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
-      "published": "Tue, 13 Oct 2026 14:25:48 +0000"
     },
     {
       "title": "TechCrunch Disrupt 2026: Day 1",
@@ -390,7 +366,43 @@
       "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
       "feed_excerpt": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
       "published": "Thu, 15 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "feed_excerpt": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+      "published": "Thu, 15 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Volvo makes a bigger bet on Nvidia",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "feed_excerpt": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "published": "Thu, 15 Oct 2026 17:34:40 +0000"
+    },
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "feed_excerpt": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "published": "Thu, 15 Oct 2026 16:45:37 +0000"
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "feed_excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "published": "Thu, 15 Oct 2026 15:02:36 +0000"
+    },
+    {
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "feed_excerpt": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+      "published": "Thu, 15 Oct 2026 14:47:09 +0000"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "feed_excerpt": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "published": "Thu, 15 Oct 2026 14:29:33 +0000"
     }
   ],
-  "last_processed_at": "2026-10-15T14:19:15.997064+00:00"
+  "last_processed_at": "2026-10-15T18:31:29.808674+00:00"
 }
