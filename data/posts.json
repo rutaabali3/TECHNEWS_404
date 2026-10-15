@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-15T18:31:34.766036+00:00",
+  "updated_at": "2026-10-15T22:00:43.456921+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "-13-the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
+      "title": "The full Disrupt Stage lineup | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 will feature a star‑filled Disrupt Stage lineup from October 13‑15 at Moscone West in San Francisco, showcasing leaders such as Rivian CEO RJ Scaringe, Cerebras CEO Andrew Feldman, and all five Benchmark partners. The event offers significant discounts, including 75% off on the last day, 50% off for a second pass, and up to $100 off for Expo+ Passes, while the Startup Battlefield finalists compete for a $100,000 equity‑free prize and the coveted Disrupt Cup. Speakers will discuss future‑shaping topics ranging from AI scalability and hardware design to public safety, social media, and biotech, providing attendees with insights into the next wave of tech innovation. With over 10,000 founders, VCs, and tech enthusiasts expected, Disrupt 2026 promises networking, product demos, and 200+ sessions led by 250+ industry leaders.",
+      "key_points": [
+        "Disrupt Stage features high‑profile speakers including Rivian, Cerebras, Benchmark partners, and Mark Wahlberg",
+        "The event runs Oct. 13‑15 at Moscone West and offers 75% off on the final day and 50% off for a second pass",
+        "Startup Battlefield finalists vie for a $100,000 equity‑free prize and the Disrupt Cup",
+        "Disrupt 2026 hosts 10,000+ attendees, 200+ sessions, and 300+ startups for networking and product demos"
+      ],
+      "topics": [
+        "tech",
+        "startup",
+        "ai",
+        "venturecapital",
+        "event"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:28:06 +0000",
+      "processed_at": "2026-10-15T22:00:20.926607+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-TV-4K-261013_big.jpg.large_2x.jpg?resize=1200,675",
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple launched a new $299 Apple TV 4K featuring an upgraded A19 chip, integrated Siri AI for content discovery, and three far‑field microphones that enable remote‑free voice commands. The device supports a four‑speaker surround sound experience when paired with HomePod mini 2 or HomePod 2, and the remote now includes a speaker to help locate it. Siri AI lets users ask questions such as “Which Apple TV shows won at the Emmy Awards this year?” for personalized recommendations, positioning Apple against rivals like Google and Amazon. The refreshed model is available for preorder today and will ship on November 13.",
+      "key_points": [
+        "New Apple TV 4K priced at $299 with A19 chip and Siri AI integration",
+        "Remote‑free voice control via three microphones and a speaker‑enabled remote",
+        "Four‑speaker surround sound compatibility with HomePod mini 2 or HomePod 2",
+        "Launch delayed due to AI rollout; shipping on November 13"
+      ],
+      "topics": [
+        "apple",
+        "apple tv",
+        "siri",
+        "ai",
+        "streaming"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:16:11 +0000",
+      "processed_at": "2026-10-15T22:00:25.984279+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1202319290.jpeg?resize=1200,800",
+      "title": "Exclusive: Giraffe Bio aims its bespoke biomolecules at the looming copper shortage | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Giraffe Bio has unveiled a biotech platform that creates mineral‑specific chemicals to boost copper recovery by up to 5% in existing mines, a gain that industry experts say is highly material. The company grows engineered microbes in bioreactors to produce these bespoke compounds, which are then added to a mine’s flotation process to selectively bind copper and reduce reliance on toxic chemicals. Giraffe Bio recently closed a $6.4 million seed round led by Orion Industrial Ventures, with participation from BHP Ventures, Twynam, Air Capital, and Baruch Future Ventures. The startup’s technology could be adapted to other critical minerals such as gold and silver, positioning it as a versatile player amid looming copper shortages and a push for greener mining practices.",
+      "key_points": [
+        "Giraffe Bio’s engineered microbes produce copper‑specific chemicals that can increase copper recovery by up to 5% in existing mines.",
+        "The company’s bioreactor‑grown compounds replace toxic flotation chemicals, offering a more environmentally friendly extraction method.",
+        "Giraffe Bio secured a $6.4 million seed round led by Orion Industrial Ventures, with investors including BHP Ventures and Air Capital.",
+        "The platform is designed to be adaptable to other minerals like gold and silver, expanding its potential impact beyond copper."
+      ],
+      "topics": [
+        "biotech",
+        "mining",
+        "copper",
+        "critical minerals",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 12:40:00 +0000",
+      "processed_at": "2026-10-15T22:00:20.631507+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-13-the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between",
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889460445_20c033b45a_o-2.jpg?resize=1200,800",
@@ -2413,81 +2488,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 07 Oct 2026 14:30:00 +0000",
       "processed_at": "2026-10-10T12:55:09.936972+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-how-to-find-out-if-amazon-thinks-you-have-flat-buttocks",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Amazon-fast-delivery.jpeg?resize=1200,675",
-      "title": "How to find out if Amazon thinks you have 'flat buttocks' | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Amazon’s user profile page reveals inferred traits about shoppers, including a surprising claim that a user has \"flat buttocks\" based on purchases such as butt scrunch leggings. The article explains how to access and edit these preferences on both desktop and mobile, and notes that other users have found Amazon’s assumptions accurate or amusing. A viral Threads post about the profile sparked widespread curiosity and highlighted how much personal data e‑commerce giants collect. The piece underscores growing concerns about data privacy and the intimate surveillance that tech companies can perform on consumers.",
-      "key_points": [
-        "Amazon displays inferred traits like \"flat buttocks\" in user profiles",
-        "Users can view and edit preferences via account settings on desktop and mobile",
-        "A viral Threads post sparked discussion on data privacy and Amazon’s profiling",
-        "Tech companies’ detailed profiling raises surveillance concerns"
-      ],
-      "topics": [
-        "amazon",
-        "data privacy",
-        "tech surveillance",
-        "social media",
-        "ecommerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 22:55:39 +0000",
-      "processed_at": "2026-10-10T12:54:57.034272+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Healthleap, a South African startup founded by siblings Jemima and Josiah Meyer, has secured $38 million in seed and Series A funding to advance its AI platform that scans hospital electronic health records for patients at risk of undiagnosed conditions such as malnutrition and delirium. The platform, which pulls structured data and unstructured clinician notes through language models, is already deployed in more than 50 hospitals including Penn Medicine and Cedars‑Sinai, and has helped hospitals achieve a 5‑to‑20‑fold return on investment. The company’s revenue has grown over tenfold in the past year, and its contracts are priced by licensed bed count with an outcome‑based model that guarantees measurable ROI. Healthleap plans to use the new capital to engineer additional condition‑identification modules, expand to outpatient and home‑care settings, and ultimately cover more than 40 major health conditions.",
-      "key_points": [
-        "$38 million raised: $8 million seed led by Sequoia Capital and First Round Capital, $30 million Series A led by Hummingbird Ventures",
-        "AI platform extracts clinical notes and structured data to flag patients with malnutrition, delirium, aspiration pneumonia, pressure ulcers and readmission risk, deployed in 50+ hospitals",
-        "Customers report 5‑to‑20‑fold ROI; at the University of Pennsylvania the malnutrition program generated $23.8 million in annualized financial impact",
-        "Healthleap will invest in engineering, sales and customer success to add more conditions and expand into outpatient and home‑care markets"
-      ],
-      "topics": [
-        "healthtech",
-        "ai",
-        "hospitalcare",
-        "funding",
-        "patientcare"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 15:07:08 +0000",
-      "processed_at": "2026-10-10T06:14:54.590713+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49202518493_54cc9e39e1_k.jpg?resize=1200,800",
-      "title": "6 days to Disrupt 2026: Save on your pass before doors open | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will open on Oct. 13 in San Francisco’s Moscone West, and the final day to register for discounted passes is Oct. 2. Attendees can save up to $100 on tickets, bring a colleague for 50% off a second pass, or grab a $75 Expo+ Pass if they’ve been laid off. The three‑day expo will feature more than 200 sessions across six stages, 250 tech leaders, and a Startup Battlefield 200 pitch competition offering a $100,000 prize. Highlights include speakers from OpenAI, Rivian, NVIDIA, and Anthropic, and a focus on AI, fintech, robotics, infrastructure, product, hiring, and scaling.",
-      "key_points": [
-        "Last day to register is Oct. 2 with discounts up to $100",
-        "Bring a colleague for 50% off a second pass",
-        "$75 Expo+ Pass available for laid‑off attendees",
-        "Over 200 sessions, 250 leaders, and a $100,000 Startup Battlefield 200 prize"
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "discount",
-        "expo",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-10T06:14:34.182924+00:00"
     }
   ]
 }

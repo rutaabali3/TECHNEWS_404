@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T18:31:03.327907+00:00",
+  "updated_at": "2026-10-15T22:00:19.485024+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -26,22 +26,10 @@
       "published": "Tue, 13 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "feed_excerpt": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "published": "Tue, 13 Oct 2026 13:28:06 +0000"
-    },
-    {
       "title": "India delays digital payments fee rollout amid retailer pushback",
       "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
       "feed_excerpt": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
       "published": "Tue, 13 Oct 2026 13:25:05 +0000"
-    },
-    {
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-      "feed_excerpt": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-      "published": "Tue, 13 Oct 2026 13:16:11 +0000"
     },
     {
       "title": "Apple makes another push into the smart home market with HomeView",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
       "feed_excerpt": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
       "published": "Tue, 13 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-      "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-      "feed_excerpt": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-      "published": "Tue, 13 Oct 2026 12:40:00 +0000"
     },
     {
       "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
@@ -402,7 +384,43 @@
       "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
       "feed_excerpt": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
       "published": "Thu, 15 Oct 2026 14:29:33 +0000"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "feed_excerpt": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+      "published": "Thu, 15 Oct 2026 20:38:13 +0000"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "feed_excerpt": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "published": "Thu, 15 Oct 2026 20:04:53 +0000"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "feed_excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "published": "Thu, 15 Oct 2026 19:55:25 +0000"
+    },
+    {
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "feed_excerpt": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "published": "Thu, 15 Oct 2026 19:29:05 +0000"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "feed_excerpt": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "published": "Thu, 15 Oct 2026 19:14:26 +0000"
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "feed_excerpt": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "published": "Thu, 15 Oct 2026 18:56:46 +0000"
     }
   ],
-  "last_processed_at": "2026-10-15T18:31:29.808674+00:00"
+  "last_processed_at": "2026-10-15T22:00:25.984356+00:00"
 }
