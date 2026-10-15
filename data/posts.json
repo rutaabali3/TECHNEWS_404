@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-10-14T23:47:11.455151+00:00",
+  "updated_at": "2026-10-15T03:53:25.032492+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-12-windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "WindBorne Systems has secured a U.S. Air Force contract worth up to $49 million for data collected by its fleet of about 700 autonomous weather balloons, marking the company’s largest deal to date. The startup’s AI‑driven WeatherMesh 6 model, released earlier this summer, claims to deliver more accurate forecasts than the traditional ECMWF physics‑based system. The contract, awarded without competitive bidding, will fund further expansion of the balloon constellation and research to improve hardware performance. So far the Air Force has placed orders for $1.7 million of data, with expectations of additional purchases as the program scales.",
+      "key_points": [
+        "U.S. Air Force contract up to $49 million for data from WindBorne’s 700 autonomous weather balloons",
+        "WindBorne’s WeatherMesh 6 AI model outperforms traditional ECMWF forecasting",
+        "Contract supports constellation growth and R&D and was awarded without competitive bidding",
+        "Air Force has already ordered $1.7 million of data, with more expected"
+      ],
+      "topics": [
+        "weather",
+        "ai",
+        "airforce",
+        "contract",
+        "forecasting"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 17:19:14 +0000",
+      "processed_at": "2026-10-15T03:53:11.588038+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-12-this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Blueprints AI, founded by Al Dram and Coco Cao in 2025, uses generative AI to produce code‑compliant, permit‑ready architectural blueprints from a 2D sketch or PDF in minutes. The company unveiled a second‑generation version at TechCrunch Disrupt 2026 that lets users design entire buildings—architecture, structural, mechanical, electrical, plumbing, and interior—while a single change automatically updates all components and verifies local building codes. Pricing ranges from $3,200 to $8,500 per month, with enterprise options, and the startup targets professional architecture, engineering, and design firms as well as developers and real‑estate owners. The founders stress that licensed architects still review and seal the documents, positioning the tool as an augmentation of drafting work rather than a replacement.",
+      "key_points": [
+        "Blueprints AI generates permit‑ready architectural blueprints from sketches or PDFs in minutes using AI.",
+        "The second‑generation software allows full building design, with a single change updating all aspects and checking building codes.",
+        "Pricing is subscription‑based, ranging from $3,200 to $8,500 per month, with enterprise and single‑project options.",
+        "Licensed architects still review and seal the documents, so the tool augments rather than replaces human drafting.",
+        ""
+      ],
+      "topics": [
+        "ai",
+        "architecture",
+        "construction",
+        "startup",
+        "techcrunch"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 15:27:59 +0000",
+      "processed_at": "2026-10-15T03:53:11.462605+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-12-fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Google has expanded its Fitbit lineup with the Fitbit Edge, a $179.99 wearable that bridges the gap between the slim Fitbit Air and the feature‑rich Pixel Watch. The Edge adds an OLED display, 100‑activity recognition, over 50 exercise modes, and a 40% more accurate GPS, while its Health Coach and Health Guardian features require a Google Health Premium subscription. It offers up to seven days of battery life, 50‑meter water resistance, and a Stephen Curry Special Edition priced at $219.99, with preorders available through the Google Store until October 27.",
+      "key_points": [
+        "Fitbit Edge is positioned between the Fitbit Air and Pixel Watch and is priced at $179.99.",
+        "It can automatically recognize and log up to 100 activities, supports more than 50 exercise modes, and offers 40% more accurate GPS than its predecessor.",
+        "Health Coach and Health Guardian features rely on a Google Health Premium subscription and use fitness, health, and medical data to create personalized routines.",
+        "The device has a seven‑day battery, 50‑meter water resistance, and a Stephen Curry Special Edition priced at $219.99."
+      ],
+      "topics": [
+        "fitbit",
+        "google",
+        "wearables",
+        "healthtech",
+        "gps"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 15:11:19 +0000",
+      "processed_at": "2026-10-15T03:53:21.853586+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-12-smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800",
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Ultrahuman, the Bengaluru‑based smart‑ring maker, has signed a two‑year memorandum of understanding with the Abu Dhabi Public Health Center to develop a biological‑age model that blends wearable data and clinical biomarkers. The model, designed to be wearable‑agnostic, will estimate how quickly individuals are aging and highlight factors such as sleep, activity, cardiovascular health, and metabolism that influence that rate. Ultrahuman plans to make the health‑age metric available to UAE residents through government digital‑health platforms like TAMM and Sahatna, while the algorithm will be deployed on UAE data without accessing personally identifiable information. This partnership marks the company’s shift from selling hardware to scaling its health‑data algorithms at a national level.",
+      "key_points": [
+        "Ultrahuman and Abu Dhabi Public Health Center signed a two‑year MOU to build a biological‑age model combining wearable signals and clinical biomarkers",
+        "The model will be wearable‑agnostic and aim to estimate aging rate and influencing factors such as sleep, activity, cardiovascular health, and metabolism",
+        "Ultrahuman plans to roll out the health‑age metric via UAE digital‑health platforms, but will not train on UAE data and will not access personally identifiable information",
+        "The partnership represents Ultrahuman’s move from hardware sales to large‑scale health‑data algorithm deployment"
+      ],
+      "topics": [
+        "healthtech",
+        "wearables",
+        "dataprivacy",
+        "uae",
+        "aging"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 14:09:34 +0000",
+      "processed_at": "2026-10-15T03:53:11.540469+00:00"
+    },
+    {
+      "id": "s-techcrunch-com-2026-10-12-techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
+      "title": "Disrupt 2026 starts tomorrow: Your final chance to save up to $100 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 opens tomorrow, October 13 at 8 a.m. PT, and will run for three days at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech operators. Attendees can still secure up to $100 off their pass and a 50% discount on a second ticket, with additional savings for groups of four or more and a $75 Expo+ Pass for those recently laid off. The event features a bustling Expo Hall with over 300 emerging startups, 200+ sessions across six stages, interactive roundtables, and a Startup Battlefield competition for a $100,000 prize. An AI‑powered matchmaking app enhances networking, helping participants connect with investors, founders, and industry leaders to spark new opportunities.",
+      "key_points": [
+        "Disrupt 2026 starts October 13 at 8 a.m. PT and runs for three days at Moscone West",
+        "Last 24 hours to get up to $100 off tickets and 50% off a second pass, with extra savings for larger groups",
+        "Expo Hall hosts 300+ startups, 200+ sessions, and a Startup Battlefield competition for $100,000",
+        "AI‑powered event app facilitates matchmaking among founders, investors, and tech leaders"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "networking",
+        "ai",
+        "discounts"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 12 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-15T03:53:11.410844+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-12-meta-releases-its-first-frontier-model-muse-wonder",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
@@ -2359,130 +2485,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 06 Oct 2026 19:56:50 +0000",
       "processed_at": "2026-10-09T20:15:13.338111+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
-      "title": "Hark releases an AI personal assistant with a focus on privacy | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Hark, a startup founded by Brett Adcock, has launched Hark Pro, an AI personal assistant that operates as a full‑screen interface designed to act as an operating system for the computer. The assistant is trained specifically for computer use, allowing it to manage email, calendar, files, and even complete web tasks while displaying its navigation to build trust and emphasize privacy. Hark positions itself against larger players like Meta and OpenAI by promising no ads or data mining, and it plans to release an AI‑native device in 2027. The product’s focus on privacy, task‑specific intelligence, and a transparent user experience distinguishes it in the crowded AI assistant market.",
-      "key_points": [
-        "Hark Pro is a full‑screen AI assistant trained for computer use, handling email, calendar, files, and web tasks.",
-        "The interface shows the assistant’s web navigation to build trust and avoid data mining, positioning Hark against Meta and OpenAI.",
-        "Hark plans to launch an AI‑native device in 2027 to complement its software.",
-        "The startup emphasizes privacy and task‑specific help rather than broad LLM capabilities."
-      ],
-      "topics": [
-        "ai",
-        "assistant",
-        "privacy",
-        "startup",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 18:22:45 +0000",
-      "processed_at": "2026-10-09T20:15:13.657945+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-indias-jiohotstar-takes-partnership-route-for-middle-east-expansion",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jiohotstar.jpg?resize=1200,800",
-      "title": "India's JioHotstar takes partnership route for Middle East expansion | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "JioHotstar, the Reliance‑backed streaming service with over 500 million monthly users, is expanding into the Middle East and North Africa through a partnership with Starzplay, giving the platform a dedicated section for Indian films, shows, originals and reality franchises in multiple languages. The move follows JioHotstar’s earlier launches in the U.K., Canada and Singapore, but unlike those markets the MENA rollout will not include its own sports content; instead a bundled sports plan with Starzplay’s cricket offering is priced at AED 49.99 (about $13.60) per month. The partnership taps the region’s large South‑Asian diaspora, allowing new JioHotstar originals to premiere simultaneously with India and offering audio in up to ten languages, with a particular focus on Malayalam programming.",
-      "key_points": [
-        "JioHotstar partners with Starzplay to launch a dedicated Indian content section in MENA",
-        "The MENA rollout excludes JioHotstar’s sports library but offers a bundled sports plan at AED 49.99/month",
-        "New originals will premiere simultaneously with India and feature audio in up to ten languages",
-        "The strategy targets the region’s large South‑Asian diaspora, especially the Malayali community"
-      ],
-      "topics": [
-        "streaming",
-        "india",
-        "mena",
-        "partnership",
-        "diaspora"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 17:14:07 +0000",
-      "processed_at": "2026-10-09T20:15:13.519456+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-facebook-tests-going-reels-first-in-india",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
-      "title": "Facebook tests going Reels-first in India | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Meta is testing a Reels‑first user experience in India that launches users directly into full‑screen video when they open the app, with a similar test underway in Indonesia. Users who are part of the test can opt out and switch back to the traditional feed, which remains available as a second tab. The move follows Meta’s broader strategy to make video the centerpiece of Facebook, a shift that has already seen all new videos posted as Reels and the app’s Video tab renamed to Reels. India, Meta’s largest market with over 400 million users, is a key testing ground for this video‑centric approach.",
-      "key_points": [
-        "Meta is testing a Reels‑first UX in India and Indonesia that opens users directly into full‑screen video",
-        "Users can opt out and return to the classic feed, which remains a second tab",
-        "The test is part of Meta’s strategy to make video central to Facebook, with all new videos posted as Reels"
-      ],
-      "topics": [
-        "meta",
-        "facebook",
-        "reels",
-        "video",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 12:38:53 +0000",
-      "processed_at": "2026-10-09T20:15:13.398452+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-how-ai-decision-models-could-change-content-moderation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
-      "title": "How AI decision models could change content moderation | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Musubi has unveiled PolicyLM-1.7B, a lightweight decision model designed for real‑time content moderation that can apply plain‑English policies to messages in under 50 milliseconds. The model, released with open weights, offers the speed and cost of traditional AI classifiers while retaining the flexibility of a large language model, and it does not require retraining when policies change. This launch follows the recent surge in decision‑model research, highlighted by TypeSafe AI’s Jev and similar offerings from OpenAI and Amazon, which aim to deliver faster, cheaper outcomes by limiting outputs to predetermined choices. By enabling platform managers to label content proactively and iteratively, PolicyLM-1.7B could significantly streamline moderation workflows and adapt quickly to evolving policy needs.",
-      "key_points": [
-        "PolicyLM-1.7B is a real‑time, open‑weight decision model that applies plain‑English content policies in under 50 ms.",
-        "It matches the cost and speed of existing classifiers but adds LLM flexibility, eliminating the need for retraining when policies change.",
-        "The release follows a broader industry shift toward decision models like Jev, OpenAI’s and Amazon’s offerings, which prioritize speed and cost over full text generation.",
-        "Musubi’s approach could transform content moderation by providing scalable, customizable labeling that adapts quickly to policy updates."
-      ],
-      "topics": [
-        "content moderation",
-        "ai decision models",
-        "musubi",
-        "policylm",
-        "openai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
-      "processed_at": "2026-10-09T15:05:36.709113+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Lambda, a cloud provider focused on GPU capacity for AI workloads, is raising up to $4 billion at a $14.5 billion pre‑money valuation, likely its last private round before a planned 2027 IPO. The round is led by Coatue Management and Blackstone, and the company’s backlog surged from $15 billion in June to $50 billion in September, largely because of a $35 billion commitment from Anthropic. While the deal fuels Lambda’s valuation, it also highlights the company’s reliance on a single large client amid a market where lenders are tightening credit for data‑center buildouts. The fresh capital will position Lambda for a future public listing and give it a stronger footing as it competes with other Nvidia‑backed neoclouds such as CoreWeave and Nebius.",
-      "key_points": [
-        "Lambda is raising up to $4 billion at a $14.5 billion pre‑money valuation ahead of a 2027 IPO",
-        "Its backlog jumped from $15 billion to $50 billion, driven largely by a $35 billion deal with Anthropic",
-        "The funding round, led by Coatue and Blackstone, provides capital to navigate debt‑lender scrutiny for data‑center expansion",
-        "Lambda joins other Nvidia‑backed neoclouds that rely on large AI contracts to fund growth"
-      ],
-      "topics": [
-        "ai",
-        "cloud",
-        "financing",
-        "ipo",
-        "data center"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 20:00:30 +0000",
-      "processed_at": "2026-10-09T15:05:50.214008+00:00"
     }
   ]
 }
