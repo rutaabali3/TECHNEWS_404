@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-15T03:53:25.032492+00:00",
+  "updated_at": "2026-10-15T09:00:36.204938+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-13-spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say 'on Spotify' | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Spotify has updated its iOS 27 integration so that users no longer need to say \"on Spotify\" when asking Siri to play music or other content. The change lets users simply state what they want—whether a track, album, podcast, audiobook, or a broader request like \"play workout music\"—and Spotify will respond automatically. Siri can also handle personalized recommendations, resume podcasts, search the library, or create AI‑generated Prompted Playlists. The feature is available worldwide for iPhone 15 Pro or newer models outside the EU when Apple Intelligence is enabled.",
+      "key_points": [
+        "Siri on iOS 27 no longer requires the phrase \"on Spotify\" to play music or other content.",
+        "The update works on iPhone 15 Pro or later outside the EU with Apple Intelligence enabled.",
+        "Siri learns a user’s app preference, routing audio requests to Spotify automatically.",
+        "Users can request music, podcasts, playlists, or AI‑generated Prompted Playlists hands‑free."
+      ],
+      "topics": [
+        "spotify",
+        "siri",
+        "ios",
+        "voice control",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 14:30:12 +0000",
+      "processed_at": "2026-10-15T09:00:15.661171+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "SpaceX Super Intelligence (SpaceXSI) has announced a new bundled subscription called \"The X Subscription\" that combines its X Premium, Grok, and Cursor services into a single plan. The bundle offers five tiers—from a free plan with limited chat and agent usage to an Ultra tier at $200/month—each with increasing AI usage caps and access to the latest Grok models. Existing X Premium+ subscribers can switch to the new bundle at the same or a lower price, while new users can choose from the tiered options. The move aims to consolidate SpaceXSI’s AI offerings and compete more effectively against rivals such as OpenAI and Anthropic in the paid AI subscription market.",
+      "key_points": [
+        "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription called \"The X Subscription\"",
+        "The bundle offers five tiers ranging from free to Ultra ($200/month) with increasing AI usage caps",
+        "Existing X Premium+ subscribers can switch to the new bundle at the same or lower cost",
+        "The new plan includes AI chat, voice, images, video, API, agentic bot, coding AI, verified checkmark, creator tools, and fewer ads"
+      ],
+      "topics": [
+        "spacex",
+        "ai",
+        "subscription",
+        "technews",
+        "ai-tools"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:50:19 +0000",
+      "processed_at": "2026-10-15T09:00:18.126943+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-12-windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
@@ -2435,56 +2485,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 06 Oct 2026 22:53:09 +0000",
       "processed_at": "2026-10-09T20:15:24.685159+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Melius, an AI platform that creates ad campaigns, images, and videos, announced it has raised a total of $25 million, including a $20 million Series A led by CRV and a $5 million seed round led by General Catalyst. The company was founded by former Ramp engineers Joowon Kim, Young Kim, and Arnav Ramu, who abandoned their original ad‑spend tool after six months and rebuilt the product from scratch as an \"agents lab for creative work.\" Within two months of emerging from stealth in July, Melius reported more than $1 million in annualized revenue and is positioning itself in a large market that also includes competitors such as Higgsfield, Krea, and Flora AI. The founders view the crowded space as a sign of strong demand and believe multiple players can thrive.\n",
-      "key_points": [
-        "Melius secured $25 million in funding, led by CRV and General Catalyst.",
-        "The founders pivoted from an ad‑spend tool to an AI creative‑generation platform after scrapping the original code.",
-        "The startup achieved over $1 million ARR in just two months after launch.",
-        "Competition includes Higgsfield, Krea, and Flora AI, but the founders see room for many players in the market."
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "marketing",
-        "funding",
-        "advertising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 22:34:03 +0000",
-      "processed_at": "2026-10-09T20:15:37.953744+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-06-the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
-      "title": "The next hurdle for AI agents: getting websites to let them in | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Personal AI agents such as Meta’s Muse, Instinct, and ChatGPT’s Dots are gaining traction for booking flights, ordering groceries, and making purchases, but many retailers are blocking them from completing transactions. Amazon recently prevented Muse from browsing or buying on its site, and Walmart’s anti‑bot verification steps have also caused agents to fail, even though Walmart claims the blocks are unintentional. In response, Meta, Walmart, Stripe, Sierra, Genesys, Rocket, NiCE, and Decagon are collaborating on an open standard to distinguish legitimate user‑driven bots from malicious ones and enable secure agent‑to‑agent commerce. Meanwhile, other companies such as Delta, United, eBay, Yelp, and Cloudflare have either restricted or are evaluating how to allow AI agents, highlighting the growing friction between consumer convenience and web‑security practices.",
-      "key_points": [
-        "Amazon has blocked Meta’s Muse from its retail site, preventing AI‑driven purchases",
-        "Walmart’s human‑verification bot can inadvertently block AI agents, though the company says the block is unintentional",
-        "Meta and partners are developing an open standard to allow safe, authenticated AI agent interactions with businesses",
-        "Cloudflare’s crawler policy change in September 2023 may be contributing to increased AI agent blocking on many sites"
-      ],
-      "topics": [
-        "ai agents",
-        "ecommerce",
-        "web security",
-        "open standards",
-        "cloudflare"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 06 Oct 2026 19:56:50 +0000",
-      "processed_at": "2026-10-09T20:15:13.338111+00:00"
     }
   ]
 }
