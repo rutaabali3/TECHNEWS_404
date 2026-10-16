@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-16T00:37:33.259467+00:00",
+  "updated_at": "2026-10-16T05:36:44.730449+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "crunch-com-2026-10-13-helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2242228718.jpeg?resize=1200,792",
+      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Helix Carbon has developed an electrolyzer that can convert the carbon dioxide emitted by blast furnaces into carbon monoxide, allowing iron producers to reduce their coke consumption and lower emissions. The startup claims the technology could cut coke use by 30‑90 % and save producers about $14 per ton of iron, a meaningful margin boost in an industry with thin profits. By targeting the $2 trillion steel market, Helix plans to first serve specialty‑chemical customers before scaling to full‑scale blast furnaces. The approach offers a win‑win of lower carbon output and higher profitability for iron producers.",
+      "key_points": [
+        "Helix Carbon’s electrolyzer turns blast‑furnace CO₂ into CO for reuse, cutting coke use.",
+        "Potential coke reduction ranges from 30‑90 %, saving ~$14/ton of iron.",
+        "The technology offers both emission cuts and margin gains in a thin‑margin industry.",
+        "Helix plans to start with specialty‑chemical customers before targeting full blast furnaces."
+      ],
+      "topics": [
+        "steel",
+        "carbon",
+        "electrolyzer",
+        "blast furnace",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 21:15:00 +0000",
+      "processed_at": "2026-10-16T05:36:14.269296+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "A U.S. District Judge ordered Apple to receive expedited access to OpenAI’s hiring materials in the trade‑secrets lawsuit Apple filed in July. The court granted Apple the right to view documents related to interviews with former Apple employees who applied to OpenAI’s consumer hardware and robotics teams, and also allowed access to private LINE messages and depositions of those employees. OpenAI must hand over already‑collected materials within five days and any remaining documents within fourteen days. Apple’s request for broader access to OpenAI’s research and development data was denied, though the judge left room for a narrowed request.",
+      "key_points": [
+        "Apple gains expedited access to OpenAI hiring documents and private messages",
+        "OpenAI must turn over materials within 5 and 14 days",
+        "Judge denied Apple access to OpenAI R&D and broader discovery requests",
+        "Depositions of former Apple employees at OpenAI are approved"
+      ],
+      "topics": [
+        "openai",
+        "apple",
+        "trade secrets",
+        "lawsuit",
+        "hiring records"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 20:36:44 +0000",
+      "processed_at": "2026-10-16T05:36:14.496748+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-11-warner-bros-netflix-paramount-acquisition-timeline-wbd",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1574594892.jpg?resize=1200,800",
+      "title": "What to know about the landmark Warner Bros. Discovery sale | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Warner Bros. Discovery agreed to sell its entire portfolio to Paramount for $111 billion, finalizing a deal that will combine studios, HBO, streaming services, games, and TV networks such as CNN and HGTV. The transaction followed a bidding war that began in October 2025, with Netflix initially offering $82.7 billion for the film and TV assets before withdrawing after Paramount raised its bid to $111 billion. The deal was cleared by the U.S. Department of Justice in June, temporarily blocked by a lawsuit from 12 state attorneys general in July, and ultimately approved by a federal judge in September, becoming official on October 6. The acquisition will be financed with a $54 billion debt commitment from major banks and $45.7 billion in equity from Larry Ellison, while raising concerns over job cuts, political influence, and antitrust scrutiny.",
+      "key_points": [
+        "Paramount wins $111B bid for WBD assets",
+        "Deal faced DOJ approval, state AG lawsuit, and federal judge clearance",
+        "Financing includes $54B debt and $45.7B equity from Larry Ellison",
+        "Concerns over job cuts, political influence, and antitrust scrutiny"
+      ],
+      "topics": [
+        "mergers",
+        "media",
+        "streaming",
+        "antitrust",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 11 Oct 2026 14:15:00 +0000",
+      "processed_at": "2026-10-16T05:36:14.388931+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-10-13-fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
@@ -2412,82 +2487,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 07 Oct 2026 15:00:00 +0000",
       "processed_at": "2026-10-11T00:21:58.686118+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-      "title": "The full lineup of interactive roundtables at Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will host over 10,000 founders, investors, and tech leaders in San Francisco from Oct. 13‑15, featuring a series of interactive roundtables that dive into AI, physical AI, enterprise software, fundraising, and scaling. The event offers discounted passes—$100 off a single pass and 50% off a second—and encourages attendees to bring questions and share experiences. Roundtables cover topics ranging from the data challenges of robotics to AI‑enabled IPO readiness, and from the future of enterprise SaaS to quantum computing fundamentals. Participants can network, learn practical insights, and explore emerging AI applications across industries.",
-      "key_points": [
-        "Disrupt 2026 will host 10,000+ tech leaders in San Francisco from Oct. 13‑15 with discounted passes.",
-        "The event features interactive roundtables on AI, physical AI, enterprise software, fundraising, and more.",
-        "Topics include data challenges for robotics, AI‑enabled IPO readiness, and the future of SaaS.",
-        "Attendees can network, share experiences, and gain practical insights into emerging AI applications."
-      ],
-      "topics": [
-        "techconference",
-        "ai",
-        "physicalai",
-        "fundraising",
-        "enterprise software"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 14:15:00 +0000",
-      "processed_at": "2026-10-11T00:21:58.869745+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1127662758.jpg?resize=1200,675",
-      "title": "X expands its 'Gametime' sports hub beyond the NFL, starting with MLB | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "X has announced that its Gametime feature will expand beyond the NFL to include Major League Baseball, marking the platform’s first step toward becoming a year‑round hub for all professional sports. The MLB integration, launching this month, will let fans track scores, stats, and real‑time discussions while also providing creators and news content. This move is part of X’s broader effort to win back advertisers after a July settlement with the World Federation of Advertisers, leveraging the high engagement of live sports to attract brands. Future plans include adding the NBA and other leagues, positioning Gametime as a scalable destination for sports fans and advertisers alike.",
-      "key_points": [
-        "X adds MLB to its Gametime feature, expanding beyond the NFL",
-        "Gametime is positioned as a year‑round hub for all professional sports",
-        "The expansion is part of X’s strategy to regain advertisers after a settlement with the WFA",
-        "Future plans include adding the NBA and other leagues"
-      ],
-      "topics": [
-        "x",
-        "gametime",
-        "sports",
-        "advertising",
-        "mlb"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 18:10:00 +0000",
-      "processed_at": "2026-10-10T21:20:56.047561+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "OpenAI is launching a new \"Intelligent UI\" feature that adds interactive visuals—such as tappable buttons, custom calculators, charts, and editable graphs—to ChatGPT conversations, aiming to make complex topics easier to understand and broaden the model’s appeal. The feature debuts with GPT‑6 on Wednesday and will be available to Pro, Plus, Business, and Enterprise users worldwide, with free and Go tier users gaining access the following day. Users can customize the amount of visual content, and the rollout includes examples like diagrams of airplane wing lift, recipe steps, bicycle mechanics, and hiking maps. The update underscores OpenAI’s shift from a purely text‑based interface toward a more engaging, multimodal user experience.",
-      "key_points": [
-        "Intelligent UI introduces interactive visuals such as tappable buttons, calculators, charts, and editable graphs to ChatGPT.",
-        "The feature launches with GPT‑6 on Wednesday and is available to all paid tiers globally, with free tier users following the next day.",
-        "OpenAI emphasizes the goal of simplifying complex learning and expanding accessibility through visual aids.",
-        "Users can adjust the visual density of responses to suit their preferences.",
-        ""
-      ],
-      "topics": [
-        "chatgpt",
-        "openai",
-        "artificialintelligence",
-        "userinterface",
-        "visualai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 18:00:19 +0000",
-      "processed_at": "2026-10-10T21:20:55.584729+00:00"
     }
   ]
 }

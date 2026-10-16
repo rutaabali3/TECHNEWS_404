@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:37:04.975218+00:00",
+  "updated_at": "2026-10-16T05:36:12.789631+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -8,28 +8,10 @@
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
     },
     {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-      "feed_excerpt": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-      "published": "Sun, 11 Oct 2026 14:15:00 +0000"
-    },
-    {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "feed_excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
       "published": "Sun, 11 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-      "feed_excerpt": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-      "published": "Tue, 13 Oct 2026 21:15:00 +0000"
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "feed_excerpt": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "published": "Tue, 13 Oct 2026 20:36:44 +0000"
     },
     {
       "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
@@ -396,7 +378,19 @@
       "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
       "feed_excerpt": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
       "published": "Thu, 15 Oct 2026 23:33:45 +0000"
+    },
+    {
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "feed_excerpt": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "published": "Fri, 16 Oct 2026 05:16:46 +0000"
+    },
+    {
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "feed_excerpt": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+      "published": "Fri, 16 Oct 2026 01:17:43 +0000"
     }
   ],
-  "last_processed_at": "2026-10-16T00:37:33.258661+00:00"
+  "last_processed_at": "2026-10-16T05:36:14.496871+00:00"
 }
