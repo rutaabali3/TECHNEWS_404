@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T22:00:19.485024+00:00",
+  "updated_at": "2026-10-16T00:37:04.975218+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -20,46 +20,10 @@
       "published": "Sun, 11 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "feed_excerpt": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-      "published": "Tue, 13 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "India delays digital payments fee rollout amid retailer pushback",
-      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "feed_excerpt": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
-      "published": "Tue, 13 Oct 2026 13:25:05 +0000"
-    },
-    {
-      "title": "Apple makes another push into the smart home market with HomeView",
-      "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-      "feed_excerpt": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
-      "published": "Tue, 13 Oct 2026 13:15:46 +0000"
-    },
-    {
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "feed_excerpt": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "published": "Tue, 13 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "feed_excerpt": "The startup will sell some of its assets to Disney for $20 million.",
-      "published": "Tue, 13 Oct 2026 12:23:42 +0000"
-    },
-    {
       "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
       "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
       "feed_excerpt": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
       "published": "Tue, 13 Oct 2026 21:15:00 +0000"
-    },
-    {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "feed_excerpt": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "published": "Tue, 13 Oct 2026 20:59:11 +0000"
     },
     {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -420,7 +384,19 @@
       "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
       "feed_excerpt": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
       "published": "Thu, 15 Oct 2026 18:56:46 +0000"
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "feed_excerpt": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000"
+    },
+    {
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "feed_excerpt": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+      "published": "Thu, 15 Oct 2026 23:33:45 +0000"
     }
   ],
-  "last_processed_at": "2026-10-15T22:00:25.984356+00:00"
+  "last_processed_at": "2026-10-16T00:37:33.258661+00:00"
 }

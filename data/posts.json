@@ -1,7 +1,155 @@
 {
-  "updated_at": "2026-10-15T22:00:43.456921+00:00",
+  "updated_at": "2026-10-16T00:37:33.259467+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "tps-techcrunch-com-2026-10-13-fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "OpenAI has fired and the FBI has arrested an employee, Abdulrahman Alfozan, after discovering a hidden, encrypted recording device in an executive conference room. The device, reportedly equipped with advanced encryption and audio monitoring, was found in a USB port behind a television in the San Francisco office, and prosecutors say it was intended to covertly capture sensitive conversations about the company’s super‑intelligence technology. OpenAI confirmed that Alfozan had joined in July 2025 and that there is no evidence he accessed or exfiltrated model weights, source code, or customer data. The case underscores the growing focus on counterintelligence and the protection of AI intellectual property.",
+      "key_points": [
+        "FBI arrested OpenAI employee for hidden recording device",
+        "Device had advanced encryption and was placed behind a TV in the conference room",
+        "No evidence of data theft, but intended to capture sensitive AI discussions",
+        "Alfozan joined July 2025, fired Oct 9, faces up to 5 years"
+      ],
+      "topics": [
+        "openai",
+        "fbi",
+        "counterintelligence",
+        "ai security",
+        "surveillance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 20:59:11 +0000",
+      "processed_at": "2026-10-16T00:37:19.732209+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-techcrunch-disrupt-2026-day-1",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
+      "title": "Disrupt 2026: Day 1 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026 Day 1 opened on Oct 13 at Moscone West in San Francisco, drawing more than 10,000 founders, investors and tech leaders. The event featured six new industry stages—scaling, AI, fintech, climate tech, and others—alongside 250+ speakers and the Startup Battlefield competition, where 20 early‑stage companies vied for a $100,000 equity‑free prize and the Disrupt Cup. Attendees could network via Klik badge technology, explore 300+ exhibiting startups, and participate in rapid‑fire pitch showcases and AI‑focused roundtables. The conference highlighted emerging trends such as agentic AI, climate‑tech solutions, and the future of money movement, positioning Disrupt as a key platform for startup visibility and investment.",
+      "key_points": [
+        "Over 10,000 founders, investors, and tech leaders converged at Moscone West for Day 1 of Disrupt 2026.",
+        "The Startup Battlefield competition offered a $100,000 equity‑free prize and the Disrupt Cup to 20 top early‑stage startups.",
+        "Six new industry stages—including AI, fintech, climate tech, and scaling—hosted 250+ speakers and 300+ exhibiting startups.",
+        "Klik badge technology enabled instant contact exchange and AI‑powered matchmaking throughout the event."
+      ],
+      "topics": [
+        "tech",
+        "startup",
+        "disrupt",
+        "ai",
+        "climate tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-16T00:37:07.069362+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-india-delays-digital-payments-fee-rollout-amid-retailer-pushback",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1213174164.jpg?resize=1200,800",
+      "title": "India delays digital payments fee rollout amid retailer pushback | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "India has postponed the introduction of a 0.4% merchant fee on UPI transactions above ₹2,000, originally slated for October 15, after widespread retailer opposition. The National Payments Corporation of India cited the festive Diwali shopping season as the reason for the delay, with no new date announced. The fee would have marked a shift from UPI’s long‑standing policy of free merchant payments, a policy that has helped drive the platform’s explosive growth to 24.07 billion transactions worth ₹29.37 trillion in September. Merchants, especially small retailers and petrol pumps, warned they might stop accepting UPI if the fee were imposed.",
+      "key_points": [
+        "UPI’s planned 0.4% merchant fee on transactions over ₹2,000 was delayed due to retailer pushback.",
+        "The delay is tied to the Diwali shopping period, with NPCI yet to set a new rollout date.",
+        "The fee would have been the first charge on UPI merchants since the government removed such fees in 2020."
+      ],
+      "topics": [
+        "upi",
+        "digital payments",
+        "merchant fees",
+        "india",
+        "retailers"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:25:05 +0000",
+      "processed_at": "2026-10-16T00:37:33.258567+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-apple-makes-another-push-into-the-smart-home-market-with-homeview",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.medium_2x.jpg?w=1200",
+      "title": "Apple makes another push into the smart home market with HomeView | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Apple unveiled HomeView, a $299 smart home hub with a display, FaceTime camera, and Siri AI that recognizes up to six people, enabling personalized content and smart home control. The device, available in countertop and wall‑mounted versions, integrates Apple’s core apps and can manage cameras, thermostat, lights, and locks, positioning Apple against Amazon’s Echo Show and Google’s Nest Hub. HomeView launches with a lineup of new accessories, including a smart deadbolt, cameras, and doorbell, and will ship on November 13 in four colors. This marks a significant push for Apple into the smart‑home market after past struggles with the HomePod.",
+      "key_points": [
+        "HomeView is a $299 smart hub with a display, FaceTime camera, and Siri AI that recognizes up to six people.",
+        "It integrates Apple’s core apps and controls smart home devices, competing with Amazon Echo Show and Google Nest Hub.",
+        "Preorders start today; shipping begins November 13 in four colors.",
+        "Apple also announced new smart home accessories like a deadbolt lock, cameras, and doorbell."
+      ],
+      "topics": [
+        "smart home",
+        "apple",
+        "siri",
+        "homepod",
+        "smart devices"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:15:46 +0000",
+      "processed_at": "2026-10-16T00:37:07.275678+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "American Express has unveiled its Intent Intelligence Framework, a new system designed to capture and authenticate a customer’s purchase intent before an AI agent completes a transaction, aiming to prevent unauthorized or erroneous purchases. The framework introduces a Create Intent API that records the customer’s instructions and constraints, followed by a unique Intent ID and Proof of Intent Token that secure the transaction without exposing the card number. By integrating intent verification early in the transaction flow, Amex seeks to mitigate fraud and ensure that AI‑powered commerce remains seamless, trusted, and secure. The launch follows Amex’s earlier Agentic Commerce Experiences toolkit and reflects growing consumer openness to AI‑driven shopping, with 66% of U.S. respondents willing to use agents for price research and 61% for recommendations.",
+      "key_points": [
+        "Amex’s Intent Intelligence Framework captures customer intent before AI agents complete purchases to prevent unauthorized transactions",
+        "The system uses a Create Intent API, Intent ID, and Proof of Intent Token to secure payments while keeping card details hidden",
+        "Amex plans to make the framework an industry standard and is engaging partners to adopt the ACE developer toolkit"
+      ],
+      "topics": [
+        "american express",
+        "ai commerce",
+        "intent framework",
+        "payments",
+        "consumer protection"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-16T00:37:06.139620+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Character.AI filed for Chapter 11 bankruptcy after five years of rapid growth and legal challenges, citing assets between $50 million and $100 million. The company, founded by former Google engineers, had reached a unicorn valuation and 20 million monthly active users but struggled to monetize its highly engaged user base and faced lawsuits after a teen’s suicide linked to its chatbot. It has agreed to sell assets to Disney for $20 million and is seeking a buyer, with operations expected to continue until a sale or wind‑down. The filing highlights the difficulty of scaling consumer‑facing AI products despite strong engagement.",
+      "key_points": [
+        "Character.AI filed for Chapter 11 with assets $50‑100M",
+        "The company sold assets to Disney for $20M and seeks a buyer, but no bid yet",
+        "Legal and regulatory issues, including a teen suicide case and Texas investigation, strained finances",
+        "High engagement (20M MAU) did not translate into sustainable monetization, underscoring scaling challenges"
+      ],
+      "topics": [
+        "ai",
+        "bankruptcy",
+        "techstartups",
+        "consumerai",
+        "legalissues"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 12:23:42 +0000",
+      "processed_at": "2026-10-16T00:37:06.750299+00:00"
+    },
     {
       "id": "-13-the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
@@ -2340,154 +2488,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 07 Oct 2026 18:00:19 +0000",
       "processed_at": "2026-10-10T21:20:55.584729+00:00"
-    },
-    {
-      "id": "26-10-07-cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gold-bars-doj.jpg?resize=1200,908",
-      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Former CIA officer David J. Rush pleaded guilty to wire fraud after fabricating a top‑secret special access program that siphoned nearly $200 million from the U.S. government, including hundreds of gold bars. Rush, who had lied about his education and military background to secure a senior CIA role, used the program to trick a defense contractor into purchasing gold that he then pocketed. Law enforcement seized more than $46 million worth of gold, cars, watches and over $2 million in cash from Rush’s home. The plea deal spares the government a trial and a public examination of how Rush evaded vetting, with sentencing set for January 2027 and a potential 20‑year prison term.",
-      "key_points": [
-        "Former CIA officer David J. Rush pleaded guilty to wire fraud, stealing almost $200 million via a fabricated special access program.",
-        "He used the fake program to funnel gold and cash, deceiving a defense contractor into buying gold he kept.",
-        "Law enforcement seized $46 million in gold, cars, watches and $2 million in cash from Rush’s residence.",
-        "The plea avoids trial; Rush faces up to 20 years in prison and will be sentenced in January 2027."
-      ],
-      "topics": [
-        "cia",
-        "wire fraud",
-        "gold theft",
-        "special access program",
-        "government fraud"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 17:04:46 +0000",
-      "processed_at": "2026-10-10T21:21:03.488828+00:00"
-    },
-    {
-      "id": "unch-com-2026-10-07-another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
-      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Tab, a new personal AI assistant, has emerged from stealth with a $300 million valuation, backed by investors such as SV Angel, Valar Ventures, and American Spirit. The service lets users text the assistant on iMessage or WhatsApp to handle everyday tasks like ordering groceries, booking travel, and making reservations, with the assistant performing the actions directly. Tab differentiates itself by prioritizing privacy, keeping user data out of training sets and storing payment information in a vault that the assistant never accesses. The founders emphasize that trust, not just capability, is the key to winning the consumer AI race.",
-      "key_points": [
-        "Tab launched from stealth with a $300M valuation",
-        "It operates via iMessage/WhatsApp to handle tasks and make bookings",
-        "The platform prioritizes privacy, never using data to train AI and keeping cards in a vault",
-        "Investors include SV Angel, Valar Ventures, and American Spirit"
-      ],
-      "topics": [
-        "ai",
-        "personal assistant",
-        "startup",
-        "valuation",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 13:45:00 +0000",
-      "processed_at": "2026-10-10T21:20:55.931191+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Common Sense Media has rated OpenAI’s ChatGPT for Teens as an \"unacceptable risk,\" citing pervasive engagement cues that persist even during crisis situations. The nonprofit’s study found the chatbot encourages continued conversation, often framing itself as a friend and failing to direct teens toward adult help when the risk involves the teen’s relationship with the bot itself. OpenAI disputes the findings, arguing the testing methodology did not reflect real‑world safeguards, while the report highlights gaps in parental controls and break reminders. The controversy comes amid broader scrutiny of AI products that prioritize user attention, with lawmakers proposing the bipartisan CHATBOT Act to curb such practices.",
-      "key_points": [
-        "Common Sense Media labels ChatGPT for Teens an \"unacceptable risk\" due to persistent engagement cues in crisis scenarios",
-        "The bot often treats teens as friends and rarely directs them to adults when the risk involves the bot itself",
-        "OpenAI disputes the assessment, citing methodological flaws, and notes its own data shows teens spend under 15 minutes daily on the service",
-        "The findings fuel growing regulatory attention on AI products designed to maximize user attention, exemplified by the proposed CHATBOT Act"
-      ],
-      "topics": [
-        "chatbots",
-        "mental health",
-        "teens",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 18:15:28 +0000",
-      "processed_at": "2026-10-10T17:41:58.413603+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-googles-new-synthid-website-can-identify-ai-generated-media",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
-      "title": "Google's new SynthID website can identify AI-generated media | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Google has opened its SynthID verification website to the public, allowing anyone to check whether an image, video, or audio clip was generated by AI. The tool supports a wide range of file formats and is already embedded in Google’s Gemini app and Chrome, with the company reporting about one million verification requests per day. SynthID is used to watermark media produced by Google’s own models—Nano Banana, Veo, Lyria, Gemini, Flow, ProducerAI, and Vids—as well as by partners such as OpenAI, Nvidia, and Kakao. While other firms like Microsoft and Meta have their own watermarking standards, SynthID’s broader adoption aims to improve transparency around AI‑generated content.",
-      "key_points": [
-        "Google has made its SynthID verification tool publicly available, supporting many media formats.",
-        "SynthID is used to watermark content from Google’s AI models and is integrated into Gemini and Chrome.",
-        "The service sees roughly one million daily verification requests, indicating widespread use.",
-        "Other companies—including OpenAI, Nvidia, and Kakao—also support SynthID, expanding industry adoption."
-      ],
-      "topics": [
-        "google",
-        "synthid",
-        "ai-generated media",
-        "watermarking",
-        "verification"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-10T17:42:15.834801+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Microsoft unveiled two new AI‑ready PCs powered by Nvidia’s RTX Spark chip at its San Francisco Tech Week event. The Surface Laptop Ultra starts at $2,600 and can reach $5,900, while the Surface RTX Spark Dev Box begins at $6,000 and ships with developer tools such as VS Code and GitHub Copilot. Both devices run a revamped Windows 11 that includes “Execution Containers” to sandbox AI agents, a feature Microsoft says will be available to all users. The announcement also highlighted a $1,000 trade‑in incentive for MacBook Pro owners and noted Dell’s concurrent release of the XPS 16 Creator Edition.",
-      "key_points": [
-        "Microsoft’s Surface Laptop Ultra and RTX Spark Dev Box use Nvidia’s RTX Spark chip to run AI models locally",
-        "The devices ship with a new Windows 11 version featuring Execution Containers for sandboxing AI agents",
-        "Microsoft offers a $1,000 trade‑in for MacBook Pro owners to encourage developers to switch",
-        "Dell also announced its XPS 16 Creator Edition with similar specs"
-      ],
-      "topics": [
-        "ai",
-        "windows",
-        "nvidia",
-        "surface",
-        "developer"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 20:22:37 +0000",
-      "processed_at": "2026-10-10T12:54:57.142446+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-10-07-openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-      "title": "OpenAI’s Alexander Embiricos is coming to Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "OpenAI’s product lead Alexander Embiricos will speak at TechCrunch Disrupt 2026, where he will discuss the company’s new personal AI agents called Dots, unveiled after the chatbot launch. Dots are designed to run continuously, connect to everyday apps, and pursue goals in the background, giving AI deeper access to users’ work and digital lives. Embiricos will address the autonomy, privacy, and trust challenges that arise when AI can act on behalf of users. The session, titled “What Comes After the Chatbot?”, will take place on the AI Stage at Moscone West in San Francisco from October 13‑15.",
-      "key_points": [
-        "OpenAI is positioning Dots as the next evolution beyond chatbots, offering continuous, background AI agents that integrate with users’ apps.",
-        "The company is grappling with questions of autonomy, privacy, and trust as these agents gain deeper access to personal data.",
-        "Alexander Embiricos will discuss these issues and the future of personal AI at TechCrunch Disrupt 2026."
-      ],
-      "topics": [
-        "openai",
-        "disrupt",
-        "personal ai",
-        "dots",
-        "ai agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 14:30:00 +0000",
-      "processed_at": "2026-10-10T12:55:09.936972+00:00"
     }
   ]
 }
