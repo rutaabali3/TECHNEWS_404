@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T18:55:49.939276+00:00",
+  "updated_at": "2026-10-16T21:58:05.431679+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -20,12 +20,6 @@
       "published": "Tue, 13 Oct 2026 18:30:03 +0000"
     },
     {
-      "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
-      "feed_excerpt": "Longshot is trying to build a gun big enough to make space data centers a reality.",
-      "published": "Tue, 13 Oct 2026 18:05:00 +0000"
-    },
-    {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
@@ -36,30 +30,6 @@
       "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "published": "Tue, 13 Oct 2026 16:30:00 +0000"
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "feed_excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "published": "Tue, 13 Oct 2026 23:13:31 +0000"
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "feed_excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "published": "Tue, 13 Oct 2026 23:05:34 +0000"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "feed_excerpt": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "published": "Tue, 13 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "feed_excerpt": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "published": "Tue, 13 Oct 2026 22:36:59 +0000"
     },
     {
       "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
@@ -402,7 +372,19 @@
       "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "feed_excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
       "published": "Fri, 16 Oct 2026 15:33:49 +0000"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "feed_excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": "Fri, 16 Oct 2026 21:22:28 +0000"
+    },
+    {
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "feed_excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "published": "Fri, 16 Oct 2026 19:40:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-16T18:56:16.945188+00:00"
+  "last_processed_at": "2026-10-16T21:58:26.144131+00:00"
 }
