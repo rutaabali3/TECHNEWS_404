@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-16T05:36:12.789631+00:00",
+  "updated_at": "2026-10-16T11:00:07.007673+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
       "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
       "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
-    {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "feed_excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "published": "Sun, 11 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "feed_excerpt": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-      "published": "Tue, 13 Oct 2026 20:13:53 +0000"
     },
     {
       "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
@@ -42,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
       "feed_excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
       "published": "Tue, 13 Oct 2026 18:30:00 +0000"
-    },
-    {
-      "title": "Facebook is giving users more control over their algorithm",
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "feed_excerpt": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "published": "Tue, 13 Oct 2026 18:05:24 +0000"
     },
     {
       "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
@@ -392,5 +374,5 @@
       "published": "Fri, 16 Oct 2026 01:17:43 +0000"
     }
   ],
-  "last_processed_at": "2026-10-16T05:36:14.496871+00:00"
+  "last_processed_at": "2026-10-16T11:00:23.268986+00:00"
 }

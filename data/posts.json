@@ -1,7 +1,75 @@
 {
-  "updated_at": "2026-10-16T05:36:44.730449+00:00",
+  "updated_at": "2026-10-16T11:00:27.147395+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-13-cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
+      "title": "Exclusive: Cambridge Heavy Industries has been quietly building a desktop fusion device | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Cambridge Heavy Industries, a stealth startup in Cambridge, Massachusetts, has unveiled a benchtop inertial‑confinement fusion reactor that uses only two lasers to ignite a fuel target, enabling rapid iteration and AI‑driven design optimization. The modular device can perform 50 to 80 shots per day, generating data that feeds simulations to improve performance, and the company recently closed a $6.2 million seed round led by Azolla Ventures. In the next decade the firm plans to scale the prototype to a plant the size of two basketball courts, while using its smaller units to produce tritium—an expensive isotope needed for most fusion reactors. The approach could provide a new, cost‑effective source of tritium and a pathway to commercial fusion power.\n",
+      "key_points": [
+        "Cambridge Heavy’s tabletop fusion reactor uses only two lasers, reducing complexity and cost while allowing 50–80 daily experiments",
+        "The startup’s rapid‑iteration, AI‑optimized design has attracted a $6.2 million seed round from Azolla Ventures and other investors",
+        "Future plans include scaling the device to a plant the size of two basketball courts and using it to produce tritium, which is scarce and expensive",
+        "The technology could supply a new source of tritium and accelerate the development of commercial fusion power"
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 20:13:53 +0000",
+      "processed_at": "2026-10-16T11:00:08.828275+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-facebook-is-giving-users-more-control-over-their-algorithm",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
+      "title": "Facebook is giving users more control over their algorithm | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Meta has launched a new AI‑powered tool called \"Your Algorithm\" on Facebook that lets users shape what appears in their Feed and Reels by describing their interests in plain language. The feature works in real time, allowing users to adjust preferences and receive more relevant content, and it can prompt follow‑up questions to refine recommendations. Meta also updated the three‑dot menu so that \"Your Algorithm,\" \"Interested,\" and \"Not interested\" options are now accessible directly from individual posts. The rollout follows similar moves on Instagram and Threads, marking a broader shift toward giving users more agency over algorithmic curation.",
+      "key_points": [
+        "Meta’s \"Your Algorithm\" lets Facebook users influence feed and Reels content through natural‑language preferences.",
+        "The tool updates recommendations in real time and may ask follow‑up questions to refine suggestions.",
+        "Facebook’s menu changes make it easier to manage preferences directly from posts.",
+        "The launch extends Meta’s personalization strategy across Instagram and Threads."
+      ],
+      "topics": [
+        "social media",
+        "algorithm",
+        "ai",
+        "personalization",
+        "meta"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 18:05:24 +0000",
+      "processed_at": "2026-10-16T11:00:23.268888+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-11-these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
+      "title": "These execs think voice AI hasn't reached its ChatGPT moment yet | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Voice‑AI startups have attracted billions of dollars as investors chase the next big interface, yet industry leaders say the technology still lacks a \"ChatGPT moment.\" PolyAI’s CTO highlighted that while full‑duplex models can speak and listen simultaneously, the real hurdle is delivering fast, natural reasoning so conversations feel seamless and customers trust AI agents. Otter’s CMO emphasized that accurate transcription and speaker identification are critical for meeting‑note tools, and that transparency—clearly indicating when an AI is present—must be built into enterprise solutions. Together, these insights suggest that voice AI’s future hinges on improving ASR accuracy, reasoning speed, and user trust through clear disclosure.",
+      "key_points": [
+        "Full‑duplex models exist but fast, natural reasoning is still missing",
+        "Accurate transcription and speaker ID are essential for meeting‑note AI",
+        "Transparency about AI presence is crucial for enterprise trust"
+      ],
+      "topics": [
+        "voice ai",
+        "enterprise",
+        "full-duplex",
+        "transcription",
+        "transparency"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-16T11:00:08.271261+00:00"
+    },
     {
       "id": "crunch-com-2026-10-13-helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2242228718.jpeg?resize=1200,792",
@@ -2412,81 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 06:14:11 +0000",
       "processed_at": "2026-10-11T06:14:23.909030+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Nous Research, the startup behind the open‑source Hermes Agent, closed a $90 million Series B that values the company at $1.5 billion, confirming earlier TechCrunch reports. The round was led by Robot Ventures and included Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, bringing total funding to $158 million. The capital will support the launch of Hermes for Businesses, a product that lets enterprises deploy custom AI agents for multi‑step workflows while keeping data private and secure. By mid‑September 2026 the company was generating roughly $36 million in annual revenue and expects to exceed $100 million by year‑end 2026.\n",
-      "key_points": [
-        "$90 million Series B led by Robot Ventures values Nous Research at $1.5 billion",
-        "Hermes Agent has been cloned over 24 million times and powers about 2.5% of global AI token usage",
-        "Funding will launch Hermes for Businesses, targeting enterprise workflow automation",
-        "Revenue was $36 million in mid‑2026 and the company projects over $100 million by year‑end 2026"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "enterprise",
-        "open source"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 20:48:45 +0000",
-      "processed_at": "2026-10-11T00:21:58.475741+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "title": "Meta's Muse launches on iPad just a month after its mobile debut | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta has released a dedicated iPad app for its Muse AI assistant, a milestone that followed the iPhone launch just a month earlier. Since debuting on iOS and Android on September 8, Muse has amassed more than 6.6 million installs and lets users link accounts to manage email, meetings, bills, and everyday tasks. The iPad version expands the list of available connectors to include small‑business tools such as Asana, Canva, Dropbox, Figma, QuickBooks, GitHub, Klaviyo, Zoom, Notion, and Granola, as well as retail partners like Best Buy, Gap, Sephora, Walmart, and Wayfair. Meta is also collaborating with industry partners to develop an open standard that will allow AI agents to identify themselves to businesses, helping to distinguish legitimate bots from malicious ones.",
-      "key_points": [
-        "Muse is now available on iPad a month after its iPhone launch",
-        "The app has surpassed 6.6 million installs since September 8",
-        "New connectors include small‑business tools and major retail partners",
-        "Meta is working on an open standard to help businesses recognize AI agents"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "ipad",
-        "connectors",
-        "retail"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
-      "processed_at": "2026-10-11T00:22:11.015542+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Justin-Hitesh-Chris-1.jpg?resize=1200,900",
-      "title": "Bloom raises $3.6M to become the 'Alibaba' of American manufacturing | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Bloom, a Detroit‑based startup founded by Justin Kosmides in 2023, pivoted from logistics to an AI‑driven marketplace that connects hardware makers with contract manufacturers, designers, and logistics providers. The company has already facilitated over 2,000 matches for more than 140 customers and raised a $3.6 million seed round led by SNAK Venture Partners, with participation from Flyover Capital, Mana Ventures, and local Michigan investors. Bloom’s platform handles quoting, booking, and payment, and it aggregates data from suppliers to improve matchmaking accuracy. The funding and traction signal a growing appetite for a U.S. manufacturing ecosystem that mirrors Alibaba’s model but is tailored to the hardware sector.",
-      "key_points": [
-        "Bloom shifted from logistics to an AI‑powered marketplace that links hardware makers with suppliers and services",
-        "The startup secured a $3.6 million seed round led by SNAK Venture Partners, with additional backing from Flyover Capital, Mana Ventures, and local Michigan investors",
-        "Bloom has already matched more than 2,000 suppliers to over 140 companies, demonstrating rapid traction",
-        "The platform’s data‑driven matchmaking aims to streamline U.S. hardware supply chains, positioning Bloom as a potential category‑defining player"
-      ],
-      "topics": [
-        "manufacturing",
-        "supplychain",
-        "ai",
-        "marketplace",
-        "startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-11T00:21:58.686118+00:00"
     }
   ]
 }
