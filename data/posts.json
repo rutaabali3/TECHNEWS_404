@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-16T11:00:27.147395+00:00",
+  "updated_at": "2026-10-16T15:21:09.188258+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "echcrunch-com-2026-10-13-licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1092180978.jpg?resize=1200,850",
+      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Licube, a Japanese startup, has developed an electrolyzer that can enrich natural lithium to 99.995% lithium‑6, the isotope needed for tritium breeding in fusion reactors. The company argues that the scarcity of lithium‑6—only about 7.5% of natural lithium—will become a bottleneck as fusion plants seek to produce their own tritium on site. Licube estimates a $50 billion market by 2040 if fusion power becomes commercial, while also targeting semiconductor, pharmaceutical, fission, and spacecraft industries with its purification technology. The startup showcased its pitch at TechCrunch Disrupt’s Startup Battlefield, positioning itself as a key fuel supplier for the future fusion economy.",
+      "key_points": [
+        "Licube’s electrolyzer can enrich lithium to 99.995% lithium‑6, essential for tritium production in fusion reactors.",
+        "Natural lithium‑6 is only 7.5% of lithium, creating a supply gap that fusion plants will need to overcome.",
+        "Licube projects a $50 billion market by 2040 if fusion power comes online.",
+        "Until fusion is viable, the company plans to serve semiconductor, pharmaceutical, fission, and spacecraft markets with its purification tech."
+      ],
+      "topics": [
+        "fusion",
+        "lithium",
+        "energy",
+        "startup",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 20:00:00 +0000",
+      "processed_at": "2026-10-16T15:20:36.467782+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Flox Intelligence, a startup spun out of KTH Royal Institute of Technology, has developed edge AI devices that detect wildlife and emit species‑specific deterrent sounds to keep animals away from trains, airports, roads, and other critical infrastructure. The system uses on‑device perception models trained on wildlife behavior, learns from experience to avoid habituation, and is already deployed in about 150 units across North America, Europe, and Australia. Flox sells the hardware upfront and then charges an annual software and AI subscription, projecting $1.5 million in revenue by the end of 2026. While competitors like Robin Radar and iCHASE offer similar deterrent technologies, Flox claims its advantage lies in the breadth of its data and the adaptability of its system to various outdoor environments.",
+      "key_points": [
+        "Flox’s edge AI devices detect animals and emit species‑specific sounds, learning from experience to prevent habituation",
+        "The company has 150 units live worldwide and plans to scale to several thousand with a $10 million Series A",
+        "Flox’s revenue model combines upfront hardware sales with annual software subscriptions, targeting $1.5 million in 2026",
+        "Its competitive moat is the extensive field data and adaptable perception system for diverse outdoor settings"
+      ],
+      "topics": [
+        "wildlife",
+        "ai",
+        "transportation",
+        "infrastructure",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 18:30:00 +0000",
+      "processed_at": "2026-10-16T15:20:36.102736+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-13-mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1370995239.jpeg?resize=1200,800",
+      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "MIT startup LNK Energies has developed a system that converts existing heavy‑duty diesel trucks into hydrogen‑powered haulers, reducing total cost of ownership by about 13% and cutting emissions. The technology uses liquid organic hydrogen carriers (LOHCs) and a compact on‑board reactor that eliminates the need for high‑pressure compression, allowing the truck to run on a conventional internal‑combustion engine or a fuel cell. LNK plans to install a larger reactor in a commercial truck within 18 months and aims to price the fuel at $6.50 per gallon after producing 50–100 units, without relying on subsidies. The company will showcase its prototype at TechCrunch Disrupt in San Francisco.",
+      "key_points": [
+        "LNK Energies turns diesel Class 8 trucks into hydrogen haulers using LOHCs and a mini‑fridge‑sized reactor.",
+        "The system removes the expensive 11,000‑psi compression step, lowering operating costs by ~13% versus diesel.",
+        "Fuel can be dispensed from standard diesel stations, avoiding new hydrogen infrastructure.",
+        "LNK targets a $6.50 per gallon price after 50–100 trucks, aiming to be cheaper even during early adoption."
+      ],
+      "topics": [
+        "hydrogen",
+        "trucking",
+        "cleanenergy",
+        "startup",
+        "transportation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-16T15:20:52.037306+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-13-cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
@@ -2406,80 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 07 Oct 2026 22:59:16 +0000",
       "processed_at": "2026-10-11T06:13:58.389874+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-07-meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Meta announced the removal of 33.2 million pieces of child sexual exploitation content from Facebook and Instagram in the first half of 2026, with more than 97% of the material detected by its systems before users reported it. The company rolled out new AI tools, including a large‑language‑model system that identifies \"signposting\" ads that appear harmless but redirect users to illegal sites, a red‑team AI agent that tests Meta’s safety defenses, and enhanced scans for repeat offenders. These measures are part of Meta’s effort to curb hidden pathways to child abuse material and respond to regulatory pressure, following an $18 billion settlement with U.S. states over child safety concerns. The rollout also coincides with additional parental controls and safety features introduced earlier in the year.",
-      "key_points": [
-        "Meta removed 33.2 million child exploitation posts in H1 2026, 97% detected before user reports",
-        "New AI LLM detects signposting ads that route users to illegal content",
-        "Red‑team AI agent tests Meta’s safety measures for gaps",
-        "Meta faces an $18 billion lawsuit settlement and adds parental controls"
-      ],
-      "topics": [
-        "child sexual exploitation",
-        "ai safety",
-        "meta",
-        "content moderation",
-        "regulatory pressure"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 16:53:46 +0000",
-      "processed_at": "2026-10-11T06:13:58.133090+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ring_SmartLock_1600x900.jpg?resize=1200,675",
-      "title": "Ring's first smart lock can be hand-cranked when its battery dies | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Ring, the Amazon‑owned video doorbell maker, has launched its first smart lock featuring a hand‑crank power dial that lets users manually recharge the lock when the battery dies, addressing a common barrier to smart lock adoption. The lock, designed by founder Jamie Siminoff after concerns about vacation home batteries, offers a one‑year rechargeable battery, app‑based alerts, and multiple entry methods including fingerprint, keypad, app, and Alexa. Ring plans to release the lock in the U.S. in Q1 2027 after FCC approval and also unveiled four new 4K cameras. The company aims to enable third‑party app integration for specialized use cases like Airbnb hosts.",
-      "key_points": [
-        "Hand‑crank power dial solves battery‑death lockout issue",
-        "Lock supports multiple entry methods and a one‑year battery with app alerts",
-        "Release scheduled Q1 2027 after FCC approval",
-        "Ring also launching four new 4K cameras"
-      ],
-      "topics": [
-        "smart locks",
-        "amazon",
-        "battery",
-        "home automation",
-        "security"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-11T06:13:58.428091+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Elon Musk has publicly accused powerful Indian oligarchs, specifically Mukesh Ambani, of blocking SpaceX’s Starlink satellite internet launch, calling the delay a crime against the people of India. The Indian Ministry of Communications rebuffed Musk’s claims, stating that Starlink and other licensed operators are at the same regulatory stage and that all must complete security assessments before spectrum allocation. Starlink has spent more than five years seeking entry, secured key approvals, partnered with Reliance Jio and Bharti Airtel, and set up a local team, yet still lacks a commercial launch license. The dispute highlights regulatory hurdles and the influence of major Indian telecom players in the country’s expanding internet market.",
-      "key_points": [
-        "Musk accuses oligarchs, especially Mukesh Ambani, of blocking Starlink launch",
-        "Indian Ministry says Starlink is at same regulatory stage as other operators and must complete security checks",
-        "Starlink has spent over five years, secured approvals, partnered with Jio and Airtel, but still lacks a license"
-      ],
-      "topics": [
-        "starlink",
-        "spacex",
-        "india",
-        "regulatory",
-        "mukesh ambani"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 06:14:11 +0000",
-      "processed_at": "2026-10-11T06:14:23.909030+00:00"
     }
   ]
 }

@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-16T11:00:07.007673+00:00",
+  "updated_at": "2026-10-16T15:20:34.896371+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
       "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
       "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
       "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
-    {
-      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-      "feed_excerpt": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-      "published": "Tue, 13 Oct 2026 20:00:00 +0000"
     },
     {
       "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
@@ -24,12 +18,6 @@
       "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
       "feed_excerpt": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
       "published": "Tue, 13 Oct 2026 18:30:03 +0000"
-    },
-    {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "feed_excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "published": "Tue, 13 Oct 2026 18:30:00 +0000"
     },
     {
       "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
       "feed_excerpt": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
       "published": "Tue, 13 Oct 2026 17:18:25 +0000"
-    },
-    {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "feed_excerpt": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000"
     },
     {
       "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
@@ -372,7 +354,25 @@
       "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "feed_excerpt": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
       "published": "Fri, 16 Oct 2026 01:17:43 +0000"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "feed_excerpt": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "published": "Fri, 16 Oct 2026 14:26:51 +0000"
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "feed_excerpt": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "published": "Fri, 16 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "feed_excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "published": "Fri, 16 Oct 2026 12:55:09 +0000"
     }
   ],
-  "last_processed_at": "2026-10-16T11:00:23.268986+00:00"
+  "last_processed_at": "2026-10-16T15:20:52.037367+00:00"
 }
