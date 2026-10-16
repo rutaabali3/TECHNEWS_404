@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:20:34.896371+00:00",
+  "updated_at": "2026-10-16T18:55:49.939276+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -30,18 +30,6 @@
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "published": "Tue, 13 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "feed_excerpt": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "published": "Tue, 13 Oct 2026 17:18:25 +0000"
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "feed_excerpt": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000"
     },
     {
       "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
@@ -372,7 +360,49 @@
       "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
       "feed_excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
       "published": "Fri, 16 Oct 2026 12:55:09 +0000"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "feed_excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "feed_excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "feed_excerpt": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "published": "Fri, 16 Oct 2026 16:06:38 +0000"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "feed_excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "published": "Fri, 16 Oct 2026 16:01:37 +0000"
+    },
+    {
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "feed_excerpt": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "feed_excerpt": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "feed_excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "published": "Fri, 16 Oct 2026 15:33:49 +0000"
     }
   ],
-  "last_processed_at": "2026-10-16T15:20:52.037367+00:00"
+  "last_processed_at": "2026-10-16T18:56:16.945188+00:00"
 }

@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-16T15:21:09.188258+00:00",
+  "updated_at": "2026-10-16T18:56:20.014186+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-13-pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Pluto Security, a stealth‑mode startup that began selling its AI‑security platform in April, has closed a $42 million Series A led by Jump Capital, bringing its total funding to $42 million. The company argues that the rapid adoption of generative‑AI tools in enterprises creates new, hard‑to‑detect security holes, noting that about 60 % of the risks it finds come from non‑developer‑coded applications, especially in finance, marketing and legal departments. Pluto’s solution monitors AI agents in real time, intercepting risky actions and enforcing policies without stopping employees from using AI, and it already reports $2 million in annual recurring revenue from more than 30 enterprise customers such as Oscar Health and AlphaSense. The funding will be used to expand product development, security research and the company’s U.S. presence.\n",
+      "key_points": [
+        "Pluto Security raised $42 million in a Series A, adding to an $8.5 million seed round",
+        "The firm claims 60 % of the security risks it detects stem from AI tools coded by non‑developers, especially in finance, marketing and legal teams",
+        "Pluto’s platform monitors AI agent behavior in real time, allowing interventions before dangerous actions are completed"
+      ],
+      "topics": [
+        "ai security",
+        "startup funding",
+        "enterprise security",
+        "cybersecurity",
+        "artificial intelligence"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 17:18:25 +0000",
+      "processed_at": "2026-10-16T18:55:51.617966+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google Play has introduced a feature that lets users build and run private, vibe‑coded apps on their Android devices through Google Play without publishing them publicly. The apps, created with Google AI Studio, stay hidden from search and listing pages and are only accessible to the creator, though they must still meet Play’s policy guidelines. Initially available to U.S. users 18 and older, the service will later allow sharing with a limited network of trusted friends and, if desired, a transition to a public Play Store listing after a safety review. The move reflects Google’s push to make app development more personal and secure, complementing other AI‑driven enhancements such as Game Finder and Ask Play.",
+      "key_points": [
+        "Private vibe‑coded apps can now be launched on Android via Google Play without public listing.",
+        "Feature available to U.S. users 18+ and will later support sharing with trusted friends.",
+        "Apps must still comply with Play policies and can be moved to public listing after review."
+      ],
+      "topics": [
+        "google play",
+        "ai",
+        "app development",
+        "android",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-16T18:56:16.945090+00:00"
+    },
     {
       "id": "echcrunch-com-2026-10-13-licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt",
       "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1092180978.jpg?resize=1200,850",
@@ -2431,56 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 13:20:32 +0000",
       "processed_at": "2026-10-11T13:18:45.773006+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-last-call-to-volunteer-at-techcrunch-founder-summit-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54570806706_f142202c7b_o.jpg?resize=1200,800",
-      "title": "Last call to volunteer at TechCrunch Founder Summit 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is calling for volunteers to help run its Founder Summit 2026 in Boston, with a deadline of October 19. Volunteers will receive a complimentary ticket to the summit and a free pass to the 2027 Disrupt event in San Francisco, while gaining behind‑the‑scenes experience in event operations. The summit expects about 1,100 attendees and will feature workshops on user growth, fundraising, and brand development. Tasks for volunteers include registration, speaker coordination, guest guidance, ticket scanning, and event setup.",
-      "key_points": [
-        "Volunteer deadline is October 19 for the Founder Summit 2026 in Boston",
-        "Volunteers receive a free summit ticket and a free pass to Disrupt 2027",
-        "The summit will host roughly 1,100 attendees and offer expert workshops",
-        "Volunteer duties cover registration, speaker coordination, guest guidance, ticket scanning, and event setup"
-      ],
-      "topics": [
-        "tech events",
-        "volunteer",
-        "founder summit",
-        "disrupt",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-11T13:18:45.573642+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024",
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders 'elsewhere' | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Endeavor Catalyst has closed its fifth fund, raising $320 million in capital commitments and bringing its total assets under management to more than $850 million. The New York‑based nonprofit’s venture arm focuses on founders outside the Bay Area, with 90 % of its investments made outside the United States and a growing portfolio that includes AI voice tool maker ElevenLabs, Italy‑based Bending Spoons, and the $25 billion Reflection AI. The fund plans to make 40–50 investments annually, targeting up to 150 companies, and has already backed 437 companies in 44 markets, 83 of which are now valued at over $1 billion, with 39 exits and 11 IPOs. Notable limited partners include Reid Hoffman, Bill Ackman, and Prosus, and roughly 30 % of the LPs are founders of Endeavor companies such as Nubank, Revolut, and Checkout.com.",
-      "key_points": [
-        "$320 million fifth fund focuses on founders outside Silicon Valley",
-        "90 % of Endeavor Catalyst’s investments are made outside the U.S.",
-        "The fund has backed 437 companies, 83 now valued over $1 billion, with 39 exits and 11 IPOs",
-        "Notable holdings include ElevenLabs ($22 billion), Bending Spoons ($26 billion), and Reflection AI ($25 billion)"
-      ],
-      "topics": [
-        "venture capital",
-        "founders",
-        "global",
-        "ai",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 22:59:16 +0000",
-      "processed_at": "2026-10-11T06:13:58.389874+00:00"
     }
   ]
 }
