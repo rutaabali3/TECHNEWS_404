@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-17T04:52:17.026986+00:00",
+  "updated_at": "2026-10-17T09:04:55.015308+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-prismm-helps-banks-keep-inherited-money-in-house",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+      "title": "Prismm helps banks keep inherited money in-house | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Prismm, a fintech startup founded in 2020 by sisters Martha Underwood and Shella Sylla, is building beneficiary and estate‑planning features directly into bank accounts to simplify the transfer of assets after a customer’s death. By allowing account holders to designate family members and store documents in a secure, integrated platform, Prismm enables remote, frictionless beneficiary transfers that keep inherited money within the original institution. The company unveiled its mission on the Startup Battlefield stage at TechCrunch Disrupt 2026 and offers three products—Designate, Anchor, and the upcoming Continuity—to help banks reduce annual “estate attrition” losses. Prismm positions itself as the infrastructure that banks can use to retain customers and their assets across generations.\n",
+      "key_points": [
+        "Prismm embeds beneficiary and estate‑planning tools into bank accounts from day one to streamline post‑death asset transfers.",
+        "The startup’s products—Designate, Anchor, and Continuity—provide digital designation, secure asset tracking, and step‑by‑step transfer guidance for banks and families.",
+        "By reducing estate attrition, Prismm helps financial institutions keep inherited deposits and potentially attract new customers.\n"
+      ],
+      "topics": [
+        "banking",
+        "fintech",
+        "estateplanning",
+        "startup",
+        "techcrunch"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-17T09:04:36.419857+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "title": "Floqer's AI agents research sales prospects so teams don't have to | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Floqer, a 2024‑founded startup, is building an autonomous customer knowledge platform that uses AI agents to continuously research and update B2B sales prospects, claiming to cut prospecting time by up to 70%. The company plans to open‑source its database in early 2027 after completing security reviews, a move driven by customer demand for self‑hosted solutions. Floqer has already surpassed $1.2 million in annual recurring revenue and seen its overall revenue grow roughly tenfold in the past year, while raising $2 million in pre‑seed funding. With eight employees and more than 1,000 customers—including Perplexity, Wise, and AngelList—Floqer will pitch its technology on the Startup Battlefield stage at TechCrunch Disrupt 2026.",
+      "key_points": [
+        "Floqer’s AI agents automate B2B sales research, reducing prospecting time by up to 70%",
+        "The startup plans to open‑source its autonomous customer knowledge database in early 2027 after security reviews",
+        "Floqer has surpassed $1.2 million ARR and grown revenue tenfold in a year",
+        "It has raised $2 million pre‑seed, has 8 employees, and serves over 1,000 customers such as Perplexity, Wise, and AngelList"
+      ],
+      "topics": [
+        "ai",
+        "sales",
+        "startup",
+        "open-source",
+        "crm"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-17T09:04:36.661901+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-10-14-save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
@@ -2428,56 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 18:30:00 +0000",
       "processed_at": "2026-10-11T22:19:12.836366+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "OpenAI's revenue is reportedly $20 billion less than previously projected | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "OpenAI has informed investors that its annualized revenue is closer to $50 billion, a $20 billion drop from the previously reported $70 billion figure. The earlier estimate was based on investor attempts to match Anthropic’s revenue calculation, which includes cloud partner sales that OpenAI does not count. The revelation comes as the company has raised $122 billion in a March funding round and has postponed its IPO to early 2027. Investors are now scrutinizing the justification for the massive capital injections amid the revised revenue outlook.",
-      "key_points": [
-        "OpenAI’s annualized revenue is now reported at about $50 billion, down $20 billion from the earlier $70 billion estimate.",
-        "The discrepancy stems from differing revenue calculation methods between OpenAI and Anthropic, with Anthropic including cloud partner sales.",
-        "OpenAI raised $122 billion in March and has delayed its IPO to early 2027.",
-        "Investor confidence is being tested as the company seeks to justify large investments against the revised revenue figures."
-      ],
-      "topics": [
-        "openai",
-        "revenue",
-        "anthropic",
-        "investments",
-        "ipo"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "processed_at": "2026-10-11T22:19:23.469096+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Waymo, the autonomous‑vehicle arm of Alphabet, has secured its first debt financing—a $5 billion loan from a consortium that includes Blackstone, PIMCO, and Sixth Street, among others. The capital is intended to accelerate the company’s commercial robotaxi rollout in existing U.S. markets and to launch services in Europe and Japan, while bolstering its balance sheet. Waymo has already expanded to 15 U.S. cities and is testing in London and Tokyo, positioning itself as a scaling commercial enterprise. The move comes amid growing regulatory scrutiny over incidents involving its robotaxis near school buses.",
-      "key_points": [
-        "Waymo closed a $5 billion loan from major lenders, marking its first debt financing.",
-        "The funds will support expansion into new U.S., European, and Japanese markets and strengthen the company’s balance sheet.",
-        "Waymo’s robotaxi service now operates in 15 U.S. cities and is testing in London and Tokyo.",
-        "The company faces investigations from the NHTSA and NTSB over alleged illegal behavior near school buses."
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "financing",
-        "robotaxi",
-        "waymo",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 14:16:56 +0000",
-      "processed_at": "2026-10-11T22:19:10.271257+00:00"
     }
   ]
 }

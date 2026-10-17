@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:51:47.551513+00:00",
+  "updated_at": "2026-10-17T09:04:34.934127+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -38,22 +38,10 @@
       "published": "Wed, 14 Oct 2026 11:00:00 +0000"
     },
     {
-      "title": "Prismm helps banks keep inherited money in-house",
-      "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-      "feed_excerpt": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
-    },
-    {
       "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
       "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
       "feed_excerpt": "Zenzap is used by organizations including Starbucks and Taco Bell.",
       "published": "Wed, 14 Oct 2026 15:08:00 +0000"
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "feed_excerpt": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "published": "Wed, 14 Oct 2026 15:00:00 +0000"
     },
     {
       "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
@@ -374,5 +362,5 @@
       "published": "Sat, 17 Oct 2026 02:36:18 +0000"
     }
   ],
-  "last_processed_at": "2026-10-17T04:52:15.320116+00:00"
+  "last_processed_at": "2026-10-17T09:04:36.661992+00:00"
 }
