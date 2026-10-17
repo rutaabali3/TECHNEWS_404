@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-17T00:18:35.376688+00:00",
+  "updated_at": "2026-10-17T04:52:17.026986+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "tps-techcrunch-com-2026-10-14-save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+      "title": "Save 50% on your Disrupt 2026 ticket | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is offering a 50% discount on its Disrupt 2026 tickets for the remaining two days of the event, which runs from October 13 to 15 at Moscone West in San Francisco. The promotion includes full access to the main stage, two AI stages featuring leaders from OpenAI, Anthropic, Hugging Face, and more, as well as 320+ exhibitors and the Startup Battlefield 200 pitch competition. Key speakers include Mark Wahlberg, Replit CEO Amjad Masad, Benchmark partners, Amazon’s Panos Panay, and Bluesky’s Toni Schneider. The discount is aimed at founders and entrepreneurs looking to network, secure funding, and learn from industry leaders before the event concludes on October 16.",
+      "key_points": [
+        "50% off all ticket types for the last two days of Disrupt 2026",
+        "Event runs Oct. 13‑15 at Moscone West with 320+ exhibitors and AI stages",
+        "Speakers include Mark Wahlberg, Amjad Masad, Benchmark partners, Panos Panay, and Toni Schneider",
+        "Discount targets founders seeking networking and investment opportunities"
+      ],
+      "topics": [
+        "tech events",
+        "discount",
+        "startup",
+        "ai",
+        "techcrunch"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 15:13:24 +0000",
+      "processed_at": "2026-10-17T04:51:49.076543+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1425330574.jpg?resize=1200,800",
+      "title": "Niobia takes the guesswork out of some of tech's most expensive mistakes | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "San Francisco‑based startup Niobia has built an AI system that places on‑device GPU agents on battery and semiconductor production lines to spot pinhole‑sized defects and instantly surface root‑cause explanations via a chatbot. By delivering answers in minutes instead of days, the technology can cut defect‑related costs that sometimes reach millions and accelerate production resumption. Niobia’s agents run on open‑source models that the company further trains, keeping sensitive data on‑premises and giving customers full control of encryption keys. The company, a Battlefield finalist at TechCrunch Disrupt 2026, is focusing on film coating, electroplating and fluidized‑bed reaction processes with the long‑term goal of fully autonomous factories.",
+      "key_points": [
+        "Niobia’s AI agents detect micro‑defects on production lines and provide rapid root‑cause analysis via a chatbot",
+        "The startup uses on‑device GPUs and open‑source models to keep proprietary data secure and address cybersecurity concerns",
+        "Niobia targets high‑value battery and semiconductor markets, aiming to automate processes and build fully autonomous factories",
+        "The company is a Battlefield finalist at TechCrunch Disrupt 2026"
+      ],
+      "topics": [
+        "ai",
+        "manufacturing",
+        "semiconductors",
+        "batteries",
+        "cybersecurity"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 19:00:00 +0000",
+      "processed_at": "2026-10-17T04:52:15.320030+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-deezer-will-soon-let-you-filter-out-ai-generated-music",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
@@ -2428,56 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 14:16:56 +0000",
       "processed_at": "2026-10-11T22:19:10.271257+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-vesta-raises-30m-as-lenders-adopt-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Vesta.jpg?resize=1200,776",
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Vesta, an AI‑native mortgage origination startup, closed a $30 million funding round led by Conversion Capital and backed by investors such as Citi Ventures, Andreessen Horowitz, Pennymac, and New American Funding. The company uses AI agents to automate the multi‑stage loan origination process, cutting the typical 40‑day U.S. mortgage close and the $11,000 per‑loan cost, and its revenue has grown 12‑fold year over year. With a total of $85 million raised to date, Vesta plans to launch new product lines—including a personal assistant for mortgage issuers—and to expand its market share beyond the current under‑5% slice of the industry. The move positions Vesta against legacy mortgage systems and other AI‑native competitors, leveraging recent advances such as Claude Sonnet 4.5 to deliver more reliable agent autonomy.",
-      "key_points": [
-        "$30 million round led by Conversion Capital with participation from Citi Ventures, Andreessen Horowitz, Pennymac and New American Funding",
-        "Vesta’s AI agents automate loan origination, reducing processing time and cost while its revenue grew 12× YoY",
-        "The startup aims to expand beyond its current <5% market share with new product lines such as a personal assistant",
-        "Vesta competes with legacy mortgage tech and other AI‑native firms, using advances like Claude Sonnet 4.5 for improved agent performance"
-      ],
-      "topics": [
-        "ai",
-        "mortgage",
-        "fintech",
-        "startup",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
-      "processed_at": "2026-10-11T22:19:10.670180+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-07-greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/greenairy-1.jpeg?resize=1200,670",
-      "title": "Greenairy is building smart plant towers to clean the air in your office | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Greenairy, founded by Tanvi Thombre and Lakshya Saraf, is developing plant‑based towers that actively break down toxic gases such as VOCs in office environments, offering a natural alternative to conventional air purifiers. In Singapore pilots, the towers cut daily VOC levels by 50% and outperformed a medical‑grade ionizer and a HEPA purifier, earning validation from TÜV SÜD. The founders, split between Singapore and Berkeley, plan to begin large‑scale manufacturing in the first half of 2027 and roll out the first mass‑produced towers in Singapore.",
-      "key_points": [
-        "Greenairy’s plant towers reduced VOCs by 50% in pilot tests and outperformed ionizers and HEPA filters",
-        "The startup’s results were validated by TÜV SÜD and will be published soon",
-        "Founders operate from Singapore and Berkeley, aiming to launch mass production in 2027",
-        "The towers provide a natural, maintenance‑free solution that improves indoor air quality and occupant well‑being"
-      ],
-      "topics": [
-        "air quality",
-        "startup",
-        "technology",
-        "health",
-        "environment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 07 Oct 2026 17:30:00 +0000",
-      "processed_at": "2026-10-11T18:20:22.722809+00:00"
     }
   ]
 }
