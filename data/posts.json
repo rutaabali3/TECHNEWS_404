@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-17T09:04:55.015308+00:00",
+  "updated_at": "2026-10-17T13:06:56.726960+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-techcrunch-disrupt-2026-day-2",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
+      "title": "Disrupt 2026: Day 2 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "Day 2 of TechCrunch Disrupt 2026 in San Francisco’s Moscone West opened with more than 10,000 founders, investors and tech leaders exploring 300+ startups in the Expo Hall. The day’s agenda centered on AI, robotics, public safety and venture investment, featuring speakers from Nvidia, Waabi, Flock Safety, Ricursive Intelligence and Benchmark. Attendees could network through AI‑powered matchmaking, watch live startup pitches, and join breakout sessions on building AI systems, securing the AI enterprise and scaling physical‑world robots. The event also offered a 50 % discount on walk‑up passes and highlighted the $100,000 equity‑free prize for the Startup Battlefield finalists.",
+      "key_points": [
+        "TechCrunch Disrupt 2026 Day 2 attracted over 10,000 attendees and showcased 300+ startups in the Expo Hall.",
+        "The agenda focused on AI, robotics, public safety and venture investment with speakers from Nvidia, Waabi, Flock Safety, Ricursive Intelligence and Benchmark.",
+        "AI‑powered matchmaking and live startup pitches enabled networking and discovery of investment opportunities.",
+        "Walk‑up passes were discounted 50 % and the Startup Battlefield offered a $100,000 equity‑free prize."
+      ],
+      "topics": [
+        "tech",
+        "startup",
+        "ai",
+        "robotics",
+        "venture"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 14:30:00 +0000",
+      "processed_at": "2026-10-17T13:06:26.471301+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-prismm-helps-banks-keep-inherited-money-in-house",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
@@ -2452,31 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 18:16:24 +0000",
       "processed_at": "2026-10-12T01:36:00.573932+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1592854555-1.jpg?resize=1200,855",
-      "title": "Watch the trailer for 'The Altruists,' Netflix's show about the FTX scandal | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Netflix’s upcoming series “The Altruists” dramatizes the rise and fall of FTX founder Sam Bankman‑Fried and chief risk officer Caroline Ellison, with Anthony Boyle and Julia Garner in the lead roles. The show, co‑showrunner Graham Moore says is based on real characters he could not have invented, will premiere on November 19, just in time for Thanksgiving. By turning the ethical contradictions of effective altruism into a narrative, Netflix aims to give viewers a fresh perspective on the crypto collapse that sent both men to prison. The trailer has already sparked interest among tech and entertainment audiences eager for another high‑profile true‑story drama.",
-      "key_points": [
-        "Netflix series “The Altruists” focuses on the FTX scandal featuring Sam Bankman‑Fried and Caroline Ellison",
-        "Anthony Boyle portrays Sam Bankman‑Fried and Julia Garner portrays Caroline Ellison",
-        "The show premieres on November 19",
-        "Co‑showrunner Graham Moore emphasizes the authenticity of the characters"
-      ],
-      "topics": [
-        "netflix",
-        "ftx",
-        "crypto",
-        "drama",
-        "true story"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:30:00 +0000",
-      "processed_at": "2026-10-11T22:19:12.836366+00:00"
     }
   ]
 }
