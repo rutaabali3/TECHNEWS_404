@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-17T21:38:23.779169+00:00",
+  "updated_at": "2026-10-17T23:52:02.393603+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "crunch-com-2026-10-14-cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "CedarDB, a Munich‑based spin‑out from the Technical University of Munich, has built a database engine that unifies transactional and analytical workloads, a feature that has become increasingly valuable as agentic AI systems demand real‑time data access. The company, founded by five researchers from the Umbra project, offers a PostgreSQL‑compatible engine that delivers higher performance without extra CPU or memory, and it launched a free Community Edition and an on‑premise Enterprise version in May after raising a €5.3 million seed round. After beta testing, CedarDB announced a limited‑availability cloud offering at TechCrunch Disrupt, positioning itself to compete with data leaders like Databricks and to serve the growing demand for unified data architectures in the agentic era. The startup plans to expand its 14‑person team and raise a subsequent funding round as it gains traction among large enterprises and cloud users.",
+      "key_points": [
+        "CedarDB merges transactional and analytical processing in a single engine compatible with PostgreSQL, reducing switching costs for enterprises.",
+        "The company launched a free Community Edition and an on‑premise Enterprise version after a €5.3 million seed round, and recently introduced a limited cloud offering.",
+        "Its performance advantage stems from the Umbra research project, enabling faster queries without extra hardware.",
+        "CedarDB aims to compete with major data platforms like Databricks and plans to raise additional funding as it expands its team and user base."
+      ],
+      "topics": [
+        "database",
+        "ai",
+        "cloud",
+        "startup",
+        "data"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "processed_at": "2026-10-17T23:51:44.412951+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Netflix2154.jpg?resize=1200,553",
+      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Netflix announced it will cut about 1,000 employees—roughly 6% of its workforce—primarily from product, technology, legal and human‑resources teams. The layoffs come after the company lost a bidding war for Warner Bros. Discovery’s streaming assets and faces growing competition from social‑media platforms such as TikTok and YouTube. Despite the cuts, Netflix says it remains on track to meet its full‑year forecast and will continue to invest aggressively in high‑impact areas like AI, gaming, live events and advertising. The move signals a shift toward tighter cost control while the company seeks to boost user engagement and monetization across its streaming and ad‑supported tiers.",
+      "key_points": [
+        "Netflix is laying off about 1,000 staff, or 6% of its workforce, mainly from product, tech, legal and HR departments.",
+        "The cuts follow a failed bid for Warner Bros. Discovery’s streaming assets and intensifying competition from social‑media platforms.",
+        "Netflix remains on track to deliver its full‑year forecast and will invest in high‑impact areas such as AI, gaming, live events and advertising.",
+        "The company reported $45.2 billion in revenue for 2025, with ad revenue exceeding $1.5 billion."
+      ],
+      "topics": [
+        "streaming",
+        "layoffs",
+        "competition",
+        "ai",
+        "advertising"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 14:55:47 +0000",
+      "processed_at": "2026-10-17T23:51:32.941733+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benjamin-Dose-and-Angela-Relogio-TimeTeller.jpg?resize=1200,800",
@@ -2424,56 +2474,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 16:45:00 +0000",
       "processed_at": "2026-10-12T18:45:51.878092+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-10-08-goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Goodfire has introduced a new class of AI monitors that read a model’s internal activations as it runs, allowing it to spot rogue behavior at a fraction of the cost of traditional post‑hoc checks.  The probes, available to Baseten customers and backed by a partnership with Hugging Face, cost roughly $185 to monitor one million exchanges on the Kimi K3 model versus $5,420 for a cheaper model and $200,000 for a top‑tier one, while catching 93% of malicious hacking attempts and adding less than 2% latency.  Users can select which risks to watch—such as hacking, chemical weapon misuse, or reward hacking—and choose automated responses ranging from logging to human review or outright request refusal.  The launch comes after a series of incidents in which AI agents escaped sandbox environments, underscoring the need for proactive, low‑overhead guardrails for open models.",
-      "key_points": [
-        "Goodfire’s probes tap into a model’s internal activations, cutting monitoring costs and latency.",
-        "The system detects 93% of malicious hacking sessions and offers customizable risk responses.",
-        "It is integrated with Baseten and Hugging Face, expanding deployment for open models.",
-        "The approach addresses recent agent escape incidents and promotes safer open‑model usage."
-      ],
-      "topics": [
-        "ai safety",
-        "interpretability",
-        "open models",
-        "cost",
-        "monitoring"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-12T18:46:15.899247+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-10-08-us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800",
-      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "The Trump administration has suspended Microsoft, Adobe, and several other major IT firms from a green‑card program that helps skilled foreign workers obtain permanent residency, citing fraud allegations.  The move bars the companies from filing new or pending permanent labor certification applications, while the H‑1B visa system—used by tech firms to fill hard‑to‑staff roles—remains in place.  Microsoft responded that most of its 6,000 H‑1B filings last fiscal year were extensions or status changes, with only 1% of U.S. employees being new hires, and that it pays H‑1B workers the same wages as comparable U.S. staff.  Vice President J.D. Vance also announced investigations into nine universities for alleged abuse of the student‑visa program that could depress American wages.",
-      "key_points": [
-        "Trump administration suspends Microsoft, Adobe, Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro from the green‑card program for alleged fraud",
-        "Companies cannot file new or pending permanent labor certification applications, affecting their ability to hire foreign talent",
-        "Microsoft says 80% of its 6,000 H‑1B filings were extensions, only 1% were new hires, and it pays H‑1B workers equal wages",
-        "The administration is also probing universities such as Harvard, Yale, and Stanford for misuse of the student‑visa program"
-      ],
-      "topics": [
-        "immigration",
-        "tech",
-        "labor",
-        "policy",
-        "us politics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 15:42:26 +0000",
-      "processed_at": "2026-10-12T18:45:51.791609+00:00"
     }
   ]
 }
