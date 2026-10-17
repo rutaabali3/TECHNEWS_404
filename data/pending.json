@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T13:06:24.830755+00:00",
+  "updated_at": "2026-10-17T16:35:27.079494+00:00",
   "items": [
     {
       "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
@@ -18,12 +18,6 @@
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "published": "Tue, 13 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "feed_excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "published": "Tue, 13 Oct 2026 16:30:00 +0000"
     },
     {
       "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
@@ -48,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
       "feed_excerpt": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
       "published": "Wed, 14 Oct 2026 14:55:47 +0000"
-    },
-    {
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "feed_excerpt": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "published": "Wed, 14 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
@@ -354,7 +342,13 @@
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
       "feed_excerpt": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
       "published": "Sat, 17 Oct 2026 02:36:18 +0000"
+    },
+    {
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "feed_excerpt": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "published": "Sat, 17 Oct 2026 15:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-17T13:06:26.471386+00:00"
+  "last_processed_at": "2026-10-17T16:35:28.635718+00:00"
 }

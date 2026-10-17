@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-17T13:06:56.726960+00:00",
+  "updated_at": "2026-10-17T16:35:58.453041+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NTangible-Stills-11.jpg?resize=1200,675",
+      "title": "NTangible bets it can predict how athletes will perform under pressure | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "NTangible has introduced the Clutch Factor assessment, a psychological test that scores athletes on their likelihood to perform under pressure. The tool, developed with psychologist Dr. Ed Levine, uses neurolinguistic analysis of responses to ambiguous images and produces a score from 0 to 1,000, with scores above 750 indicating a high probability of committing to a Division I program. NTangible plans to sell the platform to sports organizations and companies, and it also envisions a corporate version called NTerpret to evaluate employees’ performance in high‑stress situations. The company will detail its strategy at TechCrunch Disrupt, where it is a top contender in Startup Battlefield.",
+      "key_points": [
+        "NTangible’s Clutch Factor assessment predicts athletes’ performance under pressure using neurolinguistic scoring",
+        "Scores above 750 double the likelihood of a Division I commitment",
+        "The platform targets sports organizations and corporate HR, with a planned NTerpret version for workplace settings"
+      ],
+      "topics": [
+        "sports tech",
+        "psychology",
+        "recruiting",
+        "data analytics",
+        "corporate hr"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-17T16:35:28.635624+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-10-13-satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Satlyt, a startup founded by former Google and SpaceX engineer Rama Afullo, has launched its satellite‑software platform on a SpaceX rocket alongside Google’s Project Suncatcher prototype, marking the first joint orbital deployment of the two companies’ space data‑center efforts.  The company, which raised an $8 million seed round led by Non Sibi Ventures, builds AI‑enabled software that lets satellites run complex workloads without needing ground‑based control, aiming to create a shared compute cloud in orbit.  Satlyt’s approach focuses on operational efficiencies—such as reducing downlink data by over 60% with DeepMind’s Gemma model—rather than building spacecraft, and it plans to be live on 20% of satellites by the end of the decade.  The launch, featuring a TakeMe2Space satellite carrying NASA, Stellerian, and TakeMe2Space itself, demonstrates Satlyt’s strategy of offering a horizontally integrated, open‑ecosystem platform for multiple satellite operators.",
+      "key_points": [
+        "Satlyt’s software was launched on a SpaceX rocket alongside Google’s Project Suncatcher prototype",
+        "The company raised an $8 million seed round led by Non Sibi Ventures",
+        "Satlyt focuses on AI workloads on satellites, not building spacecraft, to create a shared orbital compute cloud",
+        "It aims to be installed on 20% of satellites by the end of the decade"
+      ],
+      "topics": [
+        "satellite computing",
+        "orbital data centers",
+        "ai in space",
+        "startup",
+        "space technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
+      "processed_at": "2026-10-17T16:35:28.399784+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-techcrunch-disrupt-2026-day-2",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
@@ -2428,55 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 18:19:45 +0000",
       "processed_at": "2026-10-12T01:36:12.688524+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
-      "title": "Google brings agentic AI to Gemini, starting with businesses | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google announced that its Gemini AI will now include a unified agent capable of not only answering questions but also executing tasks on behalf of users, marking a shift toward agentic AI. The new agent can plan work, use custom skills, and connect to business systems such as Google Workspace, Microsoft 365, Slack, Jira, and various data platforms, all from a single interface. Initially the focus will be on enterprise customers—over 90% of Fortune 100 firms already use Gemini Enterprise—before a consumer rollout. The agent will feature a tasks inbox, audit trail, and flexible model selection, including third‑party options like Anthropic’s Claude, to help businesses manage security, scale, and cost.",
-      "key_points": [
-        "Gemini’s new agent can plan and execute tasks across multiple business tools from one interface",
-        "Enterprise adoption is high, with 90% of Fortune 100 firms using Gemini Enterprise, so the launch targets businesses first",
-        "The agent supports model selection, including third‑party and future open‑source models, and offers cost controls for enterprises"
-      ],
-      "topics": [
-        "google",
-        "gemini",
-        "agentic ai",
-        "enterprise ai",
-        "cloud"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "processed_at": "2026-10-12T01:35:55.289532+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Anthropic has updated its usage policy to explicitly ban prolonged verbal abuse of its Claude model, along with new prohibitions on election interference, weapons software, and deceptive campaigns. The policy clarifies that only extreme, purposeless cruelty toward the model is disallowed, while normal frustration or research use remains permitted. The changes come after the company engaged religious scholars in discussions about Claude’s potential consciousness, raising concerns about misuse. The update underscores Anthropic’s effort to curb harmful applications and protect democratic processes.",
-      "key_points": [
-        "Prohibition of prolonged verbal abuse toward Claude, limiting only extreme, purposeless cruelty.",
-        "New bans on election interference, weapons software, and deceptive fake accounts.",
-        "Policy clarifies that normal frustration or research use is still allowed.",
-        "Anthropic’s policy update follows controversial outreach to religious scholars about Claude’s consciousness."
-      ],
-      "topics": [
-        "ai policy",
-        "anthropic",
-        "election interference",
-        "model abuse",
-        "religious scholars"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "processed_at": "2026-10-12T01:36:00.573932+00:00"
     }
   ]
 }
