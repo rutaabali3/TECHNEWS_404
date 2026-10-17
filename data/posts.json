@@ -1,7 +1,101 @@
 {
-  "updated_at": "2026-10-17T19:06:29.903374+00:00",
+  "updated_at": "2026-10-17T21:38:23.779169+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benjamin-Dose-and-Angela-Relogio-TimeTeller.jpg?resize=1200,800",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "TimeTeller, a German startup led by physicist‑engineer Angela Relógio, has launched a saliva‑based test that measures a person’s circadian rhythm to help time cancer treatments more precisely. The company cautions that the kit is a diagnostic tool for clinical studies rather than a direct prescription aid, and it has secured a reimbursement partnership with Germany’s Techniker Krankenkasse for a subset of cancer patients. Relógio’s background in oncology and circadian biology informs the company’s long‑term goal of reducing treatment side effects and improving outcomes by aligning therapy with each patient’s internal clock. Beyond oncology, TimeTeller envisions applying its timing insights to metabolic, neurodegenerative, and women’s health conditions as part of a broader precision‑medicine vision.",
+      "key_points": [
+        "TimeTeller offers a saliva‑based circadian rhythm test to personalize cancer treatment timing.",
+        "The test is intended for clinical studies, not for patients to self‑dose treatments.",
+        "The startup has a reimbursement partnership with Techniker Krankenkasse for a subset of cancer patients.",
+        "TimeTeller plans to extend its timing approach to metabolic, neurodegenerative, and women’s health.",
+        ""
+      ],
+      "topics": [
+        "personalized medicine",
+        "circadian biology",
+        "cancer treatment",
+        "healthtech",
+        "direct‑to‑consumer testing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 20:00:00 +0000",
+      "processed_at": "2026-10-17T21:37:53.555894+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "YouTube Music has rolled out a new labeling system that flags songs created with generative AI, allowing listeners to see whether a track is fully AI‑generated, partly AI‑generated, or contains no AI elements. The labels appear on the player page and in the main YouTube app, and clicking them reveals details about the AI’s role in composition or vocals. The move comes amid a surge of AI‑generated music on streaming platforms, with rivals such as Apple Music, Spotify, Deezer, and TIDAL also introducing their own AI transparency tags or filtering options. Unlike some services that restrict AI tracks, YouTube focuses on disclosure and permits monetization of AI‑involved songs while experimenting with its own AI‑powered music tools.",
+      "key_points": [
+        "YouTube Music introduces three AI labels—Fully Gen AI, Partly Gen AI, and No Gen AI—to identify AI involvement in tracks.",
+        "The labels are displayed on the player and main app, and clicking them provides detailed information about the AI’s contribution.",
+        "Other streaming services are adopting similar AI transparency measures, with Apple Music, Spotify, Deezer, and TIDAL adding tags or filters for AI‑generated music.",
+        "YouTube’s approach emphasizes disclosure over restriction, allowing AI‑involved tracks to remain monetizable while informing listeners."
+      ],
+      "topics": [
+        "youtube",
+        "music",
+        "ai",
+        "streaming",
+        "transparency"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 18:23:46 +0000",
+      "processed_at": "2026-10-17T21:38:07.048753+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Zenzap has raised $44 million in a round led by Bessemer, Lightspeed and The Garage, bringing the AI‑powered private messenger into the spotlight as a potential replacement for WhatsApp in the workplace. The app blends standard chat, group messaging, task and calendar integration with AI features such as voice chat, search and workflow automation, and is positioned for non‑developer employees across industries from hospitality to healthcare. Founder Guy Weiss, who previously bootstrapped StuccoMedia, said he only turned to venture capital after meeting Bessemer partner Adam Fisher, and the company already counts clients like FedEx, Dollar General, Taco Bell and Starbucks. The funding and early traction signal a push toward secure, AI‑enhanced communication tools that separate work from personal messaging.\n",
+      "key_points": [
+        "Zenzap secured $44M from Bessemer, Lightspeed, The Garage and individual investors.",
+        "The platform combines standard messaging with AI‑driven voice, task management and workflow automation for non‑developer staff.",
+        "Founder Guy Weiss moved from bootstrapping to venture‑backed after meeting Bessemer partner Adam Fisher.",
+        "Early clients include FedEx, Dollar General, Taco Bell and Starbucks, showing cross‑industry traction."
+      ],
+      "topics": [
+        "ai",
+        "messaging",
+        "startup",
+        "funding",
+        "workplace communication"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 15:08:00 +0000",
+      "processed_at": "2026-10-17T21:37:54.092760+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-13-laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Laplace Intelligence, an Ann Arbor‑based startup, is developing automated red‑team testing for physical AI systems such as robots and autonomous vehicles, using high‑fidelity simulations built from real‑world data and AI agents that generate corner cases. The company, founded by former University of Michigan researchers Howie Sun and Henry Liu, has already secured revenue from autonomous trucking firm Bot Auto and a major Japanese automaker, and is piloting smart‑city traffic operations with Nvidia and T‑Mobile. Laplace plans to raise funds at TechCrunch Disrupt and shift from project‑based contracts to recurring revenue, positioning its AI‑driven testing as a new paradigm that could become a key moat against rivals like Applied Intuition. The startup’s approach aims to ensure physical AI is safe before deployment by continuously probing systems in interactive, realistic simulations.\n",
+      "key_points": [
+        "Laplace uses AI agents to automatically generate edge‑case scenarios in realistic simulations for testing physical AI systems.",
+        "The startup has already generated revenue from autonomous vehicle customers and is piloting smart‑city traffic solutions with Nvidia and T‑Mobile.",
+        "It seeks to move from project‑based contracts to recurring revenue and plans to raise funds at TechCrunch Disrupt to scale its offering."
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 17:30:00 +0000",
+      "processed_at": "2026-10-17T21:37:54.140342+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/EV-charging-Getty.jpg?resize=1200,830",
@@ -2380,103 +2474,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 15:42:26 +0000",
       "processed_at": "2026-10-12T18:45:51.791609+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-08-new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
-      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "New York has filed a lawsuit accusing TikTok of giving teens and children a placebo safety feature instead of a real one during an experiment. The company allegedly tested a non‑functional \"Algo Refresh\" tool on thousands of users, allowing them to believe they could reset their recommendations while their feeds remained unchanged. The suit is part of more than two dozen state cases that claim TikTok designs its platform to encourage addictive use and misleads users about safety. The lawsuit also references other experiments that withheld safety features from millions of U.S. users, including a teenager who later died by suicide.",
-      "key_points": [
-        "TikTok allegedly provided a non‑functional \"Algo Refresh\" safety feature to teens and children in a test.",
-        "New York’s lawsuit joins over 24 state cases accusing TikTok of encouraging addictive use and misleading safety claims.",
-        "Other experiments reportedly withheld safety features from millions of U.S. users, linked to a teen suicide.",
-        "TikTok has not yet commented on the allegations."
-      ],
-      "topics": [
-        "tiktok",
-        "safety",
-        "childrensafety",
-        "lawsuit",
-        "socialmedia"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 15:06:17 +0000",
-      "processed_at": "2026-10-12T18:46:00.793990+00:00"
-    },
-    {
-      "id": "-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-      "title": "Ambrosia Energy and Bloom Energy join Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a Smart Systems Stage session with Ben Longmier of Ambrosia Energy and Bill Thayer of Bloom Energy discussing how the AI infrastructure boom is creating new business opportunities. The conversation will examine constraints in power, grid, data centers, cooling, and other physical components that are becoming bottlenecks as AI demand grows. The session aims to help founders, investors, and tech leaders identify durable markets beyond traditional AI applications, including energy, data center solutions, and emerging infrastructure categories. Attendees can learn where capital is flowing and how to position themselves for the next wave of AI‑driven physical‑world solutions.",
-      "key_points": [
-        "AI scaling relies on physical infrastructure such as power, grid, data centers, and cooling",
-        "Ambrosia Energy and Bloom Energy will discuss constraints and new market opportunities",
-        "Founders and investors should look beyond software to energy, cooling, and infrastructure software",
-        "Disrupt 2026 offers 200+ sessions and 250+ speakers"
-      ],
-      "topics": [
-        "ai infrastructure",
-        "disrupt 2026",
-        "energy",
-        "data centers",
-        "startup ecosystem"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-12T18:45:51.720681+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-openais-math-solutions-arent-meeting-the-fields-standards-yet",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
-      "title": "OpenAI's math solutions aren't meeting the field's standards yet | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI recently released hundreds of claimed solutions to hard math problems, but the Advisory Group on Mathematics and Artificial Intelligence (AGMAI) says the proofs fall short of its guidelines, especially in human understanding and formal verification. Only 10 of 719 manuscripts included the model’s chain of thought, and just 42% of proofs were formally verified in Lean, leaving gaps between natural‑language explanations and machine‑readable code. The group urged OpenAI to stop testing proprietary models on open research problems and to provide metadata linking natural language and formal artifacts, but the lab has not complied. The criticism highlights the need for human mathematicians to review AI‑generated proofs to ensure they are trustworthy and meaningful to the broader community.",
-      "key_points": [
-        "OpenAI's math proofs lack full chain-of-thought and formal verification, meeting only 42% of AGMAI's formalization guidelines.",
-        "AGMAI urged OpenAI to halt proprietary testing on open problems and provide metadata linking natural language and Lean code, but the lab has not followed these requests.",
-        "The gaps between natural‑language explanations and Lean formalizations raise doubts about trusting AI‑generated proofs without human peer review."
-      ],
-      "topics": [
-        "openai",
-        "mathematics",
-        "ai",
-        "research",
-        "ethics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:10:55 +0000",
-      "processed_at": "2026-10-12T08:50:42.609244+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-naturas-smart-ring-puts-ai-agents-on-your-finger",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Natura has unveiled Interface, a $99 smart ring that lets users command AI agents with a finger press and also tracks health metrics like heart rate and sleep. The ring, designed by founder Carlo Edoardo Ferraris, aims to replace phone interactions by offering 24/7 access to agents such as ChatGPT, Claude, and Meta’s Muse, while also functioning as a wearable health monitor. Preorders will open next month with shipping slated for December or January, and the device will initially be free for three to six months before a $9 monthly subscription is introduced. Natura positions Interface as a low‑cost, long‑battery alternative to existing health‑focused rings, hoping to drive adoption among tech users who already own personal AI agents.",
-      "key_points": [
-        "Interface is a $99 smart ring that combines AI agent control with health tracking",
-        "The ring will ship in December/January and later require a $9/month subscription after a free trial",
-        "It targets users with personal AI agents, aiming to replace phone interactions with a wearable interface"
-      ],
-      "topics": [
-        "smart ring",
-        "ai agents",
-        "health tracking",
-        "consumer electronics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-12T08:50:42.606515+00:00"
     }
   ]
 }
