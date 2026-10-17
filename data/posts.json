@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-16T21:58:30.228349+00:00",
+  "updated_at": "2026-10-17T00:18:35.376688+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-deezer-will-soon-let-you-filter-out-ai-generated-music",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+      "title": "Deezer will soon let you filter out AI-generated music | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Deezer announced it will launch a toggle that lets users filter out AI‑generated music from search results, a feature slated for release before year‑end. The move follows a 2023 survey where 45% of users wanted to remove AI tracks, and the platform has seen AI content rise from 10% of daily uploads to over 50% in July. Deezer’s CEO Alexis Lanternier said the option will let listeners focus on human‑created music if they choose. The change comes amid a broader industry debate, with competitors like Bandcamp banning AI tracks and Spotify only tagging them.",
+      "key_points": [
+        "Deezer introduces a toggle to filter AI‑generated music, expected before year‑end",
+        "45% of users surveyed want to remove AI tracks; AI uploads rose from 10% to over 50% of daily uploads",
+        "Competitors have varied policies: Bandcamp bans AI tracks, Tidal cuts monetization, Spotify tags them"
+      ],
+      "topics": [
+        "deezer",
+        "ai music",
+        "streaming",
+        "music industry",
+        "content moderation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 15:16:04 +0000",
+      "processed_at": "2026-10-17T00:18:18.709052+00:00"
+    },
     {
       "id": "-techcrunch-com-2026-10-13-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
@@ -2454,31 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 07 Oct 2026 17:30:00 +0000",
       "processed_at": "2026-10-11T18:20:22.722809+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1200,675",
-      "title": "5 days to Disrupt 2026: Don’t pay more at the door for your pass | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 in San Francisco’s Moscone West opens on October 13, and the final discounted pass rates—down to $299 and up to $100 off—are available until the doors open. Attendees can bring a colleague for 50 % off a second ticket, or save more with groups of four or more, and the Expo Hall will host over 300 companies and live startup pitches. The conference features six stages with 200+ sessions covering topics from AI and fintech to data centers and robotics, plus interactive roundtables and networking opportunities. This last‑minute promotion is aimed at tech leaders and builders who want to secure a spot before prices rise.",
-      "key_points": [
-        "Final discounted passes for Disrupt 2026 are available until Oct 13, with savings up to $100.",
-        "Group discounts: 50 % off a second pass, larger savings for groups of four or more.",
-        "The event offers 200+ sessions across six stages, plus an Expo Hall with 300+ companies and live pitches.",
-        "Pass price starts at $299, with a special $75 Expo+ Layoff ticket for laid‑off workers."
-      ],
-      "topics": [
-        "tech",
-        "event",
-        "discount",
-        "ai",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-11T18:20:22.822110+00:00"
     }
   ]
 }
