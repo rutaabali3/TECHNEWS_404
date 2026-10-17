@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-17T16:35:58.453041+00:00",
+  "updated_at": "2026-10-17T19:06:29.903374+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/EV-charging-Getty.jpg?resize=1200,830",
+      "title": "Electric vehicle sales in the US are showing signs of life | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Electric vehicle sales in the United States have rebounded, reaching a 6.1% share of the market—the strongest performance since the third quarter of 2025—and have grown for three straight quarters, according to a new Cox Automotive report. The rebound is driven by competitive pricing, higher gasoline costs, and a surge in demand for models such as Toyota’s refreshed bZ and Lexus RZ, which doubled sales after adding Tesla‑style charging ports and larger batteries. Despite a 20% year‑over‑year decline, Tesla remains the dominant player, accounting for more than half of all EV sales in the third quarter. The U.S. recovery mirrors Germany’s post‑incentive rebound, where sales fell sharply after the 2023 incentive cut but then steadily recovered to near‑record levels.",
+      "key_points": [
+        "EV sales have grown for three consecutive quarters, reaching 6.1% of the U.S. market.",
+        "Toyota, Rivian, and Subaru lead the market, with Toyota’s bZ and Lexus RZ sales doubling after a refresh.",
+        "Tesla’s sales fell 20% year‑over‑year but still hold more than half of all EV sales.",
+        "The U.S. rebound parallels Germany’s recovery after incentive cuts, showing resilience in the EV market."
+      ],
+      "topics": [
+        "electric vehicles",
+        "sales",
+        "market recovery",
+        "incentives",
+        "automotive"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 20:12:07 +0000",
+      "processed_at": "2026-10-17T19:06:14.422556+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787",
+      "title": "Justice Department says North Koreans have infiltrated dozens of US companies | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The U.S. Department of Justice announced that North Korean hackers are increasingly using American facilitators to infiltrate U.S. companies, leading to the indictment of two individuals and the seizure of 180 computers linked to 40 laptop farms in Texas. At least 70 U.S. firms across healthcare, retail, manufacturing, and other sectors have been compromised, with roughly $3 million in stolen funds reported. The DOJ revealed that North Korean operatives employ stolen U.S. identities and sophisticated social‑media cover to secure employment and exfiltrate data, while the FBI warned of thousands of North Korean IT workers embedded in Western companies. This latest wave of enforcement actions underscores the regime’s remote‑IT worker scheme, which also fuels large-scale crypto thefts and supports its nuclear program.",
+      "key_points": [
+        "DOJ indicted two people, raided 40 laptop farms, seized 180 computers linked to North Korean hacking operations",
+        "At least 70 U.S. companies were infiltrated, generating about $3 million in stolen funds",
+        "North Korean hackers use stolen U.S. identities and American facilitators to gain employment and exfiltrate data",
+        "FBI warns of thousands of North Korean IT workers in Western firms, posing a national security threat"
+      ],
+      "topics": [
+        "north korea",
+        "cybersecurity",
+        "law enforcement",
+        "data breach",
+        "hackers"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 01:30:42 +0000",
+      "processed_at": "2026-10-17T19:06:08.057890+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-09-beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/San-Francisco-Cityscape.jpg?resize=1200,628",
+      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can't Miss | TechCrunch",
+      "author": "Jean Bradley",
+      "summary": "TechCrunch Disrupt 2026 will run from October 13‑15 in San Francisco, but the conference’s real buzz comes from a week‑long slate of side events that start on October 10 and continue through the 16th.  Attendees can take advantage of a 50% discount when bringing a friend and up to $200 off the Founder Summit, while a diverse lineup of themed networking nights—ranging from Polish innovation evenings and Nordic fintech showcases to AI bartender happy hours and hardware happy hours—draws global founders, investors, and operators.  These gatherings, hosted by governments, industry groups, and startup accelerators, provide informal pitches, demos, and partnership matchmaking, turning the city into a nonstop startup playground.  The mix of cultural showcases, sector‑specific mixers, and playful formats like a live job‑hunt game show underscores Disrupt’s commitment to fostering cross‑border collaboration and real‑world product growth.",
+      "key_points": [
+        "Disrupt 2026 runs Oct. 13‑15 with side events from Oct. 10‑16, offering 50% off passes for friends and up to $200 off the Founder Summit",
+        "Over 30 themed networking nights feature international partners—Poland, Norway, Pakistan, Taiwan, Korea—and cover fintech, AI, hardware, and content creation",
+        "Unique experiences such as an AI bartender, a hardware happy hour, and a live job‑hunt game show create informal pitch and partnership opportunities",
+        "The events aim to connect founders, investors, and operators across the global tech ecosystem, turning San Francisco into a nonstop startup playground"
+      ],
+      "topics": [
+        "tech events",
+        "networking",
+        "startup ecosystem",
+        "ai",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 09 Oct 2026 14:42:34 +0000",
+      "processed_at": "2026-10-17T19:06:07.712835+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/NTangible-Stills-11.jpg?resize=1200,675",
@@ -2402,81 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 16:00:00 +0000",
       "processed_at": "2026-10-12T08:50:42.606515+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Zach-Yaegari.jpg?resize=1200,800",
-      "title": "Cal AI's 19-year-old founder just raised $10M for his new AI startup | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Zach Yadegari, 19, founder of Cal AI, has secured $10 million from Vine Ventures and others to launch Persona, a personal AI assistant that combines cloud‑based intelligence with a $179 wearable band. Persona differentiates itself by not running AI locally, encrypting data, and avoiding ambient listening, while still offering shopping, travel, and other utility functions through an iMessage beta and upcoming app. The company plans to monetize through ads shown during shopping research, but the assistant will remain unbiased because it cannot see which items are sponsored. Early traction includes a few thousand beta users and five‑figure pre‑orders for the band, with the device slated for December release.",
-      "key_points": [
-        "Yadegari raised $10 million for Persona, a privacy‑focused AI assistant with a wearable band",
-        "Persona runs its model in the cloud, encrypts data, and avoids ambient listening",
-        "The business model includes ads during shopping research while keeping recommendations unbiased",
-        "Beta users and pre‑orders have already generated early traction and revenue"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "wearable",
-        "privacy",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-12T08:50:42.387250+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800",
-      "title": "Uber and China's Pony.ai plan to launch robotaxis in London | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Uber and Chinese autonomous‑vehicle maker Pony.ai announced that they will begin testing Pony.ai’s Gen‑7 robotaxis in London in the coming weeks as part of a broader partnership to bring driverless cars to Europe. The move follows their earlier collaboration in the Middle East and the launch of a robotaxi service in Zagreb, where Uber, Pony.ai and Verne operate 2,000 autonomous vehicles. Uber plans to offer autonomous‑vehicle trips in up to 15 cities worldwide by the end of 2026, roughly split between the U.S. and international markets. While the London service will follow a similar model, the companies have not yet disclosed who will own and operate the fleet, and Uber also has a separate partnership with Wayve for a London robotaxi launch.",
-      "key_points": [
-        "Uber and Pony.ai will test Gen‑7 robotaxis in London in the coming weeks",
-        "The partnership is part of Uber’s goal to offer autonomous rides in 15 cities by 2026, with 2,000 robotaxis in Europe",
-        "Uber also partners with Wayve for a London robotaxi service and has similar deals in Dubai",
-        "The London rollout will mirror the Zagreb model, but fleet ownership remains undecided"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "robotaxi",
-        "uber",
-        "ponyai",
-        "london"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 12:53:39 +0000",
-      "processed_at": "2026-10-12T08:50:46.753204+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Arena, a crowdsourced AI model ranking platform that began as a UC Berkeley research project in 2023, closed a $200 million Series B round that values the company at $3.1 billion, nearly doubling its valuation in just ten months. The funding, led by Lightspeed Venture Partners and Khosla Ventures with participation from Salesforce Ventures, a16z, Dell Technologies Capital and others, follows the firm’s announcement of $100 million in annualized run‑rate revenue and the launch of its commercial AI Evaluations service. Arena’s platform remains free for consumers while offering enterprises detailed performance analytics, and it has recently added an alignment leaderboard to assess safety and ethical behavior of models. The rapid valuation growth underscores the market’s demand for neutral, real‑world AI evaluation tools as models increasingly game static benchmarks.",
-      "key_points": [
-        "Arena raised $200 million in Series B, valuing it at $3.1 billion and nearly doubling its valuation in ten months",
-        "The company offers a free crowdsourced ranking platform and a commercial AI Evaluations service that provides detailed performance analytics for enterprises",
-        "Arena added an alignment leaderboard to measure safety and ethical issues such as unauthorized action, false attribution, and deceptive completion",
-        "Investors include Lightspeed, Khosla, Salesforce, a16z, Dell Technologies Capital and others, reflecting strong confidence in the platform’s growth"
-      ],
-      "topics": [
-        "ai",
-        "valuation",
-        "startup",
-        "funding",
-        "benchmarks"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "processed_at": "2026-10-12T01:36:12.688524+00:00"
     }
   ]
 }

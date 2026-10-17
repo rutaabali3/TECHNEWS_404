@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-17T16:35:27.079494+00:00",
+  "updated_at": "2026-10-17T19:06:06.344974+00:00",
   "items": [
-    {
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "feed_excerpt": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
-      "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-    },
     {
       "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
       "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
@@ -18,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "published": "Tue, 13 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "feed_excerpt": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "published": "Wed, 14 Oct 2026 01:30:42 +0000"
     },
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
       "feed_excerpt": "Flock CEO Garrett Langley said that the surveillance company has not cancelled contracts of any police department or law enforcement agency, despite reports of abuse.",
       "published": "Wed, 14 Oct 2026 20:26:25 +0000"
-    },
-    {
-      "title": "Electric vehicle sales in the U.S. are showing signs of life",
-      "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-      "feed_excerpt": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
-      "published": "Wed, 14 Oct 2026 20:12:07 +0000"
     },
     {
       "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
@@ -348,7 +330,13 @@
       "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
       "feed_excerpt": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
       "published": "Sat, 17 Oct 2026 15:30:00 +0000"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "feed_excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000"
     }
   ],
-  "last_processed_at": "2026-10-17T16:35:28.635718+00:00"
+  "last_processed_at": "2026-10-17T19:06:14.422646+00:00"
 }
