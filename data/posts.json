@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-10-18T08:42:36.614688+00:00",
+  "updated_at": "2026-10-18T13:05:35.036443+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/HIYD-9.jpg?resize=1200,800",
+      "title": "Hiyd is a health tracker that attaches to the watch you already wear | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Hiyd has unveiled a slim, 0.3‑mm disc that attaches to the back of a watch using microsuction, allowing users to track heart rate, sleep, movement, calories and VO₂ max without sacrificing style. The sensor, 2.7 mm thick and 7 g, syncs data to an iOS or Android app and is trained with AI on labeled activity footage. Founder Salah Batroukh, a former Apple design engineer, emphasizes invisible health tracking and plans to add nutrition insights that tie eating habits to sleep and performance. Hiyd will showcase its device at TechCrunch Disrupt, is a top‑20 Startup Battlefield competitor, and aims to launch a Kickstarter in November after securing over 16,000 deposits.",
+      "key_points": [
+        "Hiyd’s microsuction disc lets users wear a health sensor on any watch without magnets or adhesive.",
+        "The 7‑gram sensor captures standard wearable metrics and uses AI‑trained data sets for accurate activity classification.",
+        "Founder Salah Batroukh, ex‑Apple engineer, focuses on unobtrusive design and plans to add nutrition‑linked sleep insights.",
+        "The startup is competing in Startup Battlefield and plans a Kickstarter launch in November with 16,000 pre‑orders."
+      ],
+      "topics": [
+        "wearable",
+        "healthtech",
+        "startup",
+        "innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "processed_at": "2026-10-18T13:05:07.291272+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+      "title": "Amazon's Bee launches two new personal AI devices, starting at $75 | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Amazon’s personal AI wearable brand Bee has unveiled two new devices, the Bee Frontier and Bee Eclipse, marking its first product releases since the company’s acquisition by Amazon last year. The Frontier, priced at $74.99, is a wrist‑worn or clip‑on device that offers IP67 water resistance, seven days of battery life, and advanced noise‑filtered microphones, while the Eclipse is a credit‑card‑sized phone attachment costing $99.99. Both devices capture conversations in real time, generate free summaries, and, with an $11.99 monthly Bee Pro subscription, provide unlimited summaries, to‑do suggestions, and integrations with Amazon.com, Alexa+, and third‑party productivity apps. Bee emphasizes privacy by processing audio locally, encrypting transcripts with device‑generated keys, and allowing users to delete data at any time, while optional Alexa Voice ID can enable hands‑free interaction and Amazon purchases.\n",
+      "key_points": [
+        "Bee Frontier and Bee Eclipse launch at $74.99 and $99.99, respectively, expanding Bee’s lineup after Amazon’s acquisition",
+        "Both devices offer free conversation summaries and a $11.99/month Bee Pro plan that unlocks unlimited summaries, to‑do lists, and Amazon/Alexa integrations",
+        "Privacy is built in: audio is processed locally, transcripts are encrypted with device‑controlled keys, and users can delete data anytime",
+        "The devices integrate with Gmail, Google Calendar, Outlook, and Apple HealthKit, and the Frontier includes IP67 water resistance and a seven‑day battery life"
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "processed_at": "2026-10-18T13:05:30.990609+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
@@ -2424,55 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 09 Oct 2026 15:02:30 +0000",
       "processed_at": "2026-10-13T16:17:51.000192+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-president-trump-awards-big-tech-donors-with-nations-highest-science-prizes",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
-      "title": "President Trump awards Big Tech donors with nation's highest science prizes | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "President Trump presented the National Medal of Science to Elon Musk, Jensen Huang, Sergey Brin, and Lisa Su at the Golden Age of American Innovation Summit, while Michael Dell and Satya Nadella received the National Medal of Technology and Innovation. The honorees collectively donated nearly $6 billion to Trump‑aligned causes, including inauguration funds and a pro‑Trump Super PAC. Trump praised the recipients for pioneering America’s future and claimed their contributions keep the country ahead of competitors. Nadella’s medal was awarded shortly after Microsoft’s indefinite suspension from the H‑1B program, a move that drew criticism from the tech community.",
-      "key_points": [
-        "Trump awarded top science and technology medals to Musk, Huang, Brin, Su, Dell, and Nadella",
-        "The awardees have donated almost $6 billion to Trump‑aligned initiatives",
-        "Nadella received his medal after Microsoft was suspended from the H‑1B program",
-        "Trump highlighted the honorees’ role in keeping America competitive"
-      ],
-      "topics": [
-        "technology",
-        "politics",
-        "science",
-        "awards",
-        "bigtech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 22:33:59 +0000",
-      "processed_at": "2026-10-13T08:14:12.881821+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
-      "title": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Extend engineer Bo Lau built a detailed website that lets users sit at Elizabeth Holmes’ desk, opening her MacBook, iPhone, and Theranos Edison machine using real documents from the United States v. Holmes trial. The interactive environment, set in 2016 with OS X El Capitan and a home‑button iPhone, lets visitors click through court‑exposed emails, slides, and machine records, making the case’s paperwork easier to navigate than thousands of PDFs. Lau uses the site to promote a watch party for Nathan Fielder’s upcoming documentary, “You Can See Everything,” while also showcasing Extend’s document‑parsing SaaS platform. The project blends humor with a practical tool for researchers and B2B users interested in high‑accuracy document extraction.",
-      "key_points": [
-        "Bo Lau’s site recreates Holmes’ 2016 workspace using real trial documents",
-        "The interactive interface simplifies access to thousands of court PDFs",
-        "Lau promotes a documentary watch party and Extend’s SaaS document‑parsing service"
-      ],
-      "topics": [
-        "tech",
-        "legal",
-        "saaS",
-        "document",
-        "theranos"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 21:00:00 +0000",
-      "processed_at": "2026-10-13T08:14:35.086970+00:00"
     }
   ]
 }

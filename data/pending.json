@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-18T08:42:14.661051+00:00",
+  "updated_at": "2026-10-18T13:05:06.001875+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
       "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
       "feed_excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
       "published": "Wed, 14 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-      "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-      "feed_excerpt": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
-      "published": "Wed, 14 Oct 2026 19:00:00 +0000"
     },
     {
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
@@ -54,12 +48,6 @@
       "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "feed_excerpt": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
       "published": "Thu, 15 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "feed_excerpt": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "published": "Thu, 15 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
@@ -272,5 +260,5 @@
       "published": "Sat, 17 Oct 2026 20:21:19 +0000"
     }
   ],
-  "last_processed_at": "2026-10-18T08:42:36.397878+00:00"
+  "last_processed_at": "2026-10-18T13:05:30.990738+00:00"
 }
