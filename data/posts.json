@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-18T03:45:56.078303+00:00",
+  "updated_at": "2026-10-18T08:42:36.614688+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+      "title": "Flock CEO says its microphones detect 'just gunshots' — its website says different | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Flock’s CEO Garrett Langley told TechCrunch Disrupt that the company’s microphones only detect gunshots, a claim that contrasts with the company’s website, which advertises detection of gunfire, car crashes, fireworks and other ambient sounds. The company’s Gunshot Detection feature, launched last year, was criticized for listening to human voices; after backlash it removed the distress‑detection capability and clarified that it does not monitor conversations. Protesters in San Francisco gathered outside the venue as privacy groups and the ACLU called for tighter oversight, and several states have already ended contracts with Flock. Despite the controversy, Langley maintains that the system’s primary purpose is public‑safety alerts and that its microphone network is comparable to ShotSpotter’s 25,000‑unit array.",
+      "key_points": [
+        "Flock’s CEO insists the microphones only detect gunshots, while the website claims broader ambient‑sound detection.",
+        "The company removed its human‑distress detection feature after privacy groups condemned it for listening to voices.",
+        "Protests and state cancellations highlight growing public and regulatory scrutiny of Flock’s surveillance technology.",
+        "Flock’s microphone count is similar to ShotSpotter’s 25,000‑unit network as of 2024."
+      ],
+      "topics": [
+        "surveillance",
+        "privacy",
+        "gunshot detection",
+        "public safety",
+        "tech controversies"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
+      "processed_at": "2026-10-18T08:42:36.397772+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Colossal Biosciences unveiled GenoMorph, an AI platform that uses 3D morphology, comparative genomics, and developmental biology to pinpoint gene edits for extinct species with sparse genomic data, notably the dodo. The system, built on data from over 70 bird species and developmental studies of chickens, quail, ducks, and pigeons, has identified roughly 2,300 promising DNA targets for dodo cranial morphology and will test them using a lipid‑nanoparticle delivery method. In parallel, the company expanded its Nicobar pigeon colony to 36 birds and produced essential germ cells, a key step toward creating dodo‑like birds. The launch attracted backing from XPRIZE founder Peter Diamandis, who announced a new VC firm, NeoGenesis Capital, to support Colossal’s programmable biology platform across health, agriculture, and conservation.",
+      "key_points": [
+        "GenoMorph AI platform identifies gene edits for extinct species with limited genomes, focusing on the dodo",
+        "Colossal has found ~2,300 potential dodo cranial targets and will test them using lipid‑nanoparticle delivery",
+        "Nicobar pigeon colony expanded to 36 birds and essential germ cells produced",
+        "Peter Diamandis backs Colossal via NeoGenesis Capital"
+      ],
+      "topics": [
+        "de-extinction",
+        "ai",
+        "genomics",
+        "biotechnology",
+        "conservation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "processed_at": "2026-10-18T08:42:16.100714+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Apate.ai uses AI agents to bait scammers, gathering intelligence before victims are harmed. Founded in 2024 from Macquarie University research, the startup deploys thousands of agents that impersonate diverse identities to engage scammers across calls, messages, emails, and social media. Their operations have already cost scammers 17 years of time across 2.5 million conversations and helped clients such as Commonwealth Bank and TPG Telecom reduce scam losses by up to 76%. The company raised $8.15 million in seed funding and plans expansion to London and the U.S., while being a finalist at TechCrunch Disrupt.",
+      "key_points": [
+        "AI agents actively bait scammers to collect pre‑victim intelligence",
+        "2.5 million conversations have cost scammers 17 years of time, providing actionable data to clients",
+        "Clients like Commonwealth Bank and TPG Telecom report up to 76% reduction in scam losses",
+        "The startup raised $8.15M seed and plans global expansion"
+      ],
+      "topics": [
+        "ai",
+        "fraud",
+        "cybersecurity",
+        "startup",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 18:00:00 +0000",
+      "processed_at": "2026-10-18T08:42:16.060506+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-13-rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
+      "title": "Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Doug Field, former Ford EV chief and ex‑Tesla senior VP, has been hired as president of Mind Robotics, an industrial AI and robotics venture founded by Rivian CEO RJ Scaringe. The move signals Mind Robotics’ readiness to scale its factory‑automation platform after raising over $1 billion from top venture firms and securing Rivian as its first customer. Field will oversee product, engineering and operations while Scaringe remains chairman, positioning the startup to deploy foundation‑model‑driven robots in high‑volume manufacturing. The appointment underscores Rivian’s broader strategy of investing in complementary tech ventures to support its electric‑vehicle ecosystem.",
+      "key_points": [
+        "Doug Field joins Mind Robotics as president, bringing EV and AI expertise",
+        "Mind Robotics has raised $1B+ and will use Rivian’s factory for training",
+        "Scaringe remains chairman; Field handles day‑to‑day operations",
+        "Rivian owns 32.1% of Mind Robotics as of June 2026"
+      ],
+      "topics": [
+        "ai",
+        "robotics",
+        "ev",
+        "venturecapital",
+        "manufacturing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 13 Oct 2026 18:30:03 +0000",
+      "processed_at": "2026-10-18T08:42:16.062260+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
@@ -2373,106 +2473,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 21:00:00 +0000",
       "processed_at": "2026-10-13T08:14:35.086970+00:00"
-    },
-    {
-      "id": "-techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_3-Huang-Wallen-Lee_16x9-Dark.png?resize=1200,675",
-      "title": "Execs from Gamma, Engine’s, and GV join Disrupt 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a Builders Stage session titled \"The Zero-to-1K Playbook: How to Get Your First 1,000 Customers Without a Marketing Budget,\" hosted by Gamma CEO Grant Lee, Engine founder Elia Wallen, and GV partner Crystal Huang. The session will dissect how early‑stage founders are using community building, product‑led growth, founder‑led sales, strategic outbound, and word of mouth to win their first customers when they lack a marketing budget, brand, or sales team. Lee will draw on Gamma’s rapid rise to nearly 100 million users and $100 million ARR, while Wallen will share Engine’s bootstrapped growth to 30 000 businesses and 2 million travelers. Huang will add an investor lens, explaining what early traction signals a strong product‑led adoption strategy for SaaS, infrastructure, and AI companies.\n",
-      "key_points": [
-        "Gamma CEO Grant Lee explains how Gamma grew from zero to 100 million users and $100 million ARR, offering tactics for the first 1,000 customers.",
-        "Engine founder Elia Wallen shares his bootstrapped journey and strategies for acquiring customers without an established brand.",
-        "GV partner Crystal Huang provides an investor perspective on evaluating early‑stage companies that rely on product‑led adoption.",
-        "Disrupt 2026 offers 200+ sessions, matchmaking, and networking opportunities for founders, investors, and operators.\n"
-      ],
-      "topics": [
-        "tech events",
-        "startup funding",
-        "customer acquisition",
-        "product-led growth",
-        "investor perspective"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 14:30:00 +0000",
-      "processed_at": "2026-10-13T08:14:13.018001+00:00"
-    },
-    {
-      "id": "crunch-com-2026-10-09-techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_4Days-16X9-Dark.png?resize=1200,675",
-      "title": "Disrupt 2026 starts in 4 days and prices increase | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will open on October 13 at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech leaders for three days of sessions, networking, and Startup Battlefield pitches.  Attendees can still secure discounted online pricing, with savings of up to $100 on tickets that expire at 8 a.m. PT on the opening day, and a second pass of the same type available at 50% off.  Those who have recently been laid off can purchase a special Expo+ Pass for just $75.  The event offers a mix of deal‑flow cafés, breakout sessions, and roundtables designed to help participants find investors, partners, or industry insights.",
-      "key_points": [
-        "Ticket discounts end at 8 a.m. PT on Oct. 13, offering up to $100 savings",
-        "A second pass of the same ticket type is available at 50% off",
-        "A special $75 Expo+ Pass is available for recently laid‑off attendees",
-        "Disrupt 2026 hosts 10,000+ attendees and over 200 sessions"
-      ],
-      "topics": [
-        "tech events",
-        "startup ecosystem",
-        "ticket pricing",
-        "disrupt 2026",
-        "moscone west"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-13T08:14:12.879417+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-surveillance-company-flock-cuts-staff-as-privacy-backlash-grows",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/langley-2270933352.jpg?resize=1200,789",
-      "title": "Surveillance company Flock cuts staff as privacy backlash grows | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Surveillance camera maker Flock announced a voluntary separation program that will cut its workforce by about 18%—roughly 270 employees—effective end‑October. The move comes amid mounting criticism from U.S. communities and lawmakers over the company’s license‑plate‑reading and people‑tracking technology, which has been linked to privacy violations and misuse by police. Flock’s spokesperson said the program is not a layoff and is intended to position the firm for future growth, but details about executive compensation cuts were not disclosed. The company has faced calls to remove its cameras, cybersecurity complaints, and contract terminations by departments such as Los Angeles, underscoring the growing pressure on its mass‑surveillance business.",
-      "key_points": [
-        "Flock is reducing its workforce by 18%—about 270 employees—through a voluntary separation program",
-        "The company faces backlash over its license‑plate readers and people‑tracking tech, with reports of police misuse and privacy violations",
-        "Flock claims the program is voluntary and aimed at future growth, but executive pay cuts were not confirmed",
-        "Multiple law‑enforcement departments have ended contracts and raised cybersecurity concerns about the system"
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "law enforcement",
-        "corporate layoffs",
-        "technology regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 13:40:36 +0000",
-      "processed_at": "2026-10-13T08:14:23.259196+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/asos-breach-notif.jpg?resize=1200,542",
-      "title": "Asos confirms breach of customer data after hackers send rogue app notification | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "U.K. fashion retailer Asos confirmed a data breach after hackers used the company’s own app to send an unauthorized notification to customers. The attackers gained access to a Snowflake instance by impersonating a trusted contact, extracting names, addresses, phone numbers, email addresses and even search query data. Asos filed the breach with the London Stock Exchange and warned that the stolen data could be leaked if the hackers’ demands are not met. The incident highlights the risks of third‑party data platforms and the growing threat of in‑app phishing tactics.",
-      "key_points": [
-        "Hackers accessed Asos data via a Snowflake instance by impersonating a trusted contact and sent a rogue in‑app notification.",
-        "Stolen information includes personal details such as addresses, phone numbers, emails and customer search queries.",
-        "Asos filed the breach with regulators and warned that the data could be publicly released if demands are not met.",
-        "The breach underscores vulnerabilities in third‑party data hosting and in‑app communication systems."
-      ],
-      "topics": [
-        "data breach",
-        "fashion retail",
-        "cybersecurity",
-        "snowflake",
-        "customer data"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 15:01:15 +0000",
-      "processed_at": "2026-10-13T01:09:42.794958+00:00"
     }
   ]
 }

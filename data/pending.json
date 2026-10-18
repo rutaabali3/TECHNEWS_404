@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-18T03:45:25.048755+00:00",
+  "updated_at": "2026-10-18T08:42:14.661051+00:00",
   "items": [
-    {
-      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "feed_excerpt": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-      "published": "Tue, 13 Oct 2026 18:30:03 +0000"
-    },
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
       "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
@@ -20,28 +14,10 @@
       "published": "Wed, 14 Oct 2026 19:00:00 +0000"
     },
     {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "feed_excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "published": "Wed, 14 Oct 2026 18:00:00 +0000"
-    },
-    {
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
       "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
       "feed_excerpt": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
       "published": "Wed, 14 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "feed_excerpt": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "published": "Wed, 14 Oct 2026 21:30:33 +0000"
-    },
-    {
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "feed_excerpt": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-      "published": "Wed, 14 Oct 2026 21:00:00 +0000"
     },
     {
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -296,5 +272,5 @@
       "published": "Sat, 17 Oct 2026 20:21:19 +0000"
     }
   ],
-  "last_processed_at": "2026-10-18T03:45:41.983355+00:00"
+  "last_processed_at": "2026-10-18T08:42:36.397878+00:00"
 }
