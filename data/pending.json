@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:44:07.315158+00:00",
+  "updated_at": "2026-10-18T19:18:49.844700+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
       "feed_excerpt": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
       "published": "Wed, 14 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "feed_excerpt": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "published": "Thu, 15 Oct 2026 01:01:32 +0000"
     },
     {
       "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
@@ -44,22 +38,10 @@
       "published": "Thu, 15 Oct 2026 10:00:00 +0000"
     },
     {
-      "title": "Volvo makes a bigger bet on Nvidia",
-      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "feed_excerpt": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-      "published": "Thu, 15 Oct 2026 17:34:40 +0000"
-    },
-    {
       "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
       "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
       "feed_excerpt": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
       "published": "Thu, 15 Oct 2026 16:45:37 +0000"
-    },
-    {
-      "title": "AI agents are coming to Rivian’s cars",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "feed_excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "published": "Thu, 15 Oct 2026 15:02:36 +0000"
     },
     {
       "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
@@ -252,7 +234,13 @@
       "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 18 Oct 2026 16:05:00 +0000"
+    },
+    {
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "feed_excerpt": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "published": "Sun, 18 Oct 2026 19:03:38 +0000"
     }
   ],
-  "last_processed_at": "2026-10-18T16:44:33.418318+00:00"
+  "last_processed_at": "2026-10-18T19:18:51.409016+00:00"
 }
