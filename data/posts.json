@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-18T19:19:20.669734+00:00",
+  "updated_at": "2026-10-18T21:43:33.416461+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-15-amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Amazon SVP of Devices, Alexa, and Leo Panos Panay told startup founders at TechCrunch Disrupt that failure is an inevitable and essential part of building a successful product. He drew on his own experience at Microsoft, where the launch of the Surface RT tablet led to a nearly $1 billion write‑down and a public label of failure. Panay urged founders to admit mistakes, harvest the lessons learned, and adjust their vision by small, deliberate shifts rather than abandoning it entirely. By embracing failure and learning quickly, he believes companies can accelerate progress and stay resilient in the face of setbacks.",
+      "key_points": [
+        "Panay stresses that failure is necessary for innovation and product success.",
+        "He cites the Surface RT failure at Microsoft, which cost nearly $1 billion, as a key lesson.",
+        "Founders should harvest lessons, avoid excuses, and adjust their vision by small, deliberate changes.",
+        "Embracing failure accelerates progress and builds resilience in startups."
+      ],
+      "topics": [
+        "tech",
+        "startup",
+        "failure",
+        "amazon",
+        "innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 20:38:13 +0000",
+      "processed_at": "2026-10-18T21:43:02.106300+00:00"
+    },
+    {
+      "id": "com-2026-10-15-sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/gettyimages-1157261963-594x594-1.jpg?w=594",
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US | TechCrunch",
+      "author": "Kate Park",
+      "summary": "SK Hynix’s flash‑memory unit Solidigm is seeking U.S. approval to ship advanced chip‑making equipment to its Dalian, China, plant as a condition for building a new NAND flash factory in the United States, likely in upstate New York. The move comes amid a global NAND shortage that has pushed prices up 15% to 20% in the fourth quarter, and reflects Washington’s push to bring more semiconductor manufacturing to America. Solidigm plans a 2027 U.S. IPO that could raise about $10 billion and value the company at up to $100 billion. The request follows tightened U.S. export rules on advanced chips and the revocation of special exemptions for Chinese facilities in 2025, though annual licenses have been granted to SK Hynix and Samsung for equipment shipments to China.",
+      "key_points": [
+        "Solidigm wants to ship U.S. chip‑making equipment to its Dalian plant to boost NAND production, pending U.S. approval.",
+        "The U.S. government is encouraging SK Hynix to build a new NAND factory in the U.S., possibly in upstate New York, as part of a broader chip‑manufacturing strategy.",
+        "Solidigm is preparing for a 2027 U.S. IPO that could raise around $10 billion and value the company at up to $100 billion.",
+        "U.S. export restrictions on advanced chips were tightened in 2023 and special exemptions were revoked in 2025, but annual licenses remain in place for SK Hynix and Samsung."
+      ],
+      "topics": [
+        "semiconductors",
+        "us-china trade",
+        "chipmaking",
+        "nand",
+        "us policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 16:45:37 +0000",
+      "processed_at": "2026-10-18T21:43:28.440324+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-googles-universal-cart-shopping-tool-launches-in-the-us",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200",
+      "title": "Google’s Universal Cart shopping tool launches in the US | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Google has rolled out its Universal Cart tool to U.S. users, allowing shoppers to save items from multiple retailers across search and the Gemini app and revisit them later without losing progress. The cart tracks price drops and stock availability, and can suggest payment methods that leverage credit‑card perks and surface promo codes. It is built on Google’s Universal Commerce Protocol, an open standard aimed at unifying AI agents and retailers throughout the shopping journey. The launch underscores Google’s push to embed AI into e‑commerce, joining features like conversational product discovery and AI‑powered store‑inquiry tools.",
+      "key_points": [
+        "Universal Cart lets users save and manage items from multiple retailers across search and Gemini.",
+        "The tool notifies users of price drops, restocks, and offers tailored payment and promo‑code suggestions.",
+        "It operates under Google’s Universal Commerce Protocol, an open standard for AI‑driven shopping.",
+        "The launch is part of Google’s broader AI‑powered e‑commerce strategy."
+      ],
+      "topics": [
+        "google",
+        "universal cart",
+        "shopping",
+        "ai",
+        "ecommerce"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "processed_at": "2026-10-18T21:43:14.489468+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-15-volvo-makes-a-bigger-bet-on-nvidia",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900",
@@ -2392,80 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 09 Oct 2026 16:07:26 +0000",
       "processed_at": "2026-10-14T00:31:54.213031+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Elon Musk has publicly accused powerful Indian business interests, including Reliance Industries chairperson Mukesh Ambani, of blocking SpaceX’s Starlink satellite‑internet launch, calling the obstruction a \"crime against the people of India.\" The Indian Ministry of Communications rebuffed Musk’s claims, stating that Starlink and other licensed operators are at the same regulatory stage and must complete security assessments before spectrum can be granted. Starlink has spent more than five years seeking entry, secured key approvals, partnered with telecom giants Reliance Jio and Bharti Airtel, and set up a local team, yet commercial services remain stalled. The dispute highlights regulatory hurdles and the complex interplay between foreign tech entrants and domestic telecom operators in India’s rapidly growing internet market.",
-      "key_points": [
-        "Musk alleges Indian oligarchs, including Mukesh Ambani, are blocking Starlink’s launch, labeling it a crime against Indians.",
-        "India’s Ministry of Communications insists the regulatory process is fair and that Starlink is on the same footing as other licensed satellite operators.",
-        "Starlink has secured approvals, partnered with Jio and Airtel, and established a local team, but still lacks a commercial launch license.",
-        "The conflict underscores regulatory challenges for foreign satellite services in India’s telecom sector."
-      ],
-      "topics": [
-        "starlink",
-        "spacex",
-        "india",
-        "regulation",
-        "telecom"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 15:12:59 +0000",
-      "processed_at": "2026-10-13T21:26:21.028103+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-danu-robotics-fight-to-build-a-better-recycling-robot",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
-      "title": "Danu Robotics' fight to build a better recycling robot | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Danu Robotics, founded by Amy Ma, is launching its H.E.R.O. robot that uses a pincer claw and AI to sort recyclables more cheaply and quickly than suction‑based competitors. The company has already secured $500,000 in signed contracts, has over 200 prospects in its pipeline, and is targeting the $20 billion recycling‑sorting market across Europe and North America. Danu is raising a $5 million late‑seed round to accelerate commercialization, and it estimates that a single working site can generate $485,000 in additional revenue—more than double the robot’s cost. Future plans include making the robot smaller and portable so it can be deployed at events, shopping centers, hospitals, and airports to recycle waste at the source.",
-      "key_points": [
-        "H.E.R.O. uses a pincer claw and AI to improve recycling sorting efficiency over suction‑based competitors",
-        "Danu Robotics has $500k in signed contracts, 200 prospects in its pipeline, and targets a $20B market",
-        "The company is raising a $5M late‑seed round and projects $485k ROI per site, more than twice the robot cost",
-        "Future development aims to make the robot smaller and portable for use outside dedicated waste facilities"
-      ],
-      "topics": [
-        "robotics",
-        "recycling",
-        "ai",
-        "startup",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:45:00 +0000",
-      "processed_at": "2026-10-13T21:26:20.969157+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-we-cant-help-treating-ai-like-its-human-but-should-we",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-      "title": "We can't help treating AI like it's human. But should we? | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "MIT CSAIL showcased humanoid Unitree robots, prompting instinctive human-like politeness from visitors. Researchers such as Sherry Turkle and Pataranutaporn warn that this anthropomorphism can erode skepticism and lead to emotional dependence on AI, citing cases from chatbots to wrongful death lawsuits. While AI can serve useful roles—e.g., interview coaching—Turkle stresses keeping interactions within appropriate \"lanes\" to avoid harm. The article underscores the need for ethical boundaries as AI becomes ubiquitous in everyday services.",
-      "key_points": [
-        "People instinctively treat robots and chatbots as sentient, often using polite language.",
-        "Experts warn that anthropomorphism can erode human agency and lead to harmful reliance, as seen in a wrongful death lawsuit involving a chatbot.",
-        "AI can be beneficial when confined to clear roles, such as interview coaching, but must stay within its \"lane\" to avoid ethical pitfalls."
-      ],
-      "topics": [
-        "ai",
-        "anthropomorphism",
-        "ethics",
-        "robotics",
-        "human-computer interaction"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:40:14 +0000",
-      "processed_at": "2026-10-13T21:26:21.248889+00:00"
     }
   ]
 }
