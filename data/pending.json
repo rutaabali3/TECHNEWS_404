@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:05:06.001875+00:00",
+  "updated_at": "2026-10-18T16:44:07.315158+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -32,18 +32,6 @@
       "published": "Thu, 15 Oct 2026 00:30:00 +0000"
     },
     {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "feed_excerpt": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
-      "published": "Thu, 15 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "feed_excerpt": "Figma is also releasing its code layers feature in open beta.",
-      "published": "Thu, 15 Oct 2026 04:30:00 +0000"
-    },
-    {
       "title": "TechCrunch Disrupt 2026: Last day",
       "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "feed_excerpt": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
       "feed_excerpt": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
       "published": "Thu, 15 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "feed_excerpt": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-      "published": "Thu, 15 Oct 2026 18:00:00 +0000"
     },
     {
       "title": "Volvo makes a bigger bet on Nvidia",
@@ -258,7 +240,19 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "feed_excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "published": "Sat, 17 Oct 2026 20:21:19 +0000"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "feed_excerpt": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+      "published": "Sun, 18 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 18 Oct 2026 16:05:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-18T13:05:30.990738+00:00"
+  "last_processed_at": "2026-10-18T16:44:33.418318+00:00"
 }

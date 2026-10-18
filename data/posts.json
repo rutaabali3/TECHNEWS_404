@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-18T13:05:35.036443+00:00",
+  "updated_at": "2026-10-18T16:44:37.485675+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-15-last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+      "title": "Last chance to save up to $200 on your Founder Summit pass | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is offering a final discount of up to $200 on its Founder Summit passes, ending on October 16. The summit will take place on November 4 at Boston’s SoWa Power Station and will bring together roughly 1,000 founders and investors to discuss fundraising, hiring, product‑market fit and building AI‑native companies. Passes—$199 for founders and $399 for investors—include roundtables, breakout sessions, and 1:1 networking, and a second pass can be purchased at 50% off. The event features speakers such as Kent Bennett of Bessemer Venture Partners, Lior Div of 7AI, and Vineet Edupuganti of Cogent Security.",
+      "key_points": [
+        "Final $200 discount on Founder Summit passes ends October 16",
+        "Event on November 4 in Boston with 1,000 founders and investors",
+        "Founder passes cost $199, investor passes $399, both include deep‑dive sessions and networking",
+        "Second pass available at 50% off for co‑founders or partners"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "fundraising",
+        "networking",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "processed_at": "2026-10-18T16:44:19.475212+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+      "title": "Figma announces new features to define how agents work on its platform | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Figma unveiled a suite of new tools at its first Config event in India, including a Markdown‑based editor called Figma Specs that lets teams codify their design language and guide AI agents. The company also opened its code layers feature to public beta, enabling designers to embed code directly on the canvas and ask agents to generate or modify code for prototypes. Integration with the headless CMS Payload and support for over 20 new MCP partners expands Figma’s content and AI ecosystem, while the India launch underscores the platform’s growing presence in the country’s largest market outside the U.S. These updates aim to make AI‑driven design more predictable and aligned with brand rules.",
+      "key_points": [
+        "Figma introduced Figma Specs, a Markdown editor that defines design language and guides AI agents",
+        "Code layers beta lets designers embed code on canvas and convert designs to code via agents",
+        "Integration with Payload CMS and MCP partners broadens content and AI tool capabilities",
+        "India event highlighted wider agent availability and Figma’s strong foothold in India’s top 100 companies"
+      ],
+      "topics": [
+        "design tools",
+        "ai",
+        "code",
+        "cms",
+        "india"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "processed_at": "2026-10-18T16:44:33.418210+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Gudea, a 2023‑founded startup, uses AI to map how rumors and misinformation spread across more than 500 online platforms, giving brands context beyond simple mention counts so they can preempt crises. The company, which has nearly 40 clients including Fortune 50 firms and government agencies, raised $7 million in seed funding led by Mudita Venture Partners and Silicon Road Ventures, bringing its total capital to about $15 million. Gudea’s technology analyzes relationships, pathways, and inauthentic activity, and plans next‑year geolocation features that pinpoint conversations to city‑block level. The tool is positioned to help organizations respond proactively as generative‑AI‑driven content makes online manipulation easier and more widespread.",
+      "key_points": [
+        "Gudea maps rumor spread across 500+ sites, offering context beyond raw metrics to help brands preempt crises.",
+        "The startup has 40 clients, including Fortune 50 firms, and raised $7M seed, totaling $15M in funding.",
+        "Its AI analyzes relationships and inauthentic activity, and will add city‑block‑level geolocation next year."
+      ],
+      "topics": [
+        "ai",
+        "social media",
+        "crisis management",
+        "startup",
+        "disinformation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "processed_at": "2026-10-18T16:44:09.378283+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/HIYD-9.jpg?resize=1200,800",
@@ -2393,80 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 09 Oct 2026 19:36:56 +0000",
       "processed_at": "2026-10-13T16:17:22.809990+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/moment-energy-luna-5.jpg?resize=1200,800",
-      "title": "Batteries are now cheaper than natural gas turbines used at many data centers | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "A Wood Mackenzie report shows that four‑hour battery storage is now cheaper than open‑cycle natural gas turbines in all 43 markets surveyed, a shift that could lower electricity costs for data centers as gas turbine prices rise. The study finds battery costs will continue to fall while gas turbine costs are projected to climb, a trend that could pressure utilities that use turbines as peaking plants. Solar remains the cheapest new power source worldwide, but tariff pressures in North America could affect its competitiveness. The findings highlight a growing economic advantage for storage technologies in a market where data‑center demand and inflation are pushing energy prices higher.",
-      "key_points": [
-        "Four‑hour batteries cheaper than open‑cycle gas turbines in every market surveyed",
-        "Battery costs expected to fall, gas turbine costs to rise, impacting data‑center electricity expenses",
-        "Solar is still the cheapest new power source globally, though tariff issues may affect North America"
-      ],
-      "topics": [
-        "energy storage",
-        "data centers",
-        "natural gas",
-        "solar",
-        "costs"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 18:57:58 +0000",
-      "processed_at": "2026-10-13T16:17:22.861632+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust? | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Amazon announced it will no longer use nondisclosure agreements when negotiating data‑center contracts with local governments, a move that follows Microsoft’s earlier decision. The change comes amid growing community backlash over secretive AI‑infrastructure deals, which has led to moratoriums in cities from New York to San Francisco. By removing NDAs, Amazon hopes to increase transparency and rebuild trust with municipalities and the public. The shift also highlights a broader trend of AI startups seeking consumer data access, raising questions about privacy and regulatory oversight.",
-      "key_points": [
-        "Amazon stops using NDAs for data‑center deals with local governments",
-        "The move follows Microsoft’s earlier announcement and aims to address community backlash and moratoriums",
-        "Removing NDAs is intended to increase transparency and rebuild trust",
-        "The issue reflects wider concerns about AI startups accessing personal data"
-      ],
-      "topics": [
-        "amazon",
-        "microsoft",
-        "data center",
-        "nda",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:56:42 +0000",
-      "processed_at": "2026-10-13T16:17:35.092155+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-      "title": "Exclusive: Automattic loses its interim CFO just weeks after boardroom shakeup",
-      "author": "Sarah Perez",
-      "summary": "Automattic’s interim CFO Jeremy Klaperman departed after less than a month in the role, following a governance crisis that saw the company’s board wiped and CEO Matt Mullenweg briefly placed on leave. Klaperman’s exit was reportedly triggered by the board’s decision to consider external candidates for the CFO position and a disagreement with Mullenweg over employee performance reviews. The company confirmed his resignation and said it is still conducting an external search for a permanent CFO. The move underscores the turbulence at the WordPress.com parent amid a rapid leadership reshuffle.",
-      "key_points": [
-        "Klaperman left less than a month after being appointed interim CFO",
-        "His departure was linked to the board’s consideration of external candidates and a dispute over performance reviews",
-        "Automattic is still searching for a permanent CFO",
-        "The resignation follows a governance crisis that wiped the board and briefly removed CEO Matt Mullenweg"
-      ],
-      "topics": [
-        "automattic",
-        "cfo",
-        "board",
-        "governance",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 15:02:30 +0000",
-      "processed_at": "2026-10-13T16:17:51.000192+00:00"
     }
   ]
 }
