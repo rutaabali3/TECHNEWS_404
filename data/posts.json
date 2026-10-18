@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-17T23:52:02.393603+00:00",
+  "updated_at": "2026-10-18T03:45:56.078303+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
+      "title": "Ambani's Jio seeks to raise $3.2B in what could be India's biggest IPO | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, is set to launch India’s largest IPO to date, targeting up to $3.2 billion by selling 270 million shares at a price band of ₹1,065 to ₹1,119 (about $11.19 to $11.76) per share. The offering, which will close on October 23, could value the company at roughly ₹10.3 trillion ($108 billion) and would eclipse Hyundai Motor India’s 2024 listing even at the lower end of the price range. Jio, which grew from a free‑data startup in 2016 to the country’s biggest telecom operator with 524 million subscribers, has posted a 12% revenue rise to ₹391.7 billion and a 9% profit increase to ₹77.6 billion in the quarter ended June, and plans to use most proceeds to repay telecom debt and fund general corporate purposes.",
+      "key_points": [
+        "Jio Platforms seeks to raise $3.2 billion in India’s biggest IPO, pricing shares between ₹1,065 and ₹1,119 per share",
+        "The IPO could value the company at about ₹10.3 trillion ($108 billion), surpassing Hyundai Motor India’s 2024 offering",
+        "Jio’s revenue grew 12% YoY to ₹391.7 billion and net profit rose 9% to ₹77.6 billion, and proceeds will largely repay telecom debt"
+      ],
+      "topics": [
+        "ipo",
+        "telecom",
+        "india",
+        "reliance",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 21:48:20 +0000",
+      "processed_at": "2026-10-18T03:45:41.983280+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-flock-ceo-we-havent-fired-any-police-departments-as-customers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/garrett-langley-disrupt.jpg?resize=1200,900",
+      "title": "Flock CEO: We haven't 'fired' any police departments as customers | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Flock CEO Garrett Langley told TechCrunch that the company has not terminated any police department contracts despite reports of abuse of its license‑plate‑reader cameras, but said it would end a relationship if a customer knowingly broke the law. The company, which operates over 100,000 cameras nationwide, has faced backlash over privacy concerns, wrongful arrests, and instances where officers stalked individuals using its database. Protesters outside the Disrupt 2026 conference staged a demonstration against Flock’s AI‑powered surveillance, while the company defended its technology as a tool that helps solve crimes faster. Langley also clarified that Flock is not considering a sale to rival Axon and that it will only fire customers in extreme cases of abuse.",
+      "key_points": [
+        "Flock has not fired any police customers yet but will if a customer knowingly abuses the system",
+        "The company’s license‑plate‑reader cameras have sparked privacy protests and wrongful arrest incidents",
+        "Flock defends its technology as crime‑solving aid and denies plans to sell to competitors"
+      ],
+      "topics": [
+        "surveillance",
+        "privacy",
+        "law enforcement",
+        "tech",
+        "protest"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 20:26:25 +0000",
+      "processed_at": "2026-10-18T03:45:26.213274+00:00"
+    },
+    {
+      "id": "chcrunch-com-2026-10-14-ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Austin-Factory-150000-sqft.jpg?resize=1200,900",
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Ambrosia Energy is constructing a 10‑gigawatt‑hour battery factory near Austin, Texas, that will enable the company to produce a 300‑megawatt power plant per year for off‑grid data centers at a target cost of $100 per megawatt‑hour. The 150,000‑square‑foot facility is expected to reach full production in two to three years, following the startup’s stealth launch in June and its sale of the Swarm satellite constellation to SpaceX. Ambrosia’s first commercial plant, slated for West Texas later this year, will combine 300 MW of solar panels with 660 MWh of batteries to deliver 30 MW of continuous power and a 99.3% uptime target. By simplifying component design and producing battery packs in‑house, the company claims to reduce costs to about 1.3 times the price of a bare cell, making its solution competitive with natural‑gas turbines.",
+      "key_points": [
+        "Ambrosia Energy is building a 10 GWh battery factory near Austin to support 300 MW power plants for data centers at $100/MWh",
+        "The 150,000‑sq‑ft plant will reach full production in 2–3 years and will enable continuous 30 MW output with 99.3% uptime in its first West Texas plant",
+        "The startup simplifies battery and solar components, cutting part counts and achieving costs of 1.3× a bare cell",
+        "Ambrosia emerged from stealth in June, previously sold its Swarm satellite constellation to SpaceX, and focuses on solar‑plus‑battery solutions for off‑grid data centers"
+      ],
+      "topics": [
+        "battery manufacturing",
+        "data centers",
+        "renewable energy",
+        "solar",
+        "tech startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 19:51:34 +0000",
+      "processed_at": "2026-10-18T03:45:26.873557+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-photo-74.jpg?resize=1200,800",
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Mosqitter, a 30‑person Pennsylvania startup, is expanding its chemical‑free mosquito traps into an AI‑powered surveillance network that can identify species and forecast disease risk. The company now operates over 5,000 devices on five continents and plans to launch its Febris Monitoring System, which adds data services and dashboards for governments and health agencies. Mosqitter’s flagship Grand unit costs $1,999 while the Mini retail at $199, and the firm expects more than $1 million in revenue in 2026, with the Febris data business projected to bring in over $3.5 million next year. To support this growth, Mosqitter is raising a $5 million round split into a $1 million first tranche and a $4 million second tranche tied to milestones for Febris.",
+      "key_points": [
+        "Mosqitter’s traps use heat, scent, light, and CO₂ to lure female mosquitoes and are now equipped with computer‑vision AI to classify species and predict population changes.",
+        "The Febris Monitoring System will provide continuous data, dashboards, and analytics to governments, airports, and health agencies, creating a recurring revenue stream beyond hardware sales.",
+        "With more than 5,000 devices deployed worldwide, Mosqitter projects over $1 million in 2026 revenue and $3.5 million from Febris data services next year.",
+        "The startup is raising $5 million in two tranches, with the first $1 million contingent on milestones for the Febris system.",
+        ""
+      ],
+      "topics": [
+        "mosquito control",
+        "ai",
+        "public health",
+        "startups",
+        "data analytics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-18T03:45:26.387628+00:00"
+    },
     {
       "id": "crunch-com-2026-10-14-cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
@@ -2374,106 +2473,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 08 Oct 2026 15:01:15 +0000",
       "processed_at": "2026-10-13T01:09:42.794958+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-the-complete-side-events-lineup-at-founder-summit-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/53199332068_d5900644ba_o.jpg?resize=1200,800",
-      "title": "The complete Side Events lineup at Founder Summit 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit 2026 will feature a packed Side Events lineup in Boston from November 3 to 6, offering founders, investors, and industry leaders a series of workshops, mixers, and panels designed to spark collaboration and funding opportunities. The schedule includes first‑principles product workshops hosted by PrincipiumX, investor‑founder mixers by TBD Angels, and readiness sessions by Prepare 4 VC and Startup Grind Boston, among others. Industry groups such as Harmonic Finance, Fidelity Investments, and the Massachusetts AI Coalition will host networking dinners and fireside panels that highlight Boston’s strengths in AI and hardware. Attendees are encouraged to book spots early, as many events have limited capacity and aim to create high‑impact connections across the startup ecosystem.",
-      "key_points": [
-        "Founder Summit 2026 side events run Nov 3-6 in Boston",
-        "Events include workshops, mixers, investor readiness sessions, and industry panels",
-        "Hosted by a mix of VC firms, universities, and industry groups",
-        "Attendees can network, learn, and secure funding opportunities"
-      ],
-      "topics": [
-        "techsummit",
-        "sideevents",
-        "networking",
-        "venturecapital",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-13T01:09:42.843407+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "OpenAI recently fired three safety researchers—Jasmine Wang, Tomek Korbak, and Mikita Balesni—after alleging they shared confidential data with a third‑party AI safety group. The dismissed researchers issued an open letter denying the misconduct claims, arguing that their termination signals a chilling effect on the company’s culture of open safety dialogue and external collaboration. OpenAI has not formally responded to the letter but released an internal memo praising the researchers’ contributions and denying retaliation, while a spokesperson cited a “pattern of misconduct” that violated company policies. The dispute highlights growing tensions around AI safety practices, employee whistleblowing, and the balance between proprietary information and third‑party oversight.",
-      "key_points": [
-        "OpenAI fired three safety researchers over alleged data sharing with an external group",
-        "The researchers deny wrongdoing and warn that their dismissal could stifle open safety culture",
-        "OpenAI’s internal memo praises the researchers but does not address the misconduct allegations",
-        "The case underscores broader concerns about AI safety, employee rights, and corporate transparency"
-      ],
-      "topics": [
-        "openai",
-        "ai safety",
-        "employee rights",
-        "corporate culture",
-        "data security"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
-      "processed_at": "2026-10-12T18:45:51.249065+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Ben Affleck, known for acting, has become a public AI advocate after selling his AI filmmaking startup to Netflix for a reported $587 million. In recent interviews he explained neural networks, transformers, and GPU inference, and even demonstrated simple Python scripts, showing how AI can augment but not replace film production. Affleck highlighted his own company, InterPositive, which built a proprietary dataset and fine‑tuned open models to meet cinematic standards, a technique he used in his film \"Animals.\" While acknowledging AI’s potential risks, he emphasized responsible use and believes the technology will be additive to the industry rather than disruptive.",
-      "key_points": [
-        "Affleck sold his AI filmmaking startup to Netflix for $587 million and now publicly demonstrates AI concepts to tech audiences.",
-        "He explains how neural networks and transformers can be fine‑tuned for cinematic workflows, a method he applied in his film \"Animals.\"",
-        "Affleck’s company InterPositive built a proprietary dataset to train open models for specific film tasks.",
-        "He stresses responsible AI use and views the technology as additive, not disruptive, to filmmaking."
-      ],
-      "topics": [
-        "ai",
-        "filmmaking",
-        "startup",
-        "tech",
-        "entertainment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "processed_at": "2026-10-12T18:45:51.813319+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-08-a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Richard-Bronson-Pic.jpg?w=640",
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison, has launched an AI‑powered employment platform called Commissary Club aimed at helping ex‑cons find jobs, housing and community support. The site offers a free tier for the first ten applications before switching to a paid model, positioning itself as a for‑profit solution to a largely unmet market. Bronson’s personal experience with post‑prison barriers shaped the platform’s mission to create opportunities for people society has largely ignored. Commissary Club was selected to compete in TechCrunch’s Startup Battlefield 200 at Disrupt Oct. 13‑15 in San Francisco.",
-      "key_points": [
-        "Richard Bronson, ex‑Stratton Oakmont partner and former federal inmate, founded Commissary Club to aid ex‑cons in reentering the workforce",
-        "The platform uses AI to match users with jobs, housing, benefits and a supportive community, addressing a largely untapped market",
-        "Commissary Club offers a free tier for the first ten applications before moving to a paid subscription model",
-        "The startup was chosen to compete in TechCrunch’s Startup Battlefield 200 at Disrupt Oct. 13‑15"
-      ],
-      "topics": [
-        "startup",
-        "ai",
-        "employment",
-        "ex‑cons",
-        "techcrunch"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 16:45:00 +0000",
-      "processed_at": "2026-10-12T18:45:51.878092+00:00"
     }
   ]
 }
