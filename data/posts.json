@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-19T00:00:02.666236+00:00",
+  "updated_at": "2026-10-19T04:29:29.760697+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-15-bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Bluesky announced it will roll out payments in the coming months to enable buying, selling, and fundraising directly on its decentralized network, a move that bypasses traditional advertising revenue. The company’s CEO Toni Schneider explained that the new monetization model will be transparent and designed to benefit creators, aligning with Bluesky’s public‑benefit corporation status. By building on existing commerce activity, Bluesky aims to disrupt the infrastructure layer of social media rather than just adding another app. The announcement marks a significant shift toward infrastructure‑level revenue models for decentralized platforms.",
+      "key_points": [
+        "Bluesky will introduce payments to enable buying, selling, and fundraising on its decentralized network.",
+        "Monetization will be designed to benefit creators and avoid traditional advertising.",
+        "CEO Toni Schneider, former Automattic CEO, leads the initiative after taking over in March.",
+        "The company’s public‑benefit corporation structure guides its revenue strategy."
+      ],
+      "topics": [
+        "bluesky",
+        "payments",
+        "monetization",
+        "social media",
+        "public benefit corporation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 19:29:05 +0000",
+      "processed_at": "2026-10-19T04:29:04.339868+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Anthropic has announced that six researchers from the nonprofit METR will receive employee‑level access to its internal tools, office space, and laptops to independently evaluate the company’s frontier AI models, safety protocols, and risk management. The move comes amid a wave of incidents where AI agents acted outside their instructions, prompting calls for greater transparency and external oversight. Anthropic likens the arrangement to banking regulators placing resident examiners inside major banks, and it has agreed to allow METR to publish its findings without veto power, except for narrowly defined redactions. This initiative fulfills a promise made by CEO Dario Amodei in a September essay and aligns with a White House accord that encourages AI firms to embed outside evaluators in their labs.",
+      "key_points": [
+        "Anthropic grants METR researchers employee‑level access to assess its AI models and safety practices",
+        "METR is free to publish its assessments without Anthropic’s veto, only limited redactions are allowed",
+        "The arrangement mirrors banking regulator practices and is part of Anthropic’s tiered evaluator system",
+        "The move follows CEO Amodei’s September essay and a White House accord on independent AI review"
+      ],
+      "topics": [
+        "ai safety",
+        "independent audit",
+        "anthropic",
+        "metr",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 19:14:26 +0000",
+      "processed_at": "2026-10-19T04:29:13.510499+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-15-citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1404252962.jpg?resize=1200,800",
+      "title": "Governments are hacking people with 'zero-click' spyware by showing them online ads | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Security researchers at Citizen Lab have revealed that an Israeli advertising company, Discover‑Tech, is being used by government‑backed spyware makers to deliver zero‑click malware through online ads. The study shows that spyware firms Candiru and Bindecy exploited Discover‑Tech’s Controlium platform to target specific devices worldwide, infecting at least 45 Windows computers at Al Jazeera in 2024‑2025. The attacks demonstrate that malicious code can be embedded in ads that reach military, government, and critical‑infrastructure devices, raising the risk of widespread covert surveillance. Citizen Lab urges users to disable ad tracking or block ads entirely to protect themselves from this emerging threat.",
+      "key_points": [
+        "Discover‑Tech’s ad platform is being used to deliver zero‑click spyware to targeted devices worldwide.",
+        "Citizen Lab’s report documents at least 45 Al Jazeera Windows computers infected via Candiru spyware in 2024‑2025.",
+        "The malicious ads were shown on devices used by militaries, governments, and critical infrastructure, indicating a broad potential impact.",
+        "The findings highlight the need for stronger ad‑blocking and tracking‑disabling measures to defend against covert government‑backed hacking."
+      ],
+      "topics": [
+        "spyware",
+        "adtech",
+        "cybersecurity",
+        "government surveillance",
+        "malvertising"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "processed_at": "2026-10-19T04:29:04.054319+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-15-meta-launches-an-open-weight-model-that-runs-on-macs",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
@@ -2395,79 +2470,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 09 Oct 2026 21:41:29 +0000",
       "processed_at": "2026-10-14T11:32:31.760607+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-08-amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tablets_Hero_1920x1080.png?resize=1200,675",
-      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Amazon announced a new line of Alexa tablets that run Android and include Alexa+ AI, with access to the Google Play Store at launch. The lineup features 12‑inch Pro, 11‑inch, and 8‑inch models, each with aluminum unibody designs, high‑resolution displays, and improved performance, with the 12‑inch Pro starting at $499.99. The devices also support Alexa’s On‑Screen Intelligence, Dolby Atmos speakers, Wi‑Fi 6E, and a new Kindle reading experience, positioning Amazon to compete with other Android tablets and expand its ecosystem. The tablets will go on sale on October 14, 2026, in North America and on October 19 in Europe, with Amazon Kids tablets launching simultaneously in Japan.",
-      "key_points": [
-        "Amazon launches Android‑based Alexa tablets with Google Play Store access and Alexa+ AI.",
-        "The 12‑inch Pro offers 3× processing and 9× graphics performance, starting at $499.99.",
-        "Devices include On‑Screen Intelligence, Dolby Atmos, Wi‑Fi 6E, and a new Kindle experience, expanding Amazon’s hardware ecosystem."
-      ],
-      "topics": [
-        "amazon",
-        "alexa",
-        "tablets",
-        "android",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 08 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-14T05:55:46.282577+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-long-live-the-mechanical-keyboard",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
-      "title": "Long live the mechanical keyboard | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "The article celebrates mechanical keyboards, focusing on Keychron's lineup and its appeal to writers and gamers. It highlights the K2 as a popular entry‑level model, the higher‑end K8 HE Wireless Magnetic Switch with an all‑wood body, and the C0 HE One‑Handed 8K keypad. The author praises the tactile feel, customizable keycaps, and nostalgic retro design that make mechanical keyboards a worthwhile home‑office upgrade. Keychron’s range spans $60 to $200, offering both wired and Bluetooth options for a clean workspace.",
-      "key_points": [
-        "Keychron’s K2 is a budget-friendly, versatile mechanical keyboard that supports wired and Bluetooth connections.",
-        "The company’s premium models, such as the K8 HE Wireless Magnetic Switch, feature unique wood bodies and LED backlighting at around $200.",
-        "Mechanical keyboards offer customizable keycaps, distinct typing sound, and a nostalgic aesthetic that appeals to both writers and gamers."
-      ],
-      "topics": [
-        "mechanical keyboard",
-        "keychron",
-        "tech accessories",
-        "home office",
-        "gaming peripherals"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 22:08:24 +0000",
-      "processed_at": "2026-10-14T05:55:46.016326+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-a16zs-olivia-moore-on-the-state-of-consumer-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896",
-      "title": "a16z’s Olivia Moore on the state of consumer AI | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Olivia Moore, a partner at Andreessen Horowitz, released a report on the top 100 consumer AI apps that shows ChatGPT still dominates while smaller players such as Suno and ElevenLabs are gaining traction. The report notes that only 2.2% of U.S. households currently pay for AI and identifies six consumer categories that remain untouched by AI, highlighting a significant market gap. Moore argues that the industry must diversify revenue beyond subscriptions and API usage, favoring ad‑supported or freemium models to reach broader audiences. She also observes a rapid shift from consumer‑first to enterprise‑focused products, with companies like Gamma, ElevenLabs, and Cursor moving to majority enterprise within 18 months, blurring the line between consumer and prosumer AI.",
-      "key_points": [
-        "ChatGPT remains the largest consumer AI app, but emerging players like Suno and ElevenLabs are gaining traction.",
-        "Only 2.2% of U.S. households currently pay for AI, and six key consumer categories lack AI entrants.",
-        "Revenue models need to move beyond subscriptions and API charges toward ad‑supported or freemium approaches.",
-        "Many consumer‑first AI companies are quickly pivoting to enterprise, blurring the consumer‑enterprise divide."
-      ],
-      "topics": [
-        "consumer ai",
-        "startup",
-        "revenue models",
-        "enterprise",
-        "ai economics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "processed_at": "2026-10-14T05:55:45.852800+00:00"
     }
   ]
 }
