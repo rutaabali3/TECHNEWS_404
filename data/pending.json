@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T04:29:02.661977+00:00",
+  "updated_at": "2026-10-19T10:13:05.730711+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -20,30 +20,6 @@
       "published": "Thu, 15 Oct 2026 00:49:31 +0000"
     },
     {
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "feed_excerpt": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-      "published": "Thu, 15 Oct 2026 00:30:00 +0000"
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "feed_excerpt": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "published": "Thu, 15 Oct 2026 18:56:46 +0000"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "feed_excerpt": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "published": "Thu, 15 Oct 2026 23:44:56 +0000"
-    },
-    {
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "feed_excerpt": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "published": "Thu, 15 Oct 2026 23:33:45 +0000"
-    },
-    {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
       "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
       "feed_excerpt": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
@@ -54,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "feed_excerpt": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
       "published": "Fri, 16 Oct 2026 01:17:43 +0000"
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "feed_excerpt": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "published": "Fri, 16 Oct 2026 14:26:51 +0000"
     },
     {
       "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -192,7 +162,13 @@
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "feed_excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
       "published": "Sun, 18 Oct 2026 20:37:40 +0000"
+    },
+    {
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "feed_excerpt": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "published": "Mon, 19 Oct 2026 07:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-19T04:29:13.510589+00:00"
+  "last_processed_at": "2026-10-19T10:13:24.425123+00:00"
 }

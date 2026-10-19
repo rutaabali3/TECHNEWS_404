@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-10-19T04:29:29.760697+00:00",
+  "updated_at": "2026-10-19T10:13:45.158399+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-15-when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+      "title": "When it came to Cal AI's viral success, a small army of influencers paid off | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Zach Yadegari, a 19‑year‑old founder of Cal AI, has turned a calorie‑tracking app into a $30 million‑revenue brand in just two years. The company’s meteoric rise was driven by a paid influencer army that generated thousands of new users per post and proved a linear, fast‑growth formula. In March, Cal AI was acquired by MyFitnessPal for an undisclosed sum, while Yadegari simultaneously launched Persona, an AI‑assistant startup that has already raised $10 million. Yadegari credits the success to negotiating clear payout tiers with “broke college kid” influencers and to targeting tight‑community creators, and he dismisses formal education as unnecessary for his ambitions.",
+      "key_points": [
+        "Cal AI grew to $30M revenue in two years through a paid influencer strategy",
+        "The company was acquired by MyFitnessPal for an undisclosed amount in March 2024",
+        "Yadegari launched Persona, raising $10M for an AI assistant that aims to integrate with everyday platforms",
+        "Influencer success hinged on negotiated payouts and targeting tight‑community creators"
+      ],
+      "topics": [
+        "startup",
+        "ai",
+        "influencer marketing",
+        "acquisition",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "processed_at": "2026-10-19T10:13:07.499575+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800",
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Intero Biosystems, a Denver‑based startup spun out of the University of Michigan, won TechCrunch’s Startup Battlefield 2026 at Disrupt in San Francisco. The company builds 1 mm human intestinal organoids that let pharma, biotech, food and chemical firms test drugs and compounds before human trials, and sells its flagship product GastroScreen. The 20‑team competition culminated in a live demo round judged by venture capitalists and TechCrunch editors, with Intero’s demo standing out among finalists such as Apate, Flox Intelligence, Industrial Next, and Satlyt. The win adds Intero to a roster of Battlefield alumni that have collectively raised over $30 billion and achieved more than 200 exits.",
+      "key_points": [
+        "Intero Biosystems won Startup Battlefield 2026, earning a $100,000 prize and the Cup.",
+        "The startup creates 1 mm gut organoids for drug and compound testing, selling its GastroScreen platform.",
+        "The competition featured 20 startups, narrowed to five finalists, and judged by VCs and TechCrunch editors.",
+        "Battlefield alumni have raised over $30 billion and secured more than 200 exits."
+      ],
+      "topics": [
+        "startup",
+        "biotech",
+        "organoids",
+        "techcrunch",
+        "disrupt"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 23:33:45 +0000",
+      "processed_at": "2026-10-19T10:13:24.425031+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Bluesky has expanded its experimental Attie platform to let anyone build interactive experiences such as websites, games, quizzes, and polls, moving beyond its original AI‑powered custom social feeds. The new tool runs on the AT Protocol, giving creators built‑in distribution across Bluesky’s decentralized social network and tying projects to users’ ATProto identities. Creators can bring their own AI models or use open‑weight options, and Attie will suggest projects based on public Bluesky profiles. CEO Toni Schneider, who has taken over as interim chief after Jay Graber’s departure, says the move is part of Bluesky’s push to revitalize engagement and support developers in the AI era.",
+      "key_points": [
+        "Attie now supports building websites, games, quizzes, and polls for everyday users",
+        "Projects built with Attie run on AT Protocol, giving them built‑in distribution across Bluesky’s network",
+        "Creators can use their own AI models or open‑weight options and receive suggestions based on their Bluesky profiles",
+        "Toni Schneider, Bluesky’s interim CEO, is steering the company toward an AI‑focused future"
+      ],
+      "topics": [
+        "bluesky",
+        "attie",
+        "ai",
+        "decentralized social web",
+        "atproto"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 18:56:46 +0000",
+      "processed_at": "2026-10-19T10:13:07.413766+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-14-meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589641951_6720ea2948_5k.jpg?resize=1200,800",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026 | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "TechCrunch’s Disrupt 2026 will feature five finalists in the Startup Battlefield finals, representing four categories: space and physical AI, energy and manufacturing, health tech and life sciences, and enterprise and security. The finalists include Apate, which deploys AI agents to bait scammers; Flox Intelligence, which uses edge AI to deter wildlife; Intero Biosystems, which creates multi‑cell intestinal organoids for drug testing; Industrial Next, which offers AI‑driven robotic stations that can be retooled in minutes; and Satlyt, which builds software for shared satellite computing. The finals begin tomorrow at 11:30 a.m. Pacific, with a panel of judges selecting a winner who receives the Startup Battlefield Cup and $100,000 equity‑free. This lineup showcases a broad spectrum of emerging technologies, from AI‑powered fraud prevention to advanced biomedical models and autonomous manufacturing solutions.",
+      "key_points": [
+        "Five startups from four categories will compete in the Startup Battlefield finals at Disrupt 2026",
+        "Apate uses AI agents to bait and study scammers",
+        "Intero Biosystems develops multi‑cell intestinal organoids for more accurate drug testing",
+        "Industrial Next offers AI‑driven robotic stations that can be retooled in minutes"
+      ],
+      "topics": [
+        "techcrunch",
+        "startupbattlefield",
+        "disrupt2026",
+        "ai",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 15 Oct 2026 00:30:00 +0000",
+      "processed_at": "2026-10-19T10:13:07.331912+00:00"
+    },
+    {
+      "id": "unch-com-2026-10-16-mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+      "title": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Mark Wahlberg spoke at TechCrunch Disrupt about his view that AI can be a useful tool in filmmaking when used responsibly, such as enhancing set design for his upcoming Pete Rose biopic. He stressed that AI should not replace real actors or generate full scripts, but rather augment the creative process while keeping storytelling at the core. Wahlberg also expressed openness to creating an AI likeness of himself for future projects, including his animated series \"Ted,\" to preserve his legacy. He has not yet used the CAA Vault but would consider it if it allows his descendants to manage his image responsibly.",
+      "key_points": [
+        "Wahlberg supports AI for enhancing film elements, not for replacing actors or writing scripts",
+        "He is open to using an AI likeness of himself for future projects and legacy preservation",
+        "He prioritizes storytelling over effects-driven filmmaking",
+        "He has not used the CAA Vault yet but would consider it for managing his image"
+      ],
+      "topics": [
+        "ai",
+        "film",
+        "technology",
+        "entertainment",
+        "storytelling"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "processed_at": "2026-10-19T10:13:07.300421+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-15-bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800",
@@ -2347,129 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 10 Oct 2026 15:00:00 +0000",
       "processed_at": "2026-10-14T16:49:48.211494+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Elon Musk has intensified criticism of Mukesh Ambani over the delay of Starlink’s launch in India, calling Ambani the country’s \"prime minister\" and accusing him of blocking competition. Musk’s tweets highlight the broader regulatory battle, with India’s Ministry of Communications insisting the spectrum allocation process is fair and non‑discriminatory. Starlink, which has secured key regulatory clearances but not commercial approval, had previously struck distribution deals with Reliance Jio and Airtel, yet remains stalled amid concerns over monopolistic influence. The dispute underscores the challenges SpaceX faces in entering India’s massive internet market and the broader tension between foreign tech firms and powerful domestic conglomerates.",
-      "key_points": [
-        "Musk accuses Mukesh Ambani of blocking Starlink’s launch, labeling him the \"prime minister\" of India.",
-        "India’s Ministry of Communications says the spectrum allocation process is fair and that Starlink is not singled out.",
-        "Starlink has regulatory clearances but no commercial approval, and its launch is stalled amid concerns over monopolistic influence."
-      ],
-      "topics": [
-        "elon musk",
-        "starlink",
-        "india",
-        "ambani",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 10 Oct 2026 03:10:06 +0000",
-      "processed_at": "2026-10-14T16:49:48.017245+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-10-microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Microsoft CEO Satya Nadella has urged that AI models require an “emergency brake” to improve safety. He argues that the model should be separated from the harness that orchestrates its work, with external controls and safeguards that can be paused or shut down at any time. Nadella also insists that every meaningful model action be documented with tamper‑proof, human‑readable evidence so that an authorized person can intervene if the model is compromised. His remarks come amid growing concerns over AI incidents and follow Anthropic’s call for more cautious development.",
-      "key_points": [
-        "Nadella calls for separating AI models from their orchestration harness and adding external controls that can be paused or shut down.",
-        "He demands tamper‑proof, human‑readable documentation for every meaningful model action.",
-        "The push for an emergency brake follows rising incidents of AI loss of control and Anthropic’s cautious development plan."
-      ],
-      "topics": [
-        "ai safety",
-        "ai regulation",
-        "trust architecture",
-        "emergency brake",
-        "technology leadership"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "processed_at": "2026-10-14T11:32:13.570687+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-10-cloudflare-acquires-deno-to-improve-its-workers-programming-model",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Cloudflare announced it had acquired Deno, the startup that built the Deno runtime, to strengthen its Workers serverless platform. The deal follows Deno’s recent release of celld, an open‑source implementation of Workers that impressed Cloudflare’s principal engineer for Workers, Kenton Varda. Deno co‑founders Bert Belder and Ryan Dahl said the partnership will help make the Workers programming model a mainstream way to build servers, while Varda emphasized that keeping Workers open source is good business. The financial terms were not disclosed, but Deno has raised $26 million to date, including a Series A led by Sequoia.",
-      "key_points": [
-        "Cloudflare is acquiring Deno to enhance its Workers serverless platform",
-        "Deno’s open‑source celld implementation impressed Cloudflare’s engineering team",
-        "The partnership aims to make Workers a mainstream server‑building model",
-        "Deno has raised $26 million, but acquisition terms remain undisclosed"
-      ],
-      "topics": [
-        "cloudflare",
-        "deno",
-        "workers",
-        "acquisition",
-        "serverless"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
-      "processed_at": "2026-10-14T11:32:22.386854+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-10-all-the-ai-agents-that-can-live-in-your-text-messages",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "title": "Here are the top AI agents that can live in your text messages | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "TechCrunch highlights the growing trend of AI agents that operate directly through text messaging, eliminating the need for separate apps. The article profiles a range of agents—from Instinct, which boasts a $10 billion valuation and can act on users’ behalf via dedicated email addresses, to Caddy and Comma that manage tasks and calendars within iMessage and RCS. Family‑centric assistants such as Fambot and Ohai organize household schedules and communications, while Miso offers AI‑powered travel planning with human support. Together, these tools illustrate a shift toward seamless, context‑aware productivity integrated into everyday messaging platforms.",
-      "key_points": [
-        "Instinct leads the market with a $10 billion valuation and autonomous email‑based task execution",
-        "Caddy and Comma provide cross‑device task management and proactive reminders via iMessage and RCS",
-        "Family‑focused agents like Fambot and Ohai streamline household coordination and communication",
-        "Miso combines AI trip planning with a dedicated travel team for personalized itineraries"
-      ],
-      "topics": [
-        "ai agents",
-        "messaging",
-        "productivity",
-        "family tech",
-        "travel tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-14T11:32:13.548901+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "TypeSafe AI, the maker of the Jev AI model, closed a $870 million round that values the company at $7.5 billion. Jev, launched on September 15, quickly went viral and is already being used by roughly one‑third of Fortune 500 firms, according to the startup. Unlike large language models, Jev produces calibrated probability decisions rather than text, and claims to run faster and use far fewer tokens, making it attractive for automation tasks. The funding, led by Andreessen Horowitz with Sequoia and DCVC, underscores the market’s appetite for new AI modalities that can replace text‑centric approaches in enterprise workflows.",
-      "key_points": [
-        "TypeSafe AI raised $870 million, valuing the company at $7.5 billion",
-        "Jev was launched on September 15 and is already used by about one‑third of Fortune 500 companies",
-        "Jev outputs calibrated decisions instead of text, offering faster, token‑efficient automation",
-        "Funding was led by Andreessen Horowitz with participation from Sequoia and DCVC"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "technology",
-        "enterprise"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "processed_at": "2026-10-14T11:32:31.760607+00:00"
     }
   ]
 }
