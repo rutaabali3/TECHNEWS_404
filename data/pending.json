@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:43:00.458432+00:00",
+  "updated_at": "2026-10-18T23:59:47.784202+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -26,34 +26,10 @@
       "published": "Thu, 15 Oct 2026 00:30:00 +0000"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "feed_excerpt": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "published": "Thu, 15 Oct 2026 14:00:00 +0000"
-    },
-    {
       "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
       "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
       "feed_excerpt": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
       "published": "Thu, 15 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "feed_excerpt": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-      "published": "Thu, 15 Oct 2026 14:47:09 +0000"
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "feed_excerpt": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "published": "Thu, 15 Oct 2026 20:04:53 +0000"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "feed_excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "published": "Thu, 15 Oct 2026 19:55:25 +0000"
     },
     {
       "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
@@ -236,5 +212,5 @@
       "published": "Sun, 18 Oct 2026 20:37:40 +0000"
     }
   ],
-  "last_processed_at": "2026-10-18T21:43:28.440418+00:00"
+  "last_processed_at": "2026-10-19T00:00:01.659020+00:00"
 }
