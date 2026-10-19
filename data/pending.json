@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:13:05.730711+00:00",
+  "updated_at": "2026-10-19T17:06:02.845728+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -48,12 +48,6 @@
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "feed_excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "published": "Fri, 16 Oct 2026 17:52:24 +0000"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "feed_excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000"
     },
     {
       "title": "Waymo’s robotaxis are headed to Canada",
@@ -168,7 +162,37 @@
       "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
       "feed_excerpt": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
       "published": "Mon, 19 Oct 2026 07:30:00 +0000"
+    },
+    {
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "feed_excerpt": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "published": "Mon, 19 Oct 2026 16:55:56 +0000"
+    },
+    {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "feed_excerpt": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "published": "Mon, 19 Oct 2026 16:13:22 +0000"
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "feed_excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "published": "Mon, 19 Oct 2026 15:37:09 +0000"
+    },
+    {
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "feed_excerpt": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+      "published": "Mon, 19 Oct 2026 12:56:14 +0000"
+    },
+    {
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "feed_excerpt": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+      "published": "Mon, 19 Oct 2026 12:42:55 +0000"
     }
   ],
-  "last_processed_at": "2026-10-19T10:13:24.425123+00:00"
+  "last_processed_at": "2026-10-19T17:06:11.481964+00:00"
 }

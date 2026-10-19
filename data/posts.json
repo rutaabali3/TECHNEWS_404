@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-19T10:13:45.158399+00:00",
+  "updated_at": "2026-10-19T17:06:28.847354+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-video-a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, argues that robotics is still in its \"Lego era,\" with core components such as actuators, robotic hands, software, and safety standards being rebuilt. She counters the belief that a single general foundation model will trigger a \"ChatGPT moment\" for robotics, a view popularized by General Intuition CEO Pim de Witte. In a recent episode of TechCrunch’s Equity podcast, Vishwanath discussed her new role as founder and managing partner of Techable VC, where she is writing first checks for early‑stage firms in physical AI, including robotics, materials science, and life sciences. The interview highlights her status as one of the first women executives to spin out of NVIDIA and launch her own venture firm.",
+      "key_points": [
+        "Robotics remains in a \"Lego era\" with foundational components still being rebuilt",
+        "The hype that a general foundation model will instantly transform robotics is premature",
+        "Vishwanath is now investing in physical AI through her VC, Techable, targeting robotics, materials science, and life sciences",
+        "She is among the first women to spin out of NVIDIA and start an early‑stage venture firm"
+      ],
+      "topics": [
+        "robotics",
+        "ai",
+        "venturecapital",
+        "nvidia",
+        "foundationmodel"
+      ],
+      "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "processed_at": "2026-10-19T17:06:11.481874+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-15-when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
@@ -2447,31 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 10 Oct 2026 17:00:00 +0000",
       "processed_at": "2026-10-14T16:50:03.359316+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-10-3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
-      "title": "3 days to Disrupt 2026: Meet the startups before they hit mainstream | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will open on Oct. 13 in San Francisco’s Moscone West, with a three‑day countdown and up to $100 in pass savings. Attendees can buy a ticket and bring a second at 50% off, or register four or more for additional discounts, including a $75 Expo+ pass for those affected by layoffs. The event will feature over 300 early‑stage startups, 200+ sessions led by 250+ tech leaders, and the Startup Battlefield 200 competition offering a $100,000 prize and the Disrupt Cup. Participants will have the chance to discover breakout companies, network with investors, and hear industry announcements before they hit mainstream.",
-      "key_points": [
-        "Disrupt 2026 opens Oct. 13 at Moscone West with up to $100 off passes and 50% off a second ticket",
-        "Over 300 startups and 200+ sessions led by 250+ tech leaders showcase innovations across AI, product, GTM, fundraising, finance, infrastructure, and scaling",
-        "Startup Battlefield 200 offers a $100,000 prize and the Disrupt Cup to 20 finalists",
-        "Expo+ pass available for $75 for those impacted by layoffs"
-      ],
-      "topics": [
-        "tech events",
-        "startup discovery",
-        "discounts",
-        "investor networking",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-14T16:49:48.211494+00:00"
     }
   ]
 }
