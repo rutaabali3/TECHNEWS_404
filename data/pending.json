@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:06:02.845728+00:00",
+  "updated_at": "2026-10-19T21:41:08.969309+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
       "feed_excerpt": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
       "published": "Wed, 14 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "feed_excerpt": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-      "published": "Thu, 15 Oct 2026 00:49:31 +0000"
     },
     {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
@@ -42,18 +36,6 @@
       "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
       "feed_excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
       "published": "Fri, 16 Oct 2026 12:55:09 +0000"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "feed_excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "published": "Fri, 16 Oct 2026 17:52:24 +0000"
-    },
-    {
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "feed_excerpt": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "published": "Fri, 16 Oct 2026 16:06:38 +0000"
     },
     {
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -192,7 +174,55 @@
       "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
       "feed_excerpt": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
       "published": "Mon, 19 Oct 2026 12:42:55 +0000"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "feed_excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "feed_excerpt": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "published": "Mon, 19 Oct 2026 19:28:34 +0000"
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "feed_excerpt": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "published": "Mon, 19 Oct 2026 19:00:12 +0000"
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "feed_excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "published": "Mon, 19 Oct 2026 18:49:04 +0000"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "feed_excerpt": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000"
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "feed_excerpt": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "published": "Mon, 19 Oct 2026 18:00:39 +0000"
+    },
+    {
+      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "feed_excerpt": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+      "published": "Mon, 19 Oct 2026 17:39:51 +0000"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "published": "Mon, 19 Oct 2026 12:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-19T17:06:11.481964+00:00"
+  "last_processed_at": "2026-10-19T21:41:18.617731+00:00"
 }
