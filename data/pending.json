@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-20T19:54:45.115085+00:00",
+  "updated_at": "2026-10-20T23:02:03.260110+00:00",
   "items": [
-    {
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "feed_excerpt": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-      "published": "Sat, 17 Oct 2026 20:55:52 +0000"
-    },
     {
       "title": "TechCrunch Mobility: Rivian’s next act",
       "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
@@ -14,28 +8,10 @@
       "published": "Sun, 18 Oct 2026 16:05:00 +0000"
     },
     {
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "feed_excerpt": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
-      "published": "Sun, 18 Oct 2026 19:03:38 +0000"
-    },
-    {
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "feed_excerpt": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-      "published": "Sun, 18 Oct 2026 21:00:00 +0000"
-    },
-    {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "feed_excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
       "published": "Sun, 18 Oct 2026 20:37:40 +0000"
-    },
-    {
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "feed_excerpt": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-      "published": "Mon, 19 Oct 2026 07:30:00 +0000"
     },
     {
       "title": "People are using AI to make their smart TVs dumb again",
@@ -252,7 +228,49 @@
       "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
       "feed_excerpt": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
       "published": "Tue, 20 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "feed_excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000"
+    },
+    {
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "feed_excerpt": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "published": "Tue, 20 Oct 2026 22:57:57 +0000"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "feed_excerpt": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "feed_excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000"
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "feed_excerpt": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "published": "Tue, 20 Oct 2026 20:40:41 +0000"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "feed_excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "published": "Tue, 20 Oct 2026 20:35:10 +0000"
+    },
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "feed_excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "published": "Tue, 20 Oct 2026 20:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-20T19:54:46.784750+00:00"
+  "last_processed_at": "2026-10-20T23:02:24.734783+00:00"
 }

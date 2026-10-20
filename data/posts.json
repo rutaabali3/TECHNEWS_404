@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-20T19:55:13.421085+00:00",
+  "updated_at": "2026-10-20T23:02:30.288856+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "chcrunch-com-2026-10-18-no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Benchmark announced a $2 billion raise across two funds this summer, marking only the second time in its 31‑year history that the firm has moved away from smaller vehicles. At TechCrunch Disrupt, the firm’s five partners highlighted a deliberate, low‑volume investment approach, making only two or three new bets per partner each year while maintaining a close‑knit, founder‑centric culture. Their Monday meetings run without a formal agenda, allowing the partners to stay reactive and collaborative in a rapidly changing market. The new growth fund expands Benchmark’s mandate beyond early‑stage deals, but the firm remains focused on concentrated, high‑impact investments.\n",
+      "key_points": [
+        "Benchmark raised $2 billion across two funds, the second time in 31 years it has deviated from smaller vehicles",
+        "Partners invest only 2–3 new bets per partner per year, emphasizing a low‑volume, founder‑first strategy",
+        "Meetings are agenda‑free, fostering a collaborative and reactive decision‑making process",
+        "The new growth fund broadens opportunities but still aims for concentrated, high‑impact deals"
+      ],
+      "topics": [
+        "benchmark",
+        "venturecapital",
+        "fundraising",
+        "startupfunding",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 18 Oct 2026 21:00:00 +0000",
+      "processed_at": "2026-10-20T23:02:04.518574+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-18-everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’ | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "The documentary \"You Can See Everything\" about Elizabeth Holmes has become a box‑office sensation, pulling in a $15 million opening weekend and ranking as the second‑largest opening for a documentary. The nearly three‑hour film, released after a secret screening at Telluride, is playing in only 855 theaters but has already sold out 2,000 showings and holds a 99 % rating on Rotten Tomatoes and Metacritic. Filmmakers were granted unprecedented access to Holmes and her family in the month before her 11‑year prison sentence, and the project was co‑directed by comedian Nathan Fielder, adding a surreal, meta‑textual layer. The film’s success has eclipsed other tech‑centric releases such as \"The Social Reckoning\" and Alex Gibney’s \"Musk,\" underscoring Holmes’s enduring public fascination.",
+      "key_points": [
+        "$15 million opening weekend, the second‑largest for a documentary",
+        "99 % rating on Rotten Tomatoes and Metacritic",
+        "Unprecedented access to Holmes and her family, co‑directed by Nathan Fielder"
+      ],
+      "topics": [
+        "documentary",
+        "theranos",
+        "elizabeth holmes",
+        "box office",
+        "techcrime"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 18 Oct 2026 19:03:38 +0000",
+      "processed_at": "2026-10-20T23:02:04.890545+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-17-tiktok-permanently-bans-musk-documentary-advertising-account",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+      "title": "TikTok says it's restored ‘Musk’ documentary advertising account | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "TikTok has restored the advertising account for the four‑hour documentary \"Musk\" after an error, following a temporary suspension for political content. Meta and YouTube also initially rejected ads for the film but later lifted the bans, citing technical mistakes. Elon Musk’s own platform X has declined to run any ads for the documentary. The film, directed by Alex Gibney, is expanding its theatrical run and is slated to stream on HBO next year.",
+      "key_points": [
+        "TikTok restored the \"Musk\" ad account after an error",
+        "Meta and YouTube initially rejected ads but later allowed them",
+        "X refuses to carry ads for the documentary",
+        "The film is moving forward with broader release and HBO streaming"
+      ],
+      "topics": [
+        "tiktok",
+        "advertising",
+        "elon musk",
+        "documentary",
+        "social media platforms"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 17 Oct 2026 20:55:52 +0000",
+      "processed_at": "2026-10-20T23:02:24.734600+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India's hospital economics | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Even Healthcare has raised $50 million in a Series B round led by Khosla Ventures, valuing the Indian health‑tech startup at $300 million and tripling its valuation in 18 months. The company is building its own hospitals in Bengaluru, paying doctors fixed salaries and focusing on patient outcomes, which has led to less than 1% readmission rates, 40% shorter stays, and savings of over ₹500 million for insurers. Despite individual hospitals turning profitable, Even remains loss‑making with a net loss of ₹902 million in fiscal 2025, but it plans to open five more hospitals in the next six months. Khosla Ventures sees Even’s model as a scalable, outcome‑based alternative to India’s current fee‑for‑service hospital economics.",
+      "key_points": [
+        "Even Healthcare secured a $50M Series B led by Khosla Ventures, valuing the firm at $300M.",
+        "The startup builds its own hospitals, pays doctors fixed salaries, and has achieved <1% readmission and 40% shorter stays.",
+        "Even’s hospitals are profitable, yet the company posted a ₹902M net loss in fiscal 2025 and is expanding rapidly.",
+        "Khosla Ventures views Even’s outcome‑driven model as a scalable alternative to India’s fee‑for‑service hospital system."
+      ],
+      "topics": [
+        "healthcare",
+        "startup",
+        "venturecapital",
+        "india",
+        "hospitalcare"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 07:30:00 +0000",
+      "processed_at": "2026-10-20T23:02:04.529679+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-18-disney-agrees-to-hire-the-majority-of-character-ais-workforce",
       "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
@@ -2361,109 +2460,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 12:40:00 +0000",
       "processed_at": "2026-10-15T22:00:20.631507+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889460445_20c033b45a_o-2.jpg?resize=1200,800",
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between | TechCrunch",
-      "author": "Isabelle Johannessen",
-      "summary": "The 2026 Startup Battlefield Top 20 list showcases twenty founders who are turning the invisible into measurable data, ranging from miniature human organs to hydrogen-powered space launchers. These companies span biology, AI, space, and industrial sectors, all aiming to automate complex tasks and improve decision‑making. They will pitch for a $100,000 prize and the coveted Disrupt Cup during a six‑minute session at TechCrunch Disrupt on October 15. The event will also feature alumni updates and is supported by Google for Startups and SAP.",
-      "key_points": [
-        "Twenty startups across biology, AI, space, and industry are competing for a $100,000 prize and the Disrupt Cup",
-        "The common theme is measuring previously invisible signals to enable automation and better decision‑making",
-        "Five finalists will advance to the finals on October 15 after semifinal sessions",
-        "Alumni updates from Glīd, Nephrogen, and Molecule.one will precede the final pitch"
-      ],
-      "topics": [
-        "startupbattlefield",
-        "techcrunch",
-        "disrupt",
-        "innovation",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 15:02:00 +0000",
-      "processed_at": "2026-10-15T18:31:05.305512+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Bumble has agreed to be acquired by Ithaca Holdings for $1.3 billion, taking the dating app private after a period of declining paying users and revenue. The deal follows a board review that recommended the transaction, and founder Whitney Wolfe Herd will remain actively involved in the company. Going private is expected to give Bumble more flexibility to experiment with AI‑driven features and new offline‑connection initiatives, moving beyond its traditional swipe‑based model. The acquisition reflects a broader reset in the online dating market as companies seek to innovate under less public‑market pressure.",
-      "key_points": [
-        "Bumble will be acquired by Ithaca Holdings for $1.3 billion and will go private",
-        "Paying users fell 16.4% to about 3.2 million and revenue dropped 15.2% YoY to $211 million",
-        "Founder Whitney Wolfe Herd will stay active while the company explores AI and offline‑connection features",
-        "The move aims to allow Bumble to innovate without quarterly public‑market scrutiny"
-      ],
-      "topics": [
-        "online dating",
-        "acquisition",
-        "private equity",
-        "ai",
-        "women-first"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 14:25:48 +0000",
-      "processed_at": "2026-10-15T18:31:04.991589+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-aaron-sorkins-social-reckoning-is-off-to-a-weak-start",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/social-reckoning.jpg?resize=1200,800",
-      "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Aaron Sorkin’s follow‑up to \"The Social Network,\" \"The Social Reckoning,\" is opening to a weak $5.5 million domestic box office, falling short of the studio’s $7‑$8 million projection and indicating it will likely not match the original’s success. The sequel’s darker focus on whistleblower Frances Haugen and its heavy, speech‑laden style have earned lukewarm reviews and may have alienated younger audiences, who are increasingly drawn to AI‑centric stories. The weekend’s modest earnings, alongside the modest opening of Alex Gibney’s four‑hour documentary \"Musk,\" suggest a shift in audience interest toward real‑world tech CEOs and AI narratives. Overall, the performance underscores the changing theatrical landscape and the challenges of translating a high‑profile tech drama into a blockbuster hit.",
-      "key_points": [
-        "The film earned only $5.5 million domestically, below the $7‑$8 million projected by the studio",
-        "Its darker, speech‑heavy tone and focus on Frances Haugen’s whistleblowing have led to poor reviews and limited appeal",
-        "The weekend box office signals a shift in audience interest toward AI and tech‑CEO stories",
-        "Alex Gibney’s \"Musk\" documentary opened modestly but may grow once it streams on HBO Max"
-      ],
-      "topics": [
-        "box office",
-        "sorkin",
-        "tech movies",
-        "ai",
-        "whistleblower"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 20:51:47 +0000",
-      "processed_at": "2026-10-15T18:31:29.808578+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Former Plaud executive Peter Mo has launched Ambi, an AI assistant that continuously listens to users to provide real‑time insights and proactive suggestions during meetings and across devices. The startup closed a $26 million funding round led by Luminous Ventures and ODM Huaqin, and it plans to release iPhone, Mac, Apple Watch, and upcoming desktop and hardware products. Ambi emphasizes privacy controls, offering users the ability to disable ambient data capture by default and claiming it does not store recordings, though it relies on user disclosure for third‑party awareness. The move highlights growing tensions between personalized AI services and privacy concerns, as similar meeting‑notetaking tools have faced lawsuits for covert recording.",
-      "key_points": [
-        "Ambi raises $26 million from Luminous Ventures and Huaqin to build a continuous‑listen AI assistant for meetings and productivity.",
-        "The app offers cross‑platform support (iPhone, Mac, Apple Watch) and plans a desktop and hardware device with a screen, camera, and microphones.",
-        "Ambi claims to disable ambient capture by default and does not store recordings, but it still relies on users to disclose data collection to others.",
-        "The launch underscores broader industry challenges around privacy, disclosure, and the legality of continuous audio capture.",
-        "topics",
-        ":",
-        [
-          "ai",
-          "privacy",
-          "startup",
-          "funding",
-          "productivity"
-        ]
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 12:47:59 +0000",
-      "processed_at": "2026-10-15T18:31:05.031233+00:00"
     }
   ]
 }
