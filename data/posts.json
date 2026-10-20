@@ -1,7 +1,174 @@
 {
-  "updated_at": "2026-10-20T11:10:12.726707+00:00",
+  "updated_at": "2026-10-20T15:47:46.002050+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+      "title": "Scimplify raises $25M to challenge China's grip on critical materials with AI | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Scimplify, an Indian AI‑driven specialty‑chemicals startup, closed a $25 million all‑equity round led by Hitachi Ventures with new investors Henkel and Teknor Apex, valuing the company at $250 million. The funding will accelerate its Scinode platform, which can deliver custom materials in about two months—far faster than the typical 12‑18‑month timeline—by mapping production routes and quality requirements across a network of 500+ facilities. Scimplify is targeting $400 million in annualized revenue, expanding its manufacturing footprint to the U.S. and Japan, and focusing on critical materials such as tungsten derivatives and rare‑earths to reduce dependence on China. The company’s current run rate is $200 million, already EBITDA‑positive, and it serves over 1,000 customers in more than 40 countries.\n",
+      "key_points": [
+        "$25 million all‑equity round led by Hitachi Ventures values Scimplify at $250 million",
+        "Scinode AI platform cuts material development time from 12‑18 months to about two months",
+        "Company focuses on critical materials like tungsten derivatives and rare‑earths to diversify supply chains away from China",
+        "Scimplify’s annualized revenue run rate is $200 million, targeting $400 million and is EBITDA‑positive"
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "processed_at": "2026-10-20T15:47:16.379558+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-17-meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "title": "Meta removes language that raised scraping and AI training concerns | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Meta updated its commercial terms of use to allow the company to use content from business account domains, web pages, or URLs for product development, research, training, and maintenance of its services. Legal experts interpreted this clause as a potential permission for Meta to scrape publisher websites and use the material to train its AI models, raising concerns about copyright and data usage. Meta stated that the update did not alter its web‑crawling practices, but The Verge later reported that the clause has been removed from the terms. The episode underscores the ongoing debate over AI training data and the legal boundaries of web scraping.",
+      "key_points": [
+        "Meta added a clause permitting use of business account domain content for AI training and product development.",
+        "Legal experts warned the clause could enable broad web scraping of publisher sites.",
+        "Meta clarified the update did not change its crawling behavior.",
+        "The clause was subsequently removed from the commercial terms of use."
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "copyright",
+        "webscraping",
+        "terms"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "processed_at": "2026-10-20T15:47:16.295018+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Anthropic’s latest internal report shows a shift toward a more experienced workforce, with junior technical hires falling from 27% to 9% and overall junior staff dropping from 21% to 14% since early 2025. The company’s technical teams now make up only 56% of its employees, a decline attributed to business‑function expansion and coding tools that enable non‑technical staff to build software. Meeting time has risen 20% overall and 16% for technical contributors, as employees cite the need for human trust and accountability when coordinating Claude‑generated outputs. While Claude has increased productivity—more code per person, higher sales per rep, and faster contract processing—employees report a bottleneck in reviewing the large volume of text it produces, indicating that human attention remains a limiting factor.",
+      "key_points": [
+        "Junior technical hires dropped from 27% to 9% and overall junior staff from 21% to 14% since early 2025",
+        "Meeting time per employee rose 20% (16% for technical staff) as coordination around Claude becomes essential",
+        "Claude boosts productivity but creates an attention bottleneck as employees must sift through its output",
+        "Technical teams now represent 56% of the workforce, reflecting a shift toward business functions and non‑technical coding tools"
+      ],
+      "topics": [
+        "ai",
+        "workforce",
+        "productivity",
+        "meetings",
+        "hiring"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 17 Oct 2026 20:21:19 +0000",
+      "processed_at": "2026-10-20T15:47:16.113212+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-17-embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Ember has released its third‑generation temperature‑controlled mug, the Mug 3, which adds on‑mug button controls and a sliding lid, and can keep drinks hot for up to three hours on a single charge. The new mug eliminates the need to open the app to adjust temperature, letting users cycle through five preset temperatures from 125°F to 145°F with a button on the bottom. It is available in 10‑ounce ($129) and 14‑ounce ($149) sizes, comes in multiple colors, and is the first Ember mug that is top‑rack dishwasher‑safe. Alongside the mug, Ember also launched the Tumbler 2, a 16‑ounce travel mug priced at $179, expanding its lineup of smart drinkware.",
+      "key_points": [
+        "Mug 3 adds a bottom‑mounted button that cycles through five preset temperatures, removing the need for app interaction.",
+        "The mug can maintain temperature for up to three hours on a single charge and is top‑rack dishwasher‑safe.",
+        "It is available in 10‑oz ($129) and 14‑oz ($149) sizes, with a range of color options."
+      ],
+      "topics": [
+        "smart mug",
+        "temperature control",
+        "drinkware",
+        "consumer electronics",
+        "emerging tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 17 Oct 2026 15:30:00 +0000",
+      "processed_at": "2026-10-20T15:47:16.284212+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-10-16-mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Mark Wahlberg is launching Municipal Gym, a 32,000-square-foot club in Las Vegas that opens in December and offers diagnostics, recovery gear, a café, and a community‑focused wellness experience at a lower price point than high‑end longevity clubs. The gym builds on his earlier Municipal apparel line and reflects his desire to impact health beyond apparel, providing blood work, doctor consultations, supplements, and hormone therapy for about $99 a month. Wahlberg plans aggressive expansion, citing favorable landlord terms and a vision of a wellness ecosystem that contrasts with the “join‑up but don’t show up” model of many gyms. The venture signals his shift from acting to health entrepreneurship, aiming to inspire underserved youth while keeping the brand’s public‑service ethos.",
+      "key_points": [
+        "Wahlberg’s Municipal Gym will open in December in Las Vegas, offering diagnostics, recovery tools, and a café at a lower price point than luxury longevity clubs.",
+        "The gym is part of a broader Municipal ecosystem that began with a sportswear line and now includes supplements, hormone therapy, and a community‑focused wellness model.",
+        "Wahlberg plans aggressive expansion, leveraging favorable landlord terms and a vision to inspire underserved youth and create a supportive fitness community."
+      ],
+      "topics": [
+        "fitness",
+        "wellness",
+        "entrepreneurship",
+        "healthcare",
+        "luxury-gym"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 17 Oct 2026 02:36:18 +0000",
+      "processed_at": "2026-10-20T15:47:46.001348+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-16-replit-is-no-longer-working-with-anthropic-ceo-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Replit has shifted its default AI model from Anthropic to OpenAI, citing cost, performance, and partnership strength. CEO Amjad Masad announced at TechCrunch Disrupt that while Anthropic models remain available, ChatGPT will be the default for Replit Agent. The move follows an August partnership with OpenAI and reflects Replit’s broader strategy to grow enterprise revenue, which now accounts for a larger share of its business. Despite the change, Replit remains model‑agnostic and continues to support Anthropic’s Claude models for users who choose them.",
+      "key_points": [
+        "Replit will use OpenAI’s ChatGPT as the default model, though Anthropic models stay available.",
+        "The switch is driven by cost savings, better performance on benchmarks, and a stronger partnership with OpenAI.",
+        "Enterprise contracts now represent a growing portion of Replit’s revenue, projected to dominate by 2027.",
+        "Replit maintains a model‑agnostic stance, allowing users to select from Claude, OpenAI, and other supported models."
+      ],
+      "topics": [
+        "replit",
+        "openai",
+        "anthropic",
+        "ai",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "processed_at": "2026-10-20T15:47:16.356188+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-16-in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "title": "In 'You Can See Everything,' Elizabeth Holmes meets her equal in comedian Nathan Fielder | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Nathan Fielder and director Lance Oppenheim filmed a docu‑reality project that followed Elizabeth Holmes in the month before she began her 11‑year prison sentence, aiming to document her final days of freedom and reshape her public image. The film interweaves Holmes’ own attempts to exonerate herself—through an A24 partnership and an AI avatar of her created by her husband—with the meta‑layer of actress Amanda Seyfried, who portrays Holmes in the Hulu miniseries \"The Dropout\". By juxtaposing Holmes’ real‑world testimony, her staged reactions to Seyfried’s portrayal, and the legal context of her trial, the documentary exposes the blurred line between her constructed persona and the facts of her fraud. The result is a commentary on how media, performance, and legal narratives collide to shape public perception of a controversial figure.",
+      "key_points": [
+        "Fielder and Oppenheim filmed Holmes in a docu‑reality project during the last month of her freedom to document her final days",
+        "Holmes and her husband used an A24 partnership and an AI avatar to shape her narrative, while actress Amanda Seyfried’s portrayal of her in \"The Dropout\" adds a meta layer",
+        "The film highlights the blurred line between Holmes’ constructed persona and the facts of her fraud, questioning her innocence",
+        "The documentary shows how media, performance, and legal contexts collide to influence public perception"
+      ],
+      "topics": [
+        "documentary",
+        "theranos",
+        "elizabeth holmes",
+        "nathan fielder",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-20T15:47:16.237710+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-16-porsches-electric-macan-turbo-is-an-automotive-existential-crisis",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
@@ -2296,182 +2463,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 13:50:19 +0000",
       "processed_at": "2026-10-15T09:00:18.126943+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "WindBorne Systems has secured a U.S. Air Force contract worth up to $49 million for data collected by its fleet of about 700 autonomous weather balloons, marking the company’s largest deal to date. The startup’s AI‑driven WeatherMesh 6 model, released earlier this summer, claims to deliver more accurate forecasts than the traditional ECMWF physics‑based system. The contract, awarded without competitive bidding, will fund further expansion of the balloon constellation and research to improve hardware performance. So far the Air Force has placed orders for $1.7 million of data, with expectations of additional purchases as the program scales.",
-      "key_points": [
-        "U.S. Air Force contract up to $49 million for data from WindBorne’s 700 autonomous weather balloons",
-        "WindBorne’s WeatherMesh 6 AI model outperforms traditional ECMWF forecasting",
-        "Contract supports constellation growth and R&D and was awarded without competitive bidding",
-        "Air Force has already ordered $1.7 million of data, with more expected"
-      ],
-      "topics": [
-        "weather",
-        "ai",
-        "airforce",
-        "contract",
-        "forecasting"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 17:19:14 +0000",
-      "processed_at": "2026-10-15T03:53:11.588038+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Blueprints AI, founded by Al Dram and Coco Cao in 2025, uses generative AI to produce code‑compliant, permit‑ready architectural blueprints from a 2D sketch or PDF in minutes. The company unveiled a second‑generation version at TechCrunch Disrupt 2026 that lets users design entire buildings—architecture, structural, mechanical, electrical, plumbing, and interior—while a single change automatically updates all components and verifies local building codes. Pricing ranges from $3,200 to $8,500 per month, with enterprise options, and the startup targets professional architecture, engineering, and design firms as well as developers and real‑estate owners. The founders stress that licensed architects still review and seal the documents, positioning the tool as an augmentation of drafting work rather than a replacement.",
-      "key_points": [
-        "Blueprints AI generates permit‑ready architectural blueprints from sketches or PDFs in minutes using AI.",
-        "The second‑generation software allows full building design, with a single change updating all aspects and checking building codes.",
-        "Pricing is subscription‑based, ranging from $3,200 to $8,500 per month, with enterprise and single‑project options.",
-        "Licensed architects still review and seal the documents, so the tool augments rather than replaces human drafting.",
-        ""
-      ],
-      "topics": [
-        "ai",
-        "architecture",
-        "construction",
-        "startup",
-        "techcrunch"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 15:27:59 +0000",
-      "processed_at": "2026-10-15T03:53:11.462605+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
-      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Google has expanded its Fitbit lineup with the Fitbit Edge, a $179.99 wearable that bridges the gap between the slim Fitbit Air and the feature‑rich Pixel Watch. The Edge adds an OLED display, 100‑activity recognition, over 50 exercise modes, and a 40% more accurate GPS, while its Health Coach and Health Guardian features require a Google Health Premium subscription. It offers up to seven days of battery life, 50‑meter water resistance, and a Stephen Curry Special Edition priced at $219.99, with preorders available through the Google Store until October 27.",
-      "key_points": [
-        "Fitbit Edge is positioned between the Fitbit Air and Pixel Watch and is priced at $179.99.",
-        "It can automatically recognize and log up to 100 activities, supports more than 50 exercise modes, and offers 40% more accurate GPS than its predecessor.",
-        "Health Coach and Health Guardian features rely on a Google Health Premium subscription and use fitness, health, and medical data to create personalized routines.",
-        "The device has a seven‑day battery, 50‑meter water resistance, and a Stephen Curry Special Edition priced at $219.99."
-      ],
-      "topics": [
-        "fitbit",
-        "google",
-        "wearables",
-        "healthtech",
-        "gps"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 15:11:19 +0000",
-      "processed_at": "2026-10-15T03:53:21.853586+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800",
-      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Ultrahuman, the Bengaluru‑based smart‑ring maker, has signed a two‑year memorandum of understanding with the Abu Dhabi Public Health Center to develop a biological‑age model that blends wearable data and clinical biomarkers. The model, designed to be wearable‑agnostic, will estimate how quickly individuals are aging and highlight factors such as sleep, activity, cardiovascular health, and metabolism that influence that rate. Ultrahuman plans to make the health‑age metric available to UAE residents through government digital‑health platforms like TAMM and Sahatna, while the algorithm will be deployed on UAE data without accessing personally identifiable information. This partnership marks the company’s shift from selling hardware to scaling its health‑data algorithms at a national level.",
-      "key_points": [
-        "Ultrahuman and Abu Dhabi Public Health Center signed a two‑year MOU to build a biological‑age model combining wearable signals and clinical biomarkers",
-        "The model will be wearable‑agnostic and aim to estimate aging rate and influencing factors such as sleep, activity, cardiovascular health, and metabolism",
-        "Ultrahuman plans to roll out the health‑age metric via UAE digital‑health platforms, but will not train on UAE data and will not access personally identifiable information",
-        "The partnership represents Ultrahuman’s move from hardware sales to large‑scale health‑data algorithm deployment"
-      ],
-      "topics": [
-        "healthtech",
-        "wearables",
-        "dataprivacy",
-        "uae",
-        "aging"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 14:09:34 +0000",
-      "processed_at": "2026-10-15T03:53:11.540469+00:00"
-    },
-    {
-      "id": "s-techcrunch-com-2026-10-12-techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
-      "title": "Disrupt 2026 starts tomorrow: Your final chance to save up to $100 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 opens tomorrow, October 13 at 8 a.m. PT, and will run for three days at Moscone West in San Francisco, drawing more than 10,000 founders, investors, and tech operators. Attendees can still secure up to $100 off their pass and a 50% discount on a second ticket, with additional savings for groups of four or more and a $75 Expo+ Pass for those recently laid off. The event features a bustling Expo Hall with over 300 emerging startups, 200+ sessions across six stages, interactive roundtables, and a Startup Battlefield competition for a $100,000 prize. An AI‑powered matchmaking app enhances networking, helping participants connect with investors, founders, and industry leaders to spark new opportunities.",
-      "key_points": [
-        "Disrupt 2026 starts October 13 at 8 a.m. PT and runs for three days at Moscone West",
-        "Last 24 hours to get up to $100 off tickets and 50% off a second pass, with extra savings for larger groups",
-        "Expo Hall hosts 300+ startups, 200+ sessions, and a Startup Battlefield competition for $100,000",
-        "AI‑powered event app facilitates matchmaking among founders, investors, and tech leaders"
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "networking",
-        "ai",
-        "discounts"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-15T03:53:11.410844+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-meta-releases-its-first-frontier-model-muse-wonder",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-      "title": "Meta releases its first frontier model, Muse Wonder | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Meta’s Superintelligence Lab unveiled its first frontier models, Muse Wonder and Muse Wonder Full, at the Disrupt conference, marking a significant step beyond the lightweight Muse Spark. The larger models achieve benchmark scores comparable to GPT‑6 Astra and outperform rivals on the MemoryBench test, underscoring Meta’s focus on active memory for long‑term personal assistants. Pricing through the Meta Model API is $4 per million input tokens and $20 per million output tokens, roughly matching GPT‑6 Sol or Opus 5.5, while Wonder Full is restricted to Muse Code subscribers and not available via the API. This release follows Meta’s 2023 restructuring and signals the company’s renewed commitment to building personal superintelligence.",
-      "key_points": [
-        "Meta introduces Muse Wonder and Muse Wonder Full, its first frontier models, surpassing the lightweight Muse Spark",
-        "The models match GPT‑6 Astra benchmark scores and excel on MemoryBench, demonstrating strong active memory",
-        "Pricing aligns with GPT‑6 Sol/Opus 5.5, with Wonder Full limited to Muse Code subscribers",
-        "The release marks Meta’s shift toward personal superintelligence after a 2023 restructure"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "frontier model",
-        "muse wonder",
-        "superintelligence"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 17:56:56 +0000",
-      "processed_at": "2026-10-14T23:47:07.109432+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Honeyjar, founded by veteran PR professionals Michelle Masek and Nadia Jamshidi, is launching AI tools that automate key communications tasks such as drafting announcements, building media lists, and spotting speaking opportunities while embedding human judgment from seasoned PR experts. The startup debuted at TechCrunch Disrupt’s Startup Battlefield 200, where it drew 10,000 waitlist signups in 24 hours and secured beta partners including Nextdoor and Bloomberg Beta. Honeyjar targets founders and a broad spectrum of communicators, not just PR firms, and emphasizes that its platform augments rather than replaces human involvement, aiming to improve pitch quality and reduce the overload of AI‑generated pitches for journalists.",
-      "key_points": [
-        "Honeyjar uses AI to automate PR tasks while preserving human judgment",
-        "The startup attracted 10,000 waitlist signups in 24 hours and has beta partners like Nextdoor and Bloomberg Beta",
-        "It targets founders and a wide range of communicators, not just PR firms",
-        "The founders stress that the tool does not remove humans from the loop and aims to improve pitch quality for journalists"
-      ],
-      "topics": [
-        "ai",
-        "public relations",
-        "startup",
-        "techcrunch",
-        "communications"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 15:45:00 +0000",
-      "processed_at": "2026-10-14T23:46:42.088977+00:00"
     }
   ]
 }

@@ -1,41 +1,11 @@
 {
-  "updated_at": "2026-10-20T11:09:37.821822+00:00",
+  "updated_at": "2026-10-20T15:47:14.899830+00:00",
   "items": [
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "feed_excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "published": "Wed, 14 Oct 2026 11:00:00 +0000"
-    },
     {
       "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
       "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
       "feed_excerpt": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
       "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "feed_excerpt": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "feed_excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000"
-    },
-    {
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "feed_excerpt": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-      "published": "Sat, 17 Oct 2026 02:36:18 +0000"
-    },
-    {
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "feed_excerpt": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "published": "Sat, 17 Oct 2026 15:30:00 +0000"
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -44,22 +14,10 @@
       "published": "Sat, 17 Oct 2026 18:48:08 +0000"
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "feed_excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000"
-    },
-    {
       "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
       "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "feed_excerpt": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
       "published": "Sat, 17 Oct 2026 20:55:52 +0000"
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "feed_excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "published": "Sat, 17 Oct 2026 20:21:19 +0000"
     },
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
@@ -222,7 +180,55 @@
       "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
       "feed_excerpt": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
       "published": "Tue, 20 Oct 2026 07:01:00 +0000"
+    },
+    {
+      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+      "feed_excerpt": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+      "published": "Tue, 20 Oct 2026 15:03:41 +0000"
+    },
+    {
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "feed_excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data",
+      "published": "Tue, 20 Oct 2026 14:13:32 +0000"
+    },
+    {
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "feed_excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "published": "Tue, 20 Oct 2026 13:17:36 +0000"
+    },
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "feed_excerpt": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "published": "Tue, 20 Oct 2026 13:07:24 +0000"
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "feed_excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+      "feed_excerpt": "The raise comes as venture dollars pile up on the West Coast.",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+      "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+      "feed_excerpt": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+      "published": "Tue, 20 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Oura adds new fitness metrics to show how workouts impact your body",
+      "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+      "feed_excerpt": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded.",
+      "published": "Tue, 20 Oct 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-20T11:10:12.725589+00:00"
+  "last_processed_at": "2026-10-20T15:47:46.001415+00:00"
 }
