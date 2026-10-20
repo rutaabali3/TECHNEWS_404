@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-20T15:47:46.002050+00:00",
+  "updated_at": "2026-10-20T19:55:13.421085+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-18-disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Disney has agreed to hire the majority of Character.AI's workforce after the chatbot startup filed for bankruptcy. The deal, revealed in a legal filing, will see Disney make employment offers to at least 60 former Character.AI employees with an estimated $60 million in annual compensation, while the company had previously announced a $20 million asset acquisition. Character.AI's CEO Karandeep Anand has joined Disney as its first CTO, and most of the offered positions were accepted, though the arrangement remains a stalking‑horse bid that could be outbid. The move comes amid Character.AI's financial struggles and regulatory scrutiny over child safety concerns.",
+      "key_points": [
+        "Disney will hire at least 60 former Character.AI employees, representing the majority of the startup’s workforce.",
+        "The agreement includes an estimated $60 million in annual compensation for those hires.",
+        "Character.AI’s CEO Karandeep Anand has joined Disney as its first CTO.",
+        "The deal is a stalking‑horse bid, meaning another company could potentially make a higher offer."
+      ],
+      "topics": [
+        "disney",
+        "character.ai",
+        "ai",
+        "bankruptcy",
+        "employment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "processed_at": "2026-10-20T19:54:46.784685+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-17-replit-is-no-longer-working-with-anthropic-ceo-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Replit has announced that OpenAI’s ChatGPT will become the default AI model on its cloud‑based coding platform, citing lower cost and better performance compared to Anthropic’s Claude models. The company clarified that Anthropic models will still be available, and the partnership is not fully terminated, but OpenAI is now the preferred partner for powering Replit Agent. CEO Amjad Masad highlighted a shift in Replit’s revenue mix, with enterprise contracts rising from 2% to 15% this year and an expectation that over half of revenue will come from enterprise and government customers by 2027. He also stressed the need for robust AI safety measures and infrastructure to support safe deployment of AI agents.",
+      "key_points": [
+        "Replit is defaulting to OpenAI’s ChatGPT over Anthropic, driven by cost and performance advantages",
+        "Anthropic models remain available and the partnership is not fully ended",
+        "Replit’s revenue is increasingly driven by enterprise and B2B contracts, projected to exceed 50% by 2027",
+        "The CEO emphasized the importance of AI safety, orchestration, and sandboxing for secure agent deployment"
+      ],
+      "topics": [
+        "replit",
+        "openai",
+        "anthropic",
+        "ai",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "processed_at": "2026-10-20T19:54:46.737779+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?resize=1200,792",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Amazon has announced it will fund a 960‑megawatt nuclear plant in Indiana, consisting of 12 Xe‑100 small modular reactors supplied by X‑energy and operated by American Electric Power. The company led a $700 million Series C‑1 round in X‑energy in October 2024 and plans to build 5 GW of new nuclear capacity in the U.S. by 2039. The Indiana plant will sit on the site of a demolished coal plant south of Terre Haute, connect to the public grid, and also supply power to Amazon’s data centers. The project’s timeline hinges on X‑energy’s first plant at Seadrift, Texas, which is still awaiting final NRC approval amid a lawsuit over regulatory compliance.\n",
+      "key_points": [
+        "Amazon will fund 12 Xe‑100 SMRs at a former Indiana coal plant, creating a 960‑MW nuclear facility.",
+        "Amazon led a $700 million Series C‑1 investment in X‑energy and aims for 5 GW of nuclear capacity by 2039.",
+        "The Indiana plant will connect to the grid and power Amazon data centers, but its progress depends on X‑energy’s Seadrift project facing legal challenges.",
+        "This deal is three times larger than Amazon’s previous agreement with X‑energy.\n"
+      ],
+      "topics": [
+        "amazon",
+        "nuclear",
+        "small modular reactors",
+        "x‑energy",
+        "energy infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 16:55:56 +0000",
+      "processed_at": "2026-10-20T19:54:46.688551+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-16-tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Tressfecta, founded by Aisata Diallo, is developing a device called Plait Pilot that automates the hair‑separation step before braiding, a process that can take hours and cause physical strain for stylists. Diallo, a lifelong braider who stopped due to the toll on her body, built the prototype after noticing a lack of tools for textured hair. The company is still pre‑launch, bootstrapped and seeking fundraising, and it showcased the prototype at TechCrunch Disrupt to gather feedback from professional braiders.",
+      "key_points": [
+        "Tressfecta’s Plait Pilot automates hair separation to speed up braiding and reduce physical strain on stylists",
+        "Founder Aisata Diallo created the device after experiencing pain from manual braiding",
+        "The product is still in prototype, pre‑launch, and the company is preparing to raise funds",
+        "Tressfecta presented its prototype at TechCrunch Disrupt and is engaging stylists for testing"
+      ],
+      "topics": [
+        "haircare",
+        "beautytech",
+        "hardware",
+        "startup",
+        "texturedhair"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-20T19:54:46.345543+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
@@ -2364,105 +2464,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 12 Oct 2026 12:47:59 +0000",
       "processed_at": "2026-10-15T18:31:05.031233+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-HomePod-mini-2-color-lineup-261013_big.jpg.large_2x.jpg?resize=1200,675",
-      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple has refreshed its HomePod mini smart speaker, launching a new version priced at $149 that includes an S10 chip for improved dynamic range, loudness, and acoustic performance. The updated model adds Siri AI integration, enabling multi‑turn conversations, and introduces safety features such as smoke‑alarm detection that sends notifications to users’ phones. Additional enhancements include a visual canvas called \"Sound Glow\" that syncs with music, better compatibility with Apple TV 4K and Mac, and support for a four‑speaker home entertainment setup. The HomePod mini 2 will be available for preorder today and ships on October 30 in several color options.",
-      "key_points": [
-        "New HomePod mini 2 launched with S10 chip and $149 price, $50 higher than the 2020 model",
-        "Siri AI integration adds multi‑turn conversations and smoke‑alarm detection for safety",
-        "Sound Glow visual canvas syncs with music and offers soundscape animations",
-        "Improved integration with Apple TV 4K and Mac, and supports a four‑speaker home entertainment system"
-      ],
-      "topics": [
-        "apple",
-        "homepod",
-        "smart speaker",
-        "ai",
-        "product launch"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:38:03 +0000",
-      "processed_at": "2026-10-15T14:19:15.778671+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg?w=1200",
-      "title": "Apple's new smart home lineup includes a smart lock, thermostat, and video doorbells | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Apple unveiled its Apple Home Collection at Disrupt, featuring a UWB‑enabled smart lock, a wired video doorbell, a thermostat, a temperature sensor, and a range of indoor and outdoor cameras, all designed to work with the new HomeView hub. The devices were built in partnership with LG Electronics and Schneider Electric and will ship in December, priced from $249.95 to $399.95. Apple aims to compete with Amazon Ring and Google Nest by offering tighter integration with its ecosystem and advanced proximity‑detection technology. The launch marks a significant step toward Apple’s ambition to become a major player in the connected‑home market.",
-      "key_points": [
-        "Apple launches Home Collection with UWB‑enabled lock and HomeView hub",
-        "Devices partner with LG and Schneider Electric, priced $249.95–$399.95",
-        "Release in December to challenge Amazon Ring and Google Nest"
-      ],
-      "topics": [
-        "apple",
-        "smart home",
-        "homekit",
-        "ultra-wideband",
-        "homeview"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:37:19 +0000",
-      "processed_at": "2026-10-15T14:19:15.996990+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say 'on Spotify' | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Spotify has updated its iOS 27 integration so that users no longer need to say \"on Spotify\" when asking Siri to play music or other content. The change lets users simply state what they want—whether a track, album, podcast, audiobook, or a broader request like \"play workout music\"—and Spotify will respond automatically. Siri can also handle personalized recommendations, resume podcasts, search the library, or create AI‑generated Prompted Playlists. The feature is available worldwide for iPhone 15 Pro or newer models outside the EU when Apple Intelligence is enabled.",
-      "key_points": [
-        "Siri on iOS 27 no longer requires the phrase \"on Spotify\" to play music or other content.",
-        "The update works on iPhone 15 Pro or later outside the EU with Apple Intelligence enabled.",
-        "Siri learns a user’s app preference, routing audio requests to Spotify automatically.",
-        "Users can request music, podcasts, playlists, or AI‑generated Prompted Playlists hands‑free."
-      ],
-      "topics": [
-        "spotify",
-        "siri",
-        "ios",
-        "voice control",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 14:30:12 +0000",
-      "processed_at": "2026-10-15T09:00:15.661171+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "SpaceX Super Intelligence (SpaceXSI) has announced a new bundled subscription called \"The X Subscription\" that combines its X Premium, Grok, and Cursor services into a single plan. The bundle offers five tiers—from a free plan with limited chat and agent usage to an Ultra tier at $200/month—each with increasing AI usage caps and access to the latest Grok models. Existing X Premium+ subscribers can switch to the new bundle at the same or a lower price, while new users can choose from the tiered options. The move aims to consolidate SpaceXSI’s AI offerings and compete more effectively against rivals such as OpenAI and Anthropic in the paid AI subscription market.",
-      "key_points": [
-        "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription called \"The X Subscription\"",
-        "The bundle offers five tiers ranging from free to Ultra ($200/month) with increasing AI usage caps",
-        "Existing X Premium+ subscribers can switch to the new bundle at the same or lower cost",
-        "The new plan includes AI chat, voice, images, video, API, agentic bot, coding AI, verified checkmark, creator tools, and fewer ads"
-      ],
-      "topics": [
-        "spacex",
-        "ai",
-        "subscription",
-        "technews",
-        "ai-tools"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:50:19 +0000",
-      "processed_at": "2026-10-15T09:00:18.126943+00:00"
     }
   ]
 }
