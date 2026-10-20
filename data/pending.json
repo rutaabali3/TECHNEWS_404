@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:41:08.969309+00:00",
+  "updated_at": "2026-10-20T00:57:56.102537+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -24,12 +24,6 @@
       "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "feed_excerpt": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
       "published": "Fri, 16 Oct 2026 01:17:43 +0000"
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "feed_excerpt": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "published": "Fri, 16 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
@@ -222,7 +216,25 @@
       "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "published": "Mon, 19 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "feed_excerpt": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "feed_excerpt": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "feed_excerpt": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "published": "Mon, 19 Oct 2026 22:04:28 +0000"
     }
   ],
-  "last_processed_at": "2026-10-19T21:41:18.617731+00:00"
+  "last_processed_at": "2026-10-20T00:57:57.510167+00:00"
 }

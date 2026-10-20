@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-19T21:41:36.343950+00:00",
+  "updated_at": "2026-10-20T00:58:16.853248+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-16-veritas-is-building-a-chip-to-verify-luxury-goods",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Veritas has launched a second‑generation anti‑counterfeit chip that can be embedded in metal and glass surfaces, expanding its use to jewelry, trophies, hard‑surface products and fragrance bottles. The startup, founded by former Tesla product manager Luci Holland, partnered with ATHLOS to place chips in all 18 championship crowns and embedded one in a pair of LeBron James’ first Nike shoes, allowing users to tap a phone for product history. Veritas has raised $1.75 million in pre‑seed funding led by Seven Seven Six, with investors including Stanley Tang and Josh Constine, and offers a consumer app and brand portal for managing product records and owner experiences.",
+      "key_points": [
+        "Veritas released a second‑gen chip that works on metal and glass, enabling authentication for jewelry, trophies, and fragrance bottles",
+        "The company partnered with ATHLOS to embed chips in 18 championship crowns and in LeBron James’ Nike shoes for tap‑to‑verify functionality",
+        "Veritas secured $1.75 million in pre‑seed funding led by Seven Seven Six, with notable investors such as Stanley Tang and Josh Constine",
+        "It provides a consumer app and brand portal that let brands manage product records and create owner experiences"
+      ],
+      "topics": [
+        "anti-counterfeiting",
+        "authentication chips",
+        "luxury goods",
+        "startup",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-20T00:57:57.510077+00:00"
+    },
     {
       "id": "ps-techcrunch-com-2026-10-14-flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
@@ -2447,31 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 12 Oct 2026 00:59:01 +0000",
       "processed_at": "2026-10-14T20:30:41.923805+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/aurora-truck-and-beacons.jpg?resize=1200,673",
-      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "The Federal Motor Carrier Safety Administration has granted Aurora Innovation and other self‑driving truck developers a five‑year exemption that allows them to replace roadside warning triangles with cab‑mounted warning beacons, removing a major regulatory hurdle that had stalled commercial deployment. The exemption, approved after Aurora sued over the requirement to deploy human‑controlled warning devices, is expected to accelerate the rollout of autonomous freight and improve roadside safety. Industry leaders say the decision signals government recognition of the economic and community benefits of autonomous trucking and could set a new standard for safety equipment across the sector.",
-      "key_points": [
-        "FMCSA granted a five‑year exemption to Aurora and other self‑driving truck firms to use cab‑mounted warning beacons instead of roadside triangles",
-        "The exemption removes a regulatory barrier that had delayed commercial deployment of autonomous trucks",
-        "Industry leaders say the decision will accelerate freight safety and efficiency",
-        "The ruling could establish cab‑mounted beacons as standard safety equipment for all trucks"
-      ],
-      "topics": [
-        "autonomous trucking",
-        "regulation",
-        "safety",
-        "federal",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 16:02:00 +0000",
-      "processed_at": "2026-10-14T16:50:21.418220+00:00"
     }
   ]
 }
