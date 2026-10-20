@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-20T00:57:56.102537+00:00",
+  "updated_at": "2026-10-20T05:53:45.581330+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
       "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
       "feed_excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
       "published": "Wed, 14 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "feed_excerpt": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "published": "Wed, 14 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "feed_excerpt": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "published": "Fri, 16 Oct 2026 05:16:46 +0000"
     },
     {
       "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -48,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
       "feed_excerpt": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
       "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "feed_excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "published": "Fri, 16 Oct 2026 15:33:49 +0000"
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -234,7 +216,19 @@
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "feed_excerpt": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "published": "Mon, 19 Oct 2026 22:04:28 +0000"
+    },
+    {
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "feed_excerpt": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "published": "Tue, 20 Oct 2026 02:00:00 +0000"
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "feed_excerpt": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000"
     }
   ],
-  "last_processed_at": "2026-10-20T00:57:57.510167+00:00"
+  "last_processed_at": "2026-10-20T05:54:11.313195+00:00"
 }

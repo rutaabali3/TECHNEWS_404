@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-20T00:58:16.853248+00:00",
+  "updated_at": "2026-10-20T05:54:15.510232+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-14-intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Intero Biosystems, a Denver‑based startup spun out of the University of Michigan, is selling 1‑millimeter human intestinal organoids called GastroScreen to replace animal models in drug testing. The company has raised $2.3 million in pre‑seed funding, generated over $400,000 in revenue in its first year, and is in the second stage of a three‑stage validation process that has already shown expected responses to known gut‑targeted drugs. FDA guidance issued this year encourages the use of non‑animal methods, boosting interest from pharma and giving Intero a window to scale production to hundreds of thousands of organoids per batch. Competitors such as Altis Biosystems and InSphero also offer gut models, but Intero differentiates itself with iPSC‑derived, scalable, and potentially personalized organoids that can be shipped directly to customers.\n",
+      "key_points": [
+        "Intero sells 1‑mm human intestinal organoids (GastroScreen) to replace animal testing in drug development.",
+        "FDA’s 2024 guidance on non‑animal methods has increased pharma interest in organoid technologies.",
+        "Intero is in the second validation stage, demonstrating expected drug responses and planning to scale to hundreds of thousands per batch.",
+        "The company differentiates itself with iPSC‑derived organoids that allow personalization and easier scaling compared to tissue‑derived competitors."
+      ],
+      "topics": [
+        "organ-on-a-chip",
+        "drug testing",
+        "animal testing alternatives",
+        "regulatory guidance",
+        "stem cells"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 14 Oct 2026 23:00:00 +0000",
+      "processed_at": "2026-10-20T05:53:46.749629+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-16-jev-is-vercels-fastest-adopted-ai-model-ever",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "title": "Jev is Vercel's fastest-adopted AI model ever | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Jev, a lightweight decision‑making model from TypeSafe AI, has become the fastest‑adopted AI model in Vercel’s history, reaching 35 % of paid teams within two weeks of its September 15 release. Its limited‑output design lets it run cheaper and faster than larger models like Sonnet 5.5, making it ideal for high‑volume classification tasks. Vercel, which adopted Jev early to replace GPT‑6 Luna for harmful‑command filtering, reports that open‑source models now process more than 70 % of tokens and account for nearly 25 % of spend on its AI gateway. At the same time, spending on frontier‑lab models has grown tenfold, suggesting that open‑source and proprietary models may coexist rather than compete.",
+      "key_points": [
+        "Jev reached 35 % adoption among paid teams in just two weeks, the fastest for any model on Vercel",
+        "Its limited‑output design makes it cheaper and faster than larger models like Sonnet 5.5",
+        "Vercel used Jev to replace GPT‑6 Luna for harmful‑command filtering",
+        "Open‑source models now handle over 70 % of tokens and 25 % of spend on Vercel’s AI gateway"
+      ],
+      "topics": [
+        "ai",
+        "model adoption",
+        "open source",
+        "vercel",
+        "typesafe ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "processed_at": "2026-10-20T05:54:11.313089+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Benchmark’s partners admitted at TechCrunch Disrupt that the long‑standing venture‑capital rule of not backing direct competitors is breaking down under the AI boom. The firm cited recent disputes—such as Factory’s firing of board observer Chris Degnan over alleged confidential talk with rival Cognition—and noted that AI lowers software development costs, making founders more likely to overlap markets. Benchmark says it will still guard early‑stage exclusivity and keep founder information confidential, but acknowledges that conflicts are now a matter of necessity rather than choice. The comments signal a shift in VC norms as AI accelerates portfolio overlap and forces firms to navigate new competitive dynamics.",
+      "key_points": [
+        "Benchmark acknowledges the traditional rule against backing rivals is eroding due to AI‑driven market overlap",
+        "The firm stresses early‑stage exclusivity and confidentiality while admitting conflicts are inevitable",
+        "AI lowers software costs, prompting founders to expand into each other’s territories",
+        "Benchmark’s stance may prompt other VCs to reassess their own exclusivity policies"
+      ],
+      "topics": [
+        "venture capital",
+        "ai",
+        "benchmark",
+        "startup competition",
+        "portfolio conflicts"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 05:16:46 +0000",
+      "processed_at": "2026-10-20T05:53:47.037410+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-16-veritas-is-building-a-chip-to-verify-luxury-goods",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
@@ -2397,81 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 11 Oct 2026 17:53:37 +0000",
       "processed_at": "2026-10-14T20:30:41.675127+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Amazon has announced it will no longer use nondisclosure agreements (NDAs) when negotiating data center sites with local governments, following Microsoft’s earlier move, in an effort to improve transparency and address community concerns. The decision comes amid growing opposition to data centers, with moratoriums in cities like San Francisco and New York limiting permits for a year or two, though actual construction is often delayed for several years. TechCrunch’s Equity podcast panelists argued that the industry’s poor communication and secretive negotiations have fueled backlash, and that removing NDAs could be a first step toward rebuilding trust. However, they cautioned that transparency alone may not win over skeptics, and that broader outreach and clearer explanations of the benefits are still needed.",
-      "key_points": [
-        "Amazon and Microsoft are eliminating NDAs in data center negotiations to increase transparency",
-        "Data center moratoriums are short‑term and may not significantly delay construction",
-        "Industry secrecy and poor communication are major drivers of public backlash",
-        "Transparency alone may not be enough to win community support"
-      ],
-      "topics": [
-        "data centers",
-        "ai",
-        "ndas",
-        "community opposition",
-        "tech communication"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 16:52:33 +0000",
-      "processed_at": "2026-10-14T20:30:41.737972+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dawn-Myers.jpeg?resize=1200,800",
-      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Dawn Myers, founder of Richualist, created the Mint hair tool to streamline wash days for textured hair, cutting styling time from over an hour to just seven to ten minutes and reducing shedding by up to 70%. After personally funding the prototype and raising $1.4 million, Myers faced funding hurdles until a 2023 Shark Tank appearance secured a deal with Mark Cuban and entrepreneur Emma Grede, enabling a launch and Ulta distribution. The company was named one of TechCrunch’s Startup Battlefield 200 startups and will attend Disrupt, positioning textured‑hair technology on a major industry stage.",
-      "key_points": [
-        "Richualist’s Mint tool cuts wash‑day styling time from 80+ minutes to 7–10 minutes and cuts shedding by up to 70%",
-        "Myers personally funded the prototype and raised $1.4 million, overcoming hardware‑funding challenges",
-        "A 2023 Shark Tank deal with Mark Cuban and Emma Grede helped launch the product and secure Ulta distribution",
-        "Richualist was selected for TechCrunch’s Startup Battlefield 200 and will attend Disrupt"
-      ],
-      "topics": [
-        "haircare",
-        "beautytech",
-        "startup",
-        "diversity",
-        "venturecapital"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-14T20:30:41.729530+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
-      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will run Oct. 13-15 at Moscone West and centers on how founders can build enduring companies in the AI era, offering more than 200 expert sessions, a Startup Battlefield competition, and extensive networking opportunities. The event is open to founders at all stages, with tailored tracks for early‑stage, revenue‑generating, and scaling companies, and includes investor matchmaking tools and a Deal Flow Café. Attendees can take advantage of a 50% discount on a second ticket for a colleague and a $75 Expo+ pass for laid‑off network members, while the Battlefield winner receives a $100,000 prize and significant media exposure. Disrupt’s programming and side events aim to provide actionable lessons that founders can apply immediately to their companies.",
-      "key_points": [
-        "Disrupt 2026 focuses on building enduring AI‑era companies with 200+ sessions and a $100k Startup Battlefield prize",
-        "Founders can save 50% on a second ticket and $75 Expo+ passes for laid‑off network members",
-        "Investor matchmaking tools and a Deal Flow Café prioritize capital and validation for early‑stage founders",
-        "Networking tools and side events enable talent, partnership, and market visibility for scaling companies"
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "ai",
-        "event",
-        "fundraising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 00:59:01 +0000",
-      "processed_at": "2026-10-14T20:30:41.923805+00:00"
     }
   ]
 }
