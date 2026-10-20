@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-10-20T05:53:45.581330+00:00",
+  "updated_at": "2026-10-20T11:09:37.821822+00:00",
   "items": [
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
       "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
       "feed_excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
       "published": "Wed, 14 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "feed_excerpt": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "published": "Fri, 16 Oct 2026 01:17:43 +0000"
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "feed_excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "published": "Fri, 16 Oct 2026 12:55:09 +0000"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "feed_excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "published": "Fri, 16 Oct 2026 16:01:37 +0000"
     },
     {
       "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
@@ -42,12 +24,6 @@
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "feed_excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
       "published": "Fri, 16 Oct 2026 21:22:28 +0000"
-    },
-    {
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "feed_excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "published": "Fri, 16 Oct 2026 19:40:00 +0000"
     },
     {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
@@ -228,7 +204,25 @@
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "feed_excerpt": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
       "published": "Tue, 20 Oct 2026 01:27:03 +0000"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "feed_excerpt": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "published": "Tue, 20 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "feed_excerpt": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+      "published": "Tue, 20 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "feed_excerpt": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "published": "Tue, 20 Oct 2026 07:01:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-20T05:54:11.313195+00:00"
+  "last_processed_at": "2026-10-20T11:10:12.725589+00:00"
 }

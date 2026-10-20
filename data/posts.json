@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-20T05:54:15.510232+00:00",
+  "updated_at": "2026-10-20T11:10:12.726707+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-16-porsches-electric-macan-turbo-is-an-automotive-existential-crisis",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "The 2026 Porsche Macan Turbo EV is a high‑performance two‑row crossover that blends sports‑car acceleration with SUV practicality, yet its styling and option overload raise questions about its identity. With 630 horsepower, a 100‑kWh battery, and a 285‑mile range, the car can sprint from 0 to 60 mph in under four seconds while still offering a comfortable, family‑friendly interior. The price starts at $112,700 but can climb to $149,610 with options, making it one of the most expensive EVs on the market. Despite its impressive specs, the Macan’s navigation and charging guidance can be confusing, and many optional features add little value for most buyers.",
+      "key_points": [
+        "The Macan Turbo EV delivers sports‑car performance in a crossover body, with 630 hp and 285‑mile range.",
+        "Its price can exceed $150,000 when fully equipped, far above comparable EVs like the Chevy Bolt.",
+        "Charging is fast—20 minutes from 19% to 80% on a 350‑kW charger—but the navigation system can misdirect users to slower chargers.",
+        "Many optional features, such as the Turbo badge and illuminated logos, add little practical benefit and inflate cost."
+      ],
+      "topics": [
+        "electric vehicles",
+        "porsche",
+        "sports car",
+        "luxury",
+        "automotive"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 19:40:00 +0000",
+      "processed_at": "2026-10-20T11:10:12.725466+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-16-elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Elorian, a Palo Alto AI startup, has launched its first multimodal model, Glimpse, which is designed to reason with images by repeatedly accessing the source rather than converting to text tokens. The model, trained on a few hundred GPUs, offers a visual scratch space that allows it to crop, zoom, and run code during reasoning, and it is priced at $0.60 per million input tokens and $3 per million output tokens. Benchmarks show Glimpse outperforms GPT‑6 Astra on scientific chart reasoning and short‑form video captioning while remaining smaller and cheaper than many frontier systems. Elorian plans to target video‑heavy industries and eventually extend the model to control robots, aiming to build the world’s best visual reasoning model next year.",
+      "key_points": [
+        "Glimpse uses a visual scratch space to repeatedly access and manipulate image data during reasoning",
+        "The model is smaller and cheaper than many frontier multimodal systems, costing $0.60/million input and $3/million output tokens",
+        "It outperforms GPT‑6 Astra on scientific chart reasoning and short‑form video captioning",
+        "Elorian targets video‑heavy companies and plans to add robotic control capabilities in the future"
+      ],
+      "topics": [
+        "ai",
+        "multimodal",
+        "visual reasoning",
+        "startup",
+        "robotics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "processed_at": "2026-10-20T11:09:39.655108+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-16-replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
+      "title": "Replit's CEO says the future of work is the 'self-driving company' | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Replit co‑founder Amjad Masad told TechCrunch Disrupt that the rise of AI is turning companies into \"self‑driving\" organizations where agents handle routine tasks and humans focus on judgment and design. He explained how Replit’s own support workflow now begins with an AI agent triaging tickets, letting staff make higher‑level decisions and deploy fixes with a single click. Masad emphasized that AI will not replace people but shift their work toward architecture, strategy, and creativity, making jobs less boring and more productive. The CEO also noted that conversations with other businesses center on using AI to boost employee happiness and efficiency rather than merely cutting costs.",
+      "key_points": [
+        "Replit’s support system now uses AI agents to triage tickets before human intervention",
+        "AI shifts human work toward higher‑level design and decision‑making rather than replacing it",
+        "Masad envisions a future where companies are \"self‑driving\" with agents handling routine tasks"
+      ],
+      "topics": [
+        "ai",
+        "future of work",
+        "replit",
+        "self-driving company",
+        "automation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 12:55:09 +0000",
+      "processed_at": "2026-10-20T11:09:39.202451+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-15-tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877",
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla unveiled its redesigned second‑generation Roadster featuring SpaceX‑powered cold‑gas thrusters that allow the car to perform aerial flips, spin, and lift itself over other Tesla models during a live demo outside Waco, Texas. The vehicle can accelerate from 0 to 60 mph in one second, reach speeds over 230 mph, and offers a 300‑mile range across three trims—Performance, Thrust, and Rocket—priced at $50,000, $250,000, and invite‑only, respectively. Production is slated for 2028 after a series of delays, and Musk frames the Roadster as a halo car that prioritizes spectacle over immediate revenue. The design draws inspiration from high‑speed aircraft and James Bond cars, positioning the Roadster as a futuristic, high‑performance statement vehicle.",
+      "key_points": [
+        "Tesla’s second‑generation Roadster uses SpaceX cold‑gas thrusters to achieve 0‑60 mph in one second and perform aerial maneuvers during a live demo",
+        "Three trims—Performance, Thrust, Rocket—offer 300‑mile range, 230+ mph, and prices of $50,000, $250,000, with Rocket being invite‑only",
+        "The vehicle will be produced in 2028 after repeated delays, and Musk markets it as a halo car rather than a revenue driver",
+        "The design is inspired by aircraft and James Bond cars, emphasizing futuristic aesthetics and high performance"
+      ],
+      "topics": [
+        "tesla",
+        "roadster",
+        "spacex",
+        "electric vehicles",
+        "automotive innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 16 Oct 2026 01:17:43 +0000",
+      "processed_at": "2026-10-20T11:09:39.716253+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-14-intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
@@ -2373,105 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 12 Oct 2026 15:45:00 +0000",
       "processed_at": "2026-10-14T23:46:42.088977+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-      "title": "Microsoft president says UK is best placed to drive AI regulation | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Microsoft president Brad Smith has called for urgent global regulation of artificial intelligence, arguing that consumer products such as milk and washing machines already have more oversight than AI companies. Smith highlighted the UK’s AI Security Institute (AISI) as a leading example, noting that it receives early access to U.S. frontier models and conducts safety testing before deployment. He criticized voluntary self‑regulation, insisting that only “good companies” will comply and that legal obligations, kill switches, and external approvals are needed to protect against rogue AI. The call comes amid U.S. President Donald Trump’s recent threats to restrict British access to new models, a move AISI has resisted and continues to test the latest releases.",
-      "key_points": [
-        "Microsoft president Brad Smith urges global AI regulation, citing the UK’s AI Security Institute as a model for safety testing.",
-        "Smith criticizes voluntary self‑regulation and calls for legal obligations, kill switches, and external approvals to ensure AI safety.",
-        "U.S. President Donald Trump has threatened to limit UK access to new AI models, but AISI remains operational and continues testing."
-      ],
-      "topics": [
-        "ai regulation",
-        "uk",
-        "microsoft",
-        "trump",
-        "ai safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 12 Oct 2026 15:31:19 +0000",
-      "processed_at": "2026-10-14T23:46:42.038372+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-will-the-homeview-be-apples-first-smart-home-success",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
-      "title": "Will the HomeView be Apple’s first smart home success? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Apple will announce HomeView, a Siri‑powered smart home hub featuring a display and an A18 chip, on Tuesday at Disrupt. The device will be offered in two form factors—a countertop model and a wall‑mounted version—making it Apple’s most serious attempt to capture the smart‑home market after limited traction with HomeKit and the HomePod. Apple will also unveil updated versions of the Apple TV set‑top box and the HomePod mini, and reveal a partnership with LG to produce a smart lock, thermostat, and video doorbell. The announcement underscores Apple’s renewed focus on building a cohesive home ecosystem.",
-      "key_points": [
-        "HomeView is a Siri‑powered hub with a display and A18 chip",
-        "It comes in countertop and wall‑mounted models",
-        "Apple will refresh Apple TV and HomePod mini and partner with LG on lock, thermostat, and doorbell",
-        "This marks Apple’s biggest push into smart home after HomeKit and HomePod setbacks"
-      ],
-      "topics": [
-        "apple",
-        "smart home",
-        "homeview",
-        "homekit",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 21:14:40 +0000",
-      "processed_at": "2026-10-14T20:30:41.435349+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
-      "title": "Less than 48 hours until Disrupt 2026 starts | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will open on October 13 at Moscone West in San Francisco and run through the 15th, drawing more than 10,000 founders, investors and tech leaders for 200+ sessions and 300+ startups. Ticket prices are currently discounted, offering up to $100 off the regular rate, a second pass at 50% off, and a special $75 Expo+ Pass for those recently laid off. The event features over 250 speakers, including RJ Scaringe of Rivian, Mark Wahlberg, Alexa von Tobel of Inspired Capital, Andrew Feldman of Cerebras Systems, Cat de Jong of Anthropic, and Les Karpas of NVIDIA, covering AI, robotics, infrastructure, investment, fintech, climate and scaling challenges. Attendees can also explore the Expo Hall, meet the top 200 startups in Startup Battlefield, and take advantage of group discounts for teams of four or more.",
-      "key_points": [
-        "Disrupt 2026 opens Oct. 13-15 at Moscone West with over 10,000 attendees, 250 speakers, 200+ sessions, and 300+ startups",
-        "Tickets are discounted up to $100 off, a second pass at 50% off, and a $75 Layoff‑to‑Liftoff Expo+ Pass",
-        "Key speakers include RJ Scaringe, Mark Wahlberg, Alexa von Tobel, Andrew Feldman, Cat de Jong, and Les Karpas",
-        "The program covers AI, robotics, infrastructure, investment, fintech, climate, and scaling issues"
-      ],
-      "topics": [
-        "tech conference",
-        "startup ecosystem",
-        "ticket discounts",
-        "ai",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 19:00:00 +0000",
-      "processed_at": "2026-10-14T20:30:41.879673+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800",
-      "title": "The investor's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 is scheduled for Oct. 13‑15 in San Francisco and is positioned as a prime venue for investors to spot AI‑era startups before competitors. The event offers up to $100 in ticket savings until Oct. 12, a $75 Expo+ Pass for those recently laid off, and access to over 20,000 curated investor‑founder meetings, including 200 vetted Startup Battlefield pitches. Investors can tailor their experience by choosing passes that grant entry to stages such as Smart Money, Smart Systems, and AI, and by scheduling AI‑matched 1:1 sessions through the Disrupt app. Attending provides early deal flow, market intelligence, and networking that can translate into higher returns for portfolios.",
-      "key_points": [
-        "Disrupt 2026 runs Oct. 13‑15 in San Francisco and offers up to $100 in ticket discounts until Oct. 12",
-        "Investors gain access to 200 vetted Startup Battlefield pitches and over 20,000 curated meetings",
-        "Passes grant entry to specialized stages like Smart Money, Smart Systems, and AI, and enable AI‑matched 1:1 sessions",
-        "Attending gives early deal flow and market intelligence that can boost portfolio returns"
-      ],
-      "topics": [
-        "tech",
-        "venture capital",
-        "ai",
-        "startup",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 17:53:37 +0000",
-      "processed_at": "2026-10-14T20:30:41.675127+00:00"
     }
   ]
 }
