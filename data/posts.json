@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-21T18:11:34.295279+00:00",
+  "updated_at": "2026-10-21T21:54:25.682449+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Yelp has launched a new voice‑assistant feature called Check for Me that lets app users have an AI agent call a restaurant to report current wait times. The feature appears on restaurant pages, where users enter party size and phone number, and the AI calls on their behalf and texts the result. Alongside this, Yelp is enhancing its AI assistant with OpenTable booking, personalized recommendations, and expanded list management, while also introducing a paid Smart Lead Reply service for business owners to automate lead qualification. These updates aim to streamline the dining discovery process and improve customer support for both consumers and restaurants.",
+      "key_points": [
+        "Yelp’s Check for Me lets users call restaurants via an AI agent to get real‑time wait times",
+        "The AI assistant now supports OpenTable booking, personalized recommendations, and advanced list features",
+        "Yelp introduces Smart Lead Reply, a paid tool that automates lead qualification for business owners",
+        "Upcoming updates include weekly personalized suggestions, a new lists tab, and a maps view"
+      ],
+      "topics": [
+        "yelp",
+        "ai",
+        "voiceassistant",
+        "restaurant",
+        "customerexperience"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "processed_at": "2026-10-21T21:54:21.591343+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Mayor Zohran Mamdani of New York called on residents to resist the unchecked spread of AI, citing a recent ban on AI use in elementary and middle schools and a new disclosure rule for AI‑generated real‑estate listings. He criticized the federal government’s lack of regulation and the Trump‑era Superintelligence Task Force’s reliance on self‑regulation, arguing that AI’s rapid rollout is not inevitable and must be held accountable. Mamdani highlighted incidents such as the U.S. military’s AI‑involved strike in Iran to illustrate the dangers of reckless adoption. The mayor’s remarks underscore the growing role of local governments in shaping AI policy while the federal landscape remains fragmented.",
+      "key_points": [
+        "Mayor Mamdani banned AI in elementary and middle schools",
+        "New policy requires disclosure of AI‑generated real‑estate listings",
+        "Critique of federal abdication and Trump‑era Superintelligence Task Force",
+        "Call for local accountability and regulation of AI"
+      ],
+      "topics": [
+        "ai regulation",
+        "local government",
+        "education",
+        "real estate",
+        "technology policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+      "processed_at": "2026-10-21T21:54:10.360112+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+      "title": "Embedded AI evaluators won't be an easy solution, Hugging Face's policy chief says | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "At TechCrunch Disrupt, Hugging Face chief policy officer Irene Solaiman warned that embedded AI evaluators are unlikely to solve the industry’s safety and benchmarking challenges. She explained that reproducibility and access to model weights are key to trustworthy evaluations, and that current tests lack standardization and can become ineffective quickly. Solaiman highlighted the growing need to assess not just models but their harnesses and agents, noting that better holistic evaluations are still in development. The article underscores that without a unified, science‑based benchmarking ecosystem, third‑party evaluators may struggle to provide the neutrality and rigor required.",
+      "key_points": [
+        "Embedded evaluators face reproducibility and neutrality challenges, according to Hugging Face’s policy chief.",
+        "Current AI benchmarking lacks standardization, making it hard to compare tests and trust results.",
+        "Evaluations are expanding beyond models to include harnesses and agents, but robust tools are still under development."
+      ],
+      "topics": [
+        "ai safety",
+        "benchmarking",
+        "embedded evaluators",
+        "model evaluation",
+        "tech policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "processed_at": "2026-10-21T21:54:10.530828+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-18-anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
@@ -2393,74 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 17:00:00 +0000",
       "processed_at": "2026-10-16T15:20:52.037306+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
-      "title": "Exclusive: Cambridge Heavy Industries has been quietly building a desktop fusion device | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Cambridge Heavy Industries, a stealth startup in Cambridge, Massachusetts, has unveiled a benchtop inertial‑confinement fusion reactor that uses only two lasers to ignite a fuel target, enabling rapid iteration and AI‑driven design optimization. The modular device can perform 50 to 80 shots per day, generating data that feeds simulations to improve performance, and the company recently closed a $6.2 million seed round led by Azolla Ventures. In the next decade the firm plans to scale the prototype to a plant the size of two basketball courts, while using its smaller units to produce tritium—an expensive isotope needed for most fusion reactors. The approach could provide a new, cost‑effective source of tritium and a pathway to commercial fusion power.\n",
-      "key_points": [
-        "Cambridge Heavy’s tabletop fusion reactor uses only two lasers, reducing complexity and cost while allowing 50–80 daily experiments",
-        "The startup’s rapid‑iteration, AI‑optimized design has attracted a $6.2 million seed round from Azolla Ventures and other investors",
-        "Future plans include scaling the device to a plant the size of two basketball courts and using it to produce tritium, which is scarce and expensive",
-        "The technology could supply a new source of tritium and accelerate the development of commercial fusion power"
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 20:13:53 +0000",
-      "processed_at": "2026-10-16T11:00:08.828275+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-facebook-is-giving-users-more-control-over-their-algorithm",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
-      "title": "Facebook is giving users more control over their algorithm | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Meta has launched a new AI‑powered tool called \"Your Algorithm\" on Facebook that lets users shape what appears in their Feed and Reels by describing their interests in plain language. The feature works in real time, allowing users to adjust preferences and receive more relevant content, and it can prompt follow‑up questions to refine recommendations. Meta also updated the three‑dot menu so that \"Your Algorithm,\" \"Interested,\" and \"Not interested\" options are now accessible directly from individual posts. The rollout follows similar moves on Instagram and Threads, marking a broader shift toward giving users more agency over algorithmic curation.",
-      "key_points": [
-        "Meta’s \"Your Algorithm\" lets Facebook users influence feed and Reels content through natural‑language preferences.",
-        "The tool updates recommendations in real time and may ask follow‑up questions to refine suggestions.",
-        "Facebook’s menu changes make it easier to manage preferences directly from posts.",
-        "The launch extends Meta’s personalization strategy across Instagram and Threads."
-      ],
-      "topics": [
-        "social media",
-        "algorithm",
-        "ai",
-        "personalization",
-        "meta"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 18:05:24 +0000",
-      "processed_at": "2026-10-16T11:00:23.268888+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-11-these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-      "title": "These execs think voice AI hasn't reached its ChatGPT moment yet | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Voice‑AI startups have attracted billions of dollars as investors chase the next big interface, yet industry leaders say the technology still lacks a \"ChatGPT moment.\" PolyAI’s CTO highlighted that while full‑duplex models can speak and listen simultaneously, the real hurdle is delivering fast, natural reasoning so conversations feel seamless and customers trust AI agents. Otter’s CMO emphasized that accurate transcription and speaker identification are critical for meeting‑note tools, and that transparency—clearly indicating when an AI is present—must be built into enterprise solutions. Together, these insights suggest that voice AI’s future hinges on improving ASR accuracy, reasoning speed, and user trust through clear disclosure.",
-      "key_points": [
-        "Full‑duplex models exist but fast, natural reasoning is still missing",
-        "Accurate transcription and speaker ID are essential for meeting‑note AI",
-        "Transparency about AI presence is crucial for enterprise trust"
-      ],
-      "topics": [
-        "voice ai",
-        "enterprise",
-        "full-duplex",
-        "transcription",
-        "transparency"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 11 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-16T11:00:08.271261+00:00"
     }
   ]
 }
