@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-21T13:05:24.276891+00:00",
+  "updated_at": "2026-10-21T18:11:03.724032+00:00",
   "items": [
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "feed_excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000"
-    },
     {
       "title": "People are using AI to make their smart TVs dumb again",
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
@@ -26,18 +20,6 @@
       "published": "Mon, 19 Oct 2026 20:09:24 +0000"
     },
     {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "feed_excerpt": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "published": "Mon, 19 Oct 2026 19:28:34 +0000"
-    },
-    {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "feed_excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "published": "Mon, 19 Oct 2026 18:49:04 +0000"
-    },
-    {
       "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
       "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
       "feed_excerpt": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
@@ -48,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "feed_excerpt": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
       "published": "Mon, 19 Oct 2026 22:49:27 +0000"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "feed_excerpt": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "published": "Mon, 19 Oct 2026 22:04:28 +0000"
     },
     {
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
@@ -228,7 +204,49 @@
       "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
       "feed_excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
       "published": "Wed, 21 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "GM is giving OnStar an AI makeover",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "feed_excerpt": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "published": "Wed, 21 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "feed_excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "published": "Wed, 21 Oct 2026 17:59:12 +0000"
+    },
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "feed_excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "published": "Wed, 21 Oct 2026 17:18:27 +0000"
+    },
+    {
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "feed_excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "published": "Wed, 21 Oct 2026 16:59:44 +0000"
+    },
+    {
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "feed_excerpt": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "published": "Wed, 21 Oct 2026 14:03:11 +0000"
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "feed_excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "published": "Wed, 21 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "feed_excerpt": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "published": "Wed, 21 Oct 2026 13:30:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-21T13:05:26.121567+00:00"
+  "last_processed_at": "2026-10-21T18:11:16.928260+00:00"
 }
