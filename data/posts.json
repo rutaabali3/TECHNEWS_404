@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-21T01:52:41.194290+00:00",
+  "updated_at": "2026-10-21T07:17:36.884544+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-18-techcrunch-mobility-rivians-next-act",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Techcrunch-disrupt-RJ-Scaringe.jpg?resize=1200,801",
+      "title": "TechCrunch Mobility: Rivian's next act | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Rivian CEO RJ Scaringe is steering the company beyond just electric trucks toward a tech‑supplier model that includes AI, autonomy, and silicon. The automaker has built its own AI assistant, a 5‑nm processor with Arm and TSMC, and a full autonomous stack in partnership with Uber, while a $5.8 billion joint venture with VW focuses on electric architecture and software. Scaringe also spun out a micromobility startup called Also and owns 31 % of Mind Robotics, a robotics firm that will supply robots to Rivian factories and other customers. By licensing its technology to other brands and pursuing robotaxi deployments, Rivian aims to become a major tech supplier in the decade ahead.",
+      "key_points": [
+        "Rivian is expanding from EV maker to tech supplier with AI, autonomy, and custom silicon",
+        "The company partners with Uber for autonomous driving and has a $5.8 billion joint venture with VW on electric architecture",
+        "Scaringe owns 31 % of Mind Robotics and spun out Also, broadening the company’s reach into robotics and micromobility",
+        "Rivian plans to license its tech to other brands and launch robotaxi services to grow its influence"
+      ],
+      "topics": [
+        "electric vehicles",
+        "autonomous driving",
+        "ai",
+        "robotics",
+        "partnerships"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 18 Oct 2026 16:05:00 +0000",
+      "processed_at": "2026-10-21T07:17:09.634668+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Tolan, an AI companion that helps users manage daily tasks and emotions, has secured an additional $30 million in funding, bringing its total capital raised to $120 million and pushing its valuation past $268 million according to PitchBook. The company now reports double‑digit million annual recurring revenue and boasts more than 250,000 active users who have engaged in over 70 million conversations in the past year, with a user base that is 70 % women and 40 % parents. Tolan’s cartoonish avatar offers tiered memberships for full feature access, positioning it as a more approachable alternative to other AI companions that have faced criticism or bankruptcy. The startup now faces growing competition from newer AI agents like Meta’s Muse and must navigate legal risks associated with providing emotional support through AI.",
+      "key_points": [
+        "Tolan raised $30 million, raising total capital to $120 million and valuation above $268 million",
+        "The app has 250,000+ active users, 70 million conversations, and double‑digit million ARR",
+        "It competes with newer AI agents such as Meta’s Muse and follows the bankruptcy of Character.AI",
+        "Legal concerns arise from lawsuits over AI‑provided emotional support"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "mentalhealth",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 19:00:12 +0000",
+      "processed_at": "2026-10-21T07:17:09.631890+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Tenstorrent, a chip startup focused on inference, raised $1.5 billion in a round that lifted its valuation to $6.2 billion, more than doubling the $2.6 billion it fetched in late 2024. The funding was led by Trace Capital and Innovation X, with participation from Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price. CEO Jim Keller said the company chose to stay independent after its Galaxy servers demonstrated the ability to run DeepSeek models, and the new capital will be used to scale chips designed for open‑weight AI models and video generation. The move places Tenstorrent among a growing cohort of AI hardware startups challenging Nvidia’s dominance in the market.",
+      "key_points": [
+        "$1.5B round lifts Tenstorrent’s valuation to $6.2B, doubling its previous $2.6B valuation",
+        "The round was led by Trace Capital and Innovation X, with Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price as backers",
+        "CEO Jim Keller cited Galaxy servers running DeepSeek models as a reason to remain independent",
+        "Funds will be used to scale chips for open‑weight AI models and video generation, positioning Tenstorrent against Nvidia"
+      ],
+      "topics": [
+        "ai hardware",
+        "chip startup",
+        "nvidia",
+        "valuation",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "processed_at": "2026-10-21T07:17:09.190821+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198697259.jpg?resize=1200,800",
+      "title": "Musk pledges to give 'every kid in America' one of his SpaceX shares | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Elon Musk announced that he will give one share of SpaceX to every child in the United States in 2027, a move that would be worth more than $10 billion based on the current $146 share price and represent roughly 1% of his $1 trillion net worth. He said the shares would be distributed directly to the public, possibly using Trump Accounts that accept stock donations, though the exact mechanism remains unclear. The pledge came hours after Anthropic announced a public‑benefit fund that will donate 5% of its shares to nonprofits or direct distributions, prompting Musk to suggest a similar direct‑to‑public approach. Musk’s philanthropic history has largely been channeled through the Musk Foundation, which has been criticized for funneling a large portion of its funds to entities tied to him.",
+      "key_points": [
+        "Musk pledges to donate one SpaceX share to each U.S. child in 2027, valued over $10 billion",
+        "The distribution would be direct to the public, possibly via Trump Accounts",
+        "The announcement followed Anthropic’s public‑benefit fund plan, sparking a call for direct public donations",
+        "Musk’s past giving has largely flowed through the Musk Foundation, with significant internal transfers"
+      ],
+      "topics": [
+        "elon musk",
+        "spacex",
+        "philanthropy",
+        "stock donation",
+        "anthropic"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 12:42:55 +0000",
+      "processed_at": "2026-10-21T07:17:32.969107+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-19-apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
       "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
@@ -2361,105 +2461,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 13:15:46 +0000",
       "processed_at": "2026-10-16T00:37:07.275678+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "American Express has unveiled its Intent Intelligence Framework, a new system designed to capture and authenticate a customer’s purchase intent before an AI agent completes a transaction, aiming to prevent unauthorized or erroneous purchases. The framework introduces a Create Intent API that records the customer’s instructions and constraints, followed by a unique Intent ID and Proof of Intent Token that secure the transaction without exposing the card number. By integrating intent verification early in the transaction flow, Amex seeks to mitigate fraud and ensure that AI‑powered commerce remains seamless, trusted, and secure. The launch follows Amex’s earlier Agentic Commerce Experiences toolkit and reflects growing consumer openness to AI‑driven shopping, with 66% of U.S. respondents willing to use agents for price research and 61% for recommendations.",
-      "key_points": [
-        "Amex’s Intent Intelligence Framework captures customer intent before AI agents complete purchases to prevent unauthorized transactions",
-        "The system uses a Create Intent API, Intent ID, and Proof of Intent Token to secure payments while keeping card details hidden",
-        "Amex plans to make the framework an industry standard and is engaging partners to adopt the ACE developer toolkit"
-      ],
-      "topics": [
-        "american express",
-        "ai commerce",
-        "intent framework",
-        "payments",
-        "consumer protection"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-16T00:37:06.139620+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Character.AI filed for Chapter 11 bankruptcy after five years of rapid growth and legal challenges, citing assets between $50 million and $100 million. The company, founded by former Google engineers, had reached a unicorn valuation and 20 million monthly active users but struggled to monetize its highly engaged user base and faced lawsuits after a teen’s suicide linked to its chatbot. It has agreed to sell assets to Disney for $20 million and is seeking a buyer, with operations expected to continue until a sale or wind‑down. The filing highlights the difficulty of scaling consumer‑facing AI products despite strong engagement.",
-      "key_points": [
-        "Character.AI filed for Chapter 11 with assets $50‑100M",
-        "The company sold assets to Disney for $20M and seeks a buyer, but no bid yet",
-        "Legal and regulatory issues, including a teen suicide case and Texas investigation, strained finances",
-        "High engagement (20M MAU) did not translate into sustainable monetization, underscoring scaling challenges"
-      ],
-      "topics": [
-        "ai",
-        "bankruptcy",
-        "techstartups",
-        "consumerai",
-        "legalissues"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 12:23:42 +0000",
-      "processed_at": "2026-10-16T00:37:06.750299+00:00"
-    },
-    {
-      "id": "-13-the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
-      "title": "The full Disrupt Stage lineup | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 will feature a star‑filled Disrupt Stage lineup from October 13‑15 at Moscone West in San Francisco, showcasing leaders such as Rivian CEO RJ Scaringe, Cerebras CEO Andrew Feldman, and all five Benchmark partners. The event offers significant discounts, including 75% off on the last day, 50% off for a second pass, and up to $100 off for Expo+ Passes, while the Startup Battlefield finalists compete for a $100,000 equity‑free prize and the coveted Disrupt Cup. Speakers will discuss future‑shaping topics ranging from AI scalability and hardware design to public safety, social media, and biotech, providing attendees with insights into the next wave of tech innovation. With over 10,000 founders, VCs, and tech enthusiasts expected, Disrupt 2026 promises networking, product demos, and 200+ sessions led by 250+ industry leaders.",
-      "key_points": [
-        "Disrupt Stage features high‑profile speakers including Rivian, Cerebras, Benchmark partners, and Mark Wahlberg",
-        "The event runs Oct. 13‑15 at Moscone West and offers 75% off on the final day and 50% off for a second pass",
-        "Startup Battlefield finalists vie for a $100,000 equity‑free prize and the Disrupt Cup",
-        "Disrupt 2026 hosts 10,000+ attendees, 200+ sessions, and 300+ startups for networking and product demos"
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "ai",
-        "venturecapital",
-        "event"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:28:06 +0000",
-      "processed_at": "2026-10-15T22:00:20.926607+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-TV-4K-261013_big.jpg.large_2x.jpg?resize=1200,675",
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple launched a new $299 Apple TV 4K featuring an upgraded A19 chip, integrated Siri AI for content discovery, and three far‑field microphones that enable remote‑free voice commands. The device supports a four‑speaker surround sound experience when paired with HomePod mini 2 or HomePod 2, and the remote now includes a speaker to help locate it. Siri AI lets users ask questions such as “Which Apple TV shows won at the Emmy Awards this year?” for personalized recommendations, positioning Apple against rivals like Google and Amazon. The refreshed model is available for preorder today and will ship on November 13.",
-      "key_points": [
-        "New Apple TV 4K priced at $299 with A19 chip and Siri AI integration",
-        "Remote‑free voice control via three microphones and a speaker‑enabled remote",
-        "Four‑speaker surround sound compatibility with HomePod mini 2 or HomePod 2",
-        "Launch delayed due to AI rollout; shipping on November 13"
-      ],
-      "topics": [
-        "apple",
-        "apple tv",
-        "siri",
-        "ai",
-        "streaming"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:16:11 +0000",
-      "processed_at": "2026-10-15T22:00:25.984279+00:00"
     }
   ]
 }

@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-21T01:52:19.131278+00:00",
+  "updated_at": "2026-10-21T07:17:07.844038+00:00",
   "items": [
-    {
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "Sun, 18 Oct 2026 16:05:00 +0000"
-    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -26,12 +20,6 @@
       "published": "Mon, 19 Oct 2026 15:37:09 +0000"
     },
     {
-      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
-      "feed_excerpt": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
-      "published": "Mon, 19 Oct 2026 12:42:55 +0000"
-    },
-    {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
       "feed_excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
@@ -44,22 +32,10 @@
       "published": "Mon, 19 Oct 2026 19:28:34 +0000"
     },
     {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "feed_excerpt": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "published": "Mon, 19 Oct 2026 19:00:12 +0000"
-    },
-    {
       "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
       "feed_excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
       "published": "Mon, 19 Oct 2026 18:49:04 +0000"
-    },
-    {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "feed_excerpt": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "published": "Mon, 19 Oct 2026 18:37:27 +0000"
     },
     {
       "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
@@ -266,5 +242,5 @@
       "published": "Tue, 20 Oct 2026 20:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-21T01:52:36.183499+00:00"
+  "last_processed_at": "2026-10-21T07:17:32.969187+00:00"
 }
