@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T07:17:07.844038+00:00",
+  "updated_at": "2026-10-21T13:05:24.276891+00:00",
   "items": [
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -38,28 +38,10 @@
       "published": "Mon, 19 Oct 2026 18:49:04 +0000"
     },
     {
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "feed_excerpt": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "published": "Mon, 19 Oct 2026 18:00:39 +0000"
-    },
-    {
       "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
       "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
       "feed_excerpt": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
       "published": "Mon, 19 Oct 2026 17:39:51 +0000"
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "feed_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "published": "Mon, 19 Oct 2026 12:30:00 +0000"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "feed_excerpt": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
-      "published": "Mon, 19 Oct 2026 23:39:38 +0000"
     },
     {
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
@@ -240,7 +222,13 @@
       "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
       "feed_excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
       "published": "Tue, 20 Oct 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "feed_excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "published": "Wed, 21 Oct 2026 13:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-21T07:17:32.969187+00:00"
+  "last_processed_at": "2026-10-21T13:05:26.121567+00:00"
 }

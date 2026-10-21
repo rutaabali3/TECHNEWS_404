@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-21T07:17:36.884544+00:00",
+  "updated_at": "2026-10-21T13:05:52.284431+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-19-nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Anthropic and AI infrastructure firm Nscale are reportedly close to finalizing a second $45 billion compute deal, following a similar agreement a little over a month ago. The new partnership would further cement Anthropic’s strategy of securing massive compute resources to fuel its generative‑AI models. Both companies are also preparing for public listings, with Anthropic expected to go public this year and Nscale facing investor pushback over a $30 billion valuation. The escalating spend on compute has drawn criticism from some investors who worry that the costs outweigh the returns, but Anthropic remains confident the investment will pay off.",
+      "key_points": [
+        "Anthropic and Nscale may sign a second $45 billion compute deal",
+        "The deal follows a prior $45 billion agreement, part of Anthropic’s series of large compute partnerships",
+        "Both firms are pursuing IPOs, with Nscale encountering valuation pushback",
+        "Investor concerns about high compute spending persist despite Anthropic’s confidence"
+      ],
+      "topics": [
+        "ai",
+        "compute",
+        "anthropic",
+        "nscale",
+        "ipo"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "processed_at": "2026-10-21T13:05:25.660591+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Town, a San Francisco‑based AI assistant startup, secured a $108 million Series B round that pushed its valuation past the $1 billion unicorn threshold, just four months after its public launch. The funding, co‑led by Forerunner Ventures and Menlo Ventures and joined by Andreessen Horowitz, Serena Ventures and First Round Capital, brings the company’s total capital raised to at least $160 million. Town’s product, called a Townie, gives each employee a personalized AI assistant that connects to emails, calendars and other core work systems, and can now collaborate with customers and share approved information across the organization. In addition to the funding, Town announced a shared workflow that automatically updates employees’ Townies with new business data, eliminating the need for manual updates by each worker.",
+      "key_points": [
+        "Town raised $108 million in Series B, achieving a unicorn valuation within four months of launch",
+        "The company reached millions of annual recurring revenue in weeks after its public debut",
+        "Townies are AI assistants that integrate with business tools and can collaborate with customers and each other",
+        "A new shared workflow feature automates updates to Townies, streamlining information flow"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "unicorn",
+        "business productivity"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 18:00:39 +0000",
+      "processed_at": "2026-10-21T13:05:26.121499+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-19-laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Laplace Intelligence is developing automated red‑teaming tools that use high‑fidelity simulations and AI agents to stress‑test robotics and autonomous systems before they are deployed in the real world. The company, founded by former University of Michigan researchers, leverages a post‑trained version of Nvidia’s Cosmos platform to recreate realistic environments and generate interactive corner cases from real‑world data. Laplace is already generating revenue from autonomous trucking clients such as Bot Auto and a major Japanese automaker, and is partnering with Nvidia and T‑Mobile on a smart‑city pilot in San Jose. The startup will compete in Startup Battlefield 200 at TechCrunch Disrupt, hoping to raise funds and scale its technology to compete with larger players like Applied Intuition.",
+      "key_points": [
+        "Laplace uses AI agents to automatically design corner cases in realistic simulations, moving human testers out of the loop.",
+        "The startup’s high‑fidelity simulation is built on Nvidia’s Cosmos platform and incorporates real‑world map and traffic data.",
+        "Laplace already has paying customers in autonomous trucking and is partnering on a smart‑city pilot with Nvidia and T‑Mobile.",
+        "The company aims to raise capital at TechCrunch Disrupt to transition from project‑based contracts to recurring revenue."
+      ],
+      "topics": [
+        "ai",
+        "robotics",
+        "autonomous vehicles",
+        "simulation",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+      "processed_at": "2026-10-21T13:05:25.595812+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-18-techcrunch-mobility-rivians-next-act",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Techcrunch-disrupt-RJ-Scaringe.jpg?resize=1200,801",
@@ -2387,80 +2462,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 20:59:11 +0000",
       "processed_at": "2026-10-16T00:37:19.732209+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-techcrunch-disrupt-2026-day-1",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
-      "title": "Disrupt 2026: Day 1 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Disrupt 2026 Day 1 opened on Oct 13 at Moscone West in San Francisco, drawing more than 10,000 founders, investors and tech leaders. The event featured six new industry stages—scaling, AI, fintech, climate tech, and others—alongside 250+ speakers and the Startup Battlefield competition, where 20 early‑stage companies vied for a $100,000 equity‑free prize and the Disrupt Cup. Attendees could network via Klik badge technology, explore 300+ exhibiting startups, and participate in rapid‑fire pitch showcases and AI‑focused roundtables. The conference highlighted emerging trends such as agentic AI, climate‑tech solutions, and the future of money movement, positioning Disrupt as a key platform for startup visibility and investment.",
-      "key_points": [
-        "Over 10,000 founders, investors, and tech leaders converged at Moscone West for Day 1 of Disrupt 2026.",
-        "The Startup Battlefield competition offered a $100,000 equity‑free prize and the Disrupt Cup to 20 top early‑stage startups.",
-        "Six new industry stages—including AI, fintech, climate tech, and scaling—hosted 250+ speakers and 300+ exhibiting startups.",
-        "Klik badge technology enabled instant contact exchange and AI‑powered matchmaking throughout the event."
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "disrupt",
-        "ai",
-        "climate tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-16T00:37:07.069362+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-india-delays-digital-payments-fee-rollout-amid-retailer-pushback",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1213174164.jpg?resize=1200,800",
-      "title": "India delays digital payments fee rollout amid retailer pushback | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "India has postponed the introduction of a 0.4% merchant fee on UPI transactions above ₹2,000, originally slated for October 15, after widespread retailer opposition. The National Payments Corporation of India cited the festive Diwali shopping season as the reason for the delay, with no new date announced. The fee would have marked a shift from UPI’s long‑standing policy of free merchant payments, a policy that has helped drive the platform’s explosive growth to 24.07 billion transactions worth ₹29.37 trillion in September. Merchants, especially small retailers and petrol pumps, warned they might stop accepting UPI if the fee were imposed.",
-      "key_points": [
-        "UPI’s planned 0.4% merchant fee on transactions over ₹2,000 was delayed due to retailer pushback.",
-        "The delay is tied to the Diwali shopping period, with NPCI yet to set a new rollout date.",
-        "The fee would have been the first charge on UPI merchants since the government removed such fees in 2020."
-      ],
-      "topics": [
-        "upi",
-        "digital payments",
-        "merchant fees",
-        "india",
-        "retailers"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:25:05 +0000",
-      "processed_at": "2026-10-16T00:37:33.258567+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-apple-makes-another-push-into-the-smart-home-market-with-homeview",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.medium_2x.jpg?w=1200",
-      "title": "Apple makes another push into the smart home market with HomeView | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Apple unveiled HomeView, a $299 smart home hub with a display, FaceTime camera, and Siri AI that recognizes up to six people, enabling personalized content and smart home control. The device, available in countertop and wall‑mounted versions, integrates Apple’s core apps and can manage cameras, thermostat, lights, and locks, positioning Apple against Amazon’s Echo Show and Google’s Nest Hub. HomeView launches with a lineup of new accessories, including a smart deadbolt, cameras, and doorbell, and will ship on November 13 in four colors. This marks a significant push for Apple into the smart‑home market after past struggles with the HomePod.",
-      "key_points": [
-        "HomeView is a $299 smart hub with a display, FaceTime camera, and Siri AI that recognizes up to six people.",
-        "It integrates Apple’s core apps and controls smart home devices, competing with Amazon Echo Show and Google Nest Hub.",
-        "Preorders start today; shipping begins November 13 in four colors.",
-        "Apple also announced new smart home accessories like a deadbolt lock, cameras, and doorbell."
-      ],
-      "topics": [
-        "smart home",
-        "apple",
-        "siri",
-        "homepod",
-        "smart devices"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 13:15:46 +0000",
-      "processed_at": "2026-10-16T00:37:07.275678+00:00"
     }
   ]
 }
