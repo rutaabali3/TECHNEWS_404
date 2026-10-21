@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T23:02:03.260110+00:00",
+  "updated_at": "2026-10-21T01:52:19.131278+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: Rivian’s next act",
@@ -24,12 +24,6 @@
       "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
       "feed_excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
       "published": "Mon, 19 Oct 2026 15:37:09 +0000"
-    },
-    {
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "feed_excerpt": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-      "published": "Mon, 19 Oct 2026 12:56:14 +0000"
     },
     {
       "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
@@ -272,5 +266,5 @@
       "published": "Tue, 20 Oct 2026 20:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-20T23:02:24.734783+00:00"
+  "last_processed_at": "2026-10-21T01:52:36.183499+00:00"
 }

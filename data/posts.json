@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-20T23:02:30.288856+00:00",
+  "updated_at": "2026-10-21T01:52:41.194290+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-19-apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple has tightened its developer guidelines to ban apps that use AI to generate offensive content and to prevent apps that masquerade as normal during review but later reveal nudification features. The new rules require apps that host user‑generated content to filter objectionable material, provide reporting tools, and allow users to block abusive accounts. Apple will remove any app that adds hidden or undocumented features after approval, and it has reinforced bans on apps that promote human trafficking or child exploitation. The update follows a July San Francisco court order and earlier reports that nudify apps were still available in the App Store.",
+      "key_points": [
+        "Apple bans AI‑generated offensive content and apps that hide nudification features after review",
+        "New guidelines require filtering, reporting, and blocking for user‑generated content",
+        "Apple will remove apps that add hidden features post‑approval",
+        "The move follows a San Francisco court order and prior nudify app reports"
+      ],
+      "topics": [
+        "apple",
+        "app store",
+        "ai",
+        "nudification",
+        "developer guidelines"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 12:56:14 +0000",
+      "processed_at": "2026-10-21T01:52:36.183421+00:00"
+    },
     {
       "id": "chcrunch-com-2026-10-18-no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
@@ -2435,31 +2460,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 13:16:11 +0000",
       "processed_at": "2026-10-15T22:00:25.984279+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1202319290.jpeg?resize=1200,800",
-      "title": "Exclusive: Giraffe Bio aims its bespoke biomolecules at the looming copper shortage | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Giraffe Bio has unveiled a biotech platform that creates mineral‑specific chemicals to boost copper recovery by up to 5% in existing mines, a gain that industry experts say is highly material. The company grows engineered microbes in bioreactors to produce these bespoke compounds, which are then added to a mine’s flotation process to selectively bind copper and reduce reliance on toxic chemicals. Giraffe Bio recently closed a $6.4 million seed round led by Orion Industrial Ventures, with participation from BHP Ventures, Twynam, Air Capital, and Baruch Future Ventures. The startup’s technology could be adapted to other critical minerals such as gold and silver, positioning it as a versatile player amid looming copper shortages and a push for greener mining practices.",
-      "key_points": [
-        "Giraffe Bio’s engineered microbes produce copper‑specific chemicals that can increase copper recovery by up to 5% in existing mines.",
-        "The company’s bioreactor‑grown compounds replace toxic flotation chemicals, offering a more environmentally friendly extraction method.",
-        "Giraffe Bio secured a $6.4 million seed round led by Orion Industrial Ventures, with investors including BHP Ventures and Air Capital.",
-        "The platform is designed to be adaptable to other minerals like gold and silver, expanding its potential impact beyond copper."
-      ],
-      "topics": [
-        "biotech",
-        "mining",
-        "copper",
-        "critical minerals",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 12:40:00 +0000",
-      "processed_at": "2026-10-15T22:00:20.631507+00:00"
     }
   ]
 }
