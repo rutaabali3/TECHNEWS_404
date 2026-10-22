@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-10-22T05:17:43.295086+00:00",
+  "updated_at": "2026-10-22T10:29:34.790089+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "title": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Google has released TorchTPU, an open‑source variant of PyTorch that runs on its Tensor Processing Units, marking a direct challenge to Nvidia’s dominance in AI hardware. The new toolkit lets developers port existing PyTorch applications to TPUs with a simple configuration change, and Google has added a TPU agent suite and updated LiteRT to support the transition. Amazon announced a similar effort with TorchNeuron, which moves PyTorch workloads to its Trainium chips and contributes code to decouple the framework from Nvidia GPUs. Together, these moves signal a concerted push by the cloud giants to diversify AI hardware options and reduce reliance on Nvidia’s GPUs.",
+      "key_points": [
+        "Google launches TorchTPU, an open‑source PyTorch variant for TPUs",
+        "Amazon releases TorchNeuron to port PyTorch to its Trainium chips",
+        "Both companies aim to break Nvidia’s stranglehold on AI hardware",
+        "TorchTPU supports easy migration and integrates with popular AI tools"
+      ],
+      "topics": [
+        "ai",
+        "machine learning",
+        "cloud computing",
+        "hardware",
+        "open source"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
+      "processed_at": "2026-10-22T10:29:08.249416+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Memberships-1.jpg?resize=1200,675",
+      "title": "Spotify launches paid podcast memberships with perks beyond bonus content | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Spotify has introduced paid podcast memberships, allowing creators to offer fans a range of perks such as bonus audio/video, ad‑free listening, and early access. The feature, first teased at Investor Day, is now live in 34 markets including the U.S. and lets podcasters keep 90% of the revenue while setting multiple tiers. Eligibility requires hosting on Spotify for Creators or Megaphone, at least 100 consumption hours, 100 listeners, and three episodes. Early adopters include shows like The Adam Friedland Show and Making Sense with Sam Harris, positioning Spotify to compete more directly with YouTube in video and monetization.",
+      "key_points": [
+        "Spotify’s paid podcast memberships let creators offer bonus content, ad‑free listening, and early access while keeping 90% of revenue.",
+        "The feature is rolling out in 34 markets, including the U.S., and requires podcasters to meet specific audience and episode thresholds.",
+        "Early adopters include high‑profile shows such as The Adam Friedland Show and Making Sense with Sam Harris, highlighting Spotify’s push into video and deeper monetization tools."
+      ],
+      "topics": [
+        "podcasting",
+        "monetization",
+        "spotify",
+        "ai",
+        "video"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "processed_at": "2026-10-22T10:29:08.433951+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-oura-is-launching-two-new-ways-to-track-and-understand-activity",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "title": "Oura adds new fitness metrics to show how workouts impact your body | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Oura has unveiled two new workout metrics—Cardio Effort and VO₂ Max—to deepen insight into how users’ exercise affects their bodies. Cardio Effort quantifies the cardiovascular load of each workout and aggregates it weekly into categories such as Light, Fair, Maintaining, Building, or Reaching, shifting focus from duration to intensity. VO₂ Max is now estimated passively from GPS‑enabled workouts after five qualifying sessions, providing users with a lab‑like measurement of aerobic fitness in ml/kg/min. These additions, available on Gen3 and newer rings, aim to keep Oura ahead of rivals like RingConn and Ultrahuman in the competitive smart‑ring market.",
+      "key_points": [
+        "Cardio Effort measures both intensity and duration, offering weekly totals and categories to guide training intensity.",
+        "VO₂ Max is now estimated from GPS data after five qualifying workouts, giving users a lab‑grade fitness metric without a lab test.",
+        "The new metrics are rolled out on Oura Ring Gen3 and newer models, positioning Oura to differentiate itself amid rising competition."
+      ],
+      "topics": [
+        "smart ring",
+        "fitness tracking",
+        "cardio effort",
+        "vo2 max",
+        "health tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "processed_at": "2026-10-22T10:29:19.740137+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/rj-scaringe-disrupt-2026-getty.jpg?resize=1200,800",
+      "title": "Rivian's CEO says autonomy will enable 'dramatically different' vehicle designs | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Rivian CEO RJ Scaringe announced that autonomous technology will allow the company to create radically different vehicle designs beyond its current R2 SUV and R3 truck lineup, envisioning a future where personally owned autonomous cars could take on new form factors. He noted that while robotaxis are already operating in several cities, the majority of miles in the U.S. are driven in privately owned vehicles, so a societal shift away from personal ownership is unlikely even with Level 4 autonomy. Rivian is progressing from a driver‑assistance system that lets drivers take their hands off the wheel to a point‑to‑point navigation feature slated for release by year‑end, and plans to deploy fully autonomous R2 SUVs on Uber’s ride‑hail platform. Scaringe remains excited about the next decade of transportation, hinting at an upcoming R4 model that will showcase the design possibilities unlocked by autonomy.",
+      "key_points": [
+        "Rivian’s CEO says autonomy will enable radically new vehicle designs beyond current SUV and truck models",
+        "The company is moving from driver‑assistance to point‑to‑point navigation, aiming for full autonomy in robotaxi R2 SUVs on Uber",
+        "Scaringe believes most U.S. miles will still be driven in personally owned vehicles, limiting a shift to shared autonomous fleets",
+        "He hints at an upcoming R4 model that will demonstrate the design opportunities of autonomous technology"
+      ],
+      "topics": [
+        "rivian",
+        "autonomy",
+        "electric vehicles",
+        "vehicle design",
+        "robotaxi"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 17:39:51 +0000",
+      "processed_at": "2026-10-22T10:29:08.395053+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
@@ -2370,105 +2468,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 19:00:00 +0000",
       "processed_at": "2026-10-17T04:52:15.320030+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-deezer-will-soon-let-you-filter-out-ai-generated-music",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
-      "title": "Deezer will soon let you filter out AI-generated music | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Deezer announced it will launch a toggle that lets users filter out AI‑generated music from search results, a feature slated for release before year‑end. The move follows a 2023 survey where 45% of users wanted to remove AI tracks, and the platform has seen AI content rise from 10% of daily uploads to over 50% in July. Deezer’s CEO Alexis Lanternier said the option will let listeners focus on human‑created music if they choose. The change comes amid a broader industry debate, with competitors like Bandcamp banning AI tracks and Spotify only tagging them.",
-      "key_points": [
-        "Deezer introduces a toggle to filter AI‑generated music, expected before year‑end",
-        "45% of users surveyed want to remove AI tracks; AI uploads rose from 10% to over 50% of daily uploads",
-        "Competitors have varied policies: Bandcamp bans AI tracks, Tidal cuts monetization, Spotify tags them"
-      ],
-      "topics": [
-        "deezer",
-        "ai music",
-        "streaming",
-        "music industry",
-        "content moderation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 15:16:04 +0000",
-      "processed_at": "2026-10-17T00:18:18.709052+00:00"
-    },
-    {
-      "id": "-techcrunch-com-2026-10-13-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Science Corporation announced that it has implanted its vision‑restoring chip PRIMA into the first patient with Stargardt disease, an inherited retinal disorder that destroys central vision. The patient, treated at Sydney Eye Hospital in May, was able to see a letter during the first rehabilitation session and read a word in the second, demonstrating the chip’s early efficacy. PRIMA, already sold in Europe for geographic atrophy, works by placing a small implant in the back of the eye and using camera‑equipped glasses to transmit visual information directly to the retina. The company, founded by former Neuralink executive Max Hodak, views this success as a step toward broader brain‑computer interface applications beyond vision restoration.",
-      "key_points": [
-        "First Stargardt patient received PRIMA chip and saw letters and words during rehab",
-        "PRIMA is already commercially available in Europe for geographic atrophy",
-        "Science Corporation aims to expand BCI technology beyond vision to other neurological conditions",
-        "The implant uses a small chip and camera glasses to act as artificial photoreceptors"
-      ],
-      "topics": [
-        "vision restoration",
-        "brain-computer interface",
-        "stargardt disease",
-        "neural engineering",
-        "medical devices"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "processed_at": "2026-10-16T21:58:06.752116+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-13-cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
-      "title": "Cerebras CEO says we're nearing a future where everyone has a personal AI assistant at home | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO Andrew Feldman announced that personal AI assistants are likely to become common home appliances in the near future. He explained that these assistants would operate both locally and in the cloud, featuring strong security perimeters and the ability to handle financial transactions. Feldman highlighted the rapid progress of consumer AI agents such as Meta’s Muse and Instinct, and noted that he personally uses a suite of agents to manage his schedule and information. He emphasized that his company’s focus is on building the hardware infrastructure that will enable other innovators to create the next generation of home AI experiences.",
-      "key_points": [
-        "Cerebras CEO predicts personal AI assistants will soon be common home appliances",
-        "These assistants will run locally and in the cloud with security and credit‑card capabilities",
-        "Feldman uses agents himself and focuses on infrastructure for others",
-        "Consumer AI agents like Meta’s Muse and Instinct illustrate rapid progress"
-      ],
-      "topics": [
-        "ai",
-        "homeassistant",
-        "cerebras",
-        "techcrunch",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "processed_at": "2026-10-16T21:58:26.144037+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Industrial Next, a San Francisco startup founded by former Tesla engineers, unveiled AI‑driven robotic stations that can be reconfigured in minutes instead of weeks, enabling factories to switch tasks quickly. The company demonstrated its technology at TechCrunch Disrupt 2026 and announced a partnership with BMW Group Technology Office to evaluate its dexterous manipulation for manufacturing. By training robots in high‑fidelity simulated environments, Industrial Next’s stations can perform delicate tasks—such as threading flex cables and peeling protective film from camera modules—at or above human speed with 100% accuracy. The founders aim to extend this flexibility to complex, end‑to‑end production, ultimately enabling fully automated car manufacturing without human touch.",
-      "key_points": [
-        "Industrial Next’s robotic stations can be reconfigured in minutes, dramatically reducing downtime for task changes.",
-        "The startup uses high‑fidelity simulation to train robots for high‑precision, dexterous tasks without needing extensive real‑world data.",
-        "A partnership with BMW Group Technology Office is underway to test the technology in automotive manufacturing.",
-        "The founders, ex‑Tesla engineers, are targeting fully automated production lines for complex products like smartphones and cars."
-      ],
-      "topics": [
-        "automation",
-        "robotics",
-        "ai",
-        "manufacturing",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
-      "processed_at": "2026-10-16T21:58:06.564621+00:00"
     }
   ]
 }
