@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-10-21T21:54:08.986307+00:00",
+  "updated_at": "2026-10-22T00:29:41.371130+00:00",
   "items": [
-    {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "feed_excerpt": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "feed_excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "published": "Mon, 19 Oct 2026 15:37:09 +0000"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "feed_excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "published": "Mon, 19 Oct 2026 20:09:24 +0000"
-    },
     {
       "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
       "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
@@ -294,7 +276,31 @@
       "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
       "feed_excerpt": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
       "published": "Wed, 21 Oct 2026 18:51:56 +0000"
+    },
+    {
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "feed_excerpt": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+      "published": "Thu, 22 Oct 2026 00:17:54 +0000"
+    },
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "feed_excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "published": "Wed, 21 Oct 2026 22:51:22 +0000"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "feed_excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "published": "Wed, 21 Oct 2026 22:45:34 +0000"
+    },
+    {
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "feed_excerpt": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "published": "Wed, 21 Oct 2026 22:16:05 +0000"
     }
   ],
-  "last_processed_at": "2026-10-21T21:54:21.591403+00:00"
+  "last_processed_at": "2026-10-22T00:30:07.389844+00:00"
 }

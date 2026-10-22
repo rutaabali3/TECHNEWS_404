@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-21T21:54:25.682449+00:00",
+  "updated_at": "2026-10-22T00:30:08.709077+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-19-amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Amazon Web Services launched TorchNeuron, a tool that lets PyTorch AI applications run on its Trainium chip with a single line of configuration and no code rewrite, directly challenging Nvidia’s software advantage. The solution promises startups cheaper, scalable training and inference within the AWS cloud, while Amazon claims the same chip handles both workloads. In addition, Amazon will contribute upstream changes to PyTorch to remove Nvidia‑centric code, aiming to make the framework more hardware‑agnostic. If successful, this could erode Nvidia’s lock‑in and broaden hardware choices for AI developers.",
+      "key_points": [
+        "TorchNeuron enables PyTorch apps to run on Trainium with only a single configuration change.",
+        "Amazon promotes cost and scalability benefits for startups by offering unified training and inference on AWS.",
+        "The company is contributing code to PyTorch to reduce Nvidia dependency and increase hardware agnosticism.",
+        "This strategy could shift the AI hardware market away from Nvidia’s dominance."
+      ],
+      "topics": [
+        "amazon",
+        "aws",
+        "pytorch",
+        "nvidia",
+        "ai hardware"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "processed_at": "2026-10-22T00:29:42.950224+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+      "title": "People are using AI to make their smart TVs dumb again | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "AI agents such as Claude are enabling everyday users to strip ads, tracking and bloatware from smart TVs without needing root access, through open‑source projects like \"dumbtv\" and \"cleanyourtv.\"  The hacks, which replace the default launcher with a minimal interface and remove dozens of unwanted packages, have already been adopted by thousands of users across brands such as Xiaomi, Sony, TCL, and Fire TV.  By eliminating automatic content recognition and other data‑gathering features, the tools could disrupt the smart‑TV ad industry that profits from selling viewing data to advertisers.  While the solutions are still work‑in‑progress and can occasionally brick devices, they illustrate how generative AI is lowering the barrier to hardware customization and privacy‑enhancing modifications.",
+      "key_points": [
+        "AI agents like Claude can remove ads and bloatware from smart TVs without root access",
+        "The \"dumbtv\" and \"cleanyourtv\" projects have been adopted by thousands across multiple TV brands",
+        "These hacks could disrupt the smart‑TV ad ecosystem by eliminating data collection",
+        "Users report risks such as bricking or misconfigurations when using AI‑driven hacks"
+      ],
+      "topics": [
+        "ai",
+        "smart tv",
+        "adtech",
+        "privacy",
+        "hacking"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+      "processed_at": "2026-10-22T00:30:07.389747+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Nvidia announced new open-weight models for enterprise agents and edge computing. The Nemotron 3.5 Super VL, a 120‑billion‑parameter model, offers similar instruction‑following accuracy to the larger Nemotron 3 Ultra while being more deployable. Two lightweight Bolt models, including a 74‑billion‑parameter version for local PCs and a smaller conversational variant, are designed to run on Nvidia’s RTX Spark‑based AI PCs and DGX Spark workstations. Nvidia claims the Super VL outperforms competitors on agentic tasks and is already adopted by firms such as Skydance, EY, and Salesforce, positioning the company to capture both enterprise and consumer AI assistant markets.",
+      "key_points": [
+        "Nvidia releases Nemotron 3.5 Super VL, a 120B‑parameter model for enterprise agents.",
+        "Two lightweight Bolt models target local PCs and workstations with RTX Spark chips.",
+        "Super VL claims faster task completion than Anthropic and OpenAI models on agentic workloads.",
+        "Major clients like Skydance, EY, and Salesforce already use Super VL."
+      ],
+      "topics": [
+        "nvidia",
+        "ai models",
+        "enterprise ai",
+        "edge computing",
+        "consumer ai assistants"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+      "processed_at": "2026-10-22T00:29:43.104674+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
@@ -2392,81 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 17:00:00 +0000",
       "processed_at": "2026-10-16T18:56:16.945090+00:00"
-    },
-    {
-      "id": "echcrunch-com-2026-10-13-licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1092180978.jpg?resize=1200,850",
-      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Licube, a Japanese startup, has developed an electrolyzer that can enrich natural lithium to 99.995% lithium‑6, the isotope needed for tritium breeding in fusion reactors. The company argues that the scarcity of lithium‑6—only about 7.5% of natural lithium—will become a bottleneck as fusion plants seek to produce their own tritium on site. Licube estimates a $50 billion market by 2040 if fusion power becomes commercial, while also targeting semiconductor, pharmaceutical, fission, and spacecraft industries with its purification technology. The startup showcased its pitch at TechCrunch Disrupt’s Startup Battlefield, positioning itself as a key fuel supplier for the future fusion economy.",
-      "key_points": [
-        "Licube’s electrolyzer can enrich lithium to 99.995% lithium‑6, essential for tritium production in fusion reactors.",
-        "Natural lithium‑6 is only 7.5% of lithium, creating a supply gap that fusion plants will need to overcome.",
-        "Licube projects a $50 billion market by 2040 if fusion power comes online.",
-        "Until fusion is viable, the company plans to serve semiconductor, pharmaceutical, fission, and spacecraft markets with its purification tech."
-      ],
-      "topics": [
-        "fusion",
-        "lithium",
-        "energy",
-        "startup",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 20:00:00 +0000",
-      "processed_at": "2026-10-16T15:20:36.467782+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Flox Intelligence, a startup spun out of KTH Royal Institute of Technology, has developed edge AI devices that detect wildlife and emit species‑specific deterrent sounds to keep animals away from trains, airports, roads, and other critical infrastructure. The system uses on‑device perception models trained on wildlife behavior, learns from experience to avoid habituation, and is already deployed in about 150 units across North America, Europe, and Australia. Flox sells the hardware upfront and then charges an annual software and AI subscription, projecting $1.5 million in revenue by the end of 2026. While competitors like Robin Radar and iCHASE offer similar deterrent technologies, Flox claims its advantage lies in the breadth of its data and the adaptability of its system to various outdoor environments.",
-      "key_points": [
-        "Flox’s edge AI devices detect animals and emit species‑specific sounds, learning from experience to prevent habituation",
-        "The company has 150 units live worldwide and plans to scale to several thousand with a $10 million Series A",
-        "Flox’s revenue model combines upfront hardware sales with annual software subscriptions, targeting $1.5 million in 2026",
-        "Its competitive moat is the extensive field data and adaptable perception system for diverse outdoor settings"
-      ],
-      "topics": [
-        "wildlife",
-        "ai",
-        "transportation",
-        "infrastructure",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 18:30:00 +0000",
-      "processed_at": "2026-10-16T15:20:36.102736+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-13-mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1370995239.jpeg?resize=1200,800",
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "MIT startup LNK Energies has developed a system that converts existing heavy‑duty diesel trucks into hydrogen‑powered haulers, reducing total cost of ownership by about 13% and cutting emissions. The technology uses liquid organic hydrogen carriers (LOHCs) and a compact on‑board reactor that eliminates the need for high‑pressure compression, allowing the truck to run on a conventional internal‑combustion engine or a fuel cell. LNK plans to install a larger reactor in a commercial truck within 18 months and aims to price the fuel at $6.50 per gallon after producing 50–100 units, without relying on subsidies. The company will showcase its prototype at TechCrunch Disrupt in San Francisco.",
-      "key_points": [
-        "LNK Energies turns diesel Class 8 trucks into hydrogen haulers using LOHCs and a mini‑fridge‑sized reactor.",
-        "The system removes the expensive 11,000‑psi compression step, lowering operating costs by ~13% versus diesel.",
-        "Fuel can be dispensed from standard diesel stations, avoiding new hydrogen infrastructure.",
-        "LNK targets a $6.50 per gallon price after 50–100 trucks, aiming to be cheaper even during early adoption."
-      ],
-      "topics": [
-        "hydrogen",
-        "trucking",
-        "cleanenergy",
-        "startup",
-        "transportation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-16T15:20:52.037306+00:00"
     }
   ]
 }
