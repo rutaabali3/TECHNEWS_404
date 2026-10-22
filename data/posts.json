@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-22T15:34:13.911152+00:00",
+  "updated_at": "2026-10-22T19:50:29.189624+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-spacex-and-tesla-boards-form-special-committees-to-review-merger",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
+      "title": "SpaceX and Tesla boards form special committees to review merger | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "SpaceX and Tesla boards have each formed independent special committees to evaluate a potential merger, a move requested by shareholders. Elon Musk, who is a conflicted party, cannot serve on the committees and has said the merger is not guaranteed, though he supports the idea. The committees have not yet agreed on any terms, and shareholder approval will be required for a deal to move forward. The companies see potential synergies in AI, robotics, SpaceX’s orbital AI data center, and a joint chip‑manufacturing project.",
+      "key_points": [
+        "SpaceX and Tesla formed independent special committees to review a possible merger",
+        "Elon Musk cannot participate in the committees and says the merger is not guaranteed",
+        "Committees have not reached terms; shareholder approval is needed",
+        "Potential synergies include AI, robotics, orbital AI data center, and joint chip manufacturing"
+      ],
+      "topics": [
+        "merger",
+        "spacex",
+        "tesla",
+        "ai",
+        "board governance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 22:57:57 +0000",
+      "processed_at": "2026-10-22T19:50:11.004986+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-chatgpt-now-lets-you-lock-your-chats",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "ChatGPT now lets you lock your chats | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "OpenAI has introduced a \"Locked Chats\" feature that lets users protect individual ChatGPT conversations with a PIN, Face ID, or Touch ID, keeping them separate from the main chat history. Locked chats are stored in a dedicated section and, when Memory is enabled, maintain a separate memory that does not bleed into regular chats, though the feature does not add end‑to‑end encryption or change data retention policies. The new privacy layer is available across all paid and free plans except ChatGPT for Healthcare and is intended for personal or sensitive discussions that users may want to keep private when sharing their device. While the feature enhances on‑screen privacy, OpenAI notes it does not address broader concerns about how data is stored or used to improve the model.",
+      "key_points": [
+        "Locked Chats can be secured with PIN, Face ID, or Touch ID and are stored separately from regular history.",
+        "The feature creates a distinct memory for locked chats that does not affect the main Memory, but it does not provide end‑to‑end encryption or alter data retention.",
+        "Locked Chats are available on all plans except ChatGPT for Healthcare and cannot be used with temporary, archived, group, or scheduled chats.",
+        "Resetting the PIN permanently deletes all locked content, and the feature is still rolling out."
+      ],
+      "topics": [
+        "chatgpt",
+        "privacy",
+        "openai",
+        "ai",
+        "feature"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 18:36:53 +0000",
+      "processed_at": "2026-10-22T19:50:10.977276+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-streaming-guide-justwatch-becomes-a-streamer-itself",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Multi_device_mock.png?resize=1200,675",
+      "title": "Streaming guide JustWatch becomes a streamer itself | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "JustWatch, the streaming‑search engine used by 50 million people, has launched its own streaming service, JustWatch TV, offering both free ad‑supported and paid ad‑free tiers. The new platform will feature content from 30 partners—including Paramount, Cineverse, and Altitude—and will be available in 12 markets, with a movie‑rental store launching in the U.S., U.K., Ireland, Australia, and New Zealand. Subscribers to the paid tier, priced at $3.99 per month or $49.99 for a lifetime, gain access to over 300 ad‑free titles, advanced filters, and a 10 % discount on rentals. JustWatch plans to let users request titles, aiming to grow its audience data while directing viewers to its existing partner ecosystem.",
+      "key_points": [
+        "JustWatch has entered the streaming market with a free and paid tier, featuring 30 content partners and a movie‑rental store.",
+        "The service launches in 12 markets, with a paid plan priced at $3.99/month or $49.99 lifetime and includes 300+ ad‑free titles and a 10 % rental discount.",
+        "JustWatch will let users request titles to influence its content lineup, leveraging its large audience data for future growth.",
+        "The move expands JustWatch’s role from a “TV guide” to a hub that both streams content and directs traffic to partner services."
+      ],
+      "topics": [
+        "streaming",
+        "justwatch",
+        "subscription",
+        "media",
+        "tv"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 16:01:24 +0000",
+      "processed_at": "2026-10-22T19:50:10.683995+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpg?resize=1200,675",
+      "title": "SpaceX alum's aviation startup, Reliable Robotics, lands $115M, topping $1B valuation | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Reliable Robotics, a Mountain View startup founded by former SpaceX engineers, has secured a $115 million boost—comprising $90 million in equity led by Nimble Partners and $25 million in debt from Silicon Valley Bank—bringing its Series D total to $275 million and pushing its valuation past $1 billion. The company, which has raised $380 million to date, is advancing toward FAA certification of its autonomous flight system, with the first continuous autopilot engagement expected within 18 to 24 months and a pilot‑removal system slated for at least three years later. In addition, Reliable is developing a solid‑state collision‑avoidance radar that it hopes to certify by the end of 2027, and plans to launch Reliable Airlines, the first airline to operate fully autonomous aircraft. These milestones position the firm as a potential industry catalyst, mirroring the autonomous trajectory seen in automotive technology.",
+      "key_points": [
+        "$115M funding extends runway and pushes valuation over $1B",
+        "Series D total $275M includes $90M equity and $25M debt",
+        "First autopilot system to be FAA certified in 18‑24 months",
+        "Solid‑state collision‑avoidance radar aims for 2027 certification"
+      ],
+      "topics": [
+        "aviation",
+        "autonomous",
+        "startup",
+        "funding",
+        "faa"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 13:17:36 +0000",
+      "processed_at": "2026-10-22T19:50:10.785905+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think",
       "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1237977593.jpg?resize=1200,800",
@@ -2370,105 +2470,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 01:30:42 +0000",
       "processed_at": "2026-10-17T19:06:08.057890+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-09-beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/San-Francisco-Cityscape.jpg?resize=1200,628",
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can't Miss | TechCrunch",
-      "author": "Jean Bradley",
-      "summary": "TechCrunch Disrupt 2026 will run from October 13‑15 in San Francisco, but the conference’s real buzz comes from a week‑long slate of side events that start on October 10 and continue through the 16th.  Attendees can take advantage of a 50% discount when bringing a friend and up to $200 off the Founder Summit, while a diverse lineup of themed networking nights—ranging from Polish innovation evenings and Nordic fintech showcases to AI bartender happy hours and hardware happy hours—draws global founders, investors, and operators.  These gatherings, hosted by governments, industry groups, and startup accelerators, provide informal pitches, demos, and partnership matchmaking, turning the city into a nonstop startup playground.  The mix of cultural showcases, sector‑specific mixers, and playful formats like a live job‑hunt game show underscores Disrupt’s commitment to fostering cross‑border collaboration and real‑world product growth.",
-      "key_points": [
-        "Disrupt 2026 runs Oct. 13‑15 with side events from Oct. 10‑16, offering 50% off passes for friends and up to $200 off the Founder Summit",
-        "Over 30 themed networking nights feature international partners—Poland, Norway, Pakistan, Taiwan, Korea—and cover fintech, AI, hardware, and content creation",
-        "Unique experiences such as an AI bartender, a hardware happy hour, and a live job‑hunt game show create informal pitch and partnership opportunities",
-        "The events aim to connect founders, investors, and operators across the global tech ecosystem, turning San Francisco into a nonstop startup playground"
-      ],
-      "topics": [
-        "tech events",
-        "networking",
-        "startup ecosystem",
-        "ai",
-        "fintech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 09 Oct 2026 14:42:34 +0000",
-      "processed_at": "2026-10-17T19:06:07.712835+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NTangible-Stills-11.jpg?resize=1200,675",
-      "title": "NTangible bets it can predict how athletes will perform under pressure | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "NTangible has introduced the Clutch Factor assessment, a psychological test that scores athletes on their likelihood to perform under pressure. The tool, developed with psychologist Dr. Ed Levine, uses neurolinguistic analysis of responses to ambiguous images and produces a score from 0 to 1,000, with scores above 750 indicating a high probability of committing to a Division I program. NTangible plans to sell the platform to sports organizations and companies, and it also envisions a corporate version called NTerpret to evaluate employees’ performance in high‑stress situations. The company will detail its strategy at TechCrunch Disrupt, where it is a top contender in Startup Battlefield.",
-      "key_points": [
-        "NTangible’s Clutch Factor assessment predicts athletes’ performance under pressure using neurolinguistic scoring",
-        "Scores above 750 double the likelihood of a Division I commitment",
-        "The platform targets sports organizations and corporate HR, with a planned NTerpret version for workplace settings"
-      ],
-      "topics": [
-        "sports tech",
-        "psychology",
-        "recruiting",
-        "data analytics",
-        "corporate hr"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-17T16:35:28.635624+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-10-13-satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Satlyt, a startup founded by former Google and SpaceX engineer Rama Afullo, has launched its satellite‑software platform on a SpaceX rocket alongside Google’s Project Suncatcher prototype, marking the first joint orbital deployment of the two companies’ space data‑center efforts.  The company, which raised an $8 million seed round led by Non Sibi Ventures, builds AI‑enabled software that lets satellites run complex workloads without needing ground‑based control, aiming to create a shared compute cloud in orbit.  Satlyt’s approach focuses on operational efficiencies—such as reducing downlink data by over 60% with DeepMind’s Gemma model—rather than building spacecraft, and it plans to be live on 20% of satellites by the end of the decade.  The launch, featuring a TakeMe2Space satellite carrying NASA, Stellerian, and TakeMe2Space itself, demonstrates Satlyt’s strategy of offering a horizontally integrated, open‑ecosystem platform for multiple satellite operators.",
-      "key_points": [
-        "Satlyt’s software was launched on a SpaceX rocket alongside Google’s Project Suncatcher prototype",
-        "The company raised an $8 million seed round led by Non Sibi Ventures",
-        "Satlyt focuses on AI workloads on satellites, not building spacecraft, to create a shared orbital compute cloud",
-        "It aims to be installed on 20% of satellites by the end of the decade"
-      ],
-      "topics": [
-        "satellite computing",
-        "orbital data centers",
-        "ai in space",
-        "startup",
-        "space technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
-      "processed_at": "2026-10-17T16:35:28.399784+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-techcrunch-disrupt-2026-day-2",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
-      "title": "Disrupt 2026: Day 2 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "Day 2 of TechCrunch Disrupt 2026 in San Francisco’s Moscone West opened with more than 10,000 founders, investors and tech leaders exploring 300+ startups in the Expo Hall. The day’s agenda centered on AI, robotics, public safety and venture investment, featuring speakers from Nvidia, Waabi, Flock Safety, Ricursive Intelligence and Benchmark. Attendees could network through AI‑powered matchmaking, watch live startup pitches, and join breakout sessions on building AI systems, securing the AI enterprise and scaling physical‑world robots. The event also offered a 50 % discount on walk‑up passes and highlighted the $100,000 equity‑free prize for the Startup Battlefield finalists.",
-      "key_points": [
-        "TechCrunch Disrupt 2026 Day 2 attracted over 10,000 attendees and showcased 300+ startups in the Expo Hall.",
-        "The agenda focused on AI, robotics, public safety and venture investment with speakers from Nvidia, Waabi, Flock Safety, Ricursive Intelligence and Benchmark.",
-        "AI‑powered matchmaking and live startup pitches enabled networking and discovery of investment opportunities.",
-        "Walk‑up passes were discounted 50 % and the Startup Battlefield offered a $100,000 equity‑free prize."
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "ai",
-        "robotics",
-        "venture"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 14:30:00 +0000",
-      "processed_at": "2026-10-17T13:06:26.471301+00:00"
     }
   ]
 }

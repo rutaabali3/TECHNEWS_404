@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:33:43.743884+00:00",
+  "updated_at": "2026-10-22T19:50:09.210473+00:00",
   "items": [
     {
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
@@ -20,28 +20,10 @@
       "published": "Tue, 20 Oct 2026 07:01:00 +0000"
     },
     {
-      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-      "feed_excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-      "published": "Tue, 20 Oct 2026 13:17:36 +0000"
-    },
-    {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
       "feed_excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
       "published": "Tue, 20 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "feed_excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "published": "Tue, 20 Oct 2026 18:36:53 +0000"
-    },
-    {
-      "title": "Streaming guide JustWatch becomes a streamer itself",
-      "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "feed_excerpt": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-      "published": "Tue, 20 Oct 2026 16:01:24 +0000"
     },
     {
       "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "feed_excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000"
-    },
-    {
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "feed_excerpt": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-      "published": "Tue, 20 Oct 2026 22:57:57 +0000"
     },
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
@@ -276,7 +252,67 @@
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "feed_excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
       "published": "Thu, 22 Oct 2026 13:11:13 +0000"
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "feed_excerpt": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "feed_excerpt": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "feed_excerpt": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "feed_excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "published": "Thu, 22 Oct 2026 18:43:53 +0000"
+    },
+    {
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "feed_excerpt": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+      "published": "Thu, 22 Oct 2026 18:38:47 +0000"
+    },
+    {
+      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "feed_excerpt": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
+      "published": "Thu, 22 Oct 2026 17:36:38 +0000"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "feed_excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "published": "Thu, 22 Oct 2026 16:47:17 +0000"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "feed_excerpt": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "feed_excerpt": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Tesla is prepping a Cybercab onslaught",
+      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "feed_excerpt": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+      "published": "Thu, 22 Oct 2026 15:44:39 +0000"
     }
   ],
-  "last_processed_at": "2026-10-22T15:33:58.721922+00:00"
+  "last_processed_at": "2026-10-22T19:50:11.005045+00:00"
 }
