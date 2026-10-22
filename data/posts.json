@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-10-22T19:50:29.189624+00:00",
+  "updated_at": "2026-10-22T23:04:29.144161+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-anthropics-cloud-partnerships-are-getting-messy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "title": "Anthropic’s cloud partnerships are getting messy | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Anthropic is facing a cloud crunch, with AWS, Google and Microsoft treating the Claude maker as a competitor rather than a customer, according to a leaked S‑1 filing. The company estimates it could spend more than $750 billion on cloud contracts, while also leasing its own data centers amid concerns over third‑party operators’ reliability. Despite a 45% jump in Q3 revenue to $16.8 billion, Anthropic posted an $80.7 billion net loss in the first half of the year and warns that liability for harmful AI could exceed its insurance coverage. The firm is still targeting a November IPO while navigating these financial and operational challenges.",
+      "key_points": [
+        "Anthropic may spend over $750 billion on cloud contracts amid strained relations with hyperscalers.",
+        "The company is leasing its own data centers but worries about reliability of third‑party operators.",
+        "Anthropic’s Q3 revenue rose 45% to $16.8 billion, yet it posted an $80.7 billion net loss.",
+        "Potential liability for harmful AI could exceed available insurance coverage."
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "ipo",
+        "data centers",
+        "fintech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "processed_at": "2026-10-22T23:04:04.526178+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-spacexs-ai-business-is-beating-expectations",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+      "title": "SpaceX's AI business is beating expectations | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "SpaceX reported third‑quarter revenue of $14.6 billion, with its newly renamed Super Intelligence AI business accounting for 52% of income and generating $7.5 billion in sales and $431 million in profit after a $1.2 billion one‑time stock‑based expense. The company invested $19.6 billion in capital expenditures, building its Colossus II data center and expanding Starship rocket development, while its Starlink subscriber base grew to 13.6 million. Net income swung to $4.4 billion, a turnaround from a $1 billion loss a year earlier, though the first nine months still show a $413 million loss. Elon Musk forecast that SpaceX’s AI recurring revenue could reach $500 billion to $1 trillion by 2027, underscoring the firm’s shift from space launch to artificial intelligence.",
+      "key_points": [
+        "SpaceX’s AI division exceeded expectations, delivering $7.5 billion in revenue and $431 million in profit in Q3.",
+        "The company poured $19.6 billion into data‑center and rocket infrastructure, including the Colossus II project and Starship test flights.",
+        "Net income turned positive to $4.4 billion, reversing last year’s loss, though the year‑to‑date result remains a $413 million loss.",
+        "Musk projects $500 billion–$1 trillion in annual recurring AI revenue by 2027, highlighting the strategic pivot to AI.”]",
+        "topics",
+        ":",
+        [
+          "space",
+          "ai",
+          "data centers",
+          "rockets",
+          "finance"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "processed_at": "2026-10-22T23:04:04.858032+00:00"
+    },
+    {
+      "id": "echcrunch-com-2026-10-20-plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800",
+      "title": "Exclusive: Plants can speak using electricity, so this startup built an AI model to decipher their language | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Electric Plant has developed Bombadil, a large‑language‑model that decodes the subtle electrical signals plants emit, allowing growers to understand plant needs in real time. The startup, founded by Justin Mast and neuroscientist Lee von Kraus, has collected data from over 125 species and built sensors that cost only a few dozen dollars each, far cheaper than conventional soil probes and spectroscopes. After raising an $11.2 million seed round led by Onto Ventures and Climactic, Electric Plant plans to deploy its sensors and cloud‑based model to help farmers cut water usage by at least 20% while boosting yields. The company envisions a future where humans can “speak” to plants, turning plant communication into a practical tool for agriculture and forestry.",
+      "key_points": [
+        "Bombadil is a large‑language‑model trained on electrical signals from more than 125 plant species, enabling real‑time interpretation of plant needs.",
+        "Electric Plant raised $11.2 million in seed funding led by Onto Ventures and Climactic, with participation from several other investors.",
+        "Its low‑cost sensors—tens of dollars each—can reduce water use by 20% or more and outperform existing agricultural monitoring tools.",
+        "The startup aims to create a platform that lets growers “talk” to plants, potentially transforming precision agriculture and forestry."
+      ],
+      "topics": [
+        "agriculture",
+        "ai",
+        "plantbiology",
+        "startups",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-22T23:04:04.574296+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-spacex-and-tesla-boards-form-special-committees-to-review-merger",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
@@ -2402,74 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 15:08:00 +0000",
       "processed_at": "2026-10-17T21:37:54.092760+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-13-laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Laplace Intelligence, an Ann Arbor‑based startup, is developing automated red‑team testing for physical AI systems such as robots and autonomous vehicles, using high‑fidelity simulations built from real‑world data and AI agents that generate corner cases. The company, founded by former University of Michigan researchers Howie Sun and Henry Liu, has already secured revenue from autonomous trucking firm Bot Auto and a major Japanese automaker, and is piloting smart‑city traffic operations with Nvidia and T‑Mobile. Laplace plans to raise funds at TechCrunch Disrupt and shift from project‑based contracts to recurring revenue, positioning its AI‑driven testing as a new paradigm that could become a key moat against rivals like Applied Intuition. The startup’s approach aims to ensure physical AI is safe before deployment by continuously probing systems in interactive, realistic simulations.\n",
-      "key_points": [
-        "Laplace uses AI agents to automatically generate edge‑case scenarios in realistic simulations for testing physical AI systems.",
-        "The startup has already generated revenue from autonomous vehicle customers and is piloting smart‑city traffic solutions with Nvidia and T‑Mobile.",
-        "It seeks to move from project‑based contracts to recurring revenue and plans to raise funds at TechCrunch Disrupt to scale its offering."
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 17:30:00 +0000",
-      "processed_at": "2026-10-17T21:37:54.140342+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/EV-charging-Getty.jpg?resize=1200,830",
-      "title": "Electric vehicle sales in the US are showing signs of life | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Electric vehicle sales in the United States have rebounded, reaching a 6.1% share of the market—the strongest performance since the third quarter of 2025—and have grown for three straight quarters, according to a new Cox Automotive report. The rebound is driven by competitive pricing, higher gasoline costs, and a surge in demand for models such as Toyota’s refreshed bZ and Lexus RZ, which doubled sales after adding Tesla‑style charging ports and larger batteries. Despite a 20% year‑over‑year decline, Tesla remains the dominant player, accounting for more than half of all EV sales in the third quarter. The U.S. recovery mirrors Germany’s post‑incentive rebound, where sales fell sharply after the 2023 incentive cut but then steadily recovered to near‑record levels.",
-      "key_points": [
-        "EV sales have grown for three consecutive quarters, reaching 6.1% of the U.S. market.",
-        "Toyota, Rivian, and Subaru lead the market, with Toyota’s bZ and Lexus RZ sales doubling after a refresh.",
-        "Tesla’s sales fell 20% year‑over‑year but still hold more than half of all EV sales.",
-        "The U.S. rebound parallels Germany’s recovery after incentive cuts, showing resilience in the EV market."
-      ],
-      "topics": [
-        "electric vehicles",
-        "sales",
-        "market recovery",
-        "incentives",
-        "automotive"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 20:12:07 +0000",
-      "processed_at": "2026-10-17T19:06:14.422556+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787",
-      "title": "Justice Department says North Koreans have infiltrated dozens of US companies | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "The U.S. Department of Justice announced that North Korean hackers are increasingly using American facilitators to infiltrate U.S. companies, leading to the indictment of two individuals and the seizure of 180 computers linked to 40 laptop farms in Texas. At least 70 U.S. firms across healthcare, retail, manufacturing, and other sectors have been compromised, with roughly $3 million in stolen funds reported. The DOJ revealed that North Korean operatives employ stolen U.S. identities and sophisticated social‑media cover to secure employment and exfiltrate data, while the FBI warned of thousands of North Korean IT workers embedded in Western companies. This latest wave of enforcement actions underscores the regime’s remote‑IT worker scheme, which also fuels large-scale crypto thefts and supports its nuclear program.",
-      "key_points": [
-        "DOJ indicted two people, raided 40 laptop farms, seized 180 computers linked to North Korean hacking operations",
-        "At least 70 U.S. companies were infiltrated, generating about $3 million in stolen funds",
-        "North Korean hackers use stolen U.S. identities and American facilitators to gain employment and exfiltrate data",
-        "FBI warns of thousands of North Korean IT workers in Western firms, posing a national security threat"
-      ],
-      "topics": [
-        "north korea",
-        "cybersecurity",
-        "law enforcement",
-        "data breach",
-        "hackers"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 01:30:42 +0000",
-      "processed_at": "2026-10-17T19:06:08.057890+00:00"
     }
   ]
 }

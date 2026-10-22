@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:50:09.210473+00:00",
+  "updated_at": "2026-10-22T23:04:03.194970+00:00",
   "items": [
     {
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
@@ -26,12 +26,6 @@
       "published": "Tue, 20 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "feed_excerpt": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000"
-    },
-    {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "feed_excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
@@ -42,18 +36,6 @@
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "feed_excerpt": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "published": "Tue, 20 Oct 2026 22:24:02 +0000"
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "feed_excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "published": "Tue, 20 Oct 2026 21:25:22 +0000"
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "feed_excerpt": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-      "published": "Tue, 20 Oct 2026 20:40:41 +0000"
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -312,7 +294,37 @@
       "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
       "feed_excerpt": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
       "published": "Thu, 22 Oct 2026 15:44:39 +0000"
+    },
+    {
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "feed_excerpt": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "published": "Thu, 22 Oct 2026 22:34:54 +0000"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "feed_excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000"
+    },
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "feed_excerpt": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "published": "Thu, 22 Oct 2026 21:05:05 +0000"
+    },
+    {
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "feed_excerpt": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "published": "Thu, 22 Oct 2026 20:01:51 +0000"
+    },
+    {
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "feed_excerpt": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "published": "Thu, 22 Oct 2026 20:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-22T19:50:11.005045+00:00"
+  "last_processed_at": "2026-10-22T23:04:04.858112+00:00"
 }
