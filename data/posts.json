@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-22T10:29:34.790089+00:00",
+  "updated_at": "2026-10-22T15:34:13.911152+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1237977593.jpg?resize=1200,800",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "GM is shutting down its Brownstown Battery Assembly Plant south of Detroit, a move driven by the end of a lease rather than a shift in its electric‑vehicle strategy. The facility had produced battery packs for the Cadillac Celestiq and both motors and packs for the Chevrolet Corvette E‑Ray plug‑in hybrid. Employees will be transferred to other GM sites, though the company has not yet disclosed where. GM remains committed to EVs, continuing production of models like the Silverado EV and Bolt while investing in new battery chemistries and a $900 million commercialization facility.",
+      "key_points": [
+        "GM is closing the Brownstown plant because its lease is ending, not due to a change in EV strategy.",
+        "The plant built battery packs for the Cadillac Celestiq and motors/battery packs for the Chevrolet Corvette E‑Ray.",
+        "Employees will be relocated to other GM facilities, though the specific locations are not yet announced.",
+        "GM continues to produce EVs and invest in battery research and a new $900 million facility."
+      ],
+      "topics": [
+        "gm",
+        "battery",
+        "ev",
+        "plant closure",
+        "automotive"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 19:32:43 +0000",
+      "processed_at": "2026-10-22T15:33:45.529748+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Eric Schmidt is reported to own about 1% of the AI lab Anthropic after investing tens of millions in its 2021 Series A round, a stake that is surprisingly large compared with the 2% held by co‑founder and CEO Dario Amodei. Anthropic was valued at $461 million at that time and is expected to go public before the end of the year, with top‑end market estimates reaching as high as $2 trillion. At that valuation, Schmidt’s share could add roughly $20 billion to his net worth, which Bloomberg currently lists at $57.5 billion. Schmidt has been an active tech investor since leaving Google, deploying capital through entities such as Tomorrow Ventures, Innovation Endeavors Management, and his family office Hillspire, and he also backs other AI ventures like Mistral, General Intuition, and Reflection AI.",
+      "key_points": [
+        "Eric Schmidt owns about 1% of Anthropic, a stake larger than CEO Dario Amodei’s 2% according to Bloomberg’s estimate.",
+        "Anthropic was valued at $461 million in 2021 and is expected to go public with a potential $2 trillion valuation, which could add $20 billion to Schmidt’s net worth.",
+        "Schmidt’s investment is part of a broader strategy that includes multiple AI bets through entities such as Tomorrow Ventures and Hillspire.",
+        "The company’s upcoming IPO and high valuation underscore the growing interest and speculation around AI‑focused startups."
+      ],
+      "topics": [
+        "anthropic",
+        "eric schmidt",
+        "ai",
+        "investing",
+        "startup valuation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 17:55:12 +0000",
+      "processed_at": "2026-10-22T15:33:45.620731+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "title": "Meta's Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta’s AI companion Muse has surpassed 10.9 million downloads worldwide, including 10.2 million in the United States, within its first 40 days on the market, making it one of only twelve apps to reach this milestone. The success is driven by Meta’s cross‑platform marketing and a sharp increase in advertising spend—39% of its total spend in October—boosting Muse to the 21st largest brand in U.S. ad impressions. Muse also outperforms rivals in user retention, with 30% of users returning after seven days and 23% after fourteen days, compared to 19% and 16% for competitors like ChatGPT. The app has maintained the No. 1 spot on the U.S. App Store for all but one day and has 2.5 million daily active users, underscoring its strong engagement and market dominance.",
+      "key_points": [
+        "Muse reached 10.9 million downloads, 10.2 million in the U.S., in 40 days, a milestone shared by only 12 apps",
+        "Meta allocated 39% of its advertising budget to Muse in October, lifting it to the 21st largest U.S. brand by impressions",
+        "Muse’s retention rates (30% after 7 days, 23% after 14 days) exceed those of ChatGPT, Claude, and Grok",
+        "The app consistently tops the U.S. App Store and Google Play charts, with 2.5 million daily active users"
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "ai",
+        "app downloads",
+        "retention"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 17:12:48 +0000",
+      "processed_at": "2026-10-22T15:33:45.567818+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era' | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Amulya Vishwanath, founder and managing partner of Techable Ventures, described the current state of physical AI as a \"LEGO era,\" where companies are building foundational robotic components that will eventually combine into advanced systems. She highlighted that the industry is rethinking core software and hardware building blocks, much like the early days of the internet and the industrial revolution. Vishwanath emphasized that talent remains a critical moat, with her firm connecting founders to top talent to keep them competitive against giants such as Anthropic and Nvidia. The interview underscored the importance of foundational innovation and talent acquisition for scaling physical AI startups.",
+      "key_points": [
+        "Vishwanath sees physical AI as in a LEGO era, focusing on building foundational robotic components",
+        "Techable Ventures connects founders to top talent, creating a moat against larger companies",
+        "She draws parallels between the current phase and the early internet and industrial revolution",
+        "Talent acquisition is critical for startups to stay competitive in the physical AI space"
+      ],
+      "topics": [
+        "venture capital",
+        "physical ai",
+        "robotics",
+        "talent",
+        "startup funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+      "processed_at": "2026-10-22T15:33:58.721828+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
@@ -2369,105 +2469,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 14:30:00 +0000",
       "processed_at": "2026-10-17T13:06:26.471301+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-prismm-helps-banks-keep-inherited-money-in-house",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
-      "title": "Prismm helps banks keep inherited money in-house | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Prismm, a fintech startup founded in 2020 by sisters Martha Underwood and Shella Sylla, is building beneficiary and estate‑planning features directly into bank accounts to simplify the transfer of assets after a customer’s death. By allowing account holders to designate family members and store documents in a secure, integrated platform, Prismm enables remote, frictionless beneficiary transfers that keep inherited money within the original institution. The company unveiled its mission on the Startup Battlefield stage at TechCrunch Disrupt 2026 and offers three products—Designate, Anchor, and the upcoming Continuity—to help banks reduce annual “estate attrition” losses. Prismm positions itself as the infrastructure that banks can use to retain customers and their assets across generations.\n",
-      "key_points": [
-        "Prismm embeds beneficiary and estate‑planning tools into bank accounts from day one to streamline post‑death asset transfers.",
-        "The startup’s products—Designate, Anchor, and Continuity—provide digital designation, secure asset tracking, and step‑by‑step transfer guidance for banks and families.",
-        "By reducing estate attrition, Prismm helps financial institutions keep inherited deposits and potentially attract new customers.\n"
-      ],
-      "topics": [
-        "banking",
-        "fintech",
-        "estateplanning",
-        "startup",
-        "techcrunch"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-17T09:04:36.419857+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-floqers-ai-agents-help-b2b-revenue-teams-research-customers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-      "title": "Floqer's AI agents research sales prospects so teams don't have to | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Floqer, a 2024‑founded startup, is building an autonomous customer knowledge platform that uses AI agents to continuously research and update B2B sales prospects, claiming to cut prospecting time by up to 70%. The company plans to open‑source its database in early 2027 after completing security reviews, a move driven by customer demand for self‑hosted solutions. Floqer has already surpassed $1.2 million in annual recurring revenue and seen its overall revenue grow roughly tenfold in the past year, while raising $2 million in pre‑seed funding. With eight employees and more than 1,000 customers—including Perplexity, Wise, and AngelList—Floqer will pitch its technology on the Startup Battlefield stage at TechCrunch Disrupt 2026.",
-      "key_points": [
-        "Floqer’s AI agents automate B2B sales research, reducing prospecting time by up to 70%",
-        "The startup plans to open‑source its autonomous customer knowledge database in early 2027 after security reviews",
-        "Floqer has surpassed $1.2 million ARR and grown revenue tenfold in a year",
-        "It has raised $2 million pre‑seed, has 8 employees, and serves over 1,000 customers such as Perplexity, Wise, and AngelList"
-      ],
-      "topics": [
-        "ai",
-        "sales",
-        "startup",
-        "open-source",
-        "crm"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-17T09:04:36.661901+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-14-save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
-      "title": "Save 50% on your Disrupt 2026 ticket | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is offering a 50% discount on its Disrupt 2026 tickets for the remaining two days of the event, which runs from October 13 to 15 at Moscone West in San Francisco. The promotion includes full access to the main stage, two AI stages featuring leaders from OpenAI, Anthropic, Hugging Face, and more, as well as 320+ exhibitors and the Startup Battlefield 200 pitch competition. Key speakers include Mark Wahlberg, Replit CEO Amjad Masad, Benchmark partners, Amazon’s Panos Panay, and Bluesky’s Toni Schneider. The discount is aimed at founders and entrepreneurs looking to network, secure funding, and learn from industry leaders before the event concludes on October 16.",
-      "key_points": [
-        "50% off all ticket types for the last two days of Disrupt 2026",
-        "Event runs Oct. 13‑15 at Moscone West with 320+ exhibitors and AI stages",
-        "Speakers include Mark Wahlberg, Amjad Masad, Benchmark partners, Panos Panay, and Toni Schneider",
-        "Discount targets founders seeking networking and investment opportunities"
-      ],
-      "topics": [
-        "tech events",
-        "discount",
-        "startup",
-        "ai",
-        "techcrunch"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "processed_at": "2026-10-17T04:51:49.076543+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1425330574.jpg?resize=1200,800",
-      "title": "Niobia takes the guesswork out of some of tech's most expensive mistakes | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "San Francisco‑based startup Niobia has built an AI system that places on‑device GPU agents on battery and semiconductor production lines to spot pinhole‑sized defects and instantly surface root‑cause explanations via a chatbot. By delivering answers in minutes instead of days, the technology can cut defect‑related costs that sometimes reach millions and accelerate production resumption. Niobia’s agents run on open‑source models that the company further trains, keeping sensitive data on‑premises and giving customers full control of encryption keys. The company, a Battlefield finalist at TechCrunch Disrupt 2026, is focusing on film coating, electroplating and fluidized‑bed reaction processes with the long‑term goal of fully autonomous factories.",
-      "key_points": [
-        "Niobia’s AI agents detect micro‑defects on production lines and provide rapid root‑cause analysis via a chatbot",
-        "The startup uses on‑device GPUs and open‑source models to keep proprietary data secure and address cybersecurity concerns",
-        "Niobia targets high‑value battery and semiconductor markets, aiming to automate processes and build fully autonomous factories",
-        "The company is a Battlefield finalist at TechCrunch Disrupt 2026"
-      ],
-      "topics": [
-        "ai",
-        "manufacturing",
-        "semiconductors",
-        "batteries",
-        "cybersecurity"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 19:00:00 +0000",
-      "processed_at": "2026-10-17T04:52:15.320030+00:00"
     }
   ]
 }

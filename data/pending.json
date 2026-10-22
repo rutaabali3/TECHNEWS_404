@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:29:06.688082+00:00",
+  "updated_at": "2026-10-22T15:33:43.743884+00:00",
   "items": [
     {
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
@@ -32,34 +32,10 @@
       "published": "Tue, 20 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
-      "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-      "feed_excerpt": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-      "published": "Tue, 20 Oct 2026 19:32:43 +0000"
-    },
-    {
       "title": "ChatGPT now lets you lock your chats",
       "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "feed_excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
       "published": "Tue, 20 Oct 2026 18:36:53 +0000"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "feed_excerpt": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-      "published": "Tue, 20 Oct 2026 17:55:12 +0000"
-    },
-    {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "feed_excerpt": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "published": "Tue, 20 Oct 2026 17:12:48 +0000"
-    },
-    {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "feed_excerpt": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "published": "Tue, 20 Oct 2026 16:20:06 +0000"
     },
     {
       "title": "Streaming guide JustWatch becomes a streamer itself",
@@ -252,7 +228,55 @@
       "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
       "feed_excerpt": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
       "published": "Wed, 21 Oct 2026 22:16:05 +0000"
+    },
+    {
+      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+      "feed_excerpt": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+      "published": "Thu, 22 Oct 2026 15:24:32 +0000"
+    },
+    {
+      "title": "Investors break down how founders can raise a Series A today",
+      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "feed_excerpt": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+      "published": "Thu, 22 Oct 2026 15:15:00 +0000"
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "feed_excerpt": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "published": "Thu, 22 Oct 2026 15:03:58 +0000"
+    },
+    {
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "feed_excerpt": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "published": "Thu, 22 Oct 2026 14:59:28 +0000"
+    },
+    {
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "feed_excerpt": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+      "published": "Thu, 22 Oct 2026 14:03:00 +0000"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "feed_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "published": "Thu, 22 Oct 2026 13:53:26 +0000"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "feed_excerpt": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "published": "Thu, 22 Oct 2026 13:26:52 +0000"
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "feed_excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "published": "Thu, 22 Oct 2026 13:11:13 +0000"
     }
   ],
-  "last_processed_at": "2026-10-22T10:29:19.740227+00:00"
+  "last_processed_at": "2026-10-22T15:33:58.721922+00:00"
 }
