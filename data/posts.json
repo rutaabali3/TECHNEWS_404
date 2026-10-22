@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-22T00:30:08.709077+00:00",
+  "updated_at": "2026-10-22T05:17:43.295086+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
+      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TikTok employees have repeatedly warned executives about risks to children, including sexual exploitation and suicide‑related content, according to court documents obtained by NPR. Depositions filed in March 2026 reveal that the company failed to act on these concerns, did not conduct age‑verification surveys, and allowed minors to access age‑restricted material. TikTok has denied the allegations, citing billions invested in Trust & Safety and more than 50 preset safety settings for teens, while also noting that the claims are cherry‑picked by trial lawyers. The platform is now facing hundreds of consolidated lawsuits alongside Meta, Google, and Snap for allegedly harming minors and failing to disclose known risks.",
+      "key_points": [
+        "Employees warned of sexual content, suicide material, and minors exploiting loopholes on TikTok",
+        "TikTok denied wrongdoing, citing billions in Trust & Safety and 50+ teen safety settings",
+        "Court documents show the company avoided age‑verification surveys to protect FTC data",
+        "TikTok is part of a larger wave of lawsuits against major social media platforms for child harm"
+      ],
+      "topics": [
+        "tiktok",
+        "child safety",
+        "social media",
+        "lawsuits",
+        "trust and safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 15:03:41 +0000",
+      "processed_at": "2026-10-22T05:17:29.159956+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1233645802.jpg?resize=1200,800",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Figma co‑founder Dylan Field announced the design firm’s expansion of support for the Model Context Protocol (MCP) while still voicing concerns about the standard’s imperfections. At the company’s first Config conference in India, Figma added 20 new MCP partners, including Notion, Meta Muse, and Mistral, even as Field criticized Anthropic for not exposing its resources through MCP and for the protocol’s asymmetric context sharing. Field emphasized that Figma wants to remain open but is wary of the risks of exposing too much data, a concern echoed by the CEO who cited potential abuse. The company also confirmed plans to support the open‑source tool Pi, addressing earlier objections from the MCP community.",
+      "key_points": [
+        "Figma is adding 20 new MCP partners despite Dylan Field’s reservations about the protocol’s flaws",
+        "Field publicly criticized Anthropic for not making its resources available via MCP and highlighted asymmetric context sharing issues",
+        "Figma’s leadership stresses the need to balance openness with data‑abuse risks, prompting cautious expansion",
+        "The company plans to support the open‑source tool Pi, responding to community pushback"
+      ],
+      "topics": [
+        "figma",
+        "mcp",
+        "ai",
+        "open source",
+        "data privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 14:13:32 +0000",
+      "processed_at": "2026-10-22T05:17:15.787857+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems | TechCrunch",
+      "author": "Kate Park",
+      "summary": "The U.S. Department of Homeland Security has ordered all federal civilian agencies to stop buying and to remove products and services from the Chinese AI startup DeepSeek, citing national‑security concerns that U.S. data could be accessed by Chinese authorities under Chinese law. The directive extends beyond DeepSeek’s own models to any third‑party tools built on its technology, while allowing agencies to request limited exceptions. Beijing has rebuked the move as an overreach that politicizes technology trade, and the order follows a 2025 law that already barred DeepSeek from U.S. intelligence systems. The ban is part of a broader U.S.‑China AI standoff that also sees China considering export restrictions on advanced AI technologies.",
+      "key_points": [
+        "U.S. DHS orders federal civilian agencies to halt purchases and remove DeepSeek AI products and derivatives from government systems",
+        "Concerns that U.S. data could be accessed by Chinese authorities under Chinese law prompted the ban",
+        "China condemns the order as politicizing technology and vows to protect its enterprises",
+        "The directive follows a 2025 law that already restricted DeepSeek in U.S. intelligence systems and reflects escalating AI rivalry"
+      ],
+      "topics": [
+        "ai",
+        "national security",
+        "china",
+        "us",
+        "tech policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 13:07:24 +0000",
+      "processed_at": "2026-10-22T05:17:15.403222+00:00"
+    },
+    {
+      "id": "ch-com-2026-10-20-inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Inspired-Capital.jpg?resize=1200,800",
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Inspired Capital, the New York‑based early‑stage firm founded by Alexa von Tobel and Penny Pritzker, has closed its fourth fund with $450 million in commitments, bringing its assets under management to nearly $1.4 billion. The raise underscores that venture capital is still flowing to the West Coast—Bay Area firms captured 55% of U.S. new commitments last year—while New York firms like Inspired demonstrate strong growth and a balanced coast strategy. The firm invests in roughly ten companies a year with checks ranging from $1 million to $15 million, focusing on early‑stage physical AI, quantum computing, and serial entrepreneurs. From its first two funds, 12 companies have become unicorns, 10 have surpassed $100 million in revenue, and the portfolio includes high‑profile exits such as MosaicML, Deeptune, Saturn, and the SPAC‑public Teamshares.",
+      "key_points": [
+        "Inspired Capital closed a $450 million fourth fund, raising its AUM to nearly $1.4 billion",
+        "The firm backs about ten early‑stage companies a year with $1–$15 million checks, emphasizing physical AI, quantum computing, and serial founders",
+        "Twelve companies from its first two funds have become unicorns, with ten exceeding $100 million in revenue",
+        "Portfolio exits include MosaicML (acquired for $1.3 billion), Deeptune, Saturn, and the SPAC‑public Teamshares"
+      ],
+      "topics": [
+        "venture capital",
+        "new york",
+        "silicon valley",
+        "early-stage",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-22T05:17:16.051401+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-19-amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
@@ -2369,104 +2469,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 13 Oct 2026 23:00:00 +0000",
       "processed_at": "2026-10-16T21:58:06.564621+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO Andrew Feldman criticized the growing AI doomsday narrative, arguing it distracts from the technology’s potential benefits. He urged industry leaders to emphasize positive outcomes—such as eliminating diseases—while still acknowledging and regulating risks. Feldman also blamed the data‑center sector’s poor community engagement for fueling NIMBY backlash and called for more collaborative approaches to new AI‑driven infrastructure. Despite his optimism, he acknowledged that powerful AI will inevitably attract misuse and must be handled responsibly.",
-      "key_points": [
-        "Cerebras CEO Andrew Feldman criticized AI doomsday warnings at TechCrunch Disrupt 2026.",
-        "He urged the industry to highlight AI’s benefits, like disease prevention, while still regulating risks.",
-        "Feldman blamed data‑center community engagement failures for NIMBY backlash and called for better collaboration.",
-        "He acknowledged that powerful AI will attract misuse and must be responsibly managed."
-      ],
-      "topics": [
-        "ai",
-        "ai ethics",
-        "data centers",
-        "cerebras",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "processed_at": "2026-10-16T21:58:06.985942+00:00"
-    },
-    {
-      "id": "runch-com-2026-10-13-forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1104.jpg?resize=900,1200",
-      "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026 | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Longshot Space Technology is developing a ground‑based multi‑injection gun that can accelerate projectiles to hypersonic speeds, with the goal of turning the gun into a reusable launch vehicle. The Alameda‑based startup has raised about $20 million, is testing a 70‑foot, 6‑inch gun that reaches Mach 4 and plans a 3,000‑foot, 30‑inch gun capable of launching 220‑lb payloads at Mach 8, while also providing hypersonic test services for the U.S. military. Longshot envisions a 10‑km gun that could loft payloads to orbital velocity, potentially cutting launch costs to roughly $50 per kilogram—well below the $300 per kilogram threshold needed for the orbital data‑center market. The company’s progress hinges on securing suitable test sites, but its reusable, low‑fuel design offers a compelling alternative to conventional rockets.",
-      "key_points": [
-        "Longshot’s multi‑injection gun can reach Mach 8 and launch 220‑lb payloads, aiming to reduce launch costs to $50/kg",
-        "The startup has raised $20 million and holds U.S. military contracts for hypersonic testing",
-        "Future plans include a 3,000‑ft gun and a 10‑km gun that could place payloads into orbit",
-        "Site availability remains a major challenge for scaling the technology"
-      ],
-      "topics": [
-        "space launch",
-        "hypersonic",
-        "startups",
-        "military contracts",
-        "cost reduction"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 18:05:00 +0000",
-      "processed_at": "2026-10-16T21:58:06.762357+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Pluto Security, a stealth‑mode startup that began selling its AI‑security platform in April, has closed a $42 million Series A led by Jump Capital, bringing its total funding to $42 million. The company argues that the rapid adoption of generative‑AI tools in enterprises creates new, hard‑to‑detect security holes, noting that about 60 % of the risks it finds come from non‑developer‑coded applications, especially in finance, marketing and legal departments. Pluto’s solution monitors AI agents in real time, intercepting risky actions and enforcing policies without stopping employees from using AI, and it already reports $2 million in annual recurring revenue from more than 30 enterprise customers such as Oscar Health and AlphaSense. The funding will be used to expand product development, security research and the company’s U.S. presence.\n",
-      "key_points": [
-        "Pluto Security raised $42 million in a Series A, adding to an $8.5 million seed round",
-        "The firm claims 60 % of the security risks it detects stem from AI tools coded by non‑developers, especially in finance, marketing and legal teams",
-        "Pluto’s platform monitors AI agent behavior in real time, allowing interventions before dangerous actions are completed"
-      ],
-      "topics": [
-        "ai security",
-        "startup funding",
-        "enterprise security",
-        "cybersecurity",
-        "artificial intelligence"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 17:18:25 +0000",
-      "processed_at": "2026-10-16T18:55:51.617966+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google Play has introduced a feature that lets users build and run private, vibe‑coded apps on their Android devices through Google Play without publishing them publicly. The apps, created with Google AI Studio, stay hidden from search and listing pages and are only accessible to the creator, though they must still meet Play’s policy guidelines. Initially available to U.S. users 18 and older, the service will later allow sharing with a limited network of trusted friends and, if desired, a transition to a public Play Store listing after a safety review. The move reflects Google’s push to make app development more personal and secure, complementing other AI‑driven enhancements such as Game Finder and Ask Play.",
-      "key_points": [
-        "Private vibe‑coded apps can now be launched on Android via Google Play without public listing.",
-        "Feature available to U.S. users 18+ and will later support sharing with trusted friends.",
-        "Apps must still comply with Play policies and can be moved to public listing after review."
-      ],
-      "topics": [
-        "google play",
-        "ai",
-        "app development",
-        "android",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-16T18:56:16.945090+00:00"
     }
   ]
 }

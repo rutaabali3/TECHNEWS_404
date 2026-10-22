@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T00:29:41.371130+00:00",
+  "updated_at": "2026-10-22T05:17:13.819636+00:00",
   "items": [
     {
       "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
@@ -26,39 +26,15 @@
       "published": "Tue, 20 Oct 2026 07:01:00 +0000"
     },
     {
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-      "feed_excerpt": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-      "published": "Tue, 20 Oct 2026 15:03:41 +0000"
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "feed_excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data",
-      "published": "Tue, 20 Oct 2026 14:13:32 +0000"
-    },
-    {
       "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
       "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
       "feed_excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
       "published": "Tue, 20 Oct 2026 13:17:36 +0000"
     },
     {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "feed_excerpt": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "published": "Tue, 20 Oct 2026 13:07:24 +0000"
-    },
-    {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
       "feed_excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "published": "Tue, 20 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-      "feed_excerpt": "The raise comes as venture dollars pile up on the West Coast.",
       "published": "Tue, 20 Oct 2026 13:00:00 +0000"
     },
     {
@@ -302,5 +278,5 @@
       "published": "Wed, 21 Oct 2026 22:16:05 +0000"
     }
   ],
-  "last_processed_at": "2026-10-22T00:30:07.389844+00:00"
+  "last_processed_at": "2026-10-22T05:17:29.160049+00:00"
 }
