@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-10-23T12:46:52.728411+00:00",
+  "updated_at": "2026-10-23T17:47:13.880793+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-21-techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit 2026 will take place on November 4 at the SoWa Power Station in Boston, bringing founders of all stages together for a full‑day crash course on building and scaling companies. The agenda focuses on fundraising, AI‑native product development, and leadership, and includes a pitch competition called \"So You Think You Can Pitch?\" where three early‑stage startups present to a panel of judges. Tickets are priced at $499 for investors, $299 for founders, and $149 for students, with a buy‑one‑get‑one‑free promotion and a $100 discount for investors and founders. The event also offers networking via the Braindate app, side events during Founder Summit week (Nov 1‑7), and volunteer opportunities for free access to the program.\n",
+      "key_points": [
+        "The summit is a full‑day, hands‑on event in Boston on Nov 4, 2026, focused on fundraising, AI, and leadership for founders of all stages.",
+        "Tickets cost $499 for investors, $299 for founders, and $149 for students, with a buy‑one‑get‑one‑free deal and a $100 discount for investors and founders.",
+        "A pitch competition \"So You Think You Can Pitch?\" features three early‑stage startups presenting to judges.",
+        "Networking is facilitated through the Braindate app and side events run during Founder Summit week (Nov 1‑7)."
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "fundraising",
+        "ai",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 21:16:20 +0000",
+      "processed_at": "2026-10-23T17:46:49.806591+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta announced that its AI assistant Muse has surpassed 10 million users, confirming Sensor Tower estimates. About a quarter of engaged users shop through Muse, with an average purchase of over $200, and 25 % of users now use the app daily, boosting retention. Zuckerberg said Muse has reached product‑market fit and will be monetized mainly through a commission on commerce, with premium tiers for advanced models, while compute costs are expected to drop 10× in a year to enable profitability. The company also plans to embed Muse in its smart‑glasses strategy and launch a “Muse network” that lets users’ agents collaborate across friends and families.",
+      "key_points": [
+        "Muse now has >10 million users and 25 % daily active rate",
+        "Shopping via Muse averages $200+ per purchase, driving revenue",
+        "Meta will monetize Muse through commerce commissions and premium access while scaling compute efficiency",
+        "Muse will support smart‑glasses and a collaborative “Muse network” feature"
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "ai",
+        "shopping",
+        "monetization",
+        "smartglasses"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 21:14:19 +0000",
+      "processed_at": "2026-10-23T17:46:49.669226+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43% | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Tesla has begun production of its Optimus humanoid robot at its Fremont factory, marking the first batch of production‑quality units and signaling a shift from EV manufacturing to robotics. Despite the milestone, the company’s third‑quarter earnings slipped 43% to a $787 million net income as AI and robot development costs surged, even though EV sales remained flat at $20 billion and services grew 33%. Musk said the production ramp will be slow but aims for 20,000 robots per week by the end of 2027, while the company continues to push its Full Self‑Driving software toward an unsupervised, Level 4 release in the fourth quarter.",
+      "key_points": [
+        "Tesla has started production of its Optimus humanoid robot, delivering the first production‑quality units",
+        "Q3 net income fell 43% to $787 million due to high AI and robot development expenses",
+        "EV sales were flat at $20 billion and services grew 33% year‑over‑year",
+        "Musk targets 20,000 Optimus units per week by 2027 and an unsupervised FSD release in Q4"
+      ],
+      "topics": [
+        "tesla",
+        "robotics",
+        "ai",
+        "automotive",
+        "financials"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 20:33:09 +0000",
+      "processed_at": "2026-10-23T17:46:49.477393+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-21-gm-is-giving-onstar-an-ai-makeover",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
@@ -2414,75 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 19:00:00 +0000",
       "processed_at": "2026-10-18T13:05:07.291272+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-      "title": "Amazon's Bee launches two new personal AI devices, starting at $75 | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon’s personal AI wearable brand Bee has unveiled two new devices, the Bee Frontier and Bee Eclipse, marking its first product releases since the company’s acquisition by Amazon last year. The Frontier, priced at $74.99, is a wrist‑worn or clip‑on device that offers IP67 water resistance, seven days of battery life, and advanced noise‑filtered microphones, while the Eclipse is a credit‑card‑sized phone attachment costing $99.99. Both devices capture conversations in real time, generate free summaries, and, with an $11.99 monthly Bee Pro subscription, provide unlimited summaries, to‑do suggestions, and integrations with Amazon.com, Alexa+, and third‑party productivity apps. Bee emphasizes privacy by processing audio locally, encrypting transcripts with device‑generated keys, and allowing users to delete data at any time, while optional Alexa Voice ID can enable hands‑free interaction and Amazon purchases.\n",
-      "key_points": [
-        "Bee Frontier and Bee Eclipse launch at $74.99 and $99.99, respectively, expanding Bee’s lineup after Amazon’s acquisition",
-        "Both devices offer free conversation summaries and a $11.99/month Bee Pro plan that unlocks unlimited summaries, to‑do lists, and Amazon/Alexa integrations",
-        "Privacy is built in: audio is processed locally, transcripts are encrypted with device‑controlled keys, and users can delete data anytime",
-        "The devices integrate with Gmail, Google Calendar, Outlook, and Apple HealthKit, and the Frontier includes IP67 water resistance and a seven‑day battery life"
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "processed_at": "2026-10-18T13:05:30.990609+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
-      "title": "Flock CEO says its microphones detect 'just gunshots' — its website says different | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Flock’s CEO Garrett Langley told TechCrunch Disrupt that the company’s microphones only detect gunshots, a claim that contrasts with the company’s website, which advertises detection of gunfire, car crashes, fireworks and other ambient sounds. The company’s Gunshot Detection feature, launched last year, was criticized for listening to human voices; after backlash it removed the distress‑detection capability and clarified that it does not monitor conversations. Protesters in San Francisco gathered outside the venue as privacy groups and the ACLU called for tighter oversight, and several states have already ended contracts with Flock. Despite the controversy, Langley maintains that the system’s primary purpose is public‑safety alerts and that its microphone network is comparable to ShotSpotter’s 25,000‑unit array.",
-      "key_points": [
-        "Flock’s CEO insists the microphones only detect gunshots, while the website claims broader ambient‑sound detection.",
-        "The company removed its human‑distress detection feature after privacy groups condemned it for listening to voices.",
-        "Protests and state cancellations highlight growing public and regulatory scrutiny of Flock’s surveillance technology.",
-        "Flock’s microphone count is similar to ShotSpotter’s 25,000‑unit network as of 2024."
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "gunshot detection",
-        "public safety",
-        "tech controversies"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
-      "processed_at": "2026-10-18T08:42:36.397772+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Colossal Biosciences unveiled GenoMorph, an AI platform that uses 3D morphology, comparative genomics, and developmental biology to pinpoint gene edits for extinct species with sparse genomic data, notably the dodo. The system, built on data from over 70 bird species and developmental studies of chickens, quail, ducks, and pigeons, has identified roughly 2,300 promising DNA targets for dodo cranial morphology and will test them using a lipid‑nanoparticle delivery method. In parallel, the company expanded its Nicobar pigeon colony to 36 birds and produced essential germ cells, a key step toward creating dodo‑like birds. The launch attracted backing from XPRIZE founder Peter Diamandis, who announced a new VC firm, NeoGenesis Capital, to support Colossal’s programmable biology platform across health, agriculture, and conservation.",
-      "key_points": [
-        "GenoMorph AI platform identifies gene edits for extinct species with limited genomes, focusing on the dodo",
-        "Colossal has found ~2,300 potential dodo cranial targets and will test them using lipid‑nanoparticle delivery",
-        "Nicobar pigeon colony expanded to 36 birds and essential germ cells produced",
-        "Peter Diamandis backs Colossal via NeoGenesis Capital"
-      ],
-      "topics": [
-        "de-extinction",
-        "ai",
-        "genomics",
-        "biotechnology",
-        "conservation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 21:00:00 +0000",
-      "processed_at": "2026-10-18T08:42:16.100714+00:00"
     }
   ]
 }
