@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-10-23T21:10:49.136317+00:00",
+  "updated_at": "2026-10-23T23:56:45.076007+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-21-year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Flapping Airplanes, a year‑old AI startup, closed a $1 billion Series A led by Index and Lux that values the company at $6 billion, a four‑fold jump from its $180 million seed round a year earlier. The new capital will fund the team’s megakernel framework, which promises to run training, inference and even gaming in a single GPU kernel, enabling models that are far more data‑efficient and cheaper to run. Co‑founders Aidan Smith, Asher Spector and Ben Spector bring experience from Neuralink, Stanford and MIT, and the company has attracted a who’s‑who of Silicon Valley investors including GV, Sequoia, Kleiner Perkins and Nvidia.",
+      "key_points": [
+        "Raised $1 billion Series A at a $6 billion valuation, quadrupling its seed valuation",
+        "Co‑led by Index and Lux with participation from GV, Sequoia, Kleiner Perkins, Nvidia and others",
+        "Developing a megakernel framework that overlaps inference and training to reduce GPU idle time",
+        "Founders bring backgrounds from Neuralink, Stanford PhDs and MIT startup Prod"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "machine learning",
+        "silicon valley"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 20:57:40 +0000",
+      "processed_at": "2026-10-23T23:56:18.753989+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-automattic-begins-layoffs-following-board-upheaval-and-executive-departures",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v3.jpg?resize=1200,800",
+      "title": "Automattic begins layoffs following board upheaval and executive departures | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Automattic, the parent of WordPress.com and WooCommerce, has begun a wave of layoffs that have already hit its communications, social, WordPress.com, and VIP enterprise teams. The cuts come amid a turbulent board reshuffle that followed a failed attempt to oust CEO Matt Mullenweg in September, which also saw the departure of the CFO, interim CFO Jeremy Klaperman, and chief legal officer. Mullenweg has defended the layoffs as routine, while the company plans to spread them over the coming months to improve Q4 revenue ahead of a June debt renegotiation. An internal statement from spokesperson Chenda Ngak said the company is staggering changes to offer generous severance and more time for affected employees.",
+      "key_points": [
+        "Automattic is laying off staff across multiple teams after a board upheaval",
+        "CEO Matt Mullenweg survived a failed ouster attempt and has seen the CFO and other execs depart",
+        "Layoffs are being spread over months to boost Q4 revenue before a June debt renegotiation",
+        "The company claims severance will be generous and changes staggered"
+      ],
+      "topics": [
+        "automattic",
+        "layoffs",
+        "board",
+        "executive",
+        "financial"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 20:15:00 +0000",
+      "processed_at": "2026-10-23T23:56:18.844031+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "GM unveiled its fourth‑generation electric‑vehicle platform at its GM Forward event, emphasizing a new central compute unit that is 40 times more powerful than current systems and a fully integrated electrical architecture that will power everything from propulsion to active safety. The platform will debut in the 2028 Cadillac Escalade IQ, which will also launch an autonomous highway‑driving feature that allows hands‑off driving without a ready takeover. GM is using enterprise AI tools to cut its traditional four‑to‑five‑year development cycle in half, having run 300,000 virtual battery designs before building a prototype. The move signals GM’s shift toward software‑defined vehicles and a bid to compete with fast‑moving Chinese automakers and tech‑focused rivals like Tesla and Rivian.",
+      "key_points": [
+        "GM’s new central compute unit is 40× more powerful and cuts wiring by 30%, simplifying assembly and reducing weight.",
+        "The 2028 Cadillac Escalade IQ will introduce the platform and a hands‑off autonomous highway feature.",
+        "GM is leveraging AI to accelerate development, moving from a 4‑5 year cycle to roughly 2‑3 years with 300,000 virtual designs per battery pack.",
+        "In 2025, GM’s capitalized software amortization expense reached $866 million, reflecting heavy investment in software and autonomous tech."
+      ],
+      "topics": [
+        "electric vehicles",
+        "software",
+        "autonomous driving",
+        "ai",
+        "automotive industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:52:20 +0000",
+      "processed_at": "2026-10-23T23:56:18.708887+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1418464846.jpg?resize=1200,774",
+      "title": "Exclusive: Heat pump tech is 170 years old — Pascal thinks it’s time for an update | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Pascal, a startup founded by Adam Slavney and Jinyoung Seo, has developed a solid‑state refrigerant that can boost heat‑pump and refrigerator efficiency by about 20% while avoiding the environmental harms of traditional gases. The company, which raised $8.5 million in a follow‑on round led by Sazze Partners and LB Investment, plans to ship its first prototype in early 2024 and commercial units by 2028. Pascal’s technology uses a carbon‑dioxide‑filled cartridge with a proprietary sponge‑like material that transfers heat through gas–solid collisions, allowing conventional pressure levels and potentially lower costs. The breakthrough follows years of research into solid‑state refrigerants and could help the industry move away from ozone‑depleting and high‑global‑warming gases such as Freon and R‑134a.",
+      "key_points": [
+        "Pascal’s material can raise heat‑pump and refrigerator efficiency by ~20% without high pressures.",
+        "The startup secured $8.5 million in funding after signing a pilot contract with a multinational beverage company.",
+        "Its design uses CO₂ in a porous cartridge, enabling conventional systems and potentially lower production costs."
+      ],
+      "topics": [
+        "solid-state refrigerants",
+        "heat pump",
+        "refrigeration",
+        "startup funding",
+        "environmental technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 13:30:00 +0000",
+      "processed_at": "2026-10-23T23:56:18.950631+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "title": "Tesla says it will start selling Cybercabs by end of year | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Tesla announced it will begin selling its Cybercab, a two‑seat autonomous vehicle without a steering wheel, to customers by the end of the year. The move comes as the National Highway Traffic Safety Administration opens an investigation into the Cybercab’s compliance with federal safety standards, which currently require manual controls. Elon Musk said the Cybercab is intended for ride‑hailing service and will be largely Tesla‑owned, while the company plans to roll out fully autonomous Full Self‑Driving to owners only in the second quarter of next year. If the timelines hold, third‑party fleet operators could acquire Cybercabs before Tesla owners gain access to the same autonomous capability in their own cars.",
+      "key_points": [
+        "Tesla will start selling Cybercabs by year‑end despite an NHTSA investigation into its safety certification",
+        "The Cybercab is designed as a ride‑hailing vehicle and will be largely Tesla‑owned, not consumer‑owned",
+        "Full Self‑Driving for Tesla owners is delayed until Q2 next year, potentially giving fleet customers early access"
+      ],
+      "topics": [
+        "tesla",
+        "autonomous vehicles",
+        "robotaxi",
+        "regulation",
+        "federal investigation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 00:17:54 +0000",
+      "processed_at": "2026-10-23T23:56:18.471978+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-21-recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
@@ -2368,130 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 15 Oct 2026 20:38:13 +0000",
       "processed_at": "2026-10-18T21:43:02.106300+00:00"
-    },
-    {
-      "id": "com-2026-10-15-sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/gettyimages-1157261963-594x594-1.jpg?w=594",
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US | TechCrunch",
-      "author": "Kate Park",
-      "summary": "SK Hynix’s flash‑memory unit Solidigm is seeking U.S. approval to ship advanced chip‑making equipment to its Dalian, China, plant as a condition for building a new NAND flash factory in the United States, likely in upstate New York. The move comes amid a global NAND shortage that has pushed prices up 15% to 20% in the fourth quarter, and reflects Washington’s push to bring more semiconductor manufacturing to America. Solidigm plans a 2027 U.S. IPO that could raise about $10 billion and value the company at up to $100 billion. The request follows tightened U.S. export rules on advanced chips and the revocation of special exemptions for Chinese facilities in 2025, though annual licenses have been granted to SK Hynix and Samsung for equipment shipments to China.",
-      "key_points": [
-        "Solidigm wants to ship U.S. chip‑making equipment to its Dalian plant to boost NAND production, pending U.S. approval.",
-        "The U.S. government is encouraging SK Hynix to build a new NAND factory in the U.S., possibly in upstate New York, as part of a broader chip‑manufacturing strategy.",
-        "Solidigm is preparing for a 2027 U.S. IPO that could raise around $10 billion and value the company at up to $100 billion.",
-        "U.S. export restrictions on advanced chips were tightened in 2023 and special exemptions were revoked in 2025, but annual licenses remain in place for SK Hynix and Samsung."
-      ],
-      "topics": [
-        "semiconductors",
-        "us-china trade",
-        "chipmaking",
-        "nand",
-        "us policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 16:45:37 +0000",
-      "processed_at": "2026-10-18T21:43:28.440324+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-googles-universal-cart-shopping-tool-launches-in-the-us",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200",
-      "title": "Google’s Universal Cart shopping tool launches in the US | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Google has rolled out its Universal Cart tool to U.S. users, allowing shoppers to save items from multiple retailers across search and the Gemini app and revisit them later without losing progress. The cart tracks price drops and stock availability, and can suggest payment methods that leverage credit‑card perks and surface promo codes. It is built on Google’s Universal Commerce Protocol, an open standard aimed at unifying AI agents and retailers throughout the shopping journey. The launch underscores Google’s push to embed AI into e‑commerce, joining features like conversational product discovery and AI‑powered store‑inquiry tools.",
-      "key_points": [
-        "Universal Cart lets users save and manage items from multiple retailers across search and Gemini.",
-        "The tool notifies users of price drops, restocks, and offers tailored payment and promo‑code suggestions.",
-        "It operates under Google’s Universal Commerce Protocol, an open standard for AI‑driven shopping.",
-        "The launch is part of Google’s broader AI‑powered e‑commerce strategy."
-      ],
-      "topics": [
-        "google",
-        "universal cart",
-        "shopping",
-        "ai",
-        "ecommerce"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "processed_at": "2026-10-18T21:43:14.489468+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-volvo-makes-a-bigger-bet-on-nvidia",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900",
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Volvo has deepened its decade‑long partnership with Nvidia, committing to use Nvidia’s Hyperion sensor and compute architecture, Alpamayo software stack, and Halos safety layer in future vehicles. The collaboration will enable an automated driving system capable of navigating both urban streets and highways, with Volvo integrating its safety systems and engineering expertise. While the exact value and first vehicle model remain undisclosed, Volvo plans to debut the new tech stack in a brand‑new vehicle within the next decade, expanding the approach to all powertrains, not just electric. The move signals Volvo’s shift toward a full‑tech‑stack strategy and a broader rollout of Nvidia’s autonomous‑driving platform across its lineup.",
-      "key_points": [
-        "Volvo expands its partnership with Nvidia to include Hyperion, Alpamayo, and Halos for future automated driving.",
-        "The new stack will support navigation on urban streets and highways across all vehicle types, not just EVs.",
-        "Volvo plans to debut the technology in a new vehicle within the next decade, though the first model is not yet announced.",
-        "The collaboration reflects Volvo’s shift to a full‑tech‑stack approach and broader use of Nvidia’s autonomous platform."
-      ],
-      "topics": [
-        "volvo",
-        "nvidia",
-        "autonomous driving",
-        "automotive technology",
-        "partnership"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 17:34:40 +0000",
-      "processed_at": "2026-10-18T19:18:51.255178+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-ai-agents-are-coming-to-rivians-cars",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
-      "title": "AI agents are coming to Rivian's cars | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Rivian has launched an AI assistant that lets drivers and passengers control the vehicle with voice commands and plans to allow third‑party agents such as Anthropic’s Claude, OpenAI’s Dots, and Meta’s Muse in the future. The company built its own agentic framework that decides whether to run a local model or send a request to the cloud, routing actions like temperature control or news summaries to the appropriate software component. Safety concerns keep vehicle‑level controls out of the agents’ reach, so the system will act as an extension of existing apps rather than a direct driver of the car. Rivian aims to weave context from other devices into the assistant, enabling richer, cross‑platform interactions while coordinating with external labs for plumbing and compliance.",
-      "key_points": [
-        "Rivian’s AI assistant can handle voice commands and will soon support third‑party agents like Anthropic, OpenAI, and Meta",
-        "The company built an in‑house agentic framework that routes requests to local or cloud models",
-        "Safety constraints prevent agents from controlling vehicle‑level functions such as braking or steering",
-        "Rivian plans to integrate context from other devices for richer, cross‑platform interactions"
-      ],
-      "topics": [
-        "ai",
-        "electric vehicles",
-        "rivian",
-        "autonomous driving",
-        "voice assistant"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "processed_at": "2026-10-18T19:18:51.158644+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Ricursive Intelligence, founded by Anna Goldie and Azalia Mirhoseini, is developing AI that designs chips, learning from each iteration to accelerate and automate the process. At TechCrunch Disrupt, the founders highlighted that AI-designed chips could meet the projected 10,000‑fold increase in compute demand over five years without expanding data center footprints. By optimizing entire chips rather than partitioning them, the AI can discover unconventional layouts—such as a donut‑shaped AlphaChip—that outperform traditional designs. The company argues that rapid, efficient chip design will enable custom, energy‑efficient hardware for emerging applications like AR, VR, and biological computing.",
-      "key_points": [
-        "AI-driven chip design can reduce design time from years to weeks, enabling rapid prototyping for niche applications.",
-        "Ricursive’s approach optimizes whole chips, producing unconventional layouts that outperform traditional block‑based designs.",
-        "The startup believes AI-designed chips will help meet a projected 10,000‑fold compute demand increase without expanding data center infrastructure."
-      ],
-      "topics": [
-        "ai",
-        "chip design",
-        "compute demand",
-        "hardware",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
-      "processed_at": "2026-10-18T19:18:51.408946+00:00"
     }
   ]
 }

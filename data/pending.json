@@ -1,35 +1,11 @@
 {
-  "updated_at": "2026-10-23T21:10:22.190425+00:00",
+  "updated_at": "2026-10-23T23:56:16.885742+00:00",
   "items": [
     {
       "title": "Mach9 raises $34M after pivoting to AI CAD software",
       "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
       "feed_excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
       "published": "Wed, 21 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "feed_excerpt": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-      "published": "Wed, 21 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "feed_excerpt": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "published": "Wed, 21 Oct 2026 20:57:40 +0000"
-    },
-    {
-      "title": "Automattic begins layoffs following board upheaval and executive departures",
-      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-      "feed_excerpt": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
-      "published": "Wed, 21 Oct 2026 20:15:00 +0000"
-    },
-    {
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "feed_excerpt": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
-      "published": "Wed, 21 Oct 2026 19:52:20 +0000"
     },
     {
       "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
@@ -54,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
       "feed_excerpt": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
       "published": "Wed, 21 Oct 2026 18:51:56 +0000"
-    },
-    {
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "feed_excerpt": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
-      "published": "Thu, 22 Oct 2026 00:17:54 +0000"
     },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -294,7 +264,25 @@
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "feed_excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
       "published": "Fri, 23 Oct 2026 19:06:23 +0000"
+    },
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "feed_excerpt": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "published": "Fri, 23 Oct 2026 23:07:45 +0000"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "feed_excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "published": "Fri, 23 Oct 2026 23:05:49 +0000"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "feed_excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "published": "Fri, 23 Oct 2026 21:59:19 +0000"
     }
   ],
-  "last_processed_at": "2026-10-23T21:10:32.873944+00:00"
+  "last_processed_at": "2026-10-23T23:56:18.950707+00:00"
 }
