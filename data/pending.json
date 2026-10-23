@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-10-23T17:46:47.612676+00:00",
+  "updated_at": "2026-10-23T21:10:22.190425+00:00",
   "items": [
-    {
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "feed_excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "published": "Tue, 20 Oct 2026 20:00:00 +0000"
-    },
     {
       "title": "Mach9 raises $34M after pivoting to AI CAD software",
       "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
       "feed_excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
       "published": "Wed, 21 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "feed_excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "published": "Wed, 21 Oct 2026 17:18:27 +0000"
-    },
-    {
-      "title": "Waymo starts offering rides at the Las Vegas airport",
-      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-      "feed_excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
-      "published": "Wed, 21 Oct 2026 16:59:44 +0000"
     },
     {
       "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
@@ -36,12 +18,6 @@
       "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
       "feed_excerpt": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "published": "Wed, 21 Oct 2026 20:57:40 +0000"
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "feed_excerpt": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "published": "Wed, 21 Oct 2026 20:27:41 +0000"
     },
     {
       "title": "Automattic begins layoffs following board upheaval and executive departures",
@@ -294,7 +270,31 @@
       "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
       "feed_excerpt": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
       "published": "Fri, 23 Oct 2026 15:00:09 +0000"
+    },
+    {
+      "title": "VCs, Superhuman Mail founder share red flags about product market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "feed_excerpt": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+      "published": "Fri, 23 Oct 2026 20:57:13 +0000"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "feed_excerpt": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "published": "Fri, 23 Oct 2026 20:03:14 +0000"
+    },
+    {
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "feed_excerpt": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "published": "Fri, 23 Oct 2026 19:25:13 +0000"
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "feed_excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "published": "Fri, 23 Oct 2026 19:06:23 +0000"
     }
   ],
-  "last_processed_at": "2026-10-23T17:46:49.806661+00:00"
+  "last_processed_at": "2026-10-23T21:10:32.873944+00:00"
 }
