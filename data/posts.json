@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-23T01:46:59.416886+00:00",
+  "updated_at": "2026-10-23T07:12:06.288578+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-21-php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+      "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "The U.S. National Security Agency warned that two critical holes in PHP, the language that powers roughly 70% of the web, were discovered and patched by the PHP Foundation. The flaws, which have existed in every PHP version since 2004, allow attackers to access server file systems or databases and require sites to be patched immediately or taken offline. AI tools from OpenAI and Google’s Wiz uncovered the vulnerabilities during security scans, showing how large language models can both find and potentially enable exploitation. With patches released, site owners must upgrade to PHP 8.5.12 or newer, while the NSA advises removing unpatched sites until they can be fixed.",
+      "key_points": [
+        "NSA issued a warning about two critical PHP holes affecting 70% of websites",
+        "AI-driven discovery by OpenAI and Wiz exposed long‑standing vulnerabilities",
+        "Immediate patching or site removal is required; upgrade to PHP 8.5.12",
+        "No known exploits yet, but AI lowers the barrier for attackers"
+      ],
+      "topics": [
+        "php",
+        "cybersecurity",
+        "ai",
+        "openai",
+        "google"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 17:59:12 +0000",
+      "processed_at": "2026-10-23T07:11:32.642302+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company's acquisition | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Last month, advertising firm Infillion acquired Foursquare at an undisclosed price, but co‑founder Dennis Crowley has revealed that neither preferred nor common equity holders received any return on the deal. Crowley’s blog post laments that the company’s shift to an enterprise focus, a private‑equity raise in 2019, and a new CEO in 2021 ultimately eroded value, leaving the company’s roughly 1,600 former employees and investors disappointed. Despite generating over $100 million in revenue in consecutive years and raising more than $411 million in total funding, Foursquare shut down its consumer app in 2024, underscoring the difficulty of turning a once‑popular social network into a profitable enterprise platform. The announcement has sparked reactions from former employees and users who recall the platform’s influence on local discovery and app development.",
+      "key_points": [
+        "Infillion’s acquisition of Foursquare left equity holders with no returns, according to co‑founder Dennis Crowley",
+        "Crowley attributes the loss of value to a management transition to private equity and a new CEO",
+        "Foursquare achieved $100 million+ revenue and raised $411 million but shut down its app in 2024",
+        "The post has prompted responses from former employees and users who valued the platform"
+      ],
+      "topics": [
+        "foursquare",
+        "acquisition",
+        "equity",
+        "startup",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 14:03:11 +0000",
+      "processed_at": "2026-10-23T07:11:32.180922+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+      "title": "Otter AI raises $320M from General Catalyst's growth fund for its meeting tool | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Otter.ai announced a $320 million funding round from General Catalyst’s Customer Value Fund, a non‑dilutive growth vehicle that backs startups through marketing‑spend returns. The capital will be deployed to accelerate enterprise expansion, sharpen go‑to‑market tactics, broaden international reach, and drive product innovation. With over $100 million in annual recurring revenue and 40 million users, Otter faces stiff competition and churn challenges, but its new CMO highlights opportunities in turning meeting transcripts into actionable roadmaps for high‑volume meeting roles. The company is testing AI‑powered features such as pre‑briefs and Live Assist to deliver insights before, during, and after meetings, aiming to boost productivity across organizations.",
+      "key_points": [
+        "Otter.ai secured $320M from General Catalyst’s non‑dilutive Customer Value Fund",
+        "The funding will support enterprise growth, go‑to‑market, international expansion, and product innovation",
+        "The startup has surpassed $100M ARR and 40M users but faces churn and competitive pressure",
+        "Otter is developing AI‑driven meeting insights like pre‑briefs and Live Assist to improve productivity"
+      ],
+      "topics": [
+        "ai",
+        "meetingtools",
+        "startupfunding",
+        "enterpriseai",
+        "productivity"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "processed_at": "2026-10-23T07:11:32.121719+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
@@ -2403,82 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 20:26:25 +0000",
       "processed_at": "2026-10-18T03:45:26.213274+00:00"
-    },
-    {
-      "id": "chcrunch-com-2026-10-14-ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Austin-Factory-150000-sqft.jpg?resize=1200,900",
-      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Ambrosia Energy is constructing a 10‑gigawatt‑hour battery factory near Austin, Texas, that will enable the company to produce a 300‑megawatt power plant per year for off‑grid data centers at a target cost of $100 per megawatt‑hour. The 150,000‑square‑foot facility is expected to reach full production in two to three years, following the startup’s stealth launch in June and its sale of the Swarm satellite constellation to SpaceX. Ambrosia’s first commercial plant, slated for West Texas later this year, will combine 300 MW of solar panels with 660 MWh of batteries to deliver 30 MW of continuous power and a 99.3% uptime target. By simplifying component design and producing battery packs in‑house, the company claims to reduce costs to about 1.3 times the price of a bare cell, making its solution competitive with natural‑gas turbines.",
-      "key_points": [
-        "Ambrosia Energy is building a 10 GWh battery factory near Austin to support 300 MW power plants for data centers at $100/MWh",
-        "The 150,000‑sq‑ft plant will reach full production in 2–3 years and will enable continuous 30 MW output with 99.3% uptime in its first West Texas plant",
-        "The startup simplifies battery and solar components, cutting part counts and achieving costs of 1.3× a bare cell",
-        "Ambrosia emerged from stealth in June, previously sold its Swarm satellite constellation to SpaceX, and focuses on solar‑plus‑battery solutions for off‑grid data centers"
-      ],
-      "topics": [
-        "battery manufacturing",
-        "data centers",
-        "renewable energy",
-        "solar",
-        "tech startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 19:51:34 +0000",
-      "processed_at": "2026-10-18T03:45:26.873557+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-photo-74.jpg?resize=1200,800",
-      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network | TechCrunch",
-      "author": "Kate Park",
-      "summary": "Mosqitter, a 30‑person Pennsylvania startup, is expanding its chemical‑free mosquito traps into an AI‑powered surveillance network that can identify species and forecast disease risk. The company now operates over 5,000 devices on five continents and plans to launch its Febris Monitoring System, which adds data services and dashboards for governments and health agencies. Mosqitter’s flagship Grand unit costs $1,999 while the Mini retail at $199, and the firm expects more than $1 million in revenue in 2026, with the Febris data business projected to bring in over $3.5 million next year. To support this growth, Mosqitter is raising a $5 million round split into a $1 million first tranche and a $4 million second tranche tied to milestones for Febris.",
-      "key_points": [
-        "Mosqitter’s traps use heat, scent, light, and CO₂ to lure female mosquitoes and are now equipped with computer‑vision AI to classify species and predict population changes.",
-        "The Febris Monitoring System will provide continuous data, dashboards, and analytics to governments, airports, and health agencies, creating a recurring revenue stream beyond hardware sales.",
-        "With more than 5,000 devices deployed worldwide, Mosqitter projects over $1 million in 2026 revenue and $3.5 million from Febris data services next year.",
-        "The startup is raising $5 million in two tranches, with the first $1 million contingent on milestones for the Febris system.",
-        ""
-      ],
-      "topics": [
-        "mosquito control",
-        "ai",
-        "public health",
-        "startups",
-        "data analytics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-18T03:45:26.387628+00:00"
-    },
-    {
-      "id": "crunch-com-2026-10-14-cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "CedarDB, a Munich‑based spin‑out from the Technical University of Munich, has built a database engine that unifies transactional and analytical workloads, a feature that has become increasingly valuable as agentic AI systems demand real‑time data access. The company, founded by five researchers from the Umbra project, offers a PostgreSQL‑compatible engine that delivers higher performance without extra CPU or memory, and it launched a free Community Edition and an on‑premise Enterprise version in May after raising a €5.3 million seed round. After beta testing, CedarDB announced a limited‑availability cloud offering at TechCrunch Disrupt, positioning itself to compete with data leaders like Databricks and to serve the growing demand for unified data architectures in the agentic era. The startup plans to expand its 14‑person team and raise a subsequent funding round as it gains traction among large enterprises and cloud users.",
-      "key_points": [
-        "CedarDB merges transactional and analytical processing in a single engine compatible with PostgreSQL, reducing switching costs for enterprises.",
-        "The company launched a free Community Edition and an on‑premise Enterprise version after a €5.3 million seed round, and recently introduced a limited cloud offering.",
-        "Its performance advantage stems from the Umbra research project, enabling faster queries without extra hardware.",
-        "CedarDB aims to compete with major data platforms like Databricks and plans to raise additional funding as it expands its team and user base."
-      ],
-      "topics": [
-        "database",
-        "ai",
-        "cloud",
-        "startup",
-        "data"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 22:00:00 +0000",
-      "processed_at": "2026-10-17T23:51:44.412951+00:00"
     }
   ]
 }

@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-23T01:46:33.194141+00:00",
+  "updated_at": "2026-10-23T07:11:30.436094+00:00",
   "items": [
-    {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "feed_excerpt": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
-      "published": "Tue, 20 Oct 2026 11:00:00 +0000"
-    },
     {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
@@ -38,12 +32,6 @@
       "published": "Wed, 21 Oct 2026 18:00:00 +0000"
     },
     {
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "feed_excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "published": "Wed, 21 Oct 2026 17:59:12 +0000"
-    },
-    {
       "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
       "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
       "feed_excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
       "feed_excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
       "published": "Wed, 21 Oct 2026 16:59:44 +0000"
-    },
-    {
-      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "feed_excerpt": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-      "published": "Wed, 21 Oct 2026 14:03:11 +0000"
     },
     {
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
@@ -318,7 +300,19 @@
       "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
       "feed_excerpt": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
       "published": "Thu, 22 Oct 2026 23:15:00 +0000"
+    },
+    {
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "feed_excerpt": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "published": "Fri, 23 Oct 2026 04:22:57 +0000"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "feed_excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-23T01:46:59.416052+00:00"
+  "last_processed_at": "2026-10-23T07:11:32.642385+00:00"
 }
