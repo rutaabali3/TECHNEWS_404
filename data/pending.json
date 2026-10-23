@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-23T07:11:30.436094+00:00",
+  "updated_at": "2026-10-23T12:46:27.201381+00:00",
   "items": [
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "feed_excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "published": "Tue, 20 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "feed_excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "published": "Tue, 20 Oct 2026 23:01:23 +0000"
-    },
     {
       "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
       "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
@@ -26,12 +14,6 @@
       "published": "Wed, 21 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "GM is giving OnStar an AI makeover",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-      "feed_excerpt": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
-      "published": "Wed, 21 Oct 2026 18:00:00 +0000"
-    },
-    {
       "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
       "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
       "feed_excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
@@ -42,12 +24,6 @@
       "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
       "feed_excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
       "published": "Wed, 21 Oct 2026 16:59:44 +0000"
-    },
-    {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "feed_excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "published": "Wed, 21 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
@@ -314,5 +290,5 @@
       "published": "Fri, 23 Oct 2026 04:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-23T07:11:32.642385+00:00"
+  "last_processed_at": "2026-10-23T12:46:52.727592+00:00"
 }

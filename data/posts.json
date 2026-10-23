@@ -1,7 +1,110 @@
 {
-  "updated_at": "2026-10-23T07:12:06.288578+00:00",
+  "updated_at": "2026-10-23T12:46:52.728411+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-21-gm-is-giving-onstar-an-ai-makeover",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
+      "title": "GM is giving OnStar an AI makeover | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "General Motors announced a major overhaul of its OnStar service, adding an in‑house AI assistant that will debut in the 2027 Cadillac Lyriq electric vehicle and roll out to other GM models thereafter. The company will also launch a new OnStar mobile app in 2027 that replaces the 2020 Guardian app and all brand‑specific vehicle apps, positioning OnStar as a connected intelligence platform rather than a simple call center. GM’s strategy is part of a $25 billion subscription‑based business plan aimed at 2030, and it follows a recent FTC order that limits data sharing and requires explicit consumer consent. The AI assistant will use vehicle cameras and voice commands to provide predictive, proactive support while giving users granular control over data sharing and recordings.",
+      "key_points": [
+        "GM is adding an in‑house AI assistant to OnStar, debuting in the 2027 Cadillac Lyriq EV and expanding to other models",
+        "A new OnStar mobile app will replace the Guardian and brand apps in 2027, integrating vehicle and app experiences",
+        "GM’s AI‑driven OnStar is part of a $25 billion subscription strategy targeted for 2030",
+        "FTC enforcement has prompted GM to implement consent‑based data sharing and limit third‑party access"
+      ],
+      "topics": [
+        "automotive",
+        "ai",
+        "subscription",
+        "data privacy",
+        "software"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 18:00:00 +0000",
+      "processed_at": "2026-10-23T12:46:52.727513+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
+      "title": "AI promises productivity, but for managers, it's mostly a headache for now | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Companies are giving employees AI tools to boost productivity, but the technology is creating new headaches for managers. A Nielsen survey of 1,700 senior leaders across seven countries found that more than half now spend extra time reviewing polished outputs that blend human and AI work, and 78% have shifted how they evaluate staff to focus on prompt creation and delegation skills. While 94% of managers are excited about AI’s potential, they struggle to keep pace with rapid advances, leading to a proliferation of tools, increased invisible labor, and concerns about bias and loss of control over autonomous agents. The findings suggest that AI adoption is becoming as much a governance challenge as a productivity opportunity, with many leaders fearing responsibility for unpredictable AI decisions.",
+      "key_points": [
+        "More than half of senior leaders find it harder to evaluate work after AI adoption, spending extra time reviewing outputs that blend human and AI effort.",
+        "Despite excitement, managers face a surge in tools, invisible labor, and governance issues, with 58% expecting to oversee more AI agents than human employees in the next year.",
+        "Bias risks are amplified as 46% of managers use AI to inform performance reviews, potentially reproducing human patterns in predictive models."
+      ],
+      "topics": [
+        "ai",
+        "management",
+        "productivity",
+        "bias",
+        "governance",
+        "tools"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-23T12:46:29.025492+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Anthropic has drafted an AI‑safety bill that would allow Congress to block the release of a model if it poses a foreseeable, imminent risk that could kill more than 50 people or cause over a billion dollars in property damage from a biological weapon, model evasion, or cyberattack. The proposal calls for independent evaluators registered with the U.S. Commerce Department to assess risk, with payments to evaluators not tied to their findings, and gives them 72 hours to alert the department before a judge orders a halt. The bill mirrors California’s Senate Bill 53, which defines catastrophic risk in similar terms, and represents Anthropic’s Advanced AI Framework that the company has been lobbying for since June. While the industry has largely resisted mandatory oversight, Anthropic’s draft pushes for a more formal regulatory mechanism than competitors such as Nvidia have suggested.",
+      "key_points": [
+        "Anthropic’s bill would block model releases if >50 people could die or >$1B property damage is likely from a biological weapon, model evasion, or cyberattack.",
+        "Independent evaluators, registered with the Commerce Department, would assess risk and must notify the department within 72 hours before a judge can order a halt.",
+        "The proposal aligns with California Senate Bill 53’s catastrophic‑risk thresholds and reflects Anthropic’s Advanced AI Framework lobbying since June.",
+        "The draft is more stringent than other industry positions, such as Nvidia’s stance that no new laws are needed.”]",
+        "topics",
+        ":",
+        [
+          "ai safety",
+          "regulation",
+          "anthropic",
+          "legislation",
+          "independent evaluators"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "processed_at": "2026-10-23T12:46:28.872454+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Eka Robotics has been valued at $1.45 billion after closing a $150 million Series A led by a16z and F‑Prime, bringing a force‑sensitive gripper and a vision‑force‑action model to the forefront of robotic manipulation. The startup’s robot can pick up about 1,500 objects weighing up to 1 kg in an hour with a 95 % success rate, outperforming humans and many existing demos. By training reinforcement‑learning policies entirely in simulation, Eka can generate thousands of hours of experience in minutes, bypassing the need for costly human demonstrations. The company’s goal is to bridge the long‑standing generality‑performance gap in robotics, enabling industrial automation that can adapt to a wide range of tasks without retraining.",
+      "key_points": [
+        "Eka Robotics raised $150 million Series A, valuing it at $1.45 billion.",
+        "Its vision‑force‑action model and force‑sensitive gripper achieve superhuman pick‑and‑place performance.",
+        "Reinforcement learning in simulation allows rapid scaling of training data.",
+        "The startup aims to bridge the generality‑performance gap in robotics."
+      ],
+      "topics": [
+        "robotics",
+        "ai",
+        "startup",
+        "funding",
+        "manufacturing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-23T12:46:28.904055+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-21-php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
       "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
@@ -2380,104 +2483,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 21:00:00 +0000",
       "processed_at": "2026-10-18T08:42:16.100714+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Apate.ai uses AI agents to bait scammers, gathering intelligence before victims are harmed. Founded in 2024 from Macquarie University research, the startup deploys thousands of agents that impersonate diverse identities to engage scammers across calls, messages, emails, and social media. Their operations have already cost scammers 17 years of time across 2.5 million conversations and helped clients such as Commonwealth Bank and TPG Telecom reduce scam losses by up to 76%. The company raised $8.15 million in seed funding and plans expansion to London and the U.S., while being a finalist at TechCrunch Disrupt.",
-      "key_points": [
-        "AI agents actively bait scammers to collect pre‑victim intelligence",
-        "2.5 million conversations have cost scammers 17 years of time, providing actionable data to clients",
-        "Clients like Commonwealth Bank and TPG Telecom report up to 76% reduction in scam losses",
-        "The startup raised $8.15M seed and plans global expansion"
-      ],
-      "topics": [
-        "ai",
-        "fraud",
-        "cybersecurity",
-        "startup",
-        "fintech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "processed_at": "2026-10-18T08:42:16.060506+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-13-rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
-      "title": "Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Doug Field, former Ford EV chief and ex‑Tesla senior VP, has been hired as president of Mind Robotics, an industrial AI and robotics venture founded by Rivian CEO RJ Scaringe. The move signals Mind Robotics’ readiness to scale its factory‑automation platform after raising over $1 billion from top venture firms and securing Rivian as its first customer. Field will oversee product, engineering and operations while Scaringe remains chairman, positioning the startup to deploy foundation‑model‑driven robots in high‑volume manufacturing. The appointment underscores Rivian’s broader strategy of investing in complementary tech ventures to support its electric‑vehicle ecosystem.",
-      "key_points": [
-        "Doug Field joins Mind Robotics as president, bringing EV and AI expertise",
-        "Mind Robotics has raised $1B+ and will use Rivian’s factory for training",
-        "Scaringe remains chairman; Field handles day‑to‑day operations",
-        "Rivian owns 32.1% of Mind Robotics as of June 2026"
-      ],
-      "topics": [
-        "ai",
-        "robotics",
-        "ev",
-        "venturecapital",
-        "manufacturing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 13 Oct 2026 18:30:03 +0000",
-      "processed_at": "2026-10-18T08:42:16.062260+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
-      "title": "Ambani's Jio seeks to raise $3.2B in what could be India's biggest IPO | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, is set to launch India’s largest IPO to date, targeting up to $3.2 billion by selling 270 million shares at a price band of ₹1,065 to ₹1,119 (about $11.19 to $11.76) per share. The offering, which will close on October 23, could value the company at roughly ₹10.3 trillion ($108 billion) and would eclipse Hyundai Motor India’s 2024 listing even at the lower end of the price range. Jio, which grew from a free‑data startup in 2016 to the country’s biggest telecom operator with 524 million subscribers, has posted a 12% revenue rise to ₹391.7 billion and a 9% profit increase to ₹77.6 billion in the quarter ended June, and plans to use most proceeds to repay telecom debt and fund general corporate purposes.",
-      "key_points": [
-        "Jio Platforms seeks to raise $3.2 billion in India’s biggest IPO, pricing shares between ₹1,065 and ₹1,119 per share",
-        "The IPO could value the company at about ₹10.3 trillion ($108 billion), surpassing Hyundai Motor India’s 2024 offering",
-        "Jio’s revenue grew 12% YoY to ₹391.7 billion and net profit rose 9% to ₹77.6 billion, and proceeds will largely repay telecom debt"
-      ],
-      "topics": [
-        "ipo",
-        "telecom",
-        "india",
-        "reliance",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 21:48:20 +0000",
-      "processed_at": "2026-10-18T03:45:41.983280+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-flock-ceo-we-havent-fired-any-police-departments-as-customers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/garrett-langley-disrupt.jpg?resize=1200,900",
-      "title": "Flock CEO: We haven't 'fired' any police departments as customers | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Flock CEO Garrett Langley told TechCrunch that the company has not terminated any police department contracts despite reports of abuse of its license‑plate‑reader cameras, but said it would end a relationship if a customer knowingly broke the law. The company, which operates over 100,000 cameras nationwide, has faced backlash over privacy concerns, wrongful arrests, and instances where officers stalked individuals using its database. Protesters outside the Disrupt 2026 conference staged a demonstration against Flock’s AI‑powered surveillance, while the company defended its technology as a tool that helps solve crimes faster. Langley also clarified that Flock is not considering a sale to rival Axon and that it will only fire customers in extreme cases of abuse.",
-      "key_points": [
-        "Flock has not fired any police customers yet but will if a customer knowingly abuses the system",
-        "The company’s license‑plate‑reader cameras have sparked privacy protests and wrongful arrest incidents",
-        "Flock defends its technology as crime‑solving aid and denies plans to sell to competitors"
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "law enforcement",
-        "tech",
-        "protest"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 20:26:25 +0000",
-      "processed_at": "2026-10-18T03:45:26.213274+00:00"
     }
   ]
 }
