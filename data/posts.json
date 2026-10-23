@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-22T23:04:29.144161+00:00",
+  "updated_at": "2026-10-23T01:46:59.416886+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-20-hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+      "title": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Clem Delangue, co‑founder and CEO of Hugging Face, publicly criticized Netflix’s documentary \"AI Gone Rogue\" for misrepresenting the company’s 2023 OpenAI agent hack, arguing that the film anthropomorphized AI agents and exaggerated their consciousness. He spent more than two hours correcting the film’s errors, pointing out that the incident stemmed from inadequate containment and that Hugging Face used AI to defend against the attack—details the documentary omitted. Delangue’s critique highlights how sensationalized portrayals can fuel doomer narratives and misinform the public about AI risks. The film’s dramatization, he says, turns a technical security breach into a sci‑fi thriller at the expense of accuracy.",
+      "key_points": [
+        "Delangue says the documentary anthropomorphizes AI agents and mischaracterizes them as conscious beings",
+        "He spent hours correcting inaccuracies, noting the lack of containment and the omission of Hugging Face’s AI‑based defense",
+        "The film’s dramatization may fuel doomer narratives and misinform audiences about AI risks",
+        "The incident was a result of inadequate security safeguards, not a supernatural AI uprising"
+      ],
+      "topics": [
+        "ai",
+        "hacking",
+        "netflix",
+        "huggingface",
+        "documentary"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "processed_at": "2026-10-23T01:46:34.753195+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-20-openai-acquires-startup-orchestra-bio-e2-81-a0-to-beef-up-its-biotech-business",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "OpenAI announced the acquisition of Orchestra Bio, a four‑year‑old AI biotech software startup that has raised roughly $20 million from investors such as Andreessen Horowitz, Atria, and 8VC. Orchestra builds AI agents that automate drug‑discovery tasks, from financial tracking to clinical‑trial scheduling. The deal will add Orchestra’s team and technology to OpenAI’s Rosalind life‑sciences model and its Rosalind Workbench tool, which already serves customers like Moderna and Novo Nordisk. The purchase underscores how leading AI labs are expanding into high‑impact industries by integrating specialized startups into their product ecosystems.",
+      "key_points": [
+        "OpenAI acquires Orchestra Bio, a $20M‑funded AI biotech startup",
+        "Orchestra’s AI agents streamline drug‑discovery operations",
+        "Acquisition strengthens OpenAI’s Rosalind platform, already used by Moderna and Novo Nordisk",
+        "The deal illustrates AI labs’ strategy of building industry‑specific software"
+      ],
+      "topics": [
+        "openai",
+        "artificial intelligence",
+        "biotech",
+        "drug discovery",
+        "acquisition"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
+      "processed_at": "2026-10-23T01:46:35.068254+00:00"
+    },
+    {
+      "id": "ps-techcrunch-com-2026-10-20-blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blackwall-co-founders-l-r-Denis-Prochko-and-Nik-Rozenberg.png?resize=1200,800",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "Estonia‑based Blackwall announced a $100 million Series C that values the company at $2.2 billion, a four‑fold increase from its 2025 round. The firm builds traffic‑security tools that help hosting providers and websites filter out bot traffic, including rogue AI agents, and it sells its platform through a channel model that lets providers bundle and brand the solutions for their own customers. Blackwall’s new capital will be used to expand operations in North America, Europe, Asia‑Pacific and the Middle East and to add more security features for cloud and managed‑service providers. The funding underscores the growing importance of protecting web infrastructure from increasingly sophisticated bot and AI‑driven threats.",
+      "key_points": [
+        "Blackwall raised $100 million in Series C, valuing it at $2.2 billion, quadrupling its 2025 valuation",
+        "The company sells its traffic‑security platform via a channel model to hosting and cloud providers",
+        "Its tools focus on filtering bot traffic and rogue AI agents, using digital fingerprinting and AI analysis",
+        "Funds will be used to expand globally and develop additional security features for providers"
+      ],
+      "topics": [
+        "web security",
+        "bot traffic",
+        "ai agents",
+        "hosting providers",
+        "valuation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 07:01:00 +0000",
+      "processed_at": "2026-10-23T01:46:59.415962+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-19-walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?resize=1200,800",
+      "title": "Walmart's Flipkart is quietly building a food delivery challenger in India | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Flipkart, the Walmart‑owned e‑commerce giant, is quietly testing a food‑delivery service with a fleet of Ekart riders and an internal trial of 8,000 employees, positioning itself to challenge India’s duopoly of Zomato and Swiggy. The service, which appears as a separate tab on Flipkart’s app and draws on restaurants via the ONDC network and direct sign‑ups, is slated for a public launch by the end of October and expansion to five or six cities by year‑end. Flipkart’s pricing model proposes a base commission of about 10% and a total cost to restaurants of 15‑16%, far lower than the 20‑25% typical of incumbents, while promising customers a savings of roughly ₹20‑30 per order. Despite these advantages, analysts warn that the modest cost savings may be insufficient to lure users away from the entrenched platforms, though the new entrant could still disrupt the market by offering a leaner, more efficient delivery model.",
+      "key_points": [
+        "Flipkart is testing its food‑delivery service internally with 8,000 employees and a dedicated Ekart rider fleet.",
+        "The service will launch publicly by the end of October and expand to 5‑6 cities by year‑end.",
+        "Flipkart proposes a base commission of ~10% and total cost of 15‑16% for restaurants, lower than Zomato/Swiggy’s 20‑25%.",
+        "New entrants may save customers ₹20‑30 per order, but may struggle to pull users from incumbents due to limited savings."
+      ],
+      "topics": [
+        "flipkart",
+        "food delivery",
+        "india",
+        "ecommerce",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 20 Oct 2026 02:00:00 +0000",
+      "processed_at": "2026-10-23T01:46:35.241347+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-20-anthropics-cloud-partnerships-are-getting-messy",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
@@ -2379,107 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 22:00:00 +0000",
       "processed_at": "2026-10-17T23:51:44.412951+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Netflix2154.jpg?resize=1200,553",
-      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Netflix announced it will cut about 1,000 employees—roughly 6% of its workforce—primarily from product, technology, legal and human‑resources teams. The layoffs come after the company lost a bidding war for Warner Bros. Discovery’s streaming assets and faces growing competition from social‑media platforms such as TikTok and YouTube. Despite the cuts, Netflix says it remains on track to meet its full‑year forecast and will continue to invest aggressively in high‑impact areas like AI, gaming, live events and advertising. The move signals a shift toward tighter cost control while the company seeks to boost user engagement and monetization across its streaming and ad‑supported tiers.",
-      "key_points": [
-        "Netflix is laying off about 1,000 staff, or 6% of its workforce, mainly from product, tech, legal and HR departments.",
-        "The cuts follow a failed bid for Warner Bros. Discovery’s streaming assets and intensifying competition from social‑media platforms.",
-        "Netflix remains on track to deliver its full‑year forecast and will invest in high‑impact areas such as AI, gaming, live events and advertising.",
-        "The company reported $45.2 billion in revenue for 2025, with ad revenue exceeding $1.5 billion."
-      ],
-      "topics": [
-        "streaming",
-        "layoffs",
-        "competition",
-        "ai",
-        "advertising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 14:55:47 +0000",
-      "processed_at": "2026-10-17T23:51:32.941733+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benjamin-Dose-and-Angela-Relogio-TimeTeller.jpg?resize=1200,800",
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine | TechCrunch",
-      "author": "Anna Heim",
-      "summary": "TimeTeller, a German startup led by physicist‑engineer Angela Relógio, has launched a saliva‑based test that measures a person’s circadian rhythm to help time cancer treatments more precisely. The company cautions that the kit is a diagnostic tool for clinical studies rather than a direct prescription aid, and it has secured a reimbursement partnership with Germany’s Techniker Krankenkasse for a subset of cancer patients. Relógio’s background in oncology and circadian biology informs the company’s long‑term goal of reducing treatment side effects and improving outcomes by aligning therapy with each patient’s internal clock. Beyond oncology, TimeTeller envisions applying its timing insights to metabolic, neurodegenerative, and women’s health conditions as part of a broader precision‑medicine vision.",
-      "key_points": [
-        "TimeTeller offers a saliva‑based circadian rhythm test to personalize cancer treatment timing.",
-        "The test is intended for clinical studies, not for patients to self‑dose treatments.",
-        "The startup has a reimbursement partnership with Techniker Krankenkasse for a subset of cancer patients.",
-        "TimeTeller plans to extend its timing approach to metabolic, neurodegenerative, and women’s health.",
-        ""
-      ],
-      "topics": [
-        "personalized medicine",
-        "circadian biology",
-        "cancer treatment",
-        "healthtech",
-        "direct‑to‑consumer testing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 20:00:00 +0000",
-      "processed_at": "2026-10-17T21:37:53.555894+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "YouTube Music has rolled out a new labeling system that flags songs created with generative AI, allowing listeners to see whether a track is fully AI‑generated, partly AI‑generated, or contains no AI elements. The labels appear on the player page and in the main YouTube app, and clicking them reveals details about the AI’s role in composition or vocals. The move comes amid a surge of AI‑generated music on streaming platforms, with rivals such as Apple Music, Spotify, Deezer, and TIDAL also introducing their own AI transparency tags or filtering options. Unlike some services that restrict AI tracks, YouTube focuses on disclosure and permits monetization of AI‑involved songs while experimenting with its own AI‑powered music tools.",
-      "key_points": [
-        "YouTube Music introduces three AI labels—Fully Gen AI, Partly Gen AI, and No Gen AI—to identify AI involvement in tracks.",
-        "The labels are displayed on the player and main app, and clicking them provides detailed information about the AI’s contribution.",
-        "Other streaming services are adopting similar AI transparency measures, with Apple Music, Spotify, Deezer, and TIDAL adding tags or filters for AI‑generated music.",
-        "YouTube’s approach emphasizes disclosure over restriction, allowing AI‑involved tracks to remain monetizable while informing listeners."
-      ],
-      "topics": [
-        "youtube",
-        "music",
-        "ai",
-        "streaming",
-        "transparency"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 18:23:46 +0000",
-      "processed_at": "2026-10-17T21:38:07.048753+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Zenzap has raised $44 million in a round led by Bessemer, Lightspeed and The Garage, bringing the AI‑powered private messenger into the spotlight as a potential replacement for WhatsApp in the workplace. The app blends standard chat, group messaging, task and calendar integration with AI features such as voice chat, search and workflow automation, and is positioned for non‑developer employees across industries from hospitality to healthcare. Founder Guy Weiss, who previously bootstrapped StuccoMedia, said he only turned to venture capital after meeting Bessemer partner Adam Fisher, and the company already counts clients like FedEx, Dollar General, Taco Bell and Starbucks. The funding and early traction signal a push toward secure, AI‑enhanced communication tools that separate work from personal messaging.\n",
-      "key_points": [
-        "Zenzap secured $44M from Bessemer, Lightspeed, The Garage and individual investors.",
-        "The platform combines standard messaging with AI‑driven voice, task management and workflow automation for non‑developer staff.",
-        "Founder Guy Weiss moved from bootstrapping to venture‑backed after meeting Bessemer partner Adam Fisher.",
-        "Early clients include FedEx, Dollar General, Taco Bell and Starbucks, showing cross‑industry traction."
-      ],
-      "topics": [
-        "ai",
-        "messaging",
-        "startup",
-        "funding",
-        "workplace communication"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "processed_at": "2026-10-17T21:37:54.092760+00:00"
     }
   ]
 }
