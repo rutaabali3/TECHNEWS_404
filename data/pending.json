@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-10-24T13:29:52.170945+00:00",
+  "updated_at": "2026-10-24T16:53:45.079189+00:00",
   "items": [
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "feed_excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "published": "Wed, 21 Oct 2026 19:30:00 +0000"
-    },
-    {
-      "title": "The internet is having a very bad cybersecurity day",
-      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-      "feed_excerpt": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-      "published": "Wed, 21 Oct 2026 19:03:28 +0000"
-    },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "feed_excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "published": "Wed, 21 Oct 2026 22:51:22 +0000"
-    },
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "feed_excerpt": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "published": "Thu, 22 Oct 2026 15:03:58 +0000"
     },
     {
       "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
@@ -38,22 +20,10 @@
       "published": "Thu, 22 Oct 2026 13:53:26 +0000"
     },
     {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "feed_excerpt": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "published": "Thu, 22 Oct 2026 13:26:52 +0000"
-    },
-    {
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "feed_excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
       "published": "Thu, 22 Oct 2026 13:11:13 +0000"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "feed_excerpt": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "published": "Thu, 22 Oct 2026 19:07:09 +0000"
     },
     {
       "title": "Canva releases its first image generation model",
@@ -234,7 +204,49 @@
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "feed_excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "published": "Fri, 23 Oct 2026 21:59:19 +0000"
+    },
+    {
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "feed_excerpt": "Instacart might sell itself to a larger competitor.",
+      "published": "Sat, 24 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "feed_excerpt": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "published": "Sat, 24 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "feed_excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "published": "Sat, 24 Oct 2026 15:30:00 +0000"
+    },
+    {
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "feed_excerpt": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "feed_excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "feed_excerpt": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "published": "Sat, 24 Oct 2026 14:15:00 +0000"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "Sat, 24 Oct 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-24T13:30:08.732700+00:00"
+  "last_processed_at": "2026-10-24T16:53:47.075969+00:00"
 }

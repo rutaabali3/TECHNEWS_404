@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-10-24T13:30:11.275001+00:00",
+  "updated_at": "2026-10-24T16:54:13.487178+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-21-while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Walmart has launched its Agent Gateway, a new platform that lets AI agents search Walmart’s inventory and make purchases on behalf of shoppers, following Amazon’s recent decision to block such agents. The gateway uses the Model Context Protocol (MCP) to connect approved agents while keeping customer data private and providing separate purchase tracking through upcoming Agent Profiles. Walmart’s system also imposes strict terms on agents, limiting their actions, protecting payment information, and allowing customers to set spending limits or require approval for each transaction. The move positions Walmart as a pioneer in agentic commerce, offering a more open alternative to competitors that have barred AI agents from their sites.",
+      "key_points": [
+        "Walmart introduces Agent Gateway to enable AI agents to shop on its platform while protecting customer data",
+        "The system uses MCP and will add Agent Profiles for separate tracking and spending controls",
+        "Walmart sets strict agent terms to limit actions and safeguard payment information"
+      ],
+      "topics": [
+        "ai",
+        "ecommerce",
+        "retail",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:30:00 +0000",
+      "processed_at": "2026-10-24T16:53:46.864161+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-the-internet-is-having-a-very-bad-cybersecurity-day",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675",
+      "title": "The internet is having a very bad cybersecurity day | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "AI‑driven scans exposed critical PHP vulnerabilities that knocked government websites offline worldwide, prompting the NSA to urge immediate patching or shutdown of PHP‑based systems.  At the same time, Node.js released a patch for four high‑severity flaws, including a remote code execution bug and TLS validation bypasses.  Open‑source proxy LiteLLM was hit by an attacker who pushed malicious code to PyPI, Docker Hub, and GHCR, delivering an information stealer and remote‑access trojan.  Additionally, Indian certificate authority eMudhra’s private keys were compromised, raising the risk of forged certificates and a security crisis likened to Heartbleed.",
+      "key_points": [
+        "AI discovered critical PHP flaws that caused global government sites to go offline and led to an NSA advisory",
+        "Node.js patched four high‑severity vulnerabilities, one enabling remote code execution and two allowing TLS validation bypasses",
+        "LiteLLM’s malicious releases targeted cloud credentials and included a remote‑access trojan, prompting removal and remediation guidance",
+        "eMudhra’s private key compromise could allow attackers to issue fraudulent certificates, creating a widespread security threat"
+      ],
+      "topics": [
+        "cybersecurity",
+        "php",
+        "nodejs",
+        "open-source",
+        "certificates"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:03:28 +0000",
+      "processed_at": "2026-10-24T16:53:46.773075+00:00"
+    },
+    {
+      "id": "s-techcrunch-com-2026-10-22-1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "1Password has launched a new tool called 1Password for Agents that lets AI assistants log into users’ accounts on their behalf without ever seeing the users’ passwords. The system works by generating a unique digital key for the agent, sending a confirmation alert to the user, and then signing in the agent with the stored credentials. It currently supports popular agents such as Claude Duet, OpenAI’s Dots, ChatGPT Work, Grok Bot, Meta’s Muse, and Town, and the company plans to expand the list. The move comes amid growing concerns about AI‑driven account activity, with U.S. banks reporting increased agent usage in customer accounts and highlighting the need for tighter control over credentials.",
+      "key_points": [
+        "1Password for Agents lets AI assistants log in without accessing user passwords",
+        "The process uses a unique digital key and user confirmation to authorize each login",
+        "It supports multiple agents including Claude Duet, OpenAI’s Dots, ChatGPT Work, Grok Bot, Meta’s Muse, and Town",
+        "The launch addresses rising security concerns as banks detect more agent activity in user accounts"
+      ],
+      "topics": [
+        "password management",
+        "ai agents",
+        "cybersecurity",
+        "banking",
+        "authentication"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "processed_at": "2026-10-24T16:53:46.914048+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
+      "title": "Spotify's current AI bet is about being the music service that agents choose | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Spotify reported a strong third quarter with 788 million monthly active users and nearly €5 billion in revenue, but its main focus is on positioning itself as the go‑to music service for AI agents. Co‑CEO Gustav Söderström explained that while agents excel at handling chores, entertainment is the opposite, and Spotify aims to let users discover and interact with music through conversational assistants rather than the app alone. The company has already integrated with Meta’s Muse, ChatGPT, and Claude, and it plans to use its vast listening history to offer highly personalized recommendations without sharing user data with partners. By embracing the rise of AI agents, Spotify sees the trend as a tailwind that could drive future growth and deepen user engagement.",
+      "key_points": [
+        "Spotify’s Q3 revenue hit nearly €5 billion and 788 million MAUs, underscoring its market strength.",
+        "The company is targeting AI agents as a new channel, integrating with Meta’s Muse, ChatGPT, and Claude to let users request music via conversation.",
+        "Spotify will use its own data to personalize recommendations while keeping user data private, positioning itself as a unique media agent.",
+        "The strategy turns the growing AI agent ecosystem into a growth tailwind rather than a threat."
+      ],
+      "topics": [
+        "spotify",
+        "ai",
+        "music streaming",
+        "agents",
+        "partnerships"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 15:03:58 +0000",
+      "processed_at": "2026-10-24T16:53:46.910167+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+      "title": "Nirva raises $33M for a pendant that only listens to you | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Nirva, a 2025‑founded startup by former Meta Reality Labs engineers and a fashion brand founder, has raised a total of $33 million, including a $25 million pre‑Series A round, to develop its first wearable—a lightweight pendant that passively listens only to the wearer. The eight‑gram device, which can also be worn as a bracelet, offers a three‑day battery life and uses onboarding voice snippets to build a personal model while filtering out other conversations and discarding audio after processing. Nirva plans to ship the $249 pendant in November, positioning it as a personal‑insights tool rather than a productivity gadget, and competes with other AI jewelry brands such as Taya and Vocci. The company emphasizes privacy by never storing audio or transcripts, aiming to help users improve self‑understanding and daily interactions.\n",
+      "key_points": [
+        "Nirva secured $33 million total funding, including a $25 million pre‑Series A round.",
+        "The pendant weighs 8 grams, lasts up to three days on a single charge, and only records the wearer’s voice, discarding audio after analysis.",
+        "It will ship in November 2024 for $249, offering a companion app that provides personal insights and reminders.",
+        "Founded by ex‑Meta Reality Labs employees and a fashion entrepreneur, Nirva targets the personal‑insights market rather than productivity.\n"
+      ],
+      "topics": [
+        "ai wearables",
+        "funding",
+        "personal insights",
+        "privacy",
+        "fashion tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
+      "processed_at": "2026-10-24T16:53:47.075864+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-22-spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/girl-wearing-headphones-teen-GettyImages-2155720072.jpg?resize=1200,675",
@@ -2366,131 +2489,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 16 Oct 2026 16:30:00 +0000",
       "processed_at": "2026-10-19T17:06:11.481874+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-      "title": "When it came to Cal AI's viral success, a small army of influencers paid off | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Zach Yadegari, a 19‑year‑old founder of Cal AI, has turned a calorie‑tracking app into a $30 million‑revenue brand in just two years. The company’s meteoric rise was driven by a paid influencer army that generated thousands of new users per post and proved a linear, fast‑growth formula. In March, Cal AI was acquired by MyFitnessPal for an undisclosed sum, while Yadegari simultaneously launched Persona, an AI‑assistant startup that has already raised $10 million. Yadegari credits the success to negotiating clear payout tiers with “broke college kid” influencers and to targeting tight‑community creators, and he dismisses formal education as unnecessary for his ambitions.",
-      "key_points": [
-        "Cal AI grew to $30M revenue in two years through a paid influencer strategy",
-        "The company was acquired by MyFitnessPal for an undisclosed amount in March 2024",
-        "Yadegari launched Persona, raising $10M for an AI assistant that aims to integrate with everyday platforms",
-        "Influencer success hinged on negotiated payouts and targeting tight‑community creators"
-      ],
-      "topics": [
-        "startup",
-        "ai",
-        "influencer marketing",
-        "acquisition",
-        "healthtech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
-      "processed_at": "2026-10-19T10:13:07.499575+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Intero Biosystems, a Denver‑based startup spun out of the University of Michigan, won TechCrunch’s Startup Battlefield 2026 at Disrupt in San Francisco. The company builds 1 mm human intestinal organoids that let pharma, biotech, food and chemical firms test drugs and compounds before human trials, and sells its flagship product GastroScreen. The 20‑team competition culminated in a live demo round judged by venture capitalists and TechCrunch editors, with Intero’s demo standing out among finalists such as Apate, Flox Intelligence, Industrial Next, and Satlyt. The win adds Intero to a roster of Battlefield alumni that have collectively raised over $30 billion and achieved more than 200 exits.",
-      "key_points": [
-        "Intero Biosystems won Startup Battlefield 2026, earning a $100,000 prize and the Cup.",
-        "The startup creates 1 mm gut organoids for drug and compound testing, selling its GastroScreen platform.",
-        "The competition featured 20 startups, narrowed to five finalists, and judged by VCs and TechCrunch editors.",
-        "Battlefield alumni have raised over $30 billion and secured more than 200 exits."
-      ],
-      "topics": [
-        "startup",
-        "biotech",
-        "organoids",
-        "techcrunch",
-        "disrupt"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 23:33:45 +0000",
-      "processed_at": "2026-10-19T10:13:24.425031+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Bluesky has expanded its experimental Attie platform to let anyone build interactive experiences such as websites, games, quizzes, and polls, moving beyond its original AI‑powered custom social feeds. The new tool runs on the AT Protocol, giving creators built‑in distribution across Bluesky’s decentralized social network and tying projects to users’ ATProto identities. Creators can bring their own AI models or use open‑weight options, and Attie will suggest projects based on public Bluesky profiles. CEO Toni Schneider, who has taken over as interim chief after Jay Graber’s departure, says the move is part of Bluesky’s push to revitalize engagement and support developers in the AI era.",
-      "key_points": [
-        "Attie now supports building websites, games, quizzes, and polls for everyday users",
-        "Projects built with Attie run on AT Protocol, giving them built‑in distribution across Bluesky’s network",
-        "Creators can use their own AI models or open‑weight options and receive suggestions based on their Bluesky profiles",
-        "Toni Schneider, Bluesky’s interim CEO, is steering the company toward an AI‑focused future"
-      ],
-      "topics": [
-        "bluesky",
-        "attie",
-        "ai",
-        "decentralized social web",
-        "atproto"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 18:56:46 +0000",
-      "processed_at": "2026-10-19T10:13:07.413766+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589641951_6720ea2948_5k.jpg?resize=1200,800",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026 | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "TechCrunch’s Disrupt 2026 will feature five finalists in the Startup Battlefield finals, representing four categories: space and physical AI, energy and manufacturing, health tech and life sciences, and enterprise and security. The finalists include Apate, which deploys AI agents to bait scammers; Flox Intelligence, which uses edge AI to deter wildlife; Intero Biosystems, which creates multi‑cell intestinal organoids for drug testing; Industrial Next, which offers AI‑driven robotic stations that can be retooled in minutes; and Satlyt, which builds software for shared satellite computing. The finals begin tomorrow at 11:30 a.m. Pacific, with a panel of judges selecting a winner who receives the Startup Battlefield Cup and $100,000 equity‑free. This lineup showcases a broad spectrum of emerging technologies, from AI‑powered fraud prevention to advanced biomedical models and autonomous manufacturing solutions.",
-      "key_points": [
-        "Five startups from four categories will compete in the Startup Battlefield finals at Disrupt 2026",
-        "Apate uses AI agents to bait and study scammers",
-        "Intero Biosystems develops multi‑cell intestinal organoids for more accurate drug testing",
-        "Industrial Next offers AI‑driven robotic stations that can be retooled in minutes"
-      ],
-      "topics": [
-        "techcrunch",
-        "startupbattlefield",
-        "disrupt2026",
-        "ai",
-        "healthtech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 00:30:00 +0000",
-      "processed_at": "2026-10-19T10:13:07.331912+00:00"
-    },
-    {
-      "id": "unch-com-2026-10-16-mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
-      "title": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Mark Wahlberg spoke at TechCrunch Disrupt about his view that AI can be a useful tool in filmmaking when used responsibly, such as enhancing set design for his upcoming Pete Rose biopic. He stressed that AI should not replace real actors or generate full scripts, but rather augment the creative process while keeping storytelling at the core. Wahlberg also expressed openness to creating an AI likeness of himself for future projects, including his animated series \"Ted,\" to preserve his legacy. He has not yet used the CAA Vault but would consider it if it allows his descendants to manage his image responsibly.",
-      "key_points": [
-        "Wahlberg supports AI for enhancing film elements, not for replacing actors or writing scripts",
-        "He is open to using an AI likeness of himself for future projects and legacy preservation",
-        "He prioritizes storytelling over effects-driven filmmaking",
-        "He has not used the CAA Vault yet but would consider it for managing his image"
-      ],
-      "topics": [
-        "ai",
-        "film",
-        "technology",
-        "entertainment",
-        "storytelling"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 14:26:51 +0000",
-      "processed_at": "2026-10-19T10:13:07.300421+00:00"
     }
   ]
 }
