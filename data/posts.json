@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-10-24T19:19:31.206742+00:00",
+  "updated_at": "2026-10-24T21:46:58.168214+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-22-former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Former OpenAI science lead Kevin Weil has founded Warp Sciences, an AI startup that trains robots to automate wet‑lab work for drug discovery. The company secured $215 million in funding at an $865 million valuation, with Lightspeed leading the round alongside IVP, Mayfield, Lux Capital, Premji Invest, and Menlo Ventures. Warp Sciences aims to reshore the labor‑intensive synthesis of thousands of molecular variants from China, reducing geopolitical supply‑chain risks. Human chemists will use cameras and sensor gloves to train the robots, which can then operate around the clock to accelerate the drug development process.",
+      "key_points": [
+        "Warp Sciences raised $215 million at an $865 million valuation led by Lightspeed and other prominent venture firms.",
+        "The startup focuses on automating wet‑lab tasks to speed up drug discovery and reduce reliance on overseas synthesis contractors.",
+        "Human chemists will train robots using cameras and sensor gloves, enabling continuous, around‑the‑clock operation."
+      ],
+      "topics": [
+        "biotech",
+        "ai",
+        "drug discovery",
+        "automation",
+        "startup funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 18:38:47 +0000",
+      "processed_at": "2026-10-24T21:46:32.712682+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-elon-musk-made-a-1-billion-investment-in-skydance-report-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+      "title": "Elon Musk made a $1B investment in Skydance, report says | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Elon Musk has invested roughly $1 billion in the newly formed media company Skydance, a move that comes shortly after Paramount’s $110 billion acquisition of Warner Bros. Discovery. The investment arrives alongside equity from other backers such as Laurene Powell Jobs and is intended to give Skydance a much‑needed financial boost as it pursues a $6 billion cost‑cutting plan over the next three years. Musk’s involvement signals confidence in the company’s strategy to consolidate Paramount+ and HBO Max under one umbrella and to strengthen its position in the competitive streaming market. The infusion is expected to help lift Skydance’s stock price and support its expansion plans.",
+      "key_points": [
+        "Musk’s $1 billion stake comes as Skydance seeks to fund a $6 billion cost‑cutting program",
+        "The investment coincides with other major backers, including Laurene Powell Jobs",
+        "Skydance aims to merge Paramount+ and HBO Max under a single corporate umbrella"
+      ],
+      "topics": [
+        "elon musk",
+        "skydance",
+        "media",
+        "investment",
+        "streaming"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 17:36:38 +0000",
+      "processed_at": "2026-10-24T21:46:42.227712+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Chinese state‑aligned hackers breached ConnectWise’s cloud backup service and stole application credentials that allow the company to connect to its customers’ data. Using the stolen credentials, the attackers logged into Microsoft‑hosted environments of roughly 2,250 organizations, accessing emails and files at a rate of almost 3,000 sign‑ins per minute. The rapid attacks were enabled by AI agents built on the open‑source ARTEX framework, a tool that has also been used to compromise other systems such as South Korea’s financial sector. ConnectWise has paused its backup service and is working to restore it while Microsoft warns that the speed of the breaches leaves little time for defenders to respond.",
+      "key_points": [
+        "ConnectWise’s cloud backup credentials were stolen by China‑aligned hackers.",
+        "Attackers accessed Microsoft‑hosted environments of ~2,250 companies, logging in at ~3,000 attempts per minute.",
+        "The attacks were powered by AI agents using the ARTEX framework.",
+        "ConnectWise has paused its backup service and is investigating the breach."
+      ],
+      "topics": [
+        "cybersecurity",
+        "hacking",
+        "artificial intelligence",
+        "connectwise",
+        "china"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 16:47:17 +0000",
+      "processed_at": "2026-10-24T21:46:52.237048+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593487899_d51c7762f4_o.jpg?resize=1200,857",
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements | TechCrunch",
+      "author": "Michael Schick",
+      "summary": "TechCrunch Disrupt 2026 celebrated its Startup Battlefield 200 cohort, selecting 200 of the most promising startups from thousands of applications and culminating in a three‑day pitch competition. The top five finalists vied for a $100,000 equity‑free prize and the Disrupt Cup, with Intero Biosystems taking the win and Apate finishing as runner‑up. The event also highlighted standout Showcase Stage pitches from companies such as Lola Vision Systems, Krokos Bio, and Rein Security, while the Spirit of Disrupt award honored Shogher Atanesyan of Ardook Data for her selfless community support. These achievements underscore Disrupt’s role in fostering innovation and building relationships among founders, investors, and industry leaders.",
+      "key_points": [
+        "200 startups were selected from thousands of applications for the 2026 Startup Battlefield 200 competition.",
+        "Intero Biosystems won the $100,000 equity‑free prize and the Disrupt Cup, with Apate as runner‑up.",
+        "The Spirit of Disrupt award was given to Shogher Atanesyan of Ardook Data for her extensive volunteer and community efforts.",
+        "Showcase Stage highlights included Lola Vision Systems, Krokos Bio, and Rein Security, showcasing diverse AI and biotech innovations."
+      ],
+      "topics": [
+        "tech",
+        "startup",
+        "ai",
+        "entrepreneurship",
+        "innovation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-24T21:46:32.829964+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-21-blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
@@ -2390,106 +2488,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 23:00:00 +0000",
       "processed_at": "2026-10-20T05:53:46.749629+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-jev-is-vercels-fastest-adopted-ai-model-ever",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
-      "title": "Jev is Vercel's fastest-adopted AI model ever | TechCrunch",
-      "author": "Russell Brandom",
-      "summary": "Jev, a lightweight decision‑making model from TypeSafe AI, has become the fastest‑adopted AI model in Vercel’s history, reaching 35 % of paid teams within two weeks of its September 15 release. Its limited‑output design lets it run cheaper and faster than larger models like Sonnet 5.5, making it ideal for high‑volume classification tasks. Vercel, which adopted Jev early to replace GPT‑6 Luna for harmful‑command filtering, reports that open‑source models now process more than 70 % of tokens and account for nearly 25 % of spend on its AI gateway. At the same time, spending on frontier‑lab models has grown tenfold, suggesting that open‑source and proprietary models may coexist rather than compete.",
-      "key_points": [
-        "Jev reached 35 % adoption among paid teams in just two weeks, the fastest for any model on Vercel",
-        "Its limited‑output design makes it cheaper and faster than larger models like Sonnet 5.5",
-        "Vercel used Jev to replace GPT‑6 Luna for harmful‑command filtering",
-        "Open‑source models now handle over 70 % of tokens and 25 % of spend on Vercel’s AI gateway"
-      ],
-      "topics": [
-        "ai",
-        "model adoption",
-        "open source",
-        "vercel",
-        "typesafe ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 15:33:49 +0000",
-      "processed_at": "2026-10-20T05:54:11.313089+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Benchmark’s partners admitted at TechCrunch Disrupt that the long‑standing venture‑capital rule of not backing direct competitors is breaking down under the AI boom. The firm cited recent disputes—such as Factory’s firing of board observer Chris Degnan over alleged confidential talk with rival Cognition—and noted that AI lowers software development costs, making founders more likely to overlap markets. Benchmark says it will still guard early‑stage exclusivity and keep founder information confidential, but acknowledges that conflicts are now a matter of necessity rather than choice. The comments signal a shift in VC norms as AI accelerates portfolio overlap and forces firms to navigate new competitive dynamics.",
-      "key_points": [
-        "Benchmark acknowledges the traditional rule against backing rivals is eroding due to AI‑driven market overlap",
-        "The firm stresses early‑stage exclusivity and confidentiality while admitting conflicts are inevitable",
-        "AI lowers software costs, prompting founders to expand into each other’s territories",
-        "Benchmark’s stance may prompt other VCs to reassess their own exclusivity policies"
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "benchmark",
-        "startup competition",
-        "portfolio conflicts"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 05:16:46 +0000",
-      "processed_at": "2026-10-20T05:53:47.037410+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-veritas-is-building-a-chip-to-verify-luxury-goods",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Veritas has launched a second‑generation anti‑counterfeit chip that can be embedded in metal and glass surfaces, expanding its use to jewelry, trophies, hard‑surface products and fragrance bottles. The startup, founded by former Tesla product manager Luci Holland, partnered with ATHLOS to place chips in all 18 championship crowns and embedded one in a pair of LeBron James’ first Nike shoes, allowing users to tap a phone for product history. Veritas has raised $1.75 million in pre‑seed funding led by Seven Seven Six, with investors including Stanley Tang and Josh Constine, and offers a consumer app and brand portal for managing product records and owner experiences.",
-      "key_points": [
-        "Veritas released a second‑gen chip that works on metal and glass, enabling authentication for jewelry, trophies, and fragrance bottles",
-        "The company partnered with ATHLOS to embed chips in 18 championship crowns and in LeBron James’ Nike shoes for tap‑to‑verify functionality",
-        "Veritas secured $1.75 million in pre‑seed funding led by Seven Seven Six, with notable investors such as Stanley Tang and Josh Constine",
-        "It provides a consumer app and brand portal that let brands manage product records and create owner experiences"
-      ],
-      "topics": [
-        "anti-counterfeiting",
-        "authentication chips",
-        "luxury goods",
-        "startup",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-20T00:57:57.510077+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-14-flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
-      "title": "Flock CEO defends surveillance technology amid national backlash: 'We shouldn't pause progress' | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Garrett Langley, CEO of surveillance‑tech firm Flock, defended the company’s license‑plate cameras at TechCrunch Disrupt 2026, arguing that progress should not be paused even if it means sacrificing privacy to reduce crime. He dismissed critics by citing police chief endorsements and claimed the devices do not perform facial recognition, while acknowledging the technology is far from perfect. Flock has already seen contracts canceled and layoffs announced amid growing public backlash over its intrusive monitoring. Langley framed the debate as a trade‑off between safety and privacy, insisting that the responsibility for ethical use lies with city leaders rather than the company.",
-      "key_points": [
-        "Langley insists surveillance tech should advance to curb crime, even at the cost of privacy",
-        "He deflects criticism by citing police support and denying facial‑recognition capabilities",
-        "Flock has faced canceled contracts and layoffs amid backlash",
-        "The company’s CEO frames ethical concerns as the responsibility of city leaders, not the tech itself"
-      ],
-      "topics": [
-        "surveillance",
-        "privacy",
-        "law enforcement",
-        "tech ethics",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 00:49:31 +0000",
-      "processed_at": "2026-10-19T21:41:10.195698+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:19:02.064961+00:00",
+  "updated_at": "2026-10-24T21:46:30.980874+00:00",
   "items": [
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -24,30 +24,6 @@
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "feed_excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
-    },
-    {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "feed_excerpt": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "published": "Thu, 22 Oct 2026 18:38:47 +0000"
-    },
-    {
-      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-      "feed_excerpt": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
-      "published": "Thu, 22 Oct 2026 17:36:38 +0000"
-    },
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "feed_excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "published": "Thu, 22 Oct 2026 16:47:17 +0000"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-      "feed_excerpt": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000"
     },
     {
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
@@ -234,7 +210,19 @@
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "feed_excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "published": "Sat, 24 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "feed_excerpt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "published": "Sat, 24 Oct 2026 20:46:34 +0000"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "feed_excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000"
     }
   ],
-  "last_processed_at": "2026-10-24T19:19:03.804879+00:00"
+  "last_processed_at": "2026-10-24T21:46:52.237124+00:00"
 }
