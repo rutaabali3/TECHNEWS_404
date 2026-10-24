@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-24T09:02:05.169685+00:00",
+  "updated_at": "2026-10-24T13:30:11.275001+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-22-spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/girl-wearing-headphones-teen-GettyImages-2155720072.jpg?resize=1200,675",
+      "title": "Spotify confirms Family Plan crackdown, but calls it a 'routine improvement' | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Spotify confirmed it is rolling out a QR code verification system to curb abuse of its Family Plan, a move it described as a routine improvement to existing verification tools. The new process requires family members to scan a QR code displayed on the plan manager’s phone within seven days, or risk being barred from joining another Family or Duo plan for a year and forced to switch to an individual plan. The change aims to protect Spotify’s profitable Premium subscriptions by preventing adults who live separately from sharing a cheaper plan. During the Q3 earnings call, co‑CEO Alex Norström downplayed the update, emphasizing that verification will be an ongoing, iterative improvement rather than a hard crackdown.",
+      "key_points": [
+        "Spotify is implementing QR code verification for Family Plan members to prevent abuse.",
+        "Members must scan the code within seven days or face a 12‑month ban from Family/Duo plans and must switch to an individual plan.",
+        "The company frames the change as a routine, ongoing improvement rather than a crackdown.",
+        "The goal is to protect Spotify’s Premium revenue by ensuring only co‑habitants share a Family Plan."
+      ],
+      "topics": [
+        "spotify",
+        "subscription",
+        "family plan",
+        "verification",
+        "music streaming"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 15:24:32 +0000",
+      "processed_at": "2026-10-24T13:29:53.654033+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-investors-break-down-how-founders-can-raise-a-series-a-today",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Series-A-panel-Dom.jpg?resize=1200,800",
+      "title": "Investors break down how founders can raise a Series A today | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "At TechCrunch Disrupt, three investors—Peak XV’s Shailendra Singh, Index Ventures’ Jahanvi Sardana, and Bessemer’s Janelle Teng Wade—warned founders that raising a Series A in today’s market is harder than ever, with high dispersion in terms and a trend toward tranching. They emphasized that a compelling story, top talent, and honest metrics are still critical, while AI and defense remain hot sectors but may see a correction around 2027. Founders should avoid inflated ARR figures, focus on genuine product‑market fit, and be prepared to ask audaciously but realistically for capital. The panel’s advice underscores the need for intellectual honesty and careful pacing in building a company.",
+      "key_points": [
+        "Series A raising now requires convincing top firms amid market froth and high term dispersion",
+        "Investors stress honest metrics, strong talent, and a compelling story over inflated ARR",
+        "AI, defense, and robotics remain attractive but valuations may correct by 2027",
+        "Founders should avoid tranching pitfalls and focus on genuine product‑market fit"
+      ],
+      "topics": [
+        "venturecapital",
+        "seriesa",
+        "ai",
+        "startupfunding",
+        "markettrends"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 15:15:00 +0000",
+      "processed_at": "2026-10-24T13:29:53.991952+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
+      "title": "Developer platform Railway urges 'all users' to revoke secret keys after cyberattack | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Railway, a cloud‑development platform, confirmed a cyberattack that exposed some customers’ encrypted environment variables, including passwords and API keys. The breach, which appears limited to a subset of users, prompted Railway to advise all users to rotate their API and cloud keys and temporarily pause new builds while investigating. Railway has not disclosed the exact number of affected users or the root cause, but the incident is believed to be part of a broader campaign targeting AI inference providers. The company plans to publish a post‑mortem and has paused deployments to mitigate further risk.",
+      "key_points": [
+        "Railway’s breach exposed encrypted environment variables, potentially giving attackers access to customer secrets.",
+        "All Railway users are urged to rotate API and cloud keys even though the attack affected only a subset of customers.",
+        "The incident is linked to a wider trend of attacks on AI platforms and follows similar breaches at OpenCode.",
+        "Railway has paused new builds and will release a post‑mortem to explain the root cause."
+      ],
+      "topics": [
+        "cybersecurity",
+        "cloud",
+        "api",
+        "ai",
+        "data breach"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 14:03:00 +0000",
+      "processed_at": "2026-10-24T13:30:08.732606+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-21-meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
@@ -2416,81 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 16 Oct 2026 14:26:51 +0000",
       "processed_at": "2026-10-19T10:13:07.300421+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800",
-      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Bluesky announced it will roll out payments in the coming months to enable buying, selling, and fundraising directly on its decentralized network, a move that bypasses traditional advertising revenue. The company’s CEO Toni Schneider explained that the new monetization model will be transparent and designed to benefit creators, aligning with Bluesky’s public‑benefit corporation status. By building on existing commerce activity, Bluesky aims to disrupt the infrastructure layer of social media rather than just adding another app. The announcement marks a significant shift toward infrastructure‑level revenue models for decentralized platforms.",
-      "key_points": [
-        "Bluesky will introduce payments to enable buying, selling, and fundraising on its decentralized network.",
-        "Monetization will be designed to benefit creators and avoid traditional advertising.",
-        "CEO Toni Schneider, former Automattic CEO, leads the initiative after taking over in March.",
-        "The company’s public‑benefit corporation structure guides its revenue strategy."
-      ],
-      "topics": [
-        "bluesky",
-        "payments",
-        "monetization",
-        "social media",
-        "public benefit corporation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 19:29:05 +0000",
-      "processed_at": "2026-10-19T04:29:04.339868+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Anthropic has announced that six researchers from the nonprofit METR will receive employee‑level access to its internal tools, office space, and laptops to independently evaluate the company’s frontier AI models, safety protocols, and risk management. The move comes amid a wave of incidents where AI agents acted outside their instructions, prompting calls for greater transparency and external oversight. Anthropic likens the arrangement to banking regulators placing resident examiners inside major banks, and it has agreed to allow METR to publish its findings without veto power, except for narrowly defined redactions. This initiative fulfills a promise made by CEO Dario Amodei in a September essay and aligns with a White House accord that encourages AI firms to embed outside evaluators in their labs.",
-      "key_points": [
-        "Anthropic grants METR researchers employee‑level access to assess its AI models and safety practices",
-        "METR is free to publish its assessments without Anthropic’s veto, only limited redactions are allowed",
-        "The arrangement mirrors banking regulator practices and is part of Anthropic’s tiered evaluator system",
-        "The move follows CEO Amodei’s September essay and a White House accord on independent AI review"
-      ],
-      "topics": [
-        "ai safety",
-        "independent audit",
-        "anthropic",
-        "metr",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 19:14:26 +0000",
-      "processed_at": "2026-10-19T04:29:13.510499+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-15-citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1404252962.jpg?resize=1200,800",
-      "title": "Governments are hacking people with 'zero-click' spyware by showing them online ads | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Security researchers at Citizen Lab have revealed that an Israeli advertising company, Discover‑Tech, is being used by government‑backed spyware makers to deliver zero‑click malware through online ads. The study shows that spyware firms Candiru and Bindecy exploited Discover‑Tech’s Controlium platform to target specific devices worldwide, infecting at least 45 Windows computers at Al Jazeera in 2024‑2025. The attacks demonstrate that malicious code can be embedded in ads that reach military, government, and critical‑infrastructure devices, raising the risk of widespread covert surveillance. Citizen Lab urges users to disable ad tracking or block ads entirely to protect themselves from this emerging threat.",
-      "key_points": [
-        "Discover‑Tech’s ad platform is being used to deliver zero‑click spyware to targeted devices worldwide.",
-        "Citizen Lab’s report documents at least 45 Al Jazeera Windows computers infected via Candiru spyware in 2024‑2025.",
-        "The malicious ads were shown on devices used by militaries, governments, and critical infrastructure, indicating a broad potential impact.",
-        "The findings highlight the need for stronger ad‑blocking and tracking‑disabling measures to defend against covert government‑backed hacking."
-      ],
-      "topics": [
-        "spyware",
-        "adtech",
-        "cybersecurity",
-        "government surveillance",
-        "malvertising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "processed_at": "2026-10-19T04:29:04.054319+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:01:40.253513+00:00",
+  "updated_at": "2026-10-24T13:29:52.170945+00:00",
   "items": [
     {
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
@@ -20,18 +20,6 @@
       "published": "Wed, 21 Oct 2026 22:51:22 +0000"
     },
     {
-      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-      "feed_excerpt": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
-      "published": "Thu, 22 Oct 2026 15:24:32 +0000"
-    },
-    {
-      "title": "Investors break down how founders can raise a Series A today",
-      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-      "feed_excerpt": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
-      "published": "Thu, 22 Oct 2026 15:15:00 +0000"
-    },
-    {
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "feed_excerpt": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
@@ -42,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
       "feed_excerpt": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
       "published": "Thu, 22 Oct 2026 14:59:28 +0000"
-    },
-    {
-      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-      "feed_excerpt": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-      "published": "Thu, 22 Oct 2026 14:03:00 +0000"
     },
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -254,5 +236,5 @@
       "published": "Fri, 23 Oct 2026 21:59:19 +0000"
     }
   ],
-  "last_processed_at": "2026-10-24T09:01:41.829387+00:00"
+  "last_processed_at": "2026-10-24T13:30:08.732700+00:00"
 }
