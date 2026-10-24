@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:56:16.885742+00:00",
+  "updated_at": "2026-10-24T04:12:35.334129+00:00",
   "items": [
     {
       "title": "Mach9 raises $34M after pivoting to AI CAD software",
@@ -26,12 +26,6 @@
       "published": "Wed, 21 Oct 2026 19:03:28 +0000"
     },
     {
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-      "feed_excerpt": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-      "published": "Wed, 21 Oct 2026 18:51:56 +0000"
-    },
-    {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "feed_excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
@@ -42,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
       "feed_excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
       "published": "Wed, 21 Oct 2026 22:45:34 +0000"
-    },
-    {
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "feed_excerpt": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "published": "Wed, 21 Oct 2026 22:16:05 +0000"
     },
     {
       "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
@@ -284,5 +272,5 @@
       "published": "Fri, 23 Oct 2026 21:59:19 +0000"
     }
   ],
-  "last_processed_at": "2026-10-23T23:56:18.950707+00:00"
+  "last_processed_at": "2026-10-24T04:12:48.389878+00:00"
 }
