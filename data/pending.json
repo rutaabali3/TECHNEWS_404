@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-24T16:53:45.079189+00:00",
+  "updated_at": "2026-10-24T19:19:02.064961+00:00",
   "items": [
-    {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "feed_excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "published": "Wed, 21 Oct 2026 22:51:22 +0000"
-    },
-    {
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "feed_excerpt": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-      "published": "Thu, 22 Oct 2026 14:59:28 +0000"
-    },
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
@@ -24,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "feed_excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
       "published": "Thu, 22 Oct 2026 13:11:13 +0000"
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "feed_excerpt": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000"
     },
     {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -246,7 +228,13 @@
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "published": "Sat, 24 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "feed_excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-24T16:53:47.075969+00:00"
+  "last_processed_at": "2026-10-24T19:19:03.804879+00:00"
 }
