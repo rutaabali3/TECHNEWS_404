@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-24T04:12:35.334129+00:00",
+  "updated_at": "2026-10-24T09:01:40.253513+00:00",
   "items": [
-    {
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "feed_excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "published": "Wed, 21 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "feed_excerpt": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-      "published": "Wed, 21 Oct 2026 19:42:32 +0000"
-    },
     {
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
@@ -30,12 +18,6 @@
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "feed_excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "published": "Wed, 21 Oct 2026 22:51:22 +0000"
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "feed_excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "published": "Wed, 21 Oct 2026 22:45:34 +0000"
     },
     {
       "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
@@ -272,5 +254,5 @@
       "published": "Fri, 23 Oct 2026 21:59:19 +0000"
     }
   ],
-  "last_processed_at": "2026-10-24T04:12:48.389878+00:00"
+  "last_processed_at": "2026-10-24T09:01:41.829387+00:00"
 }

@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-24T04:12:54.398646+00:00",
+  "updated_at": "2026-10-24T09:02:05.169685+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-21-meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta announced it will create a new class of non‑voting capital stock, distributed to existing shareholders as a stock dividend, to fund its expanding AI initiatives while preserving the voting power of its Class A and B shareholders. The move was revealed during the company’s third‑quarter earnings call, where CFO Susan Li highlighted the new shares as a flexible tool for capital raising, employee compensation, acquisitions, and other corporate purposes. Meta’s Q3 results showed $64 billion in revenue, a 26% year‑over‑year increase, but costs rose 68% year‑over‑year, and the Reality Labs division’s losses are expected to shrink to $18‑$19 billion. The company’s AI portfolio, including Muse Spark, Muse Glimmer, Muse Wonder, Muse Spark Open, and Muse Code, has already attracted more than 10 million users in the U.S. and Canada and has topped the App Store for most days of the quarter.",
+      "key_points": [
+        "Meta will issue non‑voting stock via dividend to fund its AI push while keeping founder‑led voting power",
+        "Q3 revenue hit $64 billion, up 26% YoY, but costs rose 68% YoY",
+        "Reality Labs losses are expected to shrink to $18‑$19 billion by 2025",
+        "AI products such as Muse Spark and Muse Code have gained over 10 million users and dominated the App Store"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "stock",
+        "earnings",
+        "reality labs"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
+      "processed_at": "2026-10-24T09:01:41.800758+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "A federal judge ordered Meta to pay $25 billion to New Mexico for violating the state’s consumer‑protection laws in connection with the Cambridge Analytica data scandal. The decision follows a two‑week trial in which a jury found 43 million violations, each carrying a $5,000 penalty, and highlighted Meta’s handling of a third‑party app and its privacy policies. Meta has announced it will appeal the ruling, while the state’s attorney general warned that the case could make doing business in New Mexico impossible. The judgment underscores the growing regulatory pressure on social‑media platforms over data privacy and misinformation.",
+      "key_points": [
+        "Meta ordered to pay $25 billion to New Mexico for 43 million consumer‑protection violations",
+        "Jury found each violation carried a $5,000 penalty",
+        "Meta plans to appeal the ruling",
+        "Case centers on Cambridge Analytica data breach and privacy policies"
+      ],
+      "topics": [
+        "meta",
+        "cambridgeanalytica",
+        "data privacy",
+        "consumer protection",
+        "lawsuit"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:42:32 +0000",
+      "processed_at": "2026-10-24T09:01:41.829334+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-21-mach9-raises-34m-after-pivoting-to-ai-cad-software",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Mach9 Robotics, now simply Mach9, pivoted from hardware to AI‑powered CAD software for civil engineering and secured a $34 million Series A round led by First Round Capital and Bessemer Venture Partners. The startup’s software turns laser scan and image data into survey‑grade plans up to ten times faster than legacy tools, and it already serves nearly 100 private‑beta customers on more than 2,500 projects. Mach9’s in‑house AI models deliver centimeter‑level accuracy, enabling engineers to refine automated drafts while maintaining professional liability. The new capital will fund product enhancements, hire industry experts, and scale operations to meet growing demand in the construction and infrastructure market.",
+      "key_points": [
+        "Mach9 shifted from robotics to AI CAD software and raised $34 million in Series A funding.",
+        "Its AI system processes survey data 10× faster than traditional CAD tools, serving 100 beta customers on 2,500+ projects.",
+        "The round was co‑led by First Round Capital and Bessemer Venture Partners, with additional participation from Prudence and Quiet Capital.",
+        "Mach9’s proprietary AI models achieve centimeter‑accurate geometry, a level not commonly available in off‑the‑shelf solutions."
+      ],
+      "topics": [
+        "ai",
+        "construction",
+        "software",
+        "funding",
+        "civil engineering"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-24T09:01:41.722518+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-21-airbnb-limits-chores-for-guests-sparking-backlash-from-hosts",
       "image": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-733478305.jpg?resize=1200,713",
@@ -2416,81 +2491,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 15 Oct 2026 10:00:00 +0000",
       "processed_at": "2026-10-19T04:29:04.054319+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-meta-launches-an-open-weight-model-that-runs-on-macs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-      "title": "Meta launches an open-weight AI model that runs on Macs | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Meta has unveiled Muse Spark Open, an 816‑billion‑parameter open‑weight AI model built to run natively on Apple hardware. The multimodal system supports coding, agentic workflows, and even video‑editing tasks, but it demands at least 1 TB of RAM and performs best on a Mac Studio with the M5 Ultra chip. By offering an open‑weight alternative, Meta aims to give developers cost‑effective, transparent, and flexible AI tools that can be deployed locally. The model is now available through several API platforms for developers and enterprises.",
-      "key_points": [
-        "Meta released Muse Spark Open, an 816‑billion‑parameter open‑weight AI model for Macs",
-        "The model requires at least 1 TB of RAM and runs best on a Mac Studio with the M5 Ultra chip",
-        "It supports coding, agentic workflows, and video‑editing tasks such as DaVinci Resolve",
-        "Open‑weight models provide cost efficiency, transparency, and flexibility for developers"
-      ],
-      "topics": [
-        "ai",
-        "open-source",
-        "mac",
-        "coding",
-        "video editing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 20:04:53 +0000",
-      "processed_at": "2026-10-18T23:59:49.223532+00:00"
-    },
-    {
-      "id": "s-techcrunch-com-2026-10-15-amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Amazon’s SVP of Devices, Panos Panay, unveiled the company’s new Bee ambient AI wearables at TechCrunch Disrupt, positioning them as the next step in personal computing that moves away from app‑centric interactions toward devices that anticipate user needs. The Bee band and credit‑card‑sized sensor attach quietly to the body or phone, passively record audio, process it in real time, delete raw data, and store only encrypted transcripts that the user controls. Panay emphasized privacy as a core design principle and outlined a vision where a network of sensor‑driven devices, linked by an intelligence layer, will gradually reduce the need to explicitly launch apps. While Amazon still sees smartphones as important, the company is betting on a future of ambient, AI‑powered devices that keep users present and productive.\n",
-      "key_points": [
-        "Amazon launches Bee ambient AI wearables that record audio in real time, delete raw data, and encrypt transcripts controlled by the user.",
-        "Panos Panay envisions a shift to ambient computing where devices anticipate user needs instead of relying on app commands.",
-        "Privacy is built into Bee devices, with no raw audio storage and user‑controlled encryption.",
-        "Amazon sees future devices as sensor‑driven, linked by an intelligence layer that connects multiple form factors."
-      ],
-      "topics": [
-        "amazon",
-        "ambient computing",
-        "ai",
-        "privacy",
-        "wearables"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 19:55:25 +0000",
-      "processed_at": "2026-10-19T00:00:01.658929+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Ramp raised $1.85 billion in a new funding round that values the expense‑management startup at $60 billion, up from $44 billion just four months earlier. The company reports annualized revenue exceeding $2 billion, a 25% faster growth rate than a year ago, and 85,000 customers including Visa, Uber, and Shopify. Ramp is broadening its product suite beyond expense management into payments, fraud detection, procurement, and AI‑driven tools, launching a corporate credit card for AI agents and a model‑routing service for AI inference. The expansion positions Ramp in direct competition with Rippling and, according to investor Keith Rabois, may bring it into conflict with AI firm Anthropic over token‑spend management.",
-      "key_points": [
-        "$1.85B round values Ramp at $60B",
-        "Annualized revenue >$2B with 25% faster growth and 85k customers",
-        "Ramp is expanding into payments, procurement, and AI‑centric products",
-        "Competition with Rippling and potential clash with Anthropic over AI token spend"
-      ],
-      "topics": [
-        "fintech",
-        "ai",
-        "valuation",
-        "funding",
-        "payments"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 15 Oct 2026 14:47:09 +0000",
-      "processed_at": "2026-10-18T23:59:48.829200+00:00"
     }
   ]
 }
