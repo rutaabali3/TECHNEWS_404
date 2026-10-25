@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:02:15.073308+00:00",
+  "updated_at": "2026-10-25T14:30:26.276912+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -8,40 +8,10 @@
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
     },
     {
-      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-      "feed_excerpt": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-      "published": "Thu, 22 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "feed_excerpt": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "published": "Thu, 22 Oct 2026 23:50:41 +0000"
-    },
-    {
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "feed_excerpt": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "published": "Thu, 22 Oct 2026 23:15:00 +0000"
-    },
-    {
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "feed_excerpt": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "published": "Fri, 23 Oct 2026 04:22:57 +0000"
-    },
-    {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "feed_excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
       "published": "Fri, 23 Oct 2026 04:00:00 +0000"
-    },
-    {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "feed_excerpt": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "published": "Fri, 23 Oct 2026 16:26:29 +0000"
     },
     {
       "title": "VCs, Superhuman Mail founder share red flags about product market fit",
@@ -54,12 +24,6 @@
       "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
       "feed_excerpt": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
       "published": "Fri, 23 Oct 2026 20:03:14 +0000"
-    },
-    {
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "feed_excerpt": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-      "published": "Fri, 23 Oct 2026 19:25:13 +0000"
     },
     {
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
@@ -144,7 +108,13 @@
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "feed_excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"",
       "published": "Sat, 24 Oct 2026 20:15:33 +0000"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "feed_excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "published": "Sun, 25 Oct 2026 14:10:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-25T10:02:16.485127+00:00"
+  "last_processed_at": "2026-10-25T14:30:57.315027+00:00"
 }

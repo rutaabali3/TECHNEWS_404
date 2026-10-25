@@ -1,7 +1,156 @@
 {
-  "updated_at": "2026-10-25T10:02:44.820117+00:00",
+  "updated_at": "2026-10-25T14:30:57.361323+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "com-2026-10-22-mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "title": "Mark Zuckerberg's creative plan to pay California’s proposed billionaire tax without losing control of Meta | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta announced a new nonvoting Class C common stock to raise capital and keep CEO Mark Zuckerberg’s voting power intact. The move, disclosed in a recent earnings call, also lets Zuckerberg sell up to 20 % of the new shares to cover a potential California billionaire tax without losing control. California’s Proposition 40 would impose a one‑time 5 % wealth tax on billionaires, potentially costing Zuckerberg up to $11 billion. The strategy illustrates how tech leaders are planning to navigate state‑level tax proposals while preserving corporate governance.",
+      "key_points": [
+        "Meta created a nonvoting Class C stock to raise capital and preserve Zuckerberg’s voting control.",
+        "The new shares allow Zuckerberg to sell up to 20 % to pay a possible California billionaire tax.",
+        "California’s Proposition 40 could tax billionaires 5 % of net worth, costing Zuckerberg up to $11 billion.",
+        "The move shows tech executives are using corporate structures to manage state tax risks."
+      ],
+      "topics": [
+        "meta",
+        "billionaire tax",
+        "california",
+        "stock structure",
+        "proposition 40"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 23:50:41 +0000",
+      "processed_at": "2026-10-25T14:30:57.314932+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Warhound, a startup founded by Colossal Biosciences’ Ben Lamm and Anduril’s Palmer Luckey, has secured $200 million in a Series A round that values the company at $1.2 billion. The company plans to use Colossal’s gene‑editing and cloning technology to create genetically engineered war dogs that are healthier, faster, and better at tasks such as bomb detection, while Anduril will supply protective gear and situational‑awareness software. The first batch of dogs is expected to be born early next year, with operational deployment to the U.S. military, first‑responders, and police forces within two years. Warhound is working with the American Humane Society to certify training programs and ensure humane treatment of the animals throughout their service life.",
+      "key_points": [
+        "$200 million Series A funding from Sequoia, 8VC, Corner Ventures and In‑Q‑Tel gives Warhound a $1.2 billion valuation",
+        "The startup will genetically engineer and clone war dogs using Colossal Biosciences’ technology, aiming to improve health, longevity and mission performance",
+        "Anduril will provide protective vests, goggles and data‑sensing software to enhance dog and handler safety",
+        "First dogs are slated for birth early next year, with operational deployment within two years to military and first‑responder units"
+      ],
+      "topics": [
+        "genetic engineering",
+        "military technology",
+        "startup funding",
+        "animal welfare",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 23:15:00 +0000",
+      "processed_at": "2026-10-25T14:30:42.397854+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593304916_918c404f7a_o.jpg?resize=1200,800",
+      "title": "The secret to fast startup growth isn't early sales, top names in tech say | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "At TechCrunch Disrupt, industry leaders argued that the secret to rapid startup growth lies not in early sales but in establishing durable go‑to‑market strategies and true product‑market fit. They emphasized the importance of learning density and pattern recognition to identify repeatable customer acquisition tactics before scaling. The session highlighted Lovable’s exceptional $600 million ARR and $13 billion valuation as an outlier, noting that most founders must prioritize deep customer understanding over hype. Founders were urged to build community and maintain close contact with users to sustain growth beyond initial momentum.",
+      "key_points": [
+        "Fast growth is driven by durable go‑to‑market strategies and product‑market fit, not early sales",
+        "Founders should focus on learning density and pattern recognition before scaling",
+        "Lovable’s rapid growth is an exception; most startups need to prioritize customer understanding",
+        "Community building and close customer engagement are essential for sustainable growth"
+      ],
+      "topics": [
+        "startup growth",
+        "product-market fit",
+        "go-to-market",
+        "customer acquisition",
+        "ai startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 20:00:00 +0000",
+      "processed_at": "2026-10-25T14:30:27.964423+00:00"
+    },
+    {
+      "id": "ps-techcrunch-com-2026-10-23-carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Carta and NewView Capital have partnered to streamline tender offers that give startup employees early liquidity. The collaboration merges NewView’s secondary‑deal expertise with Carta’s equity‑management platform, aiming to make it easier for CEOs to launch and manage liquidity programs. Over the past three years, tender offers for Series C and later‑stage startups have tripled, yet only 44 were executed in H1 2026, indicating room for growth. The partnership seeks to position tenders as a win‑win for workers, companies, and investors, helping retain talent in companies that remain private for a decade or more.",
+      "key_points": [
+        "Carta and NewView Capital have teamed up to simplify tender offers for startup employees.",
+        "Tender offers for Series C+ startups have tripled in the last three years, but only 44 were executed in H1 2026.",
+        "The partnership aims to make early liquidity a standard retention tool for private companies."
+      ],
+      "topics": [
+        "startups",
+        "equity",
+        "liquidity",
+        "venturecapital",
+        "secondarymarket"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 19:25:13 +0000",
+      "processed_at": "2026-10-25T14:30:28.095311+00:00"
+    },
+    {
+      "id": "tps-techcrunch-com-2026-10-23-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Daytona Platforms raised a $60 million Series B that values the New York‑based startup at $1 billion, bringing its total funding to $91 million. The round was led by FirstMark Growth and attracted high‑profile angels such as Patrick Collison, Tobi Lütke, Eric Yuan, and Adam D’Angelo, as well as corporate investors Qualcomm Ventures, Samsung Next, and Okta Ventures. Daytona is building a cloud platform specifically for long‑running AI agents, offering each agent its own sandboxed Linux, Windows, macOS, and GPU resources. The move positions Daytona as a specialized, enterprise‑grade alternative to general cloud services for the rapidly growing agent‑based workloads.",
+      "key_points": [
+        "$60M Series B brings valuation to $1B, total funding $91M",
+        "Led by FirstMark Growth with notable angels and corporate VCs",
+        "Focus on cloud infrastructure for long‑running AI agents with sandboxed OS and GPU",
+        "Aims to become an enterprise‑grade GitHub Codespaces for agents"
+      ],
+      "topics": [
+        "startup",
+        "cloud",
+        "ai",
+        "investments",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 16:26:29 +0000",
+      "processed_at": "2026-10-25T14:30:28.023852+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Oura has filed a new lawsuit in Texas against Indian rival Ultrahuman, alleging that Ultrahuman’s Ring Pro infringes two of Oura’s patents covering design and internal components. The complaint follows a Customs clearance that allowed the redesigned ring to re‑enter the U.S. market after an earlier import ban, and it names Texas‑based SVTronics as a co‑defendant. Oura’s newest patent, issued on October 20, was granted just two days before the filing, underscoring the company’s aggressive protection of its intellectual property. The case comes amid a growing smart‑ring market and after Oura shelved a $2.2 billion IPO, while Ultrahuman recently raised $70 million and plans to expand beyond fitness tracking.",
+      "key_points": [
+        "Oura sues Ultrahuman for patent infringement on the Ring Pro",
+        "Oura’s newest patent was issued just two days before the lawsuit",
+        "Ultrahuman’s Ring Pro was cleared by U.S. Customs after an earlier ban",
+        "Oura also names Texas manufacturer SVTronics as a co‑defendant"
+      ],
+      "topics": [
+        "smart rings",
+        "patent litigation",
+        "us customs",
+        "tech startups",
+        "market growth"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 04:22:57 +0000",
+      "processed_at": "2026-10-25T14:30:28.013292+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-23-what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
@@ -2346,155 +2495,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 18 Oct 2026 21:00:00 +0000",
       "processed_at": "2026-10-20T23:02:04.518574+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-18-everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "The documentary \"You Can See Everything\" about Elizabeth Holmes has become a box‑office sensation, pulling in a $15 million opening weekend and ranking as the second‑largest opening for a documentary. The nearly three‑hour film, released after a secret screening at Telluride, is playing in only 855 theaters but has already sold out 2,000 showings and holds a 99 % rating on Rotten Tomatoes and Metacritic. Filmmakers were granted unprecedented access to Holmes and her family in the month before her 11‑year prison sentence, and the project was co‑directed by comedian Nathan Fielder, adding a surreal, meta‑textual layer. The film’s success has eclipsed other tech‑centric releases such as \"The Social Reckoning\" and Alex Gibney’s \"Musk,\" underscoring Holmes’s enduring public fascination.",
-      "key_points": [
-        "$15 million opening weekend, the second‑largest for a documentary",
-        "99 % rating on Rotten Tomatoes and Metacritic",
-        "Unprecedented access to Holmes and her family, co‑directed by Nathan Fielder"
-      ],
-      "topics": [
-        "documentary",
-        "theranos",
-        "elizabeth holmes",
-        "box office",
-        "techcrime"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 18 Oct 2026 19:03:38 +0000",
-      "processed_at": "2026-10-20T23:02:04.890545+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-17-tiktok-permanently-bans-musk-documentary-advertising-account",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-      "title": "TikTok says it's restored ‘Musk’ documentary advertising account | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "TikTok has restored the advertising account for the four‑hour documentary \"Musk\" after an error, following a temporary suspension for political content. Meta and YouTube also initially rejected ads for the film but later lifted the bans, citing technical mistakes. Elon Musk’s own platform X has declined to run any ads for the documentary. The film, directed by Alex Gibney, is expanding its theatrical run and is slated to stream on HBO next year.",
-      "key_points": [
-        "TikTok restored the \"Musk\" ad account after an error",
-        "Meta and YouTube initially rejected ads but later allowed them",
-        "X refuses to carry ads for the documentary",
-        "The film is moving forward with broader release and HBO streaming"
-      ],
-      "topics": [
-        "tiktok",
-        "advertising",
-        "elon musk",
-        "documentary",
-        "social media platforms"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 17 Oct 2026 20:55:52 +0000",
-      "processed_at": "2026-10-20T23:02:24.734600+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India's hospital economics | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Even Healthcare has raised $50 million in a Series B round led by Khosla Ventures, valuing the Indian health‑tech startup at $300 million and tripling its valuation in 18 months. The company is building its own hospitals in Bengaluru, paying doctors fixed salaries and focusing on patient outcomes, which has led to less than 1% readmission rates, 40% shorter stays, and savings of over ₹500 million for insurers. Despite individual hospitals turning profitable, Even remains loss‑making with a net loss of ₹902 million in fiscal 2025, but it plans to open five more hospitals in the next six months. Khosla Ventures sees Even’s model as a scalable, outcome‑based alternative to India’s current fee‑for‑service hospital economics.",
-      "key_points": [
-        "Even Healthcare secured a $50M Series B led by Khosla Ventures, valuing the firm at $300M.",
-        "The startup builds its own hospitals, pays doctors fixed salaries, and has achieved <1% readmission and 40% shorter stays.",
-        "Even’s hospitals are profitable, yet the company posted a ₹902M net loss in fiscal 2025 and is expanding rapidly.",
-        "Khosla Ventures views Even’s outcome‑driven model as a scalable alternative to India’s fee‑for‑service hospital system."
-      ],
-      "topics": [
-        "healthcare",
-        "startup",
-        "venturecapital",
-        "india",
-        "hospitalcare"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 07:30:00 +0000",
-      "processed_at": "2026-10-20T23:02:04.529679+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-18-disney-agrees-to-hire-the-majority-of-character-ais-workforce",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-      "title": "Disney agrees to hire the majority of Character AI’s workforce | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Disney has agreed to hire the majority of Character.AI's workforce after the chatbot startup filed for bankruptcy. The deal, revealed in a legal filing, will see Disney make employment offers to at least 60 former Character.AI employees with an estimated $60 million in annual compensation, while the company had previously announced a $20 million asset acquisition. Character.AI's CEO Karandeep Anand has joined Disney as its first CTO, and most of the offered positions were accepted, though the arrangement remains a stalking‑horse bid that could be outbid. The move comes amid Character.AI's financial struggles and regulatory scrutiny over child safety concerns.",
-      "key_points": [
-        "Disney will hire at least 60 former Character.AI employees, representing the majority of the startup’s workforce.",
-        "The agreement includes an estimated $60 million in annual compensation for those hires.",
-        "Character.AI’s CEO Karandeep Anand has joined Disney as its first CTO.",
-        "The deal is a stalking‑horse bid, meaning another company could potentially make a higher offer."
-      ],
-      "topics": [
-        "disney",
-        "character.ai",
-        "ai",
-        "bankruptcy",
-        "employment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "processed_at": "2026-10-20T19:54:46.784685+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-17-replit-is-no-longer-working-with-anthropic-ceo-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Replit has announced that OpenAI’s ChatGPT will become the default AI model on its cloud‑based coding platform, citing lower cost and better performance compared to Anthropic’s Claude models. The company clarified that Anthropic models will still be available, and the partnership is not fully terminated, but OpenAI is now the preferred partner for powering Replit Agent. CEO Amjad Masad highlighted a shift in Replit’s revenue mix, with enterprise contracts rising from 2% to 15% this year and an expectation that over half of revenue will come from enterprise and government customers by 2027. He also stressed the need for robust AI safety measures and infrastructure to support safe deployment of AI agents.",
-      "key_points": [
-        "Replit is defaulting to OpenAI’s ChatGPT over Anthropic, driven by cost and performance advantages",
-        "Anthropic models remain available and the partnership is not fully ended",
-        "Replit’s revenue is increasingly driven by enterprise and B2B contracts, projected to exceed 50% by 2027",
-        "The CEO emphasized the importance of AI safety, orchestration, and sandboxing for secure agent deployment"
-      ],
-      "topics": [
-        "replit",
-        "openai",
-        "anthropic",
-        "ai",
-        "enterprise"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "processed_at": "2026-10-20T19:54:46.737779+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?resize=1200,792",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Amazon has announced it will fund a 960‑megawatt nuclear plant in Indiana, consisting of 12 Xe‑100 small modular reactors supplied by X‑energy and operated by American Electric Power. The company led a $700 million Series C‑1 round in X‑energy in October 2024 and plans to build 5 GW of new nuclear capacity in the U.S. by 2039. The Indiana plant will sit on the site of a demolished coal plant south of Terre Haute, connect to the public grid, and also supply power to Amazon’s data centers. The project’s timeline hinges on X‑energy’s first plant at Seadrift, Texas, which is still awaiting final NRC approval amid a lawsuit over regulatory compliance.\n",
-      "key_points": [
-        "Amazon will fund 12 Xe‑100 SMRs at a former Indiana coal plant, creating a 960‑MW nuclear facility.",
-        "Amazon led a $700 million Series C‑1 investment in X‑energy and aims for 5 GW of nuclear capacity by 2039.",
-        "The Indiana plant will connect to the grid and power Amazon data centers, but its progress depends on X‑energy’s Seadrift project facing legal challenges.",
-        "This deal is three times larger than Amazon’s previous agreement with X‑energy.\n"
-      ],
-      "topics": [
-        "amazon",
-        "nuclear",
-        "small modular reactors",
-        "x‑energy",
-        "energy infrastructure"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 16:55:56 +0000",
-      "processed_at": "2026-10-20T19:54:46.688551+00:00"
     }
   ]
 }
