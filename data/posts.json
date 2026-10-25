@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-10-25T21:07:34.493049+00:00",
+  "updated_at": "2026-10-25T23:27:53.889777+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-24-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "The TechCrunch piece catalogs a growing \"AI graveyard\" of projects and startups that failed to survive, from Relay and Character.ai to high‑profile corporate experiments like OpenAI’s ChatGPT Atlas and Apple’s delayed Siri AI. It notes that roughly 42% of corporate AI initiatives are abandoned, citing funding gaps, technical hurdles, competition, scaling issues, and weak demand. The article highlights that even tech giants have missteps—OpenAI’s failed super‑app redesign, Microsoft’s controversial Recall feature, and Apple’s delayed Siri AI—all of which illustrate the volatility of AI product development. The narrative underscores how larger platforms absorb niche AI tools, leaving many independent ventures to shut down or pivot, and offers lessons for the industry on sustainability and integration.\n",
+      "key_points": [
+        "About 42% of corporate AI initiatives are abandoned due to funding, technical, or demand challenges.",
+        "Even major players like OpenAI, Apple, and Microsoft have experienced product failures or redesign rollbacks.",
+        "Hardware AI attempts such as Humane AI Pin and Rabbit R1 struggled with performance and safety, leading to shutdowns.",
+        "Larger platforms often absorb niche AI products, reducing the viability of standalone startups.\n"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "product",
+        "failure",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "processed_at": "2026-10-25T23:27:48.481155+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-24-the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "The Boox Palma 2 Pro is a $400, smartphone‑sized e‑reader that runs Android and supports Google Play, giving users access to a wide range of apps beyond the built‑in reader. Its front‑lit E Ink display offers adjustable cool or warm lighting and can be dimmed to very low levels, making it comfortable for nighttime reading without disturbing others. We found the device lightweight at 175 g, portable enough to fit in a small purse, and it lasts about 5–7 days on a single charge, though it suffers from noticeable ghosting and slower app performance on E Ink. The Palma 2 Pro targets readers who want a dedicated, app‑friendly reading device instead of a phone, and Boox plans to launch a lower‑priced Palma 3 soon.",
+      "key_points": [
+        "$400 smartphone‑sized e‑reader that runs Android and supports Google Play for app versatility",
+        "Front‑lit E Ink display with adjustable lighting and very low brightness reduces eye strain",
+        "Battery life of 5–7 days, ghosting issues, and slower app performance on E Ink",
+        "Upcoming Palma 3 at $340 with black‑and‑white display",
+        ""
+      ],
+      "topics": [
+        "e-reader",
+        "android",
+        "e-ink",
+        "portability",
+        "battery"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 14:15:00 +0000",
+      "processed_at": "2026-10-25T23:27:48.494863+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-23-vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "At TechCrunch Disrupt, partners from Iconiq and Sapphire Ventures and Superhuman founder Rahul Vohra discussed how product‑market fit has become harder to achieve in the AI era, citing inflated ARR numbers and pilot‑customer hype as red flags. They emphasized the need for honest revenue metrics, customer engagement tracking, and internal metrics like Superhuman’s \"delighted ARR\" to gauge true stickiness. The panel also highlighted green flags such as high retention rates and the importance of pivoting and agility at the seed stage. Even large companies must continually re‑earn product‑market fit through ongoing innovation.",
+      "key_points": [
+        "VCs warn that inflated ARR and pilot‑customer hype can mislead investors about true product‑market fit.",
+        "Superhuman tracks \"delighted ARR\"—ARR from highly engaged users—to assess customer stickiness.",
+        "Seed‑stage founders are judged on their ability to pivot and make hard decisions, not just on a vision.",
+        "Product‑market fit is dynamic and must be re‑earned even for billion‑dollar companies.",
+        ""
+      ],
+      "topics": [
+        "product-market fit",
+        "startup",
+        "venture capital",
+        "ai",
+        "metrics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 20:57:13 +0000",
+      "processed_at": "2026-10-25T23:27:48.285823+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-24-instacart-reportedly-discussed-selling-itself-with-doordash-and-uber",
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
@@ -2419,81 +2496,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 19 Oct 2026 18:49:04 +0000",
       "processed_at": "2026-10-21T18:11:05.964244+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Anthropic and AI infrastructure firm Nscale are reportedly close to finalizing a second $45 billion compute deal, following a similar agreement a little over a month ago. The new partnership would further cement Anthropic’s strategy of securing massive compute resources to fuel its generative‑AI models. Both companies are also preparing for public listings, with Anthropic expected to go public this year and Nscale facing investor pushback over a $30 billion valuation. The escalating spend on compute has drawn criticism from some investors who worry that the costs outweigh the returns, but Anthropic remains confident the investment will pay off.",
-      "key_points": [
-        "Anthropic and Nscale may sign a second $45 billion compute deal",
-        "The deal follows a prior $45 billion agreement, part of Anthropic’s series of large compute partnerships",
-        "Both firms are pursuing IPOs, with Nscale encountering valuation pushback",
-        "Investor concerns about high compute spending persist despite Anthropic’s confidence"
-      ],
-      "topics": [
-        "ai",
-        "compute",
-        "anthropic",
-        "nscale",
-        "ipo"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "processed_at": "2026-10-21T13:05:25.660591+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Town, a San Francisco‑based AI assistant startup, secured a $108 million Series B round that pushed its valuation past the $1 billion unicorn threshold, just four months after its public launch. The funding, co‑led by Forerunner Ventures and Menlo Ventures and joined by Andreessen Horowitz, Serena Ventures and First Round Capital, brings the company’s total capital raised to at least $160 million. Town’s product, called a Townie, gives each employee a personalized AI assistant that connects to emails, calendars and other core work systems, and can now collaborate with customers and share approved information across the organization. In addition to the funding, Town announced a shared workflow that automatically updates employees’ Townies with new business data, eliminating the need for manual updates by each worker.",
-      "key_points": [
-        "Town raised $108 million in Series B, achieving a unicorn valuation within four months of launch",
-        "The company reached millions of annual recurring revenue in weeks after its public debut",
-        "Townies are AI assistants that integrate with business tools and can collaborate with customers and each other",
-        "A new shared workflow feature automates updates to Townies, streamlining information flow"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "unicorn",
-        "business productivity"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 18:00:39 +0000",
-      "processed_at": "2026-10-21T13:05:26.121499+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-19-laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Laplace Intelligence is developing automated red‑teaming tools that use high‑fidelity simulations and AI agents to stress‑test robotics and autonomous systems before they are deployed in the real world. The company, founded by former University of Michigan researchers, leverages a post‑trained version of Nvidia’s Cosmos platform to recreate realistic environments and generate interactive corner cases from real‑world data. Laplace is already generating revenue from autonomous trucking clients such as Bot Auto and a major Japanese automaker, and is partnering with Nvidia and T‑Mobile on a smart‑city pilot in San Jose. The startup will compete in Startup Battlefield 200 at TechCrunch Disrupt, hoping to raise funds and scale its technology to compete with larger players like Applied Intuition.",
-      "key_points": [
-        "Laplace uses AI agents to automatically design corner cases in realistic simulations, moving human testers out of the loop.",
-        "The startup’s high‑fidelity simulation is built on Nvidia’s Cosmos platform and incorporates real‑world map and traffic data.",
-        "Laplace already has paying customers in autonomous trucking and is partnering on a smart‑city pilot with Nvidia and T‑Mobile.",
-        "The company aims to raise capital at TechCrunch Disrupt to transition from project‑based contracts to recurring revenue."
-      ],
-      "topics": [
-        "ai",
-        "robotics",
-        "autonomous vehicles",
-        "simulation",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
-      "processed_at": "2026-10-21T13:05:25.595812+00:00"
     }
   ]
 }

@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-25T21:07:03.070165+00:00",
+  "updated_at": "2026-10-25T23:27:47.079691+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "feed_excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
-    },
-    {
-      "title": "VCs, Superhuman Mail founder share red flags about product market fit",
-      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "feed_excerpt": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
-      "published": "Fri, 23 Oct 2026 20:57:13 +0000"
     },
     {
       "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
@@ -44,22 +38,10 @@
       "published": "Sat, 24 Oct 2026 15:00:00 +0000"
     },
     {
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "feed_excerpt": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-      "published": "Sat, 24 Oct 2026 14:15:00 +0000"
-    },
-    {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "published": "Sat, 24 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "feed_excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "published": "Sat, 24 Oct 2026 19:00:00 +0000"
     },
     {
       "title": "Starlink seems to be working normally again in Ukraine",
@@ -96,7 +78,13 @@
       "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
       "feed_excerpt": "\"That's a 12-year-old view of the world.\"",
       "published": "Sun, 25 Oct 2026 20:20:08 +0000"
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "feed_excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000"
     }
   ],
-  "last_processed_at": "2026-10-25T21:07:19.115772+00:00"
+  "last_processed_at": "2026-10-25T23:27:48.494900+00:00"
 }
