@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:30:26.276912+00:00",
+  "updated_at": "2026-10-25T18:14:38.866805+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -32,22 +32,10 @@
       "published": "Fri, 23 Oct 2026 19:06:23 +0000"
     },
     {
-      "title": "Startups don’t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "feed_excerpt": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "published": "Fri, 23 Oct 2026 23:07:45 +0000"
-    },
-    {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "feed_excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "published": "Fri, 23 Oct 2026 23:05:49 +0000"
-    },
-    {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "feed_excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "published": "Fri, 23 Oct 2026 21:59:19 +0000"
     },
     {
       "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
@@ -114,7 +102,19 @@
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "feed_excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
       "published": "Sun, 25 Oct 2026 14:10:00 +0000"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "feed_excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 25 Oct 2026 16:05:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-25T14:30:57.315027+00:00"
+  "last_processed_at": "2026-10-25T18:14:47.697785+00:00"
 }

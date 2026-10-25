@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-25T14:30:57.361323+00:00",
+  "updated_at": "2026-10-25T18:15:05.012351+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-23-startups-dont-need-to-go-viral-to-win-customers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200,800",
+      "title": "Startups don't need to go viral to win customers | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "At TechCrunch Disrupt, founders argued that startups need not chase viral fame to win customers. They highlighted that influencer marketing must be strategic and tailored to product segments, while traditional sales tactics and personal engagement still drive bookings for many B2B firms. The discussion also stressed the importance of analyzing usage data to identify recurring customers and cultivate brand evangelists. Together, the panel underscored that a balanced, data‑driven approach can outperform a single social‑media focus.",
+      "key_points": [
+        "Influencer marketing works only when creators deeply understand and target specific product segments.",
+        "Traditional sales and in‑person tactics can outperform social media for many B2B startups.",
+        "Analyzing early usage data helps identify recurring customers and build passionate evangelists."
+      ],
+      "topics": [
+        "startup",
+        "marketing",
+        "social media",
+        "customer acquisition",
+        "sales"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 23:07:45 +0000",
+      "processed_at": "2026-10-25T18:14:40.811531+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-23-hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Nvidia CEO Jensen Huang showcased Microducks at GTC Berlin, sparking a viral video of the cute robots waddling, making R2‑D2 noises, and performing voice‑controlled somersaults. The open‑source devices, produced by Pollen Robotics and now part of Nvidia after Hugging Face’s acquisition, already had preorders exceeding 20,000 units and are slated for Christmas delivery. Built on Nvidia’s AI stack, Microducks can perform basic tricks and be re‑trained by owners, with community sharing enabled. The buzz suggests they could become the hottest toy of the holiday season and possibly the best‑selling robot of the year.",
+      "key_points": [
+        "Nvidia CEO Jensen Huang demonstrated Microducks at GTC Berlin, generating viral buzz.",
+        "Preorders surpassed 20,000 units, with delivery targeted for Christmas.",
+        "Microducks are open‑source robots from Pollen Robotics, now part of Nvidia after Hugging Face acquisition.",
+        "They run on Nvidia’s AI stack, allowing owners to train new tricks and share them with the community."
+      ],
+      "topics": [
+        "nvidia",
+        "robotics",
+        "ai",
+        "toy",
+        "hype"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "processed_at": "2026-10-25T18:14:47.697700+00:00"
+    },
     {
       "id": "com-2026-10-22-mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
@@ -2445,56 +2494,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 19 Oct 2026 12:42:55 +0000",
       "processed_at": "2026-10-21T07:17:32.969107+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple has tightened its developer guidelines to ban apps that use AI to generate offensive content and to prevent apps that masquerade as normal during review but later reveal nudification features. The new rules require apps that host user‑generated content to filter objectionable material, provide reporting tools, and allow users to block abusive accounts. Apple will remove any app that adds hidden or undocumented features after approval, and it has reinforced bans on apps that promote human trafficking or child exploitation. The update follows a July San Francisco court order and earlier reports that nudify apps were still available in the App Store.",
-      "key_points": [
-        "Apple bans AI‑generated offensive content and apps that hide nudification features after review",
-        "New guidelines require filtering, reporting, and blocking for user‑generated content",
-        "Apple will remove apps that add hidden features post‑approval",
-        "The move follows a San Francisco court order and prior nudify app reports"
-      ],
-      "topics": [
-        "apple",
-        "app store",
-        "ai",
-        "nudification",
-        "developer guidelines"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 12:56:14 +0000",
-      "processed_at": "2026-10-21T01:52:36.183421+00:00"
-    },
-    {
-      "id": "chcrunch-com-2026-10-18-no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Benchmark announced a $2 billion raise across two funds this summer, marking only the second time in its 31‑year history that the firm has moved away from smaller vehicles. At TechCrunch Disrupt, the firm’s five partners highlighted a deliberate, low‑volume investment approach, making only two or three new bets per partner each year while maintaining a close‑knit, founder‑centric culture. Their Monday meetings run without a formal agenda, allowing the partners to stay reactive and collaborative in a rapidly changing market. The new growth fund expands Benchmark’s mandate beyond early‑stage deals, but the firm remains focused on concentrated, high‑impact investments.\n",
-      "key_points": [
-        "Benchmark raised $2 billion across two funds, the second time in 31 years it has deviated from smaller vehicles",
-        "Partners invest only 2–3 new bets per partner per year, emphasizing a low‑volume, founder‑first strategy",
-        "Meetings are agenda‑free, fostering a collaborative and reactive decision‑making process",
-        "The new growth fund broadens opportunities but still aims for concentrated, high‑impact deals"
-      ],
-      "topics": [
-        "benchmark",
-        "venturecapital",
-        "fundraising",
-        "startupfunding",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 18 Oct 2026 21:00:00 +0000",
-      "processed_at": "2026-10-20T23:02:04.518574+00:00"
     }
   ]
 }
