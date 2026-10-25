@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:05:45.525602+00:00",
+  "updated_at": "2026-10-25T05:07:42.307980+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
       "feed_excerpt": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
       "published": "Thu, 22 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "feed_excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "published": "Fri, 23 Oct 2026 00:45:37 +0000"
     },
     {
       "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
@@ -48,12 +42,6 @@
       "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
       "feed_excerpt": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
       "published": "Fri, 23 Oct 2026 16:26:29 +0000"
-    },
-    {
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "feed_excerpt": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "published": "Fri, 23 Oct 2026 16:20:28 +0000"
     },
     {
       "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
@@ -170,5 +158,5 @@
       "published": "Sat, 24 Oct 2026 20:15:33 +0000"
     }
   ],
-  "last_processed_at": "2026-10-25T00:06:12.448683+00:00"
+  "last_processed_at": "2026-10-25T05:08:07.908675+00:00"
 }

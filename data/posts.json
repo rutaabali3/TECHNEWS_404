@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-25T00:06:13.512557+00:00",
+  "updated_at": "2026-10-25T05:08:13.046653+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-23-commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Commonwealth Fusion Systems received an $85 million award from the U.S. Department of Commerce under the CHIPS Act to develop advanced silicon carbide power electronics and other components for fusion power plants. The funding will support five initiatives, including high‑voltage silicon carbide devices, next‑generation radio‑frequency generators, radiation‑hardened control electronics, and the adaptation of AI hardware such as GPUs and TPUs for fusion facilities. With this investment, CFS aims to make its Sparc reactor more economical and durable, paving the way for a stronger U.S. supply chain and the deployment of multiple commercial fusion power plants.",
+      "key_points": [
+        "$85M CHIPS Act award to Commonwealth Fusion Systems for fusion‑ready semiconductors",
+        "Funding targets silicon carbide power electronics, RF generators, radiation‑hardened control electronics, and AI hardware adaptation",
+        "Goal is to enable more durable, economical fusion power plants and strengthen the U.S. supply chain",
+        "CFS plans to turn on its Sparc reactor next year"
+      ],
+      "topics": [
+        "fusion",
+        "semiconductors",
+        "chips act",
+        "energy",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 16:20:28 +0000",
+      "processed_at": "2026-10-25T05:08:07.908597+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+      "title": "Left alone with nothing to do, AI agents started playing | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "MIT researchers released 13 Claude Opus 4.7 AI agents, dubbed Eko, onto a simulated desert island for 30 hours with no explicit goals. During the free‑play period the agents invented games, built structures, and discovered new ways to manipulate objects, demonstrating behaviors that resemble human play. After the experiment, the same agents performed better on targeted tasks—such as stacking blocks on a spire—than identical agents that had never explored the island. The study suggests that unsupervised exploration can teach AI skills that might later transfer to robotics and other domains.",
+      "key_points": [
+        "13 Claude Opus 4.7 agents were left to explore a virtual island for 30 hours without tasks",
+        "The agents invented games and discovered new manipulation strategies, showing play‑like behavior",
+        "Post‑exploration, the agents outperformed counterparts on specific challenges, indicating learning from play",
+        "The findings imply unsupervised exploration could be a new training regime for AI and robotics"
+      ],
+      "topics": [
+        "ai",
+        "research",
+        "play",
+        "robotics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "processed_at": "2026-10-25T05:07:43.843411+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-22-as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
@@ -2440,56 +2489,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 14 Oct 2026 11:00:00 +0000",
       "processed_at": "2026-10-20T15:47:16.379558+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-17-meta-removes-language-that-raised-scraping-and-ai-training-concerns",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "title": "Meta removes language that raised scraping and AI training concerns | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Meta updated its commercial terms of use to allow the company to use content from business account domains, web pages, or URLs for product development, research, training, and maintenance of its services. Legal experts interpreted this clause as a potential permission for Meta to scrape publisher websites and use the material to train its AI models, raising concerns about copyright and data usage. Meta stated that the update did not alter its web‑crawling practices, but The Verge later reported that the clause has been removed from the terms. The episode underscores the ongoing debate over AI training data and the legal boundaries of web scraping.",
-      "key_points": [
-        "Meta added a clause permitting use of business account domain content for AI training and product development.",
-        "Legal experts warned the clause could enable broad web scraping of publisher sites.",
-        "Meta clarified the update did not change its crawling behavior.",
-        "The clause was subsequently removed from the commercial terms of use."
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "copyright",
-        "webscraping",
-        "terms"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
-      "processed_at": "2026-10-20T15:47:16.295018+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Anthropic’s latest internal report shows a shift toward a more experienced workforce, with junior technical hires falling from 27% to 9% and overall junior staff dropping from 21% to 14% since early 2025. The company’s technical teams now make up only 56% of its employees, a decline attributed to business‑function expansion and coding tools that enable non‑technical staff to build software. Meeting time has risen 20% overall and 16% for technical contributors, as employees cite the need for human trust and accountability when coordinating Claude‑generated outputs. While Claude has increased productivity—more code per person, higher sales per rep, and faster contract processing—employees report a bottleneck in reviewing the large volume of text it produces, indicating that human attention remains a limiting factor.",
-      "key_points": [
-        "Junior technical hires dropped from 27% to 9% and overall junior staff from 21% to 14% since early 2025",
-        "Meeting time per employee rose 20% (16% for technical staff) as coordination around Claude becomes essential",
-        "Claude boosts productivity but creates an attention bottleneck as employees must sift through its output",
-        "Technical teams now represent 56% of the workforce, reflecting a shift toward business functions and non‑technical coding tools"
-      ],
-      "topics": [
-        "ai",
-        "workforce",
-        "productivity",
-        "meetings",
-        "hiring"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 17 Oct 2026 20:21:19 +0000",
-      "processed_at": "2026-10-20T15:47:16.113212+00:00"
     }
   ]
 }
