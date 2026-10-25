@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-25T18:14:38.866805+00:00",
+  "updated_at": "2026-10-25T21:07:03.070165+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "feed_excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "feed_excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "published": "Fri, 23 Oct 2026 04:00:00 +0000"
     },
     {
       "title": "VCs, Superhuman Mail founder share red flags about product market fit",
@@ -30,24 +24,6 @@
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "feed_excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
       "published": "Fri, 23 Oct 2026 19:06:23 +0000"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "feed_excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "published": "Fri, 23 Oct 2026 23:05:49 +0000"
-    },
-    {
-      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-      "feed_excerpt": "Instacart might sell itself to a larger competitor.",
-      "published": "Sat, 24 Oct 2026 16:30:00 +0000"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "feed_excerpt": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "published": "Sat, 24 Oct 2026 16:00:00 +0000"
     },
     {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
@@ -114,7 +90,13 @@
       "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 25 Oct 2026 16:05:00 +0000"
+    },
+    {
+      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "feed_excerpt": "\"That's a 12-year-old view of the world.\"",
+      "published": "Sun, 25 Oct 2026 20:20:08 +0000"
     }
   ],
-  "last_processed_at": "2026-10-25T18:14:47.697785+00:00"
+  "last_processed_at": "2026-10-25T21:07:19.115772+00:00"
 }
