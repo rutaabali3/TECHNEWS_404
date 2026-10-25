@@ -1,65 +1,11 @@
 {
-  "updated_at": "2026-10-24T21:46:30.980874+00:00",
+  "updated_at": "2026-10-25T00:05:45.525602+00:00",
   "items": [
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "feed_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000"
-    },
-    {
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "feed_excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "published": "Thu, 22 Oct 2026 13:11:13 +0000"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "feed_excerpt": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000"
-    },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "feed_excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "feed_excerpt": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "title": "Tesla is prepping a Cybercab onslaught",
-      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "feed_excerpt": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-      "published": "Thu, 22 Oct 2026 15:44:39 +0000"
-    },
-    {
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "feed_excerpt": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-      "published": "Thu, 22 Oct 2026 22:34:54 +0000"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "feed_excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "published": "Thu, 22 Oct 2026 22:08:24 +0000"
-    },
-    {
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "feed_excerpt": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "published": "Thu, 22 Oct 2026 21:05:05 +0000"
-    },
-    {
-      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "feed_excerpt": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
-      "published": "Thu, 22 Oct 2026 20:01:51 +0000"
     },
     {
       "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
@@ -224,5 +170,5 @@
       "published": "Sat, 24 Oct 2026 20:15:33 +0000"
     }
   ],
-  "last_processed_at": "2026-10-24T21:46:52.237124+00:00"
+  "last_processed_at": "2026-10-25T00:06:12.448683+00:00"
 }

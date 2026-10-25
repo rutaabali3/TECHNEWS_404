@@ -1,7 +1,231 @@
 {
-  "updated_at": "2026-10-24T21:46:58.168214+00:00",
+  "updated_at": "2026-10-25T00:06:13.512557+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-22-as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Andreessen Horowitz announced that its digital asset unit, formerly known as a16z Crypto, will be renamed a16z Frontier, signaling a shift away from a narrow focus on crypto toward a broader mandate that includes AI, robotics, and new network technologies. The rebranded team, led by Chris Dixon, will still explore blockchain’s potential to provide native economic capabilities for emerging networks. Since its 2018 launch, the unit has raised almost $10 billion across five funds and backed high‑profile successes such as Coinbase. The change comes as the firm’s crypto strategy faces a decline in investor enthusiasm and a key partner, Ali Yahya, has departed the firm.",
+      "key_points": [
+        "a16z rebrands a16z Crypto to a16z Frontier",
+        "the new focus expands beyond crypto to AI, robotics, and new networks",
+        "the unit has raised nearly $10 billion and backed major wins like Coinbase",
+        "Chris Dixon remains lead while Ali Yahya has left the firm"
+      ],
+      "topics": [
+        "venture capital",
+        "blockchain",
+        "ai",
+        "technology",
+        "startup funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 22:34:54 +0000",
+      "processed_at": "2026-10-25T00:05:58.206782+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "OpenAI is reportedly close to securing a $30 billion private funding round that would value the company at $1.25 trillion, a pre‑money figure that would make it the most valuable private firm ever. The round is led by Coatue and includes investors from the UAE, who may also provide additional computing capacity. The deal would likely postpone or replace the company’s planned IPO, which was filed in June after a March raise that valued OpenAI at $852 billion post‑money. The move also raises the bar for competitors such as Anthropic, which is eyeing a $1.5‑to‑2 trillion valuation for its own public debut.",
+      "key_points": [
+        "OpenAI is close to raising $30 billion at a $1.25 trillion valuation",
+        "UAE investors may also secure additional computing capacity for OpenAI",
+        "The funding round could delay or replace OpenAI’s planned IPO",
+        "Anthropic’s IPO prospects are affected by the new valuation benchmark"
+      ],
+      "topics": [
+        "openai",
+        "funding",
+        "valuation",
+        "ipo",
+        "anthropic"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "processed_at": "2026-10-25T00:05:47.222255+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Rivian has acquired UK startup Third Dimension, a 15‑person AI firm that turns images and videos into realistic 3D worlds, to accelerate its autonomous driving efforts. The deal expands Rivian’s AI hub in London and adds the team to its autonomy group led by James Philbin. Third Dimension’s technology will help Rivian create more accurate simulations, narrowing the sim‑to‑real gap for training and validating self‑driving systems. Rivian plans to roll out full‑autonomous robotaxis in its R2 SUV on the Uber app by 2028.",
+      "key_points": [
+        "Rivian bought Third Dimension to boost autonomous driving simulation capabilities",
+        "Third Dimension’s AI turns real‑world data into realistic 3D worlds, reducing the sim‑to‑real gap",
+        "The acquisition expands Rivian’s AI presence in London and adds 15 experts",
+        "Rivian aims to deploy fully autonomous robotaxis in its R2 SUV by 2028"
+      ],
+      "topics": [
+        "rivian",
+        "autonomous vehicles",
+        "ai",
+        "simulation",
+        "robotaxi"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 21:05:05 +0000",
+      "processed_at": "2026-10-25T00:06:12.448602+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/arc-search-call.png?resize=1200,675",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "The Browser Company will retire its design‑focused Arc browser on December 22, 2026, redirecting users to its new AI‑first browser Dia. The decision follows rising security costs in the AI era and a staged wind‑down that began with the halt of new Arc accounts, the removal of AI features on November 23, and the complete shutdown of Arc on Mac and Windows on December 22. Dia, built on the same proprietary Arc Development Kit, promises comparable features such as Profiles, vertical tabs, and seamless transfer of passwords, bookmarks, and extensions, while keeping AI optional. The move marks the end of a project that, despite a passionate niche following, never achieved mainstream adoption after Atlassian’s $610 million acquisition in 2025.",
+      "key_points": [
+        "Arc will be discontinued on December 22, 2026, with users directed to Dia",
+        "The wind‑down is staged: no new accounts, AI features removed on Nov 23, full shutdown on Dec 22",
+        "Dia shares core features and the same ADK engine, but open‑source is not feasible",
+        "Arc never reached mass‑market adoption despite Atlassian’s 2025 acquisition"
+      ],
+      "topics": [
+        "browser",
+        "ai",
+        "security",
+        "open-source",
+        "atlassian"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 20:01:51 +0000",
+      "processed_at": "2026-10-25T00:05:47.100342+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI has made its Decisions API model widely available, offering inference times as low as 100–180 milliseconds and lower costs compared to traditional large language models. The launch follows the success of TypeSafe’s Jev model, which has dominated public benchmarks and attracted customers such as Box, Datadog, and Ramp. Early adopters report dramatic speedups—Speak cut response times from 1.4 seconds to 0.13 seconds—while OpenAI also added voice and visual modalities to the public version. The new API opens possibilities for real‑time, high‑frequency decision tasks, such as per‑frame video analysis, and signals a broader shift toward fast, cheap intelligence in AI workflows.",
+      "key_points": [
+        "OpenAI’s Decisions API now publicly available with sub‑200 ms inference and lower cost than LLMs",
+        "TypeSafe’s Jev model leads benchmarks but OpenAI’s model is already adopted by major customers",
+        "Speed gains enable new use cases like real‑time video frame decisions",
+        "Multi‑modal support and cost efficiency make decision models attractive for developers"
+      ],
+      "topics": [
+        "openai",
+        "decision models",
+        "jevs",
+        "api",
+        "multimodal"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "processed_at": "2026-10-25T00:05:46.911096+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-uber-puts-all-30000-employees-on-chatgpt-work",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Uber has announced that all 30,000 employees worldwide will now have access to ChatGPT Work, expanding the enterprise AI tool it piloted earlier this year with a 1,000‑person cohort. The pilot, which included finance, operations, and product teams, showed that 80% of early adopters were non‑engineers who used the tool for data analysis, training localization, and dashboard creation. Uber has not yet defined a fixed usage model, instead opting to let teams experiment and then track how the tool is used to inform future AI strategy. The rollout was made possible through close collaboration with OpenAI, which is rapidly scaling its enterprise offerings amid competition from companies like Anthropic.",
+      "key_points": [
+        "Uber expands ChatGPT Work to its entire 30,000‑person workforce",
+        "The initial pilot involved 1,000 employees across finance, operations, and product, with 80% non‑engineers using the tool",
+        "Uber will monitor usage and outcomes to guide future AI deployment across the company",
+        "OpenAI partnered closely on integration as it competes with Anthropic in the enterprise AI market"
+      ],
+      "topics": [
+        "uber",
+        "chatgpt",
+        "ai",
+        "enterprise",
+        "openai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-25T00:05:46.996455+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-tesla-is-prepping-a-cybercab-onslaught",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
+      "title": "Tesla is prepping a Cybercab onslaught | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla is expanding its Cybercab robotaxi service beyond Austin, beginning in Dallas next month and targeting additional cities by year‑end, with plans to sell Cybercabs to fleet operators by the end of 2024. CFO Vaibhav Taneja emphasized that the Cybercab is inexpensive and quick to manufacture, positioning Tesla to undercut Waymo’s higher‑priced robotaxis. The company faces regulatory hurdles, including an NHTSA investigation over safety‑standard compliance, which could slow deployment. Tesla expects the robotaxi business to become a noticeable revenue stream only by Q3/Q4 of 2027.",
+      "key_points": [
+        "Cybercab rollout starts in Dallas next month and will expand to other cities by year‑end",
+        "Tesla claims the Cybercab is cheaper and easier to build, aiming to undercut Waymo",
+        "Regulatory and safety compliance issues, such as the NHTSA investigation, could delay deployment",
+        "Robotaxi revenue is projected to become significant only by Q3/Q4 2027"
+      ],
+      "topics": [
+        "tesla",
+        "robotaxi",
+        "cybercab",
+        "waymo",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 15:44:39 +0000",
+      "processed_at": "2026-10-25T00:05:47.038463+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-claude-duet-app-is-anthropics-bet-on-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+      "title": "Claude Duet app is Anthropic's bet on agents | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Anthropic has launched Claude Duet, a new AI agent aimed at professionals and small businesses that can automate tasks, generate daily briefings, and build dashboards. Built on the Claude Opus 5.5 model, Duet can connect to over 6,000 plug‑ins in the Claude Marketplace and even make online purchases through Stripe Link or Shopify Shop Pay, though it requires user approval for sensitive steps and does not trade securities. The app distinguishes itself from personal assistants like Instinct by focusing on business workflows rather than errands, and it is available on iOS, Android, and the web for Pro and Max customers who must join a waitlist to try it.",
+      "key_points": [
+        "Claude Duet is Anthropic’s entry into the agent market, targeting professionals and small businesses with task automation and dashboard creation.",
+        "It runs on Claude Opus 5.5, supports 6,000+ connectors, and can make purchases via Stripe or Shopify with user approval.",
+        "The agent does not handle personal errands or securities trading, setting it apart from other personal assistants."
+      ],
+      "topics": [
+        "ai",
+        "assistant",
+        "business",
+        "anthropic",
+        "claude"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
+      "processed_at": "2026-10-25T00:05:46.856350+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-22-deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions | TechCrunch",
+      "author": "Kate Park",
+      "summary": "DeepSeek, a Hangzhou‑based AI startup, secured roughly $15 billion (about 100 billion yuan) in a funding round that followed a U.S. federal order to remove its technology from civilian agencies, marking one of China’s largest AI investments. The round attracted major Chinese firms such as battery maker CATL and Tencent, and follows earlier raises of $7 billion in June and a $1.5 billion bid in July that pushed the company’s valuation toward $71 billion. With plans for a potential IPO in China next year, DeepSeek is expanding its AI infrastructure and open‑model offerings for both domestic and international markets, intensifying competition among Chinese rivals. The deal underscores the global scramble for AI dominance, as investors pour billions into Chinese AI firms to keep pace with U.S. competitors.",
+      "key_points": [
+        "DeepSeek raised about $15 billion after a U.S. ban on its technology",
+        "Investors include CATL and Tencent, among others",
+        "Previous rounds in June and July pushed valuation to roughly $71 billion",
+        "The funding fuels expansion and heightens competition among Chinese AI firms"
+      ],
+      "topics": [
+        "ai",
+        "china",
+        "funding",
+        "startup",
+        "geopolitics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 13:11:13 +0000",
+      "processed_at": "2026-10-25T00:05:46.866509+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-22-former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
       "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
@@ -2266,228 +2490,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 17 Oct 2026 20:21:19 +0000",
       "processed_at": "2026-10-20T15:47:16.113212+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-17-embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Ember has released its third‑generation temperature‑controlled mug, the Mug 3, which adds on‑mug button controls and a sliding lid, and can keep drinks hot for up to three hours on a single charge. The new mug eliminates the need to open the app to adjust temperature, letting users cycle through five preset temperatures from 125°F to 145°F with a button on the bottom. It is available in 10‑ounce ($129) and 14‑ounce ($149) sizes, comes in multiple colors, and is the first Ember mug that is top‑rack dishwasher‑safe. Alongside the mug, Ember also launched the Tumbler 2, a 16‑ounce travel mug priced at $179, expanding its lineup of smart drinkware.",
-      "key_points": [
-        "Mug 3 adds a bottom‑mounted button that cycles through five preset temperatures, removing the need for app interaction.",
-        "The mug can maintain temperature for up to three hours on a single charge and is top‑rack dishwasher‑safe.",
-        "It is available in 10‑oz ($129) and 14‑oz ($149) sizes, with a range of color options."
-      ],
-      "topics": [
-        "smart mug",
-        "temperature control",
-        "drinkware",
-        "consumer electronics",
-        "emerging tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 17 Oct 2026 15:30:00 +0000",
-      "processed_at": "2026-10-20T15:47:16.284212+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-10-16-mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Mark Wahlberg is launching Municipal Gym, a 32,000-square-foot club in Las Vegas that opens in December and offers diagnostics, recovery gear, a café, and a community‑focused wellness experience at a lower price point than high‑end longevity clubs. The gym builds on his earlier Municipal apparel line and reflects his desire to impact health beyond apparel, providing blood work, doctor consultations, supplements, and hormone therapy for about $99 a month. Wahlberg plans aggressive expansion, citing favorable landlord terms and a vision of a wellness ecosystem that contrasts with the “join‑up but don’t show up” model of many gyms. The venture signals his shift from acting to health entrepreneurship, aiming to inspire underserved youth while keeping the brand’s public‑service ethos.",
-      "key_points": [
-        "Wahlberg’s Municipal Gym will open in December in Las Vegas, offering diagnostics, recovery tools, and a café at a lower price point than luxury longevity clubs.",
-        "The gym is part of a broader Municipal ecosystem that began with a sportswear line and now includes supplements, hormone therapy, and a community‑focused wellness model.",
-        "Wahlberg plans aggressive expansion, leveraging favorable landlord terms and a vision to inspire underserved youth and create a supportive fitness community."
-      ],
-      "topics": [
-        "fitness",
-        "wellness",
-        "entrepreneurship",
-        "healthcare",
-        "luxury-gym"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 17 Oct 2026 02:36:18 +0000",
-      "processed_at": "2026-10-20T15:47:46.001348+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-replit-is-no-longer-working-with-anthropic-ceo-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Replit has shifted its default AI model from Anthropic to OpenAI, citing cost, performance, and partnership strength. CEO Amjad Masad announced at TechCrunch Disrupt that while Anthropic models remain available, ChatGPT will be the default for Replit Agent. The move follows an August partnership with OpenAI and reflects Replit’s broader strategy to grow enterprise revenue, which now accounts for a larger share of its business. Despite the change, Replit remains model‑agnostic and continues to support Anthropic’s Claude models for users who choose them.",
-      "key_points": [
-        "Replit will use OpenAI’s ChatGPT as the default model, though Anthropic models stay available.",
-        "The switch is driven by cost savings, better performance on benchmarks, and a stronger partnership with OpenAI.",
-        "Enterprise contracts now represent a growing portion of Replit’s revenue, projected to dominate by 2027.",
-        "Replit maintains a model‑agnostic stance, allowing users to select from Claude, OpenAI, and other supported models."
-      ],
-      "topics": [
-        "replit",
-        "openai",
-        "anthropic",
-        "ai",
-        "enterprise"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "processed_at": "2026-10-20T15:47:16.356188+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-      "title": "In 'You Can See Everything,' Elizabeth Holmes meets her equal in comedian Nathan Fielder | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Nathan Fielder and director Lance Oppenheim filmed a docu‑reality project that followed Elizabeth Holmes in the month before she began her 11‑year prison sentence, aiming to document her final days of freedom and reshape her public image. The film interweaves Holmes’ own attempts to exonerate herself—through an A24 partnership and an AI avatar of her created by her husband—with the meta‑layer of actress Amanda Seyfried, who portrays Holmes in the Hulu miniseries \"The Dropout\". By juxtaposing Holmes’ real‑world testimony, her staged reactions to Seyfried’s portrayal, and the legal context of her trial, the documentary exposes the blurred line between her constructed persona and the facts of her fraud. The result is a commentary on how media, performance, and legal narratives collide to shape public perception of a controversial figure.",
-      "key_points": [
-        "Fielder and Oppenheim filmed Holmes in a docu‑reality project during the last month of her freedom to document her final days",
-        "Holmes and her husband used an A24 partnership and an AI avatar to shape her narrative, while actress Amanda Seyfried’s portrayal of her in \"The Dropout\" adds a meta layer",
-        "The film highlights the blurred line between Holmes’ constructed persona and the facts of her fraud, questioning her innocence",
-        "The documentary shows how media, performance, and legal contexts collide to influence public perception"
-      ],
-      "topics": [
-        "documentary",
-        "theranos",
-        "elizabeth holmes",
-        "nathan fielder",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-20T15:47:16.237710+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-porsches-electric-macan-turbo-is-an-automotive-existential-crisis",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "The 2026 Porsche Macan Turbo EV is a high‑performance two‑row crossover that blends sports‑car acceleration with SUV practicality, yet its styling and option overload raise questions about its identity. With 630 horsepower, a 100‑kWh battery, and a 285‑mile range, the car can sprint from 0 to 60 mph in under four seconds while still offering a comfortable, family‑friendly interior. The price starts at $112,700 but can climb to $149,610 with options, making it one of the most expensive EVs on the market. Despite its impressive specs, the Macan’s navigation and charging guidance can be confusing, and many optional features add little value for most buyers.",
-      "key_points": [
-        "The Macan Turbo EV delivers sports‑car performance in a crossover body, with 630 hp and 285‑mile range.",
-        "Its price can exceed $150,000 when fully equipped, far above comparable EVs like the Chevy Bolt.",
-        "Charging is fast—20 minutes from 19% to 80% on a 350‑kW charger—but the navigation system can misdirect users to slower chargers.",
-        "Many optional features, such as the Turbo badge and illuminated logos, add little practical benefit and inflate cost."
-      ],
-      "topics": [
-        "electric vehicles",
-        "porsche",
-        "sports car",
-        "luxury",
-        "automotive"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 19:40:00 +0000",
-      "processed_at": "2026-10-20T11:10:12.725466+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Elorian, a Palo Alto AI startup, has launched its first multimodal model, Glimpse, which is designed to reason with images by repeatedly accessing the source rather than converting to text tokens. The model, trained on a few hundred GPUs, offers a visual scratch space that allows it to crop, zoom, and run code during reasoning, and it is priced at $0.60 per million input tokens and $3 per million output tokens. Benchmarks show Glimpse outperforms GPT‑6 Astra on scientific chart reasoning and short‑form video captioning while remaining smaller and cheaper than many frontier systems. Elorian plans to target video‑heavy industries and eventually extend the model to control robots, aiming to build the world’s best visual reasoning model next year.",
-      "key_points": [
-        "Glimpse uses a visual scratch space to repeatedly access and manipulate image data during reasoning",
-        "The model is smaller and cheaper than many frontier multimodal systems, costing $0.60/million input and $3/million output tokens",
-        "It outperforms GPT‑6 Astra on scientific chart reasoning and short‑form video captioning",
-        "Elorian targets video‑heavy companies and plans to add robotic control capabilities in the future"
-      ],
-      "topics": [
-        "ai",
-        "multimodal",
-        "visual reasoning",
-        "startup",
-        "robotics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "processed_at": "2026-10-20T11:09:39.655108+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-replits-ceo-says-the-future-of-work-is-the-self-driving-company",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
-      "title": "Replit's CEO says the future of work is the 'self-driving company' | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Replit co‑founder Amjad Masad told TechCrunch Disrupt that the rise of AI is turning companies into \"self‑driving\" organizations where agents handle routine tasks and humans focus on judgment and design. He explained how Replit’s own support workflow now begins with an AI agent triaging tickets, letting staff make higher‑level decisions and deploy fixes with a single click. Masad emphasized that AI will not replace people but shift their work toward architecture, strategy, and creativity, making jobs less boring and more productive. The CEO also noted that conversations with other businesses center on using AI to boost employee happiness and efficiency rather than merely cutting costs.",
-      "key_points": [
-        "Replit’s support system now uses AI agents to triage tickets before human intervention",
-        "AI shifts human work toward higher‑level design and decision‑making rather than replacing it",
-        "Masad envisions a future where companies are \"self‑driving\" with agents handling routine tasks"
-      ],
-      "topics": [
-        "ai",
-        "future of work",
-        "replit",
-        "self-driving company",
-        "automation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 12:55:09 +0000",
-      "processed_at": "2026-10-20T11:09:39.202451+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-15-tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Tesla unveiled its redesigned second‑generation Roadster featuring SpaceX‑powered cold‑gas thrusters that allow the car to perform aerial flips, spin, and lift itself over other Tesla models during a live demo outside Waco, Texas. The vehicle can accelerate from 0 to 60 mph in one second, reach speeds over 230 mph, and offers a 300‑mile range across three trims—Performance, Thrust, and Rocket—priced at $50,000, $250,000, and invite‑only, respectively. Production is slated for 2028 after a series of delays, and Musk frames the Roadster as a halo car that prioritizes spectacle over immediate revenue. The design draws inspiration from high‑speed aircraft and James Bond cars, positioning the Roadster as a futuristic, high‑performance statement vehicle.",
-      "key_points": [
-        "Tesla’s second‑generation Roadster uses SpaceX cold‑gas thrusters to achieve 0‑60 mph in one second and perform aerial maneuvers during a live demo",
-        "Three trims—Performance, Thrust, Rocket—offer 300‑mile range, 230+ mph, and prices of $50,000, $250,000, with Rocket being invite‑only",
-        "The vehicle will be produced in 2028 after repeated delays, and Musk markets it as a halo car rather than a revenue driver",
-        "The design is inspired by aircraft and James Bond cars, emphasizing futuristic aesthetics and high performance"
-      ],
-      "topics": [
-        "tesla",
-        "roadster",
-        "spacex",
-        "electric vehicles",
-        "automotive innovation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 01:17:43 +0000",
-      "processed_at": "2026-10-20T11:09:39.716253+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals | TechCrunch",
-      "author": "Kate Park",
-      "summary": "Intero Biosystems, a Denver‑based startup spun out of the University of Michigan, is selling 1‑millimeter human intestinal organoids called GastroScreen to replace animal models in drug testing. The company has raised $2.3 million in pre‑seed funding, generated over $400,000 in revenue in its first year, and is in the second stage of a three‑stage validation process that has already shown expected responses to known gut‑targeted drugs. FDA guidance issued this year encourages the use of non‑animal methods, boosting interest from pharma and giving Intero a window to scale production to hundreds of thousands of organoids per batch. Competitors such as Altis Biosystems and InSphero also offer gut models, but Intero differentiates itself with iPSC‑derived, scalable, and potentially personalized organoids that can be shipped directly to customers.\n",
-      "key_points": [
-        "Intero sells 1‑mm human intestinal organoids (GastroScreen) to replace animal testing in drug development.",
-        "FDA’s 2024 guidance on non‑animal methods has increased pharma interest in organoid technologies.",
-        "Intero is in the second validation stage, demonstrating expected drug responses and planning to scale to hundreds of thousands per batch.",
-        "The company differentiates itself with iPSC‑derived organoids that allow personalization and easier scaling compared to tissue‑derived competitors."
-      ],
-      "topics": [
-        "organ-on-a-chip",
-        "drug testing",
-        "animal testing alternatives",
-        "regulatory guidance",
-        "stem cells"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 23:00:00 +0000",
-      "processed_at": "2026-10-20T05:53:46.749629+00:00"
     }
   ]
 }
