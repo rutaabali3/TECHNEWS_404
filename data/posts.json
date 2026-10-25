@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-25T05:08:13.046653+00:00",
+  "updated_at": "2026-10-25T10:02:44.820117+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-23-what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
+      "title": "What some of Anthropic’s backers are worth before its IPO | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Anthropic is slated to go public this year with a potential valuation of up to $2 trillion, turning early investors into multimillionaires. At its latest private valuation of $965 billion, major backers such as Coatue, Eric Schmidt, Iconiq, and Sequoia already hold stakes worth between $7 billion and $17 billion. The article details how each investor’s contribution—ranging from a $4.75 billion investment by Coatue to a $3 billion bet by Sequoia—has translated into multi‑billion‑dollar holdings. These figures underscore the massive upside for venture capital firms as Anthropic prepares for its IPO.",
+      "key_points": [
+        "Coatue’s $4.75 billion stake is now worth roughly $7.5 billion",
+        "Eric Schmidt owns about 1% of Anthropic, worth nearly $10 billion",
+        "Iconiq’s $6 billion check is now valued at $17 billion",
+        "Sequoia’s $3 billion investment has more than doubled in value"
+      ],
+      "topics": [
+        "anthropic",
+        "ipo",
+        "venturecapital",
+        "ai",
+        "valuation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 16:02:43 +0000",
+      "processed_at": "2026-10-25T10:02:16.485087+00:00"
+    },
+    {
+      "id": "-2026-10-23-lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
+      "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Quest Diagnostics confirmed a cyberattack on its Quanum lab‑testing platform, exposing an unspecified amount of patient health and billing data. The breach, disclosed in an SEC 8‑K filing, involved unauthorized access to certain patient records and prompted the company to notify law enforcement and launch an investigation. Quest’s incident follows a string of high‑profile healthcare data breaches this year, underscoring the sector’s vulnerability to financially motivated cybercriminals. The company has not yet disclosed the number of affected patients or whether a ransom demand has been made.",
+      "key_points": [
+        "Quest Diagnostics’ Quanum system was targeted, compromising patient health and billing records.",
+        "The breach was reported in an SEC 8‑K filing and the company is investigating with law enforcement.",
+        "It is the second major data breach for Quest in a decade, after a 2019 loss of 11.9 million records.",
+        "The incident highlights the growing trend of cyberattacks on healthcare providers and the risk of ransom demands."
+      ],
+      "topics": [
+        "healthcare",
+        "cybersecurity",
+        "data breach",
+        "quest diagnostics",
+        "healthtech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 15:00:09 +0000",
+      "processed_at": "2026-10-25T10:02:16.411249+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-23-commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
@@ -2445,50 +2495,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 19 Oct 2026 16:55:56 +0000",
       "processed_at": "2026-10-20T19:54:46.688551+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-16-tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Tressfecta, founded by Aisata Diallo, is developing a device called Plait Pilot that automates the hair‑separation step before braiding, a process that can take hours and cause physical strain for stylists. Diallo, a lifelong braider who stopped due to the toll on her body, built the prototype after noticing a lack of tools for textured hair. The company is still pre‑launch, bootstrapped and seeking fundraising, and it showcased the prototype at TechCrunch Disrupt to gather feedback from professional braiders.",
-      "key_points": [
-        "Tressfecta’s Plait Pilot automates hair separation to speed up braiding and reduce physical strain on stylists",
-        "Founder Aisata Diallo created the device after experiencing pain from manual braiding",
-        "The product is still in prototype, pre‑launch, and the company is preparing to raise funds",
-        "Tressfecta presented its prototype at TechCrunch Disrupt and is engaging stylists for testing"
-      ],
-      "topics": [
-        "haircare",
-        "beautytech",
-        "hardware",
-        "startup",
-        "texturedhair"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-20T19:54:46.345543+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-14-scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
-      "title": "Scimplify raises $25M to challenge China's grip on critical materials with AI | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Scimplify, an Indian AI‑driven specialty‑chemicals startup, closed a $25 million all‑equity round led by Hitachi Ventures with new investors Henkel and Teknor Apex, valuing the company at $250 million. The funding will accelerate its Scinode platform, which can deliver custom materials in about two months—far faster than the typical 12‑18‑month timeline—by mapping production routes and quality requirements across a network of 500+ facilities. Scimplify is targeting $400 million in annualized revenue, expanding its manufacturing footprint to the U.S. and Japan, and focusing on critical materials such as tungsten derivatives and rare‑earths to reduce dependence on China. The company’s current run rate is $200 million, already EBITDA‑positive, and it serves over 1,000 customers in more than 40 countries.\n",
-      "key_points": [
-        "$25 million all‑equity round led by Hitachi Ventures values Scimplify at $250 million",
-        "Scinode AI platform cuts material development time from 12‑18 months to about two months",
-        "Company focuses on critical materials like tungsten derivatives and rare‑earths to diversify supply chains away from China",
-        "Scimplify’s annualized revenue run rate is $200 million, targeting $400 million and is EBITDA‑positive"
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "processed_at": "2026-10-20T15:47:16.379558+00:00"
     }
   ]
 }
