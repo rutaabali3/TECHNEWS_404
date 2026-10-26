@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-26T14:58:45.341663+00:00",
+  "updated_at": "2026-10-26T20:25:22.024858+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-24-php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "PHP2Shell, a pair of critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) in the widely used PHP language, were discovered and publicly patched on Wednesday, allowing unauthenticated remote code execution on millions of web‑facing servers. The bugs prompted major sites—including banks, retailers, gaming platforms, hospitals, and government agencies—to shut down or temporarily disable services while applying the fixes. Amazon reported that the exploits were already in use about a week before the patches were released, suggesting a possible leak or early knowledge of the flaws. Security researchers at Calif used AI assistance to uncover the bugs, highlighting how artificial intelligence may accelerate future vulnerability discovery and exploitation.",
+      "key_points": [
+        "PHP2Shell vulnerabilities enable unauthenticated remote code execution on PHP‑based sites",
+        "Patches were released Wednesday, but many sites remain unpatched and have shut down services",
+        "Amazon detected exploitation a week before the public patch, indicating a potential leak",
+        "AI-assisted research helped discover the bugs, pointing to future AI‑driven vulnerability discovery"
+      ],
+      "topics": [
+        "php",
+        "websecurity",
+        "remote code execution",
+        "ai",
+        "vulnerabilities"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 15:30:00 +0000",
+      "processed_at": "2026-10-26T20:24:57.421592+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-9.44.29-AM.png?resize=1200,792",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Apple announced a new iPad mini featuring an 8.5‑inch OLED display with a peak brightness of 1,200 nits and a 2,000,000:1 contrast ratio, making it ideal for both bright and dim environments. The tablet is thinner and lighter than its predecessor and is powered by the A20 Pro chip, which delivers up to 60% faster multithreaded CPU performance and 4.5‑times faster AI processing thanks to a 7‑core GPU with neural accelerators. Additional upgrades include a 12‑megapixel front camera, nano‑texture glare‑reduction, fast‑charge support, an Acoustic Display that enhances audio, and the next‑generation Apple Intelligence with Siri AI. The device starts at $699 for Wi‑Fi and $849 for Wi‑Fi + cellular, can be pre‑ordered on October 28, and will ship on November 6.",
+      "key_points": [
+        "8.5‑inch OLED display with 1,200 nits peak brightness",
+        "A20 Pro chip offers 60% faster CPU and 4.5× AI performance",
+        "Nano‑texture glare‑reduction and Acoustic Display improve usability and audio",
+        "Starts at $699 Wi‑Fi, $849 Wi‑Fi + cellular; preorder Oct 28, ship Nov 6"
+      ],
+      "topics": [
+        "apple",
+        "ipad",
+        "oled",
+        "chip",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 14:25:43 +0000",
+      "processed_at": "2026-10-26T20:24:57.818202+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Matiks-co-founders.jpg?resize=1200,675",
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Matiks, an India‑based mobile gaming startup, has secured $10 million in a pre‑Series A round led by General Catalyst, bringing its total funding to over $13.5 million. The company’s math, logic, and puzzle platform has seen rapid growth, with daily users rising from 22,000 to more than 300,000 and 2.2 million monthly active users in September. Matiks plans to use the new capital to expand into markets such as the U.S., South Korea, and Japan, while testing a subscription model and continuing to develop its AI‑enabled game‑creation tool, Jelo. The funding underscores investor confidence in the company’s unique blend of educational content and competitive gameplay amid a slowdown in mobile game growth.\n",
+      "key_points": [
+        "Matiks raised $10 million in a pre‑Series A round led by General Catalyst, boosting total funding to $13.5 million.",
+        "Daily active users grew from 22,000 to over 300,000, with 2.2 million monthly users reported in September.",
+        "The company is expanding into international markets and testing a subscription model while developing an AI‑powered game‑creation platform.",
+        "Investor confidence is driven by strong user engagement and a clear product vision.\n"
+      ],
+      "topics": [
+        "gaming",
+        "mobile",
+        "ai",
+        "investment",
+        "india"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 14:08:04 +0000",
+      "processed_at": "2026-10-26T20:24:57.619452+00:00"
+    },
     {
       "id": "6-10-22-microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
@@ -2421,81 +2496,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 15:03:41 +0000",
       "processed_at": "2026-10-22T05:17:29.159956+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1233645802.jpg?resize=1200,800",
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Figma co‑founder Dylan Field announced the design firm’s expansion of support for the Model Context Protocol (MCP) while still voicing concerns about the standard’s imperfections. At the company’s first Config conference in India, Figma added 20 new MCP partners, including Notion, Meta Muse, and Mistral, even as Field criticized Anthropic for not exposing its resources through MCP and for the protocol’s asymmetric context sharing. Field emphasized that Figma wants to remain open but is wary of the risks of exposing too much data, a concern echoed by the CEO who cited potential abuse. The company also confirmed plans to support the open‑source tool Pi, addressing earlier objections from the MCP community.",
-      "key_points": [
-        "Figma is adding 20 new MCP partners despite Dylan Field’s reservations about the protocol’s flaws",
-        "Field publicly criticized Anthropic for not making its resources available via MCP and highlighted asymmetric context sharing issues",
-        "Figma’s leadership stresses the need to balance openness with data‑abuse risks, prompting cautious expansion",
-        "The company plans to support the open‑source tool Pi, responding to community pushback"
-      ],
-      "topics": [
-        "figma",
-        "mcp",
-        "ai",
-        "open source",
-        "data privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 14:13:32 +0000",
-      "processed_at": "2026-10-22T05:17:15.787857+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems | TechCrunch",
-      "author": "Kate Park",
-      "summary": "The U.S. Department of Homeland Security has ordered all federal civilian agencies to stop buying and to remove products and services from the Chinese AI startup DeepSeek, citing national‑security concerns that U.S. data could be accessed by Chinese authorities under Chinese law. The directive extends beyond DeepSeek’s own models to any third‑party tools built on its technology, while allowing agencies to request limited exceptions. Beijing has rebuked the move as an overreach that politicizes technology trade, and the order follows a 2025 law that already barred DeepSeek from U.S. intelligence systems. The ban is part of a broader U.S.‑China AI standoff that also sees China considering export restrictions on advanced AI technologies.",
-      "key_points": [
-        "U.S. DHS orders federal civilian agencies to halt purchases and remove DeepSeek AI products and derivatives from government systems",
-        "Concerns that U.S. data could be accessed by Chinese authorities under Chinese law prompted the ban",
-        "China condemns the order as politicizing technology and vows to protect its enterprises",
-        "The directive follows a 2025 law that already restricted DeepSeek in U.S. intelligence systems and reflects escalating AI rivalry"
-      ],
-      "topics": [
-        "ai",
-        "national security",
-        "china",
-        "us",
-        "tech policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 13:07:24 +0000",
-      "processed_at": "2026-10-22T05:17:15.403222+00:00"
-    },
-    {
-      "id": "ch-com-2026-10-20-inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Inspired-Capital.jpg?resize=1200,800",
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Inspired Capital, the New York‑based early‑stage firm founded by Alexa von Tobel and Penny Pritzker, has closed its fourth fund with $450 million in commitments, bringing its assets under management to nearly $1.4 billion. The raise underscores that venture capital is still flowing to the West Coast—Bay Area firms captured 55% of U.S. new commitments last year—while New York firms like Inspired demonstrate strong growth and a balanced coast strategy. The firm invests in roughly ten companies a year with checks ranging from $1 million to $15 million, focusing on early‑stage physical AI, quantum computing, and serial entrepreneurs. From its first two funds, 12 companies have become unicorns, 10 have surpassed $100 million in revenue, and the portfolio includes high‑profile exits such as MosaicML, Deeptune, Saturn, and the SPAC‑public Teamshares.",
-      "key_points": [
-        "Inspired Capital closed a $450 million fourth fund, raising its AUM to nearly $1.4 billion",
-        "The firm backs about ten early‑stage companies a year with $1–$15 million checks, emphasizing physical AI, quantum computing, and serial founders",
-        "Twelve companies from its first two funds have become unicorns, with ten exceeding $100 million in revenue",
-        "Portfolio exits include MosaicML (acquired for $1.3 billion), Deeptune, Saturn, and the SPAC‑public Teamshares"
-      ],
-      "topics": [
-        "venture capital",
-        "new york",
-        "silicon valley",
-        "early-stage",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-22T05:17:16.051401+00:00"
     }
   ]
 }

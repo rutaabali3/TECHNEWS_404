@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-26T14:58:25.542033+00:00",
+  "updated_at": "2026-10-26T20:24:55.912317+00:00",
   "items": [
-    {
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "feed_excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "published": "Sat, 24 Oct 2026 15:30:00 +0000"
-    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -38,23 +32,47 @@
       "published": "Mon, 26 Oct 2026 14:35:22 +0000"
     },
     {
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "feed_excerpt": "The new iPad mini features a thinner and lighter design than its predecessor.",
-      "published": "Mon, 26 Oct 2026 14:25:43 +0000"
-    },
-    {
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "feed_excerpt": "Matiks has introduced a new platform for users to create games using AI.",
-      "published": "Mon, 26 Oct 2026 14:08:04 +0000"
-    },
-    {
       "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
       "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
       "feed_excerpt": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
       "published": "Mon, 26 Oct 2026 12:58:40 +0000"
+    },
+    {
+      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "feed_excerpt": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.",
+      "published": "Mon, 26 Oct 2026 19:22:40 +0000"
+    },
+    {
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+      "feed_excerpt": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+      "published": "Mon, 26 Oct 2026 18:59:52 +0000"
+    },
+    {
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "feed_excerpt": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "published": "Mon, 26 Oct 2026 17:45:00 +0000"
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "feed_excerpt": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "feed_excerpt": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "published": "Mon, 26 Oct 2026 16:46:36 +0000"
+    },
+    {
+      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "feed_excerpt": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+      "published": "Mon, 26 Oct 2026 15:58:25 +0000"
     }
   ],
-  "last_processed_at": "2026-10-26T14:58:44.415448+00:00"
+  "last_processed_at": "2026-10-26T20:24:57.818294+00:00"
 }
