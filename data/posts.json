@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-26T01:34:38.214029+00:00",
+  "updated_at": "2026-10-26T07:34:27.992807+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-25-techcrunch-mobility-blue-green-is-the-color-of-autonomy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "The National Highway Traffic Safety Administration has proposed that autonomous vehicles display steady cyan lights to signal their self‑driving mode, a move aimed at giving the public a clear visual cue while removing manual signal controls. Meanwhile, General Motors announced a 2028 rollout of the Cadillac Escalade IQ, featuring faster software, advanced automated driving, and a conversational AI assistant that will replace OnStar. Rivian’s recent acquisition of UK startup Third Dimension highlights the industry’s focus on bridging the simulation‑to‑real gap with AI‑generated 3‑D worlds, while other firms such as inDrive, Pony.ai, and Reliable Robotics secure funding and partnerships to accelerate robotaxi and autonomous flight deployments.",
+      "key_points": [
+        "NHTSA proposes cyan lights for autonomous vehicles to provide a uniform visual indicator",
+        "GM plans to launch the Cadillac Escalade IQ in 2028 with AI‑driven automation and a new OnStar‑style assistant",
+        "Rivian acquires Third Dimension to improve simulation realism for autonomous driving",
+        "Other companies are securing funding and partnerships to push robotaxis and autonomous flight into production"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "regulation",
+        "ai",
+        "automotive",
+        "simulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 25 Oct 2026 16:05:00 +0000",
+      "processed_at": "2026-10-26T07:34:26.893870+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-24-starlink-seems-to-be-working-normally-again-in-ukraine",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "title": "Starlink seems to be working normally again in Ukraine | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "SpaceX has reportedly lifted the restrictions on its military‑grade Starshield service, allowing Ukrainian forces to use the satellite internet again without the connectivity issues that plagued drones for a 10‑day period. The Ukrainian military had experienced loss of control over drones flying at about 100 miles per hour, while slower drones became more vulnerable. President Donald Trump reportedly called Elon Musk to restore the service, and Musk had previously throttled access after claiming Ukraine violated Starlink’s terms of service. Musk warned that turning off Starlink would cause the Ukrainian front line to collapse immediately.",
+      "key_points": [
+        "SpaceX lifted Starshield restrictions, restoring normal operation for Ukrainian military use",
+        "Ukrainian drones lost connectivity at high speeds for 10 days, affecting control and safety",
+        "Trump called Musk to restore service; Musk had previously throttled access citing terms violations",
+        "Musk warned that disabling Starlink would collapse the Ukrainian front line"
+      ],
+      "topics": [
+        "starlink",
+        "ukraine",
+        "spacex",
+        "military",
+        "drone"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 20:46:34 +0000",
+      "processed_at": "2026-10-26T07:34:02.562059+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-24-will-ai-expose-the-rickety-infrastructure-of-the-internet",
       "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
@@ -2448,55 +2498,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
       "processed_at": "2026-10-21T21:54:21.591343+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Mayor Zohran Mamdani of New York called on residents to resist the unchecked spread of AI, citing a recent ban on AI use in elementary and middle schools and a new disclosure rule for AI‑generated real‑estate listings. He criticized the federal government’s lack of regulation and the Trump‑era Superintelligence Task Force’s reliance on self‑regulation, arguing that AI’s rapid rollout is not inevitable and must be held accountable. Mamdani highlighted incidents such as the U.S. military’s AI‑involved strike in Iran to illustrate the dangers of reckless adoption. The mayor’s remarks underscore the growing role of local governments in shaping AI policy while the federal landscape remains fragmented.",
-      "key_points": [
-        "Mayor Mamdani banned AI in elementary and middle schools",
-        "New policy requires disclosure of AI‑generated real‑estate listings",
-        "Critique of federal abdication and Trump‑era Superintelligence Task Force",
-        "Call for local accountability and regulation of AI"
-      ],
-      "topics": [
-        "ai regulation",
-        "local government",
-        "education",
-        "real estate",
-        "technology policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
-      "processed_at": "2026-10-21T21:54:10.360112+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
-      "title": "Embedded AI evaluators won't be an easy solution, Hugging Face's policy chief says | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "At TechCrunch Disrupt, Hugging Face chief policy officer Irene Solaiman warned that embedded AI evaluators are unlikely to solve the industry’s safety and benchmarking challenges. She explained that reproducibility and access to model weights are key to trustworthy evaluations, and that current tests lack standardization and can become ineffective quickly. Solaiman highlighted the growing need to assess not just models but their harnesses and agents, noting that better holistic evaluations are still in development. The article underscores that without a unified, science‑based benchmarking ecosystem, third‑party evaluators may struggle to provide the neutrality and rigor required.",
-      "key_points": [
-        "Embedded evaluators face reproducibility and neutrality challenges, according to Hugging Face’s policy chief.",
-        "Current AI benchmarking lacks standardization, making it hard to compare tests and trust results.",
-        "Evaluations are expanding beyond models to include harnesses and agents, but robust tools are still under development."
-      ],
-      "topics": [
-        "ai safety",
-        "benchmarking",
-        "embedded evaluators",
-        "model evaluation",
-        "tech policy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
-      "processed_at": "2026-10-21T21:54:10.530828+00:00"
     }
   ]
 }

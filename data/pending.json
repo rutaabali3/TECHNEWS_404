@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:34:11.858360+00:00",
+  "updated_at": "2026-10-26T07:34:00.687030+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -26,12 +26,6 @@
       "published": "Sat, 24 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "feed_excerpt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "published": "Sat, 24 Oct 2026 20:46:34 +0000"
-    },
-    {
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "feed_excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
@@ -42,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "feed_excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
       "published": "Sun, 25 Oct 2026 16:57:32 +0000"
-    },
-    {
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "Sun, 25 Oct 2026 16:05:00 +0000"
     },
     {
       "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
@@ -68,5 +56,5 @@
       "published": "Mon, 26 Oct 2026 01:10:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-26T01:34:13.927628+00:00"
+  "last_processed_at": "2026-10-26T07:34:26.893939+00:00"
 }
