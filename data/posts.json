@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-25T23:27:53.889777+00:00",
+  "updated_at": "2026-10-26T01:34:38.214029+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-24-will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "title": "Will AI expose the rickety infrastructure of the internet? | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "A long‑standing PHP vulnerability was uncovered by human researchers using AI tools, prompting an urgent patch or site shutdown for millions of websites that rely on the language. The flaw, which had existed for decades, exposed the fragility of the internet’s open‑source foundation and led to a surge of attempted exploits worldwide. The incident underscores how AI and large language models can accelerate vulnerability discovery, raising concerns about future large‑scale attacks. It also highlights the risk of link rot and loss of web content if sites are taken offline during remediation.",
+      "key_points": [
+        "PHP vulnerability existed for decades and was found by human researchers aided by AI tools",
+        "Immediate patching or shutdown was required for millions of sites, leading to widespread outages",
+        "AI and LLMs make discovering such flaws easier, increasing future risk",
+        "The event exposes the fragile nature of internet infrastructure built on open‑source tech and potential link rot"
+      ],
+      "topics": [
+        "php",
+        "cybersecurity",
+        "ai",
+        "infrastructure",
+        "open-source"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "processed_at": "2026-10-26T01:34:13.771593+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-24-these-clever-apps-show-off-the-iphone-duos-potential",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "title": "These clever apps show off the iPhone Duo's potential | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple’s new iPhone Duo, a foldable phone that starts at $2,000, marks the company’s first foray into the foldable market and has sparked a wave of developer interest. The article showcases early Duo‑optimized apps such as Netflix, Deck‑Man, TypeDraw, and Wakeout that leverage the device’s two screens to create unique, seamless experiences. These apps demonstrate how the Duo can transform media consumption, creative note‑taking, and gaming by switching between folded and unfolded modes without interruption. The piece highlights the potential of foldable phones to open new design possibilities and re‑energize Apple’s app ecosystem.",
+      "key_points": [
+        "Apple launched the iPhone Duo, a foldable phone priced at $2,000",
+        "Developers are creating Duo‑optimized apps that use dual screens, including Netflix, Deck‑Man, TypeDraw, and Wakeout",
+        "The Duo allows seamless transition between folded and unfolded modes, enhancing media and creative workflows",
+        "The article shows how foldable phones can open new design possibilities and energize Apple’s app ecosystem"
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "foldable",
+        "apps",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-26T01:34:13.927547+00:00"
+    },
+    {
+      "id": "nch-com-2026-10-23-techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Founder Summit 2026 will be held on November 4 at SoWa Power Station in Boston, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and focused roundtables on challenges such as enterprise sales, AI trust, vertical strategy, and building new categories. The event offers a buy‑one‑get‑one‑free ticket promotion and a 25% discount, and includes a live pitching competition and networking lounge to help attendees connect and test their ideas. Sessions cover product‑market fit, hiring, fundraising, and scaling companies outside the Bay Area, providing actionable insights and peer discussion. The summit aims to equip founders with practical strategies and real‑world examples to navigate current market hurdles and accelerate growth.",
+      "key_points": [
+        "Six focused roundtables cover topics from event strategy to AI trust and building undefined categories",
+        "The summit offers a buy‑one‑get‑one‑free ticket promotion and 25% discount",
+        "Sessions include live pitching, networking lounges, and a \"So You Think You Can Pitch?\" competition",
+        "The event targets founders, investors, and operators to discuss product‑market fit, hiring, fundraising, and scaling beyond the Bay Area"
+      ],
+      "topics": [
+        "founders",
+        "startup events",
+        "ai",
+        "entrepreneurship",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 20:03:14 +0000",
+      "processed_at": "2026-10-26T01:34:13.826824+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-23-from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Founder Summit 2026 will take place on November 4 at SoWa Power Station in Boston, bringing together founders, investors, and operators to discuss scaling, product‑market fit, AI, and building teams outside Silicon Valley. The full‑day event, hosted in partnership with Fidelity Private Shares, features keynotes from Steve Fredette of Toast, Kent Bennett of Bessemer, Rudina Seseri of Glasswing, Lior Div of 7AI, Chase Garbarino of HqO, and Dave Balter of True Ventures, among others. Attendees can test their pitches live in a competitive session judged by venture partners, while also learning from interactive workshops on distribution, team building, and fundraising trends. The summit emphasizes Boston’s growing startup ecosystem and offers a limited BOGO ticket promotion to encourage broader participation.",
+      "key_points": [
+        "TechCrunch Founder Summit 2026 on Nov 4 in Boston will feature speakers from Toast, Bessemer, Glasswing, 7AI, HqO, and True Ventures to discuss scaling, product‑market fit, AI, and team building",
+        "The event includes a live pitching competition judged by venture partners, interactive workshops, and a focus on Boston’s non‑Silicon Valley startup ecosystem",
+        "A limited buy‑one‑get‑one‑free ticket offer encourages founders to bring colleagues and expand networking opportunities",
+        "The summit aims to provide practical guidance beyond fundraising, covering customer acquisition, leadership, and fundraising trends"
+      ],
+      "topics": [
+        "technews",
+        "startup",
+        "fundraising",
+        "ai",
+        "boston"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 23 Oct 2026 19:06:23 +0000",
+      "processed_at": "2026-10-26T01:34:13.873444+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-24-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
       "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
@@ -2397,105 +2497,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 19 Oct 2026 22:49:27 +0000",
       "processed_at": "2026-10-21T21:54:10.530828+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-18-anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Anthropic announced it will set aside 5% of its shares for a new public benefit fund, with the option to add 2% for every 50% increase in the company’s value. The fund, a wholly owned entity, is intended to provide flexible support for societal good, including large donations to nonprofits or direct aid to specific populations. The company also highlighted its $200 million investment in studying AI’s impact on the job market and noted that the fund could pursue bolder initiatives as AI advances. CEO Dario Amodei said the move comes amid a “crisis of trust” in the industry, and Anthropic will reveal governance details in the coming months.",
-      "key_points": [
-        "Anthropic will commit 5% of its shares to a public benefit fund that can grow with company value",
-        "The fund can support nonprofits or direct distributions and may fund bold AI‑related social projects",
-        "The company has already invested $200 million to study AI’s job‑market effects and seeks to rebuild trust"
-      ],
-      "topics": [
-        "ai",
-        "philanthropy",
-        "corporate governance",
-        "trust",
-        "social impact"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
-      "processed_at": "2026-10-21T18:11:16.928169+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-      "title": "Microsoft says AI agents are like insider threats as 'frontier models can't be trusted' | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Microsoft unveiled Guardian Agents, a new security feature that monitors AI agents within enterprises, as part of its Project Perception initiative. CEO Satya Nadella warned that AI agents can become insider threats, urging companies to separate the supply of intelligence from the authority that controls it. The company also added agent detection to Microsoft Defender, limiting agent permissions and requiring human approval for risky actions. The move reflects a broader industry push toward independent monitoring of frontier AI models, exemplified by Nvidia’s Open Agent Safety Platform and Microsoft’s own agent‑secure hardware initiatives.",
-      "key_points": [
-        "Microsoft launches Guardian Agents to monitor AI agents as potential insider threats.",
-        "CEO Nadella urges enterprises to separate intelligence supply from authority over AI agents.",
-        "Microsoft adds agent detection to Defender and limits agent permissions.",
-        "Industry adopts independent safety platforms like Nvidia’s Open Agent Safety Platform."
-      ],
-      "topics": [
-        "ai",
-        "security",
-        "enterprise",
-        "microsoft",
-        "insider threat"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "processed_at": "2026-10-21T18:11:05.629776+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "OpenCode, an open‑source AI coding agent, suffered a security breach that exposed API keys for 1.4% of its Console users, leading to unauthorized charges that sometimes exceeded $1,000. The attackers used a large‑scale distillation attack, exploiting leaked keys to generate high volumes of AI outputs, and the incident highlighted how companies lacking vetted, low‑restriction AI models struggle to defend against AI‑driven cyberattacks. OpenCode’s team worked around the clock, eventually gaining access to OpenAI’s Daybreak Blue program to aid investigation, while affected users were notified and refunds were issued. The breach underscores a growing asymmetry problem where safety guardrails can block defenders as much as attackers, prompting calls for more flexible AI security tools.",
-      "key_points": [
-        "1.4% of OpenCode Console users had their API keys exposed, causing unauthorized charges up to $1,000+",
-        "The attack used a distillation technique that leveraged leaked keys to generate large volumes of AI output",
-        "OpenCode’s response involved disabling exposed keys, coordinating with OpenAI, Anthropic, and Google, and later accessing OpenAI’s Daybreak Blue program",
-        "The incident illustrates the challenge of defending against AI‑driven attacks when safety filters block defensive analysis"
-      ],
-      "topics": [
-        "ai security",
-        "cyberattack",
-        "open source",
-        "api keys",
-        "ai models"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 19:28:34 +0000",
-      "processed_at": "2026-10-21T18:11:05.799874+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1200,1200",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Eugenia Kuyda, the founder of Luka and former CEO of Replika, has launched Wabi, a multiplayer personal AI assistant that organizes tasks into separate threads and automatically builds apps from users’ email and calendar data. The new platform lets users share threaded conversations with partners or family, adding custom apps like weight‑loss trackers or event finders, and keeps privacy tight with SOC 2 compliance and scoped data access. Wabi builds on Kuyda’s 12‑year vision of conversational AI, now powered by modern large‑language models, and positions itself against competitors such as Muse and Instinct by offering a collaborative, multithreaded experience. The service is free for now, SOC 2 compliant, and the company is seeking additional funding to support growth.",
-      "key_points": [
-        "Wabi is a multiplayer AI assistant that auto‑creates apps from email and calendar data and organizes work into separate threads",
-        "The platform supports shared threads for couples and families, allowing collaborative task management and privacy‑scoped data sharing",
-        "It represents a return to Kuyda’s original vision for personal AI, now enabled by modern large‑language models",
-        "Wabi is free, SOC 2 compliant, and the company is looking to raise more capital"
-      ],
-      "topics": [
-        "ai",
-        "personalassistant",
-        "startup",
-        "privacy",
-        "socialmedia"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 18:49:04 +0000",
-      "processed_at": "2026-10-21T18:11:05.964244+00:00"
     }
   ]
 }

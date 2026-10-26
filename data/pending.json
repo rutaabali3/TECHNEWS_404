@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:27:47.079691+00:00",
+  "updated_at": "2026-10-26T01:34:11.858360+00:00",
   "items": [
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -8,28 +8,10 @@
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
     },
     {
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "feed_excerpt": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-      "published": "Fri, 23 Oct 2026 20:03:14 +0000"
-    },
-    {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "feed_excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-      "published": "Fri, 23 Oct 2026 19:06:23 +0000"
-    },
-    {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "feed_excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
       "published": "Sat, 24 Oct 2026 15:30:00 +0000"
-    },
-    {
-      "title": "These clever apps show off the iPhone Duo’s potential",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "feed_excerpt": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000"
     },
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -48,12 +30,6 @@
       "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
       "feed_excerpt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
       "published": "Sat, 24 Oct 2026 20:46:34 +0000"
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "feed_excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "published": "Sat, 24 Oct 2026 20:15:33 +0000"
     },
     {
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -84,7 +60,13 @@
       "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "feed_excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "published": "Sun, 25 Oct 2026 21:31:16 +0000"
+    },
+    {
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "feed_excerpt": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "published": "Mon, 26 Oct 2026 01:10:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-25T23:27:48.494900+00:00"
+  "last_processed_at": "2026-10-26T01:34:13.927628+00:00"
 }
