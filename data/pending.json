@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-26T07:34:00.687030+00:00",
+  "updated_at": "2026-10-26T14:58:25.542033+00:00",
   "items": [
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "feed_excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "published": "Thu, 22 Oct 2026 18:43:53 +0000"
-    },
     {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "feed_excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
       "published": "Sat, 24 Oct 2026 15:30:00 +0000"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "feed_excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000"
     },
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -44,17 +32,29 @@
       "published": "Sun, 25 Oct 2026 20:20:08 +0000"
     },
     {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "feed_excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "published": "Sun, 25 Oct 2026 21:31:16 +0000"
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "feed_excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "published": "Mon, 26 Oct 2026 14:35:22 +0000"
     },
     {
-      "title": "The best apps for tracking your reading and discovering new books",
-      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "feed_excerpt": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-      "published": "Mon, 26 Oct 2026 01:10:00 +0000"
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "feed_excerpt": "The new iPad mini features a thinner and lighter design than its predecessor.",
+      "published": "Mon, 26 Oct 2026 14:25:43 +0000"
+    },
+    {
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "feed_excerpt": "Matiks has introduced a new platform for users to create games using AI.",
+      "published": "Mon, 26 Oct 2026 14:08:04 +0000"
+    },
+    {
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "feed_excerpt": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+      "published": "Mon, 26 Oct 2026 12:58:40 +0000"
     }
   ],
-  "last_processed_at": "2026-10-26T07:34:26.893939+00:00"
+  "last_processed_at": "2026-10-26T14:58:44.415448+00:00"
 }

@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-10-26T07:34:27.992807+00:00",
+  "updated_at": "2026-10-26T14:58:45.341663+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "6-10-22-microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Microsoft’s AI diagnostic system, MAI‑DxO, achieved 83% accuracy on complex medical cases in a Science study, more than twice the 36% accuracy of generalist physicians. The system orchestrates multiple AI agents that act like a panel of doctors, improving both diagnostic accuracy and cost, especially when paired with OpenAI’s GPT‑5.5. Microsoft plans to launch a Mayo Clinic–based foundation model next year and will conduct real‑world trials with Beth Israel Deaconess to evaluate DxO’s clinical reasoning in hospital settings. Suleyman envisions this technology as a step toward medical superintelligence, aiming for a coding‑style breakthrough in medical records by 2027.",
+      "key_points": [
+        "MAI‑DxO scored 83% accuracy on complex cases versus 36% for individual physicians",
+        "The system boosts accuracy and reduces cost, especially with GPT‑5.5, and improves weaker models like Gemini 2.5 Flash"
+      ],
+      "topics": [
+        "ai",
+        "healthcare",
+        "diagnostics",
+        "microsoft",
+        "research"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
+      "processed_at": "2026-10-26T14:58:44.415405+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-25-grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’ | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Grok, the AI platform backed by Elon Musk, has released a seven‑minute preview of its AI‑generated adaptation of Homer's \"Odyssey,\" calling it Episode 1 of its Odyssey series. The clip, produced in partnership with Wonder Studios and directed by Dev Walker, is a stark contrast to Christopher Nolan’s 2023 blockbuster, which Musk criticized for its casting choices. Reviewers note that the footage feels more like a video‑game cutscene than a cinematic experience, lacking artistic depth and emotional engagement. The release underscores Musk’s push for AI‑generated content while highlighting the current limitations of the technology in creating compelling narratives.",
+      "key_points": [
+        "Grok released a seven‑minute AI‑generated preview of its Odyssey series",
+        "The production involved Wonder Studios and director Dev Walker",
+        "Critics say the footage feels like a video‑game cutscene with little artistry",
+        "Elon Musk previously criticized Nolan’s Odyssey for its casting choices"
+      ],
+      "topics": [
+        "ai",
+        "film",
+        "elon musk",
+        "grok",
+        "wonder studios"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "processed_at": "2026-10-26T14:58:26.984353+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-24-forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "A recent study found that SpaceXAI’s Grok 4.7 and OpenAI’s GPT‑6.1 exhibit stark partisan leanings when asked to recommend a candidate for the 2024 U.S. midterm elections. Grok favored Republican candidates in 92% of the 500 races tested, while GPT‑6.1 chose Democrats in 97%, and the two models agreed on less than 10% of the time. The researchers noted that the bias appears to stem from the models’ search patterns and hidden API instructions rather than from the user‑facing consumer apps, which typically refuse to give direct voting advice. The findings arrive just weeks before the November 3 elections and raise concerns about covert political influence from commercial AI systems.",
+      "key_points": [
+        "Grok 4.7 recommended Republicans 92% of the time, GPT‑6.1 recommended Democrats 97%",
+        "The two models agreed on less than 10% of the 500 races tested",
+        "Bias likely originates from hidden API instructions and search patterns, not consumer app behavior",
+        "The study highlights potential covert political manipulation just before the 2024 midterms"
+      ],
+      "topics": [
+        "ai",
+        "politics",
+        "bias",
+        "midterms",
+        "openai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-26T14:58:27.570984+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-25-5-best-apps-track-reading-discover-new-books",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
+      "title": "The best apps for tracking your reading and discovering new books | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TechCrunch’s latest roundup spotlights a selection of newer, lesser‑known book‑tracking apps that aim to replace or complement the dominant Goodreads platform. The article profiles five apps—Fable, Bookshelf, Pagebound, StoryGraph, and Margins—highlighting their unique blends of social features, AI‑driven recommendations, and reading‑goal tracking, as well as their pricing tiers ranging from free to $9.99/month. Each app offers distinct strengths: Fable emphasizes community engagement, Bookshelf delivers AI summaries, Pagebound provides spoiler‑free discussion threads, StoryGraph supplies in‑depth analytics, and Margins lets users discover reads by mood and aesthetic. The piece underscores how these tools can help readers stay motivated, discover new titles, and deepen their engagement with books.\n",
+      "key_points": [
+        "Fable blends reading logs with a social platform and offers a $5.99/month Plus tier for advanced analytics",
+        "Bookshelf uses AI to generate summaries and thematic insights, with a $6.99/month premium for unlimited collections",
+        "Pagebound organizes discussions by reading progress to avoid spoilers, charging $9.99/month for profile customization",
+        "StoryGraph provides detailed reading statistics and mood‑based recommendations, with a $4.99/month Plus plan for custom charts"
+      ],
+      "topics": [
+        "reading apps",
+        "book tracking",
+        "ai recommendations",
+        "community",
+        "subscription"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 01:10:00 +0000",
+      "processed_at": "2026-10-26T14:58:27.017214+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-25-techcrunch-mobility-blue-green-is-the-color-of-autonomy",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
@@ -2398,106 +2496,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 13:00:00 +0000",
       "processed_at": "2026-10-22T05:17:16.051401+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Amazon Web Services launched TorchNeuron, a tool that lets PyTorch AI applications run on its Trainium chip with a single line of configuration and no code rewrite, directly challenging Nvidia’s software advantage. The solution promises startups cheaper, scalable training and inference within the AWS cloud, while Amazon claims the same chip handles both workloads. In addition, Amazon will contribute upstream changes to PyTorch to remove Nvidia‑centric code, aiming to make the framework more hardware‑agnostic. If successful, this could erode Nvidia’s lock‑in and broaden hardware choices for AI developers.",
-      "key_points": [
-        "TorchNeuron enables PyTorch apps to run on Trainium with only a single configuration change.",
-        "Amazon promotes cost and scalability benefits for startups by offering unified training and inference on AWS.",
-        "The company is contributing code to PyTorch to reduce Nvidia dependency and increase hardware agnosticism.",
-        "This strategy could shift the AI hardware market away from Nvidia’s dominance."
-      ],
-      "topics": [
-        "amazon",
-        "aws",
-        "pytorch",
-        "nvidia",
-        "ai hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
-      "processed_at": "2026-10-22T00:29:42.950224+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-people-are-using-ai-to-make-their-smart-tvs-dumb-again",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-      "title": "People are using AI to make their smart TVs dumb again | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "AI agents such as Claude are enabling everyday users to strip ads, tracking and bloatware from smart TVs without needing root access, through open‑source projects like \"dumbtv\" and \"cleanyourtv.\"  The hacks, which replace the default launcher with a minimal interface and remove dozens of unwanted packages, have already been adopted by thousands of users across brands such as Xiaomi, Sony, TCL, and Fire TV.  By eliminating automatic content recognition and other data‑gathering features, the tools could disrupt the smart‑TV ad industry that profits from selling viewing data to advertisers.  While the solutions are still work‑in‑progress and can occasionally brick devices, they illustrate how generative AI is lowering the barrier to hardware customization and privacy‑enhancing modifications.",
-      "key_points": [
-        "AI agents like Claude can remove ads and bloatware from smart TVs without root access",
-        "The \"dumbtv\" and \"cleanyourtv\" projects have been adopted by thousands across multiple TV brands",
-        "These hacks could disrupt the smart‑TV ad ecosystem by eliminating data collection",
-        "Users report risks such as bricking or misconfigurations when using AI‑driven hacks"
-      ],
-      "topics": [
-        "ai",
-        "smart tv",
-        "adtech",
-        "privacy",
-        "hacking"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
-      "processed_at": "2026-10-22T00:30:07.389747+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Nvidia announced new open-weight models for enterprise agents and edge computing. The Nemotron 3.5 Super VL, a 120‑billion‑parameter model, offers similar instruction‑following accuracy to the larger Nemotron 3 Ultra while being more deployable. Two lightweight Bolt models, including a 74‑billion‑parameter version for local PCs and a smaller conversational variant, are designed to run on Nvidia’s RTX Spark‑based AI PCs and DGX Spark workstations. Nvidia claims the Super VL outperforms competitors on agentic tasks and is already adopted by firms such as Skydance, EY, and Salesforce, positioning the company to capture both enterprise and consumer AI assistant markets.",
-      "key_points": [
-        "Nvidia releases Nemotron 3.5 Super VL, a 120B‑parameter model for enterprise agents.",
-        "Two lightweight Bolt models target local PCs and workstations with RTX Spark chips.",
-        "Super VL claims faster task completion than Anthropic and OpenAI models on agentic workloads.",
-        "Major clients like Skydance, EY, and Salesforce already use Super VL."
-      ],
-      "topics": [
-        "nvidia",
-        "ai models",
-        "enterprise ai",
-        "edge computing",
-        "consumer ai assistants"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 15:37:09 +0000",
-      "processed_at": "2026-10-22T00:29:43.104674+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Yelp has launched a new voice‑assistant feature called Check for Me that lets app users have an AI agent call a restaurant to report current wait times. The feature appears on restaurant pages, where users enter party size and phone number, and the AI calls on their behalf and texts the result. Alongside this, Yelp is enhancing its AI assistant with OpenTable booking, personalized recommendations, and expanded list management, while also introducing a paid Smart Lead Reply service for business owners to automate lead qualification. These updates aim to streamline the dining discovery process and improve customer support for both consumers and restaurants.",
-      "key_points": [
-        "Yelp’s Check for Me lets users call restaurants via an AI agent to get real‑time wait times",
-        "The AI assistant now supports OpenTable booking, personalized recommendations, and advanced list features",
-        "Yelp introduces Smart Lead Reply, a paid tool that automates lead qualification for business owners",
-        "Upcoming updates include weekly personalized suggestions, a new lists tab, and a maps view"
-      ],
-      "topics": [
-        "yelp",
-        "ai",
-        "voiceassistant",
-        "restaurant",
-        "customerexperience"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "processed_at": "2026-10-21T21:54:21.591343+00:00"
     }
   ]
 }
