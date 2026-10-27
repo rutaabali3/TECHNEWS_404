@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:00:29.110665+00:00",
+  "updated_at": "2026-10-27T05:25:07.923653+00:00",
   "items": [
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -32,23 +32,17 @@
       "published": "Mon, 26 Oct 2026 16:46:36 +0000"
     },
     {
-      "title": "Microsoft offers buyouts to around 60,000 employees",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "feed_excerpt": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-      "published": "Mon, 26 Oct 2026 15:58:25 +0000"
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "feed_excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "published": "Tue, 27 Oct 2026 02:00:00 +0000"
     },
     {
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "feed_excerpt": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-      "published": "Mon, 26 Oct 2026 22:00:00 +0000"
-    },
-    {
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "feed_excerpt": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-      "published": "Mon, 26 Oct 2026 21:05:11 +0000"
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "feed_excerpt": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "published": "Tue, 27 Oct 2026 01:12:21 +0000"
     }
   ],
-  "last_processed_at": "2026-10-27T00:00:54.707024+00:00"
+  "last_processed_at": "2026-10-27T05:25:09.973576+00:00"
 }

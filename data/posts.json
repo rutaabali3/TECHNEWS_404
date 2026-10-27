@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-27T00:00:58.064667+00:00",
+  "updated_at": "2026-10-27T05:25:39.767737+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-26-databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Databricks co‑founder Arsalan Tavakoli‑Shiraji revealed the tactics that helped the company win its first large enterprise deals and now advises other startups on how to secure similar contracts. He emphasized that technology alone is not enough; people, processes, and strategic partnerships—most notably with Microsoft—are critical to gaining access and credibility with big clients. Tavakoli‑Shiraji outlined a four‑Cs framework (context, choice, cost, control) for selling AI solutions and highlighted the opportunity to modernize legacy systems with AI agents. His insights underscore the importance of aligning product fit with enterprise concerns and leveraging established sales channels to accelerate growth.",
+      "key_points": [
+        "Partnering with a larger tech company like Microsoft can unlock sales opportunities and credibility",
+        "The four‑Cs framework (context, choice, cost, control) helps address enterprise AI objections",
+        "People and processes are as important as technology when selling to large enterprises",
+        "Modernizing legacy systems with AI offers a significant value proposition for startups"
+      ],
+      "topics": [
+        "databricks",
+        "enterprise sales",
+        "ai",
+        "big data",
+        "partnerships"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "processed_at": "2026-10-27T05:25:09.204448+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Instagram has begun testing a new 90‑minute video format called \"Features,\" marking a strategic shift from its long focus on short‑form content. The move, first rolled out in Brazil and now expanding to the U.S., aims to keep creators and audiences on the platform by offering longer storytelling options that could eventually include ads and performance‑based incentives. While Meta has yet to finalize a monetization model, the company signals it may bring advertising revenue to these longer videos, potentially challenging YouTube’s dominant partner program. Alongside the new format, Instagram is also testing \"Clips as Reels\" and a hub for episodic Reels to weave short and long content together.",
+      "key_points": [
+        "Instagram is testing 90‑minute \"Features\" videos in Brazil and the U.S. as a move toward long‑form content.",
+        "Meta may introduce ads and performance incentives to monetize these longer videos, positioning Instagram to compete with YouTube’s partner program.",
+        "The platform still relies on brand deals and fan support, and a definitive monetization strategy has not yet been announced.",
+        "New discovery tools like \"Clips as Reels\" and an episodic Reels hub are designed to link short and long content for creators and viewers."
+      ],
+      "topics": [
+        "instagram",
+        "youtube",
+        "monetization",
+        "longform",
+        "socialmedia"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 21:05:11 +0000",
+      "processed_at": "2026-10-27T05:25:09.338893+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-microsoft-offers-buyouts-to-around-60000-employees-reports-say",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800",
+      "title": "Microsoft offers buyouts to around 60,000 employees | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Microsoft announced voluntary buyout offers for roughly 60,000 employees, targeting vice‑presidents and lower‑level staff across the United States, Canada, India, and the United Kingdom. Eligible teams include Xbox, Windows, Copilot, and Finance, while workers in data centers, sales, and marketing are excluded. The buyout terms mirror Microsoft’s standard severance package and are part of the company’s broader effort to trim costs and reshape its workforce for the AI era. With a June 2026 headcount of 223,000, the program follows a prior retirement‑age buyout that saw more than 30% of 8,750 eligible employees accept.",
+      "key_points": [
+        "Microsoft offers voluntary buyouts to about 60,000 employees at VP level and below in key regions and divisions",
+        "Eligible divisions include Xbox, Windows, Copilot, and Finance; data centers, sales, and marketing are excluded",
+        "Terms mirror standard severance and aim to reduce workforce cost without mass layoffs",
+        "Program follows earlier retirement‑age buyout with 30% acceptance"
+      ],
+      "topics": [
+        "microsoft",
+        "buyout",
+        "workforce",
+        "ai",
+        "cost-cutting"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 15:58:25 +0000",
+      "processed_at": "2026-10-27T05:25:09.973496+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-25-ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
@@ -2423,81 +2498,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 13:17:36 +0000",
       "processed_at": "2026-10-22T19:50:10.785905+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1237977593.jpg?resize=1200,800",
-      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "GM is shutting down its Brownstown Battery Assembly Plant south of Detroit, a move driven by the end of a lease rather than a shift in its electric‑vehicle strategy. The facility had produced battery packs for the Cadillac Celestiq and both motors and packs for the Chevrolet Corvette E‑Ray plug‑in hybrid. Employees will be transferred to other GM sites, though the company has not yet disclosed where. GM remains committed to EVs, continuing production of models like the Silverado EV and Bolt while investing in new battery chemistries and a $900 million commercialization facility.",
-      "key_points": [
-        "GM is closing the Brownstown plant because its lease is ending, not due to a change in EV strategy.",
-        "The plant built battery packs for the Cadillac Celestiq and motors/battery packs for the Chevrolet Corvette E‑Ray.",
-        "Employees will be relocated to other GM facilities, though the specific locations are not yet announced.",
-        "GM continues to produce EVs and invest in battery research and a new $900 million facility."
-      ],
-      "topics": [
-        "gm",
-        "battery",
-        "ev",
-        "plant closure",
-        "automotive"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 19:32:43 +0000",
-      "processed_at": "2026-10-22T15:33:45.529748+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Eric Schmidt is reported to own about 1% of the AI lab Anthropic after investing tens of millions in its 2021 Series A round, a stake that is surprisingly large compared with the 2% held by co‑founder and CEO Dario Amodei. Anthropic was valued at $461 million at that time and is expected to go public before the end of the year, with top‑end market estimates reaching as high as $2 trillion. At that valuation, Schmidt’s share could add roughly $20 billion to his net worth, which Bloomberg currently lists at $57.5 billion. Schmidt has been an active tech investor since leaving Google, deploying capital through entities such as Tomorrow Ventures, Innovation Endeavors Management, and his family office Hillspire, and he also backs other AI ventures like Mistral, General Intuition, and Reflection AI.",
-      "key_points": [
-        "Eric Schmidt owns about 1% of Anthropic, a stake larger than CEO Dario Amodei’s 2% according to Bloomberg’s estimate.",
-        "Anthropic was valued at $461 million in 2021 and is expected to go public with a potential $2 trillion valuation, which could add $20 billion to Schmidt’s net worth.",
-        "Schmidt’s investment is part of a broader strategy that includes multiple AI bets through entities such as Tomorrow Ventures and Hillspire.",
-        "The company’s upcoming IPO and high valuation underscore the growing interest and speculation around AI‑focused startups."
-      ],
-      "topics": [
-        "anthropic",
-        "eric schmidt",
-        "ai",
-        "investing",
-        "startup valuation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 17:55:12 +0000",
-      "processed_at": "2026-10-22T15:33:45.620731+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "title": "Meta's Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta’s AI companion Muse has surpassed 10.9 million downloads worldwide, including 10.2 million in the United States, within its first 40 days on the market, making it one of only twelve apps to reach this milestone. The success is driven by Meta’s cross‑platform marketing and a sharp increase in advertising spend—39% of its total spend in October—boosting Muse to the 21st largest brand in U.S. ad impressions. Muse also outperforms rivals in user retention, with 30% of users returning after seven days and 23% after fourteen days, compared to 19% and 16% for competitors like ChatGPT. The app has maintained the No. 1 spot on the U.S. App Store for all but one day and has 2.5 million daily active users, underscoring its strong engagement and market dominance.",
-      "key_points": [
-        "Muse reached 10.9 million downloads, 10.2 million in the U.S., in 40 days, a milestone shared by only 12 apps",
-        "Meta allocated 39% of its advertising budget to Muse in October, lifting it to the 21st largest U.S. brand by impressions",
-        "Muse’s retention rates (30% after 7 days, 23% after 14 days) exceed those of ChatGPT, Claude, and Grok",
-        "The app consistently tops the U.S. App Store and Google Play charts, with 2.5 million daily active users"
-      ],
-      "topics": [
-        "meta",
-        "muse",
-        "ai",
-        "app downloads",
-        "retention"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 17:12:48 +0000",
-      "processed_at": "2026-10-22T15:33:45.567818+00:00"
     }
   ]
 }
