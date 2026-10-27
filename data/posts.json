@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-10-26T20:25:22.024858+00:00",
+  "updated_at": "2026-10-27T00:00:58.064667+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-25-ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Apollo Global Management’s chief economist, Torsten Slok, argues that artificial intelligence has delivered no financial payoff to non‑tech companies, citing a study of the S&P 493 (the S&P 500 minus the major tech giants) that shows flat profit margins and revenue per worker.  Slok notes that despite massive investments and hype, AI has not improved productivity for corporate America outside the tech sector.  He attributes this gap to AI’s lack of judgment, accountability, culture, and ethical understanding—factors that shape reputational risk and ultimately drive revenue growth.  The finding highlights the challenge for non‑tech firms to turn cheap AI into higher revenue and profit margins.",
+      "key_points": [
+        "Apollo economist finds AI has not boosted profits for non‑tech firms",
+        "Profit margins and revenue per worker in the S&P 493 remain flat",
+        "AI lacks judgment, accountability, culture, and ethical understanding, limiting business impact",
+        "Corporate America faces difficulty converting cheap AI into revenue growth"
+      ],
+      "topics": [
+        "ai",
+        "private equity",
+        "corporate finance",
+        "productivity",
+        "business strategy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "processed_at": "2026-10-27T00:00:42.184829+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-25-the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
+      "title": "The hottest AI wearables and gadgets you should know about | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "TechCrunch highlights a wave of AI‑powered wearables that aim to embed artificial intelligence into everyday life, from affordable pendants like Bee to Meta’s upcoming Muse. Amazon’s July 2025 acquisition of Bee has spurred new models—Bee Frontier and Bee Eclipse—priced at $74.99 and $99.99, respectively, while Meta’s pocket‑sized Muse will feature a digital avatar and voice‑command interface. Other notable devices include Friend 2.0, a $129 emotional‑support pendant with a built‑in speaker, and Nirva’s $249 journal‑focused pendant slated for November shipments. The article also covers Plaud’s NotePin, Rabbit R1, and Sandbar’s Stream ring, underscoring the growing diversity of AI productivity tools on the market.",
+      "key_points": [
+        "Amazon’s acquisition of Bee has led to new, lower‑priced models that compete with higher‑end AI wearables",
+        "Meta’s Muse will bring a playful digital avatar to a pocket‑sized wearable, expanding access to its personal AI assistant",
+        "Friend 2.0 adds a speaker and personality to its emotional‑support pendant, addressing earlier criticism of its ad campaign",
+        "Nirva focuses on personal growth, using AI to turn everyday speech into a journal and behavioral insights"
+      ],
+      "topics": [
+        "ai wearables",
+        "personal assistant",
+        "productivity",
+        "consumer tech",
+        "gadgets"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 25 Oct 2026 14:10:00 +0000",
+      "processed_at": "2026-10-27T00:00:30.413933+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-colors-260909.jpg?resize=1200,675",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren't happy about it | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Apple’s newly launched iPhone Duo, a foldable phone unveiled at the Surprise and Shine event, has encountered significant durability issues, with early users reporting screen cracks after only hours or days of use. Bloomberg and 404 Media have documented loud crunching noises, visible cracks, and large creases along the folding screen, while some reports mention display malfunctions. Apple has confirmed awareness of an issue affecting the inner display on a small number of units and is presumably investigating the problem. The incidents highlight the ongoing challenges of creating reliable foldable smartphones, despite Apple’s claim of having solved the form‑factor problem.",
+      "key_points": [
+        "Early iPhone Duo units are cracking after only hours or days of use",
+        "Apple acknowledges an issue with the inner display on a small number of devices",
+        "Users report loud crunching noises, visible cracks, and large creases on the folding screen",
+        "Foldable phones continue to face durability challenges despite manufacturers’ claims"
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "foldable",
+        "screencrack",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 19:22:40 +0000",
+      "processed_at": "2026-10-27T00:00:30.497334+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
+      "title": "This startup's self-driving excavators help dig up $600M in new funding | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Bedrock Robotics, a two‑year‑old startup, secured $600 million in a Series C round that values the company at $4.1 billion, after demonstrating that its self‑driving excavator kit can be retrofitted onto construction vehicles and is already operating on active job sites. The funding, co‑led by CapitalG and Emergence Capital, follows the company’s milestone of moving beyond pilot programs into commercial deployments at a Nevada water‑treatment plant, a Texas earthwork site, and a large civil project with Zachry Construction. With the capital, Bedrock plans to expand its field teams, infrastructure, and customer base while tackling a looming shortage of skilled excavator operators. The round also attracted new investors such as USIT, Bessemer, and Temasek, and the company announced key hires to support its scaling ambitions.",
+      "key_points": [
+        "Bedrock Robotics raised $600 million in a Series C round, valuing the company at $4.1 billion.",
+        "Its autonomous excavator kit is now commercially operating on multiple construction sites.",
+        "The round was co‑led by CapitalG and Emergence Capital, with additional investors including USIT, Bessemer, and Temasek.",
+        "The company plans to use the funding to expand operations and address the construction labor shortage."
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "construction technology",
+        "robotics",
+        "funding",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 17:45:00 +0000",
+      "processed_at": "2026-10-27T00:00:30.627388+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Anthropic’s S‑1 filing for its upcoming IPO details a strategy to lock in enterprise customers by expanding usage of its Claude platform and first‑party apps, with more than half of high‑spending clients now using both products, up from roughly 30% at year‑end 2023. The company reports a Q3 net revenue retention of about 900%, driven by cross‑product adoption and the deployment of Claude across entire organizations. Anthropic leverages applied‑AI teams, a venture arm with Blackstone, and joint go‑to‑market contracts with AWS, Google Cloud, and Microsoft Azure to embed its technology into customers’ stacks, while noting risks from compute supply competition and customer concentration. This ecosystem‑centric approach aims to make Anthropic’s offerings sticky and position it for continuous product reinvention as it seeks to scale its AI business.",
+      "key_points": [
+        "More than 50% of Anthropic’s high‑spending customers now use both the Claude platform and first‑party apps, up from ~30% last year",
+        "Net revenue retention reached ~900% in Q3, driven by cross‑product usage",
+        "Anthropic embeds Claude into customers via applied‑AI teams, a Blackstone‑backed venture arm, and joint contracts with hyperscalers",
+        "Risks include limited compute access from cloud partners and revenue concentration in a few large customers"
+      ],
+      "topics": [
+        "ai",
+        "enterprise",
+        "ipo",
+        "cloud",
+        "customer stickiness"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "processed_at": "2026-10-27T00:00:31.023754+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-anthropic-officially-files-for-its-public-debut",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "title": "Anthropic officially files for its public debut | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Anthropic has officially filed its initial public offering, planning to list under the ticker \"ANT\". The company reported first‑half 2026 revenue of $16.3 billion, a dramatic rise from $1.2 billion the year before, while its operating loss narrowed to $693 million from $2.1 billion in the prior year, though a $80.7 billion net loss was driven largely by noncash accounting adjustments. Governance details reveal that Anthropic’s seven co‑founders will retain 50.1% of voting power through a Founder LLC, a structure intended to safeguard the firm’s AI safety mission but that has drawn criticism for limiting public shareholder influence. The filing does not yet disclose a share price or the amount the company hopes to raise.",
+      "key_points": [
+        "Anthropic files IPO under ticker ANT, reporting $16.3 billion first‑half 2026 revenue and a narrowed operating loss of $693 million.",
+        "Net loss of $80.7 billion is largely due to noncash accounting adjustments tied to convertible debt.",
+        "Founders will control 50.1% of voting power via a Founder LLC, raising governance concerns for public investors.",
+        "The company has not yet announced a share price or capital‑raising target."
+      ],
+      "topics": [
+        "ai",
+        "ipo",
+        "governance",
+        "startup",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "processed_at": "2026-10-27T00:00:54.706961+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-24-php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
@@ -2348,154 +2498,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 17:12:48 +0000",
       "processed_at": "2026-10-22T15:33:45.567818+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era' | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Amulya Vishwanath, founder and managing partner of Techable Ventures, described the current state of physical AI as a \"LEGO era,\" where companies are building foundational robotic components that will eventually combine into advanced systems. She highlighted that the industry is rethinking core software and hardware building blocks, much like the early days of the internet and the industrial revolution. Vishwanath emphasized that talent remains a critical moat, with her firm connecting founders to top talent to keep them competitive against giants such as Anthropic and Nvidia. The interview underscored the importance of foundational innovation and talent acquisition for scaling physical AI startups.",
-      "key_points": [
-        "Vishwanath sees physical AI as in a LEGO era, focusing on building foundational robotic components",
-        "Techable Ventures connects founders to top talent, creating a moat against larger companies",
-        "She draws parallels between the current phase and the early internet and industrial revolution",
-        "Talent acquisition is critical for startups to stay competitive in the physical AI space"
-      ],
-      "topics": [
-        "venture capital",
-        "physical ai",
-        "robotics",
-        "talent",
-        "startup funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
-      "processed_at": "2026-10-22T15:33:58.721828+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "title": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Google has released TorchTPU, an open‑source variant of PyTorch that runs on its Tensor Processing Units, marking a direct challenge to Nvidia’s dominance in AI hardware. The new toolkit lets developers port existing PyTorch applications to TPUs with a simple configuration change, and Google has added a TPU agent suite and updated LiteRT to support the transition. Amazon announced a similar effort with TorchNeuron, which moves PyTorch workloads to its Trainium chips and contributes code to decouple the framework from Nvidia GPUs. Together, these moves signal a concerted push by the cloud giants to diversify AI hardware options and reduce reliance on Nvidia’s GPUs.",
-      "key_points": [
-        "Google launches TorchTPU, an open‑source PyTorch variant for TPUs",
-        "Amazon releases TorchNeuron to port PyTorch to its Trainium chips",
-        "Both companies aim to break Nvidia’s stranglehold on AI hardware",
-        "TorchTPU supports easy migration and integrates with popular AI tools"
-      ],
-      "topics": [
-        "ai",
-        "machine learning",
-        "cloud computing",
-        "hardware",
-        "open source"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
-      "processed_at": "2026-10-22T10:29:08.249416+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Memberships-1.jpg?resize=1200,675",
-      "title": "Spotify launches paid podcast memberships with perks beyond bonus content | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Spotify has introduced paid podcast memberships, allowing creators to offer fans a range of perks such as bonus audio/video, ad‑free listening, and early access. The feature, first teased at Investor Day, is now live in 34 markets including the U.S. and lets podcasters keep 90% of the revenue while setting multiple tiers. Eligibility requires hosting on Spotify for Creators or Megaphone, at least 100 consumption hours, 100 listeners, and three episodes. Early adopters include shows like The Adam Friedland Show and Making Sense with Sam Harris, positioning Spotify to compete more directly with YouTube in video and monetization.",
-      "key_points": [
-        "Spotify’s paid podcast memberships let creators offer bonus content, ad‑free listening, and early access while keeping 90% of revenue.",
-        "The feature is rolling out in 34 markets, including the U.S., and requires podcasters to meet specific audience and episode thresholds.",
-        "Early adopters include high‑profile shows such as The Adam Friedland Show and Making Sense with Sam Harris, highlighting Spotify’s push into video and deeper monetization tools."
-      ],
-      "topics": [
-        "podcasting",
-        "monetization",
-        "spotify",
-        "ai",
-        "video"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "processed_at": "2026-10-22T10:29:08.433951+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-oura-is-launching-two-new-ways-to-track-and-understand-activity",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-      "title": "Oura adds new fitness metrics to show how workouts impact your body | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Oura has unveiled two new workout metrics—Cardio Effort and VO₂ Max—to deepen insight into how users’ exercise affects their bodies. Cardio Effort quantifies the cardiovascular load of each workout and aggregates it weekly into categories such as Light, Fair, Maintaining, Building, or Reaching, shifting focus from duration to intensity. VO₂ Max is now estimated passively from GPS‑enabled workouts after five qualifying sessions, providing users with a lab‑like measurement of aerobic fitness in ml/kg/min. These additions, available on Gen3 and newer rings, aim to keep Oura ahead of rivals like RingConn and Ultrahuman in the competitive smart‑ring market.",
-      "key_points": [
-        "Cardio Effort measures both intensity and duration, offering weekly totals and categories to guide training intensity.",
-        "VO₂ Max is now estimated from GPS data after five qualifying workouts, giving users a lab‑grade fitness metric without a lab test.",
-        "The new metrics are rolled out on Oura Ring Gen3 and newer models, positioning Oura to differentiate itself amid rising competition."
-      ],
-      "topics": [
-        "smart ring",
-        "fitness tracking",
-        "cardio effort",
-        "vo2 max",
-        "health tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "processed_at": "2026-10-22T10:29:19.740137+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-19-rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/rj-scaringe-disrupt-2026-getty.jpg?resize=1200,800",
-      "title": "Rivian's CEO says autonomy will enable 'dramatically different' vehicle designs | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Rivian CEO RJ Scaringe announced that autonomous technology will allow the company to create radically different vehicle designs beyond its current R2 SUV and R3 truck lineup, envisioning a future where personally owned autonomous cars could take on new form factors. He noted that while robotaxis are already operating in several cities, the majority of miles in the U.S. are driven in privately owned vehicles, so a societal shift away from personal ownership is unlikely even with Level 4 autonomy. Rivian is progressing from a driver‑assistance system that lets drivers take their hands off the wheel to a point‑to‑point navigation feature slated for release by year‑end, and plans to deploy fully autonomous R2 SUVs on Uber’s ride‑hail platform. Scaringe remains excited about the next decade of transportation, hinting at an upcoming R4 model that will showcase the design possibilities unlocked by autonomy.",
-      "key_points": [
-        "Rivian’s CEO says autonomy will enable radically new vehicle designs beyond current SUV and truck models",
-        "The company is moving from driver‑assistance to point‑to‑point navigation, aiming for full autonomy in robotaxi R2 SUVs on Uber",
-        "Scaringe believes most U.S. miles will still be driven in personally owned vehicles, limiting a shift to shared autonomous fleets",
-        "He hints at an upcoming R4 model that will demonstrate the design opportunities of autonomous technology"
-      ],
-      "topics": [
-        "rivian",
-        "autonomy",
-        "electric vehicles",
-        "vehicle design",
-        "robotaxi"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 19 Oct 2026 17:39:51 +0000",
-      "processed_at": "2026-10-22T10:29:08.395053+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "TikTok employees have repeatedly warned executives about risks to children, including sexual exploitation and suicide‑related content, according to court documents obtained by NPR. Depositions filed in March 2026 reveal that the company failed to act on these concerns, did not conduct age‑verification surveys, and allowed minors to access age‑restricted material. TikTok has denied the allegations, citing billions invested in Trust & Safety and more than 50 preset safety settings for teens, while also noting that the claims are cherry‑picked by trial lawyers. The platform is now facing hundreds of consolidated lawsuits alongside Meta, Google, and Snap for allegedly harming minors and failing to disclose known risks.",
-      "key_points": [
-        "Employees warned of sexual content, suicide material, and minors exploiting loopholes on TikTok",
-        "TikTok denied wrongdoing, citing billions in Trust & Safety and 50+ teen safety settings",
-        "Court documents show the company avoided age‑verification surveys to protect FTC data",
-        "TikTok is part of a larger wave of lawsuits against major social media platforms for child harm"
-      ],
-      "topics": [
-        "tiktok",
-        "child safety",
-        "social media",
-        "lawsuits",
-        "trust and safety"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 15:03:41 +0000",
-      "processed_at": "2026-10-22T05:17:29.159956+00:00"
     }
   ]
 }

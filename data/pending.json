@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T20:24:55.912317+00:00",
+  "updated_at": "2026-10-27T00:00:29.110665+00:00",
   "items": [
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -8,28 +8,10 @@
       "published": "Sat, 24 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "feed_excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "published": "Sun, 25 Oct 2026 14:10:00 +0000"
-    },
-    {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "feed_excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "published": "Sun, 25 Oct 2026 16:57:32 +0000"
-    },
-    {
       "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
       "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
       "feed_excerpt": "\"That's a 12-year-old view of the world.\"",
       "published": "Sun, 25 Oct 2026 20:20:08 +0000"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "feed_excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "published": "Mon, 26 Oct 2026 14:35:22 +0000"
     },
     {
       "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
@@ -38,28 +20,10 @@
       "published": "Mon, 26 Oct 2026 12:58:40 +0000"
     },
     {
-      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "feed_excerpt": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.",
-      "published": "Mon, 26 Oct 2026 19:22:40 +0000"
-    },
-    {
       "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
       "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
       "feed_excerpt": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
       "published": "Mon, 26 Oct 2026 18:59:52 +0000"
-    },
-    {
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "feed_excerpt": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "published": "Mon, 26 Oct 2026 17:45:00 +0000"
-    },
-    {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "feed_excerpt": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-      "published": "Mon, 26 Oct 2026 16:49:42 +0000"
     },
     {
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
@@ -72,7 +36,19 @@
       "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
       "feed_excerpt": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
       "published": "Mon, 26 Oct 2026 15:58:25 +0000"
+    },
+    {
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "feed_excerpt": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "feed_excerpt": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+      "published": "Mon, 26 Oct 2026 21:05:11 +0000"
     }
   ],
-  "last_processed_at": "2026-10-26T20:24:57.818294+00:00"
+  "last_processed_at": "2026-10-27T00:00:54.707024+00:00"
 }
