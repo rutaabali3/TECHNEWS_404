@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-27T05:25:39.767737+00:00",
+  "updated_at": "2026-10-27T10:49:10.748843+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-26-x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "X introduced a visual nudge—a large hand pointing to the promote button—that appeared while users were drafting posts, sparking confusion and annoyance across the platform. The unexpected graphic has led to widespread complaints on Twitter, with some users speculating it is a Halloween prank or a new engagement tactic reminiscent of former product head Nikita Bier’s style. X has not yet responded to the backlash, and it remains unclear whether the new product chief Peter Sellis is responsible for the change. The incident highlights the tension between aggressive monetization nudges and user experience on the platform.",
+      "key_points": [
+        "X added a pointing hand nudge to the promote button that users find confusing and annoying",
+        "The graphic appeared spontaneously while drafting posts, leading to widespread complaints on Twitter",
+        "The tactic is reminiscent of former product head Nikita Bier’s engagement methods and may involve new product chief Peter Sellis",
+        "X has not yet issued a comment on the incident"
+      ],
+      "topics": [
+        "x",
+        "social media",
+        "product design",
+        "user experience",
+        "engagement tactics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 06:34:44 +0000",
+      "processed_at": "2026-10-27T10:48:54.996687+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI unveiled its new always‑on personal assistant, dots, during its late‑September developer day. The agent, available to ChatGPT Pro tier subscribers for $100 a month, runs in the background and integrates with calendars, email, and other tools to proactively help users. While early iterations still miss perfect timing for reminders, the team emphasizes its intent to make the experience intuitive and useful. The launch underscores the industry shift toward persistent AI assistants, raising privacy and scalability questions similar to those faced by competitors like Instinct and Meta’s Muse.",
+      "key_points": [
+        "OpenAI released dots, an always‑on personal assistant, at its developer day.",
+        "Dots is available to ChatGPT Pro tier subscribers for $100 a month and integrates with calendars, email, and other tools.",
+        "The assistant uses a persistent agent model and aims to proactively help users, though early versions still lack perfect timing.",
+        "Privacy controls mirror those of ChatGPT, but scaling and data concerns remain prominent."
+      ],
+      "topics": [
+        "ai assistants",
+        "openai",
+        "personal assistant",
+        "privacy",
+        "developer day"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "processed_at": "2026-10-27T10:48:52.068966+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "SpaceX has secured a $40 billion GPU financing deal with Apollo Global Management, the largest committed GPU financing to date. Under the agreement, Apollo will purchase Nvidia Vera Rubin chips and related server hardware and lease them to SpaceX for five to five‑and‑a‑quarter years, with leases starting in early 2027. The arrangement gives SpaceX an alternative funding source for its expanding AI infrastructure, including the Grok chatbot and cloud services, and is expected to close by year‑end. The deal comes amid a surge in SpaceX’s AI spending and a tightening debt market for pure‑play AI compute firms.",
+      "key_points": [
+        "SpaceX locks in $40 billion GPU financing with Apollo, the largest committed GPU deal ever.",
+        "Apollo will buy Nvidia Vera Rubin chips and lease them to SpaceX for 5–5.25 years, starting 2027.",
+        "The lease diversifies SpaceX’s funding and supports its AI growth, including Grok and cloud compute."
+      ],
+      "topics": [
+        "spacex",
+        "apollo",
+        "gpu financing",
+        "ai infrastructure",
+        "debt markets"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "processed_at": "2026-10-27T10:48:52.067746+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-26-databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
@@ -2423,81 +2497,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 22:57:57 +0000",
       "processed_at": "2026-10-22T19:50:11.004986+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-chatgpt-now-lets-you-lock-your-chats",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "ChatGPT now lets you lock your chats | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "OpenAI has introduced a \"Locked Chats\" feature that lets users protect individual ChatGPT conversations with a PIN, Face ID, or Touch ID, keeping them separate from the main chat history. Locked chats are stored in a dedicated section and, when Memory is enabled, maintain a separate memory that does not bleed into regular chats, though the feature does not add end‑to‑end encryption or change data retention policies. The new privacy layer is available across all paid and free plans except ChatGPT for Healthcare and is intended for personal or sensitive discussions that users may want to keep private when sharing their device. While the feature enhances on‑screen privacy, OpenAI notes it does not address broader concerns about how data is stored or used to improve the model.",
-      "key_points": [
-        "Locked Chats can be secured with PIN, Face ID, or Touch ID and are stored separately from regular history.",
-        "The feature creates a distinct memory for locked chats that does not affect the main Memory, but it does not provide end‑to‑end encryption or alter data retention.",
-        "Locked Chats are available on all plans except ChatGPT for Healthcare and cannot be used with temporary, archived, group, or scheduled chats.",
-        "Resetting the PIN permanently deletes all locked content, and the feature is still rolling out."
-      ],
-      "topics": [
-        "chatgpt",
-        "privacy",
-        "openai",
-        "ai",
-        "feature"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 18:36:53 +0000",
-      "processed_at": "2026-10-22T19:50:10.977276+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-streaming-guide-justwatch-becomes-a-streamer-itself",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Multi_device_mock.png?resize=1200,675",
-      "title": "Streaming guide JustWatch becomes a streamer itself | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "JustWatch, the streaming‑search engine used by 50 million people, has launched its own streaming service, JustWatch TV, offering both free ad‑supported and paid ad‑free tiers. The new platform will feature content from 30 partners—including Paramount, Cineverse, and Altitude—and will be available in 12 markets, with a movie‑rental store launching in the U.S., U.K., Ireland, Australia, and New Zealand. Subscribers to the paid tier, priced at $3.99 per month or $49.99 for a lifetime, gain access to over 300 ad‑free titles, advanced filters, and a 10 % discount on rentals. JustWatch plans to let users request titles, aiming to grow its audience data while directing viewers to its existing partner ecosystem.",
-      "key_points": [
-        "JustWatch has entered the streaming market with a free and paid tier, featuring 30 content partners and a movie‑rental store.",
-        "The service launches in 12 markets, with a paid plan priced at $3.99/month or $49.99 lifetime and includes 300+ ad‑free titles and a 10 % rental discount.",
-        "JustWatch will let users request titles to influence its content lineup, leveraging its large audience data for future growth.",
-        "The move expands JustWatch’s role from a “TV guide” to a hub that both streams content and directs traffic to partner services."
-      ],
-      "topics": [
-        "streaming",
-        "justwatch",
-        "subscription",
-        "media",
-        "tv"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 16:01:24 +0000",
-      "processed_at": "2026-10-22T19:50:10.683995+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpg?resize=1200,675",
-      "title": "SpaceX alum's aviation startup, Reliable Robotics, lands $115M, topping $1B valuation | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Reliable Robotics, a Mountain View startup founded by former SpaceX engineers, has secured a $115 million boost—comprising $90 million in equity led by Nimble Partners and $25 million in debt from Silicon Valley Bank—bringing its Series D total to $275 million and pushing its valuation past $1 billion. The company, which has raised $380 million to date, is advancing toward FAA certification of its autonomous flight system, with the first continuous autopilot engagement expected within 18 to 24 months and a pilot‑removal system slated for at least three years later. In addition, Reliable is developing a solid‑state collision‑avoidance radar that it hopes to certify by the end of 2027, and plans to launch Reliable Airlines, the first airline to operate fully autonomous aircraft. These milestones position the firm as a potential industry catalyst, mirroring the autonomous trajectory seen in automotive technology.",
-      "key_points": [
-        "$115M funding extends runway and pushes valuation over $1B",
-        "Series D total $275M includes $90M equity and $25M debt",
-        "First autopilot system to be FAA certified in 18‑24 months",
-        "Solid‑state collision‑avoidance radar aims for 2027 certification"
-      ],
-      "topics": [
-        "aviation",
-        "autonomous",
-        "startup",
-        "funding",
-        "faa"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 13:17:36 +0000",
-      "processed_at": "2026-10-22T19:50:10.785905+00:00"
     }
   ]
 }

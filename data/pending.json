@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T05:25:07.923653+00:00",
+  "updated_at": "2026-10-27T10:48:50.185315+00:00",
   "items": [
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -26,23 +26,11 @@
       "published": "Mon, 26 Oct 2026 18:59:52 +0000"
     },
     {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "feed_excerpt": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
-      "published": "Mon, 26 Oct 2026 16:46:36 +0000"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "feed_excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "published": "Tue, 27 Oct 2026 02:00:00 +0000"
-    },
-    {
       "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
       "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
       "feed_excerpt": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
       "published": "Tue, 27 Oct 2026 01:12:21 +0000"
     }
   ],
-  "last_processed_at": "2026-10-27T05:25:09.973576+00:00"
+  "last_processed_at": "2026-10-27T10:48:54.996773+00:00"
 }
