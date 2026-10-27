@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-27T10:48:50.185315+00:00",
+  "updated_at": "2026-10-27T16:16:22.235387+00:00",
   "items": [
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "published": "Sat, 24 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
-      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "feed_excerpt": "\"That's a 12-year-old view of the world.\"",
-      "published": "Sun, 25 Oct 2026 20:20:08 +0000"
     },
     {
       "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
@@ -30,7 +24,61 @@
       "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
       "feed_excerpt": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
       "published": "Tue, 27 Oct 2026 01:12:21 +0000"
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "feed_excerpt": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "published": "Tue, 27 Oct 2026 14:59:09 +0000"
+    },
+    {
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "feed_excerpt": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "published": "Tue, 27 Oct 2026 14:40:39 +0000"
+    },
+    {
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "feed_excerpt": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "published": "Tue, 27 Oct 2026 13:54:51 +0000"
+    },
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "feed_excerpt": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "published": "Tue, 27 Oct 2026 13:32:57 +0000"
+    },
+    {
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "feed_excerpt": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+      "published": "Tue, 27 Oct 2026 13:01:00 +0000"
+    },
+    {
+      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+      "feed_excerpt": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "feed_excerpt": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "feed_excerpt": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "feed_excerpt": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "published": "Tue, 27 Oct 2026 11:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-27T10:48:54.996773+00:00"
+  "last_processed_at": "2026-10-27T16:16:35.272215+00:00"
 }

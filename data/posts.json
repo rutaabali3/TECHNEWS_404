@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-27T10:49:10.748843+00:00",
+  "updated_at": "2026-10-27T16:16:53.518201+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-27-ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "Ford has unveiled two new EV chargers that will let its upcoming Fathom pickup serve as a home battery, with the chargers priced about half of Ford’s existing models. The Fathom, starting at $28,350, can deliver over 10 kW to a house, enough to keep a refrigerator and air conditioner running for roughly half a day. The Home Power Station costs around $650 and lets owners charge the truck when rates are low and feed power back when rates rise, while the Home Backup Power package—about $2,100—adds a backup panel so the truck can power a home during outages. Owners who keep the Fathom plugged in can join virtual power plants and potentially earn up to $1,000 a year by selling electricity back to the grid.",
+      "key_points": [
+        "Ford’s new chargers cut cost by roughly 50% and enable the Fathom to supply home power",
+        "The Fathom starts at $28,350 and can deliver over 10 kW, enough to run a fridge and AC for about 12 hours",
+        "The Home Power Station ($650) and Home Backup Power ($2,100) packages allow grid arbitrage and backup power",
+        "Owners can join virtual power plants and potentially earn up to $1,000 annually by feeding power back to the grid"
+      ],
+      "topics": [
+        "electric vehicles",
+        "vehicle-to-everything",
+        "home energy storage",
+        "virtual power plants",
+        "charging infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 14:51:33 +0000",
+      "processed_at": "2026-10-27T16:16:24.106483+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Apple unveiled a new 14‑inch MacBook Pro powered by its latest M6 chip, offering a 24‑hour battery, Wi‑Fi 7, and Bluetooth 6 support, and starting at $1,999. The M6 features a 12‑core CPU and GPU, delivering up to 30% faster graphics, 25% faster AI workloads, and 13× the LLM prompt‑processing speed of the M1, while being 1.3× faster than the M5. The laptop comes with 16‑32GB unified memory, 170GB/s bandwidth, HDMI, MagSafe 3, three Thunderbolt 4 ports, an SDXC slot, a headphone jack, a 12‑MP camera, and fast charging to 50% in 30 minutes. Preorders begin on October 28 with shipping starting November 6, alongside a new M6‑powered iMac that starts at $1,499.",
+      "key_points": [
+        "M6 chip delivers up to 30% faster graphics and 25% faster AI workloads over M5",
+        "New MacBook Pro offers 24‑hour battery life and Wi‑Fi 7 support",
+        "Laptop starts at $1,999, preorders Oct 28, available Nov 6",
+        "M6 MacBook Pro includes 16‑32GB unified memory with 170GB/s bandwidth"
+      ],
+      "topics": [
+        "apple",
+        "macbook",
+        "m6 chip",
+        "battery",
+        "wifi"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 14:25:11 +0000",
+      "processed_at": "2026-10-27T16:16:35.272115+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-25-cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/paulina-borsook.jpeg?resize=1139,1200",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Paulina Borsook’s 2000 book \"Cyberselfish\" is returning in a new Tin House edition after a resurgence of interest sparked by author Gil Durán and coverage in The New York Times. The book, which Borsook describes as a travelogue of her attempts to expose the techno‑libertarian influence on Silicon Valley culture, argues that a 12‑year‑old anti‑regulation mindset has pervaded the industry and shaped its trajectory. Borsook notes that the book was out of print for years, but used copies began to fetch higher prices and social‑media posts from academics and readers renewed demand. The new edition, with an introduction by Durán, offers a fresh lens on how Silicon Valley’s counterculture and conservative factions have coexisted and evolved over the past quarter‑century.",
+      "key_points": [
+        "The new Tin House edition of \"Cyberselfish\" revives a 2000 critique of Silicon Valley’s techno‑libertarian culture.",
+        "Borsook’s book frames the anti‑regulation mindset as a 12‑year‑old belief that has shaped the tech industry’s development.",
+        "The book’s resurgence was driven by social‑media buzz, academic interest, and a New York Times feature.",
+        "The new edition includes an introduction by Gil Durán, highlighting the book’s renewed relevance."
+      ],
+      "topics": [
+        "technology",
+        "book",
+        "silicon valley",
+        "techno-libertarianism",
+        "publishing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 25 Oct 2026 20:20:08 +0000",
+      "processed_at": "2026-10-27T16:16:23.958551+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-26-x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
@@ -2419,84 +2494,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 20 Oct 2026 21:25:22 +0000",
       "processed_at": "2026-10-22T23:04:04.526178+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-spacexs-ai-business-is-beating-expectations",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
-      "title": "SpaceX's AI business is beating expectations | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "SpaceX reported third‑quarter revenue of $14.6 billion, with its newly renamed Super Intelligence AI business accounting for 52% of income and generating $7.5 billion in sales and $431 million in profit after a $1.2 billion one‑time stock‑based expense. The company invested $19.6 billion in capital expenditures, building its Colossus II data center and expanding Starship rocket development, while its Starlink subscriber base grew to 13.6 million. Net income swung to $4.4 billion, a turnaround from a $1 billion loss a year earlier, though the first nine months still show a $413 million loss. Elon Musk forecast that SpaceX’s AI recurring revenue could reach $500 billion to $1 trillion by 2027, underscoring the firm’s shift from space launch to artificial intelligence.",
-      "key_points": [
-        "SpaceX’s AI division exceeded expectations, delivering $7.5 billion in revenue and $431 million in profit in Q3.",
-        "The company poured $19.6 billion into data‑center and rocket infrastructure, including the Colossus II project and Starship test flights.",
-        "Net income turned positive to $4.4 billion, reversing last year’s loss, though the year‑to‑date result remains a $413 million loss.",
-        "Musk projects $500 billion–$1 trillion in annual recurring AI revenue by 2027, highlighting the strategic pivot to AI.”]",
-        "topics",
-        ":",
-        [
-          "space",
-          "ai",
-          "data centers",
-          "rockets",
-          "finance"
-        ]
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 20:40:41 +0000",
-      "processed_at": "2026-10-22T23:04:04.858032+00:00"
-    },
-    {
-      "id": "echcrunch-com-2026-10-20-plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800",
-      "title": "Exclusive: Plants can speak using electricity, so this startup built an AI model to decipher their language | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Electric Plant has developed Bombadil, a large‑language‑model that decodes the subtle electrical signals plants emit, allowing growers to understand plant needs in real time. The startup, founded by Justin Mast and neuroscientist Lee von Kraus, has collected data from over 125 species and built sensors that cost only a few dozen dollars each, far cheaper than conventional soil probes and spectroscopes. After raising an $11.2 million seed round led by Onto Ventures and Climactic, Electric Plant plans to deploy its sensors and cloud‑based model to help farmers cut water usage by at least 20% while boosting yields. The company envisions a future where humans can “speak” to plants, turning plant communication into a practical tool for agriculture and forestry.",
-      "key_points": [
-        "Bombadil is a large‑language‑model trained on electrical signals from more than 125 plant species, enabling real‑time interpretation of plant needs.",
-        "Electric Plant raised $11.2 million in seed funding led by Onto Ventures and Climactic, with participation from several other investors.",
-        "Its low‑cost sensors—tens of dollars each—can reduce water use by 20% or more and outperform existing agricultural monitoring tools.",
-        "The startup aims to create a platform that lets growers “talk” to plants, potentially transforming precision agriculture and forestry."
-      ],
-      "topics": [
-        "agriculture",
-        "ai",
-        "plantbiology",
-        "startups",
-        "funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-22T23:04:04.574296+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-spacex-and-tesla-boards-form-special-committees-to-review-merger",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
-      "title": "SpaceX and Tesla boards form special committees to review merger | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "SpaceX and Tesla boards have each formed independent special committees to evaluate a potential merger, a move requested by shareholders. Elon Musk, who is a conflicted party, cannot serve on the committees and has said the merger is not guaranteed, though he supports the idea. The committees have not yet agreed on any terms, and shareholder approval will be required for a deal to move forward. The companies see potential synergies in AI, robotics, SpaceX’s orbital AI data center, and a joint chip‑manufacturing project.",
-      "key_points": [
-        "SpaceX and Tesla formed independent special committees to review a possible merger",
-        "Elon Musk cannot participate in the committees and says the merger is not guaranteed",
-        "Committees have not reached terms; shareholder approval is needed",
-        "Potential synergies include AI, robotics, orbital AI data center, and joint chip manufacturing"
-      ],
-      "topics": [
-        "merger",
-        "spacex",
-        "tesla",
-        "ai",
-        "board governance"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 22:57:57 +0000",
-      "processed_at": "2026-10-22T19:50:11.004986+00:00"
     }
   ]
 }
