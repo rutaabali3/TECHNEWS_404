@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:19:21.649352+00:00",
+  "updated_at": "2026-10-28T06:05:38.836625+00:00",
   "items": [
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -26,34 +26,10 @@
       "published": "Tue, 27 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "feed_excerpt": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
-    },
-    {
       "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
       "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
       "feed_excerpt": "The new standard, WebAI, is designed to work with a variety of AI models.",
       "published": "Tue, 27 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "feed_excerpt": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "published": "Tue, 27 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "feed_excerpt": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "published": "Tue, 27 Oct 2026 18:55:35 +0000"
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "feed_excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "published": "Tue, 27 Oct 2026 17:08:08 +0000"
     },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -108,7 +84,19 @@
       "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
       "feed_excerpt": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
       "published": "Tue, 27 Oct 2026 21:22:35 +0000"
+    },
+    {
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "feed_excerpt": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "published": "Wed, 28 Oct 2026 05:20:32 +0000"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "feed_excerpt": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "published": "Wed, 28 Oct 2026 01:15:28 +0000"
     }
   ],
-  "last_processed_at": "2026-10-28T00:19:51.124540+00:00"
+  "last_processed_at": "2026-10-28T06:05:51.836604+00:00"
 }

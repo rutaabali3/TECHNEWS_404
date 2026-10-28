@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-28T00:19:51.125136+00:00",
+  "updated_at": "2026-10-28T06:06:06.339940+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-27-disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Disruptive, the Dallas‑based venture firm, has announced a $10 billion blind‑pool fund that will back at least ten late‑stage companies, with individual checks up to $1 billion. The fund, the largest venture vehicle ever raised in Texas, focuses on capital‑intensive sectors such as artificial intelligence and defense. It follows the firm’s history of high‑profile bets on Palantir, Airbnb, Spotify, Groq and ElevenLabs, and already has secured $7.5 billion in commitments. The fund marks the first time Disruptive will raise money without specifying target companies, a shift from its previous deal‑by‑deal special purpose vehicles.",
+      "key_points": [
+        "Disruptive launches a $10 billion blind‑pool fund, the largest venture fund raised in Texas history.",
+        "The fund will invest up to $1 billion per company in at least ten late‑stage AI and defense firms.",
+        "It has already secured $7.5 billion in commitments, following a track record of successful bets on Palantir, Airbnb, Spotify, Groq and ElevenLabs.",
+        "Founder Alex Davis, grandson of oil magnate Marvin Davis, leads the firm’s first blind‑pool venture vehicle."
+      ],
+      "topics": [
+        "venture capital",
+        "ai",
+        "defense",
+        "texas",
+        "blind-pool"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 18:55:35 +0000",
+      "processed_at": "2026-10-28T06:05:51.836514+00:00"
+    },
+    {
+      "id": "-techcrunch-com-2026-10-27-frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean? | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI announced that its large language models have produced algorithms that solve three longstanding mathematical problems in sub‑exponential time, effectively refuting the Exponential Time Hypothesis (ETH) that underpins much of computational complexity theory. The claim sparked a swift response from the scientific community, with Anthropic releasing its own refutation and experts like MIT’s Ryan Williams calling for a collaborative review. OpenAI has structured its release to involve mathematicians, computer scientists, and physicists through GitHub drops, working groups, and a planned conference, while also addressing potential security implications for cryptographic systems. The debate raises questions about the possibility of P = NP, the future of algorithmic research, and how AI‑generated insights should be integrated into scientific practice.",
+      "key_points": [
+        "OpenAI claims its models refute the Exponential Time Hypothesis by solving three hard math problems in sub‑exponential time",
+        "Anthropic released a parallel refutation, prompting mixed reactions from mathematicians and computer scientists",
+        "OpenAI is engaging the community through working groups, a conference, and open‑source releases to vet the proofs",
+        "The findings could challenge assumptions about P versus NP and affect cryptographic security"
+      ],
+      "topics": [
+        "openai",
+        "eth",
+        "p versus np",
+        "cryptography",
+        "ai research"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 17:08:08 +0000",
+      "processed_at": "2026-10-28T06:05:40.604335+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "General Compute has closed a $100 million Series A led by Blackbird Ventures and Abstract Ventures, boosting its post‑money valuation to $800 million after a May seed round that valued it at $60 million. The neocloud, founded by Finn Puklowski, differentiates itself by building a cloud around inference‑optimized chips from SambaNova, Positron, and Cerebras instead of chasing GPUs, and by renting space in existing data centers and repurposing former bitcoin‑mining sites. The company secured a $100 million annual recurring revenue deal with a large customer, which helped secure the new funding and underpins its plan to deploy 75 megawatts of compute capacity by 2027, with potential to scale to 200 megawatts. General Compute’s strategy aims to sidestep the high costs of building hyperscale facilities while meeting the growing demand for high‑speed inference services.\n",
+      "key_points": [
+        "Raised $100M Series A, valuing the company at $800M post‑money",
+        "Focuses on inference chips from SambaNova, Positron, and Cerebras, avoiding the GPU race",
+        "Uses rented and repurposed data center space to keep costs low",
+        "Targets 75MW of compute by 2027, with potential to scale to 200MW"
+      ],
+      "topics": [
+        "neocloud",
+        "ai compute",
+        "inference chips",
+        "funding",
+        "data centers"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-28T06:05:40.710615+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Nvidia has invested $14 million in Bengaluru‑based startup Simplismart in a Series B round that values the company at roughly $100 million. Simplismart’s software sits between AI models and GPU infrastructure, automatically tuning deployment to balance speed, cost and performance so that companies can run inference on fewer GPUs. The company claims its platform helped the video‑generation firm InVideo cut GPU‑serving costs by 56 % and has customers such as HeyGen, Higgsfield, and the Indian cloud provider Yotta. With the new funding, Simplismart plans to expand in the U.S., grow its team and further develop its inference engine, while Nvidia works on technical integrations and customer introductions.",
+      "key_points": [
+        "Nvidia’s $14 M Series B investment values Simplismart at about $100 M and supports its GPU‑optimization software.",
+        "The platform automatically tunes AI inference to reduce GPU usage, exemplified by a 56 % cost cut for InVideo.",
+        "Simplismart’s revenue run rate has grown 14‑fold in six months, with more than half coming from U.S. customers.",
+        "Nvidia is collaborating on integrations and customer outreach, aiming to make its hardware more attractive through more efficient inference."
+      ],
+      "topics": [
+        "nvidia",
+        "ai inference",
+        "startup funding",
+        "gpu optimization",
+        "india"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "processed_at": "2026-10-28T06:05:41.180551+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-27-rebuild-which-spun-out-slate-auto-raises-2-1b",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
@@ -2389,109 +2489,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 18:00:00 +0000",
       "processed_at": "2026-10-23T12:46:52.727513+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
-      "title": "AI promises productivity, but for managers, it's mostly a headache for now | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "Companies are giving employees AI tools to boost productivity, but the technology is creating new headaches for managers. A Nielsen survey of 1,700 senior leaders across seven countries found that more than half now spend extra time reviewing polished outputs that blend human and AI work, and 78% have shifted how they evaluate staff to focus on prompt creation and delegation skills. While 94% of managers are excited about AI’s potential, they struggle to keep pace with rapid advances, leading to a proliferation of tools, increased invisible labor, and concerns about bias and loss of control over autonomous agents. The findings suggest that AI adoption is becoming as much a governance challenge as a productivity opportunity, with many leaders fearing responsibility for unpredictable AI decisions.",
-      "key_points": [
-        "More than half of senior leaders find it harder to evaluate work after AI adoption, spending extra time reviewing outputs that blend human and AI effort.",
-        "Despite excitement, managers face a surge in tools, invisible labor, and governance issues, with 58% expecting to oversee more AI agents than human employees in the next year.",
-        "Bias risks are amplified as 46% of managers use AI to inform performance reviews, potentially reproducing human patterns in predictive models."
-      ],
-      "topics": [
-        "ai",
-        "management",
-        "productivity",
-        "bias",
-        "governance",
-        "tools"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-23T12:46:29.025492+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Anthropic has drafted an AI‑safety bill that would allow Congress to block the release of a model if it poses a foreseeable, imminent risk that could kill more than 50 people or cause over a billion dollars in property damage from a biological weapon, model evasion, or cyberattack. The proposal calls for independent evaluators registered with the U.S. Commerce Department to assess risk, with payments to evaluators not tied to their findings, and gives them 72 hours to alert the department before a judge orders a halt. The bill mirrors California’s Senate Bill 53, which defines catastrophic risk in similar terms, and represents Anthropic’s Advanced AI Framework that the company has been lobbying for since June. While the industry has largely resisted mandatory oversight, Anthropic’s draft pushes for a more formal regulatory mechanism than competitors such as Nvidia have suggested.",
-      "key_points": [
-        "Anthropic’s bill would block model releases if >50 people could die or >$1B property damage is likely from a biological weapon, model evasion, or cyberattack.",
-        "Independent evaluators, registered with the Commerce Department, would assess risk and must notify the department within 72 hours before a judge can order a halt.",
-        "The proposal aligns with California Senate Bill 53’s catastrophic‑risk thresholds and reflects Anthropic’s Advanced AI Framework lobbying since June.",
-        "The draft is more stringent than other industry positions, such as Nvidia’s stance that no new laws are needed.”]",
-        "topics",
-        ":",
-        [
-          "ai safety",
-          "regulation",
-          "anthropic",
-          "legislation",
-          "independent evaluators"
-        ]
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "processed_at": "2026-10-23T12:46:28.872454+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Eka Robotics has been valued at $1.45 billion after closing a $150 million Series A led by a16z and F‑Prime, bringing a force‑sensitive gripper and a vision‑force‑action model to the forefront of robotic manipulation. The startup’s robot can pick up about 1,500 objects weighing up to 1 kg in an hour with a 95 % success rate, outperforming humans and many existing demos. By training reinforcement‑learning policies entirely in simulation, Eka can generate thousands of hours of experience in minutes, bypassing the need for costly human demonstrations. The company’s goal is to bridge the long‑standing generality‑performance gap in robotics, enabling industrial automation that can adapt to a wide range of tasks without retraining.",
-      "key_points": [
-        "Eka Robotics raised $150 million Series A, valuing it at $1.45 billion.",
-        "Its vision‑force‑action model and force‑sensitive gripper achieve superhuman pick‑and‑place performance.",
-        "Reinforcement learning in simulation allows rapid scaling of training data.",
-        "The startup aims to bridge the generality‑performance gap in robotics."
-      ],
-      "topics": [
-        "robotics",
-        "ai",
-        "startup",
-        "funding",
-        "manufacturing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-23T12:46:28.904055+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
-      "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "The U.S. National Security Agency warned that two critical holes in PHP, the language that powers roughly 70% of the web, were discovered and patched by the PHP Foundation. The flaws, which have existed in every PHP version since 2004, allow attackers to access server file systems or databases and require sites to be patched immediately or taken offline. AI tools from OpenAI and Google’s Wiz uncovered the vulnerabilities during security scans, showing how large language models can both find and potentially enable exploitation. With patches released, site owners must upgrade to PHP 8.5.12 or newer, while the NSA advises removing unpatched sites until they can be fixed.",
-      "key_points": [
-        "NSA issued a warning about two critical PHP holes affecting 70% of websites",
-        "AI-driven discovery by OpenAI and Wiz exposed long‑standing vulnerabilities",
-        "Immediate patching or site removal is required; upgrade to PHP 8.5.12",
-        "No known exploits yet, but AI lowers the barrier for attackers"
-      ],
-      "topics": [
-        "php",
-        "cybersecurity",
-        "ai",
-        "openai",
-        "google"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 17:59:12 +0000",
-      "processed_at": "2026-10-23T07:11:32.642302+00:00"
     }
   ]
 }
