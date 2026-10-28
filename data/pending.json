@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T19:00:21.427719+00:00",
+  "updated_at": "2026-10-28T23:25:19.930954+00:00",
   "items": [
     {
       "title": "Japan internet giant GMO says hackers posted stolen customer data",
@@ -26,18 +26,6 @@
       "published": "Tue, 27 Oct 2026 22:17:18 +0000"
     },
     {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "feed_excerpt": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "published": "Tue, 27 Oct 2026 21:38:28 +0000"
-    },
-    {
-      "title": "Discord is making its public communities more searchable, and people have concerns",
-      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
-      "feed_excerpt": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
-      "published": "Tue, 27 Oct 2026 21:22:35 +0000"
-    },
-    {
       "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
       "feed_excerpt": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
@@ -53,12 +41,6 @@
       "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
       "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
       "feed_excerpt": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
-      "published": "Wed, 28 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "feed_excerpt": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
       "published": "Wed, 28 Oct 2026 13:00:00 +0000"
     },
     {
@@ -138,7 +120,61 @@
       "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
       "feed_excerpt": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
       "published": "Wed, 28 Oct 2026 13:39:18 +0000"
+    },
+    {
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "feed_excerpt": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "published": "Wed, 28 Oct 2026 23:15:00 +0000"
+    },
+    {
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "feed_excerpt": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "published": "Wed, 28 Oct 2026 22:47:50 +0000"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "feed_excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "published": "Wed, 28 Oct 2026 21:58:32 +0000"
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "feed_excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "published": "Wed, 28 Oct 2026 21:48:37 +0000"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "feed_excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "published": "Wed, 28 Oct 2026 21:34:30 +0000"
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "feed_excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "published": "Wed, 28 Oct 2026 21:25:30 +0000"
+    },
+    {
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "feed_excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "published": "Wed, 28 Oct 2026 20:01:00 +0000"
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "feed_excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000"
+    },
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "feed_excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "published": "Wed, 28 Oct 2026 19:05:46 +0000"
     }
   ],
-  "last_processed_at": "2026-10-28T19:00:53.657122+00:00"
+  "last_processed_at": "2026-10-28T23:25:28.868737+00:00"
 }

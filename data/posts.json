@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-28T19:00:53.657948+00:00",
+  "updated_at": "2026-10-28T23:25:44.201170+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+      "title": "Founder Summit: Save up to $100 on your pass | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch is urging founders to secure tickets for its one‑day Founder Summit on November 4 at Boston’s SoWa Power Station before prices rise. The event offers up to $100 off and a buy‑one‑get‑one‑free pass, giving attendees a chance to hear practical advice from venture capitalists, AI experts and enterprise leaders. With two Q&A stages, roundtables, and a full agenda of scaling insights, the summit aims to help startups launch, raise funds, or scale. Registration closes when doors open, so founders are encouraged to act quickly to lock in savings and network with peers and investors.",
+      "key_points": [
+        "Up to $100 discount and a buy‑one‑get‑one‑free pass are available for the November 4 Founder Summit in Boston",
+        "The one‑day bootcamp features two Q&A stages, roundtables, and talks from venture capitalists, AI experts, and enterprise leaders",
+        "The summit targets founders at all stages—from launching to scaling—to provide actionable strategies and networking opportunities",
+        "Tickets must be purchased before doors open on November 4 to secure the savings"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "founder summit",
+        "discount",
+        "boston"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-28T23:25:21.914685+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-whos-really-in-charge-at-anthropic-after-the-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
+      "title": "Who's really in charge at Anthropic after the IPO? | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Anthropic’s upcoming IPO introduces a highly unconventional governance model that keeps founders, a Long‑Term Benefit Trust (LTBT), and a board of prominent outsiders in control while limiting ordinary shareholders’ influence. The company’s board, chaired by president Daniela Amodei, includes CEO Dario Amodei, Reed Hastings, Christopher Liddell, Vas Narasimhan, and Yasmin Razavi, but the LTBT—led by Neil Shah and featuring figures such as Ben Bernanke—holds a class of stock that can elect and remove a majority of board members. Founders collectively own a special class that gives them 50.1% of voting power, allowing them to appoint three directors, and the board can veto LTBT moves by putting decisions to an employee vote. After ten years, or if fewer than three founders remain, the founders’ control ends and the LTBT can be dissolved only with 85% of common shareholders’ approval, after which ordinary shareholders would finally gain full control.",
+      "key_points": [
+        "Anthropic’s IPO governance gives founders and a Long‑Term Benefit Trust majority control over board appointments and major decisions.",
+        "The board includes high‑profile outsiders but is subject to LTBT influence and an employee veto mechanism.",
+        "Founders’ special voting class is set to expire after ten years or if fewer than three founders remain.",
+        "Common shareholders will have limited power until the special classes are dissolved, after which they can fully control the company."
+      ],
+      "topics": [
+        "anthropic",
+        "ipo",
+        "corporate governance",
+        "ai safety",
+        "shareholder rights"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 21:38:28 +0000",
+      "processed_at": "2026-10-28T23:25:21.231897+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-discord-is-making-its-public-communities-more-searchable-and-people-have-concerns",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Discord-discover.png?w=1200",
+      "title": "Discord is making its public communities more searchable, and people have concerns | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Discord announced that it will make conversations in its public \"Discoverable Servers\" searchable and easier to find on the internet, starting with a web page for each server on November 16 and selected messages appearing in search engine results by mid‑December. Server administrators can choose which channels are included, while individual members can opt out, and usernames or avatars will not be displayed. The move aims to extend community reach beyond Discord, but has sparked backlash over privacy concerns and the potential use of public chats to train AI models. The feature is disabled by default in the EU, U.K., Canada, Brazil, Australia, and South Korea, and teen users are excluded.\n",
+      "key_points": [
+        "Discord will make public server chats searchable via web pages and search engines, with admin control over channels and member opt‑out options.",
+        "The feature raises privacy concerns, especially about exposing conversations to wider audiences and using them for AI training.",
+        "It is disabled by default in several regions and for teen users, reflecting legal and ethical restrictions.",
+        "The initiative aims to broaden community reach beyond Discord, similar to traditional internet forums.\n"
+      ],
+      "topics": [
+        "discord",
+        "searchability",
+        "privacy",
+        "ai",
+        "socialmedia"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 21:22:35 +0000",
+      "processed_at": "2026-10-28T23:25:28.868666+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
@@ -2414,79 +2489,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 20:15:00 +0000",
       "processed_at": "2026-10-23T23:56:18.844031+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "GM unveiled its fourth‑generation electric‑vehicle platform at its GM Forward event, emphasizing a new central compute unit that is 40 times more powerful than current systems and a fully integrated electrical architecture that will power everything from propulsion to active safety. The platform will debut in the 2028 Cadillac Escalade IQ, which will also launch an autonomous highway‑driving feature that allows hands‑off driving without a ready takeover. GM is using enterprise AI tools to cut its traditional four‑to‑five‑year development cycle in half, having run 300,000 virtual battery designs before building a prototype. The move signals GM’s shift toward software‑defined vehicles and a bid to compete with fast‑moving Chinese automakers and tech‑focused rivals like Tesla and Rivian.",
-      "key_points": [
-        "GM’s new central compute unit is 40× more powerful and cuts wiring by 30%, simplifying assembly and reducing weight.",
-        "The 2028 Cadillac Escalade IQ will introduce the platform and a hands‑off autonomous highway feature.",
-        "GM is leveraging AI to accelerate development, moving from a 4‑5 year cycle to roughly 2‑3 years with 300,000 virtual designs per battery pack.",
-        "In 2025, GM’s capitalized software amortization expense reached $866 million, reflecting heavy investment in software and autonomous tech."
-      ],
-      "topics": [
-        "electric vehicles",
-        "software",
-        "autonomous driving",
-        "ai",
-        "automotive industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 19:52:20 +0000",
-      "processed_at": "2026-10-23T23:56:18.708887+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1418464846.jpg?resize=1200,774",
-      "title": "Exclusive: Heat pump tech is 170 years old — Pascal thinks it’s time for an update | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Pascal, a startup founded by Adam Slavney and Jinyoung Seo, has developed a solid‑state refrigerant that can boost heat‑pump and refrigerator efficiency by about 20% while avoiding the environmental harms of traditional gases. The company, which raised $8.5 million in a follow‑on round led by Sazze Partners and LB Investment, plans to ship its first prototype in early 2024 and commercial units by 2028. Pascal’s technology uses a carbon‑dioxide‑filled cartridge with a proprietary sponge‑like material that transfers heat through gas–solid collisions, allowing conventional pressure levels and potentially lower costs. The breakthrough follows years of research into solid‑state refrigerants and could help the industry move away from ozone‑depleting and high‑global‑warming gases such as Freon and R‑134a.",
-      "key_points": [
-        "Pascal’s material can raise heat‑pump and refrigerator efficiency by ~20% without high pressures.",
-        "The startup secured $8.5 million in funding after signing a pilot contract with a multinational beverage company.",
-        "Its design uses CO₂ in a porous cartridge, enabling conventional systems and potentially lower production costs."
-      ],
-      "topics": [
-        "solid-state refrigerants",
-        "heat pump",
-        "refrigeration",
-        "startup funding",
-        "environmental technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 13:30:00 +0000",
-      "processed_at": "2026-10-23T23:56:18.950631+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-      "title": "Tesla says it will start selling Cybercabs by end of year | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Tesla announced it will begin selling its Cybercab, a two‑seat autonomous vehicle without a steering wheel, to customers by the end of the year. The move comes as the National Highway Traffic Safety Administration opens an investigation into the Cybercab’s compliance with federal safety standards, which currently require manual controls. Elon Musk said the Cybercab is intended for ride‑hailing service and will be largely Tesla‑owned, while the company plans to roll out fully autonomous Full Self‑Driving to owners only in the second quarter of next year. If the timelines hold, third‑party fleet operators could acquire Cybercabs before Tesla owners gain access to the same autonomous capability in their own cars.",
-      "key_points": [
-        "Tesla will start selling Cybercabs by year‑end despite an NHTSA investigation into its safety certification",
-        "The Cybercab is designed as a ride‑hailing vehicle and will be largely Tesla‑owned, not consumer‑owned",
-        "Full Self‑Driving for Tesla owners is delayed until Q2 next year, potentially giving fleet customers early access"
-      ],
-      "topics": [
-        "tesla",
-        "autonomous vehicles",
-        "robotaxi",
-        "regulation",
-        "federal investigation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 00:17:54 +0000",
-      "processed_at": "2026-10-23T23:56:18.471978+00:00"
     }
   ]
 }
