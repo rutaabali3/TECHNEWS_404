@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-28T13:23:25.914962+00:00",
+  "updated_at": "2026-10-28T19:00:21.427719+00:00",
   "items": [
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "feed_excerpt": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "published": "Tue, 27 Oct 2026 14:59:09 +0000"
-    },
     {
       "title": "Japan internet giant GMO says hackers posted stolen customer data",
       "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
@@ -14,22 +8,10 @@
       "published": "Tue, 27 Oct 2026 13:32:57 +0000"
     },
     {
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "feed_excerpt": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
-    },
-    {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "feed_excerpt": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
       "published": "Tue, 27 Oct 2026 16:30:57 +0000"
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "feed_excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "published": "Tue, 27 Oct 2026 23:34:27 +0000"
     },
     {
       "title": "The data center boom has an upside: innovation for the US grid",
@@ -42,18 +24,6 @@
       "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
       "feed_excerpt": "A whole crop of venture capital firms are raising significant new funds.",
       "published": "Tue, 27 Oct 2026 22:17:18 +0000"
-    },
-    {
-      "title": "GM is embracing hybrids now",
-      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-      "feed_excerpt": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
-      "published": "Tue, 27 Oct 2026 21:47:02 +0000"
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "feed_excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "published": "Tue, 27 Oct 2026 21:44:34 +0000"
     },
     {
       "title": "Who’s really in charge at Anthropic after the IPO?",
@@ -90,7 +60,85 @@
       "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
       "feed_excerpt": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
       "published": "Wed, 28 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "feed_excerpt": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+      "published": "Wed, 28 Oct 2026 17:26:10 +0000"
+    },
+    {
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "feed_excerpt": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+      "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "feed_excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "feed_excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "feed_excerpt": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "feed_excerpt": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "published": "Wed, 28 Oct 2026 15:53:52 +0000"
+    },
+    {
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "feed_excerpt": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+      "published": "Wed, 28 Oct 2026 15:53:21 +0000"
+    },
+    {
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "feed_excerpt": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "published": "Wed, 28 Oct 2026 15:41:18 +0000"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "feed_excerpt": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "published": "Wed, 28 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "feed_excerpt": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+      "published": "Wed, 28 Oct 2026 14:34:25 +0000"
+    },
+    {
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "feed_excerpt": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+      "published": "Wed, 28 Oct 2026 14:26:36 +0000"
+    },
+    {
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "feed_excerpt": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+      "published": "Wed, 28 Oct 2026 13:53:31 +0000"
+    },
+    {
+      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+      "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+      "feed_excerpt": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
+      "published": "Wed, 28 Oct 2026 13:39:18 +0000"
     }
   ],
-  "last_processed_at": "2026-10-28T13:23:39.675282+00:00"
+  "last_processed_at": "2026-10-28T19:00:53.657122+00:00"
 }
