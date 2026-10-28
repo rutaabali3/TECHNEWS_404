@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-28T06:06:06.339940+00:00",
+  "updated_at": "2026-10-28T13:23:50.160830+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-27-guidewire-buys-hyperexponential-for-1-7b-in-cash",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Guidewire has announced the acquisition of AI‑driven underwriting firm Hyperexponential for $1.7 billion in cash, with an additional $400 million contingent on future revenue targets. The deal, expected to close next year, will enable Guidewire to deploy AI agents alongside human underwriters to analyze, price, and make decisions. Hyperexponential, founded in 2017 and backed by Andreessen Horowitz and Battery Ventures, has raised nearly $90 million and is used by about 600 insurers in 40 countries. The transaction represents a significant return for investors and underscores the growing importance of AI in the insurance industry.",
+      "key_points": [
+        "Guidewire acquires Hyperexponential for $1.7 billion cash with a $400 million contingent bonus",
+        "Deal aims to integrate AI agents into underwriting workflows",
+        "Hyperexponential serves 600 insurers across 40 countries and was backed by Andreessen Horowitz and Battery Ventures",
+        "The acquisition signals a broader push toward AI‑driven insurance technology"
+      ],
+      "topics": [
+        "insurance",
+        "ai",
+        "acquisition",
+        "tech",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 22:26:03 +0000",
+      "processed_at": "2026-10-28T13:23:39.675189+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey-1.jpg?resize=1200,794",
+      "title": "Billionaire Palmer Luckey isn't leaving California over the wealth tax | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Palmer Luckey, the founder of defense tech firm Anduril, has confirmed he will not leave California despite the proposed billionaire wealth tax that would tax his $61 billion company and other unrealized assets. He argues the measure, sponsored by a United Healthcare Workers union, unfairly targets voting control and could cost him roughly $3 billion, while also threatening to drive other companies out of the state. Luckey says he will fight the tax and hopes it fails or faces legal challenges, citing the unprecedented nature of taxing future wealth and control. The billionaire has faced pressure from peers to relocate, but he insists California remains special and he will stay to defend it.",
+      "key_points": [
+        "Luckey will stay in California despite the billionaire wealth tax, citing potential $3 billion liability and impact on companies.",
+        "The tax targets voting control and unrealized assets, raising concerns about seizing future wealth and affecting founders with super‑voting shares.",
+        "Luckey plans to fight the measure and hopes for legal challenges to prevent post‑facto seizure of wealth."
+      ],
+      "topics": [
+        "wealth tax",
+        "billionaire",
+        "california",
+        "anduril",
+        "super voting shares"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 13:01:00 +0000",
+      "processed_at": "2026-10-28T13:23:27.955809+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Opera has unveiled WebAI, a new web standard that lets users run AI models directly in the browser without relying on cloud services. The standard supports a range of open‑weight models, including Google’s Gemma and Apple’s on‑device foundation model, and is available as an early preview in Opera One with plans to extend it to Opera GX and Opera Neon. By keeping model weights and data on the user’s device, WebAI offers greater privacy and eliminates the need for AI subscriptions, though it can increase local hardware load. Opera positions the feature as a way for developers to embed AI without running costly infrastructure while giving users more control over their data.",
+      "key_points": [
+        "Opera introduces WebAI, a browser‑based standard for running AI models locally",
+        "It supports open‑weight models such as Google’s Gemma and Apple’s on‑device foundation model",
+        "The approach enhances privacy and removes subscription costs but may strain device performance",
+        "WebAI is currently an early preview in Opera One, with future rollout planned for Opera GX and Opera Neon"
+      ],
+      "topics": [
+        "webbrowser",
+        "ai",
+        "privacy",
+        "open-source",
+        "opera"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-28T13:23:28.936849+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-27-disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
       "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
@@ -2413,82 +2487,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 21:16:20 +0000",
       "processed_at": "2026-10-23T17:46:49.806591+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Meta announced that its AI assistant Muse has surpassed 10 million users, confirming Sensor Tower estimates. About a quarter of engaged users shop through Muse, with an average purchase of over $200, and 25 % of users now use the app daily, boosting retention. Zuckerberg said Muse has reached product‑market fit and will be monetized mainly through a commission on commerce, with premium tiers for advanced models, while compute costs are expected to drop 10× in a year to enable profitability. The company also plans to embed Muse in its smart‑glasses strategy and launch a “Muse network” that lets users’ agents collaborate across friends and families.",
-      "key_points": [
-        "Muse now has >10 million users and 25 % daily active rate",
-        "Shopping via Muse averages $200+ per purchase, driving revenue",
-        "Meta will monetize Muse through commerce commissions and premium access while scaling compute efficiency",
-        "Muse will support smart‑glasses and a collaborative “Muse network” feature"
-      ],
-      "topics": [
-        "meta",
-        "muse",
-        "ai",
-        "shopping",
-        "monetization",
-        "smartglasses"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "processed_at": "2026-10-23T17:46:49.669226+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
-      "title": "Tesla starts Optimus robot production in California as profit falls 43% | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Tesla has begun production of its Optimus humanoid robot at its Fremont factory, marking the first batch of production‑quality units and signaling a shift from EV manufacturing to robotics. Despite the milestone, the company’s third‑quarter earnings slipped 43% to a $787 million net income as AI and robot development costs surged, even though EV sales remained flat at $20 billion and services grew 33%. Musk said the production ramp will be slow but aims for 20,000 robots per week by the end of 2027, while the company continues to push its Full Self‑Driving software toward an unsupervised, Level 4 release in the fourth quarter.",
-      "key_points": [
-        "Tesla has started production of its Optimus humanoid robot, delivering the first production‑quality units",
-        "Q3 net income fell 43% to $787 million due to high AI and robot development expenses",
-        "EV sales were flat at $20 billion and services grew 33% year‑over‑year",
-        "Musk targets 20,000 Optimus units per week by 2027 and an unsupervised FSD release in Q4"
-      ],
-      "topics": [
-        "tesla",
-        "robotics",
-        "ai",
-        "automotive",
-        "financials"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 20:33:09 +0000",
-      "processed_at": "2026-10-23T17:46:49.477393+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-gm-is-giving-onstar-an-ai-makeover",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
-      "title": "GM is giving OnStar an AI makeover | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "General Motors announced a major overhaul of its OnStar service, adding an in‑house AI assistant that will debut in the 2027 Cadillac Lyriq electric vehicle and roll out to other GM models thereafter. The company will also launch a new OnStar mobile app in 2027 that replaces the 2020 Guardian app and all brand‑specific vehicle apps, positioning OnStar as a connected intelligence platform rather than a simple call center. GM’s strategy is part of a $25 billion subscription‑based business plan aimed at 2030, and it follows a recent FTC order that limits data sharing and requires explicit consumer consent. The AI assistant will use vehicle cameras and voice commands to provide predictive, proactive support while giving users granular control over data sharing and recordings.",
-      "key_points": [
-        "GM is adding an in‑house AI assistant to OnStar, debuting in the 2027 Cadillac Lyriq EV and expanding to other models",
-        "A new OnStar mobile app will replace the Guardian and brand apps in 2027, integrating vehicle and app experiences",
-        "GM’s AI‑driven OnStar is part of a $25 billion subscription strategy targeted for 2030",
-        "FTC enforcement has prompted GM to implement consent‑based data sharing and limit third‑party access"
-      ],
-      "topics": [
-        "automotive",
-        "ai",
-        "subscription",
-        "data privacy",
-        "software"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 18:00:00 +0000",
-      "processed_at": "2026-10-23T12:46:52.727513+00:00"
     }
   ]
 }
