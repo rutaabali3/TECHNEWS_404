@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-27T20:51:02.261364+00:00",
+  "updated_at": "2026-10-28T00:19:21.649352+00:00",
   "items": [
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "feed_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "published": "Sat, 24 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-      "feed_excerpt": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
-      "published": "Mon, 26 Oct 2026 12:58:40 +0000"
-    },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
@@ -56,12 +44,6 @@
       "published": "Tue, 27 Oct 2026 11:00:00 +0000"
     },
     {
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "feed_excerpt": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-      "published": "Tue, 27 Oct 2026 20:31:17 +0000"
-    },
-    {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
       "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "feed_excerpt": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
@@ -78,7 +60,55 @@
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "feed_excerpt": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
       "published": "Tue, 27 Oct 2026 16:30:57 +0000"
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "feed_excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "feed_excerpt": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "published": "Tue, 27 Oct 2026 22:55:41 +0000"
+    },
+    {
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "feed_excerpt": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "published": "Tue, 27 Oct 2026 22:26:03 +0000"
+    },
+    {
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "feed_excerpt": "A whole crop of venture capital firms are raising significant new funds.",
+      "published": "Tue, 27 Oct 2026 22:17:18 +0000"
+    },
+    {
+      "title": "GM is embracing hybrids now",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "feed_excerpt": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "published": "Tue, 27 Oct 2026 21:47:02 +0000"
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "feed_excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "published": "Tue, 27 Oct 2026 21:44:34 +0000"
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "feed_excerpt": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "published": "Tue, 27 Oct 2026 21:38:28 +0000"
+    },
+    {
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "feed_excerpt": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "published": "Tue, 27 Oct 2026 21:22:35 +0000"
     }
   ],
-  "last_processed_at": "2026-10-27T20:51:30.542592+00:00"
+  "last_processed_at": "2026-10-28T00:19:51.124540+00:00"
 }

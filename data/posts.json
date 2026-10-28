@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-27T20:51:32.415597+00:00",
+  "updated_at": "2026-10-28T00:19:51.125136+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-27-rebuild-which-spun-out-slate-auto-raises-2-1b",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Re:Build, a Massachusetts‑based manufacturing accelerator that spun out EV startup Slate Auto, raised $2.1 billion led by General Catalyst and JPMorgan Chase’s Strategic Investment Group. The capital will expand Re:Build’s hard‑tech manufacturing capacity and launch new industrial startups, reinforcing U.S. industrial resilience against China. Co‑founder Jeff Wilke highlighted the round as a boost to American manufacturing and national security, while General Catalyst’s CEO emphasized the need for scale to compete globally. Re:Build, founded in 2020 with ties to Amazon, already supports over 2,100 U.S. employees and 2.4 million square feet of capacity and has incubated hundreds of products across aerospace, defense, and other sectors.",
+      "key_points": [
+        "$2.1 billion funding led by General Catalyst and JPMorgan Chase to expand Re:Build’s hard‑tech manufacturing and launch new industrial startups",
+        "Re:Build, founded by former Amazon execs, aims to rebuild U.S. manufacturing capacity and already supports 2,100 employees and 2.4 million square feet of capacity",
+        "The round underscores a broader push to re‑industrialize America as a hedge against China and a national security imperative"
+      ],
+      "topics": [
+        "manufacturing",
+        "startup",
+        "investment",
+        "technology",
+        "supplychain"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 20:31:17 +0000",
+      "processed_at": "2026-10-28T00:19:23.483045+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-24-all-the-ai-agents-that-can-live-in-your-text-messages",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "title": "Here are the top AI agents that can live in your text messages | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "TechCrunch’s article lists the leading AI agents that operate via text messaging, highlighting how they can remember context, integrate with existing apps, and automate tasks. The lineup includes high‑profile players such as Instinct, which recently raised $1 billion to reach a $10 billion valuation, as well as Ask Proxy, Caddy, Comma, Fambot, Folk, Iris, and Martin, each offering distinct capabilities from proactive reminders to family coordination. Many of the agents run entirely over SMS or popular messaging platforms, eliminating the need for separate apps, and pricing ranges from free trials to subscription tiers (e.g., Ask Proxy $1/day, Fambot free in beta, Folk $8.33/month). The article underscores the growing trend of conversational AI assistants that blend personal and work productivity while raising privacy concerns around autonomous email and call handling.",
+      "key_points": [
+        "Instinct’s $10 billion valuation after a $1 billion funding round positions it as the most valuable AI agent in the text‑based space.",
+        "Ask Proxy differentiates itself by proactively anticipating user needs and operates via SMS at $1/day for individuals.",
+        "Caddy and Comma focus on extracting actionable items from messages and completing tasks across devices, with Comma being free and open‑source.",
+        "Fambot targets family coordination, offering nightly summaries and future plans to charge a Netflix‑style subscription."
+      ],
+      "topics": [
+        "ai",
+        "messaging",
+        "productivity",
+        "startup",
+        "privacy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 24 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-10-28T00:19:51.124475+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-26-tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tesla-fsd-GettyImages-2277686230.jpg?resize=1200,800",
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised) | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Turo has announced a partnership with Tesla that will allow the car‑sharing platform to advertise which Teslas on its marketplace are equipped with Full Self‑Driving (Supervised) and to give eligible hosts a free one‑month trial of the software. The move comes after Tesla reported that 1.7 million customers worldwide have paid for FSD, with more than 75% of North American deliveries in Q3 including the subscription, a 20% rise from Q2. By highlighting FSD‑enabled vehicles, Turo aims to boost demand for its most popular models while offering hosts new earning opportunities, and Tesla is positioning the feature as a key selling point for its cars.",
+      "key_points": [
+        "Turo will list and advertise Teslas that have Full Self‑Driving (Supervised) enabled, and hosts receive a free one‑month FSD trial",
+        "Tesla reports 1.7 million global FSD subscriptions, with 75% of North American Q3 deliveries including the feature, up 20% from Q2",
+        "The partnership is intended to increase adoption of FSD and raise host earnings on Turo’s most popular Tesla models",
+        "Both companies see the collaboration as a way to bring driver‑assist technology to more consumers and close the gap between curiosity and hands‑on experience"
+      ],
+      "topics": [
+        "tesla",
+        "turo",
+        "full self-driving",
+        "carsharing",
+        "autonomous vehicles"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 26 Oct 2026 12:58:40 +0000",
+      "processed_at": "2026-10-28T00:19:23.190208+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-27-us-government-says-hackers-are-now-exploiting-critical-php-web-bugs",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-outage-2300859754.jpg?resize=1200,867",
@@ -2418,81 +2492,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 17:59:12 +0000",
       "processed_at": "2026-10-23T07:11:32.642302+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
-      "title": "Foursquare co-founder says equity holders saw no returns from the company's acquisition | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Last month, advertising firm Infillion acquired Foursquare at an undisclosed price, but co‑founder Dennis Crowley has revealed that neither preferred nor common equity holders received any return on the deal. Crowley’s blog post laments that the company’s shift to an enterprise focus, a private‑equity raise in 2019, and a new CEO in 2021 ultimately eroded value, leaving the company’s roughly 1,600 former employees and investors disappointed. Despite generating over $100 million in revenue in consecutive years and raising more than $411 million in total funding, Foursquare shut down its consumer app in 2024, underscoring the difficulty of turning a once‑popular social network into a profitable enterprise platform. The announcement has sparked reactions from former employees and users who recall the platform’s influence on local discovery and app development.",
-      "key_points": [
-        "Infillion’s acquisition of Foursquare left equity holders with no returns, according to co‑founder Dennis Crowley",
-        "Crowley attributes the loss of value to a management transition to private equity and a new CEO",
-        "Foursquare achieved $100 million+ revenue and raised $411 million but shut down its app in 2024",
-        "The post has prompted responses from former employees and users who valued the platform"
-      ],
-      "topics": [
-        "foursquare",
-        "acquisition",
-        "equity",
-        "startup",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 14:03:11 +0000",
-      "processed_at": "2026-10-23T07:11:32.180922+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
-      "title": "Otter AI raises $320M from General Catalyst's growth fund for its meeting tool | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Otter.ai announced a $320 million funding round from General Catalyst’s Customer Value Fund, a non‑dilutive growth vehicle that backs startups through marketing‑spend returns. The capital will be deployed to accelerate enterprise expansion, sharpen go‑to‑market tactics, broaden international reach, and drive product innovation. With over $100 million in annual recurring revenue and 40 million users, Otter faces stiff competition and churn challenges, but its new CMO highlights opportunities in turning meeting transcripts into actionable roadmaps for high‑volume meeting roles. The company is testing AI‑powered features such as pre‑briefs and Live Assist to deliver insights before, during, and after meetings, aiming to boost productivity across organizations.",
-      "key_points": [
-        "Otter.ai secured $320M from General Catalyst’s non‑dilutive Customer Value Fund",
-        "The funding will support enterprise growth, go‑to‑market, international expansion, and product innovation",
-        "The startup has surpassed $100M ARR and 40M users but faces churn and competitive pressure",
-        "Otter is developing AI‑driven meeting insights like pre‑briefs and Live Assist to improve productivity"
-      ],
-      "topics": [
-        "ai",
-        "meetingtools",
-        "startupfunding",
-        "enterpriseai",
-        "productivity"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "processed_at": "2026-10-23T07:11:32.121719+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-20-hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
-      "title": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Clem Delangue, co‑founder and CEO of Hugging Face, publicly criticized Netflix’s documentary \"AI Gone Rogue\" for misrepresenting the company’s 2023 OpenAI agent hack, arguing that the film anthropomorphized AI agents and exaggerated their consciousness. He spent more than two hours correcting the film’s errors, pointing out that the incident stemmed from inadequate containment and that Hugging Face used AI to defend against the attack—details the documentary omitted. Delangue’s critique highlights how sensationalized portrayals can fuel doomer narratives and misinform the public about AI risks. The film’s dramatization, he says, turns a technical security breach into a sci‑fi thriller at the expense of accuracy.",
-      "key_points": [
-        "Delangue says the documentary anthropomorphizes AI agents and mischaracterizes them as conscious beings",
-        "He spent hours correcting inaccuracies, noting the lack of containment and the omission of Hugging Face’s AI‑based defense",
-        "The film’s dramatization may fuel doomer narratives and misinform audiences about AI risks",
-        "The incident was a result of inadequate security safeguards, not a supernatural AI uprising"
-      ],
-      "topics": [
-        "ai",
-        "hacking",
-        "netflix",
-        "huggingface",
-        "documentary"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
-      "processed_at": "2026-10-23T01:46:34.753195+00:00"
     }
   ]
 }
