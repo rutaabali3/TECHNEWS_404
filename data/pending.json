@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:37:54.021554+00:00",
+  "updated_at": "2026-10-29T16:44:43.713978+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -32,12 +32,6 @@
       "published": "Wed, 28 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "feed_excerpt": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
       "title": "AI execs may be too out of touch to build for the general public",
       "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
       "feed_excerpt": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
@@ -54,12 +48,6 @@
       "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
       "feed_excerpt": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
       "published": "Wed, 28 Oct 2026 15:41:18 +0000"
-    },
-    {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "feed_excerpt": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-      "published": "Wed, 28 Oct 2026 15:00:00 +0000"
     },
     {
       "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
@@ -138,7 +126,67 @@
       "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
       "feed_excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
       "published": "Wed, 28 Oct 2026 19:05:46 +0000"
+    },
+    {
+      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "feed_excerpt": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "published": "Thu, 29 Oct 2026 16:42:32 +0000"
+    },
+    {
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "feed_excerpt": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+      "published": "Thu, 29 Oct 2026 16:21:00 +0000"
+    },
+    {
+      "title": "SuperMe raises $20M for its network of AI expert profiles",
+      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "feed_excerpt": "SuperMe just raised $20 million to let you pester AI clones of Silicon Valley’s savviest people about your career.",
+      "published": "Thu, 29 Oct 2026 16:19:43 +0000"
+    },
+    {
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "feed_excerpt": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
+      "published": "Thu, 29 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "feed_excerpt": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "published": "Thu, 29 Oct 2026 14:35:26 +0000"
+    },
+    {
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "feed_excerpt": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+      "published": "Thu, 29 Oct 2026 13:43:53 +0000"
+    },
+    {
+      "title": "DoorDash to acquire Instacart for $17B",
+      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+      "feed_excerpt": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+      "published": "Thu, 29 Oct 2026 13:40:57 +0000"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "feed_excerpt": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "feed_excerpt": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+      "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+      "feed_excerpt": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-29T09:38:22.900142+00:00"
+  "last_processed_at": "2026-10-29T16:44:59.691739+00:00"
 }

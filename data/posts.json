@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-29T09:38:26.016316+00:00",
+  "updated_at": "2026-10-29T16:45:02.682774+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-reddit-is-the-latest-platform-to-embrace-the-for-you-feed",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "title": "Reddit is the latest platform to embrace the 'For You' feed | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Reddit has introduced a new “For You” feed alongside its existing “Following” feed, mirroring the recommendation‑driven homepages of TikTok, Instagram, X, Threads, and Facebook. The algorithm‑curated feed blends posts from a user’s subscribed communities with personalized suggestions to help them discover new topics and conversations. Reddit says the change is meant to boost connection, participation, and belonging, and users can toggle between feeds at any time. The rollout will be global over the next few weeks, though some early testers have voiced frustration with the shift away from a purely community‑focused view.",
+      "key_points": [
+        "Reddit now offers a dual‑feed system with a recommendation‑driven “For You” option and a community‑only “Following” feed.",
+        "The new feed aims to increase user discovery and engagement by surfacing content beyond subscribed communities.",
+        "Early users have mixed reactions, with some preferring the focused feed and others frustrated by the algorithmic mix."
+      ],
+      "topics": [
+        "social media",
+        "algorithms",
+        "user experience",
+        "content discovery",
+        "reddit"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000",
+      "processed_at": "2026-10-29T16:44:59.691648+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Nvidia unveiled Nemotron 3.5 Transcribe, a free, open‑weight speech‑to‑text model that supports up to 40 languages and can translate 31 language pairs to and from English. The 30‑billion‑parameter model can process recordings up to an hour long, distinguish up to eight speakers, and run on a single chip ranging from the Jetson AGX Thor to Blackwell datacenter GPUs. Alongside the model, Nvidia released Granary v2, an expanded open‑source speech dataset, and updated NeMo tools to help developers tailor voice apps for industry jargon in business meetings and medical transcription. The launch comes amid a surge of new voice AI offerings from Mistral, ElevenLabs, and Salesforce, underscoring the rapid growth of the field.",
+      "key_points": [
+        "Nvidia’s Nemotron 3.5 Transcribe is a 30‑billion‑parameter, open‑weight model that supports 40 languages and 31 translation pairs, and can run on a single chip from edge to datacenter.",
+        "The model can handle recordings up to an hour, separate up to eight speakers, and is free for developers to use and customize with the new Granary v2 dataset and NeMo tools.",
+        "Nvidia’s release follows a wave of new voice AI models from Mistral, ElevenLabs, and Salesforce, highlighting the competitive pace in the industry."
+      ],
+      "topics": [
+        "voice ai",
+        "nvidia",
+        "open source",
+        "transcription",
+        "ai models"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-29T16:44:48.565754+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
@@ -2431,56 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 15:15:00 +0000",
       "processed_at": "2026-10-24T13:29:53.991952+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
-      "title": "Developer platform Railway urges 'all users' to revoke secret keys after cyberattack | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Railway, a cloud‑development platform, confirmed a cyberattack that exposed some customers’ encrypted environment variables, including passwords and API keys. The breach, which appears limited to a subset of users, prompted Railway to advise all users to rotate their API and cloud keys and temporarily pause new builds while investigating. Railway has not disclosed the exact number of affected users or the root cause, but the incident is believed to be part of a broader campaign targeting AI inference providers. The company plans to publish a post‑mortem and has paused deployments to mitigate further risk.",
-      "key_points": [
-        "Railway’s breach exposed encrypted environment variables, potentially giving attackers access to customer secrets.",
-        "All Railway users are urged to rotate API and cloud keys even though the attack affected only a subset of customers.",
-        "The incident is linked to a wider trend of attacks on AI platforms and follows similar breaches at OpenCode.",
-        "Railway has paused new builds and will release a post‑mortem to explain the root cause."
-      ],
-      "topics": [
-        "cybersecurity",
-        "cloud",
-        "api",
-        "ai",
-        "data breach"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 14:03:00 +0000",
-      "processed_at": "2026-10-24T13:30:08.732606+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Meta announced it will create a new class of non‑voting capital stock, distributed to existing shareholders as a stock dividend, to fund its expanding AI initiatives while preserving the voting power of its Class A and B shareholders. The move was revealed during the company’s third‑quarter earnings call, where CFO Susan Li highlighted the new shares as a flexible tool for capital raising, employee compensation, acquisitions, and other corporate purposes. Meta’s Q3 results showed $64 billion in revenue, a 26% year‑over‑year increase, but costs rose 68% year‑over‑year, and the Reality Labs division’s losses are expected to shrink to $18‑$19 billion. The company’s AI portfolio, including Muse Spark, Muse Glimmer, Muse Wonder, Muse Spark Open, and Muse Code, has already attracted more than 10 million users in the U.S. and Canada and has topped the App Store for most days of the quarter.",
-      "key_points": [
-        "Meta will issue non‑voting stock via dividend to fund its AI push while keeping founder‑led voting power",
-        "Q3 revenue hit $64 billion, up 26% YoY, but costs rose 68% YoY",
-        "Reality Labs losses are expected to shrink to $18‑$19 billion by 2025",
-        "AI products such as Muse Spark and Muse Code have gained over 10 million users and dominated the App Store"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "stock",
-        "earnings",
-        "reality labs"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
-      "processed_at": "2026-10-24T09:01:41.800758+00:00"
     }
   ]
 }
