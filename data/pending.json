@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:42:08.128488+00:00",
+  "updated_at": "2026-10-29T09:37:54.021554+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -14,22 +14,10 @@
       "published": "Tue, 27 Oct 2026 22:17:18 +0000"
     },
     {
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "feed_excerpt": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-      "published": "Wed, 28 Oct 2026 05:20:32 +0000"
-    },
-    {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "feed_excerpt": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
       "published": "Wed, 28 Oct 2026 01:15:28 +0000"
-    },
-    {
-      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-      "feed_excerpt": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
-      "published": "Wed, 28 Oct 2026 13:00:00 +0000"
     },
     {
       "title": "Apple launches its new touchscreen MacBook Pro",
@@ -38,21 +26,9 @@
       "published": "Wed, 28 Oct 2026 17:26:10 +0000"
     },
     {
-      "title": "Xreal Aura is a new wired headset powered by Android XR",
-      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "feed_excerpt": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000"
-    },
-    {
       "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "feed_excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "feed_excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
       "published": "Wed, 28 Oct 2026 17:00:00 +0000"
     },
     {
@@ -164,5 +140,5 @@
       "published": "Wed, 28 Oct 2026 19:05:46 +0000"
     }
   ],
-  "last_processed_at": "2026-10-29T02:42:21.957717+00:00"
+  "last_processed_at": "2026-10-29T09:38:22.900142+00:00"
 }

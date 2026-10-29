@@ -1,7 +1,99 @@
 {
-  "updated_at": "2026-10-29T02:42:38.303050+00:00",
+  "updated_at": "2026-10-29T09:38:26.016316+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
+      "title": "Chrome's AI-powered Autofill can now dig through your Gmail to fill out forms | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google has announced an update to Chrome’s autofill that uses AI to pull relevant information from users’ Gmail accounts, enabling the browser to suggest flight confirmations, tracking numbers, addresses, phone numbers, and even credit card details when filling online forms. The feature builds on Google’s Personal Intelligence framework, which already connects Google Apps to the Gemini AI assistant for retrieving data to answer complex queries. Users can opt in or out of the enhanced autofill through Chrome settings, and all sensitive data is encrypted. The rollout begins in the U.S. on desktop, with the Gemini app on iOS and Android following soon after.",
+      "key_points": [
+        "Chrome’s new AI‑powered autofill pulls data from Gmail to auto‑populate form fields such as flight confirmations and tracking numbers.",
+        "The feature is part of Google’s Personal Intelligence suite and can be enabled or disabled in Chrome settings, with all sensitive data encrypted.",
+        "It is currently rolling out to U.S. desktop users, with mobile versions to follow."
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-29T09:37:55.560737+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-xreal-aura-is-a-new-wired-headset-powered-by-android-xr",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675",
+      "title": "Xreal Aura is a new wired headset powered by Android XR | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Xreal unveiled its new Xreal Aura wired smart glasses at the Android Dev Summit, powered by Android XR and Qualcomm’s Snapdragon Reality Elite and tethered to a smartphone‑like device for processing. The glasses feature a Sony Micro‑OLED 1200p 120Hz display with a 95‑degree field of view, weigh 95 g, and support Google Play apps, XR experiences, and USB‑C connectivity to a PC or console for augmented displays. Pricing starts at $1,099 for the 12 GB/256 GB model and $1,299 for the 16 GB/512 GB model, with shipping slated for mid‑November. The launch signals Android XR’s expanding hardware ecosystem and intensifies competition with Meta, Apple, and Google in the smart‑glasses arena.",
+      "key_points": [
+        "Xreal Aura is a wired smart glasses platform using Android XR and Snapdragon Reality Elite, tethered to a smartphone‑like device for processing power.",
+        "It features a Sony Micro‑OLED 1200p 120Hz display, 95° field of view, weighs 95 g, and supports Google Play apps, XR experiences, and USB‑C PC connectivity.",
+        "Pricing starts at $1,099 launch for the 12 GB/256 GB model and $1,299 launch for the 16 GB/512 GB model, with shipping mid‑November.",
+        "The launch underscores Android XR’s growing hardware ecosystem and competition in the smart‑glasses market."
+      ],
+      "topics": [
+        "smart glasses",
+        "android xr",
+        "xreal",
+        "technology",
+        "consumer electronics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-29T09:38:22.900062+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Kodiak_DTL.jpg?resize=1200,675",
+      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Kodiak AI secured its first binding commercial deal to supply 75 self‑driving trucks to DTL Transport, a California mid‑market carrier, starting in 2028. The contract follows Kodiak’s plan to remove human safety operators from the cab and launch a driverless highway service in December, with a pilot on I‑45 between Dallas and Houston. The deal is a revenue boost and a benchmark for Kodiak’s asset‑light strategy, positioning it as a technology supplier rather than a trucking operator, similar to Aurora. With projected annual recurring revenue of $11.2 million once all trucks are delivered, the partnership signals a turning point for on‑highway autonomous trucking.",
+      "key_points": [
+        "Kodiak AI will deliver 75 autonomous trucks to DTL Transport starting 2028, its first binding on‑highway commercial contract.",
+        "The deal supports Kodiak’s shift to an asset‑light, driver‑as‑a‑service model, aiming to license technology rather than own fleets.",
+        "Projected annual recurring revenue from the contract could reach $11.2 million, marking a significant revenue milestone for the company."
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "trucking",
+        "technology licensing",
+        "fleet management",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-29T09:38:09.310652+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Jio Platforms, the telecom arm of Reliance Industries backed by Meta and Google, saw its shares jump 21% on a debut that raised $3.2 billion, the largest and most subscribed IPO in India’s history. The offering attracted 22.19‑times the shares on sale, with more than 13.8 million applications, and valued the company at roughly $131.9 billion, making it the country’s second‑most valuable listed firm after its parent. Jio’s debut follows a rapid rise from a 2020 investment that valued it at $65 billion, and the company now serves over 540 million customers across telecom, broadband, cloud and AI services. Proceeds will be used to repay debt at its telecom subsidiary and fund general corporate purposes, while the company aims to become a global technology player.",
+      "key_points": [
+        "Shares surged 21% on debut, raising $3.2 billion in India’s largest IPO",
+        "The IPO drew 22.19‑times the shares on sale, with 13.8 million applications",
+        "Jio was valued at $131.9 billion, second‑most valuable listed company in India",
+        "Proceeds will repay debt and support expansion into broadband, cloud and AI"
+      ],
+      "topics": [
+        "telecom",
+        "ipo",
+        "investment",
+        "india",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 05:20:32 +0000",
+      "processed_at": "2026-10-29T09:37:55.583793+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-27-the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
@@ -2389,106 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 22:45:34 +0000",
       "processed_at": "2026-10-24T09:01:41.800758+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
-      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "A federal judge ordered Meta to pay $25 billion to New Mexico for violating the state’s consumer‑protection laws in connection with the Cambridge Analytica data scandal. The decision follows a two‑week trial in which a jury found 43 million violations, each carrying a $5,000 penalty, and highlighted Meta’s handling of a third‑party app and its privacy policies. Meta has announced it will appeal the ruling, while the state’s attorney general warned that the case could make doing business in New Mexico impossible. The judgment underscores the growing regulatory pressure on social‑media platforms over data privacy and misinformation.",
-      "key_points": [
-        "Meta ordered to pay $25 billion to New Mexico for 43 million consumer‑protection violations",
-        "Jury found each violation carried a $5,000 penalty",
-        "Meta plans to appeal the ruling",
-        "Case centers on Cambridge Analytica data breach and privacy policies"
-      ],
-      "topics": [
-        "meta",
-        "cambridgeanalytica",
-        "data privacy",
-        "consumer protection",
-        "lawsuit"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 19:42:32 +0000",
-      "processed_at": "2026-10-24T09:01:41.829334+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-mach9-raises-34m-after-pivoting-to-ai-cad-software",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800",
-      "title": "Mach9 raises $34M after pivoting to AI CAD software | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Mach9 Robotics, now simply Mach9, pivoted from hardware to AI‑powered CAD software for civil engineering and secured a $34 million Series A round led by First Round Capital and Bessemer Venture Partners. The startup’s software turns laser scan and image data into survey‑grade plans up to ten times faster than legacy tools, and it already serves nearly 100 private‑beta customers on more than 2,500 projects. Mach9’s in‑house AI models deliver centimeter‑level accuracy, enabling engineers to refine automated drafts while maintaining professional liability. The new capital will fund product enhancements, hire industry experts, and scale operations to meet growing demand in the construction and infrastructure market.",
-      "key_points": [
-        "Mach9 shifted from robotics to AI CAD software and raised $34 million in Series A funding.",
-        "Its AI system processes survey data 10× faster than traditional CAD tools, serving 100 beta customers on 2,500+ projects.",
-        "The round was co‑led by First Round Capital and Bessemer Venture Partners, with additional participation from Prudence and Quiet Capital.",
-        "Mach9’s proprietary AI models achieve centimeter‑accurate geometry, a level not commonly available in off‑the‑shelf solutions."
-      ],
-      "topics": [
-        "ai",
-        "construction",
-        "software",
-        "funding",
-        "civil engineering"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-24T09:01:41.722518+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-airbnb-limits-chores-for-guests-sparking-backlash-from-hosts",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-733478305.jpg?resize=1200,713",
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Airbnb has updated its policy to prohibit hosts from requiring guests to strip beds, wash dishes, start laundry, or remove trash before checkout, a change that will apply to reservations made on or after November 20. The new guidelines still allow hosts to ask guests to conserve water during droughts or use bear‑proof trash containers in wildlife‑prone areas. Many hosts have criticized the move, saying it diminishes the personal touch that differentiates Airbnb from hotels and could lead some to withdraw their listings. The policy follows earlier scrutiny over cleaning fees and aims to balance guest convenience with host responsibilities.",
-      "key_points": [
-        "Airbnb bans hosts from mandating guests to perform certain cleaning tasks before checkout.",
-        "The change takes effect on reservations made after Nov. 20 and still allows requests for water conservation or wildlife‑safe trash.",
-        "Hosts argue the policy erodes the personal touch and could push them to leave the platform.",
-        "The move follows earlier scrutiny over cleaning fees and aims to balance guest convenience with host responsibilities."
-      ],
-      "topics": [
-        "airbnb",
-        "policy",
-        "hosting",
-        "cleaning",
-        "guestexperience"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:16:05 +0000",
-      "processed_at": "2026-10-24T04:12:37.037507+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Legora raised $550 million in a Series E round, valuing the legal‑AI startup at $8.8 billion. The company focuses on automating workflow tasks for legal professionals, moving beyond simple AI assistants. Its annual recurring revenue has climbed to over $200 million, up from $100 million in April. Investors such as Atreides, Baron Capital, Bessemer, General Catalyst and Menlo will help the firm expand across North America.",
-      "key_points": [
-        "Legora secured a $550 million Series E, valuing it at $8.8 billion",
-        "ARR now exceeds $200 million, doubling since April",
-        "Key investors include Atreides, Baron Capital, Bessemer, General Catalyst and Menlo",
-        "Capital will be used to grow the company’s North American presence"
-      ],
-      "topics": [
-        "legal tech",
-        "ai",
-        "startup funding",
-        "valuation",
-        "series e"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 18:51:56 +0000",
-      "processed_at": "2026-10-24T04:12:48.389765+00:00"
     }
   ]
 }
