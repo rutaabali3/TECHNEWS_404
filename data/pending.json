@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-28T23:25:19.930954+00:00",
+  "updated_at": "2026-10-29T02:42:08.128488+00:00",
   "items": [
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "feed_excerpt": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "published": "Tue, 27 Oct 2026 13:32:57 +0000"
-    },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "feed_excerpt": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
       "published": "Tue, 27 Oct 2026 16:30:57 +0000"
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "feed_excerpt": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "published": "Tue, 27 Oct 2026 22:55:41 +0000"
     },
     {
       "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
@@ -176,5 +164,5 @@
       "published": "Wed, 28 Oct 2026 19:05:46 +0000"
     }
   ],
-  "last_processed_at": "2026-10-28T23:25:28.868737+00:00"
+  "last_processed_at": "2026-10-29T02:42:21.957717+00:00"
 }

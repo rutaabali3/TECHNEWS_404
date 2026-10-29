@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-28T23:25:44.201170+00:00",
+  "updated_at": "2026-10-29T02:42:38.303050+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-27-the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
+      "title": "The data center boom has an upside: innovation for the US grid | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "The rapid expansion of AI workloads has pushed data centers to consume unprecedented amounts of electricity, placing new strain on the U.S. grid and sparking concerns about higher bills and potential outages.  Industry leaders at TechCrunch Disrupt countered these worries by highlighting how the surge is also driving innovation in grid management and infrastructure, with companies like WeaveGrid offering load‑orchestration software and Veir developing superconductive power lines that can transmit energy five times farther while using far less space.  Veir’s recent $110 million Series C round underscores the financial momentum behind these technologies, while Rewiring America stresses the need for rapid adoption of new solutions to keep pace with AI‑driven demand.  Together, the discussion frames the data‑center boom as both a challenge and a catalyst for modernizing America’s aging electrical network.",
+      "key_points": [
+        "AI‑driven data center growth is stressing the grid but also accelerating grid‑modernization efforts",
+        "WeaveGrid’s load‑orchestration software aims to reduce utility bills and improve energy efficiency",
+        "Veir’s superconductive cables can transmit power five times farther and has raised $110 million in Series C funding",
+        "Rewiring America highlights the urgency to adopt new technologies to meet rising demand"
+      ],
+      "topics": [
+        "ai",
+        "data centers",
+        "grid modernization",
+        "energy infrastructure",
+        "superconducting cables"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "processed_at": "2026-10-29T02:42:21.957628+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data | TechCrunch",
+      "author": "Kate Park",
+      "summary": "Japanese internet giant GMO Internet is investigating a data breach that began on Oct. 21 when unauthorized access was detected in its Onamae cloud desktop service used by financial traders. The company says up to 27,000 servers may have been affected and hackers have allegedly posted customer data, prompting password resets and a promise of compensation. The incident follows a separate report that a Chinese AI‑enabled tool called Artex was used in hacks across Japan, though GMO has not linked Artex to this breach. The breach underscores the growing threat to financial institutions and the need for stronger cybersecurity defenses, as urged by Japan’s Financial Service Agency.",
+      "key_points": [
+        "On Oct. 21, GMO Internet shut down its Onamae Desktop Cloud after detecting unauthorized access that may have exposed up to 27,000 servers.",
+        "Hackers reportedly posted customer data and demanded about 8 billion yen, prompting password resets and a compensation offer.",
+        "The breach follows evidence that the Chinese AI‑enabled tool Artex was used in recent hacks, though GMO has not confirmed a link.",
+        "Japan’s Financial Service Agency has urged firms to strengthen basic defenses, including multi‑factor authentication and incident preparedness."
+      ],
+      "topics": [
+        "cybersecurity",
+        "data breach",
+        "financial services",
+        "ai tools",
+        "japan"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 13:32:57 +0000",
+      "processed_at": "2026-10-29T02:42:10.151322+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
@@ -2439,56 +2489,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 18:51:56 +0000",
       "processed_at": "2026-10-24T04:12:48.389765+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Flapping Airplanes, a year‑old AI startup, closed a $1 billion Series A led by Index and Lux that values the company at $6 billion, a four‑fold jump from its $180 million seed round a year earlier. The new capital will fund the team’s megakernel framework, which promises to run training, inference and even gaming in a single GPU kernel, enabling models that are far more data‑efficient and cheaper to run. Co‑founders Aidan Smith, Asher Spector and Ben Spector bring experience from Neuralink, Stanford and MIT, and the company has attracted a who’s‑who of Silicon Valley investors including GV, Sequoia, Kleiner Perkins and Nvidia.",
-      "key_points": [
-        "Raised $1 billion Series A at a $6 billion valuation, quadrupling its seed valuation",
-        "Co‑led by Index and Lux with participation from GV, Sequoia, Kleiner Perkins, Nvidia and others",
-        "Developing a megakernel framework that overlaps inference and training to reduce GPU idle time",
-        "Founders bring backgrounds from Neuralink, Stanford PhDs and MIT startup Prod"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "machine learning",
-        "silicon valley"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 20:57:40 +0000",
-      "processed_at": "2026-10-23T23:56:18.753989+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-automattic-begins-layoffs-following-board-upheaval-and-executive-departures",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v3.jpg?resize=1200,800",
-      "title": "Automattic begins layoffs following board upheaval and executive departures | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Automattic, the parent of WordPress.com and WooCommerce, has begun a wave of layoffs that have already hit its communications, social, WordPress.com, and VIP enterprise teams. The cuts come amid a turbulent board reshuffle that followed a failed attempt to oust CEO Matt Mullenweg in September, which also saw the departure of the CFO, interim CFO Jeremy Klaperman, and chief legal officer. Mullenweg has defended the layoffs as routine, while the company plans to spread them over the coming months to improve Q4 revenue ahead of a June debt renegotiation. An internal statement from spokesperson Chenda Ngak said the company is staggering changes to offer generous severance and more time for affected employees.",
-      "key_points": [
-        "Automattic is laying off staff across multiple teams after a board upheaval",
-        "CEO Matt Mullenweg survived a failed ouster attempt and has seen the CFO and other execs depart",
-        "Layoffs are being spread over months to boost Q4 revenue before a June debt renegotiation",
-        "The company claims severance will be generous and changes staggered"
-      ],
-      "topics": [
-        "automattic",
-        "layoffs",
-        "board",
-        "executive",
-        "financial"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 20:15:00 +0000",
-      "processed_at": "2026-10-23T23:56:18.844031+00:00"
     }
   ]
 }
