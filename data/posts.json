@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-29T16:45:02.682774+00:00",
+  "updated_at": "2026-10-29T21:40:19.164184+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-apple-launches-its-new-touchscreen-macbook-pro",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028.jpg?resize=1200,800",
+      "title": "Apple launches its new touchscreen MacBook Pro | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Apple has unveiled a touchscreen MacBook Pro, the first such laptop from the company in nearly a decade, powered by its new M5 Pro and M5 Max chips. The 14‑inch and 16‑inch models feature a PROLED XDR display with 2,000‑nit peak brightness, a Dynamic Island‑style cutout, and a six‑speaker array, and start at $2,899 and $3,399 respectively. The design includes a stabilizing hinge that keeps the screen steady during touch and video calls, and the laptops weigh 3.0 and 4.0 pounds, lighter than previous non‑touch models. Preorders open on October 30 and the devices ship on November 6, marking a significant shift in Apple’s laptop strategy under CEO John Ternus.",
+      "key_points": [
+        "Apple introduces touchscreen MacBook Pro with M5 Pro and M5 Max chips",
+        "14‑inch and 16‑inch models start at $2,899 and $3,399",
+        "Features PROLED XDR display, Dynamic Island cutout, six‑speaker array",
+        "Preorders begin Oct 30, shipping Nov 6"
+      ],
+      "topics": [
+        "apple",
+        "macbook",
+        "touchscreen",
+        "hardware",
+        "technews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 17:26:10 +0000",
+      "processed_at": "2026-10-29T21:39:57.039121+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+      "title": "South Korea's financial industry hit by fresh wave of cyberattacks | TechCrunch",
+      "author": "Kate Park",
+      "summary": "South Korea’s financial sector has faced a new wave of cyberattacks, targeting brokerages Daishin Securities and Mirae Asset Global Investments as well as the crypto exchange Bithumb. The breaches, which followed a September assault linked to a China‑based hacker using the AI penetration‑testing tool Artex, exposed personal data of 38,490 Daishin customers and raised concerns that other firms may have suffered similar compromises. In response, the Financial Services Commission has urged tighter cybersecurity safeguards and announced plans to audit dozens of private‑sector IT systems, while the affected firms have begun notifying customers and cooperating with authorities. The incidents echo a broader regional trend, with Japan’s GMO Internet also reporting a cyber incident, underscoring the growing threat of AI‑driven hacking across Asia.",
+      "key_points": [
+        "Daishin Securities exposed personal data of 38,490 customers in the latest attack",
+        "Attacks linked to a China‑based hacker using the AI tool Artex, following a September wave",
+        "South Korean regulator demands stronger cybersecurity and will audit private‑sector IT systems",
+        "Similar cyber incidents reported in Japan, highlighting a regional AI‑driven threat"
+      ],
+      "topics": [
+        "cybersecurity",
+        "financial services",
+        "ai",
+        "asia",
+        "data breach"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 15:41:18 +0000",
+      "processed_at": "2026-10-29T21:39:56.884389+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-reddit-is-the-latest-platform-to-embrace-the-for-you-feed",
       "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
@@ -2429,56 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 13:26:52 +0000",
       "processed_at": "2026-10-24T16:53:47.075864+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/girl-wearing-headphones-teen-GettyImages-2155720072.jpg?resize=1200,675",
-      "title": "Spotify confirms Family Plan crackdown, but calls it a 'routine improvement' | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Spotify confirmed it is rolling out a QR code verification system to curb abuse of its Family Plan, a move it described as a routine improvement to existing verification tools. The new process requires family members to scan a QR code displayed on the plan manager’s phone within seven days, or risk being barred from joining another Family or Duo plan for a year and forced to switch to an individual plan. The change aims to protect Spotify’s profitable Premium subscriptions by preventing adults who live separately from sharing a cheaper plan. During the Q3 earnings call, co‑CEO Alex Norström downplayed the update, emphasizing that verification will be an ongoing, iterative improvement rather than a hard crackdown.",
-      "key_points": [
-        "Spotify is implementing QR code verification for Family Plan members to prevent abuse.",
-        "Members must scan the code within seven days or face a 12‑month ban from Family/Duo plans and must switch to an individual plan.",
-        "The company frames the change as a routine, ongoing improvement rather than a crackdown.",
-        "The goal is to protect Spotify’s Premium revenue by ensuring only co‑habitants share a Family Plan."
-      ],
-      "topics": [
-        "spotify",
-        "subscription",
-        "family plan",
-        "verification",
-        "music streaming"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 15:24:32 +0000",
-      "processed_at": "2026-10-24T13:29:53.654033+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-investors-break-down-how-founders-can-raise-a-series-a-today",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Series-A-panel-Dom.jpg?resize=1200,800",
-      "title": "Investors break down how founders can raise a Series A today | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "At TechCrunch Disrupt, three investors—Peak XV’s Shailendra Singh, Index Ventures’ Jahanvi Sardana, and Bessemer’s Janelle Teng Wade—warned founders that raising a Series A in today’s market is harder than ever, with high dispersion in terms and a trend toward tranching. They emphasized that a compelling story, top talent, and honest metrics are still critical, while AI and defense remain hot sectors but may see a correction around 2027. Founders should avoid inflated ARR figures, focus on genuine product‑market fit, and be prepared to ask audaciously but realistically for capital. The panel’s advice underscores the need for intellectual honesty and careful pacing in building a company.",
-      "key_points": [
-        "Series A raising now requires convincing top firms amid market froth and high term dispersion",
-        "Investors stress honest metrics, strong talent, and a compelling story over inflated ARR",
-        "AI, defense, and robotics remain attractive but valuations may correct by 2027",
-        "Founders should avoid tranching pitfalls and focus on genuine product‑market fit"
-      ],
-      "topics": [
-        "venturecapital",
-        "seriesa",
-        "ai",
-        "startupfunding",
-        "markettrends"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 15:15:00 +0000",
-      "processed_at": "2026-10-24T13:29:53.991952+00:00"
     }
   ]
 }

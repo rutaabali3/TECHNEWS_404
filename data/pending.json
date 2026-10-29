@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:44:43.713978+00:00",
+  "updated_at": "2026-10-29T21:39:54.964517+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -20,12 +20,6 @@
       "published": "Wed, 28 Oct 2026 01:15:28 +0000"
     },
     {
-      "title": "Apple launches its new touchscreen MacBook Pro",
-      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "feed_excerpt": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-      "published": "Wed, 28 Oct 2026 17:26:10 +0000"
-    },
-    {
       "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "feed_excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
@@ -42,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
       "feed_excerpt": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
       "published": "Wed, 28 Oct 2026 15:53:21 +0000"
-    },
-    {
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "feed_excerpt": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "published": "Wed, 28 Oct 2026 15:41:18 +0000"
     },
     {
       "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
@@ -186,7 +174,73 @@
       "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
       "feed_excerpt": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
       "published": "Thu, 29 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "feed_excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "published": "Thu, 29 Oct 2026 21:20:47 +0000"
+    },
+    {
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "feed_excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "published": "Thu, 29 Oct 2026 21:01:04 +0000"
+    },
+    {
+      "title": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "feed_excerpt": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
+      "published": "Thu, 29 Oct 2026 20:43:56 +0000"
+    },
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "feed_excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "published": "Thu, 29 Oct 2026 20:08:31 +0000"
+    },
+    {
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "feed_excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "published": "Thu, 29 Oct 2026 20:05:47 +0000"
+    },
+    {
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+      "feed_excerpt": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+      "published": "Thu, 29 Oct 2026 20:02:03 +0000"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "feed_excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "published": "Thu, 29 Oct 2026 19:56:19 +0000"
+    },
+    {
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "feed_excerpt": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+      "published": "Thu, 29 Oct 2026 19:17:49 +0000"
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "feed_excerpt": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "published": "Thu, 29 Oct 2026 19:14:36 +0000"
+    },
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "feed_excerpt": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "published": "Thu, 29 Oct 2026 17:54:38 +0000"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "feed_excerpt": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "published": "Thu, 29 Oct 2026 17:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-29T16:44:59.691739+00:00"
+  "last_processed_at": "2026-10-29T21:39:57.039212+00:00"
 }
