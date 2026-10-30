@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-30T20:00:50.269789+00:00",
+  "updated_at": "2026-10-30T23:58:01.728976+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-meta-has-a-new-ai-pet-app-called-waddle-world",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "title": "Meta has a new AI pet app called Waddle World | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Meta launched Waddle World, an AI‑powered virtual pet app similar to Tamagotchi, available in the Philippines on iOS and Android. The app lets users hatch, feed, and play with a pixelated pet while also serving as a journal that records voice or text entries in the pet’s voice. Meta emphasizes the app is not a chatbot or productivity tool, aiming for a low‑pressure, 16‑bit escape rather than habit‑building. The release follows Meta’s other AI experiments like Pocket and Vibes, and may signal a cautious approach to companion AI amid legal concerns.",
+      "key_points": [
+        "Meta releases Waddle World, an AI virtual pet app in the Philippines for iOS and Android",
+        "The app combines pet care with a journal feature that records user entries in the pet’s voice",
+        "Meta positions the app as a low‑pressure, non‑habit‑building experience, not a chatbot or productivity tool",
+        "The launch follows Meta’s broader AI app strategy and may reflect caution around companion AI after legal scrutiny"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "virtual pet",
+        "app",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 13:53:31 +0000",
+      "processed_at": "2026-10-30T23:57:35.195951+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
@@ -2456,31 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "processed_at": "2026-10-25T00:05:46.911096+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-uber-puts-all-30000-employees-on-chatgpt-work",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Uber has announced that all 30,000 employees worldwide will now have access to ChatGPT Work, expanding the enterprise AI tool it piloted earlier this year with a 1,000‑person cohort. The pilot, which included finance, operations, and product teams, showed that 80% of early adopters were non‑engineers who used the tool for data analysis, training localization, and dashboard creation. Uber has not yet defined a fixed usage model, instead opting to let teams experiment and then track how the tool is used to inform future AI strategy. The rollout was made possible through close collaboration with OpenAI, which is rapidly scaling its enterprise offerings amid competition from companies like Anthropic.",
-      "key_points": [
-        "Uber expands ChatGPT Work to its entire 30,000‑person workforce",
-        "The initial pilot involved 1,000 employees across finance, operations, and product, with 80% non‑engineers using the tool",
-        "Uber will monitor usage and outcomes to guide future AI deployment across the company",
-        "OpenAI partnered closely on integration as it competes with Anthropic in the enterprise AI market"
-      ],
-      "topics": [
-        "uber",
-        "chatgpt",
-        "ai",
-        "enterprise",
-        "openai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-25T00:05:46.996455+00:00"
     }
   ]
 }

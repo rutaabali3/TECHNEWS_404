@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:00:15.411090+00:00",
+  "updated_at": "2026-10-30T23:57:33.355970+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -12,12 +12,6 @@
       "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
       "feed_excerpt": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
       "published": "Wed, 28 Oct 2026 15:53:52 +0000"
-    },
-    {
-      "title": "Meta has a new AI pet app called Waddle World",
-      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "feed_excerpt": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-      "published": "Wed, 28 Oct 2026 13:53:31 +0000"
     },
     {
       "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
@@ -246,7 +240,49 @@
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "feed_excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
       "published": "Fri, 30 Oct 2026 16:03:45 +0000"
+    },
+    {
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "feed_excerpt": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "published": "Fri, 30 Oct 2026 23:21:23 +0000"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "feed_excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "published": "Fri, 30 Oct 2026 22:56:13 +0000"
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "feed_excerpt": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "feed_excerpt": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000"
+    },
+    {
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "feed_excerpt": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "published": "Fri, 30 Oct 2026 21:48:53 +0000"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "feed_excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "published": "Fri, 30 Oct 2026 21:26:59 +0000"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "feed_excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "published": "Fri, 30 Oct 2026 21:17:40 +0000"
     }
   ],
-  "last_processed_at": "2026-10-30T20:00:31.560588+00:00"
+  "last_processed_at": "2026-10-30T23:57:35.196048+00:00"
 }
