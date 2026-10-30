@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:19:00.867080+00:00",
+  "updated_at": "2026-10-30T15:12:46.249056+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -14,28 +14,10 @@
       "published": "Wed, 28 Oct 2026 15:53:52 +0000"
     },
     {
-      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-      "feed_excerpt": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-      "published": "Wed, 28 Oct 2026 15:53:21 +0000"
-    },
-    {
-      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-      "feed_excerpt": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-      "published": "Wed, 28 Oct 2026 14:26:36 +0000"
-    },
-    {
       "title": "Meta has a new AI pet app called Waddle World",
       "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
       "feed_excerpt": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
       "published": "Wed, 28 Oct 2026 13:53:31 +0000"
-    },
-    {
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "feed_excerpt": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "published": "Wed, 28 Oct 2026 23:15:00 +0000"
     },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "feed_excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
       "published": "Wed, 28 Oct 2026 21:25:30 +0000"
-    },
-    {
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "feed_excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-      "published": "Wed, 28 Oct 2026 20:01:00 +0000"
     },
     {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -234,7 +210,37 @@
       "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "feed_excerpt": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
       "published": "Fri, 30 Oct 2026 07:01:00 +0000"
+    },
+    {
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "feed_excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "published": "Fri, 30 Oct 2026 14:00:25 +0000"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "feed_excerpt": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+      "published": "Fri, 30 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "feed_excerpt": "DoorDash said that it is open to working with third-party agent makers",
+      "published": "Fri, 30 Oct 2026 13:54:25 +0000"
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "feed_excerpt": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "published": "Fri, 30 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "feed_excerpt": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "published": "Fri, 30 Oct 2026 13:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-30T08:19:34.025705+00:00"
+  "last_processed_at": "2026-10-30T15:13:13.483389+00:00"
 }

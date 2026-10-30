@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-30T08:19:34.026681+00:00",
+  "updated_at": "2026-10-30T15:13:15.479819+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Upwind, a San Francisco AI‑driven cloud security startup, closed a $400 million Series C round at a $3.8 billion valuation led by Bessemer Venture Partners, with participation from Greylock and Craft Ventures. The funding came after Datadog’s acquisition offer was rejected because it matched the VC‑set valuation, prompting Upwind to remain independent. The company adds $20‑$30 million in annual recurring revenue each quarter and is projected to hit roughly $90 million ARR this year, valuing it at about 40× its forecast ARR. Founder Amiram Shachar, who previously sold Spot.io for $450 million, continues to position Upwind as a key player in the emerging AI‑powered cybersecurity wave.",
+      "key_points": [
+        "Upwind raised $400 million in Series C at a $3.8 billion valuation",
+        "Datadog’s acquisition offer was rejected because it matched the VC valuation",
+        "The startup adds $20‑$30 million ARR quarterly and is projected to reach $90 million ARR",
+        "Founder Amiram Shachar previously sold Spot.io for $450 million"
+      ],
+      "topics": [
+        "ai",
+        "cybersecurity",
+        "startup",
+        "valuation",
+        "acquisition"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 23:15:00 +0000",
+      "processed_at": "2026-10-30T15:12:48.172099+00:00"
+    },
+    {
+      "id": "h-com-2026-10-28-hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "A hacker known as Department of Peace stole more than 40,000 U.S. Department of Homeland Security employee records from an Okta single sign‑on system, exposing names, job titles, emails, phone numbers and office locations. The breach, dated to mid‑August, includes 21,000 Customs and Border Protection staff, 10,000 Immigration and Customs Enforcement employees, about 1,000 Cybersecurity and Infrastructure Security Agency workers, and other agency personnel, representing roughly one‑fifth of DHS’s workforce. The data was released to journalist maia arson crimew and then to DDoSecrets, revealing not only personal information but also access to surveillance tools such as Penlink, Headspace, and Mobile Fortify, raising concerns about tech vendors. DHS has acknowledged the incident and is investigating, while Okta denies any compromise, and the breach adds to a series of recent government data losses.",
+      "key_points": [
+        "More than 40,000 DHS employee records were exposed via an Okta breach, including CBP, ICE, and CISA staff",
+        "The dataset reveals access to surveillance technologies like Penlink, Headspace, and Mobile Fortify",
+        "DHS is investigating the breach and has confirmed awareness, while Okta denies compromise",
+        "The incident follows a string of recent government data leaks, heightening concerns over security"
+      ],
+      "topics": [
+        "data breach",
+        "homeland security",
+        "government",
+        "cybersecurity",
+        "surveillance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 20:01:00 +0000",
+      "processed_at": "2026-10-30T15:12:48.349169+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "The Trump administration has committed $5 billion in Department of Energy loans to Constellation Energy to uprate eight nuclear plants, adding 1.1 GW of capacity. Most of the new output is already earmarked for hyperscalers, with Google, Meta and Amazon each purchasing power from several of the Illinois sites, plus Maryland and Pennsylvania plants. Constellation plans to spend over $7 billion to add 1,080 MW of nuclear capacity for these tech giants, and the loans could lower financing costs for the upgrades. While the DOE touts the deal as supporting affordable, reliable power, there is no evidence it will reduce residential rates, and the projects may mainly benefit the hyperscalers’ AI data centers.",
+      "key_points": [
+        "$5B DOE loan to Constellation Energy to uprate 8 nuclear plants, adding 1.1GW",
+        "Hyperscalers such as Google, Meta and Amazon already buying most of the new capacity",
+        "Constellation plans >$7B spend to add 1,080MW for tech giants, with loans potentially lowering financing costs"
+      ],
+      "topics": [
+        "nuclear energy",
+        "hyperscalers",
+        "government loans",
+        "data centers",
+        "energy policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 15:53:21 +0000",
+      "processed_at": "2026-10-30T15:13:13.483310+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-tiktok-expands-into-restaurant-guides-with-must-eat-feature",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
+      "title": "TikTok expands into restaurant guides with 'Must Eat' feature | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "TikTok has launched a new restaurant guide called \"Must Eat\" that aggregates more than 40 million posts and comments to surface user‑generated food recommendations across the U.S. The feature, debuting in New York City, Los Angeles, and San Francisco, lets users filter by city, cuisine, price, rating, and location and split listings into Everyday Eats and Elevated Dining categories. By integrating OpenTable bookings, TikTok positions itself as a direct competitor to Yelp and Google Maps while leveraging its viral video ecosystem. The move aims to make discovering local restaurants easier and to capture a larger share of the food‑recommendation market.",
+      "key_points": [
+        "TikTok introduces the Must Eat guide to surface user‑generated restaurant recommendations",
+        "The feature pulls from over 40 million posts and comments and offers filtering by city, cuisine, price, rating, and location",
+        "Listings are divided into Everyday Eats and Elevated Dining categories",
+        "Users can book restaurants directly through OpenTable in the initial launch cities"
+      ],
+      "topics": [
+        "tiktok",
+        "foodtech",
+        "restaurant",
+        "socialmedia",
+        "reviews"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 14:26:36 +0000",
+      "processed_at": "2026-10-30T15:12:48.062624+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
@@ -2381,105 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 18:38:47 +0000",
       "processed_at": "2026-10-24T21:46:32.712682+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-elon-musk-made-a-1-billion-investment-in-skydance-report-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-      "title": "Elon Musk made a $1B investment in Skydance, report says | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Elon Musk has invested roughly $1 billion in the newly formed media company Skydance, a move that comes shortly after Paramount’s $110 billion acquisition of Warner Bros. Discovery. The investment arrives alongside equity from other backers such as Laurene Powell Jobs and is intended to give Skydance a much‑needed financial boost as it pursues a $6 billion cost‑cutting plan over the next three years. Musk’s involvement signals confidence in the company’s strategy to consolidate Paramount+ and HBO Max under one umbrella and to strengthen its position in the competitive streaming market. The infusion is expected to help lift Skydance’s stock price and support its expansion plans.",
-      "key_points": [
-        "Musk’s $1 billion stake comes as Skydance seeks to fund a $6 billion cost‑cutting program",
-        "The investment coincides with other major backers, including Laurene Powell Jobs",
-        "Skydance aims to merge Paramount+ and HBO Max under a single corporate umbrella"
-      ],
-      "topics": [
-        "elon musk",
-        "skydance",
-        "media",
-        "investment",
-        "streaming"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 17:36:38 +0000",
-      "processed_at": "2026-10-24T21:46:42.227712+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Chinese state‑aligned hackers breached ConnectWise’s cloud backup service and stole application credentials that allow the company to connect to its customers’ data. Using the stolen credentials, the attackers logged into Microsoft‑hosted environments of roughly 2,250 organizations, accessing emails and files at a rate of almost 3,000 sign‑ins per minute. The rapid attacks were enabled by AI agents built on the open‑source ARTEX framework, a tool that has also been used to compromise other systems such as South Korea’s financial sector. ConnectWise has paused its backup service and is working to restore it while Microsoft warns that the speed of the breaches leaves little time for defenders to respond.",
-      "key_points": [
-        "ConnectWise’s cloud backup credentials were stolen by China‑aligned hackers.",
-        "Attackers accessed Microsoft‑hosted environments of ~2,250 companies, logging in at ~3,000 attempts per minute.",
-        "The attacks were powered by AI agents using the ARTEX framework.",
-        "ConnectWise has paused its backup service and is investigating the breach."
-      ],
-      "topics": [
-        "cybersecurity",
-        "hacking",
-        "artificial intelligence",
-        "connectwise",
-        "china"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "processed_at": "2026-10-24T21:46:52.237048+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593487899_d51c7762f4_o.jpg?resize=1200,857",
-      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements | TechCrunch",
-      "author": "Michael Schick",
-      "summary": "TechCrunch Disrupt 2026 celebrated its Startup Battlefield 200 cohort, selecting 200 of the most promising startups from thousands of applications and culminating in a three‑day pitch competition. The top five finalists vied for a $100,000 equity‑free prize and the Disrupt Cup, with Intero Biosystems taking the win and Apate finishing as runner‑up. The event also highlighted standout Showcase Stage pitches from companies such as Lola Vision Systems, Krokos Bio, and Rein Security, while the Spirit of Disrupt award honored Shogher Atanesyan of Ardook Data for her selfless community support. These achievements underscore Disrupt’s role in fostering innovation and building relationships among founders, investors, and industry leaders.",
-      "key_points": [
-        "200 startups were selected from thousands of applications for the 2026 Startup Battlefield 200 competition.",
-        "Intero Biosystems won the $100,000 equity‑free prize and the Disrupt Cup, with Apate as runner‑up.",
-        "The Spirit of Disrupt award was given to Shogher Atanesyan of Ardook Data for her extensive volunteer and community efforts.",
-        "Showcase Stage highlights included Lola Vision Systems, Krokos Bio, and Rein Security, showcasing diverse AI and biotech innovations."
-      ],
-      "topics": [
-        "tech",
-        "startup",
-        "ai",
-        "entrepreneurship",
-        "innovation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-24T21:46:32.829964+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
-      "title": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Blackstone’s Jas Khaira told TechCrunch Disrupt that the firm’s aggressive investment in AI compute infrastructure—through loans, equity and a new AI hub—has made it the largest non‑hyperscaler owner of compute.  The firm pioneered a financing model that lets it lend billions to neoclouds such as CoreWeave and Firmus by using GPU collateral and customer contracts, but debt levels have surged to around $50 billion for CoreWeave.  Khaira argues that the risk is manageable because the debt is backed by creditworthy customers like Microsoft and Meta, and that the market’s higher spreads reflect rising borrowing costs rather than a looming crisis.  Despite the debt concerns, AI companies continue to demand compute, driving further data‑center buildout and Blackstone’s $1.5 billion joint venture with Anthropic to help its portfolio firms adopt AI.",
-      "key_points": [
-        "Blackstone is the largest non‑hyperscaler owner of AI compute, funding neoclouds with loans and equity",
-        "The firm pioneered a GPU‑collateral financing model that enabled a $2.3 billion loan to CoreWeave and a $10 billion facility for Firmus",
-        "Debt levels have risen sharply, but Khaira believes the backing of investment‑grade customers keeps risk low",
-        "AI companies’ compute appetite continues to drive data‑center expansion, offsetting market jitters"
-      ],
-      "topics": [
-        "private equity",
-        "ai",
-        "compute financing",
-        "neocloud",
-        "debt"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "processed_at": "2026-10-24T19:19:03.604791+00:00"
     }
   ]
 }
