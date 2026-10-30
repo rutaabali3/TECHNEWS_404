@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-30T15:13:15.479819+00:00",
+  "updated_at": "2026-10-30T20:00:50.269789+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "title": "Google expands AI Search ads globally as core ad growth slows | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Google announced it is expanding AI-powered Search ads to international markets as a response to slowing growth in its core search advertising business. The move, revealed during Alphabet’s third‑quarter earnings call, comes after the company reported $127.6 billion in revenue and a 12% year‑over‑year increase in Search ad revenue, down from 17% and 19% in earlier quarters. Early data shows click‑through rates for sponsored product listings in AI Mode are comparable to organic results, indicating the new formats are resonating with users. This expansion follows Google’s May launch of Gemini‑powered ad formats and highlights the company’s strategy to monetize its expanding AI features amid a competitive ad market.",
+      "key_points": [
+        "Google is rolling out AI‑powered Search ads in international markets to offset slowing core ad growth.",
+        "Search ad revenue grew 12% YoY in Q3, a decline from 17% and 19% in previous quarters.",
+        "Early click‑through rates for AI Mode ads match organic listings, suggesting strong relevance.",
+        "Alphabet reported $127.6 billion in revenue for Q3, with Search revenue up 12% YoY."
+      ],
+      "topics": [
+        "google",
+        "ai",
+        "search",
+        "advertising",
+        "earnings"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "processed_at": "2026-10-30T20:00:17.025694+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-microsoft-recorded-10-billion-in-revenue-from-openai",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Microsoft reported $10 billion in revenue from OpenAI in the quarter ended September 30, 2026, representing nearly 11% of its $92.3 billion quarterly revenue. The figure includes revenue‑sharing payments and Azure cloud services, though the exact split remains unclear. For the full fiscal 2026, OpenAI‑related revenue reached $24.1 billion, implying an annualized $40 billion if the quarterly pace continues. The data underscores the deep financial ties between Microsoft and OpenAI even as the partnership loosens and Microsoft’s ownership stake declines to 24%.",
+      "key_points": [
+        "Microsoft earned $10 billion from OpenAI in Q3 2026, about 11% of total revenue.",
+        "OpenAI‑related revenue hit $24.1 billion for fiscal 2026, projecting $40 billion annually.",
+        "Microsoft holds a 24% stake in OpenAI, down from ~25% in September.",
+        "The revenue mix includes revenue‑sharing and Azure cloud services, but the split is undisclosed."
+      ],
+      "topics": [
+        "microsoft",
+        "openai",
+        "revenue",
+        "ai",
+        "cloud"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "processed_at": "2026-10-30T20:00:31.560514+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800",
+      "title": "Wiz’s CTO on PHP2Shell and the coming 'vulnpocalypse' | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Last week, two critical bugs were discovered in PHP, the language that powers about 70% of websites, forcing many organizations to take sites offline while patches were developed. Tomer Schwartz, CTO of Exposure Management & AppSec at Wiz, joined a rapid‑response effort alongside OpenAI, the research group Calif, and the PHP core team to fix the vulnerabilities and discuss the broader implications of AI‑accelerated vulnerability discovery. In a TechCrunch Equity podcast interview, Schwartz explained how the scramble unfolded, why manual patching is unsustainable, and how early‑stage startups can build security into their products from the outset. He also warned that the PHP incident is just the beginning of a “vulnpocalypse” that will grow as AI tools make finding and exploiting new flaws faster.",
+      "key_points": [
+        "Two critical PHP bugs affecting roughly 70% of websites forced many sites offline while patches were rushed.",
+        "Wiz’s Tomer Schwartz was part of the rapid‑response team that worked with OpenAI, Calif, and the PHP core team to mitigate the vulnerabilities.",
+        "The incident illustrates that manual patching cannot scale and that AI is accelerating vulnerability discovery, prompting a need for built‑in security in startups."
+      ],
+      "topics": [
+        "php",
+        "cybersecurity",
+        "ai",
+        "software development",
+        "vulnerabilities"
+      ],
+      "source_url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "processed_at": "2026-10-30T20:00:17.968590+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "U.S. intelligence agencies have been surveilling Alice Huang, a senior executive at Singapore‑based Megaspeed, for about a year after she was photographed alongside Nvidia CEO Jensen Huang at business dinners. Sources say Huang’s close proximity to Jensen could have allowed her to gather information on Nvidia’s plans to ship advanced chips to China, raising concerns that she might have been acting as a Chinese spy. Nvidia has denied the allegation, stating that meetings with customers are routine and that no sensitive trade secrets were shared. The investigation follows Megaspeed’s own probe by the Commerce Department for allegedly helping Chinese firms sidestep AI‑chip export restrictions.",
+      "key_points": [
+        "U.S. intelligence surveilled Megaspeed executive Alice Huang for potential spying on Nvidia CEO Jensen Huang",
+        "Nvidia denies that meetings with Huang involved sensitive trade secrets",
+        "Megaspeed has been investigated for helping Chinese companies bypass AI‑chip export rules",
+        "The case highlights U.S. concerns over Chinese access to advanced semiconductor technology"
+      ],
+      "topics": [
+        "nvidia",
+        "china",
+        "espionage",
+        "ai",
+        "export controls"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:42:32 +0000",
+      "processed_at": "2026-10-30T20:00:17.350184+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer",
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
@@ -2382,104 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 16:00:00 +0000",
       "processed_at": "2026-10-25T00:05:46.996455+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-tesla-is-prepping-a-cybercab-onslaught",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
-      "title": "Tesla is prepping a Cybercab onslaught | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Tesla is expanding its Cybercab robotaxi service beyond Austin, beginning in Dallas next month and targeting additional cities by year‑end, with plans to sell Cybercabs to fleet operators by the end of 2024. CFO Vaibhav Taneja emphasized that the Cybercab is inexpensive and quick to manufacture, positioning Tesla to undercut Waymo’s higher‑priced robotaxis. The company faces regulatory hurdles, including an NHTSA investigation over safety‑standard compliance, which could slow deployment. Tesla expects the robotaxi business to become a noticeable revenue stream only by Q3/Q4 of 2027.",
-      "key_points": [
-        "Cybercab rollout starts in Dallas next month and will expand to other cities by year‑end",
-        "Tesla claims the Cybercab is cheaper and easier to build, aiming to undercut Waymo",
-        "Regulatory and safety compliance issues, such as the NHTSA investigation, could delay deployment",
-        "Robotaxi revenue is projected to become significant only by Q3/Q4 2027"
-      ],
-      "topics": [
-        "tesla",
-        "robotaxi",
-        "cybercab",
-        "waymo",
-        "regulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 15:44:39 +0000",
-      "processed_at": "2026-10-25T00:05:47.038463+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-claude-duet-app-is-anthropics-bet-on-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
-      "title": "Claude Duet app is Anthropic's bet on agents | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Anthropic has launched Claude Duet, a new AI agent aimed at professionals and small businesses that can automate tasks, generate daily briefings, and build dashboards. Built on the Claude Opus 5.5 model, Duet can connect to over 6,000 plug‑ins in the Claude Marketplace and even make online purchases through Stripe Link or Shopify Shop Pay, though it requires user approval for sensitive steps and does not trade securities. The app distinguishes itself from personal assistants like Instinct by focusing on business workflows rather than errands, and it is available on iOS, Android, and the web for Pro and Max customers who must join a waitlist to try it.",
-      "key_points": [
-        "Claude Duet is Anthropic’s entry into the agent market, targeting professionals and small businesses with task automation and dashboard creation.",
-        "It runs on Claude Opus 5.5, supports 6,000+ connectors, and can make purchases via Stripe or Shopify with user approval.",
-        "The agent does not handle personal errands or securities trading, setting it apart from other personal assistants."
-      ],
-      "topics": [
-        "ai",
-        "assistant",
-        "business",
-        "anthropic",
-        "claude"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "processed_at": "2026-10-25T00:05:46.856350+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-deepseek-reportedly-raises-15b-days-after-us-restrictions",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions | TechCrunch",
-      "author": "Kate Park",
-      "summary": "DeepSeek, a Hangzhou‑based AI startup, secured roughly $15 billion (about 100 billion yuan) in a funding round that followed a U.S. federal order to remove its technology from civilian agencies, marking one of China’s largest AI investments. The round attracted major Chinese firms such as battery maker CATL and Tencent, and follows earlier raises of $7 billion in June and a $1.5 billion bid in July that pushed the company’s valuation toward $71 billion. With plans for a potential IPO in China next year, DeepSeek is expanding its AI infrastructure and open‑model offerings for both domestic and international markets, intensifying competition among Chinese rivals. The deal underscores the global scramble for AI dominance, as investors pour billions into Chinese AI firms to keep pace with U.S. competitors.",
-      "key_points": [
-        "DeepSeek raised about $15 billion after a U.S. ban on its technology",
-        "Investors include CATL and Tencent, among others",
-        "Previous rounds in June and July pushed valuation to roughly $71 billion",
-        "The funding fuels expansion and heightens competition among Chinese AI firms"
-      ],
-      "topics": [
-        "ai",
-        "china",
-        "funding",
-        "startup",
-        "geopolitics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 13:11:13 +0000",
-      "processed_at": "2026-10-25T00:05:46.866509+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Former OpenAI science lead Kevin Weil has founded Warp Sciences, an AI startup that trains robots to automate wet‑lab work for drug discovery. The company secured $215 million in funding at an $865 million valuation, with Lightspeed leading the round alongside IVP, Mayfield, Lux Capital, Premji Invest, and Menlo Ventures. Warp Sciences aims to reshore the labor‑intensive synthesis of thousands of molecular variants from China, reducing geopolitical supply‑chain risks. Human chemists will use cameras and sensor gloves to train the robots, which can then operate around the clock to accelerate the drug development process.",
-      "key_points": [
-        "Warp Sciences raised $215 million at an $865 million valuation led by Lightspeed and other prominent venture firms.",
-        "The startup focuses on automating wet‑lab tasks to speed up drug discovery and reduce reliance on overseas synthesis contractors.",
-        "Human chemists will train robots using cameras and sensor gloves, enabling continuous, around‑the‑clock operation."
-      ],
-      "topics": [
-        "biotech",
-        "ai",
-        "drug discovery",
-        "automation",
-        "startup funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 18:38:47 +0000",
-      "processed_at": "2026-10-24T21:46:32.712682+00:00"
     }
   ]
 }

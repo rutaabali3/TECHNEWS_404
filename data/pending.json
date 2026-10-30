@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T15:12:46.249056+00:00",
+  "updated_at": "2026-10-30T20:00:15.411090+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -20,18 +20,6 @@
       "published": "Wed, 28 Oct 2026 13:53:31 +0000"
     },
     {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "feed_excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "published": "Wed, 28 Oct 2026 21:48:37 +0000"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "feed_excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "published": "Wed, 28 Oct 2026 21:34:30 +0000"
-    },
-    {
       "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
       "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "feed_excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
@@ -42,18 +30,6 @@
       "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
       "feed_excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
       "published": "Wed, 28 Oct 2026 19:19:58 +0000"
-    },
-    {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "feed_excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-      "published": "Wed, 28 Oct 2026 19:05:46 +0000"
-    },
-    {
-      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "feed_excerpt": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "published": "Thu, 29 Oct 2026 16:42:32 +0000"
     },
     {
       "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
@@ -240,7 +216,37 @@
       "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
       "feed_excerpt": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
       "published": "Fri, 30 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "feed_excerpt": "Like a real-life episode of Suits, the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now, an AI firm has entered the picture.",
+      "published": "Fri, 30 Oct 2026 19:55:13 +0000"
+    },
+    {
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "feed_excerpt": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+      "published": "Fri, 30 Oct 2026 18:01:24 +0000"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "feed_excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "published": "Fri, 30 Oct 2026 17:47:12 +0000"
+    },
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "feed_excerpt": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "feed_excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "published": "Fri, 30 Oct 2026 16:03:45 +0000"
     }
   ],
-  "last_processed_at": "2026-10-30T15:13:13.483389+00:00"
+  "last_processed_at": "2026-10-30T20:00:31.560588+00:00"
 }
