@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-29T21:40:19.164184+00:00",
+  "updated_at": "2026-10-30T01:43:44.640369+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "ttps-techcrunch-com-2026-10-28-amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Amazon announced a suite of five new Alexa devices, including the Alexa Photo Frame and Echo Time smart clock, both priced at $199.99, as well as updates to the Echo Show 16, Echo Dot, and Echo Studio with Home Camera. The Photo Frame offers a 10‑inch anti‑glare display that automatically selects and displays Prime members’ photos, while the Echo Time adds sleep‑sensing alarms and sunrise‑mimicking wake‑up features. The Echo Dot now includes a built‑in smart‑home hub and eero Wi‑Fi extender, and the Echo Studio doubles as a camera with visual intelligence for real‑time assistance. These releases expand Amazon’s smart‑home ecosystem and emphasize integration with existing Amazon services and user convenience.",
+      "key_points": [
+        "Amazon unveiled five new Alexa devices, including a photo frame and a smart clock, both priced at $199.99",
+        "The Echo Dot now functions as a smart‑home hub with an eero Wi‑Fi extender and faster on‑device processing",
+        "The Echo Studio with Home Camera adds visual intelligence and a camera for remote monitoring"
+      ],
+      "topics": [
+        "amazon",
+        "alexa",
+        "smarthome",
+        "digitalphoto",
+        "smartclock"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 14:34:25 +0000",
+      "processed_at": "2026-10-30T01:43:18.049831+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/free-fire-india.jpg?resize=1200,800",
+      "title": "Free Fire returns to India as Garena launches localized version four years after ban | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Garena has re‑launched its battle‑royale hit Free Fire in India as a stand‑alone, localized version called Free Fire India, adding India‑specific content, parental controls, playtime limits, spending caps and hosting user data on servers in the country. The move comes more than three years after the game was banned in February 2022 amid national‑security concerns, and follows a quiet postponement of the 2023 launch that was announced in September. While Free Fire India is now live, Garena’s enhanced Free Fire MAX remains available and players can use the same account across both titles, keeping the franchise’s esports ecosystem active with teams like S8UL, Apex Gaming and Total Gaming competing in the 2026 Esports World Cup. The launch underscores India’s importance to the mobile‑gaming market, where downloads grew 14.2% quarter‑over‑quarter to 2 billion and revenue rose 3.7% to over $106 million, and highlights the continued dominance of Free Fire with 77.4 million monthly active users versus 20.8 million for BGMI.",
+      "key_points": [
+        "Garena launched a localized Free Fire India with parental controls, playtime limits, spending caps and Indian‑hosted data after a four‑year ban",
+        "Free Fire India now co‑exists with Free Fire MAX, allowing shared accounts and events across both games",
+        "The franchise remains dominant in India, boasting 77.4 million monthly active users versus 20.8 million for BGMI",
+        "India’s mobile‑gaming market is a key revenue driver, with 2 billion downloads and $106 million in revenue in Q2 2024"
+      ],
+      "topics": [
+        "gaming",
+        "mobile gaming",
+        "esports",
+        "regulation",
+        "india"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 13:39:18 +0000",
+      "processed_at": "2026-10-30T01:43:18.558786+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
+      "title": "From 8VC to Benchmark, here's what's hiding in October SEC filings | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "October SEC filings revealed a surge in venture fund activity, with several high‑profile firms announcing sizable new vehicles. Trust Ventures and Interlagos Capital each raised $400 million for new deep‑tech and regulated‑industry funds, while former Benchmark VCs Victor Lazarte and Kris Fredrickson launched Diffusion ONE, a $1.252 billion AI fund that far exceeded its original $800 million target. Benchmark itself filed four partner‑only funds totaling $364 million, and 8VC announced multiple new vehicles, including a $400 million 8VC DSS III. The month also saw Industry Ventures raise $1.7 billion for a secondaries fund, underscoring the growing appetite for secondary market stakes in hot private companies.",
+      "key_points": [
+        "Diffusion ONE surpassed its $800 million target, raising $1.252 billion for AI investments",
+        "Benchmark launched four partner‑only funds that together aim to raise $364 million",
+        "8VC announced several new vehicles, including a $400 million 8VC DSS III fund",
+        "Industry Ventures’ $1.7 billion secondaries fund highlights the expanding secondary market"
+      ],
+      "topics": [
+        "venture capital",
+        "ai",
+        "secondaries",
+        "regulated industries",
+        "fundraising"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 27 Oct 2026 22:17:18 +0000",
+      "processed_at": "2026-10-30T01:43:18.056607+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-apple-launches-its-new-touchscreen-macbook-pro",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028.jpg?resize=1200,800",
@@ -2404,81 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 19:03:28 +0000",
       "processed_at": "2026-10-24T16:53:46.773075+00:00"
-    },
-    {
-      "id": "s-techcrunch-com-2026-10-22-1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "1Password has launched a new tool called 1Password for Agents that lets AI assistants log into users’ accounts on their behalf without ever seeing the users’ passwords. The system works by generating a unique digital key for the agent, sending a confirmation alert to the user, and then signing in the agent with the stored credentials. It currently supports popular agents such as Claude Duet, OpenAI’s Dots, ChatGPT Work, Grok Bot, Meta’s Muse, and Town, and the company plans to expand the list. The move comes amid growing concerns about AI‑driven account activity, with U.S. banks reporting increased agent usage in customer accounts and highlighting the need for tighter control over credentials.",
-      "key_points": [
-        "1Password for Agents lets AI assistants log in without accessing user passwords",
-        "The process uses a unique digital key and user confirmation to authorize each login",
-        "It supports multiple agents including Claude Duet, OpenAI’s Dots, ChatGPT Work, Grok Bot, Meta’s Muse, and Town",
-        "The launch addresses rising security concerns as banks detect more agent activity in user accounts"
-      ],
-      "topics": [
-        "password management",
-        "ai agents",
-        "cybersecurity",
-        "banking",
-        "authentication"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "processed_at": "2026-10-24T16:53:46.914048+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
-      "title": "Spotify's current AI bet is about being the music service that agents choose | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Spotify reported a strong third quarter with 788 million monthly active users and nearly €5 billion in revenue, but its main focus is on positioning itself as the go‑to music service for AI agents. Co‑CEO Gustav Söderström explained that while agents excel at handling chores, entertainment is the opposite, and Spotify aims to let users discover and interact with music through conversational assistants rather than the app alone. The company has already integrated with Meta’s Muse, ChatGPT, and Claude, and it plans to use its vast listening history to offer highly personalized recommendations without sharing user data with partners. By embracing the rise of AI agents, Spotify sees the trend as a tailwind that could drive future growth and deepen user engagement.",
-      "key_points": [
-        "Spotify’s Q3 revenue hit nearly €5 billion and 788 million MAUs, underscoring its market strength.",
-        "The company is targeting AI agents as a new channel, integrating with Meta’s Muse, ChatGPT, and Claude to let users request music via conversation.",
-        "Spotify will use its own data to personalize recommendations while keeping user data private, positioning itself as a unique media agent.",
-        "The strategy turns the growing AI agent ecosystem into a growth tailwind rather than a threat."
-      ],
-      "topics": [
-        "spotify",
-        "ai",
-        "music streaming",
-        "agents",
-        "partnerships"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 15:03:58 +0000",
-      "processed_at": "2026-10-24T16:53:46.910167+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
-      "title": "Nirva raises $33M for a pendant that only listens to you | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Nirva, a 2025‑founded startup by former Meta Reality Labs engineers and a fashion brand founder, has raised a total of $33 million, including a $25 million pre‑Series A round, to develop its first wearable—a lightweight pendant that passively listens only to the wearer. The eight‑gram device, which can also be worn as a bracelet, offers a three‑day battery life and uses onboarding voice snippets to build a personal model while filtering out other conversations and discarding audio after processing. Nirva plans to ship the $249 pendant in November, positioning it as a personal‑insights tool rather than a productivity gadget, and competes with other AI jewelry brands such as Taya and Vocci. The company emphasizes privacy by never storing audio or transcripts, aiming to help users improve self‑understanding and daily interactions.\n",
-      "key_points": [
-        "Nirva secured $33 million total funding, including a $25 million pre‑Series A round.",
-        "The pendant weighs 8 grams, lasts up to three days on a single charge, and only records the wearer’s voice, discarding audio after analysis.",
-        "It will ship in November 2024 for $249, offering a companion app that provides personal insights and reminders.",
-        "Founded by ex‑Meta Reality Labs employees and a fashion entrepreneur, Nirva targets the personal‑insights market rather than productivity.\n"
-      ],
-      "topics": [
-        "ai wearables",
-        "funding",
-        "personal insights",
-        "privacy",
-        "fashion tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
-      "processed_at": "2026-10-24T16:53:47.075864+00:00"
     }
   ]
 }
