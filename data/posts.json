@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-30T01:43:44.640369+00:00",
+  "updated_at": "2026-10-30T08:19:34.026681+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Apple has introduced a touchscreen MacBook Pro, with a base price of $2,899 and a fully loaded 16‑inch model reaching $14,549. The new machines feature the M5 Max chip, an 18‑core CPU and 40‑core GPU, and offer steep upgrade costs for storage and memory. Compared to the previous 16‑inch MacBook Pro, the top‑end price has risen by $4,400, reflecting Apple’s shift toward high‑performance hardware amid supply constraints. Preorders open on October 30, with availability beginning November 6.",
+      "key_points": [
+        "The touchscreen MacBook Pro starts at $2,899 and tops out at $14,549 with the M5 Max chip.",
+        "Upgrades such as 4TB SSD ($1,000), 8TB ($3,000), 16TB ($7,000) and 128GB RAM ($2,000) add significant cost.",
+        "The new models raise the previous 16‑inch MacBook Pro’s maximum price from $10,149 to $14,549.",
+        "Preorders begin October 30 and the laptops ship on November 6."
+      ],
+      "topics": [
+        "apple",
+        "macbook",
+        "touchscreen",
+        "pricing",
+        "hardware"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 22:47:50 +0000",
+      "processed_at": "2026-10-30T08:19:02.700679+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Microsoft revealed Azure’s July‑September quarter revenue at $33.2 billion, the first time it disclosed the figure in dollars. The figure represents a 48 % year‑over‑year increase and puts Azure marginally ahead of Google Cloud’s $30.7 billion, though Google’s growth rate was roughly double. Azure now accounts for about 36 % of Microsoft’s $92.3 billion quarterly revenue and is the company’s largest and fastest‑growing product line. The disclosure allows investors to compare Microsoft’s cloud business directly with Amazon Web Services and Google Cloud, intensifying the competitive race.",
+      "key_points": [
+        "Azure generated $33.2B in Q3, up 48% YoY.",
+        "Azure slightly outpaced Google Cloud’s $30.7B, but Google grew faster.",
+        "Azure represents 36% of Microsoft’s $92.3B quarterly revenue.",
+        "Microsoft’s new Agents & Infra segment, which includes Azure, grew 25% YoY to $76.8B."
+      ],
+      "topics": [
+        "cloud",
+        "microsoft",
+        "azure",
+        "google cloud",
+        "revenue"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "processed_at": "2026-10-30T08:19:03.065431+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blog_ConnectedApps_1027_2.width-2200.format-webp.webp?resize=1200,675",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Google has launched a Connected Apps Platform that lets developers link their services to the company’s AI experiences in Gemini and Search, enabling users to perform actions like designing a flyer with Canva or building a playlist with YouTube Music directly from the AI interface. The beta platform, currently available to U.S. developers, requires integration with Google’s MCP server or Android MCP via AppFunctions APIs and registration through the Connected Console, after which developers can monitor traffic, latency, and error rates. Over 50 apps—including Adobe, Experian, Peloton, and the meditation app Calm—are already available in Gemini, and more will appear in Search over the coming weeks, positioning the platform as a new visibility channel for businesses on the agentic web. Google has not announced a broader rollout date, but the initiative signals a push to shift consumer behavior toward using AI as a gateway to third‑party services.",
+      "key_points": [
+        "Google opens a Connected Apps Platform for developers to integrate apps with Gemini and Search via MCP and AppFunctions APIs",
+        "More than 50 apps, such as Adobe, Experian, Peloton, and Calm, are already available in Gemini and will expand to Search soon",
+        "Developers can track performance metrics and choose whether their app appears in Search, Gemini, or both",
+        "The platform is in public beta for U.S. developers, with no announced date for wider availability"
+      ],
+      "topics": [
+        "google",
+        "ai",
+        "connectedapps",
+        "search",
+        "gemini"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-10-30T08:19:02.793098+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-27-vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "title": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Anthropic’s upcoming IPO is poised to generate billions for its early venture investors, but Amazon is set to reap far larger gains through its $18 billion investment and $97.9 billion‑valued convertible notes that could convert into up to 1.84 billion shares, capped at 12% of the company’s diluted share count. The AI startup’s $965 billion private valuation means even a 1% stake is worth nearly $10 billion, so VC holdings are small percentages but still huge dollar amounts. Google also stands to benefit, holding roughly 8–14% of Anthropic and securing $114 billion in cloud commitments through 2033. The S‑1 filing highlights that while VCs will see massive paydays, tech giants like Amazon and Google are positioned to become the biggest winners of the listing and its associated cloud deals.",
+      "key_points": [
+        "Anthropic’s IPO will yield billions for VCs but Amazon’s $18 billion investment and convertible notes could convert into up to 1.84 billion shares, capped at 12% of diluted shares",
+        "Amazon’s note holdings are valued at $97.9 billion, far exceeding the company’s total debt load of $6.2 billion",
+        "Google holds an estimated 8–14% stake and has secured $114 billion in cloud commitments through 2033",
+        "Anthropic’s $965 billion valuation makes even 1% stakes worth nearly $10 billion, explaining why VC percentages are small but dollar values are huge"
+      ],
+      "topics": [
+        "anthropic",
+        "ipo",
+        "amazon",
+        "google",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "processed_at": "2026-10-30T08:19:34.025595+00:00"
+    },
     {
       "id": "ttps-techcrunch-com-2026-10-28-amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
@@ -2380,104 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 21 Oct 2026 22:51:22 +0000",
       "processed_at": "2026-10-24T19:19:03.604791+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-canva-releases-its-first-image-generation-model",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
-      "title": "Canva releases its first image generation model | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Canva has launched its first image generation model, Canva Craft, which uses a two‑stage process to interpret prompts and generate up to 2K‑resolution images in roughly 30 aspect ratios. The model is trained on Canva’s own design templates, allowing generated images to be converted into layered designs via Canva Magic and enabling precise edits without disturbing other elements. Canva plans to release cost‑efficient variants called Craftfast and Craft‑ultrafast, and will make the model available through its API and third‑party chatbots such as ChatGPT and Gemini. Despite reporting $4 billion in revenue in 2024, Canva cut its 2026 growth forecast, leading analysts to note a valuation drop from $42 billion to $35 billion.",
-      "key_points": [
-        "Canva’s first image generation model, Canva Craft, produces up to 2K images with accurate detail and legible text using a two‑stage process.",
-        "The model is trained on Canva’s own design templates, enabling seamless conversion to layered designs via Canva Magic and precise editing.",
-        "Canva plans to release cost‑efficient variants (Craftfast, Craft‑ultrafast) and integrate the model into APIs and third‑party chatbots.",
-        "The company reported $4 billion in revenue in 2024 but cut its 2026 growth forecast, causing its valuation to fall from $42 billion to $35 billion."
-      ],
-      "topics": [
-        "canva",
-        "image generation",
-        "ai",
-        "design tools",
-        "valuation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "processed_at": "2026-10-24T19:19:03.760958+00:00"
-    },
-    {
-      "id": "runch-com-2026-10-22-fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Fusion startup Helion has secured a $175 million federal award under the CHIPS Act to build a U.S. semiconductor line that could cut power‑losses in its fusion reactors by half, effectively doubling the output of its Orion plant. The new Washington‑state facility will be the first domestic producer of high‑voltage, pulsed semiconductors used in fusion, manufacturing, wastewater treatment, medicine and defense. Helion also announced a $50 million private investment, bringing total funding above $3.2 billion, and will use the grant to expand automated module, packaging and testing capacity for its 2028‑deadline Orion plant that is slated to supply Microsoft with grid power. The award gives the government a non‑voting stake in Helion and is part of a broader effort to boost U.S. semiconductor manufacturing for energy and defense applications.",
-      "key_points": [
-        "Helion received $175 million federal funding to build a U.S. semiconductor line that could halve power losses and double fusion plant output",
-        "The new line will produce high‑voltage, pulsed semiconductors for fusion, manufacturing, wastewater treatment, medicine and defense",
-        "Helion’s Orion plant aims to deliver grid power to Microsoft by 2028, with the funding supporting automated module, packaging and testing capacity",
-        "The award also grants the U.S. government a non‑voting stake in Helion and complements a $50 million private investment, totaling over $3.2 billion raised"
-      ],
-      "topics": [
-        "fusion",
-        "semiconductors",
-        "energy",
-        "government funding",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 14:59:28 +0000",
-      "processed_at": "2026-10-24T19:19:03.804796+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Walmart has launched its Agent Gateway, a new platform that lets AI agents search Walmart’s inventory and make purchases on behalf of shoppers, following Amazon’s recent decision to block such agents. The gateway uses the Model Context Protocol (MCP) to connect approved agents while keeping customer data private and providing separate purchase tracking through upcoming Agent Profiles. Walmart’s system also imposes strict terms on agents, limiting their actions, protecting payment information, and allowing customers to set spending limits or require approval for each transaction. The move positions Walmart as a pioneer in agentic commerce, offering a more open alternative to competitors that have barred AI agents from their sites.",
-      "key_points": [
-        "Walmart introduces Agent Gateway to enable AI agents to shop on its platform while protecting customer data",
-        "The system uses MCP and will add Agent Profiles for separate tracking and spending controls",
-        "Walmart sets strict agent terms to limit actions and safeguard payment information"
-      ],
-      "topics": [
-        "ai",
-        "ecommerce",
-        "retail",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 19:30:00 +0000",
-      "processed_at": "2026-10-24T16:53:46.864161+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-21-the-internet-is-having-a-very-bad-cybersecurity-day",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675",
-      "title": "The internet is having a very bad cybersecurity day | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "AI‑driven scans exposed critical PHP vulnerabilities that knocked government websites offline worldwide, prompting the NSA to urge immediate patching or shutdown of PHP‑based systems.  At the same time, Node.js released a patch for four high‑severity flaws, including a remote code execution bug and TLS validation bypasses.  Open‑source proxy LiteLLM was hit by an attacker who pushed malicious code to PyPI, Docker Hub, and GHCR, delivering an information stealer and remote‑access trojan.  Additionally, Indian certificate authority eMudhra’s private keys were compromised, raising the risk of forged certificates and a security crisis likened to Heartbleed.",
-      "key_points": [
-        "AI discovered critical PHP flaws that caused global government sites to go offline and led to an NSA advisory",
-        "Node.js patched four high‑severity vulnerabilities, one enabling remote code execution and two allowing TLS validation bypasses",
-        "LiteLLM’s malicious releases targeted cloud credentials and included a remote‑access trojan, prompting removal and remediation guidance",
-        "eMudhra’s private key compromise could allow attackers to issue fraudulent certificates, creating a widespread security threat"
-      ],
-      "topics": [
-        "cybersecurity",
-        "php",
-        "nodejs",
-        "open-source",
-        "certificates"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 21 Oct 2026 19:03:28 +0000",
-      "processed_at": "2026-10-24T16:53:46.773075+00:00"
     }
   ]
 }
