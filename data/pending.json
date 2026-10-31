@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:57:33.355970+00:00",
+  "updated_at": "2026-10-31T05:19:33.588459+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -12,18 +12,6 @@
       "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
       "feed_excerpt": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
       "published": "Wed, 28 Oct 2026 15:53:52 +0000"
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "feed_excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "published": "Wed, 28 Oct 2026 21:25:30 +0000"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "feed_excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "published": "Wed, 28 Oct 2026 19:19:58 +0000"
     },
     {
       "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
@@ -48,18 +36,6 @@
       "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
       "feed_excerpt": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
       "published": "Thu, 29 Oct 2026 14:35:26 +0000"
-    },
-    {
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "feed_excerpt": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
-      "published": "Thu, 29 Oct 2026 13:43:53 +0000"
-    },
-    {
-      "title": "DoorDash to acquire Instacart for $17B",
-      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "feed_excerpt": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-      "published": "Thu, 29 Oct 2026 13:40:57 +0000"
     },
     {
       "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
@@ -282,7 +258,19 @@
       "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "feed_excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
       "published": "Fri, 30 Oct 2026 21:17:40 +0000"
+    },
+    {
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "feed_excerpt": "The money behind the money is thrilled, mostly.",
+      "published": "Sat, 31 Oct 2026 04:16:50 +0000"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "feed_excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000"
     }
   ],
-  "last_processed_at": "2026-10-30T23:57:35.196048+00:00"
+  "last_processed_at": "2026-10-31T05:20:00.716216+00:00"
 }

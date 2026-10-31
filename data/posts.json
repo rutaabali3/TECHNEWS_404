@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-30T23:58:01.728976+00:00",
+  "updated_at": "2026-10-31T05:20:01.787525+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-28-microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Microsoft reported a record quarterly revenue of $92.3 billion, a 19% year‑over‑year increase, marking the company’s tenth consecutive quarter of record‑breaking sales. Net income rose to $36.6 billion, up 32% on a GAAP basis, driven largely by the $63.9 billion in cloud revenue, which grew 30% YoY. The cloud segment included $33.2 billion from Azure, $28 billion from Microsoft 365, and $10 billion from OpenAI services, while capital expenditures topped $45.2 billion, another all‑time quarterly record. Microsoft also announced that its commercial remaining performance obligation—future revenue commitments—jumped 73% to $677 billion.",
+      "key_points": [
+        "Microsoft achieved its tenth straight quarter of record revenue, reaching $92.3 billion",
+        "Cloud revenue hit $63.9 billion, with Azure contributing $33.2 billion and OpenAI $10 billion",
+        "Capital expenditures set a new quarterly record at $45.2 billion"
+      ],
+      "topics": [
+        "microsoft",
+        "cloud",
+        "ai",
+        "revenue",
+        "capital expenditures"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
+      "processed_at": "2026-10-31T05:19:47.053501+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-28-anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Anthropic has unveiled a new suite of reporting tools that let enterprise customers track token spend, cost, and workflow performance, aiming to demonstrate ROI and lock in users. The launch follows the company’s Q2 operating profit and a 900% net revenue retention, underscoring strong enterprise adoption. The reports provide granular data on team output, cost, and bottlenecks, plus recommendations for improvement, while explicitly stating that the data will not be used for model training. This move comes amid growing CFO concern over unplanned AI spend, with a Jellyfish survey showing Anthropic’s Claude Code accounts for nearly a third of code changes and has seen ten‑fold spend growth, now about 2% of engineering budgets.",
+      "key_points": [
+        "Anthropic released reporting tools to give enterprise users a detailed view of token spend and ROI.",
+        "The suite offers cost breakdowns, workflow analysis, and improvement suggestions without training models on the data.",
+        "Anthropic’s Q2 operating profit and 900% net revenue retention highlight strong enterprise traction.",
+        "A Jellyfish survey shows Anthropic tools drive 10x spend growth and account for ~1/3 of code changes, costing ~2% of engineering budgets."
+      ],
+      "topics": [
+        "anthropic",
+        "enterprise",
+        "token spend",
+        "reporting",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "processed_at": "2026-10-31T05:19:35.592677+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/DHS-Getty.jpg?resize=1200,800",
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Bluesky has begun blocking links to the nonprofit DDoSecrets site that hosts a leaked dataset of more than 40,000 U.S. Department of Homeland Security employee records, after the agency disclosed a breach of its login system. The stolen data included names, work phone numbers and email addresses of employees from agencies such as Customs and Border Protection and Immigration and Customs Enforcement, and was made publicly available by DDoSecrets. Bluesky’s chief operating officer explained that the block was chosen to protect privacy while still allowing discussion of the data, and the company plans to update its block message wording. Homeland Security has also filed takedown notices through security vendor ZeroFox, which has authority to act on the department’s behalf until 2028, and the domain registrar CentralNic has taken the site offline for now.",
+      "key_points": [
+        "Bluesky blocked links to DDoSecrets after a DHS data breach exposed 40,000 employee records",
+        "The leaked data included professional contact information that was shared without consent",
+        "Homeland Security used ZeroFox to file takedown notices and the domain registrar has taken the site offline",
+        "Bluesky chose to block links rather than remove individual posts to preserve public discussion"
+      ],
+      "topics": [
+        "bluesky",
+        "homeland security",
+        "data breach",
+        "privacy",
+        "government"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 13:43:53 +0000",
+      "processed_at": "2026-10-31T05:19:35.087255+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-doordash-to-acquire-instacart-for-17b",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "title": "DoorDash to acquire Instacart for $17B | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "DoorDash announced it will acquire Instacart for $17 billion, paying $65 per share. The deal merges DoorDash’s restaurant‑takeout dominance with Instacart’s grocery‑delivery network, keeping Instacart’s brand and technology separate until closing. Both CEOs highlighted that the combination will give retailers and shoppers better tools and lower‑cost delivery, while the transaction is expected to close in late 2027 or early 2028. Instacart’s market cap exceeds $13 billion and its stock has risen 25% YTD, making the sale attractive amid rising competition.",
+      "key_points": [
+        "DoorDash to buy Instacart for $17 billion at $65 per share",
+        "The merger will combine restaurant and grocery delivery while keeping Instacart’s brand separate until closing",
+        "Deal expected to close late 2027 or early 2028",
+        "Instacart’s market cap >$13 billion and stock up 25% YTD, making the sale timely amid competition"
+      ],
+      "topics": [
+        "acquisition",
+        "delivery",
+        "grocery",
+        "restaurant",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 13:40:57 +0000",
+      "processed_at": "2026-10-31T05:20:00.716135+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-meta-has-a-new-ai-pet-app-called-waddle-world",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
@@ -2381,106 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 22:34:54 +0000",
       "processed_at": "2026-10-25T00:05:58.206782+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "OpenAI is reportedly close to securing a $30 billion private funding round that would value the company at $1.25 trillion, a pre‑money figure that would make it the most valuable private firm ever. The round is led by Coatue and includes investors from the UAE, who may also provide additional computing capacity. The deal would likely postpone or replace the company’s planned IPO, which was filed in June after a March raise that valued OpenAI at $852 billion post‑money. The move also raises the bar for competitors such as Anthropic, which is eyeing a $1.5‑to‑2 trillion valuation for its own public debut.",
-      "key_points": [
-        "OpenAI is close to raising $30 billion at a $1.25 trillion valuation",
-        "UAE investors may also secure additional computing capacity for OpenAI",
-        "The funding round could delay or replace OpenAI’s planned IPO",
-        "Anthropic’s IPO prospects are affected by the new valuation benchmark"
-      ],
-      "topics": [
-        "openai",
-        "funding",
-        "valuation",
-        "ipo",
-        "anthropic"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "processed_at": "2026-10-25T00:05:47.222255+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Rivian has acquired UK startup Third Dimension, a 15‑person AI firm that turns images and videos into realistic 3D worlds, to accelerate its autonomous driving efforts. The deal expands Rivian’s AI hub in London and adds the team to its autonomy group led by James Philbin. Third Dimension’s technology will help Rivian create more accurate simulations, narrowing the sim‑to‑real gap for training and validating self‑driving systems. Rivian plans to roll out full‑autonomous robotaxis in its R2 SUV on the Uber app by 2028.",
-      "key_points": [
-        "Rivian bought Third Dimension to boost autonomous driving simulation capabilities",
-        "Third Dimension’s AI turns real‑world data into realistic 3D worlds, reducing the sim‑to‑real gap",
-        "The acquisition expands Rivian’s AI presence in London and adds 15 experts",
-        "Rivian aims to deploy fully autonomous robotaxis in its R2 SUV by 2028"
-      ],
-      "topics": [
-        "rivian",
-        "autonomous vehicles",
-        "ai",
-        "simulation",
-        "robotaxi"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 21:05:05 +0000",
-      "processed_at": "2026-10-25T00:06:12.448602+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/arc-search-call.png?resize=1200,675",
-      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "The Browser Company will retire its design‑focused Arc browser on December 22, 2026, redirecting users to its new AI‑first browser Dia. The decision follows rising security costs in the AI era and a staged wind‑down that began with the halt of new Arc accounts, the removal of AI features on November 23, and the complete shutdown of Arc on Mac and Windows on December 22. Dia, built on the same proprietary Arc Development Kit, promises comparable features such as Profiles, vertical tabs, and seamless transfer of passwords, bookmarks, and extensions, while keeping AI optional. The move marks the end of a project that, despite a passionate niche following, never achieved mainstream adoption after Atlassian’s $610 million acquisition in 2025.",
-      "key_points": [
-        "Arc will be discontinued on December 22, 2026, with users directed to Dia",
-        "The wind‑down is staged: no new accounts, AI features removed on Nov 23, full shutdown on Dec 22",
-        "Dia shares core features and the same ADK engine, but open‑source is not feasible",
-        "Arc never reached mass‑market adoption despite Atlassian’s 2025 acquisition"
-      ],
-      "topics": [
-        "browser",
-        "ai",
-        "security",
-        "open-source",
-        "atlassian"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 20:01:51 +0000",
-      "processed_at": "2026-10-25T00:05:47.100342+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI has made its Decisions API model widely available, offering inference times as low as 100–180 milliseconds and lower costs compared to traditional large language models. The launch follows the success of TypeSafe’s Jev model, which has dominated public benchmarks and attracted customers such as Box, Datadog, and Ramp. Early adopters report dramatic speedups—Speak cut response times from 1.4 seconds to 0.13 seconds—while OpenAI also added voice and visual modalities to the public version. The new API opens possibilities for real‑time, high‑frequency decision tasks, such as per‑frame video analysis, and signals a broader shift toward fast, cheap intelligence in AI workflows.",
-      "key_points": [
-        "OpenAI’s Decisions API now publicly available with sub‑200 ms inference and lower cost than LLMs",
-        "TypeSafe’s Jev model leads benchmarks but OpenAI’s model is already adopted by major customers",
-        "Speed gains enable new use cases like real‑time video frame decisions",
-        "Multi‑modal support and cost efficiency make decision models attractive for developers"
-      ],
-      "topics": [
-        "openai",
-        "decision models",
-        "jevs",
-        "api",
-        "multimodal"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "processed_at": "2026-10-25T00:05:46.911096+00:00"
     }
   ]
 }
