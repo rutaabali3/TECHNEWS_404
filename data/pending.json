@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:04:35.971058+00:00",
+  "updated_at": "2026-10-31T16:14:05.401127+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -26,12 +26,6 @@
       "published": "Thu, 29 Oct 2026 14:35:26 +0000"
     },
     {
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "feed_excerpt": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000"
-    },
-    {
       "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
       "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
       "feed_excerpt": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
@@ -54,12 +48,6 @@
       "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "feed_excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
       "published": "Thu, 29 Oct 2026 21:01:04 +0000"
-    },
-    {
-      "title": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "feed_excerpt": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
-      "published": "Thu, 29 Oct 2026 20:43:56 +0000"
     },
     {
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
@@ -258,7 +246,25 @@
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "feed_excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "published": "Sat, 31 Oct 2026 01:20:05 +0000"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "feed_excerpt": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "published": "Sat, 31 Oct 2026 16:12:55 +0000"
+    },
+    {
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "feed_excerpt": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "published": "Sat, 31 Oct 2026 15:41:57 +0000"
+    },
+    {
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "feed_excerpt": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "published": "Sat, 31 Oct 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-31T11:04:37.946255+00:00"
+  "last_processed_at": "2026-10-31T16:14:06.700598+00:00"
 }

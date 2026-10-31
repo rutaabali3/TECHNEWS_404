@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-31T11:05:01.014684+00:00",
+  "updated_at": "2026-10-31T16:14:30.218032+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-29-fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Archive of Our Own (AO3), the fan‑fiction platform run by the nonprofit Organization for Transformative Works, announced that a security incident has forced the site offline and could keep it down for up to four weeks. The incident was discovered during routine maintenance, and while the scope is still being investigated, the team has not ruled out the possibility that user account data—including usernames, emails, IPs, and hashed passwords—may have been accessed. AO3, which is built on Ruby on Rails rather than PHP, is not linked to the recent PHP vulnerabilities, and the organization has urged users to change passwords on other sites as a precaution. The outage has already sparked widespread concern, with the status page receiving millions of views and the community scrambling for updates.",
+      "key_points": [
+        "AO3 offline due to a security incident, with downtime expected up to four weeks",
+        "User account data may have been accessed; password changes are advised",
+        "The site runs on Ruby on Rails, unrelated to recent PHP vulnerabilities"
+      ],
+      "topics": [
+        "fanfiction",
+        "security",
+        "downtime",
+        "nonprofit",
+        "ruby on rails"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 20:43:56 +0000",
+      "processed_at": "2026-10-31T16:14:06.700482+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Deepgram has announced the acquisition of Daily, the creators of the open‑source Pipecat framework, without disclosing a price but pledging to keep Pipecat open source. Pipecat orchestrates voice and video streams, integrating speech‑to‑text, large language models, and text‑to‑speech while reducing latency, giving Deepgram a deeper real‑time communication stack. The deal positions Deepgram to expand beyond voice into broader real‑time AI‑native software and to launch the Real‑Time Context Standard, an open protocol for voice agents. Both companies, alumni of Y Combinator’s 2016 batch, emphasize an engineering culture that supports open‑source collaboration and vendor‑neutral ecosystems.",
+      "key_points": [
+        "Deepgram acquires Daily and commits to keeping Pipecat open source",
+        "Pipecat is a real‑time orchestration framework for voice, video, STT, LLM, and TTS",
+        "The acquisition broadens Deepgram’s real‑time communication capabilities beyond voice",
+        "Both firms share a Y Combinator 2016 heritage and a focus on open‑source collaboration"
+      ],
+      "topics": [
+        "voice ai",
+        "open source",
+        "acquisition",
+        "real time communication",
+        "ai infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-31T16:14:06.586264+00:00"
+    },
     {
       "id": "ps-techcrunch-com-2026-10-29-ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
@@ -2431,56 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 23 Oct 2026 16:02:43 +0000",
       "processed_at": "2026-10-25T10:02:16.485087+00:00"
-    },
-    {
-      "id": "-2026-10-23-lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
-      "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Quest Diagnostics confirmed a cyberattack on its Quanum lab‑testing platform, exposing an unspecified amount of patient health and billing data. The breach, disclosed in an SEC 8‑K filing, involved unauthorized access to certain patient records and prompted the company to notify law enforcement and launch an investigation. Quest’s incident follows a string of high‑profile healthcare data breaches this year, underscoring the sector’s vulnerability to financially motivated cybercriminals. The company has not yet disclosed the number of affected patients or whether a ransom demand has been made.",
-      "key_points": [
-        "Quest Diagnostics’ Quanum system was targeted, compromising patient health and billing records.",
-        "The breach was reported in an SEC 8‑K filing and the company is investigating with law enforcement.",
-        "It is the second major data breach for Quest in a decade, after a 2019 loss of 11.9 million records.",
-        "The incident highlights the growing trend of cyberattacks on healthcare providers and the risk of ransom demands."
-      ],
-      "topics": [
-        "healthcare",
-        "cybersecurity",
-        "data breach",
-        "quest diagnostics",
-        "healthtech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 15:00:09 +0000",
-      "processed_at": "2026-10-25T10:02:16.411249+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-23-commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Commonwealth Fusion Systems received an $85 million award from the U.S. Department of Commerce under the CHIPS Act to develop advanced silicon carbide power electronics and other components for fusion power plants. The funding will support five initiatives, including high‑voltage silicon carbide devices, next‑generation radio‑frequency generators, radiation‑hardened control electronics, and the adaptation of AI hardware such as GPUs and TPUs for fusion facilities. With this investment, CFS aims to make its Sparc reactor more economical and durable, paving the way for a stronger U.S. supply chain and the deployment of multiple commercial fusion power plants.",
-      "key_points": [
-        "$85M CHIPS Act award to Commonwealth Fusion Systems for fusion‑ready semiconductors",
-        "Funding targets silicon carbide power electronics, RF generators, radiation‑hardened control electronics, and AI hardware adaptation",
-        "Goal is to enable more durable, economical fusion power plants and strengthen the U.S. supply chain",
-        "CFS plans to turn on its Sparc reactor next year"
-      ],
-      "topics": [
-        "fusion",
-        "semiconductors",
-        "chips act",
-        "energy",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 16:20:28 +0000",
-      "processed_at": "2026-10-25T05:08:07.908597+00:00"
     }
   ]
 }
