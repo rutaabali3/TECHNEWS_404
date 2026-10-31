@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:14:05.401127+00:00",
+  "updated_at": "2026-10-31T20:11:02.192861+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -14,22 +14,10 @@
       "published": "Wed, 28 Oct 2026 15:53:52 +0000"
     },
     {
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "feed_excerpt": "SuperMe just raised $20 million to let you pester AI clones of Silicon Valley’s savviest people about your career.",
-      "published": "Thu, 29 Oct 2026 16:19:43 +0000"
-    },
-    {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
       "feed_excerpt": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
       "published": "Thu, 29 Oct 2026 14:35:26 +0000"
-    },
-    {
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "feed_excerpt": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000"
     },
     {
       "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
@@ -38,28 +26,10 @@
       "published": "Thu, 29 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "feed_excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "published": "Thu, 29 Oct 2026 21:20:47 +0000"
-    },
-    {
       "title": "GM reaches $220M settlement over selling drivers’ private data",
       "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "feed_excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
       "published": "Thu, 29 Oct 2026 21:01:04 +0000"
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "feed_excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000"
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "feed_excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "published": "Thu, 29 Oct 2026 20:05:47 +0000"
     },
     {
       "title": "The R2 SUV is already Rivian’s best-selling vehicle",
@@ -266,5 +236,5 @@
       "published": "Sat, 31 Oct 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-10-31T16:14:06.700598+00:00"
+  "last_processed_at": "2026-10-31T20:11:04.237854+00:00"
 }

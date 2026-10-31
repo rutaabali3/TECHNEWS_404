@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-10-31T16:14:30.218032+00:00",
+  "updated_at": "2026-10-31T20:11:34.004860+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-29-amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Amazon reported its third‑quarter earnings on Thursday, missing analysts’ expectations for total revenue and earnings per share. The cloud unit, Amazon Web Services, was the bright spot, posting a 39% year‑over‑year revenue growth and beating revenue forecasts. However, free cash flow for the trailing 12 months fell to a negative $42.4 billion, a sharp reversal from the $14.8 billion positive free cash flow reported for the same period ended September 30 2025, largely due to heavy spending on AI. Amazon reiterated a 2026 capital‑expenditure outlook of about $220 billion, roughly matching the $240‑$247 billion net‑sales forecast for the fourth quarter, underscoring the company’s aggressive investment in artificial intelligence.",
+      "key_points": [
+        "Amazon missed Q3 revenue and EPS expectations.",
+        "AWS grew 39% YoY and beat revenue forecasts.",
+        "Free cash flow turned negative $42.4B, driven by AI spending.",
+        "Amazon plans $220B capex for 2026, close to Q4 sales forecast."
+      ],
+      "topics": [
+        "amazon",
+        "aws",
+        "cloud",
+        "ai",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 21:20:47 +0000",
+      "processed_at": "2026-10-31T20:11:04.237791+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "title": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Reddit announced it will shift to a primarily logged‑in experience as search traffic dries up amid the rise of AI‑powered search. The move is intended to protect data from AI scraping and enable lucrative licensing deals with model providers while helping the company monetize a shrinking user base. Despite a 2% year‑over‑year decline in U.S. daily active users, Reddit’s revenue jumped 53% YoY to $895 million, driven by a 54% rise in advertising and a 35% increase in non‑advertising AI data licensing. The transition will be tested in select markets outside the U.S. in Q4, with no firm global rollout date yet announced.",
+      "key_points": [
+        "Reddit is moving to a logged‑in model to safeguard data and pursue AI licensing amid falling search referrals",
+        "Search traffic referrals dropped over 1 million per week in October, contributing to a 2% YoY decline in U.S. daily active users",
+        "Revenue grew 53% YoY to $895 million, with advertising up 54% to $847 million and non‑advertising AI data licensing up 35% to $48 million",
+        "Logged‑in users offer higher ad value and personalization, and the change will be rolled out gradually starting in Q4"
+      ],
+      "topics": [
+        "reddit",
+        "ai",
+        "search",
+        "advertising",
+        "usergrowth"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
+      "processed_at": "2026-10-31T20:11:03.998434+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+      "title": "Rivian expands joint venture with VW to include AI assistant | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Rivian and Volkswagen Group have expanded their $5.8 billion joint venture to license Rivian’s AI voice‑assistant technology to VW. The assistant, which debuted in Rivian’s R1S SUV and R1T pickup in May 2026 and R2 SUV in October, could first appear in VW’s low‑cost ID EVERY1 hatchback. The move underscores Rivian’s push for vertical integration, allowing it to bundle its electrical architecture, software, and compute platform across partners. VW’s increased investment and the partnership aim to give the German automaker a modern, software‑centric platform that rivals Tesla’s offerings.",
+      "key_points": [
+        "$5.8B joint venture now includes AI assistant licensing",
+        "First VW vehicle to use Rivian tech will be ID EVERY1",
+        "Rivian’s AI assistant launched in 2026 and supports future third‑party agents",
+        "The partnership highlights Rivian’s vertical integration strategy"
+      ],
+      "topics": [
+        "rivian",
+        "volkswagen",
+        "ai",
+        "electric vehicles",
+        "joint venture"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 20:05:47 +0000",
+      "processed_at": "2026-10-31T20:11:03.960128+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-superme-raises-20m-for-its-network-of-ai-expert-profiles",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/SuperMe-TeamPhoto.jpg?resize=1200,800",
+      "title": "SuperMe raises $20M for its network of AI expert profiles | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "SuperMe, a 2024 startup that builds AI personas from real experts and matches user questions to a curated group chat, has raised $20 million in funding led by Forerunner’s Kirsten Green with participation from Greylock Partners. The platform aggregates knowledge from public sources and connected apps to create AI profiles of industry leaders such as VCs and entrepreneurs, allowing users to ask questions and receive expert‑style answers. While the service remains free for now, SuperMe plans to introduce a paid tier after a limited number of free queries and is hiring to enhance its AI matching algorithms and expand its expert network. The funding underscores the growing interest in hybrid human‑AI knowledge platforms and positions SuperMe to scale its network on both sides of the market.",
+      "key_points": [
+        "SuperMe secured $20M in funding led by Forerunner’s Kirsten Green with Greylock participation",
+        "The platform creates AI personas of real experts and matches user queries to a group chat of those personas",
+        "The startup plans to monetize after a free tier and is hiring to improve AI matching and expand expert coverage"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "network",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:19:43 +0000",
+      "processed_at": "2026-10-31T20:11:04.218941+00:00"
+    },
+    {
+      "id": "com-2026-10-29-amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Amazon has expanded Alexa’s shopping capabilities with over 100 new features that let users create and manage lists, adjust subscription schedules, and edit delivery instructions. The update also lets Alexa answer questions about Prime and Audible memberships, billing, and payment issues. These enhancements come ahead of the holiday season and build on Amazon’s earlier AI‑centric shopping tools such as the shopping assistant and product‑notification service. According to Amazon, agentic features have grown eightfold since the start of the year and more than 400 million consumers have used Alexa for shopping in the past year.",
+      "key_points": [
+        "Alexa now supports over 100 new shopping features, including list management and subscription adjustments.",
+        "Users can edit delivery instructions and change addresses directly through voice commands.",
+        "The assistant can answer questions about Prime, Audible, billing, and payment issues.",
+        "Amazon reports an eight‑fold increase in agentic feature usage and 400 million shoppers using Alexa for purchases."
+      ],
+      "topics": [
+        "amazon",
+        "alexa",
+        "shopping",
+        "ai",
+        "subscriptions"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-10-31T20:11:04.088332+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-29-fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks",
       "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
@@ -2356,130 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 22 Oct 2026 23:15:00 +0000",
       "processed_at": "2026-10-25T14:30:42.397854+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593304916_918c404f7a_o.jpg?resize=1200,800",
-      "title": "The secret to fast startup growth isn't early sales, top names in tech say | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "At TechCrunch Disrupt, industry leaders argued that the secret to rapid startup growth lies not in early sales but in establishing durable go‑to‑market strategies and true product‑market fit. They emphasized the importance of learning density and pattern recognition to identify repeatable customer acquisition tactics before scaling. The session highlighted Lovable’s exceptional $600 million ARR and $13 billion valuation as an outlier, noting that most founders must prioritize deep customer understanding over hype. Founders were urged to build community and maintain close contact with users to sustain growth beyond initial momentum.",
-      "key_points": [
-        "Fast growth is driven by durable go‑to‑market strategies and product‑market fit, not early sales",
-        "Founders should focus on learning density and pattern recognition before scaling",
-        "Lovable’s rapid growth is an exception; most startups need to prioritize customer understanding",
-        "Community building and close customer engagement are essential for sustainable growth"
-      ],
-      "topics": [
-        "startup growth",
-        "product-market fit",
-        "go-to-market",
-        "customer acquisition",
-        "ai startups"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 20:00:00 +0000",
-      "processed_at": "2026-10-25T14:30:27.964423+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-23-carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675",
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Carta and NewView Capital have partnered to streamline tender offers that give startup employees early liquidity. The collaboration merges NewView’s secondary‑deal expertise with Carta’s equity‑management platform, aiming to make it easier for CEOs to launch and manage liquidity programs. Over the past three years, tender offers for Series C and later‑stage startups have tripled, yet only 44 were executed in H1 2026, indicating room for growth. The partnership seeks to position tenders as a win‑win for workers, companies, and investors, helping retain talent in companies that remain private for a decade or more.",
-      "key_points": [
-        "Carta and NewView Capital have teamed up to simplify tender offers for startup employees.",
-        "Tender offers for Series C+ startups have tripled in the last three years, but only 44 were executed in H1 2026.",
-        "The partnership aims to make early liquidity a standard retention tool for private companies."
-      ],
-      "topics": [
-        "startups",
-        "equity",
-        "liquidity",
-        "venturecapital",
-        "secondarymarket"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 19:25:13 +0000",
-      "processed_at": "2026-10-25T14:30:28.095311+00:00"
-    },
-    {
-      "id": "tps-techcrunch-com-2026-10-23-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Daytona Platforms raised a $60 million Series B that values the New York‑based startup at $1 billion, bringing its total funding to $91 million. The round was led by FirstMark Growth and attracted high‑profile angels such as Patrick Collison, Tobi Lütke, Eric Yuan, and Adam D’Angelo, as well as corporate investors Qualcomm Ventures, Samsung Next, and Okta Ventures. Daytona is building a cloud platform specifically for long‑running AI agents, offering each agent its own sandboxed Linux, Windows, macOS, and GPU resources. The move positions Daytona as a specialized, enterprise‑grade alternative to general cloud services for the rapidly growing agent‑based workloads.",
-      "key_points": [
-        "$60M Series B brings valuation to $1B, total funding $91M",
-        "Led by FirstMark Growth with notable angels and corporate VCs",
-        "Focus on cloud infrastructure for long‑running AI agents with sandboxed OS and GPU",
-        "Aims to become an enterprise‑grade GitHub Codespaces for agents"
-      ],
-      "topics": [
-        "startup",
-        "cloud",
-        "ai",
-        "investments",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 16:26:29 +0000",
-      "processed_at": "2026-10-25T14:30:28.023852+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Oura has filed a new lawsuit in Texas against Indian rival Ultrahuman, alleging that Ultrahuman’s Ring Pro infringes two of Oura’s patents covering design and internal components. The complaint follows a Customs clearance that allowed the redesigned ring to re‑enter the U.S. market after an earlier import ban, and it names Texas‑based SVTronics as a co‑defendant. Oura’s newest patent, issued on October 20, was granted just two days before the filing, underscoring the company’s aggressive protection of its intellectual property. The case comes amid a growing smart‑ring market and after Oura shelved a $2.2 billion IPO, while Ultrahuman recently raised $70 million and plans to expand beyond fitness tracking.",
-      "key_points": [
-        "Oura sues Ultrahuman for patent infringement on the Ring Pro",
-        "Oura’s newest patent was issued just two days before the lawsuit",
-        "Ultrahuman’s Ring Pro was cleared by U.S. Customs after an earlier ban",
-        "Oura also names Texas manufacturer SVTronics as a co‑defendant"
-      ],
-      "topics": [
-        "smart rings",
-        "patent litigation",
-        "us customs",
-        "tech startups",
-        "market growth"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 04:22:57 +0000",
-      "processed_at": "2026-10-25T14:30:28.013292+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-23-what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
-      "title": "What some of Anthropic’s backers are worth before its IPO | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Anthropic is slated to go public this year with a potential valuation of up to $2 trillion, turning early investors into multimillionaires. At its latest private valuation of $965 billion, major backers such as Coatue, Eric Schmidt, Iconiq, and Sequoia already hold stakes worth between $7 billion and $17 billion. The article details how each investor’s contribution—ranging from a $4.75 billion investment by Coatue to a $3 billion bet by Sequoia—has translated into multi‑billion‑dollar holdings. These figures underscore the massive upside for venture capital firms as Anthropic prepares for its IPO.",
-      "key_points": [
-        "Coatue’s $4.75 billion stake is now worth roughly $7.5 billion",
-        "Eric Schmidt owns about 1% of Anthropic, worth nearly $10 billion",
-        "Iconiq’s $6 billion check is now valued at $17 billion",
-        "Sequoia’s $3 billion investment has more than doubled in value"
-      ],
-      "topics": [
-        "anthropic",
-        "ipo",
-        "venturecapital",
-        "ai",
-        "valuation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 16:02:43 +0000",
-      "processed_at": "2026-10-25T10:02:16.485087+00:00"
     }
   ]
 }
