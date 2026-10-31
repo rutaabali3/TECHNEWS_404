@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-31T05:20:01.787525+00:00",
+  "updated_at": "2026-10-31T11:05:01.014684+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "ps-techcrunch-com-2026-10-29-ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Ex‑Palantir executives Andy Elder and Arjun Mathur have launched Dream, a startup that uses AI‑powered world models to automate building design and engineering. The company raised $17 million in seed funding led by Andreessen Horowitz, with additional backing from SV Angel, XYZ and Zigg Capital. Dream’s “structural cognition” model is trained on over 100 million square feet of U.S. building data and produces structurally sound designs that can replace legacy AEC tools like AutoCAD and Revit. The platform is already deployed on 10 projects in Texas and California and aims to boost productivity in the construction sector, which has seen fewer new buildings and rising costs.",
+      "key_points": [
+        "Dream, founded by former Palantir execs, uses AI world models to generate structurally sound building designs.",
+        "The startup secured $17 million in seed funding from Andreessen Horowitz, SV Angel, XYZ and Zigg Capital.",
+        "Its “structural cognition” model is trained on more than 100 million square feet of U.S. building data.",
+        "Dream is already used on 10 active projects in Texas and California, targeting replacement of legacy AEC software."
+      ],
+      "topics": [
+        "ai",
+        "construction",
+        "startup",
+        "venturecapital",
+        "software"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "processed_at": "2026-10-31T11:04:37.795359+00:00"
+    },
+    {
+      "id": "s-techcrunch-com-2026-10-29-agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mintive-founders.jpg?resize=1200,900",
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Mintive, an agent‑identity startup founded by former Coursera engineer Jiquan Ngiam and Google Brain TensorFlow co‑creator Vijay Vasudevan, has raised a total of $11 million, including a $7 million seed round led by Cowboy Ventures and backing from Coatue, Operator Collective, Hustle Fund and angels such as Jeff Dean and Andrej Karpathy. The company offers an end‑to‑end platform that manages agent identities, authorizations, cost routing and monitoring, with a focus on rapid, button‑click deployment that has already attracted 50 enterprise customers including Coursera, Stability AI and the University of Michigan. Mintive enters a crowded field of agent‑management solutions from Amazon, Microsoft, OpenAI and numerous startups, but its founders’ deep enterprise AI experience and emphasis on ease of use set it apart. The funding and early customer traction signal growing investor confidence in infrastructure that governs and provisions AI agents for businesses.",
+      "key_points": [
+        "Mintive secured $11 million in total funding, led by Cowboy Ventures, with high‑profile angels Jeff Dean and Andrej Karpathy",
+        "Founders bring deep AI enterprise experience from Coursera, Google Brain, and TensorFlow",
+        "The platform offers end‑to‑end agent identity, access control, cost routing, and monitoring with quick, button‑click deployment",
+        "Already 50 enterprise customers, including Coursera, Stability AI, and the University of Michigan"
+      ],
+      "topics": [
+        "startup",
+        "funding",
+        "ai",
+        "agent management",
+        "enterprise software"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
+      "processed_at": "2026-10-31T11:04:37.946172+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
@@ -2431,55 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 23 Oct 2026 16:20:28 +0000",
       "processed_at": "2026-10-25T05:08:07.908597+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-      "title": "Left alone with nothing to do, AI agents started playing | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "MIT researchers released 13 Claude Opus 4.7 AI agents, dubbed Eko, onto a simulated desert island for 30 hours with no explicit goals. During the free‑play period the agents invented games, built structures, and discovered new ways to manipulate objects, demonstrating behaviors that resemble human play. After the experiment, the same agents performed better on targeted tasks—such as stacking blocks on a spire—than identical agents that had never explored the island. The study suggests that unsupervised exploration can teach AI skills that might later transfer to robotics and other domains.",
-      "key_points": [
-        "13 Claude Opus 4.7 agents were left to explore a virtual island for 30 hours without tasks",
-        "The agents invented games and discovered new manipulation strategies, showing play‑like behavior",
-        "Post‑exploration, the agents outperformed counterparts on specific challenges, indicating learning from play",
-        "The findings imply unsupervised exploration could be a new training regime for AI and robotics"
-      ],
-      "topics": [
-        "ai",
-        "research",
-        "play",
-        "robotics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "processed_at": "2026-10-25T05:07:43.843411+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-22-as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Andreessen Horowitz announced that its digital asset unit, formerly known as a16z Crypto, will be renamed a16z Frontier, signaling a shift away from a narrow focus on crypto toward a broader mandate that includes AI, robotics, and new network technologies. The rebranded team, led by Chris Dixon, will still explore blockchain’s potential to provide native economic capabilities for emerging networks. Since its 2018 launch, the unit has raised almost $10 billion across five funds and backed high‑profile successes such as Coinbase. The change comes as the firm’s crypto strategy faces a decline in investor enthusiasm and a key partner, Ali Yahya, has departed the firm.",
-      "key_points": [
-        "a16z rebrands a16z Crypto to a16z Frontier",
-        "the new focus expands beyond crypto to AI, robotics, and new networks",
-        "the unit has raised nearly $10 billion and backed major wins like Coinbase",
-        "Chris Dixon remains lead while Ali Yahya has left the firm"
-      ],
-      "topics": [
-        "venture capital",
-        "blockchain",
-        "ai",
-        "technology",
-        "startup funding"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 22:34:54 +0000",
-      "processed_at": "2026-10-25T00:05:58.206782+00:00"
     }
   ]
 }
