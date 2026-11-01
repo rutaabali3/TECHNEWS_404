@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-11-01T11:58:17.341431+00:00",
+  "updated_at": "2026-11-01T17:52:56.033148+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-29-mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Mistral has released the weights for its trillion‑parameter open‑source model, Mistral Large 4 (ML4), enabling businesses and governments to download and run the system on‑prem. The model, dubbed \"Le Chonk,\" claims state‑of‑the‑art performance in cybersecurity tasks while using 47% fewer tokens per task than the Chinese competitor GLM‑5.3, making it more economical. By providing open weights, Mistral argues that organizations can own and control advanced AI defense tools without relying on closed‑model providers. The release underscores a broader shift toward open‑weight AI as a means of empowering sovereign cyber defense capabilities.",
+      "key_points": [
+        "Mistral has made the weights for its trillion‑parameter model ML4 publicly available on Hugging Face and via API.",
+        "ML4 outperforms the open‑weight competitor GLM‑5.3 in cybersecurity tasks while using 47% fewer tokens, reducing compute costs.",
+        "Open‑weight release allows enterprises and governments to deploy the model on‑prem, ensuring data sovereignty and continuous access.",
+        "Mistral positions the model as a tool for empowerment, emphasizing open‑source benefits over closed‑model dominance."
+      ],
+      "topics": [
+        "ai",
+        "cybersecurity",
+        "open-source",
+        "machine learning",
+        "openweight"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-11-01T17:52:28.607455+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Crosby, a two‑year‑old AI‑first law firm, has made a bid to acquire key assets of the dissolving Wall Street boutique Weil, Gotshal & Manges, including its trademark, brand and internal data, while also courting some of its 1,200 lawyers. The prestigious firm is winding down after its heir apparent declined the leadership role, top lawyers departed, and a planned merger with Willkie Farr & Gallagher fell through. Crosby’s founders argue that their AI‑powered platform can deliver legal services at unprecedented speed, positioning the startup as a potential successor to Weil’s legacy. With roughly $85 million raised—including a $60 million Series B led by Lux and Index—Crosby’s move could signal a broader shift toward AI‑driven legal practices.\n",
+      "key_points": [
+        "Crosby is bidding to acquire Weil Gotshal’s assets and lawyers",
+        "Weil Gotshal is dissolving after leadership and merger setbacks",
+        "Crosby’s AI‑powered model aims to transform legal service delivery",
+        "Crosby has raised $85 million, including a $60 million Series B"
+      ],
+      "topics": [
+        "law",
+        "ai",
+        "legaltech",
+        "corporate",
+        "mergers"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 19:55:13 +0000",
+      "processed_at": "2026-11-01T17:52:28.513797+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "title": "DoorDash said it's only received 'several hundred' orders from AI agents | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "DoorDash disclosed during its third‑quarter earnings call that it has only received several hundred orders from third‑party AI agents such as Muse, Instinct, and Fo, a tiny fraction of its average 3 million daily deliveries. CEO Tony Xu described the agent‑ordering space as still dynamic but not yet dominant, noting that most customers continue to order through the DoorDash app. The company is also developing its own agents—including a text‑to‑order bot, a CLI agent, and a chatbot called Ask DoorDash—to better understand and potentially partner with external agent makers. DoorDash sees future opportunities for advertising within these agents as the broader agent‑based ordering ecosystem evolves.",
+      "key_points": [
+        "DoorDash has only received several hundred AI‑agent orders in Q3, compared to 3 million daily deliveries",
+        "CEO Tony Xu says agent ordering is a dynamic but minor part of the business",
+        "DoorDash is building its own agents and exploring partnerships and advertising with third‑party agents",
+        "The agent‑based ordering market is still developing, with mixed adoption by retailers like Amazon and Walmart"
+      ],
+      "topics": [
+        "delivery",
+        "ai",
+        "commerce",
+        "doorDash",
+        "agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 13:54:25 +0000",
+      "processed_at": "2026-11-01T17:52:52.555940+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-29-binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto",
       "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
@@ -2403,81 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 24 Oct 2026 15:00:00 +0000",
       "processed_at": "2026-10-26T14:58:27.570984+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-25-5-best-apps-track-reading-discover-new-books",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
-      "title": "The best apps for tracking your reading and discovering new books | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "TechCrunch’s latest roundup spotlights a selection of newer, lesser‑known book‑tracking apps that aim to replace or complement the dominant Goodreads platform. The article profiles five apps—Fable, Bookshelf, Pagebound, StoryGraph, and Margins—highlighting their unique blends of social features, AI‑driven recommendations, and reading‑goal tracking, as well as their pricing tiers ranging from free to $9.99/month. Each app offers distinct strengths: Fable emphasizes community engagement, Bookshelf delivers AI summaries, Pagebound provides spoiler‑free discussion threads, StoryGraph supplies in‑depth analytics, and Margins lets users discover reads by mood and aesthetic. The piece underscores how these tools can help readers stay motivated, discover new titles, and deepen their engagement with books.\n",
-      "key_points": [
-        "Fable blends reading logs with a social platform and offers a $5.99/month Plus tier for advanced analytics",
-        "Bookshelf uses AI to generate summaries and thematic insights, with a $6.99/month premium for unlimited collections",
-        "Pagebound organizes discussions by reading progress to avoid spoilers, charging $9.99/month for profile customization",
-        "StoryGraph provides detailed reading statistics and mood‑based recommendations, with a $4.99/month Plus plan for custom charts"
-      ],
-      "topics": [
-        "reading apps",
-        "book tracking",
-        "ai recommendations",
-        "community",
-        "subscription"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 01:10:00 +0000",
-      "processed_at": "2026-10-26T14:58:27.017214+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-25-techcrunch-mobility-blue-green-is-the-color-of-autonomy",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "The National Highway Traffic Safety Administration has proposed that autonomous vehicles display steady cyan lights to signal their self‑driving mode, a move aimed at giving the public a clear visual cue while removing manual signal controls. Meanwhile, General Motors announced a 2028 rollout of the Cadillac Escalade IQ, featuring faster software, advanced automated driving, and a conversational AI assistant that will replace OnStar. Rivian’s recent acquisition of UK startup Third Dimension highlights the industry’s focus on bridging the simulation‑to‑real gap with AI‑generated 3‑D worlds, while other firms such as inDrive, Pony.ai, and Reliable Robotics secure funding and partnerships to accelerate robotaxi and autonomous flight deployments.",
-      "key_points": [
-        "NHTSA proposes cyan lights for autonomous vehicles to provide a uniform visual indicator",
-        "GM plans to launch the Cadillac Escalade IQ in 2028 with AI‑driven automation and a new OnStar‑style assistant",
-        "Rivian acquires Third Dimension to improve simulation realism for autonomous driving",
-        "Other companies are securing funding and partnerships to push robotaxis and autonomous flight into production"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "regulation",
-        "ai",
-        "automotive",
-        "simulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 25 Oct 2026 16:05:00 +0000",
-      "processed_at": "2026-10-26T07:34:26.893870+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-starlink-seems-to-be-working-normally-again-in-ukraine",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-      "title": "Starlink seems to be working normally again in Ukraine | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "SpaceX has reportedly lifted the restrictions on its military‑grade Starshield service, allowing Ukrainian forces to use the satellite internet again without the connectivity issues that plagued drones for a 10‑day period. The Ukrainian military had experienced loss of control over drones flying at about 100 miles per hour, while slower drones became more vulnerable. President Donald Trump reportedly called Elon Musk to restore the service, and Musk had previously throttled access after claiming Ukraine violated Starlink’s terms of service. Musk warned that turning off Starlink would cause the Ukrainian front line to collapse immediately.",
-      "key_points": [
-        "SpaceX lifted Starshield restrictions, restoring normal operation for Ukrainian military use",
-        "Ukrainian drones lost connectivity at high speeds for 10 days, affecting control and safety",
-        "Trump called Musk to restore service; Musk had previously throttled access citing terms violations",
-        "Musk warned that disabling Starlink would collapse the Ukrainian front line"
-      ],
-      "topics": [
-        "starlink",
-        "ukraine",
-        "spacex",
-        "military",
-        "drone"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 20:46:34 +0000",
-      "processed_at": "2026-10-26T07:34:02.562059+00:00"
     }
   ]
 }

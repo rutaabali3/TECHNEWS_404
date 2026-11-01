@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T11:57:52.956330+00:00",
+  "updated_at": "2026-11-01T17:52:27.237981+00:00",
   "items": [
     {
       "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
@@ -14,12 +14,6 @@
       "published": "Thu, 29 Oct 2026 19:17:49 +0000"
     },
     {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "feed_excerpt": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "published": "Thu, 29 Oct 2026 17:00:00 +0000"
-    },
-    {
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
       "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "feed_excerpt": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
@@ -32,22 +26,10 @@
       "published": "Fri, 30 Oct 2026 14:00:25 +0000"
     },
     {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "feed_excerpt": "DoorDash said that it is open to working with third-party agent makers",
-      "published": "Fri, 30 Oct 2026 13:54:25 +0000"
-    },
-    {
       "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
       "feed_excerpt": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
       "published": "Fri, 30 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "feed_excerpt": "Like a real-life episode of Suits, the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now, an AI firm has entered the picture.",
-      "published": "Fri, 30 Oct 2026 19:55:13 +0000"
     },
     {
       "title": "Satlyt takes another step toward turning satellites into space data centers",
@@ -168,7 +150,31 @@
       "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
       "feed_excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
       "published": "Sun, 01 Nov 2026 02:22:10 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 01 Nov 2026 17:04:00 +0000"
+    },
+    {
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "feed_excerpt": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "published": "Sun, 01 Nov 2026 16:20:10 +0000"
+    },
+    {
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "feed_excerpt": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "published": "Sun, 01 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "feed_excerpt": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "published": "Sun, 01 Nov 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-01T11:58:14.241047+00:00"
+  "last_processed_at": "2026-11-01T17:52:52.556005+00:00"
 }
