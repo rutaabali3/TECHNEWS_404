@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-11-01T05:09:21.068047+00:00",
+  "updated_at": "2026-11-01T11:58:17.341431+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-29-binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Binance has temporarily suspended withdrawals on multiple networks after a suspected security breach that may have drained up to $5.7 billion from its hot wallets, according to the exchange’s statement. Founder Changpeng Zhao confirmed the hack on X and said user funds would be fully covered, while Circle and Tether froze $800 million and $1.56 billion respectively to protect assets. The incident, which could rank among the largest crypto thefts in history, follows Bybit’s record $1.4 billion breach in 2025. Binance’s security team is actively investigating the incident and urges users to remain cautious of scams.",
+      "key_points": [
+        "Binance suspended withdrawals after a suspected hack that may have drained up to $5.7 billion from hot wallets",
+        "Circle and Tether froze $800 million and $1.56 billion respectively to protect user funds",
+        "Founder Changpeng Zhao confirmed the hack and said user funds would be fully covered",
+        "The breach could rank among the largest crypto thefts, following Bybit’s $1.4 billion incident in 2025"
+      ],
+      "topics": [
+        "binance",
+        "crypto",
+        "hack",
+        "exchange",
+        "security"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 22:27:23 +0000",
+      "processed_at": "2026-11-01T11:58:14.240977+00:00"
+    },
+    {
+      "id": "techcrunch-com-2026-10-30-skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800",
+      "title": "Make game-changing connections at Founder Summit with Braindate | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit 2026, scheduled for November 4 at Boston’s SoWa Power Station, will use Braindate’s platform to help founders, investors, and operators schedule one‑on‑one and small‑group conversations around specific topics such as scaling, fundraising, and product‑market fit. The event offers a buy‑one‑get‑one‑free ticket promotion, allowing attendees to bring a guest at no extra cost. Sessions will feature industry leaders like Kent Bennett, Dave Balter, and Toast co‑founder Steve Fredette, while breakout roundtables and live pitch tests provide additional networking and learning opportunities. The summit’s smaller, hands‑on format aims to turn accidental networking into intentional, question‑driven dialogue that can extend beyond the day’s agenda.",
+      "key_points": [
+        "Founder Summit 2026 uses Braindate to enable targeted networking on topics like scaling and fundraising",
+        "Attendees can purchase one pass and receive a free second pass for a guest",
+        "The event features talks from Bessemer, True Ventures, and Toast, plus interactive roundtables and live pitch sessions",
+        "It is held at SoWa Power Station in Boston on November 4"
+      ],
+      "topics": [
+        "founder summit",
+        "networking",
+        "braindate",
+        "startup events",
+        "fundraising"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 14:00:00 +0000",
+      "processed_at": "2026-11-01T11:57:54.697557+00:00"
+    },
+    {
+      "id": "runch-com-2026-10-30-can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Runware, an AI infrastructure startup, plans to mass‑produce its Sonic Inference Pods by building a factory that assembles modular data centers on a production line, aiming for 30 MW of capacity per day by 2028. The company’s Romanian plant will ramp up from a few weeks per pod to a one‑day build, with pods online within 48 hours of delivery. Runware claims its closed‑loop cooling and use of standard components keep costs low, while it has already secured $1 B in committed interest for over 20 MW of pods. If successful, the factory could deliver roughly as much capacity in a year as the U.S. was expected to add this year, positioning modular AI data centers as the future standard for rapid deployment.",
+      "key_points": [
+        "Runware aims to produce 30 MW of data‑center capacity per day by 2028, equivalent to nearly 1 GW per month.",
+        "The company’s factory will reduce pod build time from three weeks to one day and bring pods online within 48 hours.",
+        "Runware has secured $1 B in committed interest for its Sonic pods and plans to expand to the U.S. and other regions.",
+        "The pods use closed‑loop liquid cooling, are silent, and rely on renewable energy where possible."
+      ],
+      "topics": [
+        "ai infrastructure",
+        "data centers",
+        "modular pods",
+        "manufacturing",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-11-01T11:57:54.566484+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-29-aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
@@ -2403,81 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 24 Oct 2026 20:46:34 +0000",
       "processed_at": "2026-10-26T07:34:02.562059+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-will-ai-expose-the-rickety-infrastructure-of-the-internet",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
-      "title": "Will AI expose the rickety infrastructure of the internet? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "A long‑standing PHP vulnerability was uncovered by human researchers using AI tools, prompting an urgent patch or site shutdown for millions of websites that rely on the language. The flaw, which had existed for decades, exposed the fragility of the internet’s open‑source foundation and led to a surge of attempted exploits worldwide. The incident underscores how AI and large language models can accelerate vulnerability discovery, raising concerns about future large‑scale attacks. It also highlights the risk of link rot and loss of web content if sites are taken offline during remediation.",
-      "key_points": [
-        "PHP vulnerability existed for decades and was found by human researchers aided by AI tools",
-        "Immediate patching or shutdown was required for millions of sites, leading to widespread outages",
-        "AI and LLMs make discovering such flaws easier, increasing future risk",
-        "The event exposes the fragile nature of internet infrastructure built on open‑source tech and potential link rot"
-      ],
-      "topics": [
-        "php",
-        "cybersecurity",
-        "ai",
-        "infrastructure",
-        "open-source"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
-      "processed_at": "2026-10-26T01:34:13.771593+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-these-clever-apps-show-off-the-iphone-duos-potential",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "title": "These clever apps show off the iPhone Duo's potential | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple’s new iPhone Duo, a foldable phone that starts at $2,000, marks the company’s first foray into the foldable market and has sparked a wave of developer interest. The article showcases early Duo‑optimized apps such as Netflix, Deck‑Man, TypeDraw, and Wakeout that leverage the device’s two screens to create unique, seamless experiences. These apps demonstrate how the Duo can transform media consumption, creative note‑taking, and gaming by switching between folded and unfolded modes without interruption. The piece highlights the potential of foldable phones to open new design possibilities and re‑energize Apple’s app ecosystem.",
-      "key_points": [
-        "Apple launched the iPhone Duo, a foldable phone priced at $2,000",
-        "Developers are creating Duo‑optimized apps that use dual screens, including Netflix, Deck‑Man, TypeDraw, and Wakeout",
-        "The Duo allows seamless transition between folded and unfolded modes, enhancing media and creative workflows",
-        "The article shows how foldable phones can open new design possibilities and energize Apple’s app ecosystem"
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "foldable",
-        "apps",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-26T01:34:13.927547+00:00"
-    },
-    {
-      "id": "nch-com-2026-10-23-techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Founder Summit 2026 will be held on November 4 at SoWa Power Station in Boston, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and focused roundtables on challenges such as enterprise sales, AI trust, vertical strategy, and building new categories. The event offers a buy‑one‑get‑one‑free ticket promotion and a 25% discount, and includes a live pitching competition and networking lounge to help attendees connect and test their ideas. Sessions cover product‑market fit, hiring, fundraising, and scaling companies outside the Bay Area, providing actionable insights and peer discussion. The summit aims to equip founders with practical strategies and real‑world examples to navigate current market hurdles and accelerate growth.",
-      "key_points": [
-        "Six focused roundtables cover topics from event strategy to AI trust and building undefined categories",
-        "The summit offers a buy‑one‑get‑one‑free ticket promotion and 25% discount",
-        "Sessions include live pitching, networking lounges, and a \"So You Think You Can Pitch?\" competition",
-        "The event targets founders, investors, and operators to discuss product‑market fit, hiring, fundraising, and scaling beyond the Bay Area"
-      ],
-      "topics": [
-        "founders",
-        "startup events",
-        "ai",
-        "entrepreneurship",
-        "networking"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 20:03:14 +0000",
-      "processed_at": "2026-10-26T01:34:13.826824+00:00"
     }
   ]
 }

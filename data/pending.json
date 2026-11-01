@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T05:08:50.736701+00:00",
+  "updated_at": "2026-11-01T11:57:52.956330+00:00",
   "items": [
     {
       "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
@@ -26,34 +26,16 @@
       "published": "Thu, 29 Oct 2026 23:44:56 +0000"
     },
     {
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "feed_excerpt": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "published": "Thu, 29 Oct 2026 22:27:23 +0000"
-    },
-    {
       "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
       "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
       "feed_excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
       "published": "Fri, 30 Oct 2026 14:00:25 +0000"
     },
     {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "feed_excerpt": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
-      "published": "Fri, 30 Oct 2026 14:00:00 +0000"
-    },
-    {
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
       "feed_excerpt": "DoorDash said that it is open to working with third-party agent makers",
       "published": "Fri, 30 Oct 2026 13:54:25 +0000"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "feed_excerpt": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000"
     },
     {
       "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
@@ -188,5 +170,5 @@
       "published": "Sun, 01 Nov 2026 02:22:10 +0000"
     }
   ],
-  "last_processed_at": "2026-11-01T05:09:05.572099+00:00"
+  "last_processed_at": "2026-11-01T11:58:14.241047+00:00"
 }
