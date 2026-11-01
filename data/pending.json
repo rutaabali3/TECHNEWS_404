@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:33:49.842012+00:00",
+  "updated_at": "2026-11-01T05:08:50.736701+00:00",
   "items": [
     {
       "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
@@ -20,40 +20,16 @@
       "published": "Thu, 29 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "feed_excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "published": "Fri, 30 Oct 2026 01:20:48 +0000"
-    },
-    {
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
       "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "feed_excerpt": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
       "published": "Thu, 29 Oct 2026 23:44:56 +0000"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "feed_excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000"
-    },
-    {
       "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
       "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
       "feed_excerpt": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
       "published": "Thu, 29 Oct 2026 22:27:23 +0000"
-    },
-    {
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "feed_excerpt": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "published": "Thu, 29 Oct 2026 21:51:29 +0000"
-    },
-    {
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "feed_excerpt": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-      "published": "Fri, 30 Oct 2026 07:01:00 +0000"
     },
     {
       "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
@@ -204,7 +180,13 @@
       "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "feed_excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
       "published": "Sat, 31 Oct 2026 21:17:03 +0000"
+    },
+    {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "feed_excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "published": "Sun, 01 Nov 2026 02:22:10 +0000"
     }
   ],
-  "last_processed_at": "2026-10-31T23:34:11.527457+00:00"
+  "last_processed_at": "2026-11-01T05:09:05.572099+00:00"
 }

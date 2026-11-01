@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-31T23:34:11.528035+00:00",
+  "updated_at": "2026-11-01T05:09:21.068047+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-29-aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Amazon CEO Andy Jassy reiterated that AWS could become a trillion‑dollar revenue business, but to reach that goal the company will need to raise capital expenditures to $220 billion in 2026 and more in 2027 to build AI‑driven infrastructure. AWS revenue grew 39% in the latest quarter and is projected to grow 40% in 2027 and 2028, with a current run‑rate of $184 billion. Jassy framed the heavy spending as a once‑in‑a‑lifetime investment to capture the surge in enterprise AI demand, though investors remained wary and shares fell about 6% after the call. The announcement underscores the broader trend of cloud providers investing heavily in AI while chasing record growth.",
+      "key_points": [
+        "AWS aims for $1 trillion annual revenue within 5–10 years, backed by a projected 40% growth in 2027 and 2028.",
+        "Amazon plans $220 billion in 2026 capital expenditures, mainly for AWS, with further spending in 2027.",
+        "AWS revenue rose 39% YoY in the last quarter, reaching a $184 billion run‑rate.",
+        "Investors expressed concern over the high AI infrastructure spend, causing a 6% drop in Amazon shares post‑call."
+      ],
+      "topics": [
+        "aws",
+        "cloud computing",
+        "ai",
+        "capital expenditures",
+        "investor sentiment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
+      "processed_at": "2026-11-01T05:09:05.572040+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-elon-musk-is-truly-a-genius-says-vladimir-putin",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/vladimir-putin-russia-kremlin.jpg?resize=1200,800",
+      "title": "Elon Musk is 'truly a genius,' says Vladimir Putin | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Russian President Vladimir Putin praised Elon Musk as a genius during the Russia‑Africa Summit, noting that the two leaders are in close contact regarding Russia’s Rassvet satellite project, which aims to rival SpaceX’s Starlink. Putin highlighted that Musk’s network already hosts over 5,000 satellites while Russia is only beginning its efforts. The article also discusses recent tensions over Starlink’s military use in Ukraine, where Musk reportedly limited access after Ukrainian forces used the service for offensive drone strikes, a move that raised concerns about the impact on Ukraine’s defense. The piece underscores how the evolving relationship between Musk and Putin could have significant geopolitical and military implications amid the ongoing conflict in Ukraine.",
+      "key_points": [
+        "Putin lauds Musk as a genius and says they are in close contact about Russia’s Rassvet satellite project.",
+        "Musk’s Starlink network already has more than 5,000 satellites, far ahead of Russia’s nascent program.",
+        "Musk limited Ukraine’s Starlink access after the country used the service for offensive drone strikes, sparking fears of a collapse in Ukrainian defense capabilities.",
+        "The potential partnership between Musk and Putin could influence military technology access and geopolitical dynamics in the region."
+      ],
+      "topics": [
+        "technology",
+        "politics",
+        "space",
+        "military",
+        "satellite"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 21:51:29 +0000",
+      "processed_at": "2026-11-01T05:08:51.948834+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Waymo has announced a partnership with Toyota to supply autonomous bZ4X electric vehicles for robotaxi operations in Japan and the UK. Toyota will build the 2027 bZ4X models at its Takaoka plant and integrate Waymo’s self‑driving system, with initial testing slated for Japan next year and plans to roll out the service in other right‑hand‑drive markets such as London. The deal follows an 18‑month exploratory agreement and positions Waymo to expand its robotaxi fleet while opening the door to future collaboration on personal Toyota vehicles and road‑safety initiatives.",
+      "key_points": [
+        "Waymo will test autonomous Toyota bZ4X vehicles in Japan next year",
+        "Toyota will manufacture 2027 bZ4X models with Waymo’s system at its Takaoka factory",
+        "The partnership aims to expand robotaxi services to the UK and other right‑hand‑drive markets",
+        "Future collaboration could bring Waymo technology into personal Toyota vehicles and improve road safety"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "robotaxi",
+        "partnership",
+        "toyota",
+        "waymo"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 07:01:00 +0000",
+      "processed_at": "2026-11-01T05:08:52.390838+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "title": "You don't need to believe in a god to get a religious exemption from using AI at work | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "David Durman, a nontheistic humanist and University of Kentucky administrator, became the first humanist to secure a religious exemption from using artificial intelligence at work, citing concerns that AI undermines critical thinking and human well‑being. The American Humanist Association helped him obtain legal protection, and the university approved the accommodation while allowing him to continue performing his essential duties. Durman’s case follows a similar exemption granted to Unitarian Universalist engineer Erin Maus and signals that secular workers can now pursue comparable protections. The move highlights growing anxiety over AI’s impact on human dignity and the need for workplace policies that respect diverse philosophical convictions.",
+      "key_points": [
+        "David Durman, a humanist, secured a religious exemption from AI use at work.",
+        "The American Humanist Association facilitated the legal protection and the university approved the accommodation.",
+        "Durman’s case follows a similar exemption granted to Unitarian Universalist engineer Erin Maus.",
+        "The precedent allows secular workers to seek comparable workplace accommodations."
+      ],
+      "topics": [
+        "ai",
+        "religiousexemption",
+        "humanism",
+        "workplaceaccommodation",
+        "technologyethics"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "processed_at": "2026-11-01T05:08:51.708841+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-28-ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
       "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
@@ -2378,108 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 23 Oct 2026 20:03:14 +0000",
       "processed_at": "2026-10-26T01:34:13.826824+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-23-from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Founder Summit 2026 will take place on November 4 at SoWa Power Station in Boston, bringing together founders, investors, and operators to discuss scaling, product‑market fit, AI, and building teams outside Silicon Valley. The full‑day event, hosted in partnership with Fidelity Private Shares, features keynotes from Steve Fredette of Toast, Kent Bennett of Bessemer, Rudina Seseri of Glasswing, Lior Div of 7AI, Chase Garbarino of HqO, and Dave Balter of True Ventures, among others. Attendees can test their pitches live in a competitive session judged by venture partners, while also learning from interactive workshops on distribution, team building, and fundraising trends. The summit emphasizes Boston’s growing startup ecosystem and offers a limited BOGO ticket promotion to encourage broader participation.",
-      "key_points": [
-        "TechCrunch Founder Summit 2026 on Nov 4 in Boston will feature speakers from Toast, Bessemer, Glasswing, 7AI, HqO, and True Ventures to discuss scaling, product‑market fit, AI, and team building",
-        "The event includes a live pitching competition judged by venture partners, interactive workshops, and a focus on Boston’s non‑Silicon Valley startup ecosystem",
-        "A limited buy‑one‑get‑one‑free ticket offer encourages founders to bring colleagues and expand networking opportunities",
-        "The summit aims to provide practical guidance beyond fundraising, covering customer acquisition, leadership, and fundraising trends"
-      ],
-      "topics": [
-        "technews",
-        "startup",
-        "fundraising",
-        "ai",
-        "boston"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 19:06:23 +0000",
-      "processed_at": "2026-10-26T01:34:13.873444+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "The TechCrunch piece catalogs a growing \"AI graveyard\" of projects and startups that failed to survive, from Relay and Character.ai to high‑profile corporate experiments like OpenAI’s ChatGPT Atlas and Apple’s delayed Siri AI. It notes that roughly 42% of corporate AI initiatives are abandoned, citing funding gaps, technical hurdles, competition, scaling issues, and weak demand. The article highlights that even tech giants have missteps—OpenAI’s failed super‑app redesign, Microsoft’s controversial Recall feature, and Apple’s delayed Siri AI—all of which illustrate the volatility of AI product development. The narrative underscores how larger platforms absorb niche AI tools, leaving many independent ventures to shut down or pivot, and offers lessons for the industry on sustainability and integration.\n",
-      "key_points": [
-        "About 42% of corporate AI initiatives are abandoned due to funding, technical, or demand challenges.",
-        "Even major players like OpenAI, Apple, and Microsoft have experienced product failures or redesign rollbacks.",
-        "Hardware AI attempts such as Humane AI Pin and Rabbit R1 struggled with performance and safety, leading to shutdowns.",
-        "Larger platforms often absorb niche AI products, reducing the viability of standalone startups.\n"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "product",
-        "failure",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
-      "processed_at": "2026-10-25T23:27:48.481155+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "The Boox Palma 2 Pro is a $400, smartphone‑sized e‑reader that runs Android and supports Google Play, giving users access to a wide range of apps beyond the built‑in reader. Its front‑lit E Ink display offers adjustable cool or warm lighting and can be dimmed to very low levels, making it comfortable for nighttime reading without disturbing others. We found the device lightweight at 175 g, portable enough to fit in a small purse, and it lasts about 5–7 days on a single charge, though it suffers from noticeable ghosting and slower app performance on E Ink. The Palma 2 Pro targets readers who want a dedicated, app‑friendly reading device instead of a phone, and Boox plans to launch a lower‑priced Palma 3 soon.",
-      "key_points": [
-        "$400 smartphone‑sized e‑reader that runs Android and supports Google Play for app versatility",
-        "Front‑lit E Ink display with adjustable lighting and very low brightness reduces eye strain",
-        "Battery life of 5–7 days, ghosting issues, and slower app performance on E Ink",
-        "Upcoming Palma 3 at $340 with black‑and‑white display",
-        ""
-      ],
-      "topics": [
-        "e-reader",
-        "android",
-        "e-ink",
-        "portability",
-        "battery"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 14:15:00 +0000",
-      "processed_at": "2026-10-25T23:27:48.494863+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-23-vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800",
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "At TechCrunch Disrupt, partners from Iconiq and Sapphire Ventures and Superhuman founder Rahul Vohra discussed how product‑market fit has become harder to achieve in the AI era, citing inflated ARR numbers and pilot‑customer hype as red flags. They emphasized the need for honest revenue metrics, customer engagement tracking, and internal metrics like Superhuman’s \"delighted ARR\" to gauge true stickiness. The panel also highlighted green flags such as high retention rates and the importance of pivoting and agility at the seed stage. Even large companies must continually re‑earn product‑market fit through ongoing innovation.",
-      "key_points": [
-        "VCs warn that inflated ARR and pilot‑customer hype can mislead investors about true product‑market fit.",
-        "Superhuman tracks \"delighted ARR\"—ARR from highly engaged users—to assess customer stickiness.",
-        "Seed‑stage founders are judged on their ability to pivot and make hard decisions, not just on a vision.",
-        "Product‑market fit is dynamic and must be re‑earned even for billion‑dollar companies.",
-        ""
-      ],
-      "topics": [
-        "product-market fit",
-        "startup",
-        "venture capital",
-        "ai",
-        "metrics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 23 Oct 2026 20:57:13 +0000",
-      "processed_at": "2026-10-25T23:27:48.285823+00:00"
     }
   ]
 }
