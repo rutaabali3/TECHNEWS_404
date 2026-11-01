@@ -1,35 +1,11 @@
 {
-  "updated_at": "2026-11-01T17:52:27.237981+00:00",
+  "updated_at": "2026-11-01T21:50:18.640463+00:00",
   "items": [
     {
       "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
       "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
       "feed_excerpt": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
       "published": "Thu, 29 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-      "feed_excerpt": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-      "published": "Thu, 29 Oct 2026 19:17:49 +0000"
-    },
-    {
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "feed_excerpt": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
-      "published": "Thu, 29 Oct 2026 23:44:56 +0000"
-    },
-    {
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-      "feed_excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-      "published": "Fri, 30 Oct 2026 14:00:25 +0000"
-    },
-    {
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "feed_excerpt": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000"
     },
     {
       "title": "Satlyt takes another step toward turning satellites into space data centers",
@@ -174,7 +150,13 @@
       "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
       "feed_excerpt": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
       "published": "Sun, 01 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "feed_excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "published": "Sun, 01 Nov 2026 20:57:58 +0000"
     }
   ],
-  "last_processed_at": "2026-11-01T17:52:52.556005+00:00"
+  "last_processed_at": "2026-11-01T21:50:20.457718+00:00"
 }

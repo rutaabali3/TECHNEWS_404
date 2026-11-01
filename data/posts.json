@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-11-01T17:52:56.033148+00:00",
+  "updated_at": "2026-11-01T21:50:48.704893+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-29-andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
+      "title": "Andy Jassy says Prime Video is on track to earn 'tens of billions of dollars' | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Amazon CEO Andy Jassy announced on the Q2 earnings call that Prime Video is on track to generate tens of billions in revenue and is already profitable. The streaming arm has benefited from Amazon MGM Studios’ box‑office successes, including the $684 million‑grossing \"Project Hail Mary\" and other hits such as \"Verity.\" Prime Video also drives viewership through popular TV series like \"Reacher,\" \"The Boys,\" and \"Carrie,\" and sports rights to NASCAR, the Masters, UEFA Champions League, and Thursday Night Football. The combination of original content, sports programming, and a growing subscriber base positions Prime Video as a major revenue engine for Amazon’s broader media strategy.",
+      "key_points": [
+        "Prime Video is projected to generate tens of billions in revenue and is already profitable",
+        "Amazon MGM Studios has earned over $1.2 billion in global box office sales this year",
+        "Prime Video’s sports rights, especially Thursday Night Football, are driving high viewership",
+        "Original series such as Reacher and The Boys are key content drivers"
+      ],
+      "topics": [
+        "amazon",
+        "primevideo",
+        "streaming",
+        "media",
+        "sports"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 23:44:56 +0000",
+      "processed_at": "2026-11-01T21:50:20.358817+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-29-where-was-my-invite-to-the-wait-what-airbnb-had-a-gala",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Getty-Images-for-Airbnb.org_.jpg?resize=1200,800",
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala? | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Airbnb’s nonprofit hosted its first gala in Los Angeles on October 28, a night that featured Jimmy Kimmel, Charli XCX, and a host of A‑list celebrities. The event announced a new program in which Airbnb will donate 10 cents of every commercial booking revenue to the nonprofit, aiming to raise $500 million over five years to fund free housing for one million nights annually. The initiative also expands support to families displaced by domestic violence, veterans, and medical travelers. While the gala drew media attention and celebrity presence, many online observers were puzzled by the company’s decision to hold a high‑profile fundraising event.\n",
+      "key_points": [
+        "Airbnb’s nonprofit held its inaugural gala in Los Angeles on October 28.",
+        "The gala launched a program that will donate 10 cents per stay to the nonprofit, targeting $500 million over five years.",
+        "The funds will provide free housing for one million nights each year and support families facing displacement.",
+        "Celebrity attendance and the event’s high‑profile nature sparked confusion among the public."
+      ],
+      "topics": [
+        "airbnb",
+        "nonprofit",
+        "gala",
+        "charity",
+        "housing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 19:17:49 +0000",
+      "processed_at": "2026-11-01T21:50:20.361752+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "North Korean hackers are blamed for the largest recorded cryptocurrency theft, stealing at least $6.3 billion from Binance in a 20‑minute breach that began with a compromised engineer’s laptop. Binance has frozen roughly half the stolen assets and is working with law‑enforcement, blockchain intelligence firms, and industry partners to trace and recover the funds, while suspending deposits and withdrawals. Security researchers say the attackers, known as TraderTraitor, used a service container to submit unauthorized withdrawal transactions without compromising Binance’s private keys. The incident underscores the vulnerability of crypto exchanges to insider‑device attacks and highlights the ongoing threat posed by state‑backed hacking groups.",
+      "key_points": [
+        "North Korean state‑backed hackers stole at least $6.3 billion from Binance in a 20‑minute breach that began with a compromised engineer’s laptop.",
+        "Binance has frozen about half the stolen crypto and is collaborating with law‑enforcement and blockchain firms to recover assets while suspending deposits and withdrawals.",
+        "Security researchers confirmed the attackers, known as TraderTraitor, did not access Binance’s private keys but used a service container to submit unauthorized withdrawal transactions."
+      ],
+      "topics": [
+        "cryptocurrency",
+        "cybersecurity",
+        "binance",
+        "north korea",
+        "hack"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 14:00:25 +0000",
+      "processed_at": "2026-11-01T21:50:20.402388+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800",
+      "title": "5 days left: Your last chance to save at Founder Summit 2026 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Founder Summit 2026 will kick off on November 4 at Boston’s SoWa Power Station, offering founders a hands‑on bootcamp focused on turning ideas into growth. The event features two breakout stages—Build, covering distribution, fundraising, AI opportunities, and pitching, and Impact, addressing product‑market fit, scaling, and enterprise relationships—alongside interactive roundtables that let participants tackle specific challenges such as AI hallucinations and landing enterprise customers. Attendees can save up to $100 on a pass and receive a second ticket for free under a buy‑one‑get‑one‑free promotion. The summit aims to provide actionable insights, networking, and a clearer path forward for founders before the door‑price hike on the day of the event.",
+      "key_points": [
+        "Founder Summit 2026 starts November 4 at SoWa Power Station in Boston and offers a buy‑one‑get‑one‑free ticket deal with up to $100 savings",
+        "The program includes two breakout stages—Build (distribution, fundraising, AI, pitching) and Impact (product‑market fit, scaling, enterprise relationships)",
+        "Interactive roundtables let founders address specific challenges like AI hallucinations, enterprise customer acquisition, and category creation",
+        "The event emphasizes hands‑on learning, networking, and actionable advice to help founders grow their companies"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "founder summit",
+        "fidelity",
+        "bogo"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-11-01T21:50:20.457645+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-29-mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
       "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
@@ -2380,104 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 26 Oct 2026 14:25:43 +0000",
       "processed_at": "2026-10-26T20:24:57.818202+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Matiks-co-founders.jpg?resize=1200,675",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Matiks, an India‑based mobile gaming startup, has secured $10 million in a pre‑Series A round led by General Catalyst, bringing its total funding to over $13.5 million. The company’s math, logic, and puzzle platform has seen rapid growth, with daily users rising from 22,000 to more than 300,000 and 2.2 million monthly active users in September. Matiks plans to use the new capital to expand into markets such as the U.S., South Korea, and Japan, while testing a subscription model and continuing to develop its AI‑enabled game‑creation tool, Jelo. The funding underscores investor confidence in the company’s unique blend of educational content and competitive gameplay amid a slowdown in mobile game growth.\n",
-      "key_points": [
-        "Matiks raised $10 million in a pre‑Series A round led by General Catalyst, boosting total funding to $13.5 million.",
-        "Daily active users grew from 22,000 to over 300,000, with 2.2 million monthly users reported in September.",
-        "The company is expanding into international markets and testing a subscription model while developing an AI‑powered game‑creation platform.",
-        "Investor confidence is driven by strong user engagement and a clear product vision.\n"
-      ],
-      "topics": [
-        "gaming",
-        "mobile",
-        "ai",
-        "investment",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 14:08:04 +0000",
-      "processed_at": "2026-10-26T20:24:57.619452+00:00"
-    },
-    {
-      "id": "6-10-22-microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Microsoft’s AI diagnostic system, MAI‑DxO, achieved 83% accuracy on complex medical cases in a Science study, more than twice the 36% accuracy of generalist physicians. The system orchestrates multiple AI agents that act like a panel of doctors, improving both diagnostic accuracy and cost, especially when paired with OpenAI’s GPT‑5.5. Microsoft plans to launch a Mayo Clinic–based foundation model next year and will conduct real‑world trials with Beth Israel Deaconess to evaluate DxO’s clinical reasoning in hospital settings. Suleyman envisions this technology as a step toward medical superintelligence, aiming for a coding‑style breakthrough in medical records by 2027.",
-      "key_points": [
-        "MAI‑DxO scored 83% accuracy on complex cases versus 36% for individual physicians",
-        "The system boosts accuracy and reduces cost, especially with GPT‑5.5, and improves weaker models like Gemini 2.5 Flash"
-      ],
-      "topics": [
-        "ai",
-        "healthcare",
-        "diagnostics",
-        "microsoft",
-        "research"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "processed_at": "2026-10-26T14:58:44.415405+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-25-grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Grok, the AI platform backed by Elon Musk, has released a seven‑minute preview of its AI‑generated adaptation of Homer's \"Odyssey,\" calling it Episode 1 of its Odyssey series. The clip, produced in partnership with Wonder Studios and directed by Dev Walker, is a stark contrast to Christopher Nolan’s 2023 blockbuster, which Musk criticized for its casting choices. Reviewers note that the footage feels more like a video‑game cutscene than a cinematic experience, lacking artistic depth and emotional engagement. The release underscores Musk’s push for AI‑generated content while highlighting the current limitations of the technology in creating compelling narratives.",
-      "key_points": [
-        "Grok released a seven‑minute AI‑generated preview of its Odyssey series",
-        "The production involved Wonder Studios and director Dev Walker",
-        "Critics say the footage feels like a video‑game cutscene with little artistry",
-        "Elon Musk previously criticized Nolan’s Odyssey for its casting choices"
-      ],
-      "topics": [
-        "ai",
-        "film",
-        "elon musk",
-        "grok",
-        "wonder studios"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "processed_at": "2026-10-26T14:58:26.984353+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "A recent study found that SpaceXAI’s Grok 4.7 and OpenAI’s GPT‑6.1 exhibit stark partisan leanings when asked to recommend a candidate for the 2024 U.S. midterm elections. Grok favored Republican candidates in 92% of the 500 races tested, while GPT‑6.1 chose Democrats in 97%, and the two models agreed on less than 10% of the time. The researchers noted that the bias appears to stem from the models’ search patterns and hidden API instructions rather than from the user‑facing consumer apps, which typically refuse to give direct voting advice. The findings arrive just weeks before the November 3 elections and raise concerns about covert political influence from commercial AI systems.",
-      "key_points": [
-        "Grok 4.7 recommended Republicans 92% of the time, GPT‑6.1 recommended Democrats 97%",
-        "The two models agreed on less than 10% of the 500 races tested",
-        "Bias likely originates from hidden API instructions and search patterns, not consumer app behavior",
-        "The study highlights potential covert political manipulation just before the 2024 midterms"
-      ],
-      "topics": [
-        "ai",
-        "politics",
-        "bias",
-        "midterms",
-        "openai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-26T14:58:27.570984+00:00"
     }
   ]
 }
