@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-11-02T08:02:13.677941+00:00",
+  "updated_at": "2026-11-02T18:43:19.160727+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-31-openai-reportedly-lowers-funding-target-for-new-round",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "title": "OpenAI reportedly lowers funding target for new round | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "OpenAI has cut its latest funding round target from the previously reported $30 billion to $20 billion, with the first close expected to be even lower. The round, led by investors from the United Arab Emirates, has already raised $11 billion, but the company has received a tepid response from some large investors amid a broader market wariness of heavy AI infrastructure spending. The timing of the fundraising coincides with a sell‑off in tech stocks and the potential challenges facing Anthropic’s planned IPO, both of which may be dampening investor enthusiasm. If a subsequent retail offering for wealthy individuals is completed, the total funding could reach the $20 billion target, but the current trajectory suggests a more modest outcome.",
+      "key_points": [
+        "OpenAI lowered its funding target from $30B to $20B",
+        "The round has already raised $11B and is led by UAE investors",
+        "Investor enthusiasm has been tepid amid AI infrastructure spending concerns",
+        "A retail offering could bring the total to $20B if completed"
+      ],
+      "topics": [
+        "openai",
+        "funding",
+        "ai",
+        "investment",
+        "tech"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "processed_at": "2026-11-02T18:43:00.050510+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-31-tiktoks-road-to-becoming-a-super-app",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TikTok is expanding beyond social media by adding a restaurant guide called \"Must Eat\" that aggregates over 40 million posts to recommend eateries, and by developing a direct‑message money transfer feature that would use its TikTok Pay service. The company also launched TikTok GO, a booking hub for hotels and attractions, and has applied for fintech licenses in Brazil to offer lending and payment services. These moves are part of TikTok’s strategy to become a super app that handles shopping, dining, travel, and financial transactions in one place, directly competing with platforms like WeChat, Yelp, Google Maps, and Amazon. The expansion follows the success of TikTok Shop, which grew U.S. sales by 407% in 2024 and is now a significant player in social commerce.",
+      "key_points": [
+        "TikTok introduces \"Must Eat\" restaurant guide to compete with Yelp and Google Maps",
+        "The platform is developing a direct‑message money transfer feature using TikTok Pay",
+        "TikTok GO lets users book hotels and attractions within the app, moving into travel commerce",
+        "These initiatives signal TikTok’s push toward a super‑app model that blends social media, e‑commerce, and fintech"
+      ],
+      "topics": [
+        "tiktok",
+        "superapp",
+        "payments",
+        "ecommerce",
+        "travel"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 31 Oct 2026 15:41:57 +0000",
+      "processed_at": "2026-11-02T18:42:46.651455+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Limited partners are currently pouring capital into a handful of AI companies, notably OpenAI and Anthropic, creating unprecedented concentration in venture portfolios. The rapid rise in valuations has prompted LPs to accelerate fund cycles, with some returning capital in as little as 12 to 18 months, a pace that raises concerns about risk and distribution timing. Despite the speed, many LPs view the consolidation as a natural evolution of the power‑law nature of venture investing, though they remain wary of potential downturns. The conversation with LGT Capital Partners and TrueBridge highlights both excitement for the upside and caution about the sustainability of such aggressive deployment strategies.",
+      "key_points": [
+        "LPs are heavily concentrating investments in OpenAI and Anthropic, breaking traditional diversification norms.",
+        "Fund cycles are shortening to 12‑18 months, increasing deployment speed and raising distribution concerns.",
+        "Venture managers are bumping up fund sizes mid‑cycle to capture large AI rounds, creating a “yellow light” scenario for LPs.",
+        "Early‑stage funds still offer diversity, but late‑stage concentration is accelerating.",
+        ""
+      ],
+      "topics": [
+        "venture capital",
+        "limited partners",
+        "ai startups",
+        "funding cycles"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 31 Oct 2026 04:16:50 +0000",
+      "processed_at": "2026-11-02T18:42:46.510370+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Nvidia is reportedly preparing to act as a co‑signer for billions‑of‑dollar debt financing that will fund Anthropic’s first building at Nscale’s West Virginia AI data‑center campus. The arrangement would give Nvidia a residual‑value guarantee, allowing it to step in if Nscale defaults on construction payments and help secure a buyer or tenant. The move underscores the financial strain on AI cloud providers as investors grow wary of the scale of capital required, and it deepens Nvidia’s ties to Nscale while securing a major customer for its Vera Rubin chips. Anthropic’s $44.6 billion contract for the 460‑MW building and a potential second $45 billion deal highlight the high stakes of the project amid construction setbacks and regulatory hurdles.",
+      "key_points": [
+        "Nvidia is poised to co‑sign debt for Anthropic’s West Virginia data‑center, offering a residual‑value guarantee.",
+        "The guarantee would let Nvidia take over if Nscale defaults, helping secure a buyer or tenant for the campus.",
+        "Anthropic’s $44.6 billion contract for the first 460‑MW building and a potential $45 billion second deal illustrate the massive scale of the project.",
+        "The deal reflects growing investor caution and the need for AI cloud providers to secure financing amid construction and regulatory challenges."
+      ],
+      "topics": [
+        "nvidia",
+        "anthropic",
+        "ai",
+        "data center",
+        "financing"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "processed_at": "2026-11-02T18:43:14.149713+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/applebees-501705240.jpg?resize=1200,899",
+      "title": "Applebee's exposed customers' personal data after leaving database password in app | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Applebee’s fixed a security flaw that allowed anyone to access its customer database after a researcher discovered a hardcoded credential in the chain’s Android app. The exposed data included names, email addresses, dates of birth, phone numbers, ZIP codes, veteran status, login counts, account creation dates, and recent IP addresses. Applebee’s and parent Dine Brands said they investigated the issue and found no evidence of unauthorized access, but the exact number of affected customers remains unknown; the rewards program had 8.5 million members last year. The incident underscores the risks of hardcoding credentials and the need for proper vulnerability disclosure channels.",
+      "key_points": [
+        "A hardcoded credential in Applebee’s Android app exposed the customer database.",
+        "The data contained personal details and login information such as IP addresses.",
+        "Applebee’s and Dine Brands investigated and found no evidence of a breach yet.",
+        "The researcher could not alert the company due to lack of reporting mechanisms."
+      ],
+      "topics": [
+        "security",
+        "data breach",
+        "mobile app",
+        "hardcoding",
+        "restaurant industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 21:48:53 +0000",
+      "processed_at": "2026-11-02T18:42:46.758424+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "title": "Google's first data center satellite is online and writing poetry | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Google’s Suncatcher prototype satellite, launched on a SpaceX Falcon 9 in early October, is now online and communicating with the ground while carrying four Tensor Processing Units (TPUs) that can generate up to 1 kW of power. The satellite’s first test involved asking Google DeepMind’s Gemma 4 model to compose a haiku about space, demonstrating the ability to run inference workloads in orbit, though only one TPU can be powered on for about 20 minutes at a time due to power constraints. Engineers are now evaluating how the chips perform under thermal stress and space radiation, which can cause bit flips that corrupt data, and the results will inform plans to launch two additional, higher‑power satellites in 2027 with inter‑satellite optical links. The project is part of Google’s broader vision for orbital data centers and is closely tied to SpaceX’s Starship development, with Alphabet holding a significant stake in the launch provider.",
+      "key_points": [
+        "Suncatcher satellite is online, carries four TPUs, and has written a poetry haiku using DeepMind’s Gemma 4.",
+        "Only one TPU can be powered on at a time, limiting operation to roughly 20 minutes per cycle due to power constraints.",
+        "Ground tests are assessing radiation effects on the TPUs, which could cause bit flips and data corruption in space.",
+        "If successful, Google plans to launch two more satellites in 2027 with higher power and optical inter‑satellite links, relying on SpaceX’s Starship rocket."
+      ],
+      "topics": [
+        "space",
+        "ai",
+        "google",
+        "satellite",
+        "data center"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "processed_at": "2026-11-02T18:42:46.811454+00:00"
+    },
     {
       "id": "26-10-29-who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
@@ -2327,155 +2477,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 25 Oct 2026 20:20:08 +0000",
       "processed_at": "2026-10-27T16:16:23.958551+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
-      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "X introduced a visual nudge—a large hand pointing to the promote button—that appeared while users were drafting posts, sparking confusion and annoyance across the platform. The unexpected graphic has led to widespread complaints on Twitter, with some users speculating it is a Halloween prank or a new engagement tactic reminiscent of former product head Nikita Bier’s style. X has not yet responded to the backlash, and it remains unclear whether the new product chief Peter Sellis is responsible for the change. The incident highlights the tension between aggressive monetization nudges and user experience on the platform.",
-      "key_points": [
-        "X added a pointing hand nudge to the promote button that users find confusing and annoying",
-        "The graphic appeared spontaneously while drafting posts, leading to widespread complaints on Twitter",
-        "The tactic is reminiscent of former product head Nikita Bier’s engagement methods and may involve new product chief Peter Sellis",
-        "X has not yet issued a comment on the incident"
-      ],
-      "topics": [
-        "x",
-        "social media",
-        "product design",
-        "user experience",
-        "engagement tactics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 06:34:44 +0000",
-      "processed_at": "2026-10-27T10:48:54.996687+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI unveiled its new always‑on personal assistant, dots, during its late‑September developer day. The agent, available to ChatGPT Pro tier subscribers for $100 a month, runs in the background and integrates with calendars, email, and other tools to proactively help users. While early iterations still miss perfect timing for reminders, the team emphasizes its intent to make the experience intuitive and useful. The launch underscores the industry shift toward persistent AI assistants, raising privacy and scalability questions similar to those faced by competitors like Instinct and Meta’s Muse.",
-      "key_points": [
-        "OpenAI released dots, an always‑on personal assistant, at its developer day.",
-        "Dots is available to ChatGPT Pro tier subscribers for $100 a month and integrates with calendars, email, and other tools.",
-        "The assistant uses a persistent agent model and aims to proactively help users, though early versions still lack perfect timing.",
-        "Privacy controls mirror those of ChatGPT, but scaling and data concerns remain prominent."
-      ],
-      "topics": [
-        "ai assistants",
-        "openai",
-        "personal assistant",
-        "privacy",
-        "developer day"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
-      "processed_at": "2026-10-27T10:48:52.068966+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-spacex-locks-in-40b-gpu-financing-deal-with-apollo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "SpaceX has secured a $40 billion GPU financing deal with Apollo Global Management, the largest committed GPU financing to date. Under the agreement, Apollo will purchase Nvidia Vera Rubin chips and related server hardware and lease them to SpaceX for five to five‑and‑a‑quarter years, with leases starting in early 2027. The arrangement gives SpaceX an alternative funding source for its expanding AI infrastructure, including the Grok chatbot and cloud services, and is expected to close by year‑end. The deal comes amid a surge in SpaceX’s AI spending and a tightening debt market for pure‑play AI compute firms.",
-      "key_points": [
-        "SpaceX locks in $40 billion GPU financing with Apollo, the largest committed GPU deal ever.",
-        "Apollo will buy Nvidia Vera Rubin chips and lease them to SpaceX for 5–5.25 years, starting 2027.",
-        "The lease diversifies SpaceX’s funding and supports its AI growth, including Grok and cloud compute."
-      ],
-      "topics": [
-        "spacex",
-        "apollo",
-        "gpu financing",
-        "ai infrastructure",
-        "debt markets"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "processed_at": "2026-10-27T10:48:52.067746+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Databricks co‑founder Arsalan Tavakoli‑Shiraji revealed the tactics that helped the company win its first large enterprise deals and now advises other startups on how to secure similar contracts. He emphasized that technology alone is not enough; people, processes, and strategic partnerships—most notably with Microsoft—are critical to gaining access and credibility with big clients. Tavakoli‑Shiraji outlined a four‑Cs framework (context, choice, cost, control) for selling AI solutions and highlighted the opportunity to modernize legacy systems with AI agents. His insights underscore the importance of aligning product fit with enterprise concerns and leveraging established sales channels to accelerate growth.",
-      "key_points": [
-        "Partnering with a larger tech company like Microsoft can unlock sales opportunities and credibility",
-        "The four‑Cs framework (context, choice, cost, control) helps address enterprise AI objections",
-        "People and processes are as important as technology when selling to large enterprises",
-        "Modernizing legacy systems with AI offers a significant value proposition for startups"
-      ],
-      "topics": [
-        "databricks",
-        "enterprise sales",
-        "ai",
-        "big data",
-        "partnerships"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
-      "processed_at": "2026-10-27T05:25:09.204448+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Instagram has begun testing a new 90‑minute video format called \"Features,\" marking a strategic shift from its long focus on short‑form content. The move, first rolled out in Brazil and now expanding to the U.S., aims to keep creators and audiences on the platform by offering longer storytelling options that could eventually include ads and performance‑based incentives. While Meta has yet to finalize a monetization model, the company signals it may bring advertising revenue to these longer videos, potentially challenging YouTube’s dominant partner program. Alongside the new format, Instagram is also testing \"Clips as Reels\" and a hub for episodic Reels to weave short and long content together.",
-      "key_points": [
-        "Instagram is testing 90‑minute \"Features\" videos in Brazil and the U.S. as a move toward long‑form content.",
-        "Meta may introduce ads and performance incentives to monetize these longer videos, positioning Instagram to compete with YouTube’s partner program.",
-        "The platform still relies on brand deals and fan support, and a definitive monetization strategy has not yet been announced.",
-        "New discovery tools like \"Clips as Reels\" and an episodic Reels hub are designed to link short and long content for creators and viewers."
-      ],
-      "topics": [
-        "instagram",
-        "youtube",
-        "monetization",
-        "longform",
-        "socialmedia"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 21:05:11 +0000",
-      "processed_at": "2026-10-27T05:25:09.338893+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-microsoft-offers-buyouts-to-around-60000-employees-reports-say",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800",
-      "title": "Microsoft offers buyouts to around 60,000 employees | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Microsoft announced voluntary buyout offers for roughly 60,000 employees, targeting vice‑presidents and lower‑level staff across the United States, Canada, India, and the United Kingdom. Eligible teams include Xbox, Windows, Copilot, and Finance, while workers in data centers, sales, and marketing are excluded. The buyout terms mirror Microsoft’s standard severance package and are part of the company’s broader effort to trim costs and reshape its workforce for the AI era. With a June 2026 headcount of 223,000, the program follows a prior retirement‑age buyout that saw more than 30% of 8,750 eligible employees accept.",
-      "key_points": [
-        "Microsoft offers voluntary buyouts to about 60,000 employees at VP level and below in key regions and divisions",
-        "Eligible divisions include Xbox, Windows, Copilot, and Finance; data centers, sales, and marketing are excluded",
-        "Terms mirror standard severance and aim to reduce workforce cost without mass layoffs",
-        "Program follows earlier retirement‑age buyout with 30% acceptance"
-      ],
-      "topics": [
-        "microsoft",
-        "buyout",
-        "workforce",
-        "ai",
-        "cost-cutting"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 15:58:25 +0000",
-      "processed_at": "2026-10-27T05:25:09.973496+00:00"
     }
   ]
 }
