@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-11-01T21:50:48.704893+00:00",
+  "updated_at": "2026-11-02T01:21:51.178794+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-30-ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Ollie, a privacy‑focused AI assistant startup, announced it will shut down on November 6 after a week of announcement. Co‑founder Bill Lennon said the small team built an impressive personal assistant, but competition from larger players like Muse and Instinct made it hard to raise capital and stand out. The app offered a subscription‑based service that integrated email, calendar, appointment booking, meal planning, bill payments, and planned household budgeting, and was one of the first mainstream apps to achieve SOC 2 compliance. Users will receive instructions to export data and receive refunds.",
+      "key_points": [
+        "Ollie will shut down on November 6 after a week of announcement",
+        "The startup raised $7.5 million in seed funding led by Khosla Ventures and achieved SOC 2 compliance",
+        "Competition from larger AI assistants made it difficult to grow and secure funding",
+        "Users will be guided to export data and receive refunds"
+      ],
+      "topics": [
+        "ai",
+        "privacy",
+        "startup",
+        "shutdown",
+        "subscription"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "processed_at": "2026-11-02T01:21:26.598708+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750",
+      "title": "Satlyt takes another step toward turning satellites into space data centers | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Satlyt, a 2024 startup founded by former Google and SpaceX engineer Rama Afullo, demonstrated its software’s ability to orchestrate computing tasks across multiple satellites during a NASA‑funded test that ran on a physical computer aboard a spacecraft. The experiment, conducted in partnership with the University of Houston, showed the system could generate task‑allocation plans in orbit while accounting for limited compute, intermittent communication, and user‑defined constraints. Although the software successfully executed and returned results to Earth, the team identified a timing‑reference bug and noted that further validation is needed before deploying the technology on real missions. Satlyt aims to turn spacecraft into virtual data centers that can run AI and other applications onboard, reducing reliance on downlinks and enabling faster, more efficient data delivery from space to Earth.",
+      "key_points": [
+        "Satlyt’s NASA‑funded test proved its software can plan and execute distributed computing tasks on orbiting hardware.",
+        "The system allows operators to set permissions, priorities, and limits while autonomously managing task allocation across satellites.",
+        "Further work is required to address timing bugs, secure communication, and broader validation before deployment on actual missions."
+      ],
+      "topics": [
+        "satellite",
+        "data center",
+        "ai",
+        "space",
+        "nasa"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 18:01:24 +0000",
+      "processed_at": "2026-11-02T01:21:25.946676+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+      "title": "Zest's new AI agent finds restaurants and books reservations over text | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Zest, a restaurant discovery app launched in November 2024, has unveiled an AI‑powered \"restaurant concierge\" that operates via text messages, allowing users to receive personalized recommendations and book tables directly through services like OpenTable, Resy, and SevenRooms. The concierge pulls data from users’ credit‑card transactions via Plaid to build a taste profile, enabling it to suggest restaurants based on cuisine, location, dietary needs, and even group preferences in group chats. The startup, backed by $1.8 million in pre‑seed funding from Alexis Ohanian’s 776 and Steve Jang’s Kindred Ventures, plans to expand beyond dining to other recommendation domains while monetizing through booking and future ordering revenue streams. The feature was tested in TechCrunch trials, showing reliable suggestions and booking capability, and is now live for users to text at (212) 470‑6067.",
+      "key_points": [
+        "Zest introduces a text‑based AI concierge that recommends restaurants and books tables via OpenTable, Resy, and SevenRooms",
+        "It uses Plaid‑imported credit‑card food transactions to build personalized taste profiles",
+        "The startup has $1.8 million pre‑seed funding and aims to monetize through bookings and future ordering",
+        "The concierge can operate in group chats, voting, and handle dietary or occasion queries"
+      ],
+      "topics": [
+        "ai",
+        "restaurant",
+        "text messaging",
+        "fintech",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 17:47:12 +0000",
+      "processed_at": "2026-11-02T01:21:51.177883+00:00"
+    },
+    {
+      "id": "ch-com-2026-10-30-theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people' | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Tyler Shultz, the whistleblower who exposed Theranos’ faulty blood‑testing technology, warns that the current AI boom gives unscrupulous founders a new platform to deceive investors and the public. He cites the Theranos scandal—where a $10 billion valuation was built on unreliable devices—as a cautionary tale that investors must not repeat. Shultz argues that AI products are harder to vet, making it easier to disguise a ChatGPT wrapper as a breakthrough. The documentary “You Can See Everything” has reignited public interest in Holmes, but Shultz stresses that the real lesson is about due diligence in the age of AI.",
+      "key_points": [
+        "Shultz warns that the AI boom offers a new avenue for deception similar to Theranos’ fraud",
+        "The Theranos scandal highlighted the dangers of insufficient due diligence for high‑valuation startups",
+        "Investors in AI face challenges in distinguishing genuine innovation from superficial wrappers",
+        "The documentary “You Can See Everything” has sparked renewed debate about Holmes and corporate fraud"
+      ],
+      "topics": [
+        "theranos",
+        "ai",
+        "investing",
+        "whistleblower",
+        "documentary"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 16:03:45 +0000",
+      "processed_at": "2026-11-02T01:21:26.633984+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-29-andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
@@ -2379,106 +2478,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 26 Oct 2026 17:45:00 +0000",
       "processed_at": "2026-10-27T00:00:30.627388+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Anthropic’s S‑1 filing for its upcoming IPO details a strategy to lock in enterprise customers by expanding usage of its Claude platform and first‑party apps, with more than half of high‑spending clients now using both products, up from roughly 30% at year‑end 2023. The company reports a Q3 net revenue retention of about 900%, driven by cross‑product adoption and the deployment of Claude across entire organizations. Anthropic leverages applied‑AI teams, a venture arm with Blackstone, and joint go‑to‑market contracts with AWS, Google Cloud, and Microsoft Azure to embed its technology into customers’ stacks, while noting risks from compute supply competition and customer concentration. This ecosystem‑centric approach aims to make Anthropic’s offerings sticky and position it for continuous product reinvention as it seeks to scale its AI business.",
-      "key_points": [
-        "More than 50% of Anthropic’s high‑spending customers now use both the Claude platform and first‑party apps, up from ~30% last year",
-        "Net revenue retention reached ~900% in Q3, driven by cross‑product usage",
-        "Anthropic embeds Claude into customers via applied‑AI teams, a Blackstone‑backed venture arm, and joint contracts with hyperscalers",
-        "Risks include limited compute access from cloud partners and revenue concentration in a few large customers"
-      ],
-      "topics": [
-        "ai",
-        "enterprise",
-        "ipo",
-        "cloud",
-        "customer stickiness"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
-      "processed_at": "2026-10-27T00:00:31.023754+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-anthropic-officially-files-for-its-public-debut",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
-      "title": "Anthropic officially files for its public debut | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Anthropic has officially filed its initial public offering, planning to list under the ticker \"ANT\". The company reported first‑half 2026 revenue of $16.3 billion, a dramatic rise from $1.2 billion the year before, while its operating loss narrowed to $693 million from $2.1 billion in the prior year, though a $80.7 billion net loss was driven largely by noncash accounting adjustments. Governance details reveal that Anthropic’s seven co‑founders will retain 50.1% of voting power through a Founder LLC, a structure intended to safeguard the firm’s AI safety mission but that has drawn criticism for limiting public shareholder influence. The filing does not yet disclose a share price or the amount the company hopes to raise.",
-      "key_points": [
-        "Anthropic files IPO under ticker ANT, reporting $16.3 billion first‑half 2026 revenue and a narrowed operating loss of $693 million.",
-        "Net loss of $80.7 billion is largely due to noncash accounting adjustments tied to convertible debt.",
-        "Founders will control 50.1% of voting power via a Founder LLC, raising governance concerns for public investors.",
-        "The company has not yet announced a share price or capital‑raising target."
-      ],
-      "topics": [
-        "ai",
-        "ipo",
-        "governance",
-        "startup",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 14:35:22 +0000",
-      "processed_at": "2026-10-27T00:00:54.706961+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "PHP2Shell, a pair of critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) in the widely used PHP language, were discovered and publicly patched on Wednesday, allowing unauthenticated remote code execution on millions of web‑facing servers. The bugs prompted major sites—including banks, retailers, gaming platforms, hospitals, and government agencies—to shut down or temporarily disable services while applying the fixes. Amazon reported that the exploits were already in use about a week before the patches were released, suggesting a possible leak or early knowledge of the flaws. Security researchers at Calif used AI assistance to uncover the bugs, highlighting how artificial intelligence may accelerate future vulnerability discovery and exploitation.",
-      "key_points": [
-        "PHP2Shell vulnerabilities enable unauthenticated remote code execution on PHP‑based sites",
-        "Patches were released Wednesday, but many sites remain unpatched and have shut down services",
-        "Amazon detected exploitation a week before the public patch, indicating a potential leak",
-        "AI-assisted research helped discover the bugs, pointing to future AI‑driven vulnerability discovery"
-      ],
-      "topics": [
-        "php",
-        "websecurity",
-        "remote code execution",
-        "ai",
-        "vulnerabilities"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 15:30:00 +0000",
-      "processed_at": "2026-10-26T20:24:57.421592+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-9.44.29-AM.png?resize=1200,792",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Apple announced a new iPad mini featuring an 8.5‑inch OLED display with a peak brightness of 1,200 nits and a 2,000,000:1 contrast ratio, making it ideal for both bright and dim environments. The tablet is thinner and lighter than its predecessor and is powered by the A20 Pro chip, which delivers up to 60% faster multithreaded CPU performance and 4.5‑times faster AI processing thanks to a 7‑core GPU with neural accelerators. Additional upgrades include a 12‑megapixel front camera, nano‑texture glare‑reduction, fast‑charge support, an Acoustic Display that enhances audio, and the next‑generation Apple Intelligence with Siri AI. The device starts at $699 for Wi‑Fi and $849 for Wi‑Fi + cellular, can be pre‑ordered on October 28, and will ship on November 6.",
-      "key_points": [
-        "8.5‑inch OLED display with 1,200 nits peak brightness",
-        "A20 Pro chip offers 60% faster CPU and 4.5× AI performance",
-        "Nano‑texture glare‑reduction and Acoustic Display improve usability and audio",
-        "Starts at $699 Wi‑Fi, $849 Wi‑Fi + cellular; preorder Oct 28, ship Nov 6"
-      ],
-      "topics": [
-        "apple",
-        "ipad",
-        "oled",
-        "chip",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 14:25:43 +0000",
-      "processed_at": "2026-10-26T20:24:57.818202+00:00"
     }
   ]
 }
