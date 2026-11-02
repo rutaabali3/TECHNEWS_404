@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-11-02T01:21:51.178794+00:00",
+  "updated_at": "2026-11-02T08:02:13.677941+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "26-10-29-who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "title": "Founder Summit in 6 days in Boston | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit will take place in Boston on November 4, offering founders, investors, and operators a day of breakout and roundtable sessions focused on real‑world lessons from scaling and growth. The event, presented by Fidelity Private Shares, features speakers such as Toast’s Steve Fredette, Bessemer’s Kent Bennett, and Cogent Security’s Vineet Edupuganti, who will discuss topics from reinvention to team building. Attendees can take advantage of promotional offers, including a buy‑one‑get‑one‑free ticket and up to 30% off group bundles, before the doors open. The summit aims to provide actionable insights that help startups move from early traction to meaningful scale while navigating fundraising, product‑market fit, and investor signals.",
+      "key_points": [
+        "The summit opens on November 4 in Boston and is presented by Fidelity Private Shares.",
+        "Speakers include Toast’s Steve Fredette, Bessemer’s Kent Bennett, and Cogent Security’s Vineet Edupuganti, covering scaling, growth, and team building.",
+        "Promotional deals offer a free second ticket or up to 30% off group bundles before the event starts."
+      ],
+      "topics": [
+        "founder summit",
+        "startup",
+        "boston",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "processed_at": "2026-11-02T08:01:45.440539+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-intels-stock-crashes-knocking-12b-from-governments-stake",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+      "title": "Intel's stock crashes, knocking $12B from government's stake | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Intel’s shares plunged about 28% on Friday after the company issued a weaker‑than‑expected fourth‑quarter outlook, causing the U.S. government’s 10% stake to lose roughly $12 billion in value. The downgrade came as Intel projected revenue of $15‑$16 billion versus analysts’ $17 billion estimate and warned its gross‑margin would fall to 37% from 43%, while it expected no positive cash flow. Despite the sharp drop, the government still holds a profitable position, with Intel up more than 70% year‑to‑date, and Nvidia’s stake also saw a modest decline. The company cited a PC slowdown driven by high memory prices and AI demand, but noted a 78% jump in data‑center revenue, though capacity expansion is delayed until new fabs become operational in 2028.",
+      "key_points": [
+        "Intel’s stock fell 28% after a weaker Q4 outlook, wiping $12 billion off the government’s stake.",
+        "The company warned of lower revenue ($15‑$16 billion) and a margin drop to 37%, with no expected positive cash flow.",
+        "PC sales are pressured by AI‑driven memory demand, while data‑center revenue grew 78% but is limited by fab capacity.",
+        "The government’s 10% Intel holding remains profitable, up over 70% year‑to‑date, despite the sharp decline."
+      ],
+      "topics": [
+        "intel",
+        "stockmarket",
+        "chipmakers",
+        "government",
+        "data center"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "processed_at": "2026-11-02T08:01:44.094044+00:00"
+    },
+    {
+      "id": "-techcrunch-com-2026-10-30-anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "title": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Anthropic is expected to receive a high \"junk\" rating from credit agencies after its IPO, according to a Financial Times report. Blackstone, the anchor investor in a $63 billion chip‑financing deal, now predicts a double‑B range rating, a top tier of speculative junk, after previously saying the company would be investment‑grade before 2027. A high junk rating would raise borrowing costs and make it harder for Anthropic to finance its large compute‑spending spree. The filing for the IPO earlier this week has intensified speculation about the impact on the broader AI industry.",
+      "key_points": [
+        "Blackstone now forecasts a double‑B junk rating for Anthropic post‑IPO",
+        "The prediction contrasts with earlier investment‑grade expectations",
+        "A high junk rating could increase borrowing costs and limit funding",
+        "Anthropic’s heavy compute spending has raised investor concerns"
+      ],
+      "topics": [
+        "anthropic",
+        "credit rating",
+        "ipo",
+        "blackstone",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
+      "processed_at": "2026-11-02T08:01:56.746042+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-30-cracks-are-emerging-in-the-ai-spending-boom",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+      "title": "Cracks are emerging in the AI spending boom | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "Investors are growing uneasy about the massive AI infrastructure spend announced by Alphabet, Amazon, Meta, and Microsoft, which together plan over $740 billion in capital expenditures this year. The news has triggered a sharp sell‑off, with the Nasdaq falling 2.9% and major chip stocks like Nvidia, Broadcom, and Qualcomm dropping 4–11%, while Alphabet’s shares plunged 12% and wiped out $500 billion in market value. Alphabet, Amazon, and Meta are reporting negative free cash flow, raising concerns that the hefty AI outlays may erode the profitability of their core businesses, whereas Microsoft remains the only firm with positive free cash flow. The surge in debt—$326 billion raised in 2026—combined with the looming Anthropic IPO, underscores the financial strain on the sector as demand for AI compute remains high.\n",
+      "key_points": [
+        "Alphabet, Amazon, Meta, and Microsoft plan more than $740 billion in AI‑related capex this year",
+        "Alphabet, Amazon, and Meta are reporting negative free cash flow while Microsoft stays positive",
+        "The Nasdaq and major chip stocks fell sharply after the announcements, and Alphabet lost $500 billion in market value",
+        "$326 billion of debt was raised by the big tech firms in 2026, and Anthropic’s IPO faces potential junk‑rating concerns"
+      ],
+      "topics": [
+        "ai",
+        "investing",
+        "tech",
+        "market",
+        "finances"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 30 Oct 2026 21:17:40 +0000",
+      "processed_at": "2026-11-02T08:01:44.480723+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-30-ollie-a-privacy-focused-ai-assistant-is-shutting-down",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
@@ -2378,106 +2476,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 26 Oct 2026 15:58:25 +0000",
       "processed_at": "2026-10-27T05:25:09.973496+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-25-ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Apollo Global Management’s chief economist, Torsten Slok, argues that artificial intelligence has delivered no financial payoff to non‑tech companies, citing a study of the S&P 493 (the S&P 500 minus the major tech giants) that shows flat profit margins and revenue per worker.  Slok notes that despite massive investments and hype, AI has not improved productivity for corporate America outside the tech sector.  He attributes this gap to AI’s lack of judgment, accountability, culture, and ethical understanding—factors that shape reputational risk and ultimately drive revenue growth.  The finding highlights the challenge for non‑tech firms to turn cheap AI into higher revenue and profit margins.",
-      "key_points": [
-        "Apollo economist finds AI has not boosted profits for non‑tech firms",
-        "Profit margins and revenue per worker in the S&P 493 remain flat",
-        "AI lacks judgment, accountability, culture, and ethical understanding, limiting business impact",
-        "Corporate America faces difficulty converting cheap AI into revenue growth"
-      ],
-      "topics": [
-        "ai",
-        "private equity",
-        "corporate finance",
-        "productivity",
-        "business strategy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
-      "processed_at": "2026-10-27T00:00:42.184829+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-25-the-hottest-ai-wearables-and-gadgets-you-should-know-about",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
-      "title": "The hottest AI wearables and gadgets you should know about | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "TechCrunch highlights a wave of AI‑powered wearables that aim to embed artificial intelligence into everyday life, from affordable pendants like Bee to Meta’s upcoming Muse. Amazon’s July 2025 acquisition of Bee has spurred new models—Bee Frontier and Bee Eclipse—priced at $74.99 and $99.99, respectively, while Meta’s pocket‑sized Muse will feature a digital avatar and voice‑command interface. Other notable devices include Friend 2.0, a $129 emotional‑support pendant with a built‑in speaker, and Nirva’s $249 journal‑focused pendant slated for November shipments. The article also covers Plaud’s NotePin, Rabbit R1, and Sandbar’s Stream ring, underscoring the growing diversity of AI productivity tools on the market.",
-      "key_points": [
-        "Amazon’s acquisition of Bee has led to new, lower‑priced models that compete with higher‑end AI wearables",
-        "Meta’s Muse will bring a playful digital avatar to a pocket‑sized wearable, expanding access to its personal AI assistant",
-        "Friend 2.0 adds a speaker and personality to its emotional‑support pendant, addressing earlier criticism of its ad campaign",
-        "Nirva focuses on personal growth, using AI to turn everyday speech into a journal and behavioral insights"
-      ],
-      "topics": [
-        "ai wearables",
-        "personal assistant",
-        "productivity",
-        "consumer tech",
-        "gadgets"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 25 Oct 2026 14:10:00 +0000",
-      "processed_at": "2026-10-27T00:00:30.413933+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-colors-260909.jpg?resize=1200,675",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren't happy about it | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Apple’s newly launched iPhone Duo, a foldable phone unveiled at the Surprise and Shine event, has encountered significant durability issues, with early users reporting screen cracks after only hours or days of use. Bloomberg and 404 Media have documented loud crunching noises, visible cracks, and large creases along the folding screen, while some reports mention display malfunctions. Apple has confirmed awareness of an issue affecting the inner display on a small number of units and is presumably investigating the problem. The incidents highlight the ongoing challenges of creating reliable foldable smartphones, despite Apple’s claim of having solved the form‑factor problem.",
-      "key_points": [
-        "Early iPhone Duo units are cracking after only hours or days of use",
-        "Apple acknowledges an issue with the inner display on a small number of devices",
-        "Users report loud crunching noises, visible cracks, and large creases on the folding screen",
-        "Foldable phones continue to face durability challenges despite manufacturers’ claims"
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "foldable",
-        "screencrack",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 19:22:40 +0000",
-      "processed_at": "2026-10-27T00:00:30.497334+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-26-this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "title": "This startup's self-driving excavators help dig up $600M in new funding | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Bedrock Robotics, a two‑year‑old startup, secured $600 million in a Series C round that values the company at $4.1 billion, after demonstrating that its self‑driving excavator kit can be retrofitted onto construction vehicles and is already operating on active job sites. The funding, co‑led by CapitalG and Emergence Capital, follows the company’s milestone of moving beyond pilot programs into commercial deployments at a Nevada water‑treatment plant, a Texas earthwork site, and a large civil project with Zachry Construction. With the capital, Bedrock plans to expand its field teams, infrastructure, and customer base while tackling a looming shortage of skilled excavator operators. The round also attracted new investors such as USIT, Bessemer, and Temasek, and the company announced key hires to support its scaling ambitions.",
-      "key_points": [
-        "Bedrock Robotics raised $600 million in a Series C round, valuing the company at $4.1 billion.",
-        "Its autonomous excavator kit is now commercially operating on multiple construction sites.",
-        "The round was co‑led by CapitalG and Emergence Capital, with additional investors including USIT, Bessemer, and Temasek.",
-        "The company plans to use the funding to expand operations and address the construction labor shortage."
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "construction technology",
-        "robotics",
-        "funding",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 26 Oct 2026 17:45:00 +0000",
-      "processed_at": "2026-10-27T00:00:30.627388+00:00"
     }
   ]
 }
