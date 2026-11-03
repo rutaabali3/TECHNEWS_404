@@ -1,7 +1,154 @@
 {
-  "updated_at": "2026-11-03T08:29:50.369721+00:00",
+  "updated_at": "2026-11-03T16:29:02.155946+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-10-31-data-centers-are-now-a-midterm-issue-even-in-brooklyn",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "title": "Data centers are now a midterm issue, even in Brooklyn | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "A Brooklyn mid‑term election event highlighted how data centers and AI have become political flashpoints, with attendees debating the rapid expansion of tech infrastructure and its social impact. A recent Data Center Watch report cited nearly $200 billion in projects stalled or blocked in early 2026 due to community and political pushback, prompting states such as Pennsylvania, Georgia, Texas, New York, and Virginia to consider stricter guardrails and transparency. Panelists and city officials expressed concerns over secret deals, zoning opacity, environmental and health risks, and the perceived loss of local control, while some labor groups noted temporary job creation. The conversation underscored that AI and data centers are now election‑relevant issues that could sway voter sentiment on November 3.\n",
+      "key_points": [
+        "Data centers and AI have become a key mid‑term election issue, influencing voter sentiment in November 2026",
+        "Nearly $200 billion in data center projects were delayed or blocked in the first half of 2026 due to political and community opposition",
+        "States including Pennsylvania, Georgia, Texas, New York, and Virginia are exploring new regulations and transparency requirements for data center development",
+        "Public backlash centers on perceived tech monopolies, environmental and health risks, and the loss of local control over community projects"
+      ],
+      "topics": [
+        "data centers",
+        "ai",
+        "midterm elections",
+        "tech policy",
+        "public opinion"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 01 Nov 2026 02:22:10 +0000",
+      "processed_at": "2026-11-03T16:28:32.719304+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-10-31-judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "A federal judge rejected xAI’s motion to dismiss an NAACP lawsuit that accuses the SpaceX‑owned company of operating 35 gas turbines at its Colossus data center outside Memphis without the required permits, citing statutory standing under the Clean Air Act. Judge Debra M. Brown ruled that the turbines are not considered mobile sources under Mississippi’s implementation plan and that citizen suit plaintiffs have the right to sue for environmental harm. The decision follows a similar denial of a DOJ motion to dismiss earlier this month and underscores growing public and legal pressure on data centers for pollution compliance. The ruling is seen as a win for the NAACP and a signal that environmental lawsuits against tech firms may gain traction amid rising scrutiny of data center emissions.",
+      "key_points": [
+        "Judge Debra M. Brown denied xAI’s motion to dismiss, allowing the NAACP lawsuit to proceed under the Clean Air Act.",
+        "xAI’s turbines are not exempt as mobile sources, and the plaintiffs have statutory standing to sue.",
+        "The decision follows a prior DOJ dismissal denial and reflects increasing scrutiny of data center pollution."
+      ],
+      "topics": [
+        "law",
+        "environment",
+        "tech",
+        "data center",
+        "clean air act"
+      ],
+      "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 31 Oct 2026 21:17:03 +0000",
+      "processed_at": "2026-11-03T16:28:32.380228+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Marvell has agreed to acquire optical chip and networking equipment maker Lumentum in an all‑stock deal valued at $115 billion enterprise value, or about $80 billion equity. The transaction, one of the largest tech deals ever, will give Marvell 4.5 shares for each Lumentum share and positions the company as a leader in AI connectivity. Nvidia, a common shareholder, has already invested $2 billion in each firm to bolster their laser and optical networking capabilities. The deal is expected to close in the first half of 2028, pending shareholder and regulatory approval.",
+      "key_points": [
+        "Marvell acquires Lumentum for $115 billion enterprise value, $80 billion equity",
+        "Deal includes 4.5 Marvell shares per Lumentum share",
+        "Nvidia invested $2 billion in both companies",
+        "Closing expected in first half of 2028"
+      ],
+      "topics": [
+        "mergers",
+        "acquisitions",
+        "semiconductors",
+        "ai",
+        "techindustry"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 17:54:11 +0000",
+      "processed_at": "2026-11-03T16:28:32.634322+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/starlink-direct-to-cell.jpg?resize=1200,601",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "SpaceX is reportedly looking to buy Boost Mobile from EchoStar to add terrestrial cellular coverage to its Starlink network, a move that could push the company into fourth place among U.S. wireless providers. The acquisition would give SpaceX an instant subscriber base of about 7.5 million customers and access to the tower leases that Boost Mobile uses from AT&T and T‑Mobile, which are currently nontransferable. This follows SpaceX’s $17 billion spectrum purchase from EchoStar and its 2024 rollout of satellite access for T‑Mobile subscribers. Major carriers rejected Musk’s offers for network capacity, so the Boost deal would be the last critical piece needed for full nationwide phone coverage.\n",
+      "key_points": [
+        "SpaceX seeks to acquire Boost Mobile to gain terrestrial network access and a 7.5 million‑user base",
+        "The deal would give SpaceX immediate tower coverage across 48 states, complementing Starlink’s satellite reach",
+        "SpaceX already bought $17 billion of spectrum from EchoStar and is expanding satellite service to T‑Mobile customers",
+        "AT&T, T‑Mobile, and Verizon rejected Musk’s capacity offers, making Boost Mobile the final piece for nationwide coverage"
+      ],
+      "topics": [
+        "spacex",
+        "cellular",
+        "satellite",
+        "wireless",
+        "boostmobile"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 16:44:48 +0000",
+      "processed_at": "2026-11-03T16:28:58.333944+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior' | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "42AI, an Israeli startup, has emerged from stealth with $62.5 million in seed funding and a behavioral world model that predicts individual decisions by modeling underlying psychological tendencies. The system, trained on data from over 30 million people and used by ten large brokerages, claims 98 % accuracy in predicting trading flows and an F1 score of 0.8‑0.85 for trade direction and volume. 42AI’s model relies on transformer‑based architecture and a separate language model for explanations, and it does not use personally identifiable information, though it creates behavioral profiles from linked activity. While the company sees applications beyond finance in gaming, fraud prevention, and robotics, it acknowledges ethical concerns and has put in place regulations, monitoring, and an internal ethics committee.",
+      "key_points": [
+        "42AI raised $62.5 million in seed funding and launched a behavioral world model that predicts trading decisions with high accuracy",
+        "The model uses transformer architecture and a language model for explanations, and it operates on aggregated data without personal identifiers",
+        "The startup plans to expand beyond finance into gaming, fraud prevention, and robotics while addressing ethical concerns with oversight"
+      ],
+      "topics": [
+        "ai",
+        "behavioral modeling",
+        "finance",
+        "startup",
+        "ethics"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 16:30:00 +0000",
+      "processed_at": "2026-11-03T16:28:32.758349+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-01-borrowed-reading-stories-from-our-extended-colleagues",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800",
+      "title": "Borrowed reading: stories from our extended colleagues | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "TechCrunch has joined a larger media portfolio, giving it access to sister outlets such as CIO, Computerworld, and PCWorld. The move has enabled the publication to share and promote content from those outlets, expanding the range of stories available to its readers. In the article, the editor highlights a selection of recent pieces from the extended family, covering topics from AI developments at Anthropic to Google’s data center satellite. By leveraging this broader network, TechCrunch aims to enrich its coverage and offer readers a more diverse set of tech insights.",
+      "key_points": [
+        "TechCrunch now part of a larger media portfolio with access to CIO, Computerworld, and PCWorld",
+        "The publication shares and promotes content from these outlets to its audience",
+        "The article showcases recent stories on AI, crypto, and tech infrastructure"
+      ],
+      "topics": [
+        "media",
+        "technews",
+        "contentsharing",
+        "partnerships",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 04:23:48 +0000",
+      "processed_at": "2026-11-03T16:28:44.600498+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-01-binance-resumes-withdrawals-following-6-3-billion-breach",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
@@ -2320,155 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 27 Oct 2026 13:00:00 +0000",
       "processed_at": "2026-10-28T13:23:28.936849+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Disruptive, the Dallas‑based venture firm, has announced a $10 billion blind‑pool fund that will back at least ten late‑stage companies, with individual checks up to $1 billion. The fund, the largest venture vehicle ever raised in Texas, focuses on capital‑intensive sectors such as artificial intelligence and defense. It follows the firm’s history of high‑profile bets on Palantir, Airbnb, Spotify, Groq and ElevenLabs, and already has secured $7.5 billion in commitments. The fund marks the first time Disruptive will raise money without specifying target companies, a shift from its previous deal‑by‑deal special purpose vehicles.",
-      "key_points": [
-        "Disruptive launches a $10 billion blind‑pool fund, the largest venture fund raised in Texas history.",
-        "The fund will invest up to $1 billion per company in at least ten late‑stage AI and defense firms.",
-        "It has already secured $7.5 billion in commitments, following a track record of successful bets on Palantir, Airbnb, Spotify, Groq and ElevenLabs.",
-        "Founder Alex Davis, grandson of oil magnate Marvin Davis, leads the firm’s first blind‑pool venture vehicle."
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "defense",
-        "texas",
-        "blind-pool"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 18:55:35 +0000",
-      "processed_at": "2026-10-28T06:05:51.836514+00:00"
-    },
-    {
-      "id": "-techcrunch-com-2026-10-27-frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean? | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "OpenAI announced that its large language models have produced algorithms that solve three longstanding mathematical problems in sub‑exponential time, effectively refuting the Exponential Time Hypothesis (ETH) that underpins much of computational complexity theory. The claim sparked a swift response from the scientific community, with Anthropic releasing its own refutation and experts like MIT’s Ryan Williams calling for a collaborative review. OpenAI has structured its release to involve mathematicians, computer scientists, and physicists through GitHub drops, working groups, and a planned conference, while also addressing potential security implications for cryptographic systems. The debate raises questions about the possibility of P = NP, the future of algorithmic research, and how AI‑generated insights should be integrated into scientific practice.",
-      "key_points": [
-        "OpenAI claims its models refute the Exponential Time Hypothesis by solving three hard math problems in sub‑exponential time",
-        "Anthropic released a parallel refutation, prompting mixed reactions from mathematicians and computer scientists",
-        "OpenAI is engaging the community through working groups, a conference, and open‑source releases to vet the proofs",
-        "The findings could challenge assumptions about P versus NP and affect cryptographic security"
-      ],
-      "topics": [
-        "openai",
-        "eth",
-        "p versus np",
-        "cryptography",
-        "ai research"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "processed_at": "2026-10-28T06:05:40.604335+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "General Compute has closed a $100 million Series A led by Blackbird Ventures and Abstract Ventures, boosting its post‑money valuation to $800 million after a May seed round that valued it at $60 million. The neocloud, founded by Finn Puklowski, differentiates itself by building a cloud around inference‑optimized chips from SambaNova, Positron, and Cerebras instead of chasing GPUs, and by renting space in existing data centers and repurposing former bitcoin‑mining sites. The company secured a $100 million annual recurring revenue deal with a large customer, which helped secure the new funding and underpins its plan to deploy 75 megawatts of compute capacity by 2027, with potential to scale to 200 megawatts. General Compute’s strategy aims to sidestep the high costs of building hyperscale facilities while meeting the growing demand for high‑speed inference services.\n",
-      "key_points": [
-        "Raised $100M Series A, valuing the company at $800M post‑money",
-        "Focuses on inference chips from SambaNova, Positron, and Cerebras, avoiding the GPU race",
-        "Uses rented and repurposed data center space to keep costs low",
-        "Targets 75MW of compute by 2027, with potential to scale to 200MW"
-      ],
-      "topics": [
-        "neocloud",
-        "ai compute",
-        "inference chips",
-        "funding",
-        "data centers"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-28T06:05:40.710615+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Nvidia has invested $14 million in Bengaluru‑based startup Simplismart in a Series B round that values the company at roughly $100 million. Simplismart’s software sits between AI models and GPU infrastructure, automatically tuning deployment to balance speed, cost and performance so that companies can run inference on fewer GPUs. The company claims its platform helped the video‑generation firm InVideo cut GPU‑serving costs by 56 % and has customers such as HeyGen, Higgsfield, and the Indian cloud provider Yotta. With the new funding, Simplismart plans to expand in the U.S., grow its team and further develop its inference engine, while Nvidia works on technical integrations and customer introductions.",
-      "key_points": [
-        "Nvidia’s $14 M Series B investment values Simplismart at about $100 M and supports its GPU‑optimization software.",
-        "The platform automatically tunes AI inference to reduce GPU usage, exemplified by a 56 % cost cut for InVideo.",
-        "Simplismart’s revenue run rate has grown 14‑fold in six months, with more than half coming from U.S. customers.",
-        "Nvidia is collaborating on integrations and customer outreach, aiming to make its hardware more attractive through more efficient inference."
-      ],
-      "topics": [
-        "nvidia",
-        "ai inference",
-        "startup funding",
-        "gpu optimization",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "processed_at": "2026-10-28T06:05:41.180551+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-rebuild-which-spun-out-slate-auto-raises-2-1b",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Re:Build, a Massachusetts‑based manufacturing accelerator that spun out EV startup Slate Auto, raised $2.1 billion led by General Catalyst and JPMorgan Chase’s Strategic Investment Group. The capital will expand Re:Build’s hard‑tech manufacturing capacity and launch new industrial startups, reinforcing U.S. industrial resilience against China. Co‑founder Jeff Wilke highlighted the round as a boost to American manufacturing and national security, while General Catalyst’s CEO emphasized the need for scale to compete globally. Re:Build, founded in 2020 with ties to Amazon, already supports over 2,100 U.S. employees and 2.4 million square feet of capacity and has incubated hundreds of products across aerospace, defense, and other sectors.",
-      "key_points": [
-        "$2.1 billion funding led by General Catalyst and JPMorgan Chase to expand Re:Build’s hard‑tech manufacturing and launch new industrial startups",
-        "Re:Build, founded by former Amazon execs, aims to rebuild U.S. manufacturing capacity and already supports 2,100 employees and 2.4 million square feet of capacity",
-        "The round underscores a broader push to re‑industrialize America as a hedge against China and a national security imperative"
-      ],
-      "topics": [
-        "manufacturing",
-        "startup",
-        "investment",
-        "technology",
-        "supplychain"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 20:31:17 +0000",
-      "processed_at": "2026-10-28T00:19:23.483045+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-24-all-the-ai-agents-that-can-live-in-your-text-messages",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "title": "Here are the top AI agents that can live in your text messages | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "TechCrunch’s article lists the leading AI agents that operate via text messaging, highlighting how they can remember context, integrate with existing apps, and automate tasks. The lineup includes high‑profile players such as Instinct, which recently raised $1 billion to reach a $10 billion valuation, as well as Ask Proxy, Caddy, Comma, Fambot, Folk, Iris, and Martin, each offering distinct capabilities from proactive reminders to family coordination. Many of the agents run entirely over SMS or popular messaging platforms, eliminating the need for separate apps, and pricing ranges from free trials to subscription tiers (e.g., Ask Proxy $1/day, Fambot free in beta, Folk $8.33/month). The article underscores the growing trend of conversational AI assistants that blend personal and work productivity while raising privacy concerns around autonomous email and call handling.",
-      "key_points": [
-        "Instinct’s $10 billion valuation after a $1 billion funding round positions it as the most valuable AI agent in the text‑based space.",
-        "Ask Proxy differentiates itself by proactively anticipating user needs and operates via SMS at $1/day for individuals.",
-        "Caddy and Comma focus on extracting actionable items from messages and completing tasks across devices, with Comma being free and open‑source.",
-        "Fambot targets family coordination, offering nightly summaries and future plans to charge a Netflix‑style subscription."
-      ],
-      "topics": [
-        "ai",
-        "messaging",
-        "productivity",
-        "startup",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-10-28T00:19:51.124475+00:00"
     }
   ]
 }

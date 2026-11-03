@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-03T08:29:22.489720+00:00",
+  "updated_at": "2026-11-03T16:28:31.027456+00:00",
   "items": [
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "feed_excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "published": "Sat, 31 Oct 2026 21:17:03 +0000"
-    },
-    {
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "feed_excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "published": "Sun, 01 Nov 2026 02:22:10 +0000"
-    },
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
@@ -32,34 +20,10 @@
       "published": "Sun, 01 Nov 2026 21:55:23 +0000"
     },
     {
-      "title": "Borrowed reading: stories from our extended colleagues",
-      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "feed_excerpt": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
-      "published": "Mon, 02 Nov 2026 04:23:48 +0000"
-    },
-    {
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "feed_excerpt": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "published": "Mon, 02 Nov 2026 17:54:11 +0000"
-    },
-    {
       "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
       "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
       "feed_excerpt": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
       "published": "Mon, 02 Nov 2026 17:49:41 +0000"
-    },
-    {
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "feed_excerpt": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-      "published": "Mon, 02 Nov 2026 16:44:48 +0000"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "feed_excerpt": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "published": "Mon, 02 Nov 2026 16:30:00 +0000"
     },
     {
       "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
@@ -198,7 +162,31 @@
       "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
       "feed_excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "published": "Tue, 03 Nov 2026 01:49:52 +0000"
+    },
+    {
+      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "feed_excerpt": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+      "published": "Tue, 03 Nov 2026 16:04:55 +0000"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "feed_excerpt": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "published": "Tue, 03 Nov 2026 15:38:27 +0000"
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "feed_excerpt": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "published": "Tue, 03 Nov 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "feed_excerpt": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "published": "Tue, 03 Nov 2026 14:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-03T08:29:50.368824+00:00"
+  "last_processed_at": "2026-11-03T16:28:58.334018+00:00"
 }
