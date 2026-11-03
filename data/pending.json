@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-03T01:28:03.902479+00:00",
+  "updated_at": "2026-11-03T08:29:22.489720+00:00",
   "items": [
-    {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "feed_excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "published": "Fri, 30 Oct 2026 21:26:59 +0000"
-    },
-    {
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "feed_excerpt": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-      "published": "Sat, 31 Oct 2026 14:00:00 +0000"
-    },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
@@ -30,18 +18,6 @@
       "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
-    },
-    {
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "feed_excerpt": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-      "published": "Sun, 01 Nov 2026 16:20:10 +0000"
-    },
-    {
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "feed_excerpt": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "published": "Sun, 01 Nov 2026 14:00:00 +0000"
     },
     {
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
@@ -198,7 +174,31 @@
       "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
       "feed_excerpt": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
       "published": "Mon, 02 Nov 2026 19:11:49 +0000"
+    },
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "feed_excerpt": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "published": "Tue, 03 Nov 2026 08:01:00 +0000"
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "feed_excerpt": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "published": "Tue, 03 Nov 2026 07:20:00 +0000"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "feed_excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "published": "Tue, 03 Nov 2026 03:30:00 +0000"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "feed_excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "published": "Tue, 03 Nov 2026 01:49:52 +0000"
     }
   ],
-  "last_processed_at": "2026-11-03T01:28:15.367367+00:00"
+  "last_processed_at": "2026-11-03T08:29:50.368824+00:00"
 }
