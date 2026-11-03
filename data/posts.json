@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-11-03T16:29:02.155946+00:00",
+  "updated_at": "2026-11-03T21:55:35.186792+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-01-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’ | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "OpenAI is preparing a public relations campaign after the U.S. midterm elections to shape the national conversation around artificial intelligence, according to chief global affairs officer Chris Lehane. The company’s strategy includes proposals such as AI speed limits, messaging that frames AI as empowering, pushing for U.S. leadership in global standards, and rebranding its data centers as \"AI compute campuses\" to mitigate public unease. Lehane emphasized that communities should hold AI firms accountable so they deliver transformative benefits, and noted that the debate over data centers has prompted major cloud providers to drop NDAs in local negotiations. The rebranding effort is part of a broader effort to influence the 2028 presidential election where AI is expected to be a key issue.",
+      "key_points": [
+        "OpenAI plans a PR blitz after the midterms to shape the AI debate and influence the 2028 election",
+        "Proposals include AI speed limits, empowerment messaging, global standards, and rebranding data centers as \"AI compute campuses\"",
+        "Chris Lehane stresses community accountability and transformative benefits from AI projects",
+        "The rebranding aims to address the unpopularity of data centers and improve public perception"
+      ],
+      "topics": [
+        "openai",
+        "ai",
+        "data centers",
+        "politics",
+        "rebranding"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+      "processed_at": "2026-11-03T21:55:08.781891+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
+      "title": "Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Readwise has launched Readwise Books, an app that blends an e‑book store with detailed reading analytics, positioning itself as a cross between Amazon’s Kindle and Goodreads. The beta app lets users buy, read, and track millions of e‑books from major publishers, while offering richer metrics such as words read, pace, and immersion, and AI‑powered features like session recaps and term lookups. Readwise emphasizes an open‑technology approach, providing a public API and an MCP server to enable third‑party integrations and AI agents. The service remains free for the Books app, with advanced AI features slated for a future paid tier, and is available only to invitees or existing Readwise subscribers.",
+      "key_points": [
+        "Readwise Books combines an e‑book store with in‑depth reading analytics, aiming to rival Kindle and Goodreads",
+        "The app offers AI‑driven features such as session recaps, definitions, and translations, currently available for HarperCollins titles",
+        "Readwise adopts an open‑technology model, exposing a public API and MCP server for third‑party integrations",
+        "The Books app is free in beta, with advanced AI features expected behind a paywall in the future"
+      ],
+      "topics": [
+        "readwise",
+        "ebook",
+        "reading analytics",
+        "ai",
+        "openapi"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 17:49:41 +0000",
+      "processed_at": "2026-11-03T21:55:08.723647+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Omen AI, a 2024 startup that builds real‑time water‑sensor technology for data‑center cooling, has acquired competitor Aquatic Labs in a $16 million cash‑and‑stock deal, after raising $31 million in Series A funding. The merger combines Omen’s element‑detection sensors with Aquatic Labs’ alkalinity‑testing unit to deliver a richer, automated view of cooling fluids, with a product slated for market launch early next year. Omen’s first sensors will target data centers drawing 250‑300 MW of power—worth $5‑$7 billion—by year‑end, with a goal of covering 1 GW of chips by 2027, aiming to reduce costly downtime and water waste. The move positions Omen to capture a share of the projected $4 trillion AI infrastructure spend while expanding its impact beyond data centers into responsible water management.",
+      "key_points": [
+        "Omen AI acquires Aquatic Labs for $16 million, merging complementary real‑time water‑sensor tech",
+        "The combined sensor will monitor both elemental composition and alkalinity, offering a fuller picture of cooling fluid health",
+        "Omen plans to deploy its first sensors in 250‑300 MW data‑center sites by year‑end, targeting 1 GW by 2027",
+        "The acquisition supports Omen’s strategy to improve uptime and reduce water‑related downtime costs in a growing AI infrastructure market"
+      ],
+      "topics": [
+        "ai",
+        "data centers",
+        "water cooling",
+        "sensor technology",
+        "startup acquisition"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "processed_at": "2026-11-03T21:55:09.280019+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-10-31-data-centers-are-now-a-midterm-issue-even-in-brooklyn",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
@@ -2393,80 +2468,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 27 Oct 2026 13:00:00 +0000",
       "processed_at": "2026-10-28T19:00:53.657051+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-guidewire-buys-hyperexponential-for-1-7b-in-cash",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Guidewire has announced the acquisition of AI‑driven underwriting firm Hyperexponential for $1.7 billion in cash, with an additional $400 million contingent on future revenue targets. The deal, expected to close next year, will enable Guidewire to deploy AI agents alongside human underwriters to analyze, price, and make decisions. Hyperexponential, founded in 2017 and backed by Andreessen Horowitz and Battery Ventures, has raised nearly $90 million and is used by about 600 insurers in 40 countries. The transaction represents a significant return for investors and underscores the growing importance of AI in the insurance industry.",
-      "key_points": [
-        "Guidewire acquires Hyperexponential for $1.7 billion cash with a $400 million contingent bonus",
-        "Deal aims to integrate AI agents into underwriting workflows",
-        "Hyperexponential serves 600 insurers across 40 countries and was backed by Andreessen Horowitz and Battery Ventures",
-        "The acquisition signals a broader push toward AI‑driven insurance technology"
-      ],
-      "topics": [
-        "insurance",
-        "ai",
-        "acquisition",
-        "tech",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 22:26:03 +0000",
-      "processed_at": "2026-10-28T13:23:39.675189+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey-1.jpg?resize=1200,794",
-      "title": "Billionaire Palmer Luckey isn't leaving California over the wealth tax | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Palmer Luckey, the founder of defense tech firm Anduril, has confirmed he will not leave California despite the proposed billionaire wealth tax that would tax his $61 billion company and other unrealized assets. He argues the measure, sponsored by a United Healthcare Workers union, unfairly targets voting control and could cost him roughly $3 billion, while also threatening to drive other companies out of the state. Luckey says he will fight the tax and hopes it fails or faces legal challenges, citing the unprecedented nature of taxing future wealth and control. The billionaire has faced pressure from peers to relocate, but he insists California remains special and he will stay to defend it.",
-      "key_points": [
-        "Luckey will stay in California despite the billionaire wealth tax, citing potential $3 billion liability and impact on companies.",
-        "The tax targets voting control and unrealized assets, raising concerns about seizing future wealth and affecting founders with super‑voting shares.",
-        "Luckey plans to fight the measure and hopes for legal challenges to prevent post‑facto seizure of wealth."
-      ],
-      "topics": [
-        "wealth tax",
-        "billionaire",
-        "california",
-        "anduril",
-        "super voting shares"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 13:01:00 +0000",
-      "processed_at": "2026-10-28T13:23:27.955809+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Opera has unveiled WebAI, a new web standard that lets users run AI models directly in the browser without relying on cloud services. The standard supports a range of open‑weight models, including Google’s Gemma and Apple’s on‑device foundation model, and is available as an early preview in Opera One with plans to extend it to Opera GX and Opera Neon. By keeping model weights and data on the user’s device, WebAI offers greater privacy and eliminates the need for AI subscriptions, though it can increase local hardware load. Opera positions the feature as a way for developers to embed AI without running costly infrastructure while giving users more control over their data.",
-      "key_points": [
-        "Opera introduces WebAI, a browser‑based standard for running AI models locally",
-        "It supports open‑weight models such as Google’s Gemma and Apple’s on‑device foundation model",
-        "The approach enhances privacy and removes subscription costs but may strain device performance",
-        "WebAI is currently an early preview in Opera One, with future rollout planned for Opera GX and Opera Neon"
-      ],
-      "topics": [
-        "webbrowser",
-        "ai",
-        "privacy",
-        "open-source",
-        "opera"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-28T13:23:28.936849+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T16:28:31.027456+00:00",
+  "updated_at": "2026-11-03T21:55:07.080877+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -14,28 +14,10 @@
       "published": "Sun, 01 Nov 2026 20:57:58 +0000"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "feed_excerpt": "Data centers are deeply unpopular. But what if we called them something else?",
-      "published": "Sun, 01 Nov 2026 21:55:23 +0000"
-    },
-    {
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "feed_excerpt": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "published": "Mon, 02 Nov 2026 17:49:41 +0000"
-    },
-    {
       "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
       "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
       "feed_excerpt": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
       "published": "Mon, 02 Nov 2026 16:23:21 +0000"
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "feed_excerpt": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "published": "Mon, 02 Nov 2026 15:00:00 +0000"
     },
     {
       "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
@@ -186,7 +168,85 @@
       "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
       "feed_excerpt": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
       "published": "Tue, 03 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "feed_excerpt": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000"
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "feed_excerpt": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterprise sales, its big growth area, showed signs of slowing. First, the good […]",
+      "published": "Tue, 03 Nov 2026 21:05:55 +0000"
+    },
+    {
+      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "feed_excerpt": "An in-space construction first could be an enabler for the space data centers of the future.",
+      "published": "Tue, 03 Nov 2026 20:57:17 +0000"
+    },
+    {
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "feed_excerpt": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+      "published": "Tue, 03 Nov 2026 19:45:48 +0000"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "feed_excerpt": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
+    },
+    {
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "feed_excerpt": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+      "published": "Tue, 03 Nov 2026 19:24:37 +0000"
+    },
+    {
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "feed_excerpt": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+      "published": "Tue, 03 Nov 2026 19:04:52 +0000"
+    },
+    {
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "feed_excerpt": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+      "published": "Tue, 03 Nov 2026 18:51:33 +0000"
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "feed_excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "published": "Tue, 03 Nov 2026 18:42:16 +0000"
+    },
+    {
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "feed_excerpt": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "published": "Tue, 03 Nov 2026 17:56:52 +0000"
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "feed_excerpt": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "published": "Tue, 03 Nov 2026 17:07:01 +0000"
+    },
+    {
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "feed_excerpt": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+      "published": "Tue, 03 Nov 2026 16:49:09 +0000"
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "feed_excerpt": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "published": "Tue, 03 Nov 2026 16:30:34 +0000"
     }
   ],
-  "last_processed_at": "2026-11-03T16:28:58.334018+00:00"
+  "last_processed_at": "2026-11-03T21:55:09.280091+00:00"
 }
