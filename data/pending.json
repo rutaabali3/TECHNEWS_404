@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-11-02T18:42:44.987022+00:00",
+  "updated_at": "2026-11-03T01:28:03.902479+00:00",
   "items": [
-    {
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "feed_excerpt": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "published": "Fri, 30 Oct 2026 23:21:23 +0000"
-    },
     {
       "title": "Last-minute Halloween costumes for tech nerds",
       "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
@@ -18,18 +12,6 @@
       "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
       "feed_excerpt": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
       "published": "Sat, 31 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "feed_excerpt": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "published": "Sat, 31 Oct 2026 21:41:00 +0000"
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "feed_excerpt": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "published": "Sat, 31 Oct 2026 21:36:07 +0000"
     },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
       "feed_excerpt": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
       "published": "Sun, 01 Nov 2026 16:20:10 +0000"
-    },
-    {
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "feed_excerpt": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-      "published": "Sun, 01 Nov 2026 15:00:00 +0000"
     },
     {
       "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
@@ -156,7 +132,73 @@
       "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
       "feed_excerpt": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
       "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "feed_excerpt": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "published": "Tue, 03 Nov 2026 01:12:55 +0000"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "feed_excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "published": "Tue, 03 Nov 2026 00:35:52 +0000"
+    },
+    {
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "feed_excerpt": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "published": "Tue, 03 Nov 2026 00:14:51 +0000"
+    },
+    {
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "feed_excerpt": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "published": "Mon, 02 Nov 2026 23:25:32 +0000"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "feed_excerpt": "The one-year-old startup is now valued at $300 million.",
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000"
+    },
+    {
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "feed_excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "published": "Mon, 02 Nov 2026 23:04:57 +0000"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "feed_excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "published": "Mon, 02 Nov 2026 22:14:50 +0000"
+    },
+    {
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "feed_excerpt": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "published": "Mon, 02 Nov 2026 19:45:54 +0000"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "feed_excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "published": "Mon, 02 Nov 2026 19:25:59 +0000"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "feed_excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "published": "Mon, 02 Nov 2026 19:19:17 +0000"
+    },
+    {
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "feed_excerpt": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "published": "Mon, 02 Nov 2026 19:11:49 +0000"
     }
   ],
-  "last_processed_at": "2026-11-02T18:43:14.149802+00:00"
+  "last_processed_at": "2026-11-03T01:28:15.367367+00:00"
 }
