@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T08:59:50.469154+00:00",
+  "updated_at": "2026-11-04T17:06:21.437347+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -8,34 +8,16 @@
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
     },
     {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "feed_excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "published": "Sun, 01 Nov 2026 20:57:58 +0000"
-    },
-    {
       "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
       "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
       "feed_excerpt": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
       "published": "Mon, 02 Nov 2026 14:42:38 +0000"
     },
     {
-      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "feed_excerpt": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
-      "published": "Mon, 02 Nov 2026 23:25:32 +0000"
-    },
-    {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "feed_excerpt": "The one-year-old startup is now valued at $300 million.",
       "published": "Mon, 02 Nov 2026 23:13:53 +0000"
-    },
-    {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "feed_excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-      "published": "Mon, 02 Nov 2026 23:04:57 +0000"
     },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
@@ -48,18 +30,6 @@
       "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
       "feed_excerpt": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
       "published": "Mon, 02 Nov 2026 19:45:54 +0000"
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "feed_excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "published": "Mon, 02 Nov 2026 19:25:59 +0000"
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "feed_excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "published": "Mon, 02 Nov 2026 19:19:17 +0000"
     },
     {
       "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
@@ -210,7 +180,43 @@
       "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
       "feed_excerpt": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
       "published": "Wed, 04 Nov 2026 04:45:00 +0000"
+    },
+    {
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "feed_excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "published": "Wed, 04 Nov 2026 16:51:35 +0000"
+    },
+    {
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "feed_excerpt": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "published": "Wed, 04 Nov 2026 16:17:22 +0000"
+    },
+    {
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "feed_excerpt": "Titan OS has raised $110 million in funding to date.",
+      "published": "Wed, 04 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "feed_excerpt": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+      "published": "Wed, 04 Nov 2026 14:10:10 +0000"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "feed_excerpt": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Canva lays off over 1,200 people amid slowing growth",
+      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "feed_excerpt": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+      "published": "Wed, 04 Nov 2026 11:59:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-04T09:00:13.365042+00:00"
+  "last_processed_at": "2026-11-04T17:06:37.447717+00:00"
 }

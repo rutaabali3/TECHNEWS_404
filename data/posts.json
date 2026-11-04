@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-11-04T09:00:15.562179+00:00",
+  "updated_at": "2026-11-04T17:06:44.404765+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-01-ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else? | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "TechCrunch discusses how AI CEOs such as Marissa Mayer, Sam Altman, and Mark Zuckerberg have made out‑of‑touch remarks about AI’s role in everyday life, sparking criticism. The article questions whether the industry’s focus on optimizing basic human interactions—like dating, parenting, and social needs—really serves the average consumer. A podcast interview with Amanda Silberling explores whether the disconnect stems from marketing missteps, product design choices, or a mismatch between the CEOs’ target audience and the broader public. The discussion highlights growing skepticism about AI’s societal impact and the need for companies to balance innovation with genuine human connection.",
+      "key_points": [
+        "AI CEOs have made remarks that many see as out‑of‑touch, prompting criticism.",
+        "The industry’s push to replace basic human interactions with AI may not align with everyday users’ needs.",
+        "Amanda Silberling argues the issue is partly marketing and partly product design.",
+        "There is increasing societal skepticism about AI’s role in personal and social life."
+      ],
+      "topics": [
+        "ai",
+        "ceos",
+        "technology",
+        "society",
+        "marketing"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+      "processed_at": "2026-11-04T17:06:23.013820+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "title": "Apple says it's 'hard to predict' when iPhone Duo constraints will improve | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple acknowledged that shipping delays for the iPhone Duo are still ongoing and it is difficult to predict when supply will meet demand, according to COO Sabih Khan on the company’s fiscal fourth‑quarter earnings call. The delays stem from extraordinary demand that caused the device to sell out within hours, coupled with rising memory‑chip costs driven by the AI industry. Apple has reluctantly raised prices on several products and is deepening its titanium partnership with Perryman to support the new foldable phone. Customers who missed pre‑orders are now facing delivery dates that extend into next year, prompting Verizon to offer gift cards as an apology.",
+      "key_points": [
+        "iPhone Duo shipping delays push delivery into next year due to extraordinary demand and supply constraints",
+        "Apple has raised prices on several products amid soaring memory‑chip costs",
+        "Apple is strengthening its titanium supply partnership with Perryman for the foldable device",
+        "Verizon is compensating affected customers with gift cards"
+      ],
+      "topics": [
+        "apple",
+        "iphone",
+        "supply chain",
+        "memory chips",
+        "pricing"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 23:25:32 +0000",
+      "processed_at": "2026-11-04T17:06:37.447640+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-apples-inventory-surges-154-as-memory-chip-costs-climb",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+      "title": "Apple's inventory surges 154% as memory chip costs climb | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple’s inventory rose sharply in fiscal Q4, jumping 31.1% from $11.09 billion in Q3 to $14.54 billion and growing 154.3% year‑over‑year. The surge is largely driven by higher memory chip costs, which the company expects to keep climbing and are a key factor behind its 45‑46% gross‑margin forecast for the December quarter. Apple is increasing memory purchases by $33 billion from June to September, while also raising device prices to offset the cost pressure. Weak iPad sales, down 10% YoY, were attributed to supply constraints amid the broader memory‑cost squeeze.",
+      "key_points": [
+        "Inventory increased 31.1% in Q4 and 154.3% YoY, largely due to memory chip costs",
+        "Apple forecasts a 45‑46% gross margin for the December quarter, citing rising memory expenses",
+        "The company raised memory purchases by $33 billion from June to September and expects further cost rises",
+        "iPad revenue fell 10% YoY to $6.2 billion, reflecting supply constraints and weaker demand"
+      ],
+      "topics": [
+        "apple",
+        "inventory",
+        "memory",
+        "gross margin",
+        "supply chain"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 23:04:57 +0000",
+      "processed_at": "2026-11-04T17:06:23.141266+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-web-host-squarespace-lays-off-19-of-its-employees",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
+      "title": "Web host Squarespace lays off 19% of its employees | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Squarespace announced a 19% workforce reduction, cutting roughly 300 jobs, as part of a restructuring aimed at streamlining operations and positioning the company for future growth. The move comes amid a broader industry shift toward generative‑AI‑powered website builders, with rivals like Wix and Lovable raising significant capital for similar tools. Squarespace has been investing heavily in AI, launching Blueprint in 2024 and the upcoming Forma platform, and recently returned to private ownership after a $7 billion buyout. The layoffs signal the company’s effort to adapt to changing market dynamics while accelerating its AI strategy.",
+      "key_points": [
+        "Squarespace is cutting about 19% of its workforce, roughly 300 employees, to simplify operations and accelerate growth",
+        "The company is investing in AI with products like Blueprint and the upcoming Forma platform",
+        "Industry competitors such as Wix and Lovable are raising large sums for AI‑driven website builders",
+        "The layoffs reflect a broader shift in web hosting toward generative‑AI tools and a need to stay competitive"
+      ],
+      "topics": [
+        "layoffs",
+        "ai",
+        "web hosting",
+        "squarespace",
+        "generative ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 19:25:59 +0000",
+      "processed_at": "2026-11-04T17:06:22.995587+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "The New York Times has filed a federal lawsuit against the privacy‑focused browser Brave, accusing it of scraping the Times’ copyrighted articles and distributing them to AI companies such as Anthropic, Perplexity, Mistral, xAI, and Cohere. The suit, which also names the Daily News, Chicago Tribune, and Orlando Sentinel, alleges that Brave built an index of more than 30 billion web pages with an unidentified crawler, bypassed paywalls, and blocked publishers’ ads while selling its own. The Times calls Brave a \"supplier, dealer, and distributor of stolen copyrighted content\" and seeks an injunction and damages. Brave, founded in 2015 and having raised roughly $250 million, has not yet responded to the complaint.",
+      "key_points": [
+        "The New York Times sued Brave for scraping and distributing its copyrighted content to AI firms.",
+        "Multiple other newspapers joined the lawsuit, all filed in Manhattan federal court.",
+        "The suit accuses Brave of building a massive web index, bypassing paywalls, and blocking ads.",
+        "Brave, founded in 2015 and raised about $250 million, has not yet commented."
+      ],
+      "topics": [
+        "law",
+        "tech",
+        "browser",
+        "ai",
+        "copyright"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 19:19:17 +0000",
+      "processed_at": "2026-11-04T17:06:28.330215+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-02-y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
@@ -2350,123 +2475,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 28 Oct 2026 15:00:00 +0000",
       "processed_at": "2026-10-29T16:44:48.565754+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
-      "title": "Chrome's AI-powered Autofill can now dig through your Gmail to fill out forms | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has announced an update to Chrome’s autofill that uses AI to pull relevant information from users’ Gmail accounts, enabling the browser to suggest flight confirmations, tracking numbers, addresses, phone numbers, and even credit card details when filling online forms. The feature builds on Google’s Personal Intelligence framework, which already connects Google Apps to the Gemini AI assistant for retrieving data to answer complex queries. Users can opt in or out of the enhanced autofill through Chrome settings, and all sensitive data is encrypted. The rollout begins in the U.S. on desktop, with the Gemini app on iOS and Android following soon after.",
-      "key_points": [
-        "Chrome’s new AI‑powered autofill pulls data from Gmail to auto‑populate form fields such as flight confirmations and tracking numbers.",
-        "The feature is part of Google’s Personal Intelligence suite and can be enabled or disabled in Chrome settings, with all sensitive data encrypted.",
-        "It is currently rolling out to U.S. desktop users, with mobile versions to follow."
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-29T09:37:55.560737+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-xreal-aura-is-a-new-wired-headset-powered-by-android-xr",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675",
-      "title": "Xreal Aura is a new wired headset powered by Android XR | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Xreal unveiled its new Xreal Aura wired smart glasses at the Android Dev Summit, powered by Android XR and Qualcomm’s Snapdragon Reality Elite and tethered to a smartphone‑like device for processing. The glasses feature a Sony Micro‑OLED 1200p 120Hz display with a 95‑degree field of view, weigh 95 g, and support Google Play apps, XR experiences, and USB‑C connectivity to a PC or console for augmented displays. Pricing starts at $1,099 for the 12 GB/256 GB model and $1,299 for the 16 GB/512 GB model, with shipping slated for mid‑November. The launch signals Android XR’s expanding hardware ecosystem and intensifies competition with Meta, Apple, and Google in the smart‑glasses arena.",
-      "key_points": [
-        "Xreal Aura is a wired smart glasses platform using Android XR and Snapdragon Reality Elite, tethered to a smartphone‑like device for processing power.",
-        "It features a Sony Micro‑OLED 1200p 120Hz display, 95° field of view, weighs 95 g, and supports Google Play apps, XR experiences, and USB‑C PC connectivity.",
-        "Pricing starts at $1,099 launch for the 12 GB/256 GB model and $1,299 launch for the 16 GB/512 GB model, with shipping mid‑November.",
-        "The launch underscores Android XR’s growing hardware ecosystem and competition in the smart‑glasses market."
-      ],
-      "topics": [
-        "smart glasses",
-        "android xr",
-        "xreal",
-        "technology",
-        "consumer electronics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-29T09:38:22.900062+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Kodiak_DTL.jpg?resize=1200,675",
-      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Kodiak AI secured its first binding commercial deal to supply 75 self‑driving trucks to DTL Transport, a California mid‑market carrier, starting in 2028. The contract follows Kodiak’s plan to remove human safety operators from the cab and launch a driverless highway service in December, with a pilot on I‑45 between Dallas and Houston. The deal is a revenue boost and a benchmark for Kodiak’s asset‑light strategy, positioning it as a technology supplier rather than a trucking operator, similar to Aurora. With projected annual recurring revenue of $11.2 million once all trucks are delivered, the partnership signals a turning point for on‑highway autonomous trucking.",
-      "key_points": [
-        "Kodiak AI will deliver 75 autonomous trucks to DTL Transport starting 2028, its first binding on‑highway commercial contract.",
-        "The deal supports Kodiak’s shift to an asset‑light, driver‑as‑a‑service model, aiming to license technology rather than own fleets.",
-        "Projected annual recurring revenue from the contract could reach $11.2 million, marking a significant revenue milestone for the company."
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "trucking",
-        "technology licensing",
-        "fleet management",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-29T09:38:09.310652+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Jio Platforms, the telecom arm of Reliance Industries backed by Meta and Google, saw its shares jump 21% on a debut that raised $3.2 billion, the largest and most subscribed IPO in India’s history. The offering attracted 22.19‑times the shares on sale, with more than 13.8 million applications, and valued the company at roughly $131.9 billion, making it the country’s second‑most valuable listed firm after its parent. Jio’s debut follows a rapid rise from a 2020 investment that valued it at $65 billion, and the company now serves over 540 million customers across telecom, broadband, cloud and AI services. Proceeds will be used to repay debt at its telecom subsidiary and fund general corporate purposes, while the company aims to become a global technology player.",
-      "key_points": [
-        "Shares surged 21% on debut, raising $3.2 billion in India’s largest IPO",
-        "The IPO drew 22.19‑times the shares on sale, with 13.8 million applications",
-        "Jio was valued at $131.9 billion, second‑most valuable listed company in India",
-        "Proceeds will repay debt and support expansion into broadband, cloud and AI"
-      ],
-      "topics": [
-        "telecom",
-        "ipo",
-        "investment",
-        "india",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 05:20:32 +0000",
-      "processed_at": "2026-10-29T09:37:55.583793+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
-      "title": "The data center boom has an upside: innovation for the US grid | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "The rapid expansion of AI workloads has pushed data centers to consume unprecedented amounts of electricity, placing new strain on the U.S. grid and sparking concerns about higher bills and potential outages.  Industry leaders at TechCrunch Disrupt countered these worries by highlighting how the surge is also driving innovation in grid management and infrastructure, with companies like WeaveGrid offering load‑orchestration software and Veir developing superconductive power lines that can transmit energy five times farther while using far less space.  Veir’s recent $110 million Series C round underscores the financial momentum behind these technologies, while Rewiring America stresses the need for rapid adoption of new solutions to keep pace with AI‑driven demand.  Together, the discussion frames the data‑center boom as both a challenge and a catalyst for modernizing America’s aging electrical network.",
-      "key_points": [
-        "AI‑driven data center growth is stressing the grid but also accelerating grid‑modernization efforts",
-        "WeaveGrid’s load‑orchestration software aims to reduce utility bills and improve energy efficiency",
-        "Veir’s superconductive cables can transmit power five times farther and has raised $110 million in Series C funding",
-        "Rewiring America highlights the urgency to adopt new technologies to meet rising demand"
-      ],
-      "topics": [
-        "ai",
-        "data centers",
-        "grid modernization",
-        "energy infrastructure",
-        "superconducting cables"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
-      "processed_at": "2026-10-29T02:42:21.957628+00:00"
     }
   ]
 }
