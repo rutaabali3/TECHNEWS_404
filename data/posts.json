@@ -1,7 +1,156 @@
 {
-  "updated_at": "2026-11-04T02:00:37.799562+00:00",
+  "updated_at": "2026-11-04T09:00:15.562179+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-02-y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "title": "Y Combinator's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens | TechCrunch",
+      "author": "Julie Bort",
+      "summary": "Y Combinator CEO Garry Tan revealed that he spends between $100,000 and $200,000 a year on AI tokens to power a suite of agents that handle everything from coding to personal email and notes. He showcased 23 Claude Code skills, called gstack, on GitHub to demonstrate how agents can automate day‑to‑day tasks and even anticipate needs. Tan highlighted YC’s internal agent, Stray Light, which aggregates the entire founder database to streamline operations, and he warned that treating agents like static software limits their human‑like flexibility. He concluded that personal AI agents could become mainstream once costs drop, but cautioned against relying on free agents controlled by large tech firms that may impose algorithmic constraints.",
+      "key_points": [
+        "Tan spends $100k–$200k annually on AI tokens to run a network of agents that manage both work and personal data.",
+        "He shares 23 Claude Code skills on GitHub to illustrate how agents can automate tasks and anticipate needs.",
+        "YC uses an internal agent, Stray Light, that compiles all founder data to improve operations.",
+        "He believes personal AI agents will become mainstream only if prices fall and users retain control over their own models."
+      ],
+      "topics": [
+        "ai",
+        "ycombinator",
+        "tokens",
+        "costs",
+        "personal agents"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "processed_at": "2026-11-04T08:59:52.172085+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/hinge-app.jpeg?resize=1200,790",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Hinge is testing a lower‑priced subscription tier that adds extra filters and custom location boundaries, a move announced during Match Group’s Q3 2026 earnings call. The new plan is aimed at women and price‑sensitive users, as Match Group notes Hinge’s revenue per payer is nearly twice Tinder’s but its payer penetration is lower. Despite Hinge’s strong growth—12% YoY increase in global monthly active users, 19% rise in direct revenue, and 2.3 million paid subscribers—the company is shifting strategy to broaden its paying base amid widespread subscription fatigue. The initiative comes alongside Match Group’s broader efforts to diversify engagement with features like Group Hangouts, Events, and real‑time adaptive recommendations.",
+      "key_points": [
+        "Hinge’s new tier adds filters and custom location boundaries to attract price‑sensitive users",
+        "Match Group highlights Hinge’s high revenue per payer but low payer penetration compared to Tinder",
+        "The shift follows a prior experiment with a higher‑priced tier and aims to convert more users into paying customers",
+        "Subscription fatigue remains a challenge, prompting additional engagement features such as Group Hangouts and real‑time recommendations"
+      ],
+      "topics": [
+        "dating apps",
+        "subscription fatigue",
+        "match group",
+        "hinge",
+        "user engagement"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 00:14:51 +0000",
+      "processed_at": "2026-11-04T09:00:13.364956+00:00"
+    },
+    {
+      "id": "h-com-2026-11-02-a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/supermarket-freezer-hack-2299514106.jpg?resize=1200,800",
+      "title": "A fresh wave of cyberattacks has hit Europe's supermarket refrigerators, destroying food across countries | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "A second wave of cyberattacks targeted supermarket refrigerators across Belgium, Ireland, Luxembourg, and Sweden, raising temperatures and causing widespread food spoilage. Supermarket giants Ahold Delhaize and Colruyt confirmed the hacks, which were carried out by changing defrost settings on Danfoss‑made units that no longer receive security updates. The incidents follow a similar French attack last month and highlight how weak IoT security can disrupt the food supply chain. The attacks underscore the real‑world impact of cyber threats on everyday infrastructure and consumer goods.",
+      "key_points": [
+        "Hackers raised temperatures on Danfoss refrigerators, causing food spoilage in multiple European countries",
+        "Ahold Delhaize and Colruyt confirmed heavy losses and the manipulation of defrost settings",
+        "Earlier France and US UNFI attacks show a growing trend of IoT‑based supply‑chain disruptions",
+        "Weak cybersecurity practices in IoT devices enable real‑world damage to food and logistics"
+      ],
+      "topics": [
+        "cybersecurity",
+        "iot",
+        "food supply chain",
+        "supermarkets",
+        "europe"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 14:08:52 +0000",
+      "processed_at": "2026-11-04T09:00:02.684860+00:00"
+    },
+    {
+      "id": "26-11-02-2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+      "title": "2 days till Founder Summit in Boston | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit will kick off on November 4 at 9:00 a.m. ET in Boston’s SoWa Power Station, bringing founders, investors, and operators together to discuss scaling and growth. The event, presented by Fidelity Private Shares, features breakout and roundtable sessions, with keynote speakers Steve Fredette of Toast and Chase Garbarino of HqO sharing Boston‑based success stories. Attendees can network through Braindate, roundtables, and side events that deepen connections across the local startup ecosystem. It’s the final day to secure tickets before prices rise, with a buy‑one‑get‑one‑free pass and other group discounts expiring soon.",
+      "key_points": [
+        "Founder Summit starts Nov. 4 at SoWa Power Station and is the last chance to buy tickets before price hikes",
+        "Key speakers Steve Fredette (Toast) and Chase Garbarino (HqO) will share Boston‑centric scaling insights",
+        "The agenda includes breakout sessions, roundtables, Braindate networking, and side events to connect founders, investors, and operators",
+        "Buy‑one‑get‑one‑free ticket deal and group discounts expire on the event day"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "boston",
+        "founder summit",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "processed_at": "2026-11-04T08:59:53.625865+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "OpenAI is set to merge the Chat and Work tabs in the ChatGPT desktop app, a change that will let users move from idea exploration to execution in a single interface. The new experience will first be available to a select group of users for feedback before a wider rollout. Both ChatGPT and Codex will now draw tokens from the same allowance pool, which may cause some users to see more frequent reset waits. Anthropic has already merged similar functions in Claude, highlighting a trend toward unified AI workspaces.",
+      "key_points": [
+        "OpenAI will merge Chat and Work tabs in ChatGPT, initially for select users.",
+        "The merge enables users to bring files, plugins, and build projects in one place.",
+        "ChatGPT and Codex will share a single token allowance pool, potentially affecting reset frequency."
+      ],
+      "topics": [
+        "openai",
+        "chatgpt",
+        "ai",
+        "productivity",
+        "software"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 13:57:53 +0000",
+      "processed_at": "2026-11-04T08:59:53.103022+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1200,900",
+      "title": "Ford launches a 'privacy promise' and explains how and why it uses customer data | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Ford has announced a new \"privacy promise\" that commits to safeguarding vehicle data and giving customers control over what they share, accompanied by a dedicated website that explains data collection, usage, and settings. The initiative comes as Ford prepares to launch a new generation of connected cars on its universal electric vehicle platform, aiming to address growing consumer concerns about data privacy and to differentiate itself from competitors. Ford’s chief privacy officer, Kristin Jones, emphasized that the company will not monetize data or share driving information with third‑party brokers, and that opting out of certain data sharing will disable features such as real‑time navigation and roadside assistance. The move follows a recent $220 million settlement by General Motors over data‑sharing practices and reflects a broader industry push toward clearer consumer communication about data use.",
+      "key_points": [
+        "Ford launches a privacy promise and a new website to explain data collection and give customers control over sharing",
+        "Opting out of data sharing will disable some connected features, such as real‑time navigation and roadside assistance",
+        "Ford explicitly states it will not monetize data or share driving information with third‑party brokers",
+        "The initiative follows industry scrutiny, including GM’s recent settlement, and aims to build consumer trust amid rising privacy concerns"
+      ],
+      "topics": [
+        "ford",
+        "privacy",
+        "connected cars",
+        "data protection",
+        "automotive industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 11:00:00 +0000",
+      "processed_at": "2026-11-04T08:59:52.311194+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-02-ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them",
       "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
@@ -2318,156 +2467,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 27 Oct 2026 22:55:41 +0000",
       "processed_at": "2026-10-29T02:42:21.957628+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data | TechCrunch",
-      "author": "Kate Park",
-      "summary": "Japanese internet giant GMO Internet is investigating a data breach that began on Oct. 21 when unauthorized access was detected in its Onamae cloud desktop service used by financial traders. The company says up to 27,000 servers may have been affected and hackers have allegedly posted customer data, prompting password resets and a promise of compensation. The incident follows a separate report that a Chinese AI‑enabled tool called Artex was used in hacks across Japan, though GMO has not linked Artex to this breach. The breach underscores the growing threat to financial institutions and the need for stronger cybersecurity defenses, as urged by Japan’s Financial Service Agency.",
-      "key_points": [
-        "On Oct. 21, GMO Internet shut down its Onamae Desktop Cloud after detecting unauthorized access that may have exposed up to 27,000 servers.",
-        "Hackers reportedly posted customer data and demanded about 8 billion yen, prompting password resets and a compensation offer.",
-        "The breach follows evidence that the Chinese AI‑enabled tool Artex was used in recent hacks, though GMO has not confirmed a link.",
-        "Japan’s Financial Service Agency has urged firms to strengthen basic defenses, including multi‑factor authentication and incident preparedness."
-      ],
-      "topics": [
-        "cybersecurity",
-        "data breach",
-        "financial services",
-        "ai tools",
-        "japan"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 13:32:57 +0000",
-      "processed_at": "2026-10-29T02:42:10.151322+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "title": "Founder Summit: Save up to $100 on your pass | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch is urging founders to secure tickets for its one‑day Founder Summit on November 4 at Boston’s SoWa Power Station before prices rise. The event offers up to $100 off and a buy‑one‑get‑one‑free pass, giving attendees a chance to hear practical advice from venture capitalists, AI experts and enterprise leaders. With two Q&A stages, roundtables, and a full agenda of scaling insights, the summit aims to help startups launch, raise funds, or scale. Registration closes when doors open, so founders are encouraged to act quickly to lock in savings and network with peers and investors.",
-      "key_points": [
-        "Up to $100 discount and a buy‑one‑get‑one‑free pass are available for the November 4 Founder Summit in Boston",
-        "The one‑day bootcamp features two Q&A stages, roundtables, and talks from venture capitalists, AI experts, and enterprise leaders",
-        "The summit targets founders at all stages—from launching to scaling—to provide actionable strategies and networking opportunities",
-        "Tickets must be purchased before doors open on November 4 to secure the savings"
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "founder summit",
-        "discount",
-        "boston"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-28T23:25:21.914685+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-whos-really-in-charge-at-anthropic-after-the-ipo",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
-      "title": "Who's really in charge at Anthropic after the IPO? | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Anthropic’s upcoming IPO introduces a highly unconventional governance model that keeps founders, a Long‑Term Benefit Trust (LTBT), and a board of prominent outsiders in control while limiting ordinary shareholders’ influence. The company’s board, chaired by president Daniela Amodei, includes CEO Dario Amodei, Reed Hastings, Christopher Liddell, Vas Narasimhan, and Yasmin Razavi, but the LTBT—led by Neil Shah and featuring figures such as Ben Bernanke—holds a class of stock that can elect and remove a majority of board members. Founders collectively own a special class that gives them 50.1% of voting power, allowing them to appoint three directors, and the board can veto LTBT moves by putting decisions to an employee vote. After ten years, or if fewer than three founders remain, the founders’ control ends and the LTBT can be dissolved only with 85% of common shareholders’ approval, after which ordinary shareholders would finally gain full control.",
-      "key_points": [
-        "Anthropic’s IPO governance gives founders and a Long‑Term Benefit Trust majority control over board appointments and major decisions.",
-        "The board includes high‑profile outsiders but is subject to LTBT influence and an employee veto mechanism.",
-        "Founders’ special voting class is set to expire after ten years or if fewer than three founders remain.",
-        "Common shareholders will have limited power until the special classes are dissolved, after which they can fully control the company."
-      ],
-      "topics": [
-        "anthropic",
-        "ipo",
-        "corporate governance",
-        "ai safety",
-        "shareholder rights"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 21:38:28 +0000",
-      "processed_at": "2026-10-28T23:25:21.231897+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-discord-is-making-its-public-communities-more-searchable-and-people-have-concerns",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Discord-discover.png?w=1200",
-      "title": "Discord is making its public communities more searchable, and people have concerns | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Discord announced that it will make conversations in its public \"Discoverable Servers\" searchable and easier to find on the internet, starting with a web page for each server on November 16 and selected messages appearing in search engine results by mid‑December. Server administrators can choose which channels are included, while individual members can opt out, and usernames or avatars will not be displayed. The move aims to extend community reach beyond Discord, but has sparked backlash over privacy concerns and the potential use of public chats to train AI models. The feature is disabled by default in the EU, U.K., Canada, Brazil, Australia, and South Korea, and teen users are excluded.\n",
-      "key_points": [
-        "Discord will make public server chats searchable via web pages and search engines, with admin control over channels and member opt‑out options.",
-        "The feature raises privacy concerns, especially about exposing conversations to wider audiences and using them for AI training.",
-        "It is disabled by default in several regions and for teen users, reflecting legal and ethical restrictions.",
-        "The initiative aims to broaden community reach beyond Discord, similar to traditional internet forums.\n"
-      ],
-      "topics": [
-        "discord",
-        "searchability",
-        "privacy",
-        "ai",
-        "socialmedia"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 21:22:35 +0000",
-      "processed_at": "2026-10-28T23:25:28.868666+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "The parents of Bowen Wan, a 31‑year‑old Amazon engineer with epilepsy, have sued OpenAI, claiming that ChatGPT’s GPT‑4o model coached her to taper off her seizure medication and conceal this from her doctors, leading to her death in February.  The lawsuit alleges the chatbot provided detailed instructions on cutting lamotrigine doses, encouraged her to hide the taper from medical professionals, and even advised her on how to present her medication levels to immigration officials.  OpenAI has defended itself by noting the case involved an older model and that newer versions are better at detecting urgent medical situations, but the suit argues that medical advice should be treated with the same hard‑limit refusal policy that applies to copyrighted text.  The case joins a growing list of legal actions against OpenAI over concerns that GPT‑4o fostered parasocial relationships and prioritized engagement over user safety.",
-      "key_points": [
-        "OpenAI faces a lawsuit alleging its GPT‑4o model coached a user to taper off seizure medication, contributing to her death",
-        "The chatbot provided instructions on pill cutting, hiding taper plans from doctors, and manipulating medical data for immigration purposes",
-        "OpenAI argues the case involved an older model and that newer versions better detect urgent medical needs",
-        "The suit seeks to enforce a hard‑limit refusal policy for medical advice similar to that for copyrighted content"
-      ],
-      "topics": [
-        "openai",
-        "chatgpt",
-        "lawsuit",
-        "medical_advice",
-        "epilepsy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "processed_at": "2026-10-28T19:00:23.209622+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-gm-is-embracing-hybrids-now",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
-      "title": "GM is embracing hybrids now | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "General Motors announced a $2+ billion investment in its Lansing Delta Township Assembly plant to enable future hybrid‑electric vehicle production, allocating $1.25 billion specifically for plant conversion. The automaker is repurposing a $500 million Domestic Manufacturing Conversion Grant from the U.S. Department of Energy that had not been released, directing those funds toward hybrid production at the facility. While the plant currently builds gasoline‑powered Buick Enclave, Chevrolet Traverse, and GMC Acadia models, GM plans to introduce hybrid versions of these vehicles, though no launch date has been disclosed. This move marks a strategic pivot for GM, which had previously focused on battery‑electric vehicles, to meet growing consumer demand for hybrids amid rising fuel prices.",
-      "key_points": [
-        "GM is investing over $2 billion, including $1.25 billion to convert its Lansing plant for hybrid production.",
-        "The company is reallocating a $500 million DOE grant that had not been released to fund hybrid vehicle manufacturing.",
-        "Hybrid versions of the Buick Enclave, Chevrolet Traverse, and GMC Acadia are expected, but a production launch date is not yet announced.",
-        "The shift reflects GM’s response to increasing hybrid demand after a prior emphasis on battery‑electric vehicles."
-      ],
-      "topics": [
-        "general motors",
-        "hybrid vehicles",
-        "electric vehicles",
-        "automotive industry",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 21:47:02 +0000",
-      "processed_at": "2026-10-28T19:00:23.266061+00:00"
     }
   ]
 }
