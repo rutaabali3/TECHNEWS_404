@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T21:55:07.080877+00:00",
+  "updated_at": "2026-11-04T02:00:00.619340+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -14,22 +14,10 @@
       "published": "Sun, 01 Nov 2026 20:57:58 +0000"
     },
     {
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "feed_excerpt": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "published": "Mon, 02 Nov 2026 16:23:21 +0000"
-    },
-    {
       "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
       "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
       "feed_excerpt": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
       "published": "Mon, 02 Nov 2026 14:42:38 +0000"
-    },
-    {
-      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-      "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-      "feed_excerpt": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
-      "published": "Mon, 02 Nov 2026 14:22:35 +0000"
     },
     {
       "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
       "feed_excerpt": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
       "published": "Mon, 02 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "feed_excerpt": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-      "published": "Tue, 03 Nov 2026 01:12:55 +0000"
     },
     {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
@@ -246,7 +228,19 @@
       "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
       "feed_excerpt": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
       "published": "Tue, 03 Nov 2026 16:30:34 +0000"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "feed_excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000"
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "feed_excerpt": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "published": "Tue, 03 Nov 2026 22:19:53 +0000"
     }
   ],
-  "last_processed_at": "2026-11-03T21:55:09.280091+00:00"
+  "last_processed_at": "2026-11-04T02:00:21.200147+00:00"
 }

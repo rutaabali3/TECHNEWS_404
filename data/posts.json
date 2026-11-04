@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-11-03T21:55:35.186792+00:00",
+  "updated_at": "2026-11-04T02:00:37.799562+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-02-ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Ukrainian startup CODE380 has unveiled the pocket‑sized D·Vision SDR, a receiver that captures live, unencrypted video from Russian drones and displays it on a screen, giving Ukrainian forces real‑time insight into drone targets. The device weighs only about 10 ounces, making it lighter than competing models that can weigh several pounds. It can intercept the new radio channels used by Russia’s Molniya drones, which began transmitting video in June, a capability that many existing detectors miss. Analysts warn that a shift to fully digital video could render such analog receivers ineffective in the future.",
+      "key_points": [
+        "CODE380’s D·Vision SDR captures live video from Russian drones",
+        "The device weighs only 10 ounces, lighter than competitors",
+        "It intercepts new Molniya drone video channels introduced in June",
+        "A future move to digital video could blind analog receivers"
+      ],
+      "topics": [
+        "ukraine",
+        "drone",
+        "defense",
+        "technology",
+        "security"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 01:12:55 +0000",
+      "processed_at": "2026-11-04T02:00:02.424355+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "title": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Elon Musk announced that SpaceX’s Grok Bot will have its usage limits throttled after users reported their weekly caps maxing out unexpectedly. Musk confirmed on X that the cost of serving the bot was unsustainably high relative to revenue, not a glitch. SpaceX’s AI division, which now accounts for 52% of the company’s income, posted a $431 million profit but was hit by $1.2 billion of one-time Cursor acquisition costs. The company has yet to detail how subscriber limits will change going forward.",
+      "key_points": [
+        "Grok Bot usage limits unexpectedly maxed out for users",
+        "Musk said the bot’s operating cost was unsustainably high compared to revenue",
+        "SpaceX’s AI division made $431 million profit but faced $1.2 billion one-time costs",
+        "No update yet on future limit adjustments"
+      ],
+      "topics": [
+        "elon musk",
+        "grok bot",
+        "spacex",
+        "ai",
+        "costs"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 16:23:21 +0000",
+      "processed_at": "2026-11-04T02:00:02.679906+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2024-Bridgit-Mendler.jpg?resize=1200,800",
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Northwood Space, a space‑infrastructure startup founded in 2022, closed a $375 million Series C that values the company at $2 billion. The round was co‑led by Andreessen Horowitz and DFJ Growth and will be used to scale operations, hire talent and deliver on existing contracts, including a nearly $50 million U.S. Space Force deal to upgrade the satellite control network. CEO Bridgit Mendler, a former actress, has guided the company’s rapid growth in satellite‑to‑Earth communications technology. The funding round also includes a financial agreement with HSBC to support the company’s expansion plans.",
+      "key_points": [
+        "Northwood Space raised $375 million in a Series C, valuing the company at $2 billion",
+        "The round was co‑led by Andreessen Horowitz and DFJ Growth",
+        "CEO Bridgit Mendler has steered the company’s rapid growth since its 2022 founding",
+        "The deal includes a $50 million contract with the U.S. Space Force and a financial agreement with HSBC"
+      ],
+      "topics": [
+        "space",
+        "satellites",
+        "funding",
+        "a16z",
+        "spaceforce"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 14:22:35 +0000",
+      "processed_at": "2026-11-04T02:00:21.200067+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-01-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
@@ -2393,81 +2468,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 27 Oct 2026 21:47:02 +0000",
       "processed_at": "2026-10-28T19:00:23.266061+00:00"
-    },
-    {
-      "id": "s-techcrunch-com-2026-10-27-bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "title": "Bank of America kindly asks that you don't share your banking password with your AI assistant | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Bank of America warned customers not to share their banking credentials with AI assistants in an email titled \"Protecting your finances in the Al World.\" The bank highlighted risks such as unauthorized transactions, account lockouts, and credential leakage that could arise from giving AI tools access to login information. It emphasized that customers remain liable for any activity that occurs when they share login details. The warning comes as banks explore how to safely integrate AI agents for payments while grappling with security concerns.",
-      "key_points": [
-        "BofA urges customers not to give usernames/passwords to AI tools.",
-        "Sharing credentials can lead to unauthorized transactions, account lockouts, or credential leaks.",
-        "Customers are still responsible for any activity if they share login info.",
-        "Banks are still figuring out how to safely integrate AI agents for payments."
-      ],
-      "topics": [
-        "banking",
-        "ai",
-        "security",
-        "fintech",
-        "consumer protection"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 21:44:34 +0000",
-      "processed_at": "2026-10-28T19:00:36.424687+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
-      "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite",
-      "author": "Rebecca Bellan",
-      "summary": "After eight years at Meta, AI director Rohit Patel has left the company to launch Ndoc, an AI‑native platform that aims to replace Microsoft Office and Google Workspace with a single unified workspace. Ndoc combines a Stage tab for presentations, a Narrative tab for analyses and citations, and a Model tab for datasets and Python scripts, allowing users to verify AI‑generated content directly. Patel, who focused on reinforcement learning and AI trustworthiness at Meta, built Ndoc from scratch using open‑source models to keep costs low and plans to open‑source the .ndoc.html file format. The startup is currently in an enterprise pilot and alpha phase, targeting a full launch next year while competing with enterprise AI tools from OpenAI, Anthropic, and Google.",
-      "key_points": [
-        "Rohit Patel departs Meta after 8 years to launch Ndoc, an AI‑native replacement for Office and Workspace",
-        "Ndoc unifies presentations, narratives, and models in one workspace and lets users audit AI output via embedded Python scripts",
-        "Patel built Ndoc on open‑source models to reduce costs and plans to open‑source the .ndoc.html format",
-        "The startup is in pilot and alpha stages, aiming for a full launch next year"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "meta",
-        "office",
-        "open-source"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 14:59:09 +0000",
-      "processed_at": "2026-10-28T19:00:23.307774+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey.jpg?resize=1200,800",
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Anduril, led by founder Palmer Luckey, and Qualcomm have announced BlueChip, a new U.S.-made laptop that will be available for preorder in 2027. The device will be a hardened computer designed for military, government, first‑responder, and law‑enforcement use, with roughly 90% of its components sourced from the U.S. or allied countries, including a Snapdragon X Series CPU built at TSMC’s Arizona plant. BlueChip will offer a fully transparent supply chain and is expected to cost about 20% more than typical high‑end PCs, positioning it as a premium, security‑focused option rather than a consumer laptop. The partnership signals a push to bring the entire laptop supply chain back to the United States and meet domestic procurement regulations for government agencies.",
-      "key_points": [
-        "BlueChip will be 90% U.S. or allied‑country manufactured, with a goal of 100% domestic production over time",
-        "The laptop is a rugged, hardened device aimed at military and government use, not mainstream consumers",
-        "It will run on a Snapdragon X Series CPU built at TSMC’s new Arizona facility",
-        "Preorders begin in 2027 and the price is projected to be about 20% higher than typical high‑end PCs"
-      ],
-      "topics": [
-        "technology",
-        "computers",
-        "manufacturing",
-        "government",
-        "security"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-28T19:00:53.657051+00:00"
     }
   ]
 }
