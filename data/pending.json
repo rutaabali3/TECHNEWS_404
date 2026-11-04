@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-11-04T17:06:21.437347+00:00",
+  "updated_at": "2026-11-04T22:47:48.369329+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
-    },
-    {
-      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-      "feed_excerpt": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
-      "published": "Mon, 02 Nov 2026 14:42:38 +0000"
     },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -24,18 +18,6 @@
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "feed_excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "published": "Mon, 02 Nov 2026 22:14:50 +0000"
-    },
-    {
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "feed_excerpt": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "published": "Mon, 02 Nov 2026 19:45:54 +0000"
-    },
-    {
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "feed_excerpt": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-      "published": "Mon, 02 Nov 2026 19:11:49 +0000"
     },
     {
       "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
@@ -54,12 +36,6 @@
       "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "feed_excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "published": "Tue, 03 Nov 2026 03:30:00 +0000"
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "feed_excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "published": "Tue, 03 Nov 2026 01:49:52 +0000"
     },
     {
       "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
@@ -216,7 +192,79 @@
       "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
       "feed_excerpt": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
       "published": "Wed, 04 Nov 2026 11:59:00 +0000"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "feed_excerpt": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "published": "Wed, 04 Nov 2026 22:45:09 +0000"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "feed_excerpt": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "published": "Wed, 04 Nov 2026 22:13:16 +0000"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "feed_excerpt": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "published": "Wed, 04 Nov 2026 21:56:01 +0000"
+    },
+    {
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "feed_excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "published": "Wed, 04 Nov 2026 21:49:29 +0000"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "feed_excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "published": "Wed, 04 Nov 2026 21:25:44 +0000"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "feed_excerpt": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "published": "Wed, 04 Nov 2026 21:10:56 +0000"
+    },
+    {
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "feed_excerpt": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "published": "Wed, 04 Nov 2026 20:36:57 +0000"
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "feed_excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "published": "Wed, 04 Nov 2026 19:30:04 +0000"
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "feed_excerpt": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "published": "Wed, 04 Nov 2026 19:29:52 +0000"
+    },
+    {
+      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "feed_excerpt": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "published": "Wed, 04 Nov 2026 18:12:30 +0000"
+    },
+    {
+      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+      "feed_excerpt": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
+      "published": "Wed, 04 Nov 2026 18:10:11 +0000"
+    },
+    {
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "feed_excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+      "published": "Wed, 04 Nov 2026 17:11:15 +0000"
     }
   ],
-  "last_processed_at": "2026-11-04T17:06:37.447717+00:00"
+  "last_processed_at": "2026-11-04T22:47:50.239749+00:00"
 }

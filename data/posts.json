@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-11-04T17:06:44.404765+00:00",
+  "updated_at": "2026-11-04T22:48:07.913760+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-02-apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "title": "Apple may try to increase revenue by doing...something with third-party AI apps | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Apple’s services division, already at record levels, is looking for new revenue streams amid regulatory pressure on the App Store and a slump in mobile gaming.  On its earnings call, CFO Kevan Parekh hinted that AI could drive growth by encouraging customers to upgrade and by opening opportunities with third‑party apps and partnerships.  Investors are speculating that Apple could profit from distributing third‑party AI agents through the App Store and taking a cut of the revenue they generate.  Despite headwinds, Apple projects services growth of 8‑9% for the December quarter.",
+      "key_points": [
+        "Apple may monetize third‑party AI agents via the App Store and take a revenue cut",
+        "Regulatory changes and legal challenges have reduced App Store commission revenue in key markets",
+        "Apple’s services business remains record‑level, with 8‑9% growth expected in the next quarter",
+        "AI is seen as a driver for customer upgrades and new partnership opportunities"
+      ],
+      "topics": [
+        "apple",
+        "services",
+        "app store",
+        "ai",
+        "regulation"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 01:49:52 +0000",
+      "processed_at": "2026-11-04T22:47:50.083590+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
+      "title": "Germany says lawmakers' iPhones may have been hacked with spyware | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Germany’s federal cybersecurity office warned that members of parliament and other public figures may have been targeted by government‑backed spyware, following Apple’s threat notifications that iPhones could have been compromised. The BSI urged anyone who received a notification to assume their device might be infected, though it did not confirm which officials were affected or which state actors were involved. Apple’s alerts, which flag zero‑click exploits that can silently steal messages, location data, and other sensitive information, have also reached users in 99 countries. The incident underscores the opaque supply chain of mercenary spyware, such as Pegasus from NSO Group, that governments often purchase to surveil political opponents.",
+      "key_points": [
+        "German BSI warned parliament members could have been hit by government‑backed spyware after Apple’s threat alerts.",
+        "Apple’s notifications flag zero‑click exploits that can silently steal data, but do not confirm actual compromise or attribution.",
+        "The case highlights the use of private spyware vendors like NSO Group’s Pegasus, which many governments purchase."
+      ],
+      "topics": [
+        "spyware",
+        "cybersecurity",
+        "government surveillance",
+        "apple",
+        "germany"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 19:45:54 +0000",
+      "processed_at": "2026-11-04T22:47:50.220090+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Snap has settled a lawsuit filed by two teenagers who alleged the platform was designed to be addictive and contributed to their depression, anxiety, and eating disorders. The settlement is part of a broader wave of litigation targeting social media companies for their impact on young users, following similar cases against Meta, TikTok, and YouTube. Snap had already settled other cases scheduled for trial and had expected CEO Evan Spiegel to testify. The company says it has implemented safeguards, safety tutorials, and expert partnerships and remains committed to improving user safety and well‑being.",
+      "key_points": [
+        "Snap reached a settlement with two teen plaintiffs over addiction and mental‑health claims.",
+        "The case follows similar lawsuits against Meta, TikTok, and YouTube.",
+        "Snap asserts it has introduced safety measures and will continue to strengthen them.",
+        "The lawsuit underscores growing legal scrutiny of social media’s influence on youth mental health."
+      ],
+      "topics": [
+        "social media",
+        "legal",
+        "mental health",
+        "youth",
+        "litigation"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 19:11:49 +0000",
+      "processed_at": "2026-11-04T22:47:49.877790+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/NinjaCrispi.png?w=800",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Ninja’s new Crispi Microwave and Air Fryer blends a 1,000‑W microwave with a 1,700‑W air‑fry system in a single unit, using FusionCrisp technology to heat food quickly while giving it a crispy finish. The appliance, priced at $449.99 (discounted to $349.99 on Amazon), features a 5.5‑quart glass dish, a non‑stick crisper plate, and no rotating plate, allowing larger dishes to be cooked at once. While it can replace separate microwave and air‑fryer units and free counter space for those who use both, its 20.3 x 17.56 x 14.1‑inch footprint and high price make it less suitable for small kitchens or budget shoppers.",
+      "key_points": [
+        "Ninja’s Crispi combines a 1,000‑W microwave and a 1,700‑W air fryer in one unit using FusionCrisp technology",
+        "The appliance costs $449.99 (Amazon $349.99) and measures 20.3 x 17.56 x 14.1 inches, offering a large cooking area without a rotating plate",
+        "It can replace separate microwave and air‑fryer appliances, freeing counter space for users who regularly use both",
+        "Its high price and size make it less ideal for small kitchens or budget‑conscious buyers"
+      ],
+      "topics": [
+        "kitchen appliances",
+        "microwave",
+        "air fryer",
+        "consumer electronics",
+        "tech gadgets"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 14:42:38 +0000",
+      "processed_at": "2026-11-04T22:47:50.239670+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-01-ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
@@ -2377,104 +2476,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 27 Oct 2026 22:17:18 +0000",
       "processed_at": "2026-10-30T01:43:18.056607+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-apple-launches-its-new-touchscreen-macbook-pro",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028.jpg?resize=1200,800",
-      "title": "Apple launches its new touchscreen MacBook Pro | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Apple has unveiled a touchscreen MacBook Pro, the first such laptop from the company in nearly a decade, powered by its new M5 Pro and M5 Max chips. The 14‑inch and 16‑inch models feature a PROLED XDR display with 2,000‑nit peak brightness, a Dynamic Island‑style cutout, and a six‑speaker array, and start at $2,899 and $3,399 respectively. The design includes a stabilizing hinge that keeps the screen steady during touch and video calls, and the laptops weigh 3.0 and 4.0 pounds, lighter than previous non‑touch models. Preorders open on October 30 and the devices ship on November 6, marking a significant shift in Apple’s laptop strategy under CEO John Ternus.",
-      "key_points": [
-        "Apple introduces touchscreen MacBook Pro with M5 Pro and M5 Max chips",
-        "14‑inch and 16‑inch models start at $2,899 and $3,399",
-        "Features PROLED XDR display, Dynamic Island cutout, six‑speaker array",
-        "Preorders begin Oct 30, shipping Nov 6"
-      ],
-      "topics": [
-        "apple",
-        "macbook",
-        "touchscreen",
-        "hardware",
-        "technews"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:26:10 +0000",
-      "processed_at": "2026-10-29T21:39:57.039121+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
-      "title": "South Korea's financial industry hit by fresh wave of cyberattacks | TechCrunch",
-      "author": "Kate Park",
-      "summary": "South Korea’s financial sector has faced a new wave of cyberattacks, targeting brokerages Daishin Securities and Mirae Asset Global Investments as well as the crypto exchange Bithumb. The breaches, which followed a September assault linked to a China‑based hacker using the AI penetration‑testing tool Artex, exposed personal data of 38,490 Daishin customers and raised concerns that other firms may have suffered similar compromises. In response, the Financial Services Commission has urged tighter cybersecurity safeguards and announced plans to audit dozens of private‑sector IT systems, while the affected firms have begun notifying customers and cooperating with authorities. The incidents echo a broader regional trend, with Japan’s GMO Internet also reporting a cyber incident, underscoring the growing threat of AI‑driven hacking across Asia.",
-      "key_points": [
-        "Daishin Securities exposed personal data of 38,490 customers in the latest attack",
-        "Attacks linked to a China‑based hacker using the AI tool Artex, following a September wave",
-        "South Korean regulator demands stronger cybersecurity and will audit private‑sector IT systems",
-        "Similar cyber incidents reported in Japan, highlighting a regional AI‑driven threat"
-      ],
-      "topics": [
-        "cybersecurity",
-        "financial services",
-        "ai",
-        "asia",
-        "data breach"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 15:41:18 +0000",
-      "processed_at": "2026-10-29T21:39:56.884389+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-reddit-is-the-latest-platform-to-embrace-the-for-you-feed",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
-      "title": "Reddit is the latest platform to embrace the 'For You' feed | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Reddit has introduced a new “For You” feed alongside its existing “Following” feed, mirroring the recommendation‑driven homepages of TikTok, Instagram, X, Threads, and Facebook. The algorithm‑curated feed blends posts from a user’s subscribed communities with personalized suggestions to help them discover new topics and conversations. Reddit says the change is meant to boost connection, participation, and belonging, and users can toggle between feeds at any time. The rollout will be global over the next few weeks, though some early testers have voiced frustration with the shift away from a purely community‑focused view.",
-      "key_points": [
-        "Reddit now offers a dual‑feed system with a recommendation‑driven “For You” option and a community‑only “Following” feed.",
-        "The new feed aims to increase user discovery and engagement by surfacing content beyond subscribed communities.",
-        "Early users have mixed reactions, with some preferring the focused feed and others frustrated by the algorithmic mix."
-      ],
-      "topics": [
-        "social media",
-        "algorithms",
-        "user experience",
-        "content discovery",
-        "reddit"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000",
-      "processed_at": "2026-10-29T16:44:59.691648+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Nvidia unveiled Nemotron 3.5 Transcribe, a free, open‑weight speech‑to‑text model that supports up to 40 languages and can translate 31 language pairs to and from English. The 30‑billion‑parameter model can process recordings up to an hour long, distinguish up to eight speakers, and run on a single chip ranging from the Jetson AGX Thor to Blackwell datacenter GPUs. Alongside the model, Nvidia released Granary v2, an expanded open‑source speech dataset, and updated NeMo tools to help developers tailor voice apps for industry jargon in business meetings and medical transcription. The launch comes amid a surge of new voice AI offerings from Mistral, ElevenLabs, and Salesforce, underscoring the rapid growth of the field.",
-      "key_points": [
-        "Nvidia’s Nemotron 3.5 Transcribe is a 30‑billion‑parameter, open‑weight model that supports 40 languages and 31 translation pairs, and can run on a single chip from edge to datacenter.",
-        "The model can handle recordings up to an hour, separate up to eight speakers, and is free for developers to use and customize with the new Granary v2 dataset and NeMo tools.",
-        "Nvidia’s release follows a wave of new voice AI models from Mistral, ElevenLabs, and Salesforce, highlighting the competitive pace in the industry."
-      ],
-      "topics": [
-        "voice ai",
-        "nvidia",
-        "open source",
-        "transcription",
-        "ai models"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-29T16:44:48.565754+00:00"
     }
   ]
 }
