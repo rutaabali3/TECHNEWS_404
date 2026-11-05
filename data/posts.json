@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-11-05T18:54:42.712029+00:00",
+  "updated_at": "2026-11-05T23:58:24.532090+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "tps-techcrunch-com-2026-11-03-ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
+      "title": "Ted Schlein's Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Ballistic Ventures, a San Francisco‑based cybersecurity VC founded in 2021 by former Kleiner Perkins partner Ted Schlein, has filed to raise $490 million across two new vehicles: a $360 million third flagship fund and a $130 million separate Fund B. The move comes amid a surge in AI‑driven cyber threats, which has pushed U.S. cybersecurity startups to raise $11.5 billion in 2025, the highest total since 2022, and made AI‑enabled companies account for 72% of deals through May. Ballistic’s founding team—comprising Schlein, former AT&T Cybersecurity president Barmak Meftah, and Roger Thornton—has backed notable firms such as Talon Cyber Security, Pangea, and others, positioning the firm to capitalize on the growing intersection of AI and cybersecurity.",
+      "key_points": [
+        "Ballistic Ventures is raising $490M across a $360M flagship fund and a $130M Fund B to support AI‑driven cybersecurity startups",
+        "AI‑enabled cyber threats have driven 72% of U.S. cybersecurity deals through May, contributing to a record $11.5B raised in 2025",
+        "The firm’s founders include Ted Schlein, Barmak Meftah, and Roger Thornton, and it has backed companies like Talon Cyber Security and Pangea",
+        "Ballistic’s fundraising reflects the broader trend of venture capital focusing on cybersecurity amid rising AI‑powered attack capabilities"
+      ],
+      "topics": [
+        "venture capital",
+        "cybersecurity",
+        "artificial intelligence",
+        "startup funding",
+        "tech investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "processed_at": "2026-11-05T23:58:20.676285+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Fal, a San Francisco-based AI inference startup, has doubled its valuation to $16 billion after closing a $1.3 billion Series F round led by Bessemer Venture Partners and joined by Nvidia, Sound Ventures, and T. Rowe Price. The company announced that the combined Series E and Series F rounds raised $1.65 billion, with Sequoia having led the earlier round. Fal’s annualized revenue exceeded $800 million earlier this year, underscoring the rapid growth of demand for inference services that run pre‑trained AI models. The valuation jump highlights the high expectations for inference providers, even as many face thin margins due to costly compute resources.",
+      "key_points": [
+        "Fal’s valuation doubled to $16 billion after a $1.3 billion Series F round led by Bessemer Venture Partners.",
+        "The combined Series E and Series F rounds raised $1.65 billion, with Nvidia and Bessemer as key investors.",
+        "Fal’s annualized revenue surpassed $800 million, reflecting the surge in demand for AI inference services."
+      ],
+      "topics": [
+        "ai",
+        "inference",
+        "startup",
+        "valuation",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "processed_at": "2026-11-05T23:57:53.045624+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Reddit is testing ad placements in its search results pages as it faces a decline in search traffic and a weaker-than‑expected revenue outlook. The company announced the trial on Tuesday, offering contextual ads that match users’ search queries, such as espresso‑related products for a search on \"espresso station.\" The move comes after the platform beat earnings estimates but issued fourth‑quarter guidance below Wall Street expectations, citing reduced traffic from Google’s AI‑powered search. Reddit also plans a gradual shift to a logged‑in experience to protect against AI scraping and to provide advertisers with richer user data, potentially boosting ad revenue.",
+      "key_points": [
+        "Reddit is launching contextual search‑result ads to offset declining search traffic and strengthen monetization.",
+        "Q3 revenue beat expectations but fourth‑quarter guidance fell short, largely due to AI‑driven traffic loss from Google.",
+        "The company is moving toward a logged‑in user model to enhance ad targeting and guard against AI scraping.",
+        "The new ad test and login shift aim to increase revenue from existing users amid flat or falling daily active user numbers."
+      ],
+      "topics": [
+        "reddit",
+        "ads",
+        "ai",
+        "search",
+        "monetization"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 19:24:37 +0000",
+      "processed_at": "2026-11-05T23:57:53.223414+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-anthropic-is-still-grappling-with-the-economics-of-compute",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+      "title": "Anthropic is still grappling with the economics of compute | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Anthropic disclosed that its compute costs now consume 58% of revenue, up from 48% a quarter earlier, even as revenue rose to $17 billion. The company’s operating loss grew because a $10 billion compute bill—half of it under short‑term contracts—outpaced revenue gains. Anthropic is still courting high‑rate neoclouds such as SpaceX, Nscale, Akamai and Volta while working on its own “Anthropic Direct” compute base, but the rapid demand growth keeps costs high. The worsening margins highlight the vulnerability of AI labs to infrastructure pricing as they near IPO and seek investor confidence.",
+      "key_points": [
+        "Compute costs rose to 58% of revenue, up from 48% a quarter earlier",
+        "Anthropic’s $10 billion compute bill included $5 billion under short‑term commitments",
+        "Revenue grew to $17 billion but operating loss widened",
+        "The firm relies on high‑rate neoclouds and is developing its own compute base under Anthropic Direct"
+      ],
+      "topics": [
+        "ai",
+        "compute",
+        "finance",
+        "ipo",
+        "cloud"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "processed_at": "2026-11-05T23:57:53.439352+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-03-hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Palantir-Alex-Karp.png?resize=1200,688",
@@ -2370,105 +2469,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 13:40:57 +0000",
       "processed_at": "2026-10-31T05:20:00.716135+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-meta-has-a-new-ai-pet-app-called-waddle-world",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "title": "Meta has a new AI pet app called Waddle World | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Meta launched Waddle World, an AI‑powered virtual pet app similar to Tamagotchi, available in the Philippines on iOS and Android. The app lets users hatch, feed, and play with a pixelated pet while also serving as a journal that records voice or text entries in the pet’s voice. Meta emphasizes the app is not a chatbot or productivity tool, aiming for a low‑pressure, 16‑bit escape rather than habit‑building. The release follows Meta’s other AI experiments like Pocket and Vibes, and may signal a cautious approach to companion AI amid legal concerns.",
-      "key_points": [
-        "Meta releases Waddle World, an AI virtual pet app in the Philippines for iOS and Android",
-        "The app combines pet care with a journal feature that records user entries in the pet’s voice",
-        "Meta positions the app as a low‑pressure, non‑habit‑building experience, not a chatbot or productivity tool",
-        "The launch follows Meta’s broader AI app strategy and may reflect caution around companion AI after legal scrutiny"
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "virtual pet",
-        "app",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 13:53:31 +0000",
-      "processed_at": "2026-10-30T23:57:35.195951+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-      "title": "Google expands AI Search ads globally as core ad growth slows | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Google announced it is expanding AI-powered Search ads to international markets as a response to slowing growth in its core search advertising business. The move, revealed during Alphabet’s third‑quarter earnings call, comes after the company reported $127.6 billion in revenue and a 12% year‑over‑year increase in Search ad revenue, down from 17% and 19% in earlier quarters. Early data shows click‑through rates for sponsored product listings in AI Mode are comparable to organic results, indicating the new formats are resonating with users. This expansion follows Google’s May launch of Gemini‑powered ad formats and highlights the company’s strategy to monetize its expanding AI features amid a competitive ad market.",
-      "key_points": [
-        "Google is rolling out AI‑powered Search ads in international markets to offset slowing core ad growth.",
-        "Search ad revenue grew 12% YoY in Q3, a decline from 17% and 19% in previous quarters.",
-        "Early click‑through rates for AI Mode ads match organic listings, suggesting strong relevance.",
-        "Alphabet reported $127.6 billion in revenue for Q3, with Search revenue up 12% YoY."
-      ],
-      "topics": [
-        "google",
-        "ai",
-        "search",
-        "advertising",
-        "earnings"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
-      "processed_at": "2026-10-30T20:00:17.025694+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-microsoft-recorded-10-billion-in-revenue-from-openai",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Microsoft reported $10 billion in revenue from OpenAI in the quarter ended September 30, 2026, representing nearly 11% of its $92.3 billion quarterly revenue. The figure includes revenue‑sharing payments and Azure cloud services, though the exact split remains unclear. For the full fiscal 2026, OpenAI‑related revenue reached $24.1 billion, implying an annualized $40 billion if the quarterly pace continues. The data underscores the deep financial ties between Microsoft and OpenAI even as the partnership loosens and Microsoft’s ownership stake declines to 24%.",
-      "key_points": [
-        "Microsoft earned $10 billion from OpenAI in Q3 2026, about 11% of total revenue.",
-        "OpenAI‑related revenue hit $24.1 billion for fiscal 2026, projecting $40 billion annually.",
-        "Microsoft holds a 24% stake in OpenAI, down from ~25% in September.",
-        "The revenue mix includes revenue‑sharing and Azure cloud services, but the split is undisclosed."
-      ],
-      "topics": [
-        "microsoft",
-        "openai",
-        "revenue",
-        "ai",
-        "cloud"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "processed_at": "2026-10-30T20:00:31.560514+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-video-wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800",
-      "title": "Wiz’s CTO on PHP2Shell and the coming 'vulnpocalypse' | TechCrunch",
-      "author": "Theresa Loconsolo",
-      "summary": "Last week, two critical bugs were discovered in PHP, the language that powers about 70% of websites, forcing many organizations to take sites offline while patches were developed. Tomer Schwartz, CTO of Exposure Management & AppSec at Wiz, joined a rapid‑response effort alongside OpenAI, the research group Calif, and the PHP core team to fix the vulnerabilities and discuss the broader implications of AI‑accelerated vulnerability discovery. In a TechCrunch Equity podcast interview, Schwartz explained how the scramble unfolded, why manual patching is unsustainable, and how early‑stage startups can build security into their products from the outset. He also warned that the PHP incident is just the beginning of a “vulnpocalypse” that will grow as AI tools make finding and exploiting new flaws faster.",
-      "key_points": [
-        "Two critical PHP bugs affecting roughly 70% of websites forced many sites offline while patches were rushed.",
-        "Wiz’s Tomer Schwartz was part of the rapid‑response team that worked with OpenAI, Calif, and the PHP core team to mitigate the vulnerabilities.",
-        "The incident illustrates that manual patching cannot scale and that AI is accelerating vulnerability discovery, prompting a need for built‑in security in startups."
-      ],
-      "topics": [
-        "php",
-        "cybersecurity",
-        "ai",
-        "software development",
-        "vulnerabilities"
-      ],
-      "source_url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 19:05:46 +0000",
-      "processed_at": "2026-10-30T20:00:17.968590+00:00"
     }
   ]
 }

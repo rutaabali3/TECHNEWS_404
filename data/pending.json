@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-11-05T18:54:11.864656+00:00",
+  "updated_at": "2026-11-05T23:57:51.772928+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "feed_excerpt": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "published": "Tue, 03 Nov 2026 21:43:08 +0000"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "feed_excerpt": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-      "feed_excerpt": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-      "published": "Tue, 03 Nov 2026 19:24:37 +0000"
     },
     {
       "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
@@ -48,12 +30,6 @@
       "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
       "feed_excerpt": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
       "published": "Tue, 03 Nov 2026 17:56:52 +0000"
-    },
-    {
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "feed_excerpt": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "published": "Tue, 03 Nov 2026 17:07:01 +0000"
     },
     {
       "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
@@ -318,7 +294,37 @@
       "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
       "feed_excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
       "published": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "feed_excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "published": "Thu, 05 Nov 2026 22:40:55 +0000"
+    },
+    {
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "feed_excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "published": "Thu, 05 Nov 2026 21:15:00 +0000"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "feed_excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "published": "Thu, 05 Nov 2026 19:48:28 +0000"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "feed_excerpt": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "published": "Thu, 05 Nov 2026 19:12:39 +0000"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "feed_excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "published": "Thu, 05 Nov 2026 19:06:12 +0000"
     }
   ],
-  "last_processed_at": "2026-11-05T18:54:39.528992+00:00"
+  "last_processed_at": "2026-11-05T23:58:20.676352+00:00"
 }
