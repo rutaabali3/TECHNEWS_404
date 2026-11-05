@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-11-05T03:19:09.333553+00:00",
+  "updated_at": "2026-11-05T11:24:24.814431+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-03-new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1160769930.jpg?resize=860,1200",
+      "title": "New York City's Mamdani criticizes Madison Square Garden owner over surveillance tech | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Mayor Zohran Mamdani criticized Madison Square Garden owner James Dolan for using surveillance and facial‑recognition technology, arguing it violates privacy and should be banned. He praised local legislation introduced by Councilmember Shahana Hanif that would prohibit biometric data collection in public spaces. Wired reports reveal MSG maintains a database that flags visitors, including celebrities, as LGBTQIA and has used facial‑recognition to identify a lawyer who sued the company, leading to a lawsuit against Wired. MSG denies the claims and says it is pursuing legal remedies, while New York City has required businesses to disclose biometric data collection since 2021.",
+      "key_points": [
+        "NYC Mayor Mamdani calls for banning MSG's facial‑recognition surveillance and supports new biometric‑data legislation.",
+        "Wired exposed MSG’s database that labels visitors as LGBTQIA and used facial‑recognition to identify a lawyer, prompting a lawsuit.",
+        "MSG denies the allegations and is pursuing legal action against Wired."
+      ],
+      "topics": [
+        "privacy",
+        "surveillance",
+        "biometric data",
+        "nyc",
+        "madison square garden"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 16:04:55 +0000",
+      "processed_at": "2026-11-05T11:23:58.391000+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800",
+      "title": "The Founder Summit agenda is only half the reason to be in Boston on Nov. 4 | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Founder Summit 2026 will take place on November 4 at SoWa Power Station in Boston, bringing founders and investors together for a full day of practical learning, candid conversations, live pitching, roundtables, and networking. The agenda is split into a Build Stage focused on early‑stage decisions like distribution, fundraising, and team building, and an Impact Stage that tackles scaling, product‑market fit, and long‑term growth. Attendees can also participate in focused roundtables on niche challenges, watch founders pitch in real time, and use Braindate to schedule intentional conversations. Ticket offers include a buy‑one‑get‑one‑free deal, up to $100 off individual passes, and up to 30% off group bundles.",
+      "key_points": [
+        "Founder Summit 2026 is scheduled for November 4 at SoWa Power Station in Boston",
+        "The event features Build and Impact stages, roundtables, a live pitch competition, and Braindate networking",
+        "Tickets offer a buy‑one‑get‑one‑free deal, up to $100 off, and up to 30% off group bundles",
+        "The agenda is designed to provide practical lessons, strategic insights, and networking opportunities for founders"
+      ],
+      "topics": [
+        "technews",
+        "startup",
+        "conference",
+        "fundraising",
+        "networking"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+      "processed_at": "2026-11-05T11:23:58.411497+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-03-apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
@@ -2426,56 +2475,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 28 Oct 2026 14:26:36 +0000",
       "processed_at": "2026-10-30T15:12:48.062624+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Apple has introduced a touchscreen MacBook Pro, with a base price of $2,899 and a fully loaded 16‑inch model reaching $14,549. The new machines feature the M5 Max chip, an 18‑core CPU and 40‑core GPU, and offer steep upgrade costs for storage and memory. Compared to the previous 16‑inch MacBook Pro, the top‑end price has risen by $4,400, reflecting Apple’s shift toward high‑performance hardware amid supply constraints. Preorders open on October 30, with availability beginning November 6.",
-      "key_points": [
-        "The touchscreen MacBook Pro starts at $2,899 and tops out at $14,549 with the M5 Max chip.",
-        "Upgrades such as 4TB SSD ($1,000), 8TB ($3,000), 16TB ($7,000) and 128GB RAM ($2,000) add significant cost.",
-        "The new models raise the previous 16‑inch MacBook Pro’s maximum price from $10,149 to $14,549.",
-        "Preorders begin October 30 and the laptops ship on November 6."
-      ],
-      "topics": [
-        "apple",
-        "macbook",
-        "touchscreen",
-        "pricing",
-        "hardware"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 22:47:50 +0000",
-      "processed_at": "2026-10-30T08:19:02.700679+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Microsoft revealed Azure’s July‑September quarter revenue at $33.2 billion, the first time it disclosed the figure in dollars. The figure represents a 48 % year‑over‑year increase and puts Azure marginally ahead of Google Cloud’s $30.7 billion, though Google’s growth rate was roughly double. Azure now accounts for about 36 % of Microsoft’s $92.3 billion quarterly revenue and is the company’s largest and fastest‑growing product line. The disclosure allows investors to compare Microsoft’s cloud business directly with Amazon Web Services and Google Cloud, intensifying the competitive race.",
-      "key_points": [
-        "Azure generated $33.2B in Q3, up 48% YoY.",
-        "Azure slightly outpaced Google Cloud’s $30.7B, but Google grew faster.",
-        "Azure represents 36% of Microsoft’s $92.3B quarterly revenue.",
-        "Microsoft’s new Agents & Infra segment, which includes Azure, grew 25% YoY to $76.8B."
-      ],
-      "topics": [
-        "cloud",
-        "microsoft",
-        "azure",
-        "google cloud",
-        "revenue"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
-      "processed_at": "2026-10-30T08:19:03.065431+00:00"
     }
   ]
 }

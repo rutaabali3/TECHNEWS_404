@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T03:18:44.980528+00:00",
+  "updated_at": "2026-11-05T11:23:56.596404+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -18,18 +18,6 @@
       "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "feed_excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "published": "Tue, 03 Nov 2026 03:30:00 +0000"
-    },
-    {
-      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-      "feed_excerpt": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-      "published": "Tue, 03 Nov 2026 16:04:55 +0000"
-    },
-    {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "feed_excerpt": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-      "published": "Tue, 03 Nov 2026 14:30:00 +0000"
     },
     {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
@@ -246,7 +234,13 @@
       "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "feed_excerpt": "Data center opposition crossed party lines in Tuesday’s midterms.",
       "published": "Thu, 05 Nov 2026 01:02:14 +0000"
+    },
+    {
+      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "feed_excerpt": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
+      "published": "Thu, 05 Nov 2026 11:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-05T03:19:08.062872+00:00"
+  "last_processed_at": "2026-11-05T11:23:58.411558+00:00"
 }
