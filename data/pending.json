@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:23:56.596404+00:00",
+  "updated_at": "2026-11-05T18:54:11.864656+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -8,40 +8,10 @@
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
     },
     {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "feed_excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "published": "Mon, 02 Nov 2026 22:14:50 +0000"
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "feed_excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "published": "Tue, 03 Nov 2026 03:30:00 +0000"
-    },
-    {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "feed_excerpt": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "published": "Tue, 03 Nov 2026 21:43:08 +0000"
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "feed_excerpt": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterprise sales, its big growth area, showed signs of slowing. First, the good […]",
-      "published": "Tue, 03 Nov 2026 21:05:55 +0000"
-    },
-    {
-      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
-      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-      "feed_excerpt": "An in-space construction first could be an enabler for the space data centers of the future.",
-      "published": "Tue, 03 Nov 2026 20:57:17 +0000"
-    },
-    {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "feed_excerpt": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-      "published": "Tue, 03 Nov 2026 19:45:48 +0000"
     },
     {
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
@@ -240,7 +210,115 @@
       "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
       "feed_excerpt": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
       "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "U.S. government warns of ‘ongoing cyber threat’ amid mass-hacks of industrial retail and military freezers",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "feed_excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass-hacks.",
+      "published": "Thu, 05 Nov 2026 18:48:34 +0000"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "feed_excerpt": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000"
+    },
+    {
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "feed_excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "feed_excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "feed_excerpt": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "published": "Thu, 05 Nov 2026 17:52:44 +0000"
+    },
+    {
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "feed_excerpt": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "published": "Thu, 05 Nov 2026 17:11:48 +0000"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "feed_excerpt": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "published": "Thu, 05 Nov 2026 16:16:45 +0000"
+    },
+    {
+      "title": "Bluesky hit peak usage for the year on election night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "feed_excerpt": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+      "published": "Thu, 05 Nov 2026 15:44:58 +0000"
+    },
+    {
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "feed_excerpt": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+      "published": "Thu, 05 Nov 2026 15:40:34 +0000"
+    },
+    {
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "feed_excerpt": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+      "published": "Thu, 05 Nov 2026 15:33:58 +0000"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "feed_excerpt": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000"
+    },
+    {
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "feed_excerpt": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "feed_excerpt": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "feed_excerpt": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "published": "Thu, 05 Nov 2026 14:42:00 +0000"
+    },
+    {
+      "title": "RadianX promises solar-powered devices that never need charging",
+      "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "feed_excerpt": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "feed_excerpt": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "feed_excerpt": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "feed_excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "published": "Thu, 05 Nov 2026 12:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-05T11:23:58.411558+00:00"
+  "last_processed_at": "2026-11-05T18:54:39.528992+00:00"
 }
