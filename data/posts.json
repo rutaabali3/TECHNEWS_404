@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-11-04T22:48:07.913760+00:00",
+  "updated_at": "2026-11-05T03:19:09.333553+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-03-apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple is tightening its App Store policies to restrict dating and AI companion apps to users 18 and older, requiring developers to add new content descriptors and an 18+ rating by November 16. The rule also covers apps that share real‑world locations and aims to protect minors through age assurance technology and enhanced parental controls. Popular AI companion services such as Character.AI, Replika, and xAI could be affected, as they often target younger audiences and offer romantic or sexual content. This move follows Apple’s broader effort to improve child safety across its ecosystem.",
+      "key_points": [
+        "Apple mandates an 18+ rating for all dating and relationship apps on the App Store",
+        "Developers must add new content descriptors and comply by November 16",
+        "The policy also targets AI companion apps and location‑sharing features",
+        "It is part of Apple’s larger initiative to protect minors with age assurance tech and parental controls"
+      ],
+      "topics": [
+        "apple",
+        "app store",
+        "dating apps",
+        "ai companions",
+        "minor protection"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "processed_at": "2026-11-05T03:18:46.694100+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+      "title": "Tomorrow: Founder Summit takes over Boston and when pass rates increase | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit will take place tomorrow, November 4, at Boston’s SoWa Power Station and is presented by Fidelity Private Shares. The event offers a buy‑one‑get‑one‑free ticket deal and encourages early registration before prices rise at 9 a.m. ET. Attendees can choose between Build and Impact stages that cover fundraising, product‑market fit, scaling, and enterprise relationships, as well as smaller roundtable conversations. The day also features a live pitch competition and a Braindate networking app to facilitate one‑on‑one connections.",
+      "key_points": [
+        "Founder Summit in Boston on Nov 4 at SoWa Power Station presented by Fidelity Private Shares",
+        "Buy‑one‑get‑one‑free ticket deal and early price lock before doors open at 9 a.m. ET",
+        "Sessions split into Build and Impact stages plus roundtables covering fundraising, product‑market fit, and scaling",
+        "Live pitch competition and Braindate app enable networking and one‑on‑one conversations"
+      ],
+      "topics": [
+        "tech events",
+        "startup",
+        "founder summit",
+        "fidelity private shares",
+        "boston"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "processed_at": "2026-11-05T03:18:51.211299+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Yvonne.jpg?resize=1171,1200",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe's startup scene | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "Yvonne Bajela launched Evertrue Capital, closing an oversubscribed $17M Fund I focused on early‑stage AI and fintech in the UK and Europe. She brings a decade of VC experience from LocalGlobe and Impact X, having backed companies like Wise and Mooves. The fund plans to invest about £350k per deal and target 20 companies over three years, with 80% of LPs UK‑based. Bajela cites the AI boom and a democratized building landscape as reasons for timing, while noting fundraising remains tough even in a supportive UK market.",
+      "key_points": [
+        "Evertrue Capital closed a $17M oversubscribed Fund I focused on early‑stage AI and fintech in the UK and Europe.",
+        "The fund will average £350k checks and target 20 companies over three years, backed by 80% UK LPs.",
+        "Bajela’s decade of VC experience includes investments in Wise, Marshmallow, and Mooves.",
+        "She cites the AI boom and a democratized startup ecosystem as the right timing for launching the fund."
+      ],
+      "topics": [
+        "venture capital",
+        "startup funding",
+        "ai",
+        "fintech",
+        "uk startup scene"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 08:01:00 +0000",
+      "processed_at": "2026-11-05T03:18:46.741842+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "title": "Apple Watch's AI features for rewinding and recapping conversations begin beta testing | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple has begun beta testing its new Audio Intelligence suite on the Apple Watch, launching the features in the iOS 27.3 update for developers. The four opt‑in tools include sound and song recognition, Live Rewind—which lets users double‑press the crown to view a 15‑second text snippet of the last conversation—and Siri Recaps, which summarizes conversations into bullet points without recording raw audio. Apple emphasizes privacy by processing audio on the watch’s S11 chip, encrypting data in a secure enclave, and deleting summaries from its Private Cloud Compute immediately after use. The beta will later expand to a public test before the features become available to all users.\n",
+      "key_points": [
+        "Live Rewind captures a 15‑second snippet of recent speech that can be saved or deleted after 30 seconds",
+        "Siri Recaps generates concise, speaker‑agnostic summaries that can be exported to Notes or Journal and are deleted after seven days if not saved",
+        "Audio is processed on the watch and iPhone in a secure enclave, with no raw audio stored or sent to Apple",
+        "The features are currently in developer beta via iOS 27.3 and will roll out to the public after broader testing"
+      ],
+      "topics": [
+        "apple",
+        "watch",
+        "ai",
+        "privacy",
+        "beta"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 07:20:00 +0000",
+      "processed_at": "2026-11-05T03:18:46.780963+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-02-trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Trajectory, a Stanford‑born startup, has raised $45 million in a Series A led by Sequoia and backed by Nvidia, Bessemer Venture Partners, and Bain Capital Ventures, valuing the 18‑person company at $300 million. The firm offers a continual‑learning platform that lets businesses fine‑tune open‑source AI models with real‑world feedback, enabling lawyers, doctors, and other specialists to improve models without hiring costly research teams. By automating post‑training, Trajectory aims to make specialized AI deployment faster, cheaper, and accessible to nontechnical users. The platform is already used by companies such as Harvey, Rogo, Decagon, Mercor, and Nvidia, and it competes with other post‑training startups like Thinking Machines Lab, Applied Compute, and Prime Intellect.",
+      "key_points": [
+        "$45 million Series A at a $300 million valuation led by Sequoia with Nvidia, Bessemer, and Bain Capital Ventures",
+        "Trajectory automates continual learning so nontechnical experts can fine‑tune AI models with real‑world feedback",
+        "The platform is already adopted by firms in law, finance, and tech, speeding up specialized AI deployment"
+      ],
+      "topics": [
+        "ai",
+        "startup",
+        "funding",
+        "continual learning",
+        "ai training"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "processed_at": "2026-11-05T03:19:08.062765+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-02-apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
@@ -2352,130 +2476,6 @@
       "credit": "Source: TechCrunch",
       "published": "Wed, 28 Oct 2026 21:58:32 +0000",
       "processed_at": "2026-10-30T08:19:03.065431+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blog_ConnectedApps_1027_2.width-2200.format-webp.webp?resize=1200,675",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Google has launched a Connected Apps Platform that lets developers link their services to the company’s AI experiences in Gemini and Search, enabling users to perform actions like designing a flyer with Canva or building a playlist with YouTube Music directly from the AI interface. The beta platform, currently available to U.S. developers, requires integration with Google’s MCP server or Android MCP via AppFunctions APIs and registration through the Connected Console, after which developers can monitor traffic, latency, and error rates. Over 50 apps—including Adobe, Experian, Peloton, and the meditation app Calm—are already available in Gemini, and more will appear in Search over the coming weeks, positioning the platform as a new visibility channel for businesses on the agentic web. Google has not announced a broader rollout date, but the initiative signals a push to shift consumer behavior toward using AI as a gateway to third‑party services.",
-      "key_points": [
-        "Google opens a Connected Apps Platform for developers to integrate apps with Gemini and Search via MCP and AppFunctions APIs",
-        "More than 50 apps, such as Adobe, Experian, Peloton, and Calm, are already available in Gemini and will expand to Search soon",
-        "Developers can track performance metrics and choose whether their app appears in Search, Gemini, or both",
-        "The platform is in public beta for U.S. developers, with no announced date for wider availability"
-      ],
-      "topics": [
-        "google",
-        "ai",
-        "connectedapps",
-        "search",
-        "gemini"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-10-30T08:19:02.793098+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "title": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Anthropic’s upcoming IPO is poised to generate billions for its early venture investors, but Amazon is set to reap far larger gains through its $18 billion investment and $97.9 billion‑valued convertible notes that could convert into up to 1.84 billion shares, capped at 12% of the company’s diluted share count. The AI startup’s $965 billion private valuation means even a 1% stake is worth nearly $10 billion, so VC holdings are small percentages but still huge dollar amounts. Google also stands to benefit, holding roughly 8–14% of Anthropic and securing $114 billion in cloud commitments through 2033. The S‑1 filing highlights that while VCs will see massive paydays, tech giants like Amazon and Google are positioned to become the biggest winners of the listing and its associated cloud deals.",
-      "key_points": [
-        "Anthropic’s IPO will yield billions for VCs but Amazon’s $18 billion investment and convertible notes could convert into up to 1.84 billion shares, capped at 12% of diluted shares",
-        "Amazon’s note holdings are valued at $97.9 billion, far exceeding the company’s total debt load of $6.2 billion",
-        "Google holds an estimated 8–14% stake and has secured $114 billion in cloud commitments through 2033",
-        "Anthropic’s $965 billion valuation makes even 1% stakes worth nearly $10 billion, explaining why VC percentages are small but dollar values are huge"
-      ],
-      "topics": [
-        "anthropic",
-        "ipo",
-        "amazon",
-        "google",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "processed_at": "2026-10-30T08:19:34.025595+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-10-28-amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
-      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Amazon announced a suite of five new Alexa devices, including the Alexa Photo Frame and Echo Time smart clock, both priced at $199.99, as well as updates to the Echo Show 16, Echo Dot, and Echo Studio with Home Camera. The Photo Frame offers a 10‑inch anti‑glare display that automatically selects and displays Prime members’ photos, while the Echo Time adds sleep‑sensing alarms and sunrise‑mimicking wake‑up features. The Echo Dot now includes a built‑in smart‑home hub and eero Wi‑Fi extender, and the Echo Studio doubles as a camera with visual intelligence for real‑time assistance. These releases expand Amazon’s smart‑home ecosystem and emphasize integration with existing Amazon services and user convenience.",
-      "key_points": [
-        "Amazon unveiled five new Alexa devices, including a photo frame and a smart clock, both priced at $199.99",
-        "The Echo Dot now functions as a smart‑home hub with an eero Wi‑Fi extender and faster on‑device processing",
-        "The Echo Studio with Home Camera adds visual intelligence and a camera for remote monitoring"
-      ],
-      "topics": [
-        "amazon",
-        "alexa",
-        "smarthome",
-        "digitalphoto",
-        "smartclock"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 14:34:25 +0000",
-      "processed_at": "2026-10-30T01:43:18.049831+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/free-fire-india.jpg?resize=1200,800",
-      "title": "Free Fire returns to India as Garena launches localized version four years after ban | TechCrunch",
-      "author": "Jagmeet Singh",
-      "summary": "Garena has re‑launched its battle‑royale hit Free Fire in India as a stand‑alone, localized version called Free Fire India, adding India‑specific content, parental controls, playtime limits, spending caps and hosting user data on servers in the country. The move comes more than three years after the game was banned in February 2022 amid national‑security concerns, and follows a quiet postponement of the 2023 launch that was announced in September. While Free Fire India is now live, Garena’s enhanced Free Fire MAX remains available and players can use the same account across both titles, keeping the franchise’s esports ecosystem active with teams like S8UL, Apex Gaming and Total Gaming competing in the 2026 Esports World Cup. The launch underscores India’s importance to the mobile‑gaming market, where downloads grew 14.2% quarter‑over‑quarter to 2 billion and revenue rose 3.7% to over $106 million, and highlights the continued dominance of Free Fire with 77.4 million monthly active users versus 20.8 million for BGMI.",
-      "key_points": [
-        "Garena launched a localized Free Fire India with parental controls, playtime limits, spending caps and Indian‑hosted data after a four‑year ban",
-        "Free Fire India now co‑exists with Free Fire MAX, allowing shared accounts and events across both games",
-        "The franchise remains dominant in India, boasting 77.4 million monthly active users versus 20.8 million for BGMI",
-        "India’s mobile‑gaming market is a key revenue driver, with 2 billion downloads and $106 million in revenue in Q2 2024"
-      ],
-      "topics": [
-        "gaming",
-        "mobile gaming",
-        "esports",
-        "regulation",
-        "india"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 13:39:18 +0000",
-      "processed_at": "2026-10-30T01:43:18.558786+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
-      "title": "From 8VC to Benchmark, here's what's hiding in October SEC filings | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "October SEC filings revealed a surge in venture fund activity, with several high‑profile firms announcing sizable new vehicles. Trust Ventures and Interlagos Capital each raised $400 million for new deep‑tech and regulated‑industry funds, while former Benchmark VCs Victor Lazarte and Kris Fredrickson launched Diffusion ONE, a $1.252 billion AI fund that far exceeded its original $800 million target. Benchmark itself filed four partner‑only funds totaling $364 million, and 8VC announced multiple new vehicles, including a $400 million 8VC DSS III. The month also saw Industry Ventures raise $1.7 billion for a secondaries fund, underscoring the growing appetite for secondary market stakes in hot private companies.",
-      "key_points": [
-        "Diffusion ONE surpassed its $800 million target, raising $1.252 billion for AI investments",
-        "Benchmark launched four partner‑only funds that together aim to raise $364 million",
-        "8VC announced several new vehicles, including a $400 million 8VC DSS III fund",
-        "Industry Ventures’ $1.7 billion secondaries fund highlights the expanding secondary market"
-      ],
-      "topics": [
-        "venture capital",
-        "ai",
-        "secondaries",
-        "regulated industries",
-        "fundraising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 22:17:18 +0000",
-      "processed_at": "2026-10-30T01:43:18.056607+00:00"
     }
   ]
 }

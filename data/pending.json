@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:47:48.369329+00:00",
+  "updated_at": "2026-11-05T03:18:44.980528+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -8,28 +8,10 @@
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "feed_excerpt": "The one-year-old startup is now valued at $300 million.",
-      "published": "Mon, 02 Nov 2026 23:13:53 +0000"
-    },
-    {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "feed_excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "published": "Mon, 02 Nov 2026 22:14:50 +0000"
-    },
-    {
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-      "feed_excerpt": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
-      "published": "Tue, 03 Nov 2026 08:01:00 +0000"
-    },
-    {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "feed_excerpt": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "published": "Tue, 03 Nov 2026 07:20:00 +0000"
     },
     {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -44,22 +26,10 @@
       "published": "Tue, 03 Nov 2026 16:04:55 +0000"
     },
     {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "feed_excerpt": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "published": "Tue, 03 Nov 2026 15:38:27 +0000"
-    },
-    {
       "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
       "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
       "feed_excerpt": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
       "published": "Tue, 03 Nov 2026 14:30:00 +0000"
-    },
-    {
-      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "feed_excerpt": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-      "published": "Tue, 03 Nov 2026 14:00:00 +0000"
     },
     {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
@@ -264,7 +234,19 @@
       "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
       "feed_excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
       "published": "Wed, 04 Nov 2026 17:11:15 +0000"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "feed_excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "published": "Thu, 05 Nov 2026 01:26:22 +0000"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "feed_excerpt": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "published": "Thu, 05 Nov 2026 01:02:14 +0000"
     }
   ],
-  "last_processed_at": "2026-11-04T22:47:50.239749+00:00"
+  "last_processed_at": "2026-11-05T03:19:08.062872+00:00"
 }
