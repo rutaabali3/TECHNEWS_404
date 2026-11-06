@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-11-06T06:22:21.589807+00:00",
+  "updated_at": "2026-11-06T14:31:11.350153+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-04-google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Google announced that K‑12 schools using its education suite will lose access to Google Search unless they opt in to its AI tools such as Gemini, sparking immediate backlash from educators, politicians, and antitrust advocates. The company said the change is meant to give schools more control over AI use, but critics argue it coerces schools into adopting Google’s AI and threatens a monopoly over essential search services. Senators Bernie Sanders and Richard Blumenthal, former FTC chair Lina Khan, and New York City Mayor Zohran Mamdani condemned the move as extortion and anticompetitive. Google has clarified that AI features are off by default and schools can enable Gemini, Gemini Notebook, and Search individually while it develops a “Guided Learning” tool to help students learn rather than simply receive answers.",
+      "key_points": [
+        "Google will block Search for schools that do not opt in to its AI tools, prompting accusations of coercion and antitrust violations.",
+        "The move is framed as giving schools more control, but critics see it as leveraging Google’s search monopoly to force AI adoption.",
+        "Google has stated AI features are off by default and can be enabled separately, and it is working on a Guided Learning feature to support student learning."
+      ],
+      "topics": [
+        "google",
+        "education",
+        "ai",
+        "antitrust",
+        "backlash"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 16:17:22 +0000",
+      "processed_at": "2026-11-06T14:31:11.349147+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?resize=1200,750",
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Barcelona-based Titan OS raised $46 million in new equity and debt financing, bringing its total capital to $110 million. The funding, sourced from BlackRock‑managed debt facilities and existing investors Highland Europe and Mangrove Capital Partners, will accelerate the company’s ambition to expand its TV OS into new markets and deepen partnerships with manufacturers and content providers. With 30 million users and a growing roster that now includes Philips, Sharp, AOC, Vestel, Skyworth, TiVo and Tubi, Titan OS positions itself as a monetization platform that offers advertisers access to a larger, AI‑enhanced audience. The company plans to invest in AI‑driven content discovery and ad recommendation to reduce search time and attract more sales partners, while opening a London office to focus on advertising.",
+      "key_points": [
+        "Titan OS secured $46 million in new equity and debt, raising total funding to $110 million.",
+        "The company now serves 30 million users and has partnered with major brands such as Philips, Sharp, and TiVo.",
+        "Funding will support AI‑powered content discovery and ad recommendation to improve user experience and advertiser reach.",
+        "Titan OS is expanding globally, opening a London office and targeting additional manufacturers to adopt its OS."
+      ],
+      "topics": [
+        "smart tv",
+        "operating system",
+        "funding",
+        "ai",
+        "advertising",
+        "partnerships"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "processed_at": "2026-11-06T14:30:38.791280+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "title": "Anthropic is working on a system to prove AI models' identity | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Anthropic has announced FlashProve, an open‑source system that uses cryptographic proofs to verify which AI model produced a given output. The system requires labs to publish a model fingerprint that can be matched to outputs without revealing internal weights, allowing users to confirm that responses come from the claimed model. FlashProve could prevent model swapping, protect commercial interests, and enable third parties to verify claims about model usage. The researchers released a technical spec and code on GitHub, but have no immediate plans to deploy the system.",
+      "key_points": [
+        "FlashProve provides cryptographic proof that an output came from a specific AI model.",
+        "Labs publish a fingerprint that does not expose model weights, enabling verification for commercial models.",
+        "The system can prevent model swapping and allow third parties to verify claims about model usage.",
+        "Anthropic released the specification and code on GitHub but will not deploy it immediately."
+      ],
+      "topics": [
+        "ai",
+        "cryptography",
+        "open-source",
+        "model-verification",
+        "anthropic"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "processed_at": "2026-11-06T14:30:53.611214+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/pokemon-go-to-the-polls.jpg?resize=1200,800",
+      "title": "Ten years later, 'Pokémon Go to the polls' still haunts the internet | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "During Hillary Clinton’s 2016 campaign, she referenced Pokémon GO in a rally, sparking the meme “Pokémon Go to the polls” that has resurfaced every U.S. election. The meme now serves as a reminder of how early‑internet culture—when Facebook, Twitter, and Tumblr dominated—has been replaced by AI‑generated content and a fragmented digital landscape. 2016 is nostalgically remembered as a “good year” for many, with Spotify playlists and Instagram posts spiking as people shared throwback content. The meme’s persistence across the political spectrum shows how humor and a call to vote can coexist in a cynical, algorithm‑driven era.",
+      "key_points": [
+        "The meme “Pokémon Go to the polls” originated from Hillary Clinton’s 2016 rally and reappears at each election.",
+        "It highlights the shift from early‑internet culture to an AI‑driven, fragmented online political landscape.",
+        "2016 is nostalgically celebrated as a “good year,” reflected in viral playlists and social media posts.",
+        "The meme’s cross‑party appeal underscores a shared, ironic plea to encourage voter turnout."
+      ],
+      "topics": [
+        "politics",
+        "memes",
+        "internet culture",
+        "ai",
+        "nostalgia"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 19:04:52 +0000",
+      "processed_at": "2026-11-06T14:30:39.194626+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-03-data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
@@ -2371,105 +2471,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 16:19:43 +0000",
       "processed_at": "2026-10-31T20:11:04.218941+00:00"
-    },
-    {
-      "id": "com-2026-10-29-amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Amazon has expanded Alexa’s shopping capabilities with over 100 new features that let users create and manage lists, adjust subscription schedules, and edit delivery instructions. The update also lets Alexa answer questions about Prime and Audible memberships, billing, and payment issues. These enhancements come ahead of the holiday season and build on Amazon’s earlier AI‑centric shopping tools such as the shopping assistant and product‑notification service. According to Amazon, agentic features have grown eightfold since the start of the year and more than 400 million consumers have used Alexa for shopping in the past year.",
-      "key_points": [
-        "Alexa now supports over 100 new shopping features, including list management and subscription adjustments.",
-        "Users can edit delivery instructions and change addresses directly through voice commands.",
-        "The assistant can answer questions about Prime, Audible, billing, and payment issues.",
-        "Amazon reports an eight‑fold increase in agentic feature usage and 400 million shoppers using Alexa for purchases."
-      ],
-      "topics": [
-        "amazon",
-        "alexa",
-        "shopping",
-        "ai",
-        "subscriptions"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-31T20:11:04.088332+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Archive of Our Own (AO3), the fan‑fiction platform run by the nonprofit Organization for Transformative Works, announced that a security incident has forced the site offline and could keep it down for up to four weeks. The incident was discovered during routine maintenance, and while the scope is still being investigated, the team has not ruled out the possibility that user account data—including usernames, emails, IPs, and hashed passwords—may have been accessed. AO3, which is built on Ruby on Rails rather than PHP, is not linked to the recent PHP vulnerabilities, and the organization has urged users to change passwords on other sites as a precaution. The outage has already sparked widespread concern, with the status page receiving millions of views and the community scrambling for updates.",
-      "key_points": [
-        "AO3 offline due to a security incident, with downtime expected up to four weeks",
-        "User account data may have been accessed; password changes are advised",
-        "The site runs on Ruby on Rails, unrelated to recent PHP vulnerabilities"
-      ],
-      "topics": [
-        "fanfiction",
-        "security",
-        "downtime",
-        "nonprofit",
-        "ruby on rails"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:43:56 +0000",
-      "processed_at": "2026-10-31T16:14:06.700482+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Deepgram has announced the acquisition of Daily, the creators of the open‑source Pipecat framework, without disclosing a price but pledging to keep Pipecat open source. Pipecat orchestrates voice and video streams, integrating speech‑to‑text, large language models, and text‑to‑speech while reducing latency, giving Deepgram a deeper real‑time communication stack. The deal positions Deepgram to expand beyond voice into broader real‑time AI‑native software and to launch the Real‑Time Context Standard, an open protocol for voice agents. Both companies, alumni of Y Combinator’s 2016 batch, emphasize an engineering culture that supports open‑source collaboration and vendor‑neutral ecosystems.",
-      "key_points": [
-        "Deepgram acquires Daily and commits to keeping Pipecat open source",
-        "Pipecat is a real‑time orchestration framework for voice, video, STT, LLM, and TTS",
-        "The acquisition broadens Deepgram’s real‑time communication capabilities beyond voice",
-        "Both firms share a Y Combinator 2016 heritage and a focus on open‑source collaboration"
-      ],
-      "topics": [
-        "voice ai",
-        "open source",
-        "acquisition",
-        "real time communication",
-        "ai infrastructure"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-10-31T16:14:06.586264+00:00"
-    },
-    {
-      "id": "ps-techcrunch-com-2026-10-29-ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Ex‑Palantir executives Andy Elder and Arjun Mathur have launched Dream, a startup that uses AI‑powered world models to automate building design and engineering. The company raised $17 million in seed funding led by Andreessen Horowitz, with additional backing from SV Angel, XYZ and Zigg Capital. Dream’s “structural cognition” model is trained on over 100 million square feet of U.S. building data and produces structurally sound designs that can replace legacy AEC tools like AutoCAD and Revit. The platform is already deployed on 10 projects in Texas and California and aims to boost productivity in the construction sector, which has seen fewer new buildings and rising costs.",
-      "key_points": [
-        "Dream, founded by former Palantir execs, uses AI world models to generate structurally sound building designs.",
-        "The startup secured $17 million in seed funding from Andreessen Horowitz, SV Angel, XYZ and Zigg Capital.",
-        "Its “structural cognition” model is trained on more than 100 million square feet of U.S. building data.",
-        "Dream is already used on 10 active projects in Texas and California, targeting replacement of legacy AEC software."
-      ],
-      "topics": [
-        "ai",
-        "construction",
-        "startup",
-        "venturecapital",
-        "software"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "processed_at": "2026-10-31T11:04:37.795359+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T06:21:44.785587+00:00",
+  "updated_at": "2026-11-06T14:30:36.576645+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -8,22 +8,10 @@
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
     },
     {
-      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-      "feed_excerpt": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
-      "published": "Tue, 03 Nov 2026 19:04:52 +0000"
-    },
-    {
       "title": "Ferrari’s controversial Luce EV is sold out for 2027",
       "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
       "feed_excerpt": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
       "published": "Tue, 03 Nov 2026 18:51:33 +0000"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "feed_excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "published": "Tue, 03 Nov 2026 22:41:03 +0000"
     },
     {
       "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
@@ -36,18 +24,6 @@
       "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
       "feed_excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
       "published": "Wed, 04 Nov 2026 16:51:35 +0000"
-    },
-    {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "feed_excerpt": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-      "published": "Wed, 04 Nov 2026 16:17:22 +0000"
-    },
-    {
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-      "feed_excerpt": "Titan OS has raised $110 million in funding to date.",
-      "published": "Wed, 04 Nov 2026 15:00:00 +0000"
     },
     {
       "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
@@ -306,7 +282,37 @@
       "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
       "feed_excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
       "published": "Fri, 06 Nov 2026 00:01:38 +0000"
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "feed_excerpt": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "feed_excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "published": "Fri, 06 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "feed_excerpt": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "published": "Fri, 06 Nov 2026 11:50:10 +0000"
+    },
+    {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "feed_excerpt": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "published": "Fri, 06 Nov 2026 07:18:44 +0000"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "feed_excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000"
     }
   ],
-  "last_processed_at": "2026-11-06T06:21:46.905812+00:00"
+  "last_processed_at": "2026-11-06T14:31:11.349257+00:00"
 }
