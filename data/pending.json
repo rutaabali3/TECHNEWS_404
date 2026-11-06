@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-11-06T14:30:36.576645+00:00",
+  "updated_at": "2026-11-06T20:44:35.835530+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
-    },
-    {
-      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
-      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-      "feed_excerpt": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-      "published": "Tue, 03 Nov 2026 18:51:33 +0000"
     },
     {
       "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
@@ -38,28 +32,10 @@
       "published": "Wed, 04 Nov 2026 13:00:00 +0000"
     },
     {
-      "title": "Canva lays off over 1,200 people amid slowing growth",
-      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-      "feed_excerpt": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-      "published": "Wed, 04 Nov 2026 11:59:00 +0000"
-    },
-    {
       "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "feed_excerpt": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
       "published": "Wed, 04 Nov 2026 22:45:09 +0000"
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "feed_excerpt": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "published": "Wed, 04 Nov 2026 22:13:16 +0000"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "feed_excerpt": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "published": "Wed, 04 Nov 2026 21:56:01 +0000"
     },
     {
       "title": "Snapchat surpasses 30M paid subscribers",
@@ -312,7 +288,49 @@
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "feed_excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
       "published": "Fri, 06 Nov 2026 06:28:32 +0000"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "feed_excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "feed_excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "feed_excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "published": "Fri, 06 Nov 2026 17:23:52 +0000"
+    },
+    {
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "feed_excerpt": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "published": "Fri, 06 Nov 2026 16:50:01 +0000"
+    },
+    {
+      "title": "Fox completes its $22B acquisition of Roku",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "feed_excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "published": "Fri, 06 Nov 2026 16:05:36 +0000"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "feed_excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "published": "Fri, 06 Nov 2026 15:54:47 +0000"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "feed_excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "published": "Fri, 06 Nov 2026 14:10:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-06T14:31:11.349257+00:00"
+  "last_processed_at": "2026-11-06T20:44:53.668068+00:00"
 }

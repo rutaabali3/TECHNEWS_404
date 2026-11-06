@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-11-06T14:31:11.350153+00:00",
+  "updated_at": "2026-11-06T20:44:57.646963+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-04-nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
+      "title": "Nothing CEO says company's mysterious AI-first device is dropping next month | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Nothing’s CEO Carl Pei announced that the company’s first AI‑native product will ship in December. The device is described as a screenless, non‑app productivity tool built with the brand’s characteristic personality and care. Pei also mentioned plans for AI‑linked smart glasses and earbuds, but emphasized that the new product is distinct from wearables. While a firm release date has not been set, the announcement signals Nothing’s push into AI‑first consumer hardware.",
+      "key_points": [
+        "Nothing’s first AI‑native product will ship in December and is a screenless, non‑app productivity tool.",
+        "The device is built with Nothing’s characteristic personality and care.",
+        "Pei also plans AI‑linked smart glasses and earbuds, but the new product is distinct from wearables.",
+        "No firm release date has been announced yet, but the December shipping date is confirmed."
+      ],
+      "topics": [
+        "nothing",
+        "ai",
+        "smartphones",
+        "productivity",
+        "wearables"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "processed_at": "2026-11-06T20:44:38.156345+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+      "title": "Almost no one uses AI agents to book their Uber, company says | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Uber reported that only four rides were booked through AI agents during its busiest week in October, and just 500 Uber Eats orders were placed by AI agents out of 320 million total trips and orders. The company’s CFO highlighted the limited traction, while CEO Dara Khosrowshahi expressed optimism that AI agents could boost demand across the platform. Despite the hype around personal AI assistants, the average booking time in Uber’s app is already short, so the time savings from agents are minimal. Uber remains bullish on the potential of AI agents, noting that the number of major assistants is growing and that many AI companies are engaging with the company.",
+      "key_points": [
+        "Only four Uber rides were booked via AI agents in the busiest week of October",
+        "Uber Eats saw 500 AI‑initiated orders out of 320 million total trips/orders",
+        "CEO Dara Khosrowshahi remains optimistic about future AI agent traction",
+        "AI agents currently offer little time savings compared to Uber’s fast app booking"
+      ],
+      "topics": [
+        "uber",
+        "ai agents",
+        "transportation",
+        "tech",
+        "startups"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 21:56:01 +0000",
+      "processed_at": "2026-11-06T20:44:37.427235+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-canva-lays-off-over-1200-people-amid-slowing-growth",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2263283392.jpg?resize=1200,786",
+      "title": "Canva lays off over 1,200 people amid slowing growth | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Canva announced a 22% workforce reduction, cutting 1,271 employees, as it confronts a slowdown in growth after a decade of expansion. CEO Melanie Perkins explained that the company must reorganize, merge product, growth, and platform teams, and adopt a hybrid work model to streamline communication and broaden employee responsibilities. The layoffs also prompted Canva to revise its revenue growth forecast from 30% to 20% and saw its valuation drop to roughly $35 billion, reflecting rising AI costs and intensified competition from AI-driven design tools. Despite these challenges, Canva continues to develop its own AI models to lower dependence on third‑party services while navigating a market increasingly dominated by general‑purpose chatbots like ChatGPT and Gemini.",
+      "key_points": [
+        "Canva is cutting 1,271 staff, a 22% reduction, amid slowed growth.",
+        "The company is merging product, growth, and platform teams and shifting to hybrid work to reduce friction.",
+        "Canva lowered its revenue growth forecast to 20% and valuation to $35 billion due to rising AI costs.",
+        "Competition from AI startups and chatbots like ChatGPT and Gemini is intensifying Canva’s market pressure."
+      ],
+      "topics": [
+        "canva",
+        "ai",
+        "layoffs",
+        "design software",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 11:59:00 +0000",
+      "processed_at": "2026-11-06T20:44:37.560078+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-ferraris-controversial-luce-ev-is-sold-out-for-2027",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ferrari-luce-getty.jpg?resize=1200,799",
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027 | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Ferrari’s first electric car, the Luce, designed by former Apple design chief Jony Ive, has sold out for its 2027 production run, with every planned vehicle already allocated to buyers and deliveries slated to begin in the fourth quarter. The 2027 model starts at about $615,000, and while Ferrari has not disclosed exact production numbers, it is expected to produce fewer than 500 units this year and aims for 2,500 units by 2030. Ferrari’s third‑quarter financials showed a 7% rise in revenue to €1.9 billion and a 13% increase in net income to €431 million, prompting the company to lift its full‑year adjusted earnings guidance to at least €3 billion. Customization sales, which account for more than 21% of revenue from cars and spare parts, helped drive the strong profitability and underscore the brand’s focus on personalized luxury.",
+      "key_points": [
+        "The Luce electric car is sold out for its 2027 production run, with all units already allocated to buyers.",
+        "Ferrari’s Q3 revenue rose 7% to €1.9 billion and net income up 13% to €431 million, leading to a higher full‑year earnings forecast.",
+        "Customization revenue exceeds 21% of total car and spare‑parts revenue, boosting profitability.",
+        "Ferrari plans to produce under 500 Luce units in 2027 and targets 2,500 units by 2030, though exact numbers remain undisclosed."
+      ],
+      "topics": [
+        "ferrari",
+        "electric vehicles",
+        "luxury cars",
+        "sales",
+        "financial results"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 18:51:33 +0000",
+      "processed_at": "2026-11-06T20:44:53.668000+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-04-google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
       "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200",
@@ -2372,105 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 14:35:26 +0000",
       "processed_at": "2026-10-31T23:33:51.202842+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Amazon reported its third‑quarter earnings on Thursday, missing analysts’ expectations for total revenue and earnings per share. The cloud unit, Amazon Web Services, was the bright spot, posting a 39% year‑over‑year revenue growth and beating revenue forecasts. However, free cash flow for the trailing 12 months fell to a negative $42.4 billion, a sharp reversal from the $14.8 billion positive free cash flow reported for the same period ended September 30 2025, largely due to heavy spending on AI. Amazon reiterated a 2026 capital‑expenditure outlook of about $220 billion, roughly matching the $240‑$247 billion net‑sales forecast for the fourth quarter, underscoring the company’s aggressive investment in artificial intelligence.",
-      "key_points": [
-        "Amazon missed Q3 revenue and EPS expectations.",
-        "AWS grew 39% YoY and beat revenue forecasts.",
-        "Free cash flow turned negative $42.4B, driven by AI spending.",
-        "Amazon plans $220B capex for 2026, close to Q4 sales forecast."
-      ],
-      "topics": [
-        "amazon",
-        "aws",
-        "cloud",
-        "ai",
-        "finance"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 21:20:47 +0000",
-      "processed_at": "2026-10-31T20:11:04.237791+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
-      "title": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Reddit announced it will shift to a primarily logged‑in experience as search traffic dries up amid the rise of AI‑powered search. The move is intended to protect data from AI scraping and enable lucrative licensing deals with model providers while helping the company monetize a shrinking user base. Despite a 2% year‑over‑year decline in U.S. daily active users, Reddit’s revenue jumped 53% YoY to $895 million, driven by a 54% rise in advertising and a 35% increase in non‑advertising AI data licensing. The transition will be tested in select markets outside the U.S. in Q4, with no firm global rollout date yet announced.",
-      "key_points": [
-        "Reddit is moving to a logged‑in model to safeguard data and pursue AI licensing amid falling search referrals",
-        "Search traffic referrals dropped over 1 million per week in October, contributing to a 2% YoY decline in U.S. daily active users",
-        "Revenue grew 53% YoY to $895 million, with advertising up 54% to $847 million and non‑advertising AI data licensing up 35% to $48 million",
-        "Logged‑in users offer higher ad value and personalization, and the change will be rolled out gradually starting in Q4"
-      ],
-      "topics": [
-        "reddit",
-        "ai",
-        "search",
-        "advertising",
-        "usergrowth"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "processed_at": "2026-10-31T20:11:03.998434+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
-      "title": "Rivian expands joint venture with VW to include AI assistant | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Rivian and Volkswagen Group have expanded their $5.8 billion joint venture to license Rivian’s AI voice‑assistant technology to VW. The assistant, which debuted in Rivian’s R1S SUV and R1T pickup in May 2026 and R2 SUV in October, could first appear in VW’s low‑cost ID EVERY1 hatchback. The move underscores Rivian’s push for vertical integration, allowing it to bundle its electrical architecture, software, and compute platform across partners. VW’s increased investment and the partnership aim to give the German automaker a modern, software‑centric platform that rivals Tesla’s offerings.",
-      "key_points": [
-        "$5.8B joint venture now includes AI assistant licensing",
-        "First VW vehicle to use Rivian tech will be ID EVERY1",
-        "Rivian’s AI assistant launched in 2026 and supports future third‑party agents",
-        "The partnership highlights Rivian’s vertical integration strategy"
-      ],
-      "topics": [
-        "rivian",
-        "volkswagen",
-        "ai",
-        "electric vehicles",
-        "joint venture"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:05:47 +0000",
-      "processed_at": "2026-10-31T20:11:03.960128+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-superme-raises-20m-for-its-network-of-ai-expert-profiles",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/SuperMe-TeamPhoto.jpg?resize=1200,800",
-      "title": "SuperMe raises $20M for its network of AI expert profiles | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "SuperMe, a 2024 startup that builds AI personas from real experts and matches user questions to a curated group chat, has raised $20 million in funding led by Forerunner’s Kirsten Green with participation from Greylock Partners. The platform aggregates knowledge from public sources and connected apps to create AI profiles of industry leaders such as VCs and entrepreneurs, allowing users to ask questions and receive expert‑style answers. While the service remains free for now, SuperMe plans to introduce a paid tier after a limited number of free queries and is hiring to enhance its AI matching algorithms and expand its expert network. The funding underscores the growing interest in hybrid human‑AI knowledge platforms and positions SuperMe to scale its network on both sides of the market.",
-      "key_points": [
-        "SuperMe secured $20M in funding led by Forerunner’s Kirsten Green with Greylock participation",
-        "The platform creates AI personas of real experts and matches user queries to a group chat of those personas",
-        "The startup plans to monetize after a free tier and is hiring to improve AI matching and expand expert coverage"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "network",
-        "technology"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 16:19:43 +0000",
-      "processed_at": "2026-10-31T20:11:04.218941+00:00"
     }
   ]
 }
