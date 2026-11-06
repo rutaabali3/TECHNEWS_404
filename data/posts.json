@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-11-05T23:58:24.532090+00:00",
+  "updated_at": "2026-11-06T06:22:21.589807+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-03-data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+      "title": "Data centers are turning to old jet engines as the wait for power grows | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Some AI data centers are retrofitting retired jet engines to burn natural gas because grid connections and new turbines are taking years to come online. The converted units can be deployed in as little as 24 months, a stark contrast to the seven‑year timeline for a 100‑MW grid hookup in Northern Virginia. Companies such as xAI, OpenAI, and the Denver‑based Crusoe have already installed or ordered dozens of these engines, while others have abandoned larger turbine deals in favor of the quicker solution. Although the jet‑engine turbines are less efficient and more polluting than purpose‑built gas plants, they offer a short‑term fix that may become less attractive as efficiency and environmental concerns rise.",
+      "key_points": [
+        "Retired jet engines are being converted to natural‑gas turbines to power AI data centers quickly.",
+        "Deployment can be achieved in about 24 months, compared to 7 years for conventional grid connections.",
+        "Major players like xAI, OpenAI, and Crusoe are already using or ordering these units.",
+        "The technology is less efficient and more polluting, making it a temporary solution."
+      ],
+      "topics": [
+        "data centers",
+        "power",
+        "ai",
+        "jet engines",
+        "energy"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+      "processed_at": "2026-11-06T06:21:46.737263+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
+      "title": "Netflix's new AI Discover tab helps you find something to watch based on your mood | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Netflix has launched an AI Discover tab that lets users find shows based on their current mood, offering curated themes such as \"scare me\" and \"quick watches\". The feature uses a new AI layer that learns from real‑time user input and lets viewers tune recommendations by adding or excluding titles. Netflix calls the tab a \"test kitchen\" where it experiments with discovery options and collects feedback before integrating them into the main experience. The rollout began in the U.S. for English‑TV users and will expand to other markets in the coming weeks.",
+      "key_points": [
+        "Netflix introduces an AI Discover tab for mood‑based recommendations",
+        "Curated themes and a Tune Your Recommendations button let users refine suggestions",
+        "The tab serves as a test kitchen for new discovery features and gathers user feedback",
+        "Initial rollout is in the U.S. for English‑TV users with plans for broader expansion"
+      ],
+      "topics": [
+        "netflix",
+        "ai",
+        "streaming",
+        "discovery",
+        "entertainment"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 18:42:16 +0000",
+      "processed_at": "2026-11-06T06:21:46.905731+00:00"
+    },
+    {
+      "id": "m-2026-11-03-crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2281430305.jpg?w=1024",
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off | TechCrunch",
+      "author": "Ram Iyer",
+      "summary": "CrowdStrike announced acquisitions of Fiddler AI and Dreadnode for roughly $400 million and $95 million respectively, expanding its Falcon platform to monitor and test AI agents and models. The deals come as enterprises deploy AI agents at scale, creating new security gaps that traditional tools struggle to cover. Fiddler AI will become Falcon Observe, providing observability of agent behavior, while Dreadnode will feed automated security testing into Falcon Guardian. These moves position CrowdStrike to capture a growing market for AI‑centric security solutions.",
+      "key_points": [
+        "CrowdStrike is paying about $400 million for Fiddler AI and $95 million for Dreadnode to broaden its AI security offerings",
+        "Fiddler AI will be integrated as Falcon Observe to monitor AI agent behavior, while Dreadnode will enhance Falcon Guardian with automated testing",
+        "The acquisitions address the security challenges posed by widespread AI agent deployment across enterprises",
+        "The moves aim to capture a rapidly expanding market for AI‑centric security solutions"
+      ],
+      "topics": [
+        "cybersecurity",
+        "ai",
+        "acquisition",
+        "falcon",
+        "enterprise"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 17:56:52 +0000",
+      "processed_at": "2026-11-06T06:21:46.516433+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Also-portal-screen.jpeg?resize=1200,900",
+      "title": "Exclusive: Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "author": "Sean O'Kane",
+      "summary": "Also, a micromobility startup spun out of Rivian in 2025, quietly abandoned an electric two‑wheeler pilot in Kenya after receiving a Shell Foundation grant, choosing instead to concentrate on its consumer e‑bike TM‑B and autonomous vehicle work. The Kenya project, aimed at creating a locally integrated electric motorcycle for African riders, was halted after early‑stage work and a shift in priorities toward DoorDash‑partnered small autonomous vehicles. Supply‑chain disruptions delayed the launch of Also’s flagship TM‑B, causing customer frustration and communication gaps, but the company has begun shipping units in early October and is improving its outreach. The move underscores Also’s focus on scalable, cost‑optimized vehicles and its broader ambitions to sell commercial cargo bikes to firms like Amazon.",
+      "key_points": [
+        "Also withdrew from a Shell Foundation‑funded Kenya electric‑motorcycle pilot to focus on its e‑bike TM‑B and autonomous vehicle roadmap.",
+        "Supply‑chain challenges delayed the TM‑B launch, leading to customer frustration and a communication overhaul.",
+        "The company is partnering with DoorDash on small autonomous vehicles and plans commercial cargo bikes for Amazon.",
+        "The Kenya project aimed to test modular batteries and distributed charging for African riders but was abandoned after early‑stage work."
+      ],
+      "topics": [
+        "micromobility",
+        "electric vehicles",
+        "startup",
+        "supply chain",
+        "autonomous vehicles"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 16:49:09 +0000",
+      "processed_at": "2026-11-06T06:21:46.862302+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-03-google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Google announced it will disable its AI tools for K‑12 students next year unless school administrators explicitly turn them on, a move that also removes Google Search from schools that opt out because AI features are now embedded in the search engine. The change follows consultations with educators, researchers and policymakers and reflects Google’s intent to give school leaders control over AI use while maintaining its dominant suite of classroom apps. Schools that want to keep access to Search will have to accept its AI features, creating a trade‑off between search functionality and AI restrictions. Google also unveiled Guided Learning, an AI tutor designed to help students build deeper understanding rather than just provide answers.",
+      "key_points": [
+        "Google will disable AI tools for K‑12 unless administrators enable them",
+        "Disabling AI also disables Google Search for those schools",
+        "Schools face a trade‑off between search access and AI restrictions",
+        "Google launched Guided Learning, an AI tutor for deeper learning"
+      ],
+      "topics": [
+        "education",
+        "google",
+        "ai",
+        "search",
+        "schools"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "processed_at": "2026-11-06T06:21:46.839053+00:00"
+    },
     {
       "id": "tps-techcrunch-com-2026-11-03-ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
@@ -2345,130 +2470,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 16:21:00 +0000",
       "processed_at": "2026-10-31T11:04:37.795359+00:00"
-    },
-    {
-      "id": "s-techcrunch-com-2026-10-29-agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mintive-founders.jpg?resize=1200,900",
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Mintive, an agent‑identity startup founded by former Coursera engineer Jiquan Ngiam and Google Brain TensorFlow co‑creator Vijay Vasudevan, has raised a total of $11 million, including a $7 million seed round led by Cowboy Ventures and backing from Coatue, Operator Collective, Hustle Fund and angels such as Jeff Dean and Andrej Karpathy. The company offers an end‑to‑end platform that manages agent identities, authorizations, cost routing and monitoring, with a focus on rapid, button‑click deployment that has already attracted 50 enterprise customers including Coursera, Stability AI and the University of Michigan. Mintive enters a crowded field of agent‑management solutions from Amazon, Microsoft, OpenAI and numerous startups, but its founders’ deep enterprise AI experience and emphasis on ease of use set it apart. The funding and early customer traction signal growing investor confidence in infrastructure that governs and provisions AI agents for businesses.",
-      "key_points": [
-        "Mintive secured $11 million in total funding, led by Cowboy Ventures, with high‑profile angels Jeff Dean and Andrej Karpathy",
-        "Founders bring deep AI enterprise experience from Coursera, Google Brain, and TensorFlow",
-        "The platform offers end‑to‑end agent identity, access control, cost routing, and monitoring with quick, button‑click deployment",
-        "Already 50 enterprise customers, including Coursera, Stability AI, and the University of Michigan"
-      ],
-      "topics": [
-        "startup",
-        "funding",
-        "ai",
-        "agent management",
-        "enterprise software"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "processed_at": "2026-10-31T11:04:37.946172+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Microsoft reported a record quarterly revenue of $92.3 billion, a 19% year‑over‑year increase, marking the company’s tenth consecutive quarter of record‑breaking sales. Net income rose to $36.6 billion, up 32% on a GAAP basis, driven largely by the $63.9 billion in cloud revenue, which grew 30% YoY. The cloud segment included $33.2 billion from Azure, $28 billion from Microsoft 365, and $10 billion from OpenAI services, while capital expenditures topped $45.2 billion, another all‑time quarterly record. Microsoft also announced that its commercial remaining performance obligation—future revenue commitments—jumped 73% to $677 billion.",
-      "key_points": [
-        "Microsoft achieved its tenth straight quarter of record revenue, reaching $92.3 billion",
-        "Cloud revenue hit $63.9 billion, with Azure contributing $33.2 billion and OpenAI $10 billion",
-        "Capital expenditures set a new quarterly record at $45.2 billion"
-      ],
-      "topics": [
-        "microsoft",
-        "cloud",
-        "ai",
-        "revenue",
-        "capital expenditures"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
-      "processed_at": "2026-10-31T05:19:47.053501+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Anthropic has unveiled a new suite of reporting tools that let enterprise customers track token spend, cost, and workflow performance, aiming to demonstrate ROI and lock in users. The launch follows the company’s Q2 operating profit and a 900% net revenue retention, underscoring strong enterprise adoption. The reports provide granular data on team output, cost, and bottlenecks, plus recommendations for improvement, while explicitly stating that the data will not be used for model training. This move comes amid growing CFO concern over unplanned AI spend, with a Jellyfish survey showing Anthropic’s Claude Code accounts for nearly a third of code changes and has seen ten‑fold spend growth, now about 2% of engineering budgets.",
-      "key_points": [
-        "Anthropic released reporting tools to give enterprise users a detailed view of token spend and ROI.",
-        "The suite offers cost breakdowns, workflow analysis, and improvement suggestions without training models on the data.",
-        "Anthropic’s Q2 operating profit and 900% net revenue retention highlight strong enterprise traction.",
-        "A Jellyfish survey shows Anthropic tools drive 10x spend growth and account for ~1/3 of code changes, costing ~2% of engineering budgets."
-      ],
-      "topics": [
-        "anthropic",
-        "enterprise",
-        "token spend",
-        "reporting",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
-      "processed_at": "2026-10-31T05:19:35.592677+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/DHS-Getty.jpg?resize=1200,800",
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Bluesky has begun blocking links to the nonprofit DDoSecrets site that hosts a leaked dataset of more than 40,000 U.S. Department of Homeland Security employee records, after the agency disclosed a breach of its login system. The stolen data included names, work phone numbers and email addresses of employees from agencies such as Customs and Border Protection and Immigration and Customs Enforcement, and was made publicly available by DDoSecrets. Bluesky’s chief operating officer explained that the block was chosen to protect privacy while still allowing discussion of the data, and the company plans to update its block message wording. Homeland Security has also filed takedown notices through security vendor ZeroFox, which has authority to act on the department’s behalf until 2028, and the domain registrar CentralNic has taken the site offline for now.",
-      "key_points": [
-        "Bluesky blocked links to DDoSecrets after a DHS data breach exposed 40,000 employee records",
-        "The leaked data included professional contact information that was shared without consent",
-        "Homeland Security used ZeroFox to file takedown notices and the domain registrar has taken the site offline",
-        "Bluesky chose to block links rather than remove individual posts to preserve public discussion"
-      ],
-      "topics": [
-        "bluesky",
-        "homeland security",
-        "data breach",
-        "privacy",
-        "government"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 13:43:53 +0000",
-      "processed_at": "2026-10-31T05:19:35.087255+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-doordash-to-acquire-instacart-for-17b",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-      "title": "DoorDash to acquire Instacart for $17B | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "DoorDash announced it will acquire Instacart for $17 billion, paying $65 per share. The deal merges DoorDash’s restaurant‑takeout dominance with Instacart’s grocery‑delivery network, keeping Instacart’s brand and technology separate until closing. Both CEOs highlighted that the combination will give retailers and shoppers better tools and lower‑cost delivery, while the transaction is expected to close in late 2027 or early 2028. Instacart’s market cap exceeds $13 billion and its stock has risen 25% YTD, making the sale attractive amid rising competition.",
-      "key_points": [
-        "DoorDash to buy Instacart for $17 billion at $65 per share",
-        "The merger will combine restaurant and grocery delivery while keeping Instacart’s brand separate until closing",
-        "Deal expected to close late 2027 or early 2028",
-        "Instacart’s market cap >$13 billion and stock up 25% YTD, making the sale timely amid competition"
-      ],
-      "topics": [
-        "acquisition",
-        "delivery",
-        "grocery",
-        "restaurant",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 13:40:57 +0000",
-      "processed_at": "2026-10-31T05:20:00.716135+00:00"
     }
   ]
 }

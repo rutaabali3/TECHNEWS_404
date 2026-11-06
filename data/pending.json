@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:57:51.772928+00:00",
+  "updated_at": "2026-11-06T06:21:44.785587+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -20,40 +20,10 @@
       "published": "Tue, 03 Nov 2026 18:51:33 +0000"
     },
     {
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "feed_excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "published": "Tue, 03 Nov 2026 18:42:16 +0000"
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "feed_excerpt": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "published": "Tue, 03 Nov 2026 17:56:52 +0000"
-    },
-    {
-      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-      "feed_excerpt": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-      "published": "Tue, 03 Nov 2026 16:49:09 +0000"
-    },
-    {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "feed_excerpt": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "published": "Tue, 03 Nov 2026 16:30:34 +0000"
-    },
-    {
       "title": "Anthropic is working on a system to prove AI models’ identity",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "feed_excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "published": "Tue, 03 Nov 2026 22:41:03 +0000"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "feed_excerpt": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "published": "Tue, 03 Nov 2026 22:19:53 +0000"
     },
     {
       "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
@@ -324,7 +294,19 @@
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "feed_excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000"
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "feed_excerpt": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "published": "Fri, 06 Nov 2026 00:07:18 +0000"
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "feed_excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "published": "Fri, 06 Nov 2026 00:01:38 +0000"
     }
   ],
-  "last_processed_at": "2026-11-05T23:58:20.676352+00:00"
+  "last_processed_at": "2026-11-06T06:21:46.905812+00:00"
 }
