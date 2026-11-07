@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-11-07T18:30:44.245705+00:00",
+  "updated_at": "2026-11-07T22:32:36.254185+00:00",
   "items": [
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "feed_excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "published": "Wed, 04 Nov 2026 21:25:44 +0000"
-    },
     {
       "title": "Sequoia hits rewind, undoing 20 years of expansion",
       "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
@@ -26,34 +20,10 @@
       "published": "Thu, 05 Nov 2026 18:00:00 +0000"
     },
     {
-      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-      "feed_excerpt": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-      "published": "Thu, 05 Nov 2026 17:11:48 +0000"
-    },
-    {
-      "title": "Bluesky hit peak usage for the year on election night",
-      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-      "feed_excerpt": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
-      "published": "Thu, 05 Nov 2026 15:44:58 +0000"
-    },
-    {
       "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
       "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
       "feed_excerpt": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
       "published": "Thu, 05 Nov 2026 15:40:34 +0000"
-    },
-    {
-      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-      "feed_excerpt": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
-      "published": "Thu, 05 Nov 2026 15:33:58 +0000"
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "feed_excerpt": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "published": "Thu, 05 Nov 2026 15:19:05 +0000"
     },
     {
       "title": "Instagram brings Edits to desktop to take on CapCut",
@@ -252,7 +222,25 @@
       "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
       "feed_excerpt": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
       "published": "Sat, 07 Nov 2026 17:18:00 +0000"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "feed_excerpt": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "published": "Sat, 07 Nov 2026 22:07:22 +0000"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "feed_excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "published": "Sat, 07 Nov 2026 21:17:08 +0000"
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "feed_excerpt": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "published": "Sat, 07 Nov 2026 19:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-07T18:31:07.128619+00:00"
+  "last_processed_at": "2026-11-07T22:32:51.364634+00:00"
 }

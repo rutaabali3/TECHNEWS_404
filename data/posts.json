@@ -1,7 +1,129 @@
 {
-  "updated_at": "2026-11-07T18:31:12.161882+00:00",
+  "updated_at": "2026-11-07T22:33:08.373325+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-04-openai-is-already-trying-to-shape-the-2028-election",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "title": "OpenAI is already trying to shape the 2028 election | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "OpenAI’s chief global affairs officer Chris Lehane has released an essay likening AI’s potential to reshape the economy to Franklin D. Roosevelt’s New Deal, outlining five policy priorities that include worker protections, education, AI safety, and data‑center development. The piece marks a shift from OpenAI’s previous focus on accelerating AI and reducing regulatory barriers, and it urges politicians to create a “compelling third path” that lets ordinary Americans share in AI’s benefits. Critics from the AI Now Institute argue that Lehane’s proposals still favor the company, lack concrete measures to prevent wealth concentration, and rely on unproven assumptions about AI’s positive impact on learning and jobs. The essay arrives amid a post‑midterm political climate where data‑center opposition and affordability concerns are rising, positioning AI as a likely central issue in the 2028 election.",
+      "key_points": [
+        "OpenAI’s Chris Lehane proposes a New Deal‑style policy agenda for AI, emphasizing worker protections, education, safety, and data‑center expansion.",
+        "The essay signals a shift from OpenAI’s earlier push for fewer regulations to a more policy‑oriented stance, but critics say it still favors the company.",
+        "Critics argue the proposals lack concrete measures to prevent wealth concentration and question the feasibility of AI‑driven prosperity."
+      ],
+      "topics": [
+        "openai",
+        "ai policy",
+        "new deal",
+        "data centers",
+        "child safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 21:25:44 +0000",
+      "processed_at": "2026-11-07T22:32:38.156508+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Food delivery startup Wonder has confidentially filed for an IPO, marking a significant step toward becoming a public company after years of fundraising and expansion. Founded in 2018 by Marc Lore, the company has shifted from a delivery app to a food‑technology platform that operates food‑hall style locations, handles meal prep, and offers dine‑in service. Wonder recently raised over $650 million in a round that valued it at roughly $9 billion, and it plans aggressive growth, including more than 100 new Texas locations by 2027. The IPO will bring new scrutiny as Wonder competes with established players like DoorDash and Uber Eats while leveraging acquisitions such as Blue Apron, Grubhub, Tastemade, and Spyce.",
+      "key_points": [
+        "Wonder has filed confidentially for an IPO after raising $650M at a $9B valuation.",
+        "The company operates food‑hall style locations and handles end‑to‑end meal prep, delivery, pickup, and dine‑in.",
+        "It plans to open over 100 new Texas locations by 2027 and has acquired Blue Apron, Grubhub, Tastemade, and Spyce.",
+        "The IPO will subject Wonder to increased competition from DoorDash, Uber Eats, and other delivery giants."
+      ],
+      "topics": [
+        "food delivery",
+        "ipo",
+        "startup",
+        "acquisition",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 17:11:48 +0000",
+      "processed_at": "2026-11-07T22:32:51.364529+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-bluesky-hit-peak-usage-for-the-year-on-election-night",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+      "title": "Bluesky hit peak usage for the year on election night | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Bluesky recorded its highest daily activity on U.S. midterm election night, with 44 million likes, 4.8 million posts, and 2 million new follows on November 4, 2026. The platform’s traffic spiked to 35.8 GB/s, a 200 % increase over normal levels, while likes rose 70 % and posts 30 % above the 30‑day average. CEO Toni Schneider noted a surge of new users and returning members, and COO Rose Wang said peak engagement occurred between 8 p.m. and 10 p.m. PT as election results unfolded. The spike reflects Bluesky’s left‑leaning user base, which grew after Donald Trump’s 2024 loss and is now highly active during Democratic victories.",
+      "key_points": [
+        "Bluesky hit 44 million likes on election night, close to its all‑time record of 45 million.",
+        "Daily posts and likes jumped 30 % and 70 % over the 30‑day average.",
+        "Traffic surged to 35.8 GB/s, a 200 % increase from typical levels."
+      ],
+      "topics": [
+        "bluesky",
+        "socialmedia",
+        "elections",
+        "userengagement",
+        "traffic"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:44:58 +0000",
+      "processed_at": "2026-11-07T22:32:38.046381+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-tiktok-quietly-launches-a-standalone-tiktok-shop-app",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?resize=1200,819",
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "TikTok has quietly launched a dedicated TikTok Shop app in Singapore, Malaysia, Thailand, and the Philippines, offering personalized product recommendations, livestream and short‑form video shopping, app‑exclusive deals, in‑app checkout, order tracking, and customer support. The move gives TikTok a separate storefront to reach shoppers beyond its main platform and to compete more directly with e‑commerce giants such as Amazon, Temu, Walmart, and Target. While the company has not confirmed a U.S. rollout, the app’s launch signals a deeper investment in social commerce and a broader strategy that includes games, restaurant guides, sports hubs, hotel booking, and payments. TikTok’s new app also mirrors Amazon’s earlier attempt to lure users away from TikTok with its Inspire feed, creating a full‑circle rivalry in the e‑commerce space.",
+      "key_points": [
+        "TikTok launched a stand‑alone TikTok Shop app in four Southeast Asian markets with features like livestream shopping and app‑exclusive deals",
+        "The app positions TikTok to compete directly with Amazon, Temu, Walmart, and Target by offering a dedicated shopping destination",
+        "TikTok’s broader strategy includes expanding into games, travel, and payments, indicating a shift beyond social media"
+      ],
+      "topics": [
+        "tiktok",
+        "ecommerce",
+        "social commerce",
+        "apps",
+        "competition"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:33:58 +0000",
+      "processed_at": "2026-11-07T22:32:37.733715+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Dropbox announced a $350 million acquisition of cloud‑storage firm Tigris Data to strengthen its AI infrastructure and launch DBX Agent Cloud, a new storage platform for businesses and developers building AI models and agents. The deal, expected to close in the fourth quarter of 2026, will not involve headcount reductions and will allow customers to purchase object storage that is compatible with Amazon S3 and other existing tools. Dropbox plans to expand DBX Agent Cloud with support for documents, images, audio, and video, and to add filesystem features that let AI agents manage files across tasks and sessions. The acquisition follows Dropbox’s prior AI‑focused purchases and positions the company to offer more AI capabilities in its core product, including integration with ChatGPT, Claude, and Muse.",
+      "key_points": [
+        "Dropbox acquires Tigris Data for $350M to expand AI infrastructure",
+        "Deal to close Q4 2026 with no headcount cuts",
+        "DBX Agent Cloud will provide standalone object storage compatible with Amazon S3",
+        "Tigris Data, founded by former Uber engineers, raised $25M Series A last year"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "acquisition",
+        "storage",
+        "dropbox"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "processed_at": "2026-11-07T22:32:37.929058+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-04-ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
@@ -2350,130 +2472,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 30 Oct 2026 22:56:13 +0000",
       "processed_at": "2026-11-02T01:21:26.598708+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750",
-      "title": "Satlyt takes another step toward turning satellites into space data centers | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Satlyt, a 2024 startup founded by former Google and SpaceX engineer Rama Afullo, demonstrated its software’s ability to orchestrate computing tasks across multiple satellites during a NASA‑funded test that ran on a physical computer aboard a spacecraft. The experiment, conducted in partnership with the University of Houston, showed the system could generate task‑allocation plans in orbit while accounting for limited compute, intermittent communication, and user‑defined constraints. Although the software successfully executed and returned results to Earth, the team identified a timing‑reference bug and noted that further validation is needed before deploying the technology on real missions. Satlyt aims to turn spacecraft into virtual data centers that can run AI and other applications onboard, reducing reliance on downlinks and enabling faster, more efficient data delivery from space to Earth.",
-      "key_points": [
-        "Satlyt’s NASA‑funded test proved its software can plan and execute distributed computing tasks on orbiting hardware.",
-        "The system allows operators to set permissions, priorities, and limits while autonomously managing task allocation across satellites.",
-        "Further work is required to address timing bugs, secure communication, and broader validation before deployment on actual missions."
-      ],
-      "topics": [
-        "satellite",
-        "data center",
-        "ai",
-        "space",
-        "nasa"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 18:01:24 +0000",
-      "processed_at": "2026-11-02T01:21:25.946676+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
-      "title": "Zest's new AI agent finds restaurants and books reservations over text | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Zest, a restaurant discovery app launched in November 2024, has unveiled an AI‑powered \"restaurant concierge\" that operates via text messages, allowing users to receive personalized recommendations and book tables directly through services like OpenTable, Resy, and SevenRooms. The concierge pulls data from users’ credit‑card transactions via Plaid to build a taste profile, enabling it to suggest restaurants based on cuisine, location, dietary needs, and even group preferences in group chats. The startup, backed by $1.8 million in pre‑seed funding from Alexis Ohanian’s 776 and Steve Jang’s Kindred Ventures, plans to expand beyond dining to other recommendation domains while monetizing through booking and future ordering revenue streams. The feature was tested in TechCrunch trials, showing reliable suggestions and booking capability, and is now live for users to text at (212) 470‑6067.",
-      "key_points": [
-        "Zest introduces a text‑based AI concierge that recommends restaurants and books tables via OpenTable, Resy, and SevenRooms",
-        "It uses Plaid‑imported credit‑card food transactions to build personalized taste profiles",
-        "The startup has $1.8 million pre‑seed funding and aims to monetize through bookings and future ordering",
-        "The concierge can operate in group chats, voting, and handle dietary or occasion queries"
-      ],
-      "topics": [
-        "ai",
-        "restaurant",
-        "text messaging",
-        "fintech",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 17:47:12 +0000",
-      "processed_at": "2026-11-02T01:21:51.177883+00:00"
-    },
-    {
-      "id": "ch-com-2026-10-30-theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people' | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Tyler Shultz, the whistleblower who exposed Theranos’ faulty blood‑testing technology, warns that the current AI boom gives unscrupulous founders a new platform to deceive investors and the public. He cites the Theranos scandal—where a $10 billion valuation was built on unreliable devices—as a cautionary tale that investors must not repeat. Shultz argues that AI products are harder to vet, making it easier to disguise a ChatGPT wrapper as a breakthrough. The documentary “You Can See Everything” has reignited public interest in Holmes, but Shultz stresses that the real lesson is about due diligence in the age of AI.",
-      "key_points": [
-        "Shultz warns that the AI boom offers a new avenue for deception similar to Theranos’ fraud",
-        "The Theranos scandal highlighted the dangers of insufficient due diligence for high‑valuation startups",
-        "Investors in AI face challenges in distinguishing genuine innovation from superficial wrappers",
-        "The documentary “You Can See Everything” has sparked renewed debate about Holmes and corporate fraud"
-      ],
-      "topics": [
-        "theranos",
-        "ai",
-        "investing",
-        "whistleblower",
-        "documentary"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 16:03:45 +0000",
-      "processed_at": "2026-11-02T01:21:26.633984+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
-      "title": "Andy Jassy says Prime Video is on track to earn 'tens of billions of dollars' | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Amazon CEO Andy Jassy announced on the Q2 earnings call that Prime Video is on track to generate tens of billions in revenue and is already profitable. The streaming arm has benefited from Amazon MGM Studios’ box‑office successes, including the $684 million‑grossing \"Project Hail Mary\" and other hits such as \"Verity.\" Prime Video also drives viewership through popular TV series like \"Reacher,\" \"The Boys,\" and \"Carrie,\" and sports rights to NASCAR, the Masters, UEFA Champions League, and Thursday Night Football. The combination of original content, sports programming, and a growing subscriber base positions Prime Video as a major revenue engine for Amazon’s broader media strategy.",
-      "key_points": [
-        "Prime Video is projected to generate tens of billions in revenue and is already profitable",
-        "Amazon MGM Studios has earned over $1.2 billion in global box office sales this year",
-        "Prime Video’s sports rights, especially Thursday Night Football, are driving high viewership",
-        "Original series such as Reacher and The Boys are key content drivers"
-      ],
-      "topics": [
-        "amazon",
-        "primevideo",
-        "streaming",
-        "media",
-        "sports"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 23:44:56 +0000",
-      "processed_at": "2026-11-01T21:50:20.358817+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-where-was-my-invite-to-the-wait-what-airbnb-had-a-gala",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Getty-Images-for-Airbnb.org_.jpg?resize=1200,800",
-      "title": "Where was my invite to the — wait, what? Airbnb had a gala? | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Airbnb’s nonprofit hosted its first gala in Los Angeles on October 28, a night that featured Jimmy Kimmel, Charli XCX, and a host of A‑list celebrities. The event announced a new program in which Airbnb will donate 10 cents of every commercial booking revenue to the nonprofit, aiming to raise $500 million over five years to fund free housing for one million nights annually. The initiative also expands support to families displaced by domestic violence, veterans, and medical travelers. While the gala drew media attention and celebrity presence, many online observers were puzzled by the company’s decision to hold a high‑profile fundraising event.\n",
-      "key_points": [
-        "Airbnb’s nonprofit held its inaugural gala in Los Angeles on October 28.",
-        "The gala launched a program that will donate 10 cents per stay to the nonprofit, targeting $500 million over five years.",
-        "The funds will provide free housing for one million nights each year and support families facing displacement.",
-        "Celebrity attendance and the event’s high‑profile nature sparked confusion among the public."
-      ],
-      "topics": [
-        "airbnb",
-        "nonprofit",
-        "gala",
-        "charity",
-        "housing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 19:17:49 +0000",
-      "processed_at": "2026-11-01T21:50:20.361752+00:00"
     }
   ]
 }
