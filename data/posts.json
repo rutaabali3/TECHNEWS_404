@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-11-07T13:48:27.051222+00:00",
+  "updated_at": "2026-11-07T18:31:12.161882+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-04-ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+      "title": "AI PACs spent millions trying to shape Congress — here's how they fared | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "AI‑focused political action committees poured millions into the 2024 midterm elections, but the results were uneven: heavily backed candidates such as South Carolina Senate hopeful Darline Graham lost despite $4.8 million from American Mission and Building the Future.  Leading the Future’s primary‑focused strategy saw $27.38 million spent on name‑recognition efforts, while Guardrails Alliance spent over $1 million opposing candidates it deemed too close to AI money.  The mixed outcomes mirror the broader Democratic wave, yet both sides—LTF’s push for a national AI framework and Guardrails Alliance’s campaign to make AI funding politically toxic—plan to keep investing in the 2028 cycle.  The race underscores the ongoing debate over whether Congress should adopt a single federal AI policy or allow states to set their own safeguards.",
+      "key_points": [
+        "AI PACs spent $4.8 million on SC Senate candidate Darline Graham, who lost;",
+        "Leading the Future invested $27.38 million in primaries to build name recognition;",
+        "Guardrails Alliance spent >$1 million opposing candidates to make AI money toxic;",
+        "Mixed results reflect the broader Democratic wave in the 2024 midterms"
+      ],
+      "topics": [
+        "ai",
+        "politics",
+        "campaign finance",
+        "regulation",
+        "elections"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "processed_at": "2026-11-07T18:30:45.641097+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-harbinger-raises-240m-after-expanding-into-defense",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800",
+      "title": "Harbinger raises $240M after expanding into defense | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Harbinger, the Los Angeles‑based electric truck startup, closed a $240 million Series D round, bringing its total funding to over $650 million. The round was co‑led by Tiger Global, Capricorn’s technology impact fund, and defense‑focused Ridgeline, with repeat investors FedEx, Maniv, Greycroft, Leitmotif and Fidelity Management. FedEx deepened its partnership by adding senior VP Paul Melander to Harbinger’s board and placing a first large order for 2,000 trucks worth more than $300 million. Founded in 2022 by former Canoo and QuantumScape employees, Harbinger has broadened its product line to include battery storage, hybrid emergency vehicles, a driverless hybrid electric platform for the military, and the acquisition of autonomy startup Phantom AI.",
+      "key_points": [
+        "Harbinger raised $240 million in a Series D, co‑led by Tiger Global, Capricorn, and Ridgeline, after a $160 million Series C the previous year.",
+        "FedEx invested again, joined the board, and placed a $300 million order for 2,000 trucks.",
+        "The company has expanded beyond a single truck chassis to battery storage, hybrid emergency vehicles, a driverless military platform, and the acquisition of Phantom AI.",
+        "Harbinger’s total capital exceeds $650 million and it is reportedly considering an IPO."
+      ],
+      "topics": [
+        "electric vehicles",
+        "defense",
+        "funding",
+        "startup",
+        "autonomous vehicles"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 17:52:44 +0000",
+      "processed_at": "2026-11-07T18:30:45.702385+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+      "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
+      "author": "Aditya Mehta",
+      "summary": "Axiom Math announced that it has formally verified the Stacks Project, a massive open‑source mathematics library, by translating its 7,654 pages into about 16 million lines of Lean code that a proof assistant checks line by line. The verification provides a reliable, logically sound foundation that AI agents can use to write software and conduct scientific research, potentially preventing the “AI slop” that has plagued recent automated math claims. The startup, founded by 25‑year‑old CEO Carina Hong, raised a $200 million Series A led by Menlo Ventures in March 2025 to support this effort. By training its own models to understand mathematical taste, Axiom aims to make verified math a reusable library for both mathematicians and developers, encouraging the broader industry to adopt formal verification at scale.",
+      "key_points": [
+        "Axiom Math has formally verified the Stacks Project, producing 16 million lines of Lean code that passes proof‑assistant checks.",
+        "The verified library serves as a reliable foundation for AI agents to write software and conduct scientific work, reducing the risk of AI-generated errors.",
+        "The company secured a $200 million Series A round led by Menlo Ventures to fund its formal‑verification platform.",
+        "CEO Carina Hong stresses the importance of a reusable, verified mathematical base to prevent AI slop and invites other firms to scale formalization efforts."
+      ],
+      "topics": [
+        "formal verification",
+        "ai",
+        "math",
+        "startup",
+        "lean"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 16:16:45 +0000",
+      "processed_at": "2026-11-07T18:30:45.623216+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-amazon-ditches-grubhub-taps-uber-eats-for-prime",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/amazon-uber.jpg?resize=1200,675",
+      "title": "Amazon ditches Grubhub, taps Uber Eats for Prime | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Amazon has replaced its restaurant delivery partnership with Grubhub with Uber Eats for Prime members in the United States, ending a multi‑year agreement that began in 2022. Prime customers can now order food through Amazon.com or the Shopping app without creating an Uber account and receive free delivery on orders over $25, with a $20 discount on the first two qualifying orders. The switch follows Amazon’s evaluation of third‑party offers and its desire to provide a better delivery experience, while existing Grubhub+ members retain access until December 31 2027. The move deepens Amazon’s broader collaboration with Uber, which already spans cloud services, autonomous vehicles, and Alexa integration.",
+      "key_points": [
+        "Amazon ends its 2022‑started partnership with Grubhub and replaces it with Uber Eats for Prime members.",
+        "Prime members can order through Amazon without an Uber account and get free delivery on orders over $25, plus a $20 discount on the first two orders.",
+        "Grubhub+ subscribers keep their membership through Dec 31 2027, but new orders via Amazon will no longer use Grubhub.",
+        "The change expands Amazon’s existing ties to Uber, covering cloud, autonomous vehicles, and Alexa integration."
+      ],
+      "topics": [
+        "amazon",
+        "uber",
+        "delivery",
+        "prime",
+        "partnership"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 11:00:00 +0000",
+      "processed_at": "2026-11-07T18:31:07.128556+00:00"
+    },
     {
       "id": "hcrunch-com-2026-11-04-you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
@@ -2374,105 +2474,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 19:17:49 +0000",
       "processed_at": "2026-11-01T21:50:20.361752+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "North Korean hackers are blamed for the largest recorded cryptocurrency theft, stealing at least $6.3 billion from Binance in a 20‑minute breach that began with a compromised engineer’s laptop. Binance has frozen roughly half the stolen assets and is working with law‑enforcement, blockchain intelligence firms, and industry partners to trace and recover the funds, while suspending deposits and withdrawals. Security researchers say the attackers, known as TraderTraitor, used a service container to submit unauthorized withdrawal transactions without compromising Binance’s private keys. The incident underscores the vulnerability of crypto exchanges to insider‑device attacks and highlights the ongoing threat posed by state‑backed hacking groups.",
-      "key_points": [
-        "North Korean state‑backed hackers stole at least $6.3 billion from Binance in a 20‑minute breach that began with a compromised engineer’s laptop.",
-        "Binance has frozen about half the stolen crypto and is collaborating with law‑enforcement and blockchain firms to recover assets while suspending deposits and withdrawals.",
-        "Security researchers confirmed the attackers, known as TraderTraitor, did not access Binance’s private keys but used a service container to submit unauthorized withdrawal transactions."
-      ],
-      "topics": [
-        "cryptocurrency",
-        "cybersecurity",
-        "binance",
-        "north korea",
-        "hack"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 14:00:25 +0000",
-      "processed_at": "2026-11-01T21:50:20.402388+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800",
-      "title": "5 days left: Your last chance to save at Founder Summit 2026 | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch Founder Summit 2026 will kick off on November 4 at Boston’s SoWa Power Station, offering founders a hands‑on bootcamp focused on turning ideas into growth. The event features two breakout stages—Build, covering distribution, fundraising, AI opportunities, and pitching, and Impact, addressing product‑market fit, scaling, and enterprise relationships—alongside interactive roundtables that let participants tackle specific challenges such as AI hallucinations and landing enterprise customers. Attendees can save up to $100 on a pass and receive a second ticket for free under a buy‑one‑get‑one‑free promotion. The summit aims to provide actionable insights, networking, and a clearer path forward for founders before the door‑price hike on the day of the event.",
-      "key_points": [
-        "Founder Summit 2026 starts November 4 at SoWa Power Station in Boston and offers a buy‑one‑get‑one‑free ticket deal with up to $100 savings",
-        "The program includes two breakout stages—Build (distribution, fundraising, AI, pitching) and Impact (product‑market fit, scaling, enterprise relationships)",
-        "Interactive roundtables let founders address specific challenges like AI hallucinations, enterprise customer acquisition, and category creation",
-        "The event emphasizes hands‑on learning, networking, and actionable advice to help founders grow their companies"
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "founder summit",
-        "fidelity",
-        "bogo"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-11-01T21:50:20.457645+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Mistral has released the weights for its trillion‑parameter open‑source model, Mistral Large 4 (ML4), enabling businesses and governments to download and run the system on‑prem. The model, dubbed \"Le Chonk,\" claims state‑of‑the‑art performance in cybersecurity tasks while using 47% fewer tokens per task than the Chinese competitor GLM‑5.3, making it more economical. By providing open weights, Mistral argues that organizations can own and control advanced AI defense tools without relying on closed‑model providers. The release underscores a broader shift toward open‑weight AI as a means of empowering sovereign cyber defense capabilities.",
-      "key_points": [
-        "Mistral has made the weights for its trillion‑parameter model ML4 publicly available on Hugging Face and via API.",
-        "ML4 outperforms the open‑weight competitor GLM‑5.3 in cybersecurity tasks while using 47% fewer tokens, reducing compute costs.",
-        "Open‑weight release allows enterprises and governments to deploy the model on‑prem, ensuring data sovereignty and continuous access.",
-        "Mistral positions the model as a tool for empowerment, emphasizing open‑source benefits over closed‑model dominance."
-      ],
-      "topics": [
-        "ai",
-        "cybersecurity",
-        "open-source",
-        "machine learning",
-        "openweight"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-11-01T17:52:28.607455+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Crosby, a two‑year‑old AI‑first law firm, has made a bid to acquire key assets of the dissolving Wall Street boutique Weil, Gotshal & Manges, including its trademark, brand and internal data, while also courting some of its 1,200 lawyers. The prestigious firm is winding down after its heir apparent declined the leadership role, top lawyers departed, and a planned merger with Willkie Farr & Gallagher fell through. Crosby’s founders argue that their AI‑powered platform can deliver legal services at unprecedented speed, positioning the startup as a potential successor to Weil’s legacy. With roughly $85 million raised—including a $60 million Series B led by Lux and Index—Crosby’s move could signal a broader shift toward AI‑driven legal practices.\n",
-      "key_points": [
-        "Crosby is bidding to acquire Weil Gotshal’s assets and lawyers",
-        "Weil Gotshal is dissolving after leadership and merger setbacks",
-        "Crosby’s AI‑powered model aims to transform legal service delivery",
-        "Crosby has raised $85 million, including a $60 million Series B"
-      ],
-      "topics": [
-        "law",
-        "ai",
-        "legaltech",
-        "corporate",
-        "mergers"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 19:55:13 +0000",
-      "processed_at": "2026-11-01T17:52:28.513797+00:00"
     }
   ]
 }

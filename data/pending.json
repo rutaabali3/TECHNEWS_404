@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-11-07T13:48:03.250025+00:00",
+  "updated_at": "2026-11-07T18:30:44.245705+00:00",
   "items": [
-    {
-      "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "feed_excerpt": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "published": "Wed, 04 Nov 2026 22:45:09 +0000"
-    },
     {
       "title": "OpenAI is already trying to shape the 2028 election",
       "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
@@ -18,12 +12,6 @@
       "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
       "feed_excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
       "published": "Wed, 04 Nov 2026 17:11:15 +0000"
-    },
-    {
-      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-      "feed_excerpt": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
-      "published": "Thu, 05 Nov 2026 11:00:00 +0000"
     },
     {
       "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
@@ -38,22 +26,10 @@
       "published": "Thu, 05 Nov 2026 18:00:00 +0000"
     },
     {
-      "title": "Harbinger raises $240M after expanding into defense",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "feed_excerpt": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "published": "Thu, 05 Nov 2026 17:52:44 +0000"
-    },
-    {
       "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
       "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
       "feed_excerpt": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
       "published": "Thu, 05 Nov 2026 17:11:48 +0000"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "feed_excerpt": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "published": "Thu, 05 Nov 2026 16:16:45 +0000"
     },
     {
       "title": "Bluesky hit peak usage for the year on election night",
@@ -264,7 +240,19 @@
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "feed_excerpt": "The deal highlights the challenges of developing massive AI data centers.",
       "published": "Sat, 07 Nov 2026 01:40:28 +0000"
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "feed_excerpt": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "published": "Sat, 07 Nov 2026 17:24:07 +0000"
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "feed_excerpt": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "published": "Sat, 07 Nov 2026 17:18:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-07T13:48:26.162127+00:00"
+  "last_processed_at": "2026-11-07T18:31:07.128619+00:00"
 }
