@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-11-07T00:43:38.533897+00:00",
+  "updated_at": "2026-11-07T06:54:11.233378+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-video-open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "title": "Open source AI is booming. Hugging Face explains who profits. | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "Open‑source AI models are moving from niche to mainstream, with enterprises, governments and startups citing lower costs, greater control and flexibility as key drivers. Yet as these models become more powerful and freely available, companies face the challenge of capturing value and navigating trade‑offs in tooling, infrastructure and policy. In a recent Equity podcast, Hugging Face’s Irene Solaiman explained how startups can choose the right open‑source tools and strategies to stay competitive, especially amid growing Chinese open‑model offerings. The discussion highlights the growing importance of open‑source AI ecosystems and the need for clear value‑capture frameworks.",
+      "key_points": [
+        "Open‑source AI models are increasingly mainstream, offering lower costs and greater control.",
+        "Companies must navigate tool selection, infrastructure, and policy trade‑offs to capture value from open models.",
+        "Chinese open‑model offerings are gaining traction, challenging U.S. players.",
+        "Hugging Face’s Irene Solaiman outlines strategies for startups building on open models."
+      ],
+      "topics": [
+        "open source ai",
+        "hugging face",
+        "enterprise ai",
+        "ai policy",
+        "chinese ai"
+      ],
+      "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "processed_at": "2026-11-07T06:53:46.059912+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google's AI policy | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "DuckDuckGo is positioning itself as a privacy‑focused alternative for schools after Google announced that it would disable Gemini and other AI features by default in K‑12 environments, a move that sparked backlash from educators who want more control over AI in classrooms. The search engine’s CEO and public affairs officer publicly criticized Google’s decision, urging schools to switch to DuckDuckGo’s default search engine and highlighting the company’s ability to turn off AI features entirely. DuckDuckGo’s own AI offerings, such as Duck.ai, can be disabled, and the company reported a 30% rise in app installs earlier this year as users rejected forced AI from Google Search. By providing clear documentation and support for switching, DuckDuckGo aims to capture a share of the 50 million Chromebooks in schools and the 150 million users of Google Classroom worldwide.",
+      "key_points": [
+        "Google will disable Gemini and other AI features by default in K‑12 schools, prompting DuckDuckGo to pitch itself as a privacy‑focused alternative",
+        "DuckDuckGo’s leadership publicly criticized Google’s AI enforcement and offered schools a way to switch the default search engine",
+        "DuckDuckGo’s AI features can be turned off, and the company saw a 30% increase in app installs after users rejected forced AI from Google Search",
+        "DuckDuckGo provides documentation and support for schools to change their default search engine to its service"
+      ],
+      "topics": [
+        "education",
+        "privacy",
+        "ai",
+        "search",
+        "google"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "processed_at": "2026-11-07T06:53:45.902303+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
+      "title": "Waymo confirms it's shaking up its Uber relationship in January 2028 | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Waymo announced it will end its exclusivity agreement with Uber in the Austin and Atlanta markets beginning January 2028, opting to offer robotaxi rides directly through its own smartphone app. Uber confirmed it will continue to host Waymo robotaxis on its platform for as long as the two companies agree. The move follows rider feedback that the partnership made it unclear whether a booking would be a human‑driven or autonomous vehicle, prompting Waymo to seek a more predictable booking experience. Waymo’s co‑CEO Tekedra Mawakana said the decision was driven by the need for a stronger relationship with riders and the desire to provide a consistent service.\n",
+      "key_points": [
+        "Waymo ends exclusivity with Uber in Austin and Atlanta effective January 2028",
+        "Waymo will launch its own app for robotaxi rides in those markets",
+        "Uber will continue to host Waymo robotaxis on its app until the agreement ends",
+        "Rider experience inconsistencies prompted Waymo to pursue direct booking options"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "waymo",
+        "uber",
+        "robotaxi",
+        "partnership"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 18:12:30 +0000",
+      "processed_at": "2026-11-07T06:53:55.967387+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "title": "I tried Apple's Siri Recaps. They're surprisingly useful — and a little unsettling | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple’s latest iOS 27.3 and watchOS 27.3 developer betas introduce four new audio‑intelligence features, including sound and song detection, Live Rewind, and Siri Recaps. The author tested Siri Recaps on an Apple Watch and found it can automatically capture and summarize spoken details from everyday conversations, which can be handy for remembering fast‑paced information such as repair estimates or family errands. However, the feature also records non‑essential chatter and mixes unrelated topics into a single note, raising privacy concerns about the device always listening. The article ends with suggestions for Apple to allow separate note sections, easier bullet‑point deletion, and automatic export to the Notes app.",
+      "key_points": [
+        "Apple introduced Siri Recaps and Live Rewind in the iOS 27.3/watchOS 27.3 beta",
+        "Siri Recaps automatically records and summarizes conversations, useful for capturing fast‑paced details",
+        "The feature can capture extraneous information and mix unrelated topics, raising privacy concerns",
+        "The author suggests separate note sections, easier deletion, and auto‑export to Notes"
+      ],
+      "topics": [
+        "apple",
+        "siri",
+        "audio intelligence",
+        "privacy",
+        "note-taking"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 16:51:35 +0000",
+      "processed_at": "2026-11-07T06:53:46.025490+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-01-techcrunch-mobility-a-new-bigger-av-boom-is-here",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1200,1058",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "TechCrunch Mobility reports a new, larger autonomous‑vehicle wave in 2026, driven by AI foundation models that lower entry barriers and enable rapid startup deployment. Trucks VC has received pitches from 81 AV companies—two‑thirds more than 2025—many targeting robotaxi services that could compete with Waymo in niche markets. The article also highlights significant funding moves, including Re:Build’s $2.1 billion raise, Bedrock Robotics’ $600 million Series C that values it at $4.1 billion, and DoorDash’s $17 billion acquisition of Instacart. These developments underscore a broader shift toward AI‑powered mobility and the growing commercial interest in autonomous technology.",
+      "key_points": [
+        "2026 sees a second AV wave fueled by AI foundation models",
+        "Trucks VC received 81 pitches, two‑thirds more than 2025",
+        "Re:Build raised $2.1 billion to scale hard‑tech manufacturing",
+        "Bedrock Robotics valued at $4.1 billion after $600 million Series C"
+      ],
+      "topics": [
+        "autonomous vehicles",
+        "ai",
+        "startup funding",
+        "robotaxi",
+        "mobility"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 01 Nov 2026 17:04:00 +0000",
+      "processed_at": "2026-11-07T06:53:45.912066+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-04-snapchat-surpasses-30m-paid-subscribers",
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
@@ -2348,131 +2473,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 21:51:29 +0000",
       "processed_at": "2026-11-01T05:08:51.948834+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "Waymo has announced a partnership with Toyota to supply autonomous bZ4X electric vehicles for robotaxi operations in Japan and the UK. Toyota will build the 2027 bZ4X models at its Takaoka plant and integrate Waymo’s self‑driving system, with initial testing slated for Japan next year and plans to roll out the service in other right‑hand‑drive markets such as London. The deal follows an 18‑month exploratory agreement and positions Waymo to expand its robotaxi fleet while opening the door to future collaboration on personal Toyota vehicles and road‑safety initiatives.",
-      "key_points": [
-        "Waymo will test autonomous Toyota bZ4X vehicles in Japan next year",
-        "Toyota will manufacture 2027 bZ4X models with Waymo’s system at its Takaoka factory",
-        "The partnership aims to expand robotaxi services to the UK and other right‑hand‑drive markets",
-        "Future collaboration could bring Waymo technology into personal Toyota vehicles and improve road safety"
-      ],
-      "topics": [
-        "autonomous vehicles",
-        "robotaxi",
-        "partnership",
-        "toyota",
-        "waymo"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 07:01:00 +0000",
-      "processed_at": "2026-11-01T05:08:52.390838+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-      "title": "You don't need to believe in a god to get a religious exemption from using AI at work | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "David Durman, a nontheistic humanist and University of Kentucky administrator, became the first humanist to secure a religious exemption from using artificial intelligence at work, citing concerns that AI undermines critical thinking and human well‑being. The American Humanist Association helped him obtain legal protection, and the university approved the accommodation while allowing him to continue performing his essential duties. Durman’s case follows a similar exemption granted to Unitarian Universalist engineer Erin Maus and signals that secular workers can now pursue comparable protections. The move highlights growing anxiety over AI’s impact on human dignity and the need for workplace policies that respect diverse philosophical convictions.",
-      "key_points": [
-        "David Durman, a humanist, secured a religious exemption from AI use at work.",
-        "The American Humanist Association facilitated the legal protection and the university approved the accommodation.",
-        "Durman’s case follows a similar exemption granted to Unitarian Universalist engineer Erin Maus.",
-        "The precedent allows secular workers to seek comparable workplace accommodations."
-      ],
-      "topics": [
-        "ai",
-        "religiousexemption",
-        "humanism",
-        "workplaceaccommodation",
-        "technologyethics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 01:20:48 +0000",
-      "processed_at": "2026-11-01T05:08:51.708841+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-28-ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
-      "title": "AI execs may be too out of touch to build for the general public | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Marissa Mayer’s new AI assistant Dazzle drew criticism for suggesting it could describe her daughter and help plan her birthday, prompting accusations that Silicon Valley leaders are out of touch with everyday people. The backlash echoes similar reactions to OpenAI CEO Sam Altman’s remarks about using ChatGPT to raise children and Meta CEO Mark Zuckerberg’s vision of AI‑driven social connections. A Pew Research Center study shows that half of U.S. adults fear AI will erode meaningful relationships, while only a small minority believe it will help. The article argues that tech executives’ focus on efficiency and automation risks turning human relationships into commodified products, leaving society to outsource emotional needs to machines.",
-      "key_points": [
-        "Marissa Mayer’s Dazzle sparked backlash for its child‑related use cases, highlighting a disconnect between AI leaders and the public.",
-        "OpenAI and Meta CEOs have made public statements that AI could replace or augment parenting and social interactions, fueling public concern.",
-        "A Pew study finds 50% of U.S. adults worry AI will reduce meaningful relationships, with only 5% seeing benefits.",
-        "The piece warns that prioritizing efficiency over human connection may commodify relationships and deepen societal isolation."
-      ],
-      "topics": [
-        "ai",
-        "technology",
-        "culture",
-        "social media",
-        "public opinion"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Wed, 28 Oct 2026 15:53:52 +0000",
-      "processed_at": "2026-10-31T23:33:51.250349+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-27-googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Google DeepMind unveiled its latest world model, Genie 4, in a research preview, offering photorealistic interactive environments that can be edited on the fly and generate matching real‑time audio, including music, ambient sounds, and dialogue. The model doubles the scene‑duration of its predecessor, supports free‑form changes such as weather or camera angle, and is tightly coupled with Gemini, which plans steps and checks frames while Genie renders the visuals. Potential applications span gaming, interactive learning, robotics, and even film prototyping, though the team notes gaps in detail consistency and audio accuracy. Genie 4 is currently available to trusted testers, with broader rollout planned for Google AI Ultra subscribers and Gemini API partners.",
-      "key_points": [
-        "Genie 4 adds photorealistic worlds, real‑time audio, and free‑form edits to its predecessor",
-        "It is integrated with Gemini, enabling step planning and real‑time simulation",
-        "Use cases include gaming, interactive learning, robotics, and film prototyping",
-        "The model still has gaps in detail drift and audio accuracy"
-      ],
-      "topics": [
-        "ai",
-        "deepmind",
-        "worldmodel",
-        "gemini",
-        "simulation"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 27 Oct 2026 16:30:57 +0000",
-      "processed_at": "2026-10-31T23:33:51.223672+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-gm-reaches-220m-settlement-over-selling-drivers-private-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1200,800",
-      "title": "GM reaches $220M settlement over selling drivers' private data | TechCrunch",
-      "author": "Kirsten Korosec",
-      "summary": "General Motors has agreed to pay $220 million to 36 states to settle allegations that it illegally sold drivers’ private location and behavior data to data brokers, a practice that was exposed by a New York Times investigation. The settlement requires GM to obtain express consent before collecting or sharing driving data and to have a third‑party audit its privacy program, aligning with prior agreements with California and the FTC. Although GM discontinued its Smart Driver program in 2024, the company remains under scrutiny for how it handles connected‑vehicle data and has pledged to stop selling personally identifiable information while still allowing anonymized data sharing with partners. The deal underscores the growing regulatory focus on privacy as automakers increasingly rely on sensor‑rich, software‑centric vehicles and new AI‑powered services like OnStar’s personal assistant.",
-      "key_points": [
-        "GM will pay $220 million to settle claims that it sold private driving data to data brokers.",
-        "The settlement mandates express consent for data collection and a third‑party audit of GM’s privacy program.",
-        "GM discontinued its Smart Driver program but remains bound by FTC and state orders that restrict data sharing.",
-        "GM is positioning its new AI assistant and future connected‑vehicle features around enhanced privacy controls and transparency."
-      ],
-      "topics": [
-        "automotive",
-        "privacy",
-        "data-brokers",
-        "settlement",
-        "techpolicy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 21:01:04 +0000",
-      "processed_at": "2026-10-31T23:34:11.527392+00:00"
     }
   ]
 }

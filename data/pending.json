@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-07T00:43:04.324460+00:00",
+  "updated_at": "2026-11-07T06:53:44.342325+00:00",
   "items": [
-    {
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "Sun, 01 Nov 2026 17:04:00 +0000"
-    },
-    {
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "feed_excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-      "published": "Wed, 04 Nov 2026 16:51:35 +0000"
-    },
     {
       "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
       "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
@@ -30,24 +18,6 @@
       "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
       "feed_excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
       "published": "Wed, 04 Nov 2026 21:25:44 +0000"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "feed_excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "published": "Wed, 04 Nov 2026 19:30:04 +0000"
-    },
-    {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "feed_excerpt": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "published": "Wed, 04 Nov 2026 19:29:52 +0000"
-    },
-    {
-      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "feed_excerpt": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "published": "Wed, 04 Nov 2026 18:12:30 +0000"
     },
     {
       "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
@@ -312,7 +282,25 @@
       "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
       "feed_excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "published": "Fri, 06 Nov 2026 21:38:05 +0000"
+    },
+    {
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "feed_excerpt": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "published": "Sat, 07 Nov 2026 05:01:54 +0000"
+    },
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "feed_excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "published": "Sat, 07 Nov 2026 04:16:43 +0000"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "feed_excerpt": "The deal highlights the challenges of developing massive AI data centers.",
+      "published": "Sat, 07 Nov 2026 01:40:28 +0000"
     }
   ],
-  "last_processed_at": "2026-11-07T00:43:20.348356+00:00"
+  "last_processed_at": "2026-11-07T06:53:55.967507+00:00"
 }
