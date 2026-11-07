@@ -1,7 +1,132 @@
 {
-  "updated_at": "2026-11-06T20:44:57.646963+00:00",
+  "updated_at": "2026-11-07T00:43:38.533897+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-04-snapchat-surpasses-30m-paid-subscribers",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+      "title": "Snapchat surpasses 30M paid subscribers | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Snapchat announced it has surpassed 30 million paid subscribers across its Snapchat+, Memories Storage, and Lens+ plans, a jump of five million from the 25 million mark reported in February. The milestone comes after the company introduced higher‑tier options—Lens+ at $8.99/month and Snapchat+ Platinum at $15.99/month—to diversify revenue and capitalize on AI‑powered features. In its third‑quarter 2026 earnings release, Snap reported 495 million daily active users, slightly below analyst expectations, and its shares fell 12% after missing ad‑revenue and user‑growth estimates.",
+      "key_points": [
+        "Snapchat reached 30 million paid subscribers, up from 25 million in February",
+        "New subscription tiers Lens+ and Snapchat+ Platinum broaden revenue streams",
+        "Earnings miss led to a 12% drop in Snap shares",
+        "Daily active users hit 495 million, below the 499 million forecast"
+      ],
+      "topics": [
+        "snapchat",
+        "subscriptions",
+        "ai",
+        "advertising",
+        "earnings"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 21:49:29 +0000",
+      "processed_at": "2026-11-07T00:43:05.870671+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-meta-acquires-ai-coding-startup-conductor",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
+      "title": "Meta acquires AI coding startup Conductor | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta has acquired Conductor, an AI coding startup that lets users spin up software projects by deploying multiple agents into parallel workspaces. Conductor, founded in 2024 and launched its core product last summer, uses agentic teams sourced from major labs such as Anthropic and OpenAI to help engineers work on compartmentalized parts of a project. Meta confirmed the deal but did not disclose terms; Conductor will keep its core features active until early next year while its cloud service will shut down on November 20, after which user cloud data will be deleted. The acquisition underscores Meta’s push to catch up in AI coding tools, following the launch of Muse Code, the adoption of Muse agents, and other AI-related acquisitions like Moltbook.",
+      "key_points": [
+        "Meta acquires Conductor, an AI coding startup that deploys agentic teams into parallel workspaces",
+        "Conductor’s cloud service will shut down on November 20, with core features remaining until early next year",
+        "Meta is expanding its AI coding ecosystem with Muse Code, Muse agents, and recent acquisitions such as Moltbook",
+        "Conductor’s agents are sourced from major labs like Anthropic and OpenAI"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "coding",
+        "acquisition",
+        "software development"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 21:10:56 +0000",
+      "processed_at": "2026-11-07T00:43:06.119248+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=1024",
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "DreamHost confirmed a months‑long cyberattack that compromised customer emails and credentials. The breach, which began in August, exploited an unspecified vulnerability in the company’s file manager, allowing attackers to steal session tokens and log in as users. The incident triggered a multi‑day outage during which DreamHost reset passwords, and the company estimates fewer than 10% of its roughly 400,000 paying customers were affected. DreamHost has filed a data‑breach notice with California’s attorney general and is still investigating why the attack went undetected for weeks.",
+      "key_points": [
+        "DreamHost confirmed a months‑long breach stealing emails and credentials.",
+        "The attack began in August, exploiting a file manager vulnerability and stealing session tokens.",
+        "The breach caused a multi‑day outage and prompted password resets.",
+        "Less than 10% of the 400,000 customers were affected, and the company is investigating detection delays."
+      ],
+      "topics": [
+        "web hosting",
+        "cybersecurity",
+        "data breach",
+        "hackers",
+        "session tokens"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 20:36:57 +0000",
+      "processed_at": "2026-11-07T00:43:06.203454+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629",
+      "title": "Revolut's valuation jumps 53% to $115B in new share sale as it prepares to launch US bank | TechCrunch",
+      "author": "Jagmeet Singh",
+      "summary": "Revolut’s latest secondary share sale has pushed its valuation to $115 billion, a 53% increase over last year’s price, even though the deal did not bring in new capital. The London‑based fintech, founded in 2015 by Nik Storonsky and Vlad Yatsenko, is now preparing to launch a national U.S. bank in the first half of 2027 after receiving conditional approval from the Office of the Comptroller of the Currency. Business banking, which accounts for about 20% of Revolut’s gross profit, is expanding rapidly—processing roughly $48.6 billion in monthly transactions and targeting 1 million business customers by 2027. The company is also weighing a dual listing in New York and London, with an IPO potentially valued at $200 billion not expected before 2028.\n",
+      "key_points": [
+        "Revolut’s valuation rose to $115 billion in a secondary share sale that raised no new money",
+        "The fintech is set to launch a U.S. bank in 2027 after conditional OCC approval",
+        "Business banking now contributes about 20% of gross profit and aims to grow to 1 million customers by 2027",
+        "Revolut is considering a dual NY/London IPO that could value it at $200 billion around 2028"
+      ],
+      "topics": [
+        "fintech",
+        "valuation",
+        "us bank",
+        "ipo",
+        "business banking"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 14:10:10 +0000",
+      "processed_at": "2026-11-07T00:43:20.348262+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-11-03-indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675",
+      "title": "India's EloElo nabs $80M from NBCUniversal to bet on the country's rising microdrama market | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "EloElo, the Indian microdrama platform behind Story TV, has closed an $80 million Series C round led by Hornbill Capital and NBCUniversal, bringing its total funding to $130 million and a $500 million valuation. The deal underscores the rapid growth of India’s microdrama market, where 118 million users stream serialized content each month and Story TV alone boasts 33 million active users. EloElo plans to deploy the capital to expand its AI‑powered content creation tools and original programming while scaling its workforce to 240 employees. The investment signals confidence that India’s mobile‑first entertainment sector could generate $3‑$4 billion in annual revenue by 2030.",
+      "key_points": [
+        "EloElo raised $80 million in Series C from Hornbill Capital and NBCUniversal, raising total funding to $130 million and valuing the company at $500 million",
+        "India’s microdrama market attracts 118 million monthly viewers and Story TV has 33 million active users",
+        "The company will use the new capital to expand its Dolphin AI content‑creation platform and original titles",
+        "EloElo’s workforce is 240 people and it serves over 40 million monthly users across its apps"
+      ],
+      "topics": [
+        "microdrama",
+        "streaming",
+        "ai",
+        "india",
+        "valuation"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 04:45:00 +0000",
+      "processed_at": "2026-11-07T00:43:06.129786+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-04-nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
       "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
@@ -2348,130 +2473,6 @@
       "credit": "Source: TechCrunch",
       "published": "Thu, 29 Oct 2026 21:01:04 +0000",
       "processed_at": "2026-10-31T23:34:11.527392+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-the-r2-suv-is-already-rivians-best-selling-vehicle",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1200,900",
-      "title": "The R2 SUV is already Rivian's best-selling vehicle | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Rivian’s new R2 SUV has become the company’s best‑selling vehicle in Q3, prompting the automaker to lift its annual delivery guidance to a floor of 67,000 units. The company built 19,751 vehicles and delivered 19,248 in the quarter, a 45% year‑over‑year jump that helped it generate $2.2 billion in revenue while posting a $913 million net loss. The R2, priced just under $60,000, is driving demand in a market that has lost the $7,500 federal EV tax credit, and Rivian plans to introduce lower‑priced trims later this year. This surge in sales marks a turning point for Rivian, which has struggled to ship more than 50,000 vehicles annually for three years.",
-      "key_points": [
-        "R2 SUV became Rivian’s best‑selling vehicle in Q3",
-        "Rivian raised its annual delivery guidance to 67,000 units",
-        "Q3 production and deliveries rose 45% year‑over‑year",
-        "R2 is priced under $60,000 and will see lower‑priced trims later this year"
-      ],
-      "topics": [
-        "ev",
-        "rivian",
-        "suv",
-        "sales",
-        "production"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:02:03 +0000",
-      "processed_at": "2026-10-31T23:33:51.102236+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-openai-backed-thrive-holdings-acquires-adt",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Thrive Holdings, a spin‑out of Thrive Capital and backed by OpenAI, has agreed to acquire ADT for $10 per share, valuing the deal at about $7.6 billion in equity and $15.3 billion enterprise value. The acquisition positions Thrive to build a smart‑home security platform, leveraging its AI expertise and OpenAI’s models to develop new physical‑security products. ADT already works with Apple and Google, and the partnership is expected to accelerate the rollout of AI‑powered cameras and other home‑security devices. The deal underscores the growing convergence of AI and physical security as major tech players expand into the smart‑home market.",
-      "key_points": [
-        "Thrive Holdings acquires ADT for $10 per share ($7.6B equity, $15.3B enterprise value).",
-        "OpenAI will supply AI models and engineers to help build new security products for Thrive’s portfolio.",
-        "The move signals a broader trend of AI integration in physical security and smart‑home ecosystems."
-      ],
-      "topics": [
-        "ai",
-        "security",
-        "smart home",
-        "acquisition",
-        "venture capital"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 19:56:19 +0000",
-      "processed_at": "2026-10-31T23:33:51.243567+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Meta quietly launched Style Sketch, an AI fashion app that builds a virtual closet from Instagram photos or manually uploaded images and suggests outfit combinations tailored to a user’s style. The app offers realistic virtual try‑ons matched to body shape and skin tone, and can generate day‑by‑day outfit plans for trips based on weather and itinerary. It is currently available on iOS and Android in Indonesia, Singapore, and Thailand. The release is part of Meta’s broader strategy to ship more AI‑driven apps, following recent launches like Waddle World, Pocket, and Vibes.",
-      "key_points": [
-        "Meta launched Style Sketch, an AI fashion app that creates a virtual closet from Instagram photos or manual uploads.",
-        "The app suggests outfits, offers realistic try‑ons, and can plan trip outfits using weather and itinerary data.",
-        "It is available on iOS and Android in Indonesia, Singapore, and Thailand.",
-        "Style Sketch is part of Meta’s push to release a larger number of AI‑powered apps."
-      ],
-      "topics": [
-        "meta",
-        "ai",
-        "fashion",
-        "app",
-        "instagram"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 19:14:36 +0000",
-      "processed_at": "2026-10-31T23:33:51.283705+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675",
-      "title": "Granola crunches up a dictation feature to compete with Wispr | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Granola, the meeting‑notetaking startup, has launched an unlimited‑word dictation feature that works across all Mac applications by pressing the Fn key, and it will soon be available on iOS and Windows. The new tool cleans and formats spoken language into text, allowing users to dictate notes, prompts, emails, and messages without limits on any plan. This move positions Granola to compete directly with Wispr, which recently added a meeting‑notetaker to its dictation suite, as both companies are valued at roughly $1.5 billion and $2 billion respectively. The launch reflects a broader trend of voice‑AI startups converging from single‑purpose apps into multi‑feature platforms that capture and process speech for productivity.\n",
-      "key_points": [
-        "Granola adds unlimited‑word dictation to its meeting‑notetaking suite on Mac.",
-        "Feature is available to all plans with no usage limits.",
-        "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively.",
-        "Voice‑AI apps are moving beyond single‑purpose tools toward comprehensive speech‑capture solutions."
-      ],
-      "topics": [
-        "voice ai",
-        "dictation",
-        "meeting notetaking",
-        "startup",
-        "productivity"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 17:54:38 +0000",
-      "processed_at": "2026-10-31T23:34:01.516460+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Wabi, the AI personal agent founded by former Replika CEO Eugenia Kuyda, closed a $55 million funding round that values the company at $1.25 billion after pivoting from a prompt‑based app builder to a messenger‑style AI that can create mini‑apps for everyday tasks. The round was led by IVP with participation from Andreessen Horowitz, Forerunner, Amazon Alexa Fund, and high‑profile angels including Tobi Lütke, Marc Benioff, Marissa Mayer, Dick Costolo, and Alex Pall. Investors see Wabi’s agentic approach as a timely bet in a market that has seen other AI agents, such as Instinct, raise $1 billion at a $10 billion valuation. The move underscores the growing interest in AI tools that move beyond text boxes to act as personal assistants capable of building functional interfaces on demand.",
-      "key_points": [
-        "Wabi raised $55 million, valuing it at $1.25 billion after pivoting to an AI messenger that builds mini‑apps",
-        "The round was led by IVP and included Andreessen Horowitz, Amazon Alexa Fund, and notable angels like Tobi Lütke and Marc Benioff",
-        "Investors view Wabi’s agentic model as a strong bet amid a surge of AI‑assistant startups such as Instinct",
-        "Founder Eugenia Kuyda brings experience from Replika, positioning Wabi to expand beyond simple prompt‑based apps"
-      ],
-      "topics": [
-        "ai",
-        "startup",
-        "funding",
-        "ai agents",
-        "mini apps"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 14:35:26 +0000",
-      "processed_at": "2026-10-31T23:33:51.202842+00:00"
     }
   ]
 }

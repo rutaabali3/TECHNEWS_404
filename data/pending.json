@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:44:35.835530+00:00",
+  "updated_at": "2026-11-07T00:43:04.324460+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -8,22 +8,10 @@
       "published": "Sun, 01 Nov 2026 17:04:00 +0000"
     },
     {
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "feed_excerpt": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-      "published": "Wed, 04 Nov 2026 04:45:00 +0000"
-    },
-    {
       "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
       "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
       "feed_excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
       "published": "Wed, 04 Nov 2026 16:51:35 +0000"
-    },
-    {
-      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-      "feed_excerpt": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-      "published": "Wed, 04 Nov 2026 14:10:10 +0000"
     },
     {
       "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
@@ -38,28 +26,10 @@
       "published": "Wed, 04 Nov 2026 22:45:09 +0000"
     },
     {
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "feed_excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
-      "published": "Wed, 04 Nov 2026 21:49:29 +0000"
-    },
-    {
       "title": "OpenAI is already trying to shape the 2028 election",
       "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
       "feed_excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
       "published": "Wed, 04 Nov 2026 21:25:44 +0000"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "feed_excerpt": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "published": "Wed, 04 Nov 2026 21:10:56 +0000"
-    },
-    {
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "feed_excerpt": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "published": "Wed, 04 Nov 2026 20:36:57 +0000"
     },
     {
       "title": "Open source AI is booming. Hugging Face explains who profits.",
@@ -330,7 +300,19 @@
       "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
       "feed_excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
       "published": "Fri, 06 Nov 2026 14:10:00 +0000"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "feed_excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000"
+    },
+    {
+      "title": "The Duo apps are coming, says Apple",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "feed_excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "published": "Fri, 06 Nov 2026 21:38:05 +0000"
     }
   ],
-  "last_processed_at": "2026-11-06T20:44:53.668068+00:00"
+  "last_processed_at": "2026-11-07T00:43:20.348356+00:00"
 }
