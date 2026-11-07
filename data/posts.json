@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-11-07T06:54:11.233378+00:00",
+  "updated_at": "2026-11-07T13:48:27.051222+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "hcrunch-com-2026-11-04-you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "title": "'You Can See Everything' is getting an outer space release and it hasn't even come out in Europe yet | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "A24, the studio behind the Elizabeth Holmes documentary \"You Can See Everything,\" has granted NASA a request to screen the film on the International Space Station, making it available to astronauts before it even hits European theaters. The film, which debuted in North America with a limited theatrical rollout, has topped the box‑office charts and is generating demand worldwide. Sony Pictures has secured theatrical rights for Germany, Latin America, South Korea, and other territories, while the UK release is slated for November 20 and France for December 30. This unique outer‑space premiere underscores the film’s global buzz and the growing interest in the Holmes saga.",
+      "key_points": [
+        "A24 approved a NASA request to screen \"You Can See Everything\" on the ISS before its European release",
+        "The film has topped the box office and is generating worldwide demand",
+        "Sony Pictures holds theatrical rights for Germany, Latin America, South Korea, and other territories",
+        "UK and French releases are scheduled for November 20 and December 30, respectively"
+      ],
+      "topics": [
+        "film",
+        "nasa",
+        "a24",
+        "theranos",
+        "boxoffice"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 18:10:11 +0000",
+      "processed_at": "2026-11-07T13:48:10.014189+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-techcrunch-founder-summit-2026-todays-the-day",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "title": "Founder Summit 2026: Doors open at 9 a.m. ET in Boston | TechCrunch",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch’s Founder Summit 2026 opened its doors at 9 a.m. ET in Boston’s SoWa Power Station, marking the end of discounted pricing and the start of full‑rate tickets. The full day features keynote panels, interactive roundtables, and breakout sessions covering fundraising, product‑market fit, AI innovation, and enterprise growth, with speakers such as Steve Fredette of Toast and Amulya Vishwanath of Techable Ventures. Attendees can network through the Expo Hall and a Braindate‑powered lounge, scheduling one‑on‑one meetings with founders, investors, and operators. Early registrants still have a chance to save up to $100 on a pass and receive a second pass for free before the BOGO offer expires.",
+      "key_points": [
+        "Doors opened at 9 a.m. ET, ending discounted pricing for the Founder Summit 2026 in Boston",
+        "Early registration offers up to $100 savings and a buy‑one‑get‑one‑free pass",
+        "The event includes keynote panels, breakout sessions, and roundtables on fundraising, AI, and product‑market fit",
+        "Networking is facilitated via the Expo Hall and a Braindate‑powered lounge"
+      ],
+      "topics": [
+        "founder summit",
+        "startup events",
+        "networking",
+        "fundraising",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "processed_at": "2026-11-07T13:48:26.162047+00:00"
+    },
+    {
+      "id": "h-com-2026-11-05-u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?resize=1200,800",
+      "title": "US government warns of 'ongoing cyber threat' amid mass hacks of industrial retail and military freezers | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "The U.S. government has issued a joint warning that an \"ongoing cyber threat\" is targeting industrial refrigeration units in grocery stores, cold storage facilities, military bases, and even a blood bank.  Recent attacks across the United Kingdom, Europe, and the United States have forced freezers to raise temperatures, risking food spoilage, fire hazards, and inventory loss.  While no group has been officially named, security researchers and U.S. officials point to Iran as the likely culprit.  Federal agencies urge affected operators to disconnect remote‑control systems from the internet, strengthen passwords, apply patches, and retire unsupported equipment to mitigate the risk.",
+      "key_points": [
+        "U.S. agencies warn of an ongoing cyber threat to industrial refrigeration units worldwide",
+        "Attacks have caused temperature changes that can lead to food spoilage, fire hazards, and inventory loss",
+        "Security researchers attribute the attacks to Iran, affecting grocery stores, military bases, and a blood bank",
+        "Affected operators are advised to disconnect remote control, patch systems, strengthen passwords, and retire unsupported equipment"
+      ],
+      "topics": [
+        "cybersecurity",
+        "industrial refrigeration",
+        "critical infrastructure",
+        "cyberattacks",
+        "government warning"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 18:48:34 +0000",
+      "processed_at": "2026-11-07T13:48:04.570414+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027 | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "OpenAI president Greg Brockman announced that the company could be ready for an IPO in 2027, citing strong enterprise revenue growth and a shift from a consumer‑focused model to a business‑centric strategy. He highlighted a 70% quarterly growth in annualized revenue during Q3 2026, driven largely by the enterprise segment now accounting for roughly 70% of total revenue. Brockman noted key wins such as a partnership with JPMorgan Chase and emphasized the company’s confidence in its long‑term business model. The announcement underscores OpenAI’s ambition to go public when market conditions and internal readiness align.",
+      "key_points": [
+        "OpenAI aims for an IPO in 2027",
+        "Enterprise revenue grew 70% in Q3 2026 and now makes up about 70% of total revenue",
+        "The company has pivoted from a consumer focus to winning large enterprise clients like JPMorgan Chase",
+        "Brockman expressed strong confidence in OpenAI’s business trajectory and readiness for public markets"
+      ],
+      "topics": [
+        "openai",
+        "ipo",
+        "enterprise",
+        "ai",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+      "processed_at": "2026-11-07T13:48:04.603199+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Apple has announced a reduction in the daily AI spending limits for its engineering teams, cutting the cap from $300 to $200 and potentially down to $100 for some groups, while non‑engineering departments may face limits as low as $25. The move follows a broader industry trend of token rationing after a wave of tokenmaxxing that drove up costs. Apple’s decision signals a shift toward tighter fiscal discipline as the company weighs the real productivity gains of AI against its expense. The change underscores growing uncertainty about the cost‑benefit balance of AI adoption in large tech firms.",
+      "key_points": [
+        "Apple cuts daily AI spending caps for engineering teams from $300 to $200, with some groups potentially limited to $100.",
+        "Non‑engineering departments may face limits as low as $25 per day.",
+        "The move reflects a broader industry shift toward token rationing after high‑cost tokenmaxxing.",
+        "Apple’s decision highlights uncertainty about AI’s productivity gains versus its costs."
+      ],
+      "topics": [
+        "apple",
+        "ai",
+        "budget",
+        "tokenmaxxing",
+        "technology"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "processed_at": "2026-11-07T13:48:05.334743+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-04-after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
+      "title": "After the midterms, a bigger clash over data centers could be coming | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "The November 3 midterm election gave Democrats full control of Congress, setting the stage for a potential clash over data centers that power AI. Voters in several states, especially Ohio and Texas, pushed back against large AI buildouts, with local bans and opposition to projects like OpenAI’s $500 billion center and Meta’s 700,000‑sq‑ft facility. Democratic lawmakers now face the possibility of nationwide moratoriums or stricter guardrails, including bills introduced by Sanders and Ocasio‑Cortez and the GRID Savings Act, to curb environmental impacts and protect community interests. The backlash reflects broader concerns that AI infrastructure may enrich a few while burdening local residents with power costs and environmental harm.",
+      "key_points": [
+        "Democratic control of Congress could enable nationwide data‑center moratoriums and stricter regulations",
+        "Voter opposition in states such as Ohio and Texas has led to local bans and heightened scrutiny of AI buildouts",
+        "Legislative proposals like the Sanders/Ocasio‑Cortez bill and the GRID Savings Act aim to curb environmental and community costs",
+        "The debate underscores fears that AI infrastructure may disproportionately benefit corporations while harming local communities"
+      ],
+      "topics": [
+        "politics",
+        "data centers",
+        "ai",
+        "legislation",
+        "environment"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "processed_at": "2026-11-07T13:48:04.684167+00:00"
+    },
     {
       "id": "https-techcrunch-com-video-open-source-ai-is-booming-hugging-face-explains-who-profits",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
@@ -2323,156 +2473,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 30 Oct 2026 19:55:13 +0000",
       "processed_at": "2026-11-01T17:52:28.513797+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-      "title": "DoorDash said it's only received 'several hundred' orders from AI agents | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "DoorDash disclosed during its third‑quarter earnings call that it has only received several hundred orders from third‑party AI agents such as Muse, Instinct, and Fo, a tiny fraction of its average 3 million daily deliveries. CEO Tony Xu described the agent‑ordering space as still dynamic but not yet dominant, noting that most customers continue to order through the DoorDash app. The company is also developing its own agents—including a text‑to‑order bot, a CLI agent, and a chatbot called Ask DoorDash—to better understand and potentially partner with external agent makers. DoorDash sees future opportunities for advertising within these agents as the broader agent‑based ordering ecosystem evolves.",
-      "key_points": [
-        "DoorDash has only received several hundred AI‑agent orders in Q3, compared to 3 million daily deliveries",
-        "CEO Tony Xu says agent ordering is a dynamic but minor part of the business",
-        "DoorDash is building its own agents and exploring partnerships and advertising with third‑party agents",
-        "The agent‑based ordering market is still developing, with mixed adoption by retailers like Amazon and Walmart"
-      ],
-      "topics": [
-        "delivery",
-        "ai",
-        "commerce",
-        "doorDash",
-        "agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "processed_at": "2026-11-01T17:52:52.555940+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Binance has temporarily suspended withdrawals on multiple networks after a suspected security breach that may have drained up to $5.7 billion from its hot wallets, according to the exchange’s statement. Founder Changpeng Zhao confirmed the hack on X and said user funds would be fully covered, while Circle and Tether froze $800 million and $1.56 billion respectively to protect assets. The incident, which could rank among the largest crypto thefts in history, follows Bybit’s record $1.4 billion breach in 2025. Binance’s security team is actively investigating the incident and urges users to remain cautious of scams.",
-      "key_points": [
-        "Binance suspended withdrawals after a suspected hack that may have drained up to $5.7 billion from hot wallets",
-        "Circle and Tether froze $800 million and $1.56 billion respectively to protect user funds",
-        "Founder Changpeng Zhao confirmed the hack and said user funds would be fully covered",
-        "The breach could rank among the largest crypto thefts, following Bybit’s $1.4 billion incident in 2025"
-      ],
-      "topics": [
-        "binance",
-        "crypto",
-        "hack",
-        "exchange",
-        "security"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 22:27:23 +0000",
-      "processed_at": "2026-11-01T11:58:14.240977+00:00"
-    },
-    {
-      "id": "techcrunch-com-2026-10-30-skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800",
-      "title": "Make game-changing connections at Founder Summit with Braindate | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit 2026, scheduled for November 4 at Boston’s SoWa Power Station, will use Braindate’s platform to help founders, investors, and operators schedule one‑on‑one and small‑group conversations around specific topics such as scaling, fundraising, and product‑market fit. The event offers a buy‑one‑get‑one‑free ticket promotion, allowing attendees to bring a guest at no extra cost. Sessions will feature industry leaders like Kent Bennett, Dave Balter, and Toast co‑founder Steve Fredette, while breakout roundtables and live pitch tests provide additional networking and learning opportunities. The summit’s smaller, hands‑on format aims to turn accidental networking into intentional, question‑driven dialogue that can extend beyond the day’s agenda.",
-      "key_points": [
-        "Founder Summit 2026 uses Braindate to enable targeted networking on topics like scaling and fundraising",
-        "Attendees can purchase one pass and receive a free second pass for a guest",
-        "The event features talks from Bessemer, True Ventures, and Toast, plus interactive roundtables and live pitch sessions",
-        "It is held at SoWa Power Station in Boston on November 4"
-      ],
-      "topics": [
-        "founder summit",
-        "networking",
-        "braindate",
-        "startup events",
-        "fundraising"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-11-01T11:57:54.697557+00:00"
-    },
-    {
-      "id": "runch-com-2026-10-30-can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Runware, an AI infrastructure startup, plans to mass‑produce its Sonic Inference Pods by building a factory that assembles modular data centers on a production line, aiming for 30 MW of capacity per day by 2028. The company’s Romanian plant will ramp up from a few weeks per pod to a one‑day build, with pods online within 48 hours of delivery. Runware claims its closed‑loop cooling and use of standard components keep costs low, while it has already secured $1 B in committed interest for over 20 MW of pods. If successful, the factory could deliver roughly as much capacity in a year as the U.S. was expected to add this year, positioning modular AI data centers as the future standard for rapid deployment.",
-      "key_points": [
-        "Runware aims to produce 30 MW of data‑center capacity per day by 2028, equivalent to nearly 1 GW per month.",
-        "The company’s factory will reduce pod build time from three weeks to one day and bring pods online within 48 hours.",
-        "Runware has secured $1 B in committed interest for its Sonic pods and plans to expand to the U.S. and other regions.",
-        "The pods use closed‑loop liquid cooling, are silent, and rely on renewable energy where possible."
-      ],
-      "topics": [
-        "ai infrastructure",
-        "data centers",
-        "modular pods",
-        "manufacturing",
-        "startup"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-11-01T11:57:54.566484+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Amazon CEO Andy Jassy reiterated that AWS could become a trillion‑dollar revenue business, but to reach that goal the company will need to raise capital expenditures to $220 billion in 2026 and more in 2027 to build AI‑driven infrastructure. AWS revenue grew 39% in the latest quarter and is projected to grow 40% in 2027 and 2028, with a current run‑rate of $184 billion. Jassy framed the heavy spending as a once‑in‑a‑lifetime investment to capture the surge in enterprise AI demand, though investors remained wary and shares fell about 6% after the call. The announcement underscores the broader trend of cloud providers investing heavily in AI while chasing record growth.",
-      "key_points": [
-        "AWS aims for $1 trillion annual revenue within 5–10 years, backed by a projected 40% growth in 2027 and 2028.",
-        "Amazon plans $220 billion in 2026 capital expenditures, mainly for AWS, with further spending in 2027.",
-        "AWS revenue rose 39% YoY in the last quarter, reaching a $184 billion run‑rate.",
-        "Investors expressed concern over the high AI infrastructure spend, causing a 6% drop in Amazon shares post‑call."
-      ],
-      "topics": [
-        "aws",
-        "cloud computing",
-        "ai",
-        "capital expenditures",
-        "investor sentiment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "processed_at": "2026-11-01T05:09:05.572040+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-29-elon-musk-is-truly-a-genius-says-vladimir-putin",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/vladimir-putin-russia-kremlin.jpg?resize=1200,800",
-      "title": "Elon Musk is 'truly a genius,' says Vladimir Putin | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Russian President Vladimir Putin praised Elon Musk as a genius during the Russia‑Africa Summit, noting that the two leaders are in close contact regarding Russia’s Rassvet satellite project, which aims to rival SpaceX’s Starlink. Putin highlighted that Musk’s network already hosts over 5,000 satellites while Russia is only beginning its efforts. The article also discusses recent tensions over Starlink’s military use in Ukraine, where Musk reportedly limited access after Ukrainian forces used the service for offensive drone strikes, a move that raised concerns about the impact on Ukraine’s defense. The piece underscores how the evolving relationship between Musk and Putin could have significant geopolitical and military implications amid the ongoing conflict in Ukraine.",
-      "key_points": [
-        "Putin lauds Musk as a genius and says they are in close contact about Russia’s Rassvet satellite project.",
-        "Musk’s Starlink network already has more than 5,000 satellites, far ahead of Russia’s nascent program.",
-        "Musk limited Ukraine’s Starlink access after the country used the service for offensive drone strikes, sparking fears of a collapse in Ukrainian defense capabilities.",
-        "The potential partnership between Musk and Putin could influence military technology access and geopolitical dynamics in the region."
-      ],
-      "topics": [
-        "technology",
-        "politics",
-        "space",
-        "military",
-        "satellite"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 21:51:29 +0000",
-      "processed_at": "2026-11-01T05:08:51.948834+00:00"
     }
   ]
 }

@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-11-07T06:53:44.342325+00:00",
+  "updated_at": "2026-11-07T13:48:03.250025+00:00",
   "items": [
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "feed_excerpt": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-      "published": "Wed, 04 Nov 2026 13:00:00 +0000"
-    },
     {
       "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -20,46 +14,16 @@
       "published": "Wed, 04 Nov 2026 21:25:44 +0000"
     },
     {
-      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-      "feed_excerpt": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
-      "published": "Wed, 04 Nov 2026 18:10:11 +0000"
-    },
-    {
       "title": "Sequoia hits rewind, undoing 20 years of expansion",
       "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
       "feed_excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
       "published": "Wed, 04 Nov 2026 17:11:15 +0000"
     },
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "feed_excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "published": "Thu, 05 Nov 2026 01:26:22 +0000"
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "feed_excerpt": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "published": "Thu, 05 Nov 2026 01:02:14 +0000"
-    },
-    {
       "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
       "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
       "feed_excerpt": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
       "published": "Thu, 05 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "U.S. government warns of ‘ongoing cyber threat’ amid mass-hacks of industrial retail and military freezers",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "feed_excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass-hacks.",
-      "published": "Thu, 05 Nov 2026 18:48:34 +0000"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "feed_excerpt": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
-      "published": "Thu, 05 Nov 2026 18:02:27 +0000"
     },
     {
       "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
@@ -302,5 +266,5 @@
       "published": "Sat, 07 Nov 2026 01:40:28 +0000"
     }
   ],
-  "last_processed_at": "2026-11-07T06:53:55.967507+00:00"
+  "last_processed_at": "2026-11-07T13:48:26.162127+00:00"
 }
