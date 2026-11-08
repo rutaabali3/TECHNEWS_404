@@ -1,7 +1,154 @@
 {
-  "updated_at": "2026-11-08T16:13:10.283298+00:00",
+  "updated_at": "2026-11-08T20:41:58.756568+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-05-airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "title": "Airbnb says it's launching an AI travel agent in the first half of 2027 | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Airbnb announced that its custom AI travel agent will launch in the first half of 2027, following a detailed explanation in its Q3 shareholder letter. The agent will use a generative‑UI approach, combining maps, photos, calendars and itineraries to create a personalized interface rather than a text‑heavy chatbot. CEO Brian Chesky emphasized that travel planning is aspirational and that the agent will support users throughout their trip, from booking to post‑stay assistance. The announcement coincided with strong Q3 earnings, a 19% revenue increase to $4.87 billion, and an upgraded 2026 growth forecast in the high teens.",
+      "key_points": [
+        "Airbnb’s AI travel agent is slated for release in early 2027 and will feature a generative‑UI interface tailored to travel planning.",
+        "The agent will assist users beyond booking, handling changes, refunds, and 24‑hour safety support.",
+        "The launch announcement came alongside a 19% revenue rise in Q3, boosting Airbnb’s growth outlook."
+      ],
+      "topics": [
+        "airbnb",
+        "ai",
+        "travel",
+        "product launch"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "processed_at": "2026-11-08T20:41:28.152755+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web | TechCrunch",
+      "author": "Zack Whittaker",
+      "summary": "Security researchers uncovered more than 800 publicly exposed instances of the Chinese‑made AI hacking tool Artex, an open‑source autonomous penetration testing system that can launch attacks from reconnaissance to data exfiltration with minimal human input. The tool has been linked to several high‑profile cyberattacks, including a September assault on the Korean finance industry and an October breach of IT support giant ConnectWise that compromised Microsoft cloud customers. The findings highlight how misconfigured or unsecured deployments can expose both attackers and their targets, increasing the risk of widespread exploitation. Although Artex has announced a shift to closed‑source for paid customers, dozens of copies of its code remain available on code‑sharing sites and can still be used in active attacks.",
+      "key_points": [
+        "Over 800 Artex instances were found publicly exposed on the internet without authentication",
+        "Artex has been used in major attacks against Korean finance firms and Microsoft cloud customers",
+        "Misconfigurations of the tool expose both attackers and victims, amplifying risk",
+        "The tool is moving to closed‑source, yet code copies remain freely available"
+      ],
+      "topics": [
+        "cybersecurity",
+        "ai hacking",
+        "open source",
+        "misconfiguration",
+        "cyberattack"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "processed_at": "2026-11-08T20:41:28.292645+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "Meta has unveiled Spaces, a new feature for its Muse agents that lets users create topic‑specific breakout conversations in the sidebar of the Muse interface. Spaces act as project tabs—such as vacation planners, recipe collections, or gift trackers—that Muse can build and maintain automatically, even integrating updates from third‑party apps. The launch follows the recent debut of Muse Voice, and Meta reports that Muse agents already have 10 million users in the U.S. and Canada. Zuckerberg highlighted the feature on X, demonstrating use cases like a BBQ game, event tracker, and home control dashboard.",
+      "key_points": [
+        "Meta introduces Spaces, a new way to create topic‑focused collaborative tabs for Muse agents",
+        "Spaces automatically sync with third‑party apps and can be built by describing an idea",
+        "The feature follows Muse Voice and comes after Muse agents gained 10 million users in the U.S. and Canada",
+        "Zuckerberg showcased practical examples on X, such as a BBQ game and event tracker"
+      ],
+      "topics": [
+        "meta",
+        "muse",
+        "spaces",
+        "ai agents",
+        "collaboration"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "processed_at": "2026-11-08T20:41:28.258935+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-video-after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+      "title": "After the midterms, is the AI industry in for a rough two years? | TechCrunch",
+      "author": "Theresa Loconsolo",
+      "summary": "The U.S. midterm elections, which saw Democrats win a majority of seats, are expected to bring tighter restrictions on data center development, as 41 ballot measures largely favored new limits. The outcome also signals increased scrutiny of Big Tech and AI firms, with lawmakers likely to push for more regulation across the industry. OpenAI is already rebranding its data center strategy in anticipation of these changes. The combined effect could create a challenging environment for AI companies over the next two years.",
+      "key_points": [
+        "Democrats won a majority in the midterms, leading to stricter data center rules",
+        "Data center restrictions could hit AI firms like OpenAI",
+        "Increased government scrutiny may slow AI industry growth"
+      ],
+      "topics": [
+        "midterms",
+        "data centers",
+        "ai industry",
+        "regulation",
+        "big tech"
+      ],
+      "source_url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "processed_at": "2026-11-08T20:41:28.341335+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "The Pentagon has granted a conditional $250 million loan to 6K, a 12‑year‑old battery startup, to build a Tennessee factory that will use a microwave‑powered process to produce cathode materials without relying on Chinese suppliers. 6K had previously received a $50 million Department of Energy grant that was rescinded by the Trump administration, forcing the company to reapply and delay its original 2024 opening. The new loan reflects growing U.S. defense interest in domestic battery production and the startup’s unique technology that can serve multiple battery chemistries, including lithium iron phosphate. The funding aims to bolster U.S. supply chain resilience amid shifting EV market dynamics.",
+      "key_points": [
+        "Pentagon approves $250M loan for 6K to build a Tennessee battery factory",
+        "6K’s microwave‑plasma process eliminates dependence on Chinese cathode suppliers",
+        "The company’s earlier $50M DOE grant was canceled, prompting a reapplication",
+        "The factory’s launch was postponed from 2024 due to grant cancellation and EV market uncertainty"
+      ],
+      "topics": [
+        "defense",
+        "battery",
+        "manufacturing",
+        "technology",
+        "policy"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 16:50:01 +0000",
+      "processed_at": "2026-11-08T20:41:28.346773+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-fox-completes-its-22b-acquisition-of-roku",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/roku-glitch.jpg?resize=1200,778",
+      "title": "Fox completes its $22B acquisition of Roku | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Fox has finalized its $22 billion acquisition of Roku, making the combined entity the third‑largest television business in the United States by viewership. The deal, announced in June and expected to close in the first half of 2027, wrapped up earlier than projected after a Justice Department antitrust review. Fox now gains access to Roku’s reach of more than 100 million households, which it plans to use to improve advertising targeting and strengthen its position in the fast‑growing connected‑TV market. Roku’s founder, Anthony Wood, said the company will continue to innovate with the support and resources of Fox.",
+      "key_points": [
+        "Fox completes a $22 billion purchase of Roku, creating the third‑largest U.S. TV business by viewership.",
+        "The acquisition closed earlier than the originally projected 2027 timeline after an antitrust review.",
+        "Fox now has access to Roku’s 100 million‑household reach, boosting ad targeting and connected‑TV capabilities.",
+        "Roku will continue to innovate under Fox’s ownership, according to founder Anthony Wood."
+      ],
+      "topics": [
+        "streaming",
+        "media",
+        "antitrust",
+        "advertising",
+        "tv"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 16:05:36 +0000",
+      "processed_at": "2026-11-08T20:41:28.314838+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-05-serve-robotics-launches-new-business-to-become-the-aws-for-robots",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
@@ -2334,153 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 01 Nov 2026 02:22:10 +0000",
       "processed_at": "2026-11-03T16:28:32.719304+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-31-judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "A federal judge rejected xAI’s motion to dismiss an NAACP lawsuit that accuses the SpaceX‑owned company of operating 35 gas turbines at its Colossus data center outside Memphis without the required permits, citing statutory standing under the Clean Air Act. Judge Debra M. Brown ruled that the turbines are not considered mobile sources under Mississippi’s implementation plan and that citizen suit plaintiffs have the right to sue for environmental harm. The decision follows a similar denial of a DOJ motion to dismiss earlier this month and underscores growing public and legal pressure on data centers for pollution compliance. The ruling is seen as a win for the NAACP and a signal that environmental lawsuits against tech firms may gain traction amid rising scrutiny of data center emissions.",
-      "key_points": [
-        "Judge Debra M. Brown denied xAI’s motion to dismiss, allowing the NAACP lawsuit to proceed under the Clean Air Act.",
-        "xAI’s turbines are not exempt as mobile sources, and the plaintiffs have statutory standing to sue.",
-        "The decision follows a prior DOJ dismissal denial and reflects increasing scrutiny of data center pollution."
-      ],
-      "topics": [
-        "law",
-        "environment",
-        "tech",
-        "data center",
-        "clean air act"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 21:17:03 +0000",
-      "processed_at": "2026-11-03T16:28:32.380228+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Marvell has agreed to acquire optical chip and networking equipment maker Lumentum in an all‑stock deal valued at $115 billion enterprise value, or about $80 billion equity. The transaction, one of the largest tech deals ever, will give Marvell 4.5 shares for each Lumentum share and positions the company as a leader in AI connectivity. Nvidia, a common shareholder, has already invested $2 billion in each firm to bolster their laser and optical networking capabilities. The deal is expected to close in the first half of 2028, pending shareholder and regulatory approval.",
-      "key_points": [
-        "Marvell acquires Lumentum for $115 billion enterprise value, $80 billion equity",
-        "Deal includes 4.5 Marvell shares per Lumentum share",
-        "Nvidia invested $2 billion in both companies",
-        "Closing expected in first half of 2028"
-      ],
-      "topics": [
-        "mergers",
-        "acquisitions",
-        "semiconductors",
-        "ai",
-        "techindustry"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 17:54:11 +0000",
-      "processed_at": "2026-11-03T16:28:32.634322+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/starlink-direct-to-cell.jpg?resize=1200,601",
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "SpaceX is reportedly looking to buy Boost Mobile from EchoStar to add terrestrial cellular coverage to its Starlink network, a move that could push the company into fourth place among U.S. wireless providers. The acquisition would give SpaceX an instant subscriber base of about 7.5 million customers and access to the tower leases that Boost Mobile uses from AT&T and T‑Mobile, which are currently nontransferable. This follows SpaceX’s $17 billion spectrum purchase from EchoStar and its 2024 rollout of satellite access for T‑Mobile subscribers. Major carriers rejected Musk’s offers for network capacity, so the Boost deal would be the last critical piece needed for full nationwide phone coverage.\n",
-      "key_points": [
-        "SpaceX seeks to acquire Boost Mobile to gain terrestrial network access and a 7.5 million‑user base",
-        "The deal would give SpaceX immediate tower coverage across 48 states, complementing Starlink’s satellite reach",
-        "SpaceX already bought $17 billion of spectrum from EchoStar and is expanding satellite service to T‑Mobile customers",
-        "AT&T, T‑Mobile, and Verizon rejected Musk’s capacity offers, making Boost Mobile the final piece for nationwide coverage"
-      ],
-      "topics": [
-        "spacex",
-        "cellular",
-        "satellite",
-        "wireless",
-        "boostmobile"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 16:44:48 +0000",
-      "processed_at": "2026-11-03T16:28:58.333944+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior' | TechCrunch",
-      "author": "Ram Iyer",
-      "summary": "42AI, an Israeli startup, has emerged from stealth with $62.5 million in seed funding and a behavioral world model that predicts individual decisions by modeling underlying psychological tendencies. The system, trained on data from over 30 million people and used by ten large brokerages, claims 98 % accuracy in predicting trading flows and an F1 score of 0.8‑0.85 for trade direction and volume. 42AI’s model relies on transformer‑based architecture and a separate language model for explanations, and it does not use personally identifiable information, though it creates behavioral profiles from linked activity. While the company sees applications beyond finance in gaming, fraud prevention, and robotics, it acknowledges ethical concerns and has put in place regulations, monitoring, and an internal ethics committee.",
-      "key_points": [
-        "42AI raised $62.5 million in seed funding and launched a behavioral world model that predicts trading decisions with high accuracy",
-        "The model uses transformer architecture and a language model for explanations, and it operates on aggregated data without personal identifiers",
-        "The startup plans to expand beyond finance into gaming, fraud prevention, and robotics while addressing ethical concerns with oversight"
-      ],
-      "topics": [
-        "ai",
-        "behavioral modeling",
-        "finance",
-        "startup",
-        "ethics"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 16:30:00 +0000",
-      "processed_at": "2026-11-03T16:28:32.758349+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-01-borrowed-reading-stories-from-our-extended-colleagues",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800",
-      "title": "Borrowed reading: stories from our extended colleagues | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "TechCrunch has joined a larger media portfolio, giving it access to sister outlets such as CIO, Computerworld, and PCWorld. The move has enabled the publication to share and promote content from those outlets, expanding the range of stories available to its readers. In the article, the editor highlights a selection of recent pieces from the extended family, covering topics from AI developments at Anthropic to Google’s data center satellite. By leveraging this broader network, TechCrunch aims to enrich its coverage and offer readers a more diverse set of tech insights.",
-      "key_points": [
-        "TechCrunch now part of a larger media portfolio with access to CIO, Computerworld, and PCWorld",
-        "The publication shares and promotes content from these outlets to its audience",
-        "The article showcases recent stories on AI, crypto, and tech infrastructure"
-      ],
-      "topics": [
-        "media",
-        "technews",
-        "contentsharing",
-        "partnerships",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 04:23:48 +0000",
-      "processed_at": "2026-11-03T16:28:44.600498+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-01-binance-resumes-withdrawals-following-6-3-billion-breach",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
-      "title": "Binance resumes withdrawals following $6.3 billion breach | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Binance has begun phased withdrawals after a $6.3 billion hack that froze deposits and withdrawals. The exchange says it has recovered 95 % of the stolen crypto and is still sourcing the remaining assets, which are less liquid. The FBI has identified a North Korean group, TraderTraitor, as the culprit, and Binance processed $4.6 billion in withdrawals and $1 billion in deposits, leaving a net outflow of $3.6 billion. Binance will continue to strengthen security, complete the recovery, and release a detailed incident report once the investigation finishes.",
-      "key_points": [
-        "Binance resumes withdrawals in phases after a $6.3 billion hack",
-        "95 % of stolen assets recovered, remaining assets still being sourced",
-        "FBI links hack to North Korean group TraderTraitor",
-        "Net outflow of $3.6 billion during initial withdrawal period"
-      ],
-      "topics": [
-        "crypto",
-        "binance",
-        "hack",
-        "withdrawals",
-        "north korea"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 01 Nov 2026 16:20:10 +0000",
-      "processed_at": "2026-11-03T08:29:24.118532+00:00"
     }
   ]
 }

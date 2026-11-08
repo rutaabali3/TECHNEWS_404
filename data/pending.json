@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-11-08T16:12:41.526487+00:00",
+  "updated_at": "2026-11-08T20:41:26.929893+00:00",
   "items": [
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
       "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
       "feed_excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
       "published": "Thu, 05 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "feed_excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "published": "Thu, 05 Nov 2026 22:40:55 +0000"
     },
     {
       "title": "Meta, Google, and TikTok sue California AG over teen social media law",
@@ -30,36 +24,6 @@
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "feed_excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
       "published": "Fri, 06 Nov 2026 06:28:32 +0000"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "feed_excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "published": "Fri, 06 Nov 2026 18:44:38 +0000"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "feed_excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "published": "Fri, 06 Nov 2026 18:44:20 +0000"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "feed_excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-      "published": "Fri, 06 Nov 2026 17:23:52 +0000"
-    },
-    {
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "feed_excerpt": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "published": "Fri, 06 Nov 2026 16:50:01 +0000"
-    },
-    {
-      "title": "Fox completes its $22B acquisition of Roku",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "feed_excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "published": "Fri, 06 Nov 2026 16:05:36 +0000"
     },
     {
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -138,7 +102,37 @@
       "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
       "feed_excerpt": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
       "published": "Sun, 08 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "feed_excerpt": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "published": "Sun, 08 Nov 2026 20:30:00 +0000"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "feed_excerpt": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "published": "Sun, 08 Nov 2026 19:51:30 +0000"
+    },
+    {
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "feed_excerpt": "SNL seems to have its knives out for tech executives.",
+      "published": "Sun, 08 Nov 2026 18:00:04 +0000"
+    },
+    {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "feed_excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "published": "Sun, 08 Nov 2026 17:30:00 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 08 Nov 2026 17:02:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-08T16:12:54.713401+00:00"
+  "last_processed_at": "2026-11-08T20:41:28.346821+00:00"
 }
