@@ -1,30 +1,6 @@
 {
-  "updated_at": "2026-11-08T02:07:49.198560+00:00",
+  "updated_at": "2026-11-08T09:22:24.856121+00:00",
   "items": [
-    {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "feed_excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "feed_excerpt": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "published": "Thu, 05 Nov 2026 14:42:00 +0000"
-    },
-    {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "feed_excerpt": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "feed_excerpt": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "published": "Thu, 05 Nov 2026 13:00:00 +0000"
-    },
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
       "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
@@ -42,18 +18,6 @@
       "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
       "feed_excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
       "published": "Thu, 05 Nov 2026 21:15:00 +0000"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "feed_excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "published": "Thu, 05 Nov 2026 19:48:28 +0000"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "feed_excerpt": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "published": "Thu, 05 Nov 2026 19:12:39 +0000"
     },
     {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -206,5 +170,5 @@
       "published": "Sat, 07 Nov 2026 19:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-08T02:08:24.328533+00:00"
+  "last_processed_at": "2026-11-08T09:23:00.637415+00:00"
 }

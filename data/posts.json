@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-11-08T02:08:24.329348+00:00",
+  "updated_at": "2026-11-08T09:23:00.637989+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-05-meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "title": "Meta says US users can now video chat with their Muse AI avatar | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta has rolled out Muse Voice, enabling all U.S. users to video chat with its AI avatar Muse. The feature, introduced at Meta’s Connect conference, relies on new Muse Realtime Avatar and Voice models and presents an animated, customizable avatar nicknamed Jolly. It is available on mobile, web, and Mac, with plans to extend support to AI Glasses and a forthcoming Muse Charm wearable. Meta’s goal is to anthropomorphize the AI to deepen user connection and expand its ecosystem with a year‑end wearable device.",
+      "key_points": [
+        "Muse Voice is now available to all U.S. users",
+        "The feature uses new real‑time avatar and voice models",
+        "Video chat works on mobile, web, and Mac, with future hardware support",
+        "Meta aims to anthropomorphize the AI to strengthen user engagement"
+      ],
+      "topics": [
+        "meta",
+        "ai",
+        "avatar",
+        "video chat",
+        "wearable"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "processed_at": "2026-11-08T09:22:26.154381+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Meta president Dina Powell McCormick warned that the Democratic victories in the U.S. midterm elections could make it harder for the company to build new data centers, citing a growing backlash against such facilities that is tied to broader concerns about AI. She explained that Meta’s strategy is to demonstrate tangible benefits to local communities—paying its own electricity, directing tax surpluses to teachers and first responders, keeping jobs local, and securing bipartisan support—to win approval. Meta has a 20‑year history of building data centers, currently operating in 23 states and planning several 1‑gigawatt or larger projects, and it hopes its AI investments, especially the consumer agent Muse, will drive future growth and monetization of its compute capacity. The company believes that by showing how AI can cure disease, expand education, and democratize technology, it can shift public sentiment and secure the infrastructure needed for its services.",
+      "key_points": [
+        "Democratic midterm wins may hinder Meta’s data center expansion due to anti‑data‑center sentiment tied to AI concerns.",
+        "Meta’s community‑benefit model—paying its own power, redirecting tax surpluses, keeping local jobs, and seeking bipartisan support—aims to win local approval for new facilities.",
+        "The company’s AI ambitions, particularly the Muse consumer agent, and leasing of its compute resources are seen as ways to offset challenges and monetize infrastructure.",
+        "Meta has built data centers for 20 years, operates in 23 states, and plans several 1‑gigawatt or larger projects.",
+        ""
+      ],
+      "topics": [
+        "meta",
+        "data centers",
+        "ai",
+        "elections",
+        "community impact"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "processed_at": "2026-11-08T09:22:40.660558+00:00"
+    },
+    {
+      "id": "chcrunch-com-2026-11-05-the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Stephen Ward, a former Secret Service agent who once turned a hacker into an informant, closed a $250 million first fund for Brightmind Partners in late 2023 and led a Series A that helped SGNL be sold to CrowdStrike for $740 million. He is now raising a second $250 million fund on his own after co‑founder Gur Talpaz departed, betting on a market where early‑stage cybersecurity startups are raising more capital than later‑stage ones for the first time in over a decade. Ward’s career path—from Coast Guard to Secret Service, to CISO roles at TIAA, Home Depot, and Insight Partners, and finally to venture capital—shapes his pragmatic, data‑driven exit strategy. The move positions Brightmind to capitalize on a surge in early‑stage cyber fundraising and the growing appetite for strategic exits in the sector.",
+      "key_points": [
+        "Brightmind’s first $250M fund closed in late 2023, backing 14 companies and exiting SGNL for $740M",
+        "Stephen Ward is launching a second $250M fund alone after co‑founder Gur Talpaz departed",
+        "Ward’s background spans Coast Guard, Secret Service, CISO roles, and VC, shaping his data‑driven exit philosophy",
+        "Early‑stage cybersecurity fundraising is surging, giving Ward a favorable market window"
+      ],
+      "topics": [
+        "venture capital",
+        "cybersecurity",
+        "startup funding",
+        "exits",
+        "investment strategy"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "processed_at": "2026-11-08T09:23:00.637354+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805",
+      "title": "Aina's smart ring has a screen, a joystick, and a mic so you can talk to AI agents | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Hardware startup Aina has launched a $399 smart ring that combines a small screen, joystick, microphone, and speaker, allowing users to interact with AI agents and control both AI and non‑AI apps from their wrist. The ring, which goes on preorder on Thursday, adds gesture‑based controls and a speaker for calls, positioning it as a more feature‑rich alternative to existing smart rings like Pebble Index and Natura. Aina’s founder Apoorv Shankar said the device is designed for people surrounded by digital devices who need a better interface for proactive agents. Shipping is slated for January 2027, with the early‑bird price rising to $499 after the pre‑order window ends.",
+      "key_points": [
+        "$399 smart ring with screen, joystick, mic, and speaker for AI and app control",
+        "Preorder starts Thursday, shipping Jan 2027, early‑bird price $399, later $499",
+        "Aina builds on its Mirage controller, targeting AI enthusiasts and programmers",
+        "Competes with Pebble Index 01, Sandbar Stream, Oasis, and Natura, adding more controls and gestures"
+      ],
+      "topics": [
+        "smart ring",
+        "ai",
+        "hardware",
+        "accessories",
+        "consumer electronics"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 14:42:00 +0000",
+      "processed_at": "2026-11-08T09:22:26.340421+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system | TechCrunch",
+      "author": "Russell Brandom",
+      "summary": "Box announced a new feature called Box Content Retrieval that embeds Nvidia’s Nemotron model into its core product, enabling agents to answer queries faster and more accurately. The integration is expected to deliver four‑times faster responses, 20% fewer errors, and 90% fewer tokens used, according to Nvidia’s VP of generative AI software. The system will roll out to all Box Enterprise Advance customers early next year and is designed to improve search relevance for agents, especially in legal contexts. By combining Nemotron embeddings with Box’s existing metadata and permission controls, the company claims to offer a powerful, API‑friendly retrieval solution.",
+      "key_points": [
+        "Box integrates Nvidia’s Nemotron embeddings into its content retrieval system",
+        "The feature promises 4x faster queries, 20% fewer errors, and 90% fewer tokens",
+        "It will be available to Enterprise Advance customers early next year",
+        "The system enhances agent search relevance, notably for legal use cases"
+      ],
+      "topics": [
+        "box",
+        "nvidia",
+        "nemotron",
+        "content retrieval",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "processed_at": "2026-11-08T09:22:26.067689+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Discovered Materials, a San Francisco startup in Y Combinator’s spring 2026 batch, has announced a $1 million challenge to push AI models to solve five open problems in materials science, a field where physics is far more complex than mathematics. The company assembled an advisory panel of leading academics to define the problems and will award the prize pool to any team that provides a solution, while also using the effort to benchmark AI progress in this domain. Early tests with frontier AI agents that had internet access and extended compute time yielded little progress, underscoring the difficulty of the tasks and the potential for larger models to succeed. The initiative reflects a shift toward AI‑driven scientific discovery, with Discovered Materials also aiming to develop industrially useful semiconductor materials within a year of its seed round.",
+      "key_points": [
+        "Discovered Materials is offering a $1 million prize pool to solve five unsolved materials‑science problems, vetted by top university researchers.",
+        "Early attempts by frontier AI models, even with internet access, made little headway, highlighting the challenges of the field.",
+        "The startup’s goal is to accelerate the discovery of new semiconductor materials, potentially delivering useful products in under a year.",
+        "The challenge serves both as a benchmark for AI progress and a new model for setting scientific questions that AI can tackle.”",
+        "topics",
+        ":",
+        [
+          "ai",
+          "materials science",
+          "startups",
+          "ycombinator",
+          "semiconductors"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "processed_at": "2026-11-08T09:22:26.174399+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-04-sequoia-hits-rewind-undoing-20-years-of-expansion",
       "image": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649",
@@ -2325,155 +2479,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sat, 31 Oct 2026 21:36:07 +0000",
       "processed_at": "2026-11-03T01:28:05.577457+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune | TechCrunch",
-      "author": "Marina Temkin",
-      "summary": "Salesforce has agreed to acquire defense‑tech startup Rune Technologies for $375 million in cash and stock. The deal expands Salesforce’s Missionforce unit, which already grew 80% YoY after securing a $5.6 billion, 10‑year contract with the U.S. Army, and will now integrate Rune’s AI‑driven logistics platform to support battlefield operations. Rune, founded in 2024, has raised $30 million from investors such as Andreessen Horowitz and IQT, and was last valued at $127 million. This acquisition is part of Salesforce’s broader 2024 acquisition spree that also includes Fin, Qualified, and Listen Labs.",
-      "key_points": [
-        "Salesforce is buying Rune Technologies for $375 million to boost its Missionforce defense‑tech unit.",
-        "Rune’s AI logistics platform will help the U.S. military predict supply needs and manage field operations.",
-        "The acquisition follows Salesforce’s 2024 spree that added Fin, Qualified, and Listen Labs to its portfolio."
-      ],
-      "topics": [
-        "salesforce",
-        "defense tech",
-        "ai",
-        "acquisition",
-        "military logistics"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 23:21:23 +0000",
-      "processed_at": "2026-11-03T01:28:05.715458+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-31-openai-reportedly-lowers-funding-target-for-new-round",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "title": "OpenAI reportedly lowers funding target for new round | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "OpenAI has cut its latest funding round target from the previously reported $30 billion to $20 billion, with the first close expected to be even lower. The round, led by investors from the United Arab Emirates, has already raised $11 billion, but the company has received a tepid response from some large investors amid a broader market wariness of heavy AI infrastructure spending. The timing of the fundraising coincides with a sell‑off in tech stocks and the potential challenges facing Anthropic’s planned IPO, both of which may be dampening investor enthusiasm. If a subsequent retail offering for wealthy individuals is completed, the total funding could reach the $20 billion target, but the current trajectory suggests a more modest outcome.",
-      "key_points": [
-        "OpenAI lowered its funding target from $30B to $20B",
-        "The round has already raised $11B and is led by UAE investors",
-        "Investor enthusiasm has been tepid amid AI infrastructure spending concerns",
-        "A retail offering could bring the total to $20B if completed"
-      ],
-      "topics": [
-        "openai",
-        "funding",
-        "ai",
-        "investment",
-        "tech"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "processed_at": "2026-11-02T18:43:00.050510+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-31-tiktoks-road-to-becoming-a-super-app",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "TikTok is expanding beyond social media by adding a restaurant guide called \"Must Eat\" that aggregates over 40 million posts to recommend eateries, and by developing a direct‑message money transfer feature that would use its TikTok Pay service. The company also launched TikTok GO, a booking hub for hotels and attractions, and has applied for fintech licenses in Brazil to offer lending and payment services. These moves are part of TikTok’s strategy to become a super app that handles shopping, dining, travel, and financial transactions in one place, directly competing with platforms like WeChat, Yelp, Google Maps, and Amazon. The expansion follows the success of TikTok Shop, which grew U.S. sales by 407% in 2024 and is now a significant player in social commerce.",
-      "key_points": [
-        "TikTok introduces \"Must Eat\" restaurant guide to compete with Yelp and Google Maps",
-        "The platform is developing a direct‑message money transfer feature using TikTok Pay",
-        "TikTok GO lets users book hotels and attractions within the app, moving into travel commerce",
-        "These initiatives signal TikTok’s push toward a super‑app model that blends social media, e‑commerce, and fintech"
-      ],
-      "topics": [
-        "tiktok",
-        "superapp",
-        "payments",
-        "ecommerce",
-        "travel"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 15:41:57 +0000",
-      "processed_at": "2026-11-02T18:42:46.651455+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Limited partners are currently pouring capital into a handful of AI companies, notably OpenAI and Anthropic, creating unprecedented concentration in venture portfolios. The rapid rise in valuations has prompted LPs to accelerate fund cycles, with some returning capital in as little as 12 to 18 months, a pace that raises concerns about risk and distribution timing. Despite the speed, many LPs view the consolidation as a natural evolution of the power‑law nature of venture investing, though they remain wary of potential downturns. The conversation with LGT Capital Partners and TrueBridge highlights both excitement for the upside and caution about the sustainability of such aggressive deployment strategies.",
-      "key_points": [
-        "LPs are heavily concentrating investments in OpenAI and Anthropic, breaking traditional diversification norms.",
-        "Fund cycles are shortening to 12‑18 months, increasing deployment speed and raising distribution concerns.",
-        "Venture managers are bumping up fund sizes mid‑cycle to capture large AI rounds, creating a “yellow light” scenario for LPs.",
-        "Early‑stage funds still offer diversity, but late‑stage concentration is accelerating.",
-        ""
-      ],
-      "topics": [
-        "venture capital",
-        "limited partners",
-        "ai startups",
-        "funding cycles"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 04:16:50 +0000",
-      "processed_at": "2026-11-02T18:42:46.510370+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia | TechCrunch",
-      "author": "Aditya Mehta",
-      "summary": "Nvidia is reportedly preparing to act as a co‑signer for billions‑of‑dollar debt financing that will fund Anthropic’s first building at Nscale’s West Virginia AI data‑center campus. The arrangement would give Nvidia a residual‑value guarantee, allowing it to step in if Nscale defaults on construction payments and help secure a buyer or tenant. The move underscores the financial strain on AI cloud providers as investors grow wary of the scale of capital required, and it deepens Nvidia’s ties to Nscale while securing a major customer for its Vera Rubin chips. Anthropic’s $44.6 billion contract for the 460‑MW building and a potential second $45 billion deal highlight the high stakes of the project amid construction setbacks and regulatory hurdles.",
-      "key_points": [
-        "Nvidia is poised to co‑sign debt for Anthropic’s West Virginia data‑center, offering a residual‑value guarantee.",
-        "The guarantee would let Nvidia take over if Nscale defaults, helping secure a buyer or tenant for the campus.",
-        "Anthropic’s $44.6 billion contract for the first 460‑MW building and a potential $45 billion second deal illustrate the massive scale of the project.",
-        "The deal reflects growing investor caution and the need for AI cloud providers to secure financing amid construction and regulatory challenges."
-      ],
-      "topics": [
-        "nvidia",
-        "anthropic",
-        "ai",
-        "data center",
-        "financing"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
-      "processed_at": "2026-11-02T18:43:14.149713+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/applebees-501705240.jpg?resize=1200,899",
-      "title": "Applebee's exposed customers' personal data after leaving database password in app | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "Applebee’s fixed a security flaw that allowed anyone to access its customer database after a researcher discovered a hardcoded credential in the chain’s Android app. The exposed data included names, email addresses, dates of birth, phone numbers, ZIP codes, veteran status, login counts, account creation dates, and recent IP addresses. Applebee’s and parent Dine Brands said they investigated the issue and found no evidence of unauthorized access, but the exact number of affected customers remains unknown; the rewards program had 8.5 million members last year. The incident underscores the risks of hardcoding credentials and the need for proper vulnerability disclosure channels.",
-      "key_points": [
-        "A hardcoded credential in Applebee’s Android app exposed the customer database.",
-        "The data contained personal details and login information such as IP addresses.",
-        "Applebee’s and Dine Brands investigated and found no evidence of a breach yet.",
-        "The researcher could not alert the company due to lack of reporting mechanisms."
-      ],
-      "topics": [
-        "security",
-        "data breach",
-        "mobile app",
-        "hardcoding",
-        "restaurant industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 21:48:53 +0000",
-      "processed_at": "2026-11-02T18:42:46.758424+00:00"
     }
   ]
 }
