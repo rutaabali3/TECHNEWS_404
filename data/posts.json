@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-11-08T09:23:00.637989+00:00",
+  "updated_at": "2026-11-08T16:13:10.283298+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-05-serve-robotics-launches-new-business-to-become-the-aws-for-robots",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
+      "title": "Serve Robotics launches new business to become the AWS for robots | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Serve Robotics, a maker of self‑driving sidewalk delivery robots that spun out of Uber’s 2021 acquisition of Postmates and went public in 2024, announced a new business line called Physical AI Services aimed at becoming the \"AWS for robots.\" The company will offer connectivity and data tools—including Serve Link for high‑performance robot‑to‑AI system communication, a data curator for edge‑case identification, and a foundation‑model data catalog built from its own sidewalk fleet—to help other firms build robots for farms, warehouses, and other uncontrolled environments. Serve Robotics is also partnering with T‑Mobile to bring AI computing power closer to robots, while its delivery operations shift from Uber to partners such as DoorDash and Wonder. This expansion signals the company’s intent to monetize the technology it developed for its own robots while maintaining its core delivery businesses.",
+      "key_points": [
+        "Serve Robotics launches Physical AI Services to provide connectivity and data tools for other robot builders",
+        "The new line includes Serve Link, a data curator, and a foundation‑model data catalog built from its sidewalk fleet",
+        "Serve is partnering with T‑Mobile to bring AI computing closer to robots and shifting delivery partnerships from Uber to DoorDash and Wonder",
+        "The company remains focused on its delivery robots while opening its technology for broader use"
+      ],
+      "topics": [
+        "robotics",
+        "ai",
+        "startup",
+        "services",
+        "infrastructure"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 21:15:00 +0000",
+      "processed_at": "2026-11-08T16:12:43.449508+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-openai-released-a-new-cybersecurity-model-is-that-enough",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+      "title": "OpenAI released a new cybersecurity model. Is that enough? | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "OpenAI has unveiled a new cybersecurity-focused model, ChatGPT Cyber, as part of its Daybreak Red program, offering advanced vulnerability hunting tools to top-tier users. Max Justicz, a security researcher, leveraged GPT‑5.6 Sol to uncover a severe Ubuntu server flaw that could let attackers seize control, prompting a patch from the Debian Project. OpenAI also reported finding 948 potential Linux kernel issues and 81 novel Firefox vulnerabilities, underscoring the model’s scanning power. The launch has sparked debate over the balance between empowering defenders and the risk of enabling malicious actors, as well as concerns about resource allocation within the Daybreak initiative.",
+      "key_points": [
+        "OpenAI launched ChatGPT Cyber for cybersecurity researchers",
+        "Max Justicz used GPT‑5.6 Sol to discover a critical Ubuntu vulnerability",
+        "OpenAI identified 948 Linux kernel and 81 Firefox vulnerabilities",
+        "Daybreak program faces criticism over restricted access and resource allocation"
+      ],
+      "topics": [
+        "openai",
+        "cybersecurity",
+        "ai",
+        "linux",
+        "vulnerability"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "processed_at": "2026-11-08T16:12:43.222704+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-underdog-shows-off-a-32mb-speech-model-in-new-demo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
+      "title": "Underdog shows off a 32MB speech model in new demo | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Underdog has released a 32‑megabyte text‑to‑speech model called Woof that can run entirely in a web browser without an internet connection, demonstrating that high‑quality voice generation is possible on consumer devices. The 31‑million‑parameter model is open‑source and downloadable, allowing users to keep their data private while still accessing advanced AI. A demo game featuring a retro‑tech room, a typewriter, and a music tuner showcases Woof’s capabilities and subtly criticizes cloud‑based models. Underdog also offers a 167‑MB speech‑to‑text model Bark and a 27‑billion‑parameter laptop‑ready model, positioning itself as a leader in edge‑AI solutions.",
+      "key_points": [
+        "Underdog unveiled a 32‑MB text‑to‑speech model, Woof, that runs locally in browsers without internet access.",
+        "The 31‑million‑parameter model is open‑source, enabling private AI on consumer devices.",
+        "A demo game highlights Woof’s voice generation and critiques cloud providers.",
+        "Underdog also offers a 167‑MB speech‑to‑text model Bark and a 27‑billion‑parameter laptop‑ready model for edge AI."
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "processed_at": "2026-11-08T16:12:43.327857+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-tesla-will-stop-making-the-cybertruck-in-2027",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Cybertruck_78-resized.jpeg?resize=1200,800",
+      "title": "Tesla will stop making the Cybertruck in 2027 | TechCrunch",
+      "author": "Sean O'Kane",
+      "summary": "Tesla announced that it will stop producing the Cybertruck in 2027 and will use the Texas factory to build Cybercab robotaxis, a move that signals a shift toward the company’s AI and robotics ambitions. The decision follows the Cybertruck’s disappointing sales—only tens of thousands sold in three years versus the 250,000‑per‑year forecast—along with higher-than‑expected price and reduced range. Tesla has already discontinued the Model S and Model X to free up production space for its Optimus humanoid robot, underscoring a broader strategy to prioritize robotics over traditional vehicle models. The move highlights Tesla’s willingness to pivot its product lineup in response to market performance and strategic priorities.\n",
+      "key_points": [
+        "Tesla will cease Cybertruck production in 2027 and repurpose the factory for Cybercab robotaxis",
+        "Cybertruck sales fell far short of the 250,000‑per‑year forecast, totaling only tens of thousands in three years",
+        "Tesla has already discontinued the Model S and Model X to focus on robotics, indicating a broader shift in strategy",
+        "The Cybertruck’s high price, reduced range, and polarizing design contributed to its poor market reception"
+      ],
+      "topics": [
+        "tesla",
+        "cybertruck",
+        "robotaxi",
+        "electric vehicles",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 11:50:10 +0000",
+      "processed_at": "2026-11-08T16:12:43.490900+00:00"
+    },
+    {
+      "id": "ttps-techcrunch-com-2026-11-05-at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1463816688.jpg?resize=973,1200",
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer | TechCrunch",
+      "author": "Dominic-Madori Davis",
+      "summary": "At least ten local governments and police departments have dropped or are phasing out Flock Safety surveillance cameras since the summer, citing privacy, data‑sharing, and misuse concerns. The backlash reflects a broader pushback against rapid AI adoption, with cities like Monroe, Ohio, and League City, Texas, voting to terminate contracts and remove license‑plate readers. Flock, which offers license‑plate readers, drones, and gun‑shot‑detection devices, has more than 100,000 cameras nationwide, but the company has responded by shortening data retention to seven days and requiring case codes for database searches. While some municipalities, such as Cleveland, Ohio, are tightening restrictions rather than abandoning the technology, the trend underscores growing public skepticism about surveillance tools and the need for greater oversight.",
+      "key_points": [
+        "Over ten U.S. cities have ended or are ending contracts with Flock Safety amid privacy and misuse concerns.",
+        "Flock’s technology includes license‑plate readers, drones, and gun‑shot‑detection devices, with more than 100,000 cameras nationwide.",
+        "The company has cut data retention from 30 to 7 days and now requires case codes for database searches.",
+        "Some municipalities are tightening restrictions instead of dropping the tech, reflecting a balance between public safety and civil liberties."
+      ],
+      "topics": [
+        "surveillance",
+        "privacy",
+        "ai",
+        "law enforcement",
+        "public safety"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 07:18:44 +0000",
+      "processed_at": "2026-11-08T16:12:43.826649+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "The New York Times Company is reportedly in exclusive negotiations to acquire the movie‑rating platform Letterboxd for $330 million. Letterboxd has surged from 3 million users in early 2021 to 28 million in April, with more than half of its audience under 35, and it projects earnings of about $15 million this year. The deal would value the company at roughly 22 times its annual earnings, a premium that reflects the Times’ interest in expanding its media footprint into film fandom. Film studios A24 and Sony had also shown interest, but A24 was priced out of the bidding.",
+      "key_points": [
+        "New York Times is negotiating to buy Letterboxd for $330 million",
+        "Letterboxd’s user base grew from 3 million to 28 million, majority under 35",
+        "Projected earnings are $15 million, implying a valuation about 22× earnings",
+        "A24 and Sony were interested, but A24 was priced out"
+      ],
+      "topics": [
+        "tech",
+        "media",
+        "acquisition",
+        "film",
+        "streaming"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 00:07:18 +0000",
+      "processed_at": "2026-11-08T16:12:54.713279+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-05-meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
@@ -2337,148 +2481,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 01 Nov 2026 16:20:10 +0000",
       "processed_at": "2026-11-03T08:29:24.118532+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-01-heres-what-renoa-the-first-new-fiber-in-25-years-feels-like",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
-      "title": "Exclusive: Here’s what 'renoa' — the first new fiber in 25 years — feels like | TechCrunch",
-      "author": "Tim De Chant",
-      "summary": "Everbloom’s new fiber, renoa, has become the first new fiber classification in 25 years after approval by the U.S. Federal Trade Commission, offering a washable and affordable alternative to expensive cashmere. Made from waste protein scraps such as cashmere, wool, down, and feather lint, the material is blended with a biodegradable biopolymer and extruded to mimic natural fibers. The startup, which has been developing the fiber for three years and built its own AI material‑science model, plans to launch its first consumer product—a cashmere‑renoa blend sweater—in the second quarter of 2027. Renoa’s 80/20 blend delivers a feel close to real cashmere while resisting pilling, shrinking, and requiring minimal finishing, positioning it as a sustainable, high‑performance textile for mainstream apparel.",
-      "key_points": [
-        "Renoa is the first new fiber classification in 25 years, approved by the FTC.",
-        "It is produced from waste protein scraps and is washable, affordable, and biodegradable.",
-        "Everbloom is scaling up production and expects its first consumer product to hit the market in Q2 2027.",
-        "An 80/20 cashmere‑renoa blend mimics real cashmere’s softness and durability without pilling or shrinking."
-      ],
-      "topics": [
-        "sustainable fashion",
-        "fiber innovation",
-        "startup",
-        "environmental impact",
-        "textiles"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 01 Nov 2026 14:00:00 +0000",
-      "processed_at": "2026-11-03T08:29:23.790555+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-31-i-took-two-iphones-on-vacation-the-duo-won-me-over",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "title": "I took two iPhones on vacation — the Duo won me over | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Sarah Perez tested Apple’s new iPhone Duo on a five‑day vacation, initially frustrated by its small screen, unoptimized apps, and the return to Touch ID, but ultimately grew to appreciate its durability and pocket‑friendly design. The $2,000 device proved surprisingly robust, surviving multiple drops on hard surfaces without damage, and its compact, squat shape fit comfortably in both front and back pockets. While the Duo’s lack of Face ID and occasional app freezes—particularly in Google Search’s AI mode—remained notable drawbacks, Perez found that most major apps were quickly updated for the new form factor and that her Apple Watch provided a convenient alternative for authentication. The experience highlighted the psychological switching cost of moving from a high‑end iPhone 17 Pro Max to an experimental device, yet Perez concluded that the Duo’s strengths ultimately won her over.",
-      "key_points": [
-        "The iPhone Duo’s compact, squat design fits comfortably in pockets and survived multiple drops without damage.",
-        "Users may face frustrations with small screen real estate, unoptimized apps, and the return to Touch ID, especially during payments.",
-        "Major apps quickly updated for Duo, but early reviews noted black bars on non‑optimized apps and occasional freezes in Google Search’s AI mode."
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "duo",
-        "techreview",
-        "mobiledevices"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 14:00:00 +0000",
-      "processed_at": "2026-11-03T08:29:50.368757+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-last-minute-halloween-costumes-for-tech-nerds",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800",
-      "title": "Last-minute Halloween costumes for tech nerds | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "TechCrunch’s latest article offers a playful guide to last‑minute Halloween costumes for tech enthusiasts. The suggestions span AI concepts such as recursive self‑improvement, cute AI agent avatars, and even a mock “Claude token limit” notification. It also pokes fun at real‑world tech personalities, from Mark Zuckerberg’s signature black tees to biohacker Bryan Johnson’s controversial GLP‑Bryan claim. The piece blends humor with subtle reminders about privacy, AI safety, and the cultural impact of technology on everyday life.",
-      "key_points": [
-        "TechCrunch provides a list of tech‑themed Halloween costumes, including AI concepts and real‑world tech figures.",
-        "The ideas range from recursive self‑improvement to AI assistants with cute avatars and mock usage‑limit alerts.",
-        "The article humorously references personalities like Mark Zuckerberg and biohacker Bryan Johnson.",
-        "It also highlights privacy concerns and AI safety in a light‑hearted context."
-      ],
-      "topics": [
-        "halloween",
-        "techculture",
-        "ai",
-        "costume",
-        "privacy"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 21:26:59 +0000",
-      "processed_at": "2026-11-03T08:29:24.082956+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-01-pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675",
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide, wide world | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "Google has launched the Pixel 11 Pro Fold, a foldable that builds on last year’s design with a lighter chassis, a brighter 3,600‑nit display, and a 19‑gram weight reduction. The phone boasts a 48‑megapixel main sensor, 30× Super‑Res Zoom, and a three‑fold increase in durability thanks to a glass‑ceramic cover and glass‑fiber composite back. Priced at $1,899, it sits just below the iPhone Duo and matches the Samsung Galaxy Z Fold 8, but faces stiff competition from emerging wide‑foldables in Europe. While the device offers solid cameras and useful software features like Magic Capture, its visible crease and one‑handed hinge design may deter first‑time foldable buyers.",
-      "key_points": [
-        "Google’s Pixel 11 Pro Fold is lighter, brighter, and three times more durable than its predecessor, featuring a 3,600‑nit display and a 48‑MP main sensor with 30× Super‑Res Zoom",
-        "The phone’s cameras are competent but still lag behind the slab Pixel 11 Pro XL, and the device supports useful software such as Magic Capture and Looks",
-        "At $1,899 it competes with the iPhone Duo and Samsung Galaxy Z Fold 8, yet the foldable market is crowded with new wide‑format models from Xiaomi and Honor",
-        "The hinge design prevents one‑handed unfolding, and the visible crease remains a drawback compared to rivals that have reduced crease visibility"
-      ],
-      "topics": [],
-      "source_url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 01 Nov 2026 15:00:00 +0000",
-      "processed_at": "2026-11-03T01:28:05.767043+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-31-apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "Apple CEO John Ternus told Wired that Apple is not rushing to ship AI for AI’s sake but will integrate it into products in a way that feels natural to users. He acknowledged that Apple has been seen as lagging behind, especially after a delayed, more powerful Siri launch this summer, yet he expressed confidence in the company’s current AI direction. Ternus emphasized that the goal is to build products people love, rather than to showcase AI for its own sake. He also noted that while AI could reduce the need for traditional apps, the act of creating products remains a deeply human endeavor.",
-      "key_points": [
-        "Apple’s new CEO says AI will be integrated thoughtfully, not for hype",
-        "Apple has been behind on AI but is improving with a new Siri release",
-        "The focus is on building beloved products, not just AI features",
-        "Human creativity remains central even as AI changes app development"
-      ],
-      "topics": [
-        "apple",
-        "ai",
-        "technology",
-        "business",
-        "product development"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 21:41:00 +0000",
-      "processed_at": "2026-11-03T01:28:15.367280+00:00"
-    },
-    {
-      "id": "ttps-techcrunch-com-2026-10-31-4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "title": "How Founder Summit helps you make more useful connections to scale | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit will take place on November 4 at Boston’s SoWa Power Station and is presented by Fidelity Private Shares. The event focuses on intentional networking, offering a Braindate-powered lounge where founders and VCs can schedule one‑on‑one and small‑group conversations around specific topics. Attendees can also participate in roundtables, breakout sessions, an Expo Hall, and a closing reception, with side events running throughout Boston that week. A buy‑one‑get‑one‑free ticket promotion is available, allowing participants to bring a co‑founder or partner at no extra cost while saving up to $100 on the pass.",
-      "key_points": [
-        "The summit emphasizes structured networking via Braindate to connect founders and investors on specific topics.",
-        "Sessions on product‑market fit, fundraising, and local building are followed by dedicated conversation opportunities.",
-        "A buy‑one‑get‑one‑free pass promotion and up to $100 savings are offered before the event starts."
-      ],
-      "topics": [
-        "startup",
-        "networking",
-        "event",
-        "fidelity",
-        "braindate"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sat, 31 Oct 2026 21:36:07 +0000",
-      "processed_at": "2026-11-03T01:28:05.577457+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T09:22:24.856121+00:00",
+  "updated_at": "2026-11-08T16:12:41.526487+00:00",
   "items": [
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
@@ -14,52 +14,16 @@
       "published": "Thu, 05 Nov 2026 22:40:55 +0000"
     },
     {
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "feed_excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "published": "Thu, 05 Nov 2026 21:15:00 +0000"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "feed_excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "published": "Thu, 05 Nov 2026 19:06:12 +0000"
-    },
-    {
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "feed_excerpt": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-      "published": "Fri, 06 Nov 2026 00:07:18 +0000"
-    },
-    {
       "title": "Meta, Google, and TikTok sue California AG over teen social media law",
       "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
       "feed_excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
       "published": "Fri, 06 Nov 2026 00:01:38 +0000"
     },
     {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "feed_excerpt": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "published": "Fri, 06 Nov 2026 13:02:16 +0000"
-    },
-    {
       "title": "Physicl raises $10M to make the digital world real enough for robots",
       "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "feed_excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
       "published": "Fri, 06 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "feed_excerpt": "Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "published": "Fri, 06 Nov 2026 11:50:10 +0000"
-    },
-    {
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "feed_excerpt": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "published": "Fri, 06 Nov 2026 07:18:44 +0000"
     },
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -168,7 +132,13 @@
       "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
       "feed_excerpt": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
       "published": "Sat, 07 Nov 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "feed_excerpt": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "published": "Sun, 08 Nov 2026 15:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-08T09:23:00.637415+00:00"
+  "last_processed_at": "2026-11-08T16:12:54.713401+00:00"
 }
