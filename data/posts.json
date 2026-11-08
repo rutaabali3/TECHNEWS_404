@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-11-07T22:33:08.373325+00:00",
+  "updated_at": "2026-11-08T02:08:24.329348+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-04-sequoia-hits-rewind-undoing-20-years-of-expansion",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649",
+      "title": "Sequoia hits rewind, undoing 20 years of expansion | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Sequoia Capital announced a sweeping restructuring in a memo titled \"The Sequoia of Tomorrow,\" revealing that it has raised roughly $10 billion in new funds while simultaneously shutting its London office, ending its Arc accelerator and Scouts program, merging its early‑stage and growth teams, flattening its partnership structure, and canceling the Monday partner meeting. The firm frames the changes as a return to a leaner, more focused model after a 20‑year expansion that built multiple businesses across geographies and created a hierarchy it now seeks to undo. By concentrating on high‑conviction, highly selective investing, Sequoia aims to give more energy to fewer people and initiatives, hoping to better support founders as they move through stages. The memo acknowledges the cost of breaking successful programs and the potential pain of losing talent, but stresses the need to reinvent itself to keep pace with accelerating change.",
+      "key_points": [
+        "Sequoia is closing its London office and ending its Arc accelerator and Scouts program",
+        "The firm is merging its early‑stage and growth teams into a single unit and flattening its partnership structure",
+        "It has raised about $10 billion in new funds while cutting back on programs that were designed to be everywhere",
+        "The Monday partner meeting will be discontinued as part of a broader effort to streamline operations"
+      ],
+      "topics": [
+        "venture capital",
+        "sequoia",
+        "startup ecosystem",
+        "investment strategy",
+        "global expansion"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Wed, 04 Nov 2026 17:11:15 +0000",
+      "processed_at": "2026-11-08T02:08:24.328434+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Anthropic has launched Claude’s new Personal Finance tool, allowing users to connect bank and credit‑card accounts through Plaid and ask the chatbot questions about their spending. The feature is read‑only, does not move or invest money, and keeps conversations out of the model’s training data. Claude can summarize monthly expenses, flag duplicate charges or unexpected fees, and explain financial concepts like APR. The beta is available this week to Pro, Max, and Ultra plan users in the U.S., positioning Claude as a direct competitor to OpenAI’s ChatGPT finance add‑on.",
+      "key_points": [
+        "Claude Personal Finance lets users link bank accounts via Plaid and query spending patterns in natural language.",
+        "Access is read‑only and conversations are not used to train the model, protecting user data.",
+        "The tool flags duplicate charges, unexpected fees, and can explain financial terms such as APR.",
+        "Beta rollout is limited to Pro, Max, and Ultra plan users in the United States."
+      ],
+      "topics": [
+        "artificial intelligence",
+        "personal finance",
+        "chatbot",
+        "anthropic",
+        "plaid"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "processed_at": "2026-11-08T02:07:50.924188+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Precision-Zip-Delivering-3QTR.jpg?resize=1200,800",
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Zipline has secured a $1.5 billion funding round that values the autonomous drone delivery company at $21.5 billion, while simultaneously expanding its partnership with Walmart to add 300 new drone delivery sites across the United States. The new multi‑year agreement builds on a 2021 deal that covered only 21 sites, marking a significant scaling of the service. The capital will be used to enlarge U.S. manufacturing facilities and hire additional staff to support a nationwide drone network. Founded in 2014 in Africa, Zipline now operates in the U.S., Japan, and several African countries, and its delivery revenue share rose from 10.8% to 34.9% between March and October this year.",
+      "key_points": [
+        "Zipline raised $1.5B led by Paradigm, WCM, Layer Global and others, reaching a $21.5B valuation",
+        "The new Walmart agreement expands drone sites from 21 to 300 across the U.S.",
+        "Funds will be used to expand U.S. manufacturing and hire more workers for a nationwide network",
+        "Delivery revenue share grew from 10.8% to 34.9% between March and October 2024"
+      ],
+      "topics": [
+        "drone delivery",
+        "logistics",
+        "walmart",
+        "valuation",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:40:34 +0000",
+      "processed_at": "2026-11-08T02:07:51.157866+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-instagram-brings-edits-to-desktop-to-take-on-capcut",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
+      "title": "Instagram brings Edits to desktop to take on CapCut | TechCrunch",
+      "author": "Aisha Malik",
+      "summary": "Instagram has released a desktop version of its short‑form video editor Edits, targeting creators who need larger screens and more precise controls. The Mac app adds a full multi‑track timeline, keyframes, audio waveforms, and 4K watermark‑free exports while syncing styles and shortcuts from the mobile app. It also lets users publish directly to Instagram, eliminating the need to transfer files between devices. The move positions Edits to directly challenge ByteDance’s CapCut, which has been available on desktop since 2021.",
+      "key_points": [
+        "Instagram launches a desktop version of Edits to compete with CapCut.",
+        "The app offers a full multi‑track timeline, keyframes, audio waveforms, and 4K watermark‑free exports.",
+        "Styles, shortcuts, and saved audio/text sync between mobile and desktop.",
+        "Weekly updates will add seamless cross‑device editing."
+      ],
+      "topics": [
+        "instagram",
+        "edits",
+        "capcut",
+        "video editing",
+        "social media"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "processed_at": "2026-11-08T02:07:51.119994+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675",
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "ElevenLabs has announced that users of its ElevenMusic platform can now publish AI‑generated music directly to SoundCloud, and the company is offering SoundCloud Artist Pro members three months of ElevenMusic Pro access. The ElevenMusic suite, launched in 2025 and expanded in April 2026, lets creators generate up to 1,000 songs, split stems 500 times, and add five custom styles or vocals each month, and has already produced more than 25 million tracks. SoundCloud is also rolling out its own AI tools and partnerships, such as with Moises, while other streaming services are adopting labeling and filtering for AI music. The move underscores a broader industry trend toward integrating AI creation tools while managing how AI‑generated content is presented to listeners.",
+      "key_points": [
+        "ElevenLabs now lets users publish AI‑generated music directly to SoundCloud and offers Artist Pro members three months of ElevenMusic Pro",
+        "ElevenMusic’s models have generated over 25 million tracks since 2025, with new releases supporting genre shifts and complex vocals",
+        "SoundCloud and other platforms are adopting AI tools but also implementing labeling and filtering for AI music",
+        "Spotify partners with ElevenLabs for audiobook narrations, but has not yet announced AI remixing model partners"
+      ],
+      "topics": [
+        "ai music",
+        "soundcloud",
+        "elevenlabs",
+        "music streaming",
+        "ai labeling"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "processed_at": "2026-11-08T02:08:04.149107+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-radianx-promises-solar-powered-devices-that-never-need-charging",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-usb-lighting-charging-cable.jpg?resize=1200,800",
+      "title": "Exclusive: RadianX promises solar-powered devices that never need charging | TechCrunch",
+      "author": "Tim De Chant",
+      "summary": "RadianX has unveiled a perovskite‑based solar panel that delivers 22.33% efficiency indoors, a record that could power devices without batteries. The startup raised $5 million in seed funding led by SOSV and Twynam, with an additional $4 million non‑dilutive investment earmarked for a production line. By integrating custom power electronics and packaging the panels as turnkey modules, RadianX aims to supply e‑readers, IoT sensors and other edge devices with continuous, maintenance‑free power. The technology’s high power density and thin form factor position it as a potential game‑changer for portable electronics and robotics.",
+      "key_points": [
+        "RadianX’s perovskite panels achieve a record 22.33% indoor efficiency",
+        "The company secured $5 million in seed funding and $4 million in non‑dilutive investment for production",
+        "Custom power electronics and turnkey packaging target e‑readers, sensors, and future robotics",
+        "High power density and thinness make the panels suitable for a wide range of edge devices"
+      ],
+      "topics": [
+        "solar",
+        "perovskite",
+        "battery",
+        "edge devices",
+        "startup"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "processed_at": "2026-11-08T02:07:51.636897+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-04-openai-is-already-trying-to-shape-the-2028-election",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
@@ -2324,154 +2474,6 @@
       "credit": "Source: TechCrunch",
       "published": "Fri, 30 Oct 2026 21:48:53 +0000",
       "processed_at": "2026-11-02T18:42:46.758424+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-googles-first-data-center-satellite-is-online-and-writing-poetry",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-      "title": "Google's first data center satellite is online and writing poetry | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Google’s Suncatcher prototype satellite, launched on a SpaceX Falcon 9 in early October, is now online and communicating with the ground while carrying four Tensor Processing Units (TPUs) that can generate up to 1 kW of power. The satellite’s first test involved asking Google DeepMind’s Gemma 4 model to compose a haiku about space, demonstrating the ability to run inference workloads in orbit, though only one TPU can be powered on for about 20 minutes at a time due to power constraints. Engineers are now evaluating how the chips perform under thermal stress and space radiation, which can cause bit flips that corrupt data, and the results will inform plans to launch two additional, higher‑power satellites in 2027 with inter‑satellite optical links. The project is part of Google’s broader vision for orbital data centers and is closely tied to SpaceX’s Starship development, with Alphabet holding a significant stake in the launch provider.",
-      "key_points": [
-        "Suncatcher satellite is online, carries four TPUs, and has written a poetry haiku using DeepMind’s Gemma 4.",
-        "Only one TPU can be powered on at a time, limiting operation to roughly 20 minutes per cycle due to power constraints.",
-        "Ground tests are assessing radiation effects on the TPUs, which could cause bit flips and data corruption in space.",
-        "If successful, Google plans to launch two more satellites in 2027 with higher power and optical inter‑satellite links, relying on SpaceX’s Starship rocket."
-      ],
-      "topics": [
-        "space",
-        "ai",
-        "google",
-        "satellite",
-        "data center"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
-      "processed_at": "2026-11-02T18:42:46.811454+00:00"
-    },
-    {
-      "id": "26-10-29-who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-      "title": "Founder Summit in 6 days in Boston | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit will take place in Boston on November 4, offering founders, investors, and operators a day of breakout and roundtable sessions focused on real‑world lessons from scaling and growth. The event, presented by Fidelity Private Shares, features speakers such as Toast’s Steve Fredette, Bessemer’s Kent Bennett, and Cogent Security’s Vineet Edupuganti, who will discuss topics from reinvention to team building. Attendees can take advantage of promotional offers, including a buy‑one‑get‑one‑free ticket and up to 30% off group bundles, before the doors open. The summit aims to provide actionable insights that help startups move from early traction to meaningful scale while navigating fundraising, product‑market fit, and investor signals.",
-      "key_points": [
-        "The summit opens on November 4 in Boston and is presented by Fidelity Private Shares.",
-        "Speakers include Toast’s Steve Fredette, Bessemer’s Kent Bennett, and Cogent Security’s Vineet Edupuganti, covering scaling, growth, and team building.",
-        "Promotional deals offer a free second ticket or up to 30% off group bundles before the event starts."
-      ],
-      "topics": [
-        "founder summit",
-        "startup",
-        "boston",
-        "investment"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "processed_at": "2026-11-02T08:01:45.440539+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-intels-stock-crashes-knocking-12b-from-governments-stake",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
-      "title": "Intel's stock crashes, knocking $12B from government's stake | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Intel’s shares plunged about 28% on Friday after the company issued a weaker‑than‑expected fourth‑quarter outlook, causing the U.S. government’s 10% stake to lose roughly $12 billion in value. The downgrade came as Intel projected revenue of $15‑$16 billion versus analysts’ $17 billion estimate and warned its gross‑margin would fall to 37% from 43%, while it expected no positive cash flow. Despite the sharp drop, the government still holds a profitable position, with Intel up more than 70% year‑to‑date, and Nvidia’s stake also saw a modest decline. The company cited a PC slowdown driven by high memory prices and AI demand, but noted a 78% jump in data‑center revenue, though capacity expansion is delayed until new fabs become operational in 2028.",
-      "key_points": [
-        "Intel’s stock fell 28% after a weaker Q4 outlook, wiping $12 billion off the government’s stake.",
-        "The company warned of lower revenue ($15‑$16 billion) and a margin drop to 37%, with no expected positive cash flow.",
-        "PC sales are pressured by AI‑driven memory demand, while data‑center revenue grew 78% but is limited by fab capacity.",
-        "The government’s 10% Intel holding remains profitable, up over 70% year‑to‑date, despite the sharp decline."
-      ],
-      "topics": [
-        "intel",
-        "stockmarket",
-        "chipmakers",
-        "government",
-        "data center"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
-      "processed_at": "2026-11-02T08:01:44.094044+00:00"
-    },
-    {
-      "id": "-techcrunch-com-2026-10-30-anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "title": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Anthropic is expected to receive a high \"junk\" rating from credit agencies after its IPO, according to a Financial Times report. Blackstone, the anchor investor in a $63 billion chip‑financing deal, now predicts a double‑B range rating, a top tier of speculative junk, after previously saying the company would be investment‑grade before 2027. A high junk rating would raise borrowing costs and make it harder for Anthropic to finance its large compute‑spending spree. The filing for the IPO earlier this week has intensified speculation about the impact on the broader AI industry.",
-      "key_points": [
-        "Blackstone now forecasts a double‑B junk rating for Anthropic post‑IPO",
-        "The prediction contrasts with earlier investment‑grade expectations",
-        "A high junk rating could increase borrowing costs and limit funding",
-        "Anthropic’s heavy compute spending has raised investor concerns"
-      ],
-      "topics": [
-        "anthropic",
-        "credit rating",
-        "ipo",
-        "blackstone",
-        "ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
-      "processed_at": "2026-11-02T08:01:56.746042+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-cracks-are-emerging-in-the-ai-spending-boom",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
-      "title": "Cracks are emerging in the AI spending boom | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "Investors are growing uneasy about the massive AI infrastructure spend announced by Alphabet, Amazon, Meta, and Microsoft, which together plan over $740 billion in capital expenditures this year. The news has triggered a sharp sell‑off, with the Nasdaq falling 2.9% and major chip stocks like Nvidia, Broadcom, and Qualcomm dropping 4–11%, while Alphabet’s shares plunged 12% and wiped out $500 billion in market value. Alphabet, Amazon, and Meta are reporting negative free cash flow, raising concerns that the hefty AI outlays may erode the profitability of their core businesses, whereas Microsoft remains the only firm with positive free cash flow. The surge in debt—$326 billion raised in 2026—combined with the looming Anthropic IPO, underscores the financial strain on the sector as demand for AI compute remains high.\n",
-      "key_points": [
-        "Alphabet, Amazon, Meta, and Microsoft plan more than $740 billion in AI‑related capex this year",
-        "Alphabet, Amazon, and Meta are reporting negative free cash flow while Microsoft stays positive",
-        "The Nasdaq and major chip stocks fell sharply after the announcements, and Alphabet lost $500 billion in market value",
-        "$326 billion of debt was raised by the big tech firms in 2026, and Anthropic’s IPO faces potential junk‑rating concerns"
-      ],
-      "topics": [
-        "ai",
-        "investing",
-        "tech",
-        "market",
-        "finances"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 21:17:40 +0000",
-      "processed_at": "2026-11-02T08:01:44.480723+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-30-ollie-a-privacy-focused-ai-assistant-is-shutting-down",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Ollie, a privacy‑focused AI assistant startup, announced it will shut down on November 6 after a week of announcement. Co‑founder Bill Lennon said the small team built an impressive personal assistant, but competition from larger players like Muse and Instinct made it hard to raise capital and stand out. The app offered a subscription‑based service that integrated email, calendar, appointment booking, meal planning, bill payments, and planned household budgeting, and was one of the first mainstream apps to achieve SOC 2 compliance. Users will receive instructions to export data and receive refunds.",
-      "key_points": [
-        "Ollie will shut down on November 6 after a week of announcement",
-        "The startup raised $7.5 million in seed funding led by Khosla Ventures and achieved SOC 2 compliance",
-        "Competition from larger AI assistants made it difficult to grow and secure funding",
-        "Users will be guided to export data and receive refunds"
-      ],
-      "topics": [
-        "ai",
-        "privacy",
-        "startup",
-        "shutdown",
-        "subscription"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "processed_at": "2026-11-02T01:21:26.598708+00:00"
     }
   ]
 }

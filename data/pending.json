@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-11-07T22:32:36.254185+00:00",
+  "updated_at": "2026-11-08T02:07:49.198560+00:00",
   "items": [
-    {
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
-      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "feed_excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
-      "published": "Wed, 04 Nov 2026 17:11:15 +0000"
-    },
     {
       "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
       "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
@@ -14,40 +8,10 @@
       "published": "Thu, 05 Nov 2026 18:00:00 +0000"
     },
     {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "feed_excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "feed_excerpt": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-      "published": "Thu, 05 Nov 2026 15:40:34 +0000"
-    },
-    {
-      "title": "Instagram brings Edits to desktop to take on CapCut",
-      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-      "feed_excerpt": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
-    },
-    {
-      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-      "feed_excerpt": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
-      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
-    },
-    {
       "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "feed_excerpt": "Aina's ring can also take calls and help you dictate notes on your Mac.",
       "published": "Thu, 05 Nov 2026 14:42:00 +0000"
-    },
-    {
-      "title": "RadianX promises solar-powered devices that never need charging",
-      "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
-      "feed_excerpt": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
-      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
     },
     {
       "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
@@ -242,5 +206,5 @@
       "published": "Sat, 07 Nov 2026 19:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-07T22:32:51.364634+00:00"
+  "last_processed_at": "2026-11-08T02:08:24.328533+00:00"
 }
