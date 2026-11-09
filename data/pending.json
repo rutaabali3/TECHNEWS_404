@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:37:53.265516+00:00",
+  "updated_at": "2026-11-09T07:44:25.261113+00:00",
   "items": [
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
@@ -18,12 +18,6 @@
       "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
       "feed_excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
       "published": "Fri, 06 Nov 2026 14:10:00 +0000"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "feed_excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "published": "Fri, 06 Nov 2026 22:53:46 +0000"
     },
     {
       "title": "The Duo apps are coming, says Apple",
@@ -48,12 +42,6 @@
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "feed_excerpt": "The deal highlights the challenges of developing massive AI data centers.",
       "published": "Sat, 07 Nov 2026 01:40:28 +0000"
-    },
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "feed_excerpt": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "published": "Sat, 07 Nov 2026 17:24:07 +0000"
     },
     {
       "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
@@ -132,7 +120,13 @@
       "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
       "feed_excerpt": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
       "published": "Sun, 08 Nov 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "feed_excerpt": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "published": "Mon, 09 Nov 2026 05:26:29 +0000"
     }
   ],
-  "last_processed_at": "2026-11-09T00:38:16.103834+00:00"
+  "last_processed_at": "2026-11-09T07:44:36.587410+00:00"
 }

@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-09T00:38:20.370590+00:00",
+  "updated_at": "2026-11-09T07:44:52.139709+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-07-binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+      "title": "Binance CFO is leaving to 'pursue a new venture' after $6.3 billion hack | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Binance’s chief financial officer Kaiser Ng is stepping down to pursue a new venture after more than five years at the exchange, following a $6.3 billion hack that saw users withdraw $3.6 billion after a temporary freeze. The company and the FBI have blamed a North Korean group called TraderTraitor for the breach, and Binance has pledged to cover all losses so users are not impacted. A transition plan has been in place for the last six months, and Ng will be succeeded by Justin Yek as CFO. The departure comes just a week after the high‑profile theft, underscoring the ongoing security challenges in the crypto industry.",
+      "key_points": [
+        "Binance CFO Kaiser Ng departs after $6.3 billion hack",
+        "Binance will absorb stolen funds, protecting users",
+        "North Korean group TraderTraitor blamed for the breach",
+        "Justin Yek named as new CFO"
+      ],
+      "topics": [
+        "cryptocurrency",
+        "binance",
+        "hack",
+        "north korea",
+        "finance"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 07 Nov 2026 17:24:07 +0000",
+      "processed_at": "2026-11-09T07:44:36.587324+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation | TechCrunch",
+      "author": "Lucas Ropek",
+      "summary": "OpenAI has secured $11 billion in a new funding round that values the AI lab at $1.25 trillion, according to Bloomberg. The round is still open and could ultimately raise about $20 billion, falling short of the earlier $30 billion target. OpenAI’s plans to go public have been delayed, with expectations now pointing to an IPO next year. The announcement comes amid a volatile AI market, heightened by political shifts and growing regulatory scrutiny of data centers.",
+      "key_points": [
+        "OpenAI raised $11 billion at a $1.25 trillion valuation",
+        "The funding round could total $20 billion, below the earlier $30 billion target",
+        "OpenAI’s IPO plans have been postponed to next year",
+        "Market uncertainty is heightened by political and regulatory factors"
+      ],
+      "topics": [
+        "openai",
+        "funding",
+        "valuation",
+        "ipo",
+        "ai industry"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "processed_at": "2026-11-09T07:44:26.538562+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-06-ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
@@ -2437,56 +2487,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 02 Nov 2026 16:23:21 +0000",
       "processed_at": "2026-11-04T02:00:02.679906+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2024-Bridgit-Mendler.jpg?resize=1200,800",
-      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "Northwood Space, a space‑infrastructure startup founded in 2022, closed a $375 million Series C that values the company at $2 billion. The round was co‑led by Andreessen Horowitz and DFJ Growth and will be used to scale operations, hire talent and deliver on existing contracts, including a nearly $50 million U.S. Space Force deal to upgrade the satellite control network. CEO Bridgit Mendler, a former actress, has guided the company’s rapid growth in satellite‑to‑Earth communications technology. The funding round also includes a financial agreement with HSBC to support the company’s expansion plans.",
-      "key_points": [
-        "Northwood Space raised $375 million in a Series C, valuing the company at $2 billion",
-        "The round was co‑led by Andreessen Horowitz and DFJ Growth",
-        "CEO Bridgit Mendler has steered the company’s rapid growth since its 2022 founding",
-        "The deal includes a $50 million contract with the U.S. Space Force and a financial agreement with HSBC"
-      ],
-      "topics": [
-        "space",
-        "satellites",
-        "funding",
-        "a16z",
-        "spaceforce"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 14:22:35 +0000",
-      "processed_at": "2026-11-04T02:00:21.200067+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-01-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’ | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "OpenAI is preparing a public relations campaign after the U.S. midterm elections to shape the national conversation around artificial intelligence, according to chief global affairs officer Chris Lehane. The company’s strategy includes proposals such as AI speed limits, messaging that frames AI as empowering, pushing for U.S. leadership in global standards, and rebranding its data centers as \"AI compute campuses\" to mitigate public unease. Lehane emphasized that communities should hold AI firms accountable so they deliver transformative benefits, and noted that the debate over data centers has prompted major cloud providers to drop NDAs in local negotiations. The rebranding effort is part of a broader effort to influence the 2028 presidential election where AI is expected to be a key issue.",
-      "key_points": [
-        "OpenAI plans a PR blitz after the midterms to shape the AI debate and influence the 2028 election",
-        "Proposals include AI speed limits, empowerment messaging, global standards, and rebranding data centers as \"AI compute campuses\"",
-        "Chris Lehane stresses community accountability and transformative benefits from AI projects",
-        "The rebranding aims to address the unpopularity of data centers and improve public perception"
-      ],
-      "topics": [
-        "openai",
-        "ai",
-        "data centers",
-        "politics",
-        "rebranding"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 01 Nov 2026 21:55:23 +0000",
-      "processed_at": "2026-11-03T21:55:08.781891+00:00"
     }
   ]
 }
