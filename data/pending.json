@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:41:26.929893+00:00",
+  "updated_at": "2026-11-09T00:37:53.265516+00:00",
   "items": [
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
@@ -12,24 +12,6 @@
       "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
       "feed_excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
       "published": "Fri, 06 Nov 2026 00:01:38 +0000"
-    },
-    {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "feed_excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "published": "Fri, 06 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "feed_excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "published": "Fri, 06 Nov 2026 06:28:32 +0000"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "feed_excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "published": "Fri, 06 Nov 2026 15:54:47 +0000"
     },
     {
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -132,7 +114,25 @@
       "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
       "feed_excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": "Sun, 08 Nov 2026 17:02:00 +0000"
+    },
+    {
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "feed_excerpt": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "published": "Sun, 08 Nov 2026 22:00:00 +0000"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "feed_excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+      "published": "Sun, 08 Nov 2026 21:00:11 +0000"
+    },
+    {
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "feed_excerpt": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "published": "Sun, 08 Nov 2026 21:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-08T20:41:28.346821+00:00"
+  "last_processed_at": "2026-11-09T00:38:16.103834+00:00"
 }

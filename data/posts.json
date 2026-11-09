@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-11-08T20:41:58.756568+00:00",
+  "updated_at": "2026-11-09T00:38:20.370590+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-06-ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO | TechCrunch",
+      "author": "Rebecca Bellan",
+      "summary": "A Ramp report shows that AI spending has flatlined in August and September, with token spend rising only 1.5% while the previous month saw a 42% jump, even as token volumes continue to climb. The slowdown coincides with aggressive price cuts from OpenAI and Anthropic, which have slashed API and model prices and offered enterprise discounts, turning the market into a buyer’s war. Investors are reacting to the data, with Anthropic’s valuation falling from an estimated $2 trillion to $1.2–$1.3 trillion and OpenAI’s valuation dropping to $1.25 trillion, raising doubts about the continued hyper‑growth narrative. The report suggests that while usage is up, companies are spending less per token and per employee, especially outside the top 1% of high‑growth firms, indicating a potential shift in revenue trajectories for leading AI providers.",
+      "key_points": [
+        "AI spending grew only 1.5% in Aug‑Sep, a sharp drop from July’s 42% rise, despite higher token volumes.",
+        "Price wars and enterprise discounts from OpenAI and Anthropic have turned the market into a buyer’s war, stalling revenue growth.",
+        "Anthropic’s valuation fell to $1.2–$1.3 trillion and OpenAI’s to $1.25 trillion, reflecting investor concern over slowed spend.",
+        "Median firms spend $12‑$15 per employee per month, while the top 10% spend $600‑$1,000, showing a widening gap in AI spend intensity."
+      ],
+      "topics": [
+        "ai",
+        "spending",
+        "openai",
+        "anthropic",
+        "valuation",
+        "pricewar",
+        "enterprise",
+        "tokenvolume"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "processed_at": "2026-11-09T00:37:55.022555+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+      "title": "Physicl raises $10M to make the digital world real enough for robots | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Physicl, a new robotics‑AI startup founded by Alex de Vigan, has raised $10 million in seed funding led by Inovia Capital to deliver high‑fidelity 3D simulations that help train robots more effectively. The company repurposes technology originally built for the e‑commerce rendering platform nfinite, turning real‑world data into physics‑accurate virtual environments. Its Studio product ships with 10,000 ready‑made scenes and 100,000 assets, enabling users to generate synthetic data for difficult edge cases such as identifying a cup on a cluttered counter. Early adopters like SpAItial are already using Physicl’s data to improve their Echo‑3 world‑model builder, underscoring the startup’s potential to bridge the gap between virtual training and real‑world performance.",
+      "key_points": [
+        "Physicl raises $10 million seed led by Inovia Capital to provide realistic 3D simulations for robot training",
+        "The platform repurposes nfinite’s rendering tech to convert real‑world data into physics‑accurate virtual environments",
+        "Studio offers 10,000 scenes and 100,000 assets for generating synthetic data on edge cases",
+        "SpAItial uses Physicl’s data to enhance its Echo‑3 world‑model builder"
+      ],
+      "topics": [
+        "robotics",
+        "ai",
+        "simulation",
+        "startup",
+        "funding"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "processed_at": "2026-11-09T00:37:54.842660+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Palo Alto Networks is reportedly negotiating to buy AI‑agent security startup Clutch Security for $500 million in cash plus milestone‑based payouts, a deal that would value the three‑year‑old company at roughly 50 times its $10 million annual recurring revenue. Clutch, which protects AI agents’ access to corporate systems, raised a $20 million Series A in January 2025 at an $85 million valuation. The acquisition would mark Palo Alto’s seventh purchase this year, underscoring the firm’s strategy of acquiring AI‑focused security innovations to counter rising AI‑driven cyberattacks. Similar moves include recent buys of Console, Embrace, Chronosphere and Koi, reflecting a broader trend of large vendors snapping up niche AI security firms.",
+      "key_points": [
+        "Palo Alto Networks is in talks to acquire Clutch Security for $500 million cash plus milestone payouts.",
+        "Clutch’s valuation at about 50× its $10 million ARR highlights the premium on AI‑agent security solutions.",
+        "The deal would be Palo Alto’s seventh acquisition this year, part of a strategy to counter AI‑driven cyberattacks.",
+        "Clutch competes with other AI‑agent security startups such as Cyera and has attracted interest from major players like Cisco.”]",
+        "topics",
+        ":",
+        [
+          "cybersecurity",
+          "ai",
+          "acquisition",
+          "palo alto networks",
+          "clutch security"
+        ]
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "processed_at": "2026-11-09T00:38:16.103735+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-05-airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
@@ -2406,81 +2487,6 @@
       "credit": "Source: TechCrunch",
       "published": "Sun, 01 Nov 2026 21:55:23 +0000",
       "processed_at": "2026-11-03T21:55:08.781891+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
-      "title": "Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Readwise has launched Readwise Books, an app that blends an e‑book store with detailed reading analytics, positioning itself as a cross between Amazon’s Kindle and Goodreads. The beta app lets users buy, read, and track millions of e‑books from major publishers, while offering richer metrics such as words read, pace, and immersion, and AI‑powered features like session recaps and term lookups. Readwise emphasizes an open‑technology approach, providing a public API and an MCP server to enable third‑party integrations and AI agents. The service remains free for the Books app, with advanced AI features slated for a future paid tier, and is available only to invitees or existing Readwise subscribers.",
-      "key_points": [
-        "Readwise Books combines an e‑book store with in‑depth reading analytics, aiming to rival Kindle and Goodreads",
-        "The app offers AI‑driven features such as session recaps, definitions, and translations, currently available for HarperCollins titles",
-        "Readwise adopts an open‑technology model, exposing a public API and MCP server for third‑party integrations",
-        "The Books app is free in beta, with advanced AI features expected behind a paywall in the future"
-      ],
-      "topics": [
-        "readwise",
-        "ebook",
-        "reading analytics",
-        "ai",
-        "openapi"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 17:49:41 +0000",
-      "processed_at": "2026-11-03T21:55:08.723647+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition | TechCrunch",
-      "author": "Tim Fernholz",
-      "summary": "Omen AI, a 2024 startup that builds real‑time water‑sensor technology for data‑center cooling, has acquired competitor Aquatic Labs in a $16 million cash‑and‑stock deal, after raising $31 million in Series A funding. The merger combines Omen’s element‑detection sensors with Aquatic Labs’ alkalinity‑testing unit to deliver a richer, automated view of cooling fluids, with a product slated for market launch early next year. Omen’s first sensors will target data centers drawing 250‑300 MW of power—worth $5‑$7 billion—by year‑end, with a goal of covering 1 GW of chips by 2027, aiming to reduce costly downtime and water waste. The move positions Omen to capture a share of the projected $4 trillion AI infrastructure spend while expanding its impact beyond data centers into responsible water management.",
-      "key_points": [
-        "Omen AI acquires Aquatic Labs for $16 million, merging complementary real‑time water‑sensor tech",
-        "The combined sensor will monitor both elemental composition and alkalinity, offering a fuller picture of cooling fluid health",
-        "Omen plans to deploy its first sensors in 250‑300 MW data‑center sites by year‑end, targeting 1 GW by 2027",
-        "The acquisition supports Omen’s strategy to improve uptime and reduce water‑related downtime costs in a growing AI infrastructure market"
-      ],
-      "topics": [
-        "ai",
-        "data centers",
-        "water cooling",
-        "sensor technology",
-        "startup acquisition"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "processed_at": "2026-11-03T21:55:09.280019+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-10-31-data-centers-are-now-a-midterm-issue-even-in-brooklyn",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
-      "title": "Data centers are now a midterm issue, even in Brooklyn | TechCrunch",
-      "author": "Dominic-Madori Davis",
-      "summary": "A Brooklyn mid‑term election event highlighted how data centers and AI have become political flashpoints, with attendees debating the rapid expansion of tech infrastructure and its social impact. A recent Data Center Watch report cited nearly $200 billion in projects stalled or blocked in early 2026 due to community and political pushback, prompting states such as Pennsylvania, Georgia, Texas, New York, and Virginia to consider stricter guardrails and transparency. Panelists and city officials expressed concerns over secret deals, zoning opacity, environmental and health risks, and the perceived loss of local control, while some labor groups noted temporary job creation. The conversation underscored that AI and data centers are now election‑relevant issues that could sway voter sentiment on November 3.\n",
-      "key_points": [
-        "Data centers and AI have become a key mid‑term election issue, influencing voter sentiment in November 2026",
-        "Nearly $200 billion in data center projects were delayed or blocked in the first half of 2026 due to political and community opposition",
-        "States including Pennsylvania, Georgia, Texas, New York, and Virginia are exploring new regulations and transparency requirements for data center development",
-        "Public backlash centers on perceived tech monopolies, environmental and health risks, and the loss of local control over community projects"
-      ],
-      "topics": [
-        "data centers",
-        "ai",
-        "midterm elections",
-        "tech policy",
-        "public opinion"
-      ],
-      "source_url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 01 Nov 2026 02:22:10 +0000",
-      "processed_at": "2026-11-03T16:28:32.719304+00:00"
     }
   ]
 }
