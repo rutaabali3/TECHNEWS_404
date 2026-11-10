@@ -1,7 +1,101 @@
 {
-  "updated_at": "2026-11-10T17:14:47.713880+00:00",
+  "updated_at": "2026-11-10T22:29:17.579071+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-08-nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Nvidia's board announced an independent investigation into CEO Jensen Huang after reports that a Chinese spy operation targeted him. The probe follows Huang’s admission of an affair with Alice Huang, a former Megaspeed executive who was allegedly recruited by China’s Ministry of State Security to spy on Nvidia. Nvidia said it has no evidence that national‑security or company secrets were compromised and that Huang fully supports the review. The investigation will be led by independent directors and outside counsel, while the company maintains confidence in Huang’s leadership.",
+      "key_points": [
+        "Nvidia is launching an independent probe into CEO Jensen Huang after allegations of a Chinese spy targeting him.",
+        "Huang admitted an affair with Alice Huang, who was reportedly recruited by China’s Ministry of State Security to spy on Nvidia.",
+        "Nvidia says there is no evidence that national‑security or company secrets were compromised and that Huang supports the investigation.",
+        "The review will be conducted by independent directors and outside legal counsel."
+      ],
+      "topics": [
+        "nvidia",
+        "ai",
+        "spying",
+        "corporate governance",
+        "china"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+      "processed_at": "2026-11-10T22:28:50.331402+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-08-techcrunch-mobility-the-cybertruck-experiment-is-over",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1200,800",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over | TechCrunch",
+      "author": "Kirsten Korosec",
+      "summary": "Tesla announced it will cease production of the Cybertruck in 2027 after a decade of limited sales, despite a record 1 million reservations. The pickup never delivered on its promised 500‑mile range or under‑$40,000 price tag, and practical concerns such as its unconventional design and niche appeal kept deliveries to roughly 71,000 units. Musk said the company will refund some deposits and that the decision reflects the vehicle’s commercial shortcomings. The move marks the end of a high‑profile experiment that highlighted the challenges of bringing radical EV concepts to market.",
+      "key_points": [
+        "Tesla will stop making the Cybertruck in 2027.",
+        "Only about 71,000 Cybertrucks have been sold despite 1 million reservations.",
+        "The truck failed to meet its promised 500‑mile range and <$40k price.",
+        "Tesla will refund some deposits and cites commercial shortcomings."
+      ],
+      "topics": [
+        "tesla",
+        "cybertruck",
+        "electric vehicles",
+        "automotive",
+        "production"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 08 Nov 2026 17:02:00 +0000",
+      "processed_at": "2026-11-10T22:28:50.013063+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-08-ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722",
+      "title": "Ninja's AutoBarista is impressively versatile, but one feature was a dealbreaker for me | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "The Ninja AutoBarista is a fully automated espresso machine that can brew 13 different drinks with a single button, thanks to its Grind iQ technology that auto‑calibrates grind size, dose, and temperature. It also features an automatic milk frother, self‑rinsing system, and a drip tray that can overflow if not emptied regularly. The reviewer praised the quality of the drinks but found the drip tray overflow and moldy knock box a dealbreaker, especially for users who prefer minimal maintenance. At $949.99, the machine is best suited for people who value convenience over full control of the brewing process.",
+      "key_points": [
+        "Ninja AutoBarista can brew 13 drinks with Grind iQ auto‑calibration",
+        "Automatic milk frother and self‑rinsing reduce maintenance but the drip tray can overflow",
+        "Mold buildup in the knock box and frequent tray emptying are major drawbacks",
+        "The $949.99 price makes it ideal only for users who prioritize convenience over control"
+      ],
+      "topics": [
+        "coffee",
+        "appliances",
+        "automation",
+        "kitchen",
+        "review"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 08 Nov 2026 15:00:00 +0000",
+      "processed_at": "2026-11-10T22:28:49.607039+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-07-parents-want-safer-phones-for-kids-these-companies-are-answering-the-call",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
+      "title": "Parents want safer phones for kids — these companies are answering the call | TechCrunch",
+      "author": "Lauren Forristal",
+      "summary": "Parents are increasingly worried about the dangers of unrestricted smartphone access for children, prompting a wave of companies to develop kid‑friendly phones that limit web browsing, social media, and app stores while offering parental controls.  Devices such as Bark, Gabb, Pinwheel, Teracube, Ooma MyPhone, Tin Can, Waffle, and Yello! range from modified smartphones with monitoring software to minimalist landlines and screen‑free walkie‑talkies, all designed to let parents approve contacts, set screen‑time limits, and monitor location.  Prices vary from about $119 for a basic phone to $258 for a full‑featured model, with monthly service plans starting around $7.99 to $29.  This trend highlights a growing market segment focused on safer digital experiences for children and the tech industry’s response to parental demand.",
+      "key_points": [
+        "Companies like Bark, Gabb, Pinwheel, Teracube, Ooma MyPhone, Tin Can, Waffle, and Yello! offer kid‑friendly phones that restrict web browsing, social media, and app stores while providing parental controls",
+        "Devices range from modified smartphones with monitoring software to minimalist landlines and screen‑free walkie‑talkies, catering to different age groups and usage needs",
+        "Pricing spans from $119 for basic models to $258 for full‑featured phones, with monthly plans from $7.99 to $29, reflecting market segmentation",
+        "The trend underscores increasing parental demand for safer digital experiences for children and the tech industry’s rapid response"
+      ],
+      "topics": [],
+      "source_url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 07 Nov 2026 19:00:00 +0000",
+      "processed_at": "2026-11-10T22:29:15.943702+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
@@ -2386,106 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 02 Nov 2026 14:42:38 +0000",
       "processed_at": "2026-11-04T22:47:50.239670+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-01-ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else? | TechCrunch",
-      "author": "Anthony Ha",
-      "summary": "TechCrunch discusses how AI CEOs such as Marissa Mayer, Sam Altman, and Mark Zuckerberg have made out‑of‑touch remarks about AI’s role in everyday life, sparking criticism. The article questions whether the industry’s focus on optimizing basic human interactions—like dating, parenting, and social needs—really serves the average consumer. A podcast interview with Amanda Silberling explores whether the disconnect stems from marketing missteps, product design choices, or a mismatch between the CEOs’ target audience and the broader public. The discussion highlights growing skepticism about AI’s societal impact and the need for companies to balance innovation with genuine human connection.",
-      "key_points": [
-        "AI CEOs have made remarks that many see as out‑of‑touch, prompting criticism.",
-        "The industry’s push to replace basic human interactions with AI may not align with everyday users’ needs.",
-        "Amanda Silberling argues the issue is partly marketing and partly product design.",
-        "There is increasing societal skepticism about AI’s role in personal and social life."
-      ],
-      "topics": [
-        "ai",
-        "ceos",
-        "technology",
-        "society",
-        "marketing"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Sun, 01 Nov 2026 20:57:58 +0000",
-      "processed_at": "2026-11-04T17:06:23.013820+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "title": "Apple says it's 'hard to predict' when iPhone Duo constraints will improve | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple acknowledged that shipping delays for the iPhone Duo are still ongoing and it is difficult to predict when supply will meet demand, according to COO Sabih Khan on the company’s fiscal fourth‑quarter earnings call. The delays stem from extraordinary demand that caused the device to sell out within hours, coupled with rising memory‑chip costs driven by the AI industry. Apple has reluctantly raised prices on several products and is deepening its titanium partnership with Perryman to support the new foldable phone. Customers who missed pre‑orders are now facing delivery dates that extend into next year, prompting Verizon to offer gift cards as an apology.",
-      "key_points": [
-        "iPhone Duo shipping delays push delivery into next year due to extraordinary demand and supply constraints",
-        "Apple has raised prices on several products amid soaring memory‑chip costs",
-        "Apple is strengthening its titanium supply partnership with Perryman for the foldable device",
-        "Verizon is compensating affected customers with gift cards"
-      ],
-      "topics": [
-        "apple",
-        "iphone",
-        "supply chain",
-        "memory chips",
-        "pricing"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 23:25:32 +0000",
-      "processed_at": "2026-11-04T17:06:37.447640+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-apples-inventory-surges-154-as-memory-chip-costs-climb",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-      "title": "Apple's inventory surges 154% as memory chip costs climb | TechCrunch",
-      "author": "Sarah Perez",
-      "summary": "Apple’s inventory rose sharply in fiscal Q4, jumping 31.1% from $11.09 billion in Q3 to $14.54 billion and growing 154.3% year‑over‑year. The surge is largely driven by higher memory chip costs, which the company expects to keep climbing and are a key factor behind its 45‑46% gross‑margin forecast for the December quarter. Apple is increasing memory purchases by $33 billion from June to September, while also raising device prices to offset the cost pressure. Weak iPad sales, down 10% YoY, were attributed to supply constraints amid the broader memory‑cost squeeze.",
-      "key_points": [
-        "Inventory increased 31.1% in Q4 and 154.3% YoY, largely due to memory chip costs",
-        "Apple forecasts a 45‑46% gross margin for the December quarter, citing rising memory expenses",
-        "The company raised memory purchases by $33 billion from June to September and expects further cost rises",
-        "iPad revenue fell 10% YoY to $6.2 billion, reflecting supply constraints and weaker demand"
-      ],
-      "topics": [
-        "apple",
-        "inventory",
-        "memory",
-        "gross margin",
-        "supply chain"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 23:04:57 +0000",
-      "processed_at": "2026-11-04T17:06:23.141266+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-web-host-squarespace-lays-off-19-of-its-employees",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
-      "title": "Web host Squarespace lays off 19% of its employees | TechCrunch",
-      "author": "Lucas Ropek",
-      "summary": "Squarespace announced a 19% workforce reduction, cutting roughly 300 jobs, as part of a restructuring aimed at streamlining operations and positioning the company for future growth. The move comes amid a broader industry shift toward generative‑AI‑powered website builders, with rivals like Wix and Lovable raising significant capital for similar tools. Squarespace has been investing heavily in AI, launching Blueprint in 2024 and the upcoming Forma platform, and recently returned to private ownership after a $7 billion buyout. The layoffs signal the company’s effort to adapt to changing market dynamics while accelerating its AI strategy.",
-      "key_points": [
-        "Squarespace is cutting about 19% of its workforce, roughly 300 employees, to simplify operations and accelerate growth",
-        "The company is investing in AI with products like Blueprint and the upcoming Forma platform",
-        "Industry competitors such as Wix and Lovable are raising large sums for AI‑driven website builders",
-        "The layoffs reflect a broader shift in web hosting toward generative‑AI tools and a need to stay competitive"
-      ],
-      "topics": [
-        "layoffs",
-        "ai",
-        "web hosting",
-        "squarespace",
-        "generative ai"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 19:25:59 +0000",
-      "processed_at": "2026-11-04T17:06:22.995587+00:00"
     }
   ]
 }
