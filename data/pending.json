@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-11-10T01:44:22.568807+00:00",
+  "updated_at": "2026-11-10T09:27:33.324500+00:00",
   "items": [
-    {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "feed_excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000"
-    },
     {
       "title": "Meta, Google, and TikTok sue California AG over teen social media law",
       "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
       "feed_excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
       "published": "Fri, 06 Nov 2026 00:01:38 +0000"
-    },
-    {
-      "title": "The Duo apps are coming, says Apple",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "feed_excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "published": "Fri, 06 Nov 2026 21:38:05 +0000"
     },
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -54,12 +42,6 @@
       "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
       "feed_excerpt": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
       "published": "Sun, 08 Nov 2026 20:30:00 +0000"
-    },
-    {
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "feed_excerpt": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "published": "Sun, 08 Nov 2026 19:51:30 +0000"
     },
     {
       "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
@@ -222,7 +204,25 @@
       "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
       "feed_excerpt": "Automattic aims to compete with the likes of Lovable with Spacefast.",
       "published": "Mon, 09 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "feed_excerpt": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "published": "Tue, 10 Nov 2026 07:00:00 +0000"
+    },
+    {
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "feed_excerpt": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+      "published": "Tue, 10 Nov 2026 05:18:43 +0000"
+    },
+    {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "feed_excerpt": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "published": "Tue, 10 Nov 2026 04:34:15 +0000"
     }
   ],
-  "last_processed_at": "2026-11-10T01:44:24.021275+00:00"
+  "last_processed_at": "2026-11-10T09:27:45.549288+00:00"
 }

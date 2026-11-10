@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-11-10T01:44:53.241375+00:00",
+  "updated_at": "2026-11-10T09:28:01.043552+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-05-agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying? | TechCrunch",
+      "author": "Tim Fernholz",
+      "summary": "Agility, the first pure humanoid robot company to go public, is completing a reverse merger through a SPAC that will raise $465 million in new capital and bring the company onto the stock market. The firm, spun out of Oregon State University in 2015, has deployed its Digit robots in industrial settings for customers such as Schaeffler, GXO, Toyota Motor Manufacturing Canada, and Mercado Libre, and now has $300 million in planned contracts for its next‑generation Digit 5 robot. Despite generating only $174,000 in revenue and a $362 million loss in the first half of 2026, Agility’s CEO Peggy Johnson says the new funding will support the development and rollout of Digit 5, which is expected to operate safely around humans and be available by the end of 2027. The move positions Agility as a pioneer in robot‑as‑a‑service, offering potential annual savings of $100,000 per customer and aiming to scale production to 10,000 units per year.",
+      "key_points": [
+        "Agility is going public via a SPAC, raising $465 million and becoming the first pure humanoid robot company on the stock market.",
+        "The company has $300 million in planned contracts for its new Digit 5 robot, which will be available by the end of 2027.",
+        "Agility’s current revenue is modest ($174,000) and it has incurred a $362 million loss, but the new capital will fund development and deployment of Digit 5.",
+        "The firm’s strategy focuses on repetitive, heavy‑lift tasks that are hard to staff, positioning it for robot‑as‑a‑service savings of up to $100,000 per customer."
+      ],
+      "topics": [
+        "robotics",
+        "spac",
+        "humanoid",
+        "automation",
+        "ai"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "processed_at": "2026-11-10T09:27:34.756838+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-08-sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "Sequoia Capital announced a series of structural changes this week, including the closure of its London office, the merger of its early‑stage and growth teams, and the termination of its Scouts program. Financial Times reports that these moves were intended to reverse the legacy of former steward Roelof Botha, who stepped down last year and was known for a process‑heavy, hierarchical approach. Botha’s recent appointment to the SpaceX board, made without Sequoia’s compliance clearance or partnership approval, has blindsided partners and raised concerns about the firm’s $20 billion stake in the company. Sequoia has stated that it continues to collaborate closely with Botha despite the controversy.",
+      "key_points": [
+        "Sequoia closed its London office, merged teams, and ended its Scouts program",
+        "The changes are viewed as an attempt to undo Roelof Botha’s legacy",
+        "Botha joined the SpaceX board without Sequoia’s approval, potentially impacting the firm’s $20 billion stake",
+        "Sequoia maintains that it still collaborates closely with Botha"
+      ],
+      "topics": [
+        "sequoia",
+        "botha",
+        "spacex",
+        "venturecapital",
+        "corporate governance"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 08 Nov 2026 19:51:30 +0000",
+      "processed_at": "2026-11-10T09:27:45.549234+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-the-duo-apps-are-coming-says-apple",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "title": "The Duo apps are coming, says Apple | TechCrunch",
+      "author": "Sarah Perez",
+      "summary": "Apple announced that its iPhone Duo now hosts over 100,000 Duo‑optimized apps, with thousands added daily, and highlighted a dozen new high‑profile titles such as Microsoft Word, Zoom, and the NBA app. The company noted that more than 2,000 developers attended 50 in‑person workshops across 19 cities to help adapt their apps for the new form factor. Despite its $1,999 starting price, the Duo sold out within hours of launch, prompting Apple to shift shipping times into the next year and admit the delays are hard to predict. Apple’s Vice President of Worldwide Developer Relations praised the rapid developer enthusiasm and expressed confidence that app updates will accelerate as more titles optimize for Duo.",
+      "key_points": [
+        "Apple now has 100,000+ Duo‑optimized apps and adds thousands daily",
+        "Over 2,000 developers attended workshops to adapt apps for Duo",
+        "The Duo sold out quickly despite its high price, causing shipping delays",
+        "Apple expects app updates to accelerate as more titles optimize for Duo"
+      ],
+      "topics": [
+        "apple",
+        "duo",
+        "apps",
+        "developer",
+        "hardware"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 21:38:05 +0000",
+      "processed_at": "2026-11-10T09:27:34.409598+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-07-after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
@@ -2412,81 +2487,6 @@
       "credit": "Source: TechCrunch",
       "published": "Tue, 03 Nov 2026 00:35:52 +0000",
       "processed_at": "2026-11-04T08:59:52.172085+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/hinge-app.jpeg?resize=1200,790",
-      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Hinge is testing a lower‑priced subscription tier that adds extra filters and custom location boundaries, a move announced during Match Group’s Q3 2026 earnings call. The new plan is aimed at women and price‑sensitive users, as Match Group notes Hinge’s revenue per payer is nearly twice Tinder’s but its payer penetration is lower. Despite Hinge’s strong growth—12% YoY increase in global monthly active users, 19% rise in direct revenue, and 2.3 million paid subscribers—the company is shifting strategy to broaden its paying base amid widespread subscription fatigue. The initiative comes alongside Match Group’s broader efforts to diversify engagement with features like Group Hangouts, Events, and real‑time adaptive recommendations.",
-      "key_points": [
-        "Hinge’s new tier adds filters and custom location boundaries to attract price‑sensitive users",
-        "Match Group highlights Hinge’s high revenue per payer but low payer penetration compared to Tinder",
-        "The shift follows a prior experiment with a higher‑priced tier and aims to convert more users into paying customers",
-        "Subscription fatigue remains a challenge, prompting additional engagement features such as Group Hangouts and real‑time recommendations"
-      ],
-      "topics": [
-        "dating apps",
-        "subscription fatigue",
-        "match group",
-        "hinge",
-        "user engagement"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 03 Nov 2026 00:14:51 +0000",
-      "processed_at": "2026-11-04T09:00:13.364956+00:00"
-    },
-    {
-      "id": "h-com-2026-11-02-a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/supermarket-freezer-hack-2299514106.jpg?resize=1200,800",
-      "title": "A fresh wave of cyberattacks has hit Europe's supermarket refrigerators, destroying food across countries | TechCrunch",
-      "author": "Zack Whittaker",
-      "summary": "A second wave of cyberattacks targeted supermarket refrigerators across Belgium, Ireland, Luxembourg, and Sweden, raising temperatures and causing widespread food spoilage. Supermarket giants Ahold Delhaize and Colruyt confirmed the hacks, which were carried out by changing defrost settings on Danfoss‑made units that no longer receive security updates. The incidents follow a similar French attack last month and highlight how weak IoT security can disrupt the food supply chain. The attacks underscore the real‑world impact of cyber threats on everyday infrastructure and consumer goods.",
-      "key_points": [
-        "Hackers raised temperatures on Danfoss refrigerators, causing food spoilage in multiple European countries",
-        "Ahold Delhaize and Colruyt confirmed heavy losses and the manipulation of defrost settings",
-        "Earlier France and US UNFI attacks show a growing trend of IoT‑based supply‑chain disruptions",
-        "Weak cybersecurity practices in IoT devices enable real‑world damage to food and logistics"
-      ],
-      "topics": [
-        "cybersecurity",
-        "iot",
-        "food supply chain",
-        "supermarkets",
-        "europe"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 14:08:52 +0000",
-      "processed_at": "2026-11-04T09:00:02.684860+00:00"
-    },
-    {
-      "id": "26-11-02-2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "title": "2 days till Founder Summit in Boston | TechCrunch",
-      "author": "TechCrunch Events",
-      "summary": "TechCrunch’s Founder Summit will kick off on November 4 at 9:00 a.m. ET in Boston’s SoWa Power Station, bringing founders, investors, and operators together to discuss scaling and growth. The event, presented by Fidelity Private Shares, features breakout and roundtable sessions, with keynote speakers Steve Fredette of Toast and Chase Garbarino of HqO sharing Boston‑based success stories. Attendees can network through Braindate, roundtables, and side events that deepen connections across the local startup ecosystem. It’s the final day to secure tickets before prices rise, with a buy‑one‑get‑one‑free pass and other group discounts expiring soon.",
-      "key_points": [
-        "Founder Summit starts Nov. 4 at SoWa Power Station and is the last chance to buy tickets before price hikes",
-        "Key speakers Steve Fredette (Toast) and Chase Garbarino (HqO) will share Boston‑centric scaling insights",
-        "The agenda includes breakout sessions, roundtables, Braindate networking, and side events to connect founders, investors, and operators",
-        "Buy‑one‑get‑one‑free ticket deal and group discounts expire on the event day"
-      ],
-      "topics": [
-        "tech events",
-        "startup",
-        "boston",
-        "founder summit",
-        "networking"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 14:00:00 +0000",
-      "processed_at": "2026-11-04T08:59:53.625865+00:00"
     }
   ]
 }
