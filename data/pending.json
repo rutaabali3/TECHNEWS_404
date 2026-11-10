@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-11-10T09:27:33.324500+00:00",
+  "updated_at": "2026-11-10T17:14:16.204877+00:00",
   "items": [
-    {
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "feed_excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-      "published": "Fri, 06 Nov 2026 00:01:38 +0000"
-    },
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
       "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
       "feed_excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
       "published": "Sat, 07 Nov 2026 04:16:43 +0000"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "feed_excerpt": "The deal highlights the challenges of developing massive AI data centers.",
-      "published": "Sat, 07 Nov 2026 01:40:28 +0000"
     },
     {
       "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
@@ -222,7 +210,97 @@
       "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
       "feed_excerpt": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
       "published": "Tue, 10 Nov 2026 04:34:15 +0000"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "feed_excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "Tue, 10 Nov 2026 17:04:19 +0000"
+    },
+    {
+      "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+      "feed_excerpt": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+      "published": "Tue, 10 Nov 2026 16:50:38 +0000"
+    },
+    {
+      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+      "feed_excerpt": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+      "published": "Tue, 10 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "feed_excerpt": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "published": "Tue, 10 Nov 2026 15:54:08 +0000"
+    },
+    {
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+      "feed_excerpt": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+      "published": "Tue, 10 Nov 2026 15:45:27 +0000"
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "feed_excerpt": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "published": "Tue, 10 Nov 2026 15:29:30 +0000"
+    },
+    {
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "feed_excerpt": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+      "published": "Tue, 10 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+      "feed_excerpt": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
+      "published": "Tue, 10 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "feed_excerpt": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "published": "Tue, 10 Nov 2026 14:05:10 +0000"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "feed_excerpt": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "published": "Tue, 10 Nov 2026 14:01:39 +0000"
+    },
+    {
+      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+      "feed_excerpt": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "feed_excerpt": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "feed_excerpt": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "feed_excerpt": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "published": "Tue, 10 Nov 2026 13:30:00 +0000"
+    },
+    {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "feed_excerpt": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "published": "Tue, 10 Nov 2026 13:00:00 +0000"
     }
   ],
-  "last_processed_at": "2026-11-10T09:27:45.549288+00:00"
+  "last_processed_at": "2026-11-10T17:14:30.133222+00:00"
 }

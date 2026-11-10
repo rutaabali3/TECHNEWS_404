@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-11-10T09:28:01.043552+00:00",
+  "updated_at": "2026-11-10T17:14:47.713880+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "title": "Crusoe sells troubled Wyoming data center project to Google | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Crusoe, a Denver‑based data‑center developer, sold its unfinished Wyoming project to Google after the company raised concerns about cost and timeline. Google will invest $17 billion to complete the campus, while Crusoe continues to work with Google on a Texas site and other large AI clients. The sale underscores the difficulty independent developers face in delivering massive facilities on time and within budget, especially amid equipment, power, and community challenges. Despite the setback, Crusoe raised a $3.9 billion funding round in September.",
+      "key_points": [
+        "Crusoe sold unfinished Wyoming data center to Google, who will invest $17B to finish it",
+        "Google had previously struggled to secure Crusoe as a customer for the project",
+        "Crusoe remains a partner for Google in Texas and serves major AI clients such as Oracle, OpenAI, Microsoft, Meta, and Jane Street"
+      ],
+      "topics": [
+        "data center",
+        "google",
+        "crusoe",
+        "ai",
+        "investment"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "processed_at": "2026-11-10T17:14:30.133123+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-05-meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law | TechCrunch",
+      "author": "Amanda Silberling",
+      "summary": "Meta, Google, and TikTok have filed lawsuits against California Attorney General Rob Bonta to block AB 1709, a law that bans autoplay videos and personalized feeds for users under 16 and could fine platforms up to $50,000 per non‑compliant user. The companies argue the bill violates the First Amendment and Section 230, and would force them to delete minors’ accounts if they cannot turn off the restricted features. AB 1709 is part of a global trend to curb teen social media use, but critics warn it may erode privacy, limit parental control, and silence youth activism. The lawsuits come as the law is set to take effect at the start of the new year, following similar legislative moves in Australia and France.",
+      "key_points": [
+        "Meta, Google, and TikTok sue California to block AB 1709, which restricts autoplay and personalized feeds for users under 16",
+        "The law could impose fines of up to $50,000 per non‑compliant user and requires account deletion if features are not disabled",
+        "Companies cite First Amendment and Section 230 protections, claiming the bill forces them to alter or remove content for minors",
+        "Critics argue the law may compromise privacy, limit parental control, and silence teen activism"
+      ],
+      "topics": [
+        "tech",
+        "law",
+        "socialmedia",
+        "privacy",
+        "childprotection"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 00:01:38 +0000",
+      "processed_at": "2026-11-10T17:14:17.822362+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-05-agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200",
@@ -2437,56 +2486,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 02 Nov 2026 19:25:59 +0000",
       "processed_at": "2026-11-04T17:06:22.995587+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping | TechCrunch",
-      "author": "Rebecca Bellan",
-      "summary": "The New York Times has filed a federal lawsuit against the privacy‑focused browser Brave, accusing it of scraping the Times’ copyrighted articles and distributing them to AI companies such as Anthropic, Perplexity, Mistral, xAI, and Cohere. The suit, which also names the Daily News, Chicago Tribune, and Orlando Sentinel, alleges that Brave built an index of more than 30 billion web pages with an unidentified crawler, bypassed paywalls, and blocked publishers’ ads while selling its own. The Times calls Brave a \"supplier, dealer, and distributor of stolen copyrighted content\" and seeks an injunction and damages. Brave, founded in 2015 and having raised roughly $250 million, has not yet responded to the complaint.",
-      "key_points": [
-        "The New York Times sued Brave for scraping and distributing its copyrighted content to AI firms.",
-        "Multiple other newspapers joined the lawsuit, all filed in Manhattan federal court.",
-        "The suit accuses Brave of building a massive web index, bypassing paywalls, and blocking ads.",
-        "Brave, founded in 2015 and raised about $250 million, has not yet commented."
-      ],
-      "topics": [
-        "law",
-        "tech",
-        "browser",
-        "ai",
-        "copyright"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 19:19:17 +0000",
-      "processed_at": "2026-11-04T17:06:28.330215+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "title": "Y Combinator's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens | TechCrunch",
-      "author": "Julie Bort",
-      "summary": "Y Combinator CEO Garry Tan revealed that he spends between $100,000 and $200,000 a year on AI tokens to power a suite of agents that handle everything from coding to personal email and notes. He showcased 23 Claude Code skills, called gstack, on GitHub to demonstrate how agents can automate day‑to‑day tasks and even anticipate needs. Tan highlighted YC’s internal agent, Stray Light, which aggregates the entire founder database to streamline operations, and he warned that treating agents like static software limits their human‑like flexibility. He concluded that personal AI agents could become mainstream once costs drop, but cautioned against relying on free agents controlled by large tech firms that may impose algorithmic constraints.",
-      "key_points": [
-        "Tan spends $100k–$200k annually on AI tokens to run a network of agents that manage both work and personal data.",
-        "He shares 23 Claude Code skills on GitHub to illustrate how agents can automate tasks and anticipate needs.",
-        "YC uses an internal agent, Stray Light, that compiles all founder data to improve operations.",
-        "He believes personal AI agents will become mainstream only if prices fall and users retain control over their own models."
-      ],
-      "topics": [
-        "ai",
-        "ycombinator",
-        "tokens",
-        "costs",
-        "personal agents"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 03 Nov 2026 00:35:52 +0000",
-      "processed_at": "2026-11-04T08:59:52.172085+00:00"
     }
   ]
 }
