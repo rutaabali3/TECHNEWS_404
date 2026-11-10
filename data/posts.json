@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-11-09T07:44:52.139709+00:00",
+  "updated_at": "2026-11-10T01:44:53.241375+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-07-after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "The 2024 U.S. midterm elections saw a surge of anti‑data‑center sentiment, with voters rejecting dozens of ballot measures that would have eased approvals for new facilities. The shift coincided with Democrats gaining control of key state legislatures, including Texas, where governor‑elect Gina Hinojosa pledged to curb data‑center expansion. Elon Musk’s $500 million donation to Republicans did not translate into favorable outcomes for his data‑center interests, as his companies now face a more hostile regulatory climate. In response, firms like OpenAI announced a “compute campus” policy that removes NDAs and rebrands data centers to address public concerns.\n",
+      "key_points": [
+        "The midterms amplified grassroots opposition to data‑center construction, leading to widespread ballot measure defeats.",
+        "Elon Musk’s political donations failed to protect his data‑center interests amid a new Democratic‑led regulatory environment.",
+        "Tech companies are shifting strategies, with OpenAI rebranding data centers as compute campuses and increasing transparency to appease voters.",
+        "The election’s outcome signals a tougher future for hyperscalers, potentially affecting investment and expansion plans.\n"
+      ],
+      "topics": [
+        "tech",
+        "politics",
+        "data centers",
+        "ai",
+        "elections"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 07 Nov 2026 22:07:22 +0000",
+      "processed_at": "2026-11-10T01:44:23.742229+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-07-chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo | TechCrunch",
+      "author": "Anthony Ha",
+      "summary": "A U.S. intelligence memo alleged that Alice Huang, a technology executive at Singapore‑based Megaspeed, was recruited by China’s Ministry of State Security to spy on Nvidia CEO Jensen Huang, and that the two had a romantic relationship. The memo was first reported by the New York Times and later by the Financial Times, prompting Nvidia to deny that any classified information was shared and to describe the interactions as \"not unusual.\" A separate New York Times investigation highlighted New Matrix, a Chinese firm authorized to buy Nvidia chips, whose office appeared to be a shell, raising concerns it could be a front for a blacklisted private‑equity firm. The story has intensified scrutiny of Nvidia’s China ambitions and the CEO’s ties to alleged Chinese intelligence.\n",
+      "key_points": [
+        "U.S. intelligence memo claims Alice Huang was recruited by China’s Ministry of State Security to spy on Nvidia CEO Jensen Huang",
+        "The memo also alleges a romantic relationship between Jensen Huang and Alice Huang",
+        "Nvidia denies sharing classified information and says the interactions were normal",
+        "New Matrix’s empty office raises concerns it may be a front for a blacklisted private‑equity firm"
+      ],
+      "topics": [
+        "nvidia",
+        "china",
+        "intellegence",
+        "spy",
+        "techindustry"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "processed_at": "2026-11-10T01:44:23.936551+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1283080307.jpg?resize=1200,800",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era | TechCrunch",
+      "author": "Anna Heim",
+      "summary": "Sequoia announced a broad overhaul that includes closing its London office and shutting down its long‑running scout program, a move that signals a shift in how VCs source deals. The scout model, pioneered by Sequoia 17 years ago, has been adopted by many firms but is now seen as reaching its limits amid increased competition for deal flow. While Sequoia framed the decision as a need for greater focus rather than a critique of scouts, other firms like a16z are already revamping their own networks to concentrate on a smaller, more active group of scouts. The closure may prompt other funds to rethink or restructure their scouting initiatives, though the broader ecosystem benefits from the experience and network building that scouts have historically provided.",
+      "key_points": [
+        "Sequoia is ending its scout program as part of a broader focus shift.",
+        "The scout model, once a pioneer, is now considered to have reached its limits amid deal‑flow competition.",
+        "Other VC firms, such as a16z, are already tightening their scout networks, suggesting a trend toward more selective scouting."
+      ],
+      "topics": [
+        "venturecapital",
+        "scoutprogram",
+        "sequoia",
+        "a16z",
+        "startupecosystem"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sat, 07 Nov 2026 05:01:54 +0000",
+      "processed_at": "2026-11-10T01:44:23.992123+00:00"
+    },
+    {
+      "id": "https-techcrunch-com-2026-11-06-after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop | TechCrunch",
+      "author": "Ivan Mehta",
+      "summary": "Amazon has launched a new text‑based interface that lets U.S. customers chat with its Alexa AI agent to shop on Amazon, a move that follows the company’s earlier decision to block Meta’s Muse from accessing its site.  The feature, rolled out just before the holiday shopping season, allows users to search for items, add them to a cart, place orders, manage lists, compare products, and even upload pictures to find similar listings.  Select customers receive an invitation via text to enable the service, while others can join a waitlist for future access.  Amazon’s expansion into text‑based AI shopping reflects the growing trend of consumer‑facing AI agents, a trend also being pursued by companies such as DoorDash.",
+      "key_points": [
+        "Amazon introduces a text‑based Alexa shopping feature for select U.S. customers",
+        "Customers can search, add to cart, purchase, and manage lists via text messages",
+        "A waitlist is available for users not initially invited",
+        "The rollout aligns with the holiday season and signals Amazon’s push into AI agent competition"
+      ],
+      "topics": [
+        "amazon",
+        "alexa",
+        "ai",
+        "shopping",
+        "texting"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+      "processed_at": "2026-11-10T01:44:24.021237+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-07-binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
@@ -2388,105 +2487,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 02 Nov 2026 14:00:00 +0000",
       "processed_at": "2026-11-04T08:59:53.625865+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-openai-is-finally-merging-chatgpts-chat-and-work-tabs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs | TechCrunch",
-      "author": "Ivan Mehta",
-      "summary": "OpenAI is set to merge the Chat and Work tabs in the ChatGPT desktop app, a change that will let users move from idea exploration to execution in a single interface. The new experience will first be available to a select group of users for feedback before a wider rollout. Both ChatGPT and Codex will now draw tokens from the same allowance pool, which may cause some users to see more frequent reset waits. Anthropic has already merged similar functions in Claude, highlighting a trend toward unified AI workspaces.",
-      "key_points": [
-        "OpenAI will merge Chat and Work tabs in ChatGPT, initially for select users.",
-        "The merge enables users to bring files, plugins, and build projects in one place.",
-        "ChatGPT and Codex will share a single token allowance pool, potentially affecting reset frequency."
-      ],
-      "topics": [
-        "openai",
-        "chatgpt",
-        "ai",
-        "productivity",
-        "software"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 13:57:53 +0000",
-      "processed_at": "2026-11-04T08:59:53.103022+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1200,900",
-      "title": "Ford launches a 'privacy promise' and explains how and why it uses customer data | TechCrunch",
-      "author": "Sean O'Kane",
-      "summary": "Ford has announced a new \"privacy promise\" that commits to safeguarding vehicle data and giving customers control over what they share, accompanied by a dedicated website that explains data collection, usage, and settings. The initiative comes as Ford prepares to launch a new generation of connected cars on its universal electric vehicle platform, aiming to address growing consumer concerns about data privacy and to differentiate itself from competitors. Ford’s chief privacy officer, Kristin Jones, emphasized that the company will not monetize data or share driving information with third‑party brokers, and that opting out of certain data sharing will disable features such as real‑time navigation and roadside assistance. The move follows a recent $220 million settlement by General Motors over data‑sharing practices and reflects a broader industry push toward clearer consumer communication about data use.",
-      "key_points": [
-        "Ford launches a privacy promise and a new website to explain data collection and give customers control over sharing",
-        "Opting out of data sharing will disable some connected features, such as real‑time navigation and roadside assistance",
-        "Ford explicitly states it will not monetize data or share driving information with third‑party brokers",
-        "The initiative follows industry scrutiny, including GM’s recent settlement, and aims to build consumer trust amid rising privacy concerns"
-      ],
-      "topics": [
-        "ford",
-        "privacy",
-        "connected cars",
-        "data protection",
-        "automotive industry"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "processed_at": "2026-11-04T08:59:52.311194+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them | TechCrunch",
-      "author": "Connie Loizos",
-      "summary": "Ukrainian startup CODE380 has unveiled the pocket‑sized D·Vision SDR, a receiver that captures live, unencrypted video from Russian drones and displays it on a screen, giving Ukrainian forces real‑time insight into drone targets. The device weighs only about 10 ounces, making it lighter than competing models that can weigh several pounds. It can intercept the new radio channels used by Russia’s Molniya drones, which began transmitting video in June, a capability that many existing detectors miss. Analysts warn that a shift to fully digital video could render such analog receivers ineffective in the future.",
-      "key_points": [
-        "CODE380’s D·Vision SDR captures live video from Russian drones",
-        "The device weighs only 10 ounces, lighter than competitors",
-        "It intercepts new Molniya drone video channels introduced in June",
-        "A future move to digital video could blind analog receivers"
-      ],
-      "topics": [
-        "ukraine",
-        "drone",
-        "defense",
-        "technology",
-        "security"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Tue, 03 Nov 2026 01:12:55 +0000",
-      "processed_at": "2026-11-04T02:00:02.424355+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "title": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs | TechCrunch",
-      "author": "Amanda Silberling",
-      "summary": "Elon Musk announced that SpaceX’s Grok Bot will have its usage limits throttled after users reported their weekly caps maxing out unexpectedly. Musk confirmed on X that the cost of serving the bot was unsustainably high relative to revenue, not a glitch. SpaceX’s AI division, which now accounts for 52% of the company’s income, posted a $431 million profit but was hit by $1.2 billion of one-time Cursor acquisition costs. The company has yet to detail how subscriber limits will change going forward.",
-      "key_points": [
-        "Grok Bot usage limits unexpectedly maxed out for users",
-        "Musk said the bot’s operating cost was unsustainably high compared to revenue",
-        "SpaceX’s AI division made $431 million profit but faced $1.2 billion one-time costs",
-        "No update yet on future limit adjustments"
-      ],
-      "topics": [
-        "elon musk",
-        "grok bot",
-        "spacex",
-        "ai",
-        "costs"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 16:23:21 +0000",
-      "processed_at": "2026-11-04T02:00:02.679906+00:00"
     }
   ]
 }
