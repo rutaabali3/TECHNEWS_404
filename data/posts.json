@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-10T22:29:17.579071+00:00",
+  "updated_at": "2026-11-11T02:10:48.423174+00:00",
   "source": "TechCrunch",
   "posts": [
+    {
+      "id": "https-techcrunch-com-2026-11-09-anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024",
+      "title": "Anthropic reportedly plans to move forward with IPO plans | TechCrunch",
+      "author": "Marina Temkin",
+      "summary": "Anthropic is moving forward with its IPO, setting a valuation range this week and aiming to begin trading next Thursday or Friday. The company is targeting an implied valuation below $1.5 trillion, a figure that has been trimmed from earlier $2 trillion expectations amid a volatile market. Investors will watch the price to gauge the health of the AI boom, especially after OpenAI was valued at $1.25 trillion following an $11 billion capital raise. All seven founders are slated to cash out roughly $250 million each in the offering.",
+      "key_points": [
+        "Anthropic plans to set a valuation range this week and start trading next week",
+        "Valuation target under $1.5 trillion, down from earlier $2 trillion expectations",
+        "OpenAI valued at $1.25 trillion after raising $11B",
+        "All seven founders will cash out about $250M each"
+      ],
+      "topics": [
+        "ai",
+        "ipo",
+        "anthropic",
+        "openai",
+        "valuation"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "processed_at": "2026-11-11T02:10:28.221399+00:00"
+    },
+    {
+      "id": "chcrunch-com-2026-11-08-the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. | TechCrunch",
+      "author": "Connie Loizos",
+      "summary": "Stephen Ward, a former Secret Service agent and Coast Guard veteran, founded Brightmind Partners and raised a $250 million cybersecurity fund that helped lead the Series A for SGNL, which CrowdStrike acquired for $740 million.  After a high‑profile case where he was falsely implicated in a hacker’s crimes, Ward spent 18 months clearing his name before moving into the private sector and eventually launching his own venture firm.  He now seeks to raise a second fund of roughly the same size, this time as the sole general partner, as early‑stage cybersecurity startups raise more capital than later‑stage rivals for the first time in over a decade.  Ward’s approach is pragmatic: he believes in selling on the way up rather than waiting for an IPO, a philosophy that has already proven successful with Brightmind’s first exit.\n",
+      "key_points": [
+        "Ward’s $250 million Brightmind fund led to SGNL’s $740 million exit to CrowdStrike.",
+        "He spent 18 months clearing his name after being falsely accused in a hacker case.",
+        "Ward is raising a second fund solo amid a bullish early‑stage cybersecurity market.",
+        "His exit strategy focuses on selling on the way up instead of waiting for an IPO."
+      ],
+      "topics": [
+        "venture capital",
+        "cybersecurity",
+        "startup exits",
+        "fundraising",
+        "career transition"
+      ],
+      "source_url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "credit": "Source: TechCrunch",
+      "published": "Sun, 08 Nov 2026 17:30:00 +0000",
+      "processed_at": "2026-11-11T02:10:27.953084+00:00"
+    },
     {
       "id": "https-techcrunch-com-2026-11-08-nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
@@ -2430,56 +2480,6 @@
       "credit": "Source: TechCrunch",
       "published": "Mon, 02 Nov 2026 19:45:54 +0000",
       "processed_at": "2026-11-04T22:47:50.220090+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders | TechCrunch",
-      "author": "Aisha Malik",
-      "summary": "Snap has settled a lawsuit filed by two teenagers who alleged the platform was designed to be addictive and contributed to their depression, anxiety, and eating disorders. The settlement is part of a broader wave of litigation targeting social media companies for their impact on young users, following similar cases against Meta, TikTok, and YouTube. Snap had already settled other cases scheduled for trial and had expected CEO Evan Spiegel to testify. The company says it has implemented safeguards, safety tutorials, and expert partnerships and remains committed to improving user safety and well‑being.",
-      "key_points": [
-        "Snap reached a settlement with two teen plaintiffs over addiction and mental‑health claims.",
-        "The case follows similar lawsuits against Meta, TikTok, and YouTube.",
-        "Snap asserts it has introduced safety measures and will continue to strengthen them.",
-        "The lawsuit underscores growing legal scrutiny of social media’s influence on youth mental health."
-      ],
-      "topics": [
-        "social media",
-        "legal",
-        "mental health",
-        "youth",
-        "litigation"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 19:11:49 +0000",
-      "processed_at": "2026-11-04T22:47:49.877790+00:00"
-    },
-    {
-      "id": "https-techcrunch-com-2026-11-02-ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/NinjaCrispi.png?w=800",
-      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once | TechCrunch",
-      "author": "Lauren Forristal",
-      "summary": "Ninja’s new Crispi Microwave and Air Fryer blends a 1,000‑W microwave with a 1,700‑W air‑fry system in a single unit, using FusionCrisp technology to heat food quickly while giving it a crispy finish. The appliance, priced at $449.99 (discounted to $349.99 on Amazon), features a 5.5‑quart glass dish, a non‑stick crisper plate, and no rotating plate, allowing larger dishes to be cooked at once. While it can replace separate microwave and air‑fryer units and free counter space for those who use both, its 20.3 x 17.56 x 14.1‑inch footprint and high price make it less suitable for small kitchens or budget shoppers.",
-      "key_points": [
-        "Ninja’s Crispi combines a 1,000‑W microwave and a 1,700‑W air fryer in one unit using FusionCrisp technology",
-        "The appliance costs $449.99 (Amazon $349.99) and measures 20.3 x 17.56 x 14.1 inches, offering a large cooking area without a rotating plate",
-        "It can replace separate microwave and air‑fryer appliances, freeing counter space for users who regularly use both",
-        "Its high price and size make it less ideal for small kitchens or budget‑conscious buyers"
-      ],
-      "topics": [
-        "kitchen appliances",
-        "microwave",
-        "air fryer",
-        "consumer electronics",
-        "tech gadgets"
-      ],
-      "source_url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-      "source": "TechCrunch",
-      "credit": "Source: TechCrunch",
-      "published": "Mon, 02 Nov 2026 14:42:38 +0000",
-      "processed_at": "2026-11-04T22:47:50.239670+00:00"
     }
   ]
 }
