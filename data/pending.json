@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:44:53.670733+00:00",
+  "updated_at": "2026-11-11T17:45:49.934753+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -336,6 +336,36 @@
       "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
       "feed_excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
       "published": "Wed, 11 Nov 2026 07:30:51 +0000"
+    },
+    {
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "feed_excerpt": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "published": "Wed, 11 Nov 2026 16:16:07 +0000"
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "feed_excerpt": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "published": "Wed, 11 Nov 2026 16:14:44 +0000"
+    },
+    {
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "feed_excerpt": "Helix said that its voice ID tech can run on an iPhone 13",
+      "published": "Wed, 11 Nov 2026 15:02:47 +0000"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "feed_excerpt": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "published": "Wed, 11 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "feed_excerpt": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "published": "Wed, 11 Nov 2026 14:00:00 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
