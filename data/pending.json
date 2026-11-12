@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:40:17.873999+00:00",
+  "updated_at": "2026-11-12T22:38:27.205036+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -486,6 +486,72 @@
       "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
       "feed_excerpt": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
       "published": "Thu, 12 Nov 2026 13:26:25 +0000"
+    },
+    {
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "feed_excerpt": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "published": "Thu, 12 Nov 2026 22:22:28 +0000"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "feed_excerpt": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "feed_excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "published": "Thu, 12 Nov 2026 20:26:47 +0000"
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "feed_excerpt": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "published": "Thu, 12 Nov 2026 19:27:45 +0000"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "feed_excerpt": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "published": "Thu, 12 Nov 2026 19:11:00 +0000"
+    },
+    {
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "feed_excerpt": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "published": "Thu, 12 Nov 2026 19:03:39 +0000"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "feed_excerpt": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "published": "Thu, 12 Nov 2026 18:39:23 +0000"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "feed_excerpt": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "published": "Thu, 12 Nov 2026 17:36:40 +0000"
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "feed_excerpt": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "published": "Thu, 12 Nov 2026 17:17:58 +0000"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "feed_excerpt": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "published": "Thu, 12 Nov 2026 17:00:52 +0000"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "feed_excerpt": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "published": "Thu, 12 Nov 2026 17:00:00 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
