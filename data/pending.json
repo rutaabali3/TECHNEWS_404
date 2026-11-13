@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T03:16:48.637484+00:00",
+  "updated_at": "2026-11-13T18:41:16.236496+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -558,6 +558,54 @@
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "feed_excerpt": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
       "published": "Thu, 12 Nov 2026 22:42:51 +0000"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "feed_excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "published": "Fri, 13 Nov 2026 18:40:30 +0000"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "feed_excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "feed_excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "Fri, 13 Nov 2026 15:58:00 +0000"
+    },
+    {
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "feed_excerpt": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "published": "Fri, 13 Nov 2026 14:57:55 +0000"
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "feed_excerpt": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "published": "Fri, 13 Nov 2026 14:44:48 +0000"
+    },
+    {
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "feed_excerpt": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "published": "Fri, 13 Nov 2026 13:15:20 +0000"
+    },
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "feed_excerpt": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "published": "Fri, 13 Nov 2026 12:52:19 +0000"
+    },
+    {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "feed_excerpt": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "published": "Fri, 13 Nov 2026 12:28:23 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
