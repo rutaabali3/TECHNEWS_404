@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:14:45.098513+00:00",
+  "updated_at": "2026-11-14T19:02:54.357616+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -636,6 +636,30 @@
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "feed_excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "published": "Fri, 13 Nov 2026 19:37:57 +0000"
+    },
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "feed_excerpt": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "published": "Sat, 14 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "feed_excerpt": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "published": "Sat, 14 Nov 2026 17:45:04 +0000"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "feed_excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "Sat, 14 Nov 2026 17:30:00 +0000"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "feed_excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "published": "Sat, 14 Nov 2026 16:34:15 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
