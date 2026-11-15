@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:16:11.197619+00:00",
+  "updated_at": "2026-11-15T02:57:46.562946+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -672,6 +672,12 @@
       "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
       "feed_excerpt": "Even Elon Musk said the monthly fee is \"too high.\"",
       "published": "Sat, 14 Nov 2026 20:04:44 +0000"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "feed_excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
