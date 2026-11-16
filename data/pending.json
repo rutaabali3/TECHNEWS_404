@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T10:48:02.471405+00:00",
+  "updated_at": "2026-11-16T20:51:12.564530+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -726,6 +726,126 @@
       "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
       "feed_excerpt": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
       "published": "Mon, 16 Nov 2026 07:00:00 +0000"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "feed_excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "published": "Mon, 16 Nov 2026 20:07:13 +0000"
+    },
+    {
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "feed_excerpt": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "published": "Mon, 16 Nov 2026 19:53:00 +0000"
+    },
+    {
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "feed_excerpt": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+      "published": "Mon, 16 Nov 2026 19:26:55 +0000"
+    },
+    {
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "feed_excerpt": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "published": "Mon, 16 Nov 2026 19:12:02 +0000"
+    },
+    {
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "feed_excerpt": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+      "published": "Mon, 16 Nov 2026 18:54:18 +0000"
+    },
+    {
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "feed_excerpt": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+      "published": "Mon, 16 Nov 2026 18:21:14 +0000"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "feed_excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "published": "Mon, 16 Nov 2026 18:11:10 +0000"
+    },
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "feed_excerpt": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "published": "Mon, 16 Nov 2026 17:36:43 +0000"
+    },
+    {
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "feed_excerpt": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "published": "Mon, 16 Nov 2026 17:10:00 +0000"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "feed_excerpt": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "published": "Mon, 16 Nov 2026 17:02:43 +0000"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "feed_excerpt": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "published": "Mon, 16 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "feed_excerpt": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+      "published": "Mon, 16 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "feed_excerpt": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+      "published": "Mon, 16 Nov 2026 16:06:30 +0000"
+    },
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "feed_excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "published": "Mon, 16 Nov 2026 15:52:19 +0000"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "feed_excerpt": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "published": "Mon, 16 Nov 2026 15:02:34 +0000"
+    },
+    {
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "feed_excerpt": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "published": "Mon, 16 Nov 2026 14:48:13 +0000"
+    },
+    {
+      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+      "feed_excerpt": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+      "published": "Mon, 16 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "feed_excerpt": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
+      "published": "Mon, 16 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "feed_excerpt": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "published": "Mon, 16 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "feed_excerpt": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "published": "Mon, 16 Nov 2026 12:30:00 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
