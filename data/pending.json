@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T20:51:12.564530+00:00",
+  "updated_at": "2026-11-17T03:30:29.495197+00:00",
   "items": [
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -846,6 +846,30 @@
       "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
       "feed_excerpt": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
       "published": "Mon, 16 Nov 2026 12:30:00 +0000"
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "feed_excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "published": "Mon, 16 Nov 2026 23:32:32 +0000"
+    },
+    {
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "feed_excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "published": "Mon, 16 Nov 2026 22:12:31 +0000"
+    },
+    {
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "feed_excerpt": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "published": "Mon, 16 Nov 2026 22:03:02 +0000"
+    },
+    {
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "feed_excerpt": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "published": "Mon, 16 Nov 2026 21:01:02 +0000"
     }
   ],
   "last_processed_at": "2026-11-11T02:10:28.221486+00:00"
